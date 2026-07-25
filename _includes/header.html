@@ -1,0 +1,23 @@
+{% assign lang = page.lang | default: site.default_lang %}
+{% assign prefix = '' %}
+{% if lang != 'en' %}{% assign prefix = lang | prepend: '/' %}{% endif %}
+{% assign home_url = prefix | append: '/' %}
+{% assign logo_desktop = site.logo.desktop %}
+{% assign logo_mobile = site.logo.mobile %}
+{% if lang == 'zh' %}
+  {% assign logo_desktop = 'images/logo/logo-zh.svg' %}
+  {% assign logo_mobile = 'images/logo/logo-mobile-zh.svg' %}
+{% endif %}
+<div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="{{ home_url | relative_url }}"><img width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" alt="{{ site.title }}" src="{{ logo_desktop | relative_url }}" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="{{ home_url | relative_url }}"><img width="{{ site.logo.mobile_width }}" height="{{ site.logo.mobile_height }}" alt="{{ site.title }}" src="{{ logo_mobile | relative_url }}" /></a>
+    </div>
+    {% include main-menu.html %}
+    {% include language-switcher.html %}
+    {% include hamburger.html %}
+  </div>
+</div>

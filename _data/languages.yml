@@ -1,0 +1,6 @@
+- code: en
+  name: English
+  url_prefix: ""
+- code: zh
+  name: 简体中文
+  url_prefix: "/zh"

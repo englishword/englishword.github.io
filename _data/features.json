@@ -1,0 +1,35 @@
+[
+  {
+    "title": "IPS",
+    "title_zh": "IPS 音形统一",
+    "description": "Integrated Pronunciation & Spelling — unify sound and spelling by embedding pronunciation rules into the word.",
+    "description_zh": "音形统一:用音素标注符号把发音规则融入单词。",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "title_zh": "ISM 形意统一",
+    "description": "Integrated Spelling & Meaning — unify form and meaning by morpheme segmentation.",
+    "description_zh": "形意统一:用词素划分把构词规则融入单词。",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "title_zh": "IPM 音意统一",
+    "description": "Integrated Pronunciation & Meaning — grasp the inner link between sound rhythm and meaning.",
+    "description_zh": "音意统一:体会音素音律与词意的内在联系。",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

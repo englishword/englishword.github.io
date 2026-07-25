@@ -1,0 +1,61 @@
+baseurl: '/'
+permalink: pretty
+title: 'IPSM Approach'
+default_lang: en
+
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "38px"
+  desktop_width: "264px"
+
+home:
+  limit_documents: 6
+
+collections:
+  documents:
+    output: true
+    sort_by: weight
+  documents_zh:
+    output: true
+    sort_by: weight
+    permalink: /zh/documents/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "documents"
+    values:
+      layout: "document"
+      lang: en
+  - scope:
+      path: ""
+      type: "documents_zh"
+    values:
+      layout: "document"
+      lang: zh
+  - scope:
+      path: "zh"
+    values:
+      lang: zh
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+  - scripts

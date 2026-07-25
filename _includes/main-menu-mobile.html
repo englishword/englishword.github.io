@@ -1,0 +1,15 @@
+<div id="main-menu-mobile" class="main-menu-mobile">
+  {% assign mainmenu = site.data.menus.main | sort: 'weight' %}
+  {% assign lang = page.lang | default: site.default_lang %}
+  {% assign prefix = '' %}
+  {% if lang != 'en' %}{% assign prefix = lang | prepend: '/' %}{% endif %}
+  <ul>
+    {% for item in mainmenu %}
+    {% assign item_url = prefix | append: item.url %}
+    <li class="{% if page.url == item_url or page.url contains item_url %}active{% endif %}">
+      <a href="{{ item_url | relative_url }}">{% if lang == 'zh' and item.name_zh %}{{ item.name_zh }}{% else %}{{ item.name }}{% endif %}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% include language-switcher.html %}
+</div>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="290" height="48" viewBox="0 0 290 48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;display=swap');</style>
+  </defs>
+  <text x="0" y="34" font-family="'Playfair Display', Georgia, serif" font-size="36" font-weight="700" fill="#2f2f41">IPSM</text>
+  <text x="108" y="34" font-family="'Playfair Display', Georgia, serif" font-size="36" font-weight="700" fill="#E5261F">Approach</text>
+</svg>
