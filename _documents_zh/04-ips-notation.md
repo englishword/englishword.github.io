@@ -15,9 +15,8 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 
 ## 26个字母
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
 | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
+|---|---|---|---|---|---|---|
 | a | b | c | d | e | f | g |
 | **H** | **I** | **J** | **K** | **L** | **M** | **N** |
 | h | i | j | k | l | m | n |
@@ -92,9 +91,8 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 
 [b], [s], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
 | A | B | C | D | E | F | G |
+|---|---|---|---|---|---|---|
 | [ ā ] | [ bē ] | [ sē ] | [ dē ] | [ ē ] | [ ef ] | [ jē ] |
 | H | I | J | K | L | M | N |
 | [ āch ] | [ ī ] | [ jā ] | [ kā ] | [ el ] | [ em ] | [ en ] |
@@ -393,9 +391,8 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 
 熟读下面的辅音字母组合。
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
 | bl- | cl- | fl- | gl- | pl- | sl- | |
+|---|---|---|---|---|---|---|
 | br- | cr- | fr- | gr- | pr- | tr- | dr- |
 | sc- | sk- | sm- | sn- | sp- | st- | sw- |
 | scr- | spr- | str- | shr- | thr- | spl- | |
@@ -455,21 +452,21 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 
 | -ed的发音规则 | 例词 |
 |---|---|
-| 在浊辅音和元音后面 [d] | called, borrowed, moved |
-| 在清辅音后面 [t] | asked, finished, helped |
-| 在[t]音后面 [id] | wanted, started |
-| 在[d]音后面 [id] | needed, counted |
+| 在浊辅音和元音后面 [𝕖d] ⟹ [d] | call𝕖d, borrow𝕖d, mov𝕖d |
+| 在清辅音后面 [𝕖ḋ] ⟹ [t] | ask𝕖ḋ, finish𝕖ḋ, help𝕖ḋ |
+| 在[t]音后面 [ėd] ⟹ [id] | wantėd, startėd |
+| 在[d]音后面 [ėd] ⟹ [id] | needėd, countėd |
 
 ### -s/-es 后缀发音
 
-| -s(-es)的发音规则 | | 例词 |
+|  | -s(-es)的发音规则 | 例词 |
 |---|---|---|
-| 辅音后 | [s], [z], [sh], [s̃], [ch], [j]音后加-es, 读作[iz] | glasses, buzzes, washes, teaches |
-| | 清辅音后加s读作[s] | books, types |
-| | 浊辅音后加s读作[z] | bags, lines, besides |
-| 元音后 | 字母o后加-es读作[z] | tomatoes, potatoes, does |
-| | 把-y改i加-es的情况读[z] | ladies, flies |
-| | 其他读作[z] | news, days, boys, bees |
+| 辅音后 | [s], [z], [sh], [s̃], [ch], [j]音后加 -es, 读作 [ėṡ] ⟹ [iz] | glassėṡ, buzzėṡ, washėṡ, teachėṡ |
+| | 清辅音后加 s 读作 [s] ⟹ [s] | books, typ𝕖s |
+| | 浊辅音后加 s 读作 [ṡ] ⟹ [z] | bagṡ, lin𝕖ṡ, besid𝕖ṡ |
+| 元音后 | 字母 o 后加 -es 读作[𝕖ṡ] ⟹ [z] | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
+| | 把 -y 改 i 加 -es 的情况读 [𝕖ṡ] ⟹ [z] | ladi𝕖ṡ, fli𝕖ṡ |
+| | 其他读作 [ṡ] ⟹ [z] | newṡ, dayṡ, boyṡ, beeṡ |
 
 ### 特殊后缀发音
 
@@ -519,6 +516,6 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 
 ### 不发音元音字母
 
-由于末尾带有不发音字母e的单词占比很高，为了方便起见，末尾不发音的字母e不标示，仅对中间的不发音字母e进行标示。
+由于末尾带有不发音字母e的单词占比很高，为了方便起见，末尾不发音的字母e不标示，仅对处于中间的不发音字母e进行标示。
 
 如：nam𝕖ly, chang𝕖able, h𝕖art, for𝕖in, for𝕖iner, pig𝕖on, g𝕦itar, q𝕦eue, fr𝕚end

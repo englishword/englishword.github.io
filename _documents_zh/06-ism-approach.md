@@ -202,4 +202,3 @@ ante-前面、先, auto-自动, be-使…成为, bene-好, by-旁的、副的, c
 |  | - | ex | - | - | - | -X |
 |  | ay | ey | - | oy | - | -Y |
 |  | - | - | ize | - | - | -Z |
-| 其他 | ain, aire, enne, ion, itude, ment, ness,less |  |  |  |  |  |

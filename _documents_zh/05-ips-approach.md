@@ -15,15 +15,15 @@ IPA国际音标中使用"`"符号表示重音，使用""符号表示次重音；
 
 重音对单词的正确拼读非常重要，重音能决定单词中元音的拼读方式。如前缀com-，若重音在com-上，则读作"[com-]"，如comment，若重音在它之后，则读作"[co̊m-]"如command。
 
-在英语中，重音的不同位置还能决定一些单词的词性。名词重音常常在前（第一个元音），动词重音常常在后（第二个元音）。如record：当它是名词时，重音在前，读作[`re-cord]，当它是动词时，重音在后，读作[rė-`cord]。这样的词还有address，discount等。
+在英语中，重音的不同位置还能决定一些单词的词性。名词重音常常在前（第一个元音），动词重音常常在后（第二个元音）。如record：当它是名词时，重音在前，读作[\`re-cord]，当它是动词时，重音在后，读作[rė-\`cord]。这样的词还有address，discount等。
 
 在绝大多数情况下，单词的前后音节以**"重弱交替"**的形式出现，所以当确定了重音位置后，大部分音节的重读与弱读也就确定了。
 
 通常情况下，双音节词和三音节词的重读在第一个音节上。
 
-如果单词的前面有前缀，前缀通常是弱读的，重音在词根第一个元音上。例:ab`out，be`cause等。
+如果单词的前面有前缀，前缀通常是弱读的，重音在词根第一个元音上。例:ab\`out，be\`cause等。
 
-如果单词的结尾是ation，元音a也常重读，比如：trans`lation  pronunci`ation。
+如果单词的结尾是ation，元音a也常重读，比如：trans\`lation  pronunci\`ation。
 
 英语单词的重音位置，有几种固定的样式，大家可以在记忆单词时，积累经验。
 
@@ -92,12 +92,12 @@ IPA国际音标中使用"`"符号表示重音，使用""符号表示次重音；
 
 |  | 序号 | 名称 | 重、弱读情况 | 备注 |
 |---|---|---|---|---|
-| 重 ⇩ ⇩ ⇩ 弱 | 1 | 开音（长音） | 重读 | ā,ē,ī,ō,ū等（见元音表） |
-|  |  | 长弱（长音） | 重读 | å/e̊/i̊/o̊/ů+r+辅音 |
-|  |  | 闭音（短音） | 重读 | a, e, i, o, u |
-|  | 2 | 轻音（短音） | 重读或弱读 | ȧ, ė, i, |
-|  | 3 | 短弱（短音） | 弱读 | å/e̊/i̊/o̊/ů（+r+元音） |
-|  | 4 | 不发音（无音） | 更弱 | 主要指单词尾的不发音e |
+| 重 | 1 | 开音（长音） | 重读 | ā,ē,ī,ō,ū等（见元音表） |
+| ⇩ |  | 长弱（长音） | 重读 | å/e̊/i̊/o̊/ů+r+辅音 |
+| ⇩ |  | 闭音（短音） | 重读 | a, e, i, o, u |
+| ⇩ | 2 | 轻音（短音） | 重读或弱读 | ȧ, ė, i, |
+| ⇩ | 3 | 短弱（短音） | 弱读 | å/e̊/i̊/o̊/ů（+r+元音） |
+| 弱 | 4 | 不发音（无音） | 更弱 | 主要指单词尾的不发音e |
 
 ## 英语单词发音规则
 
@@ -115,30 +115,50 @@ IPA国际音标中使用"`"符号表示重音，使用""符号表示次重音；
 
 | IPA | IPS Notation |
 |---|---|
-| /æ/ | [a] 　 bad |
-| /e/ | [e],[èa] 　 bed, head |
-| /i/ | [i],[ẏ],[ė],[ėy],[ȧ],[u̇] 　 sit, system, pretty, honey, damage, minute |
-| /ɔ/ | [o] 　 hot |
-| /ʌ/ | [u],[ô],[ôu],[ôo] 　 but, love, enough, blood |
-| /ei/ | [ā],[āi],[āy],[eā],[èy],[èi] 　 late, wait, say, great, they, weight |
-| /i:/ | [ē],[ēe],[ēa],[ēi],[ēy],[iē],[ĩ] 　me, meet, mean, receive, key, belief, routine |
-| /ai/ | [ī],[ȳ] 　 nice, fly |
-| /əu/ | [ō],[ōa],[ōw],[ōu],[e̊aù] 　 go, road, slow, though, bureau |
-| /ju:/ | [ū],[ew̅],[eū] 　 duty, new, Europe |
-| /u:/ | [oo],[oū],[õ] 　 tool, group, do |
-| /u/ | [ù],[oo(k)],[oo(d)] 　 put, look, good |
-| /a:/ | [àr],[à] 　 dark, ask |
-| /au/ | [òu],[òw] 　 loud, cow |
-| /eə/ | [ār],[āir],[āer] ,[eār],[er] 　 care, fair, aerate, wear, there |
-| /iə/ | [ēer],[ēar],[ēr] 　 beer, hear, here |
-| /aiə/ | [īr] 　 fire |
-| /ɔ:/ | [or]=[ōr],[ōar][ōur],[ōu(gh)],[ã(l)],[ãu],[ãw],[(w)ãr] |
+| /æ/ | [a] 　|
+| |  bad  |
+| /e/ | [e], [èa] |
+| | bed, head |
+| /i/ | [i], [ẏ], [ė], [ėy], [ȧ], [u̇] |
+| | sit, system, pretty, honey, damage, minute |
+| /ɔ/ | [o] |
+| | hot |
+| /ʌ/ | [u], [ô], [ôu], [ôo] |
+| | but, love, enough, blood |
+| /ei/ | [ā], [āi], [āy], [eā], [èy], [èi] |
+| | late, wait, say, great, they, weight |
+| /i:/ | [ē], [ēe], [ēa], [ēi], [ēy], [iē], [ĩ] |
+| | me, meet, mean, receive, key, belief, routine |
+| /ai/ | [ī], [ȳ] |
+| | nice, fly |
+| /əu/ | [ō], [ōa], [ōw], [ōu], [e̊aù] |
+| | go, road, slow, though, bureau |
+| /ju:/ | [ū], [ew̅], [eū] |
+| | duty, new, Europe |
+| /u:/ | [oo], [oū], [õ] |
+| | tool, group, do |
+| /u/ | [ù], [oo(k)], [oo(d)] |
+| | put, look, good |
+| /a:/ | [àr], [à] |
+| | dark, ask |
+| /au/ | [òu], [òw] |
+| | loud, cow |
+| /eə/ | [ār], [āir], [āer], [eār], [er] |
+| | care, fair, aerate, wear, there |
+| /iə/ | [ēer], [ēar], [ēr] |
+| | beer, hear, here |
+| /aiə/ | [īr] |
+| | fire |
+| /ɔ:/ | [or]=[ōr], [ōar], [ōur], [ōu(gh)], [ã(l)], [ãu], [ãw], [(w)ãr] |
 |  | port, fore, board, your, bought, tall, author, law, war |
-| /uə/ | [ūr] 　 during |
-| /ə/ | [e̊], [å], [i̊], [o̊],[ů], [o̊u(s)] |
-| /ə:/ | [e̊r],[år],[i̊r],[o̊r],[ůr],[e̊ar],[o̊ur],[e̊ur] |
-|  | her, collar, first, word, occur, learn, xxx, xxxxx |
-| /ɔi/ | [oi],[oẏ] 　 oil, enjoy |
+| /uə/ | [ūr] |
+| | during |
+| /ə/ | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)] |
+| | åbout, co̊mputer, dangero̊us|
+| /ə:/ | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur] |
+|  | her, collar, first, word, occur, learn |
+| /ɔi/ | [oi], [oẏ] |
+| | oil, enjoy |
 
 ## 流音
 
@@ -204,28 +224,28 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 
 **辅音音素发音规则表**
 
-| 清辅音 |  |  |  |  | 浊辅音 |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| 读音 | 字母 |  | 例词 | 说明 | 读音 | 字母 | 例词 | 说明 |
-| [p] | p |  | pen |  | [b] | b | bed |  |
-| [t] | t |  | time |  | [d] | d | day |  |
-| [k] | k / c |  | kite / can | a,o,u,辅音前 / 词尾 | [g] | g | go | g在a,o,u前 |
-| [f] | f / ph / gh |  | four / photo / tough |  | [v] | v | very |  |
-| [s] | s / c |  | say / cent | e,i,y前 | [z] | z / ṡ | zoo / rise | 元音后，或浊辅音后 |
-| [th] | th |  | think |  | [ṫh] | ṫh | this | 代冠介连 |
-| [sh] | sh / ċh |  | ship / machine |  | [s̃] | s̃ | vision | 特殊后缀 |
-| [ch] | ch / tch |  | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | 在e, i, y前 |
-|  |  |  |  |  | [l] | l | like |  |
-|  |  |  |  |  | [m] | m | map |  |
-|  |  |  |  |  | [n] | n | nine |  |
-|  |  |  |  |  | [ng] | ng | king | n在[k]前 |
-|  |  |  |  |  | [r] | r | red |  |
-|  |  |  |  |  | [w] | w | wall |  |
-|  |  |  |  |  | [y] | y | yes | y在词首 |
-|  |  |  |  |  | [ks] | x | excess | 词尾或辅音前 |
-| (*) forget, give, girl, finger, tiger, begin等例外。两相同辅音重叠时，只发一个辅音。如：kick, scent, little等。 |  |  |  |  | [gz] | ẋ | exact | 元音前 |
-| [h] | h | his |  |  |  |  |  |  |
-| [kw] | qu | quiet |  |  |  |  |  |  |
+|      | 清          | 辅                   | 音 |      | 浊            | 辅                    | 音 |
+|---|---|---|---|---|---|---|---|
+|  | 字母 | 例词 | 说明 |  | 字母 | 例词 | 说明 |
+| [p] | p | pen |  | [b] | b | bed |  |
+| [t] | t | time |  | [d] | d | day |  |
+| [k] | k / c | kite / can | a,o,u,辅音前 / 词尾 | [g] | g | go | g在a,o,u前 |
+| [f] | f / ph / gh | four / photo / tough |  | [v] | v | very |  |
+| [s] | s / c | say / cent | e,i,y前 | [z] | z / ṡ | zoo / rise | 元音后，或浊辅音后 |
+| [th] | th | think |  | [ṫh] | ṫh | this | 代冠介连 |
+| [sh] | sh / ċh | ship / machine |  | [s̃] | s̃ | vision | 特殊后缀 |
+| [ch] | ch / tch | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | 在e, i, y前 |
+| [h] | h | his |  | [l] | l | like |  |
+| [kw] | qu | quiet |  | [m] | m | map |  |
+|  |  |  |  | [n] | n | nine |  |
+|  |  |  |  | [ng] | ng | king | n在[k]前 |
+|  |  |  |  | [r] | r | red |  |
+|  |  |  |  | [w] | w | wall |  |
+|  |  |  |  | [y] | y | yes | y在词首 |
+|  |  |  |  | [ks] | x | excess | 词尾或辅音前 |
+|  |  |  |  | [gz] | ẋ | exact | 元音前 |
+
+(*) forget, give, girl, finger, tiger, begin等例外。两相同辅音重叠时，只发一个辅音。如：kick, scent, little等。
 
 ## 辅音组合
 
@@ -233,7 +253,7 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 
 **表4　常用辅音组合**
 
-|  |  |
+|  | 辅音组合 |
 |---|---|
 | 辅音+l | bl-, cl-, fl-,gl-, pl-,sl- |
 | 辅音+r | br-, cr-, fr-, gr-, pr-, tr-, dr- |
@@ -278,7 +298,7 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 
 **表7　-s(-es)后缀的发音规则**
 
-| -s(-es)的发音规则 |  | 例词 |
+|  | -s(-es)的发音规则 | 例词 |
 |---|---|---|
 | 辅音后 | [s], [z], [sh], [s̃], [ch], [j]音后加-es, 读作[iz] | glasses, buzzes, washes, teaches |
 |  | 清辅音后加s读作[s] | books, types |
@@ -313,80 +333,6 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 | -sṭen | lisṭen, cḥrisṭen |
 | -sṭle | whisṭle |
 | 其他 | iṣland |
-
-## 元音规则发音汇总
-
-至此，我们可以看到，将发音不规则的几种情况独立出来后，元音表便可简化为表14所示，只要知道一个单词的重音位置，便能准确读准大部分的单词发音。
-
-**表14　元音音素规则发音表**
-
-|  | 字母 |  | 字母 | 字母 |
-|---|---|---|---|---|
-| A | a |  | àr | ā,āi,āy, |
-| E | e, |  | e̊r, år, i̊r, o̊r,ůr, e̊ar, o̊ur，e̊ur（长弱） | ē,ēe,ēa,ēi,ēy, iē, |
-| I/Y | i, | ẏ,ė,ėy,ȧ,（轻读） |  | ī,ȳ, |
-| O | o |  | or,ã(l),ãu,ãw,(w)ãr | ō,ōa,ōw, |
-| U | u |  | e̊, å, i̊, o̊，ů, o̊u(s) （短弱） | ū,oo |
-
-## 不规则发音汇总
-
-英语中有少量的单词，主要是常用词，书写上发生了不规则化，现将其归纳如下：
-
-1）重音移位
-
-第三章中前面标示有▲的单词皆为重音移位情况。
-
-2） 元音字母窜位
-
-they, eight, all, auto, law, war, double, love, come, woman, women, do等。
-
-3） g字母在e，i，y前仍发[g]音
-
-eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
-
-4） 开音节闭音化
-
-give, come, love, there, where等。
-
-5） 闭音节开音化
-
-常见的几类组合有：
-
-a). ild
-
-例词：child, wild
-
-b). ind
-
-例词：find, grind
-
-c). ight
-
-例词：bright, flight
-
-d). old
-
-例词：cold, gold
-
-e). olt
-
-例词：bolt, colt
-
-f). ost
-
-例词：most, post
-
-6） 外来词
-
-café
-
-fiancé, ballet, plateau等。
-
-7）其他
-
-极少数的词，发音属特例，应单独记忆，归纳如下：
-
-heart, one, busy, bury, buy, tortoise, island, isle, islet, any, many, pencil, Christmas, friend, soldier, floor, door, could, would, should.
 
 ## 美国英语与英国英语的区别
 

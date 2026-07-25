@@ -171,7 +171,7 @@ weight: 8
 
 图3.辅音字母关系图
 
-<!-- TODO: 流程图见 IPSM_black.pdf,待截图或重绘 -->
+![辅音字母关系图](/images/documents/08-consonant-relationship.svg)
 
 - b和p，都是塞音，一个为浊，一个为清，字形相似，都带有"一股强大的力"的意思。
 
@@ -217,7 +217,7 @@ weight: 8
 
 图4.元音字母关系图
 
-<!-- TODO: 流程图见 IPSM_black.pdf,待截图或重绘 -->
+![元音字母关系图](/images/documents/08-vowel-relationship.svg)
 
 **元音组合表**
 
