@@ -171,7 +171,7 @@ From the consonant letter relationship diagram and the vowel letter relationship
 
 Figure 3. Consonant letter relationship diagram
 
-<!-- TODO: flowchart — see IPSM_black.pdf, to be screenshotted or redrawn -->
+![Consonant letter relationship diagram](/images/documents/08-consonant-relationship-en.svg)
 
 - b and p are both stops, one voiced and one voiceless; their forms are similar, and both carry the meaning of "a powerful force."
 
@@ -217,7 +217,7 @@ Table 21 shows the vowel letter combination table; from the table one can see th
 
 Figure 4. Vowel letter relationship diagram
 
-<!-- TODO: flowchart — see IPSM_black.pdf, to be screenshotted or redrawn -->
+![Vowel letter relationship diagram](/images/documents/08-vowel-relationship-en.svg)
 
 **Vowel Combination Table**
 

@@ -199,4 +199,3 @@ Morphemes are composed of vowel phonemes and consonant phonemes. Since prefixes 
 |  | - | ex | - | - | - | -X |
 |  | ay | ey | - | oy | - | -Y |
 |  | - | - | ize | - | - | -Z |
-| Other | ain, aire, enne, ion, itude, ment, ness,less |  |  |  |  |  |

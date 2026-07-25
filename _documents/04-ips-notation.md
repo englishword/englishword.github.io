@@ -15,9 +15,8 @@ A second-grade primary school student who has mastered the 26 English letters an
 
 ## The 26 Letters
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
 | **A** | **B** | **C** | **D** | **E** | **F** | **G** |
+|---|---|---|---|---|---|---|
 | a | b | c | d | e | f | g |
 | **H** | **I** | **J** | **K** | **L** | **M** | **N** |
 | h | i | j | k | l | m | n |
@@ -92,9 +91,8 @@ Through the pronunciation of the 26 letters, one can master 16 consonants:
 
 [b], [s], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
 | A | B | C | D | E | F | G |
+|---|---|---|---|---|---|---|
 | [ ā ] | [ bē ] | [ sē ] | [ dē ] | [ ē ] | [ ef ] | [ jē ] |
 | H | I | J | K | L | M | N |
 | [ āch ] | [ ī ] | [ jā ] | [ kā ] | [ el ] | [ em ] | [ en ] |
@@ -393,9 +391,8 @@ Note: [y] is the /j/ of IPA; this method restores its original form.
 
 Read the following consonant letter combinations until familiar.
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
 | bl- | cl- | fl- | gl- | pl- | sl- | |
+|---|---|---|---|---|---|---|
 | br- | cr- | fr- | gr- | pr- | tr- | dr- |
 | sc- | sk- | sm- | sn- | sp- | st- | sw- |
 | scr- | spr- | str- | shr- | thr- | spl- | |
@@ -455,21 +452,21 @@ Some other suffixes, such as -ly, -ous, -ity, etc., are pronounced according to 
 
 | -ed pronunciation rule | Example |
 |---|---|
-| After voiced consonants and vowels [d] | called, borrowed, moved |
-| After voiceless consonants [t] | asked, finished, helped |
-| After the [t] sound [id] | wanted, started |
-| After the [d] sound [id] | needed, counted |
+| After voiced consonants and vowels [𝕖d] ⟹ [d] | call𝕖d, borrow𝕖d, mov𝕖d |
+| After voiceless consonants [𝕖ḋ] ⟹ [t] | ask𝕖ḋ, finish𝕖ḋ, help𝕖ḋ |
+| After the [t] sound [ėd] ⟹ [id] | wantėd, startėd |
+| After the [d] sound [ėd] ⟹ [id] | needėd, countėd |
 
 ### The -s/-es Suffix
 
-| -s(-es) pronunciation rule | | Example |
+| | -s(-es) pronunciation rule | Example |
 |---|---|---|
-| After consonants | after [s], [z], [sh], [s̃], [ch], [j] sounds add -es, pronounced [iz] | glasses, buzzes, washes, teaches |
-| | after voiceless consonants add s, pronounced [s] | books, types |
-| | after voiced consonants add s, pronounced [z] | bags, lines, besides |
-| After vowels | after the letter o add -es, pronounced [z] | tomatoes, potatoes, does |
-| | change -y to i and add -es, pronounced [z] | ladies, flies |
-| | otherwise pronounced [z] | news, days, boys, bees |
+| After consonants | after [s], [z], [sh], [s̃], [ch], [j] sounds add -es, pronounced [ėṡ] ⟹ [iz] | glassėṡ, buzzėṡ, washėṡ, teachėṡ |
+| | after voiceless consonants add s, pronounced [s] ⟹ [s] | books, typ𝕖s |
+| | after voiced consonants add s, pronounced [ṡ] ⟹ [z] | bagṡ, lin𝕖ṡ, besid𝕖ṡ |
+| After vowels | after the letter o add -es, pronounced [𝕖ṡ] ⟹ [z] | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
+| | change -y to i and add -es, pronounced [𝕖ṡ] ⟹ [z] | ladi𝕖ṡ, fli𝕖ṡ |
+| | otherwise pronounced [ṡ] ⟹ [z] | newṡ, dayṡ, boyṡ, beeṡ |
 
 ### Special Suffix Pronunciations
 
@@ -519,6 +516,6 @@ Silent letters may be indicated in various ways — strikethrough, slashes, dots
 
 ### Silent Vowel Letters
 
-Since words ending with a silent e make up a large proportion, for convenience the silent letter e at the end is not marked; only the silent letter e in the middle of a word is marked.
+Since words ending with a silent e make up a large proportion, for convenience the silent letter e at the end is not marked; only the silent letter e situated in the middle of a word is marked.
 
 For example: nam𝕖ly, chang𝕖able, h𝕖art, for𝕖in, for𝕖iner, pig𝕖on, g𝕦itar, q𝕦eue, fr𝕚end

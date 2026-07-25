@@ -60,61 +60,61 @@ The pronunciation of vowels likewise carries rich meaning; the meaning of a vowe
 
 ### Meaning of Consonant Phonemes
 
-- [b]: burst, explode, break, strip, block,
-- [c]: run, go, take, grasp, sing, clamor
-- [d]: heavy, sinking,
-- [f]: wind, blow, fly, light,
-- [g]: earth, big, life, give
-- [h]: high, blow, exhale,
-- [j]: joyful, connect, jet,
-- [k]: open, knot, kick, strike,
-- [l]: line, pull, connect,
-- [m]: mother, female, mountain, move
-- [n]: birth, negation
-- [p]: flat, pat, strike, push
-- [r]: grind, rub, rough, rise, emit,
-- [s]: exhale, inhale, sit,
-- [t]: mark, strike, twist
-- [v]: look, spin, turn, victory
-- [w]: water, wave, go, move,
+- \[b]: burst, explode, break, strip, block,
+- \[c]: run, go, take, grasp, sing, clamor
+- \[d]: heavy, sinking,
+- \[f]: wind, blow, fly, light,
+- \[g]: earth, big, life, give
+- \[h]: high, blow, exhale,
+- \[j]: joyful, connect, jet,
+- \[k]: open, knot, kick, strike,
+- \[l]: line, pull, connect,
+- \[m]: mother, female, mountain, move
+- \[n]: birth, negation
+- \[p]: flat, pat, strike, push
+- \[r]: grind, rub, rough, rise, emit,
+- \[s]: exhale, inhale, sit,
+- \[t]: mark, strike, twist
+- \[v]: look, spin, turn, victory
+- \[w]: water, wave, go, move,
 
 ### Meaning of Consonant Phoneme Combinations
 
-- [bl]: brightness, obstruction, color, vagueness, blow;
-- [br]: arc, split, break, produce;
-- [cl]: cross, sacred, faith, separate, merge, gather;
-- [cr]: cry, climb, rise;
-- [dr]: drag, violent, coarse, dry/wet, fall, pull;
-- [dw]: low, short, brief;
-- [fl]: flat, flow, bend, fly;
-- [fr]: fracture, deceive;
-- [gl]: smooth, bright, shine, radiance;
-- [gn]: know, node, tumor;
-- [gr]: grind, carve, write, grasp, grain, significant, grow, increase;
-- [kn]: know, joint, knock;
-- [ph]: speak, blow, appear;
-- [pl]: flat/calm, bend, feather, fold, speak;
-- [pr]: front, first, original, seize, selfish, press;
-- [qu]: take, seek;
-- [sc]: surface, climb, cut, look, carve, ascend;
-- [scr]: sharp, scrape, fight, grasp;
-- [shr]: shrink, wrap, repent, shriek, contract, less, refined;
-- [sk]: surface, skip/slide;
-- [sl]: wetness, suck, slow/loose, slender, thin, slip;
-- [sm]: smear, smell, bind/beat, small, tiny;
-- [sn]: nasal, secret;
-- [sp]: small spot, scatter, speak, spin;
-- [spl]: split, spot, splash;
-- [spr]: radiate, spray, splash;
-- [squ]: settle, squeeze, press;
-- [st]: stand, stay, still, segment, spike;
-- [str]: pull, drag, noise;
-- [sw]: bend, swing, sway;
-- [thr]: tremble, strike, leap, through;
-- [tr]: through, wear, poke, pull;
-- [tw]: twist, two, double;
-- [wh]: turn, question;
-- [wr]: twist, bend, wind, roll, wrinkle, wrench;
+- \[bl]: brightness, obstruction, color, vagueness, blow;
+- \[br]: arc, split, break, produce;
+- \[cl]: cross, sacred, faith, separate, merge, gather;
+- \[cr]: cry, climb, rise;
+- \[dr]: drag, violent, coarse, dry/wet, fall, pull;
+- \[dw]: low, short, brief;
+- \[fl]: flat, flow, bend, fly;
+- \[fr]: fracture, deceive;
+- \[gl]: smooth, bright, shine, radiance;
+- \[gn]: know, node, tumor;
+- \[gr]: grind, carve, write, grasp, grain, significant, grow, increase;
+- \[kn]: know, joint, knock;
+- \[ph]: speak, blow, appear;
+- \[pl]: flat/calm, bend, feather, fold, speak;
+- \[pr]: front, first, original, seize, selfish, press;
+- \[qu]: take, seek;
+- \[sc]: surface, climb, cut, look, carve, ascend;
+- \[scr]: sharp, scrape, fight, grasp;
+- \[shr]: shrink, wrap, repent, shriek, contract, less, refined;
+- \[sk]: surface, skip/slide;
+- \[sl]: wetness, suck, slow/loose, slender, thin, slip;
+- \[sm]: smear, smell, bind/beat, small, tiny;
+- \[sn]: nasal, secret;
+- \[sp]: small spot, scatter, speak, spin;
+- \[spl]: split, spot, splash;
+- \[spr]: radiate, spray, splash;
+- \[squ]: settle, squeeze, press;
+- \[st]: stand, stay, still, segment, spike;
+- \[str]: pull, drag, noise;
+- \[sw]: bend, swing, sway;
+- \[thr]: tremble, strike, leap, through;
+- \[tr]: through, wear, poke, pull;
+- \[tw]: twist, two, double;
+- \[wh]: turn, question;
+- \[wr]: twist, bend, wind, roll, wrinkle, wrench;
 
 ## Consonants Are Static, Vowels Are Dynamic
 

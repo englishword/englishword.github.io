@@ -15,15 +15,15 @@ Stress refers to vowels, not consonants; a consonant can form a stressed syllabl
 
 Stress is very important for the correct pronunciation of a word; stress determines how the vowels in a word are read. For example, the prefix com-: if the stress falls on com-, it is read "[com-]", as in comment; if the stress falls after it, it is read "[co̊m-]", as in command.
 
-In English, the position of stress can also determine the part of speech of some words. Nouns are often stressed on the front (the first vowel), while verbs are often stressed on the back (the second vowel). For example, record: when it is a noun, the stress is on the front, read [`re-cord]; when it is a verb, the stress is on the back, read [rė-`cord]. Other such words include address, discount, etc.
+In English, the position of stress can also determine the part of speech of some words. Nouns are often stressed on the front (the first vowel), while verbs are often stressed on the back (the second vowel). For example, record: when it is a noun, the stress is on the front, read [\`re-cord]; when it is a verb, the stress is on the back, read [rė-\`cord]. Other such words include address, discount, etc.
 
 In the vast majority of cases, the syllables at the front and back of a word appear in a **"stress-unstressed alternation"**; therefore, once the stress position is determined, the stressed or unstressed reading of most syllables is also determined.
 
 Under normal circumstances, the stress of two-syllable and three-syllable words falls on the first syllable.
 
-If a word has a prefix at the front, the prefix is usually unstressed, and the stress falls on the first vowel of the root. For example: ab`out, be`cause, etc.
+If a word has a prefix at the front, the prefix is usually unstressed, and the stress falls on the first vowel of the root. For example: ab\`out, be\`cause, etc.
 
-If a word ends in -ation, the vowel a is also often stressed; for example: trans`ation, pronunci`ation.
+If a word ends in -ation, the vowel a is also often stressed; for example: trans\`ation, pronunci\`ation.
 
 The stress position of English words has several fixed patterns; one can accumulate experience while memorizing words.
 
@@ -92,12 +92,12 @@ A word usually has only one or two stressed syllables; the rest are unstressed. 
 
 |  | No. | Name | Stressed/Unstressed | Note |
 |---|---|---|---|---|
-| Stressed ⇩ ⇩ ⇩ Unstressed | 1 | Open sound (long) | stressed | ā, ē, ī, ō, ū, etc. (see vowel table) |
-|  |  | Long weak (long) | stressed | å/e̊/i̊/o̊/ů+r+consonant |
-|  |  | Closed sound (short) | stressed | a, e, i, o, u |
-|  | 2 | Light sound (short) | stressed or unstressed | ȧ, ė, i, |
-|  | 3 | Short weak (short) | unstressed | å/e̊/i̊/o̊/ů (+r+vowel) |
-|  | 4 | Silent (no sound) | even weaker | mainly the word-final silent e |
+| Stressed | 1 | Open sound (long) | stressed | ā, ē, ī, ō, ū, etc. (see vowel table) |
+| ⇩ |  | Long weak (long) | stressed | å/e̊/i̊/o̊/ů+r+consonant |
+| ⇩ |  | Closed sound (short) | stressed | a, e, i, o, u |
+| ⇩ | 2 | Light sound (short) | stressed or unstressed | ȧ, ė, i, |
+| ⇩ | 3 | Short weak (short) | unstressed | å/e̊/i̊/o̊/ů (+r+vowel) |
+| Unstressed | 4 | Silent (no sound) | even weaker | mainly the word-final silent e |
 
 ## English Word Pronunciation Rules
 
@@ -115,30 +115,50 @@ Expanding on the basic vowel table gives the following table.
 
 | IPA | IPS Notation |
 |---|---|
-| /æ/ | [a] 　 bad |
-| /e/ | [e],[èa] 　 bed, head |
-| /i/ | [i],[ẏ],[ė],[ėy],[ȧ],[u̇] 　 sit, system, pretty, honey, damage, minute |
-| /ɔ/ | [o] 　 hot |
-| /ʌ/ | [u],[ô],[ôu],[ôo] 　 but, love, enough, blood |
-| /ei/ | [ā],[āi],[āy],[eā],[èy],[èi] 　 late, wait, say, great, they, weight |
-| /i:/ | [ē],[ēe],[ēa],[ēi],[ēy],[iē],[ĩ] 　me, meet, mean, receive, key, belief, routine |
-| /ai/ | [ī],[ȳ] 　 nice, fly |
-| /əu/ | [ō],[ōa],[ōw],[ōu],[e̊aù] 　 go, road, slow, though, bureau |
-| /ju:/ | [ū],[ew̅],[eū] 　 duty, new, Europe |
-| /u:/ | [oo],[oū],[õ] 　 tool, group, do |
-| /u/ | [ù],[oo(k)],[oo(d)] 　 put, look, good |
-| /a:/ | [àr],[à] 　 dark, ask |
-| /au/ | [òu],[òw] 　 loud, cow |
-| /eə/ | [ār],[āir],[āer] ,[eār],[er] 　 care, fair, aerate, wear, there |
-| /iə/ | [ēer],[ēar],[ēr] 　 beer, hear, here |
-| /aiə/ | [īr] 　 fire |
-| /ɔ:/ | [or]=[ōr],[ōar][ōur],[ōu(gh)],[ã(l)],[ãu],[ãw],[(w)ãr] |
+| /æ/ | [a] 　|
+| |  bad  |
+| /e/ | [e], [èa] |
+| | bed, head |
+| /i/ | [i], [ẏ], [ė], [ėy], [ȧ], [u̇] |
+| | sit, system, pretty, honey, damage, minute |
+| /ɔ/ | [o] |
+| | hot |
+| /ʌ/ | [u], [ô], [ôu], [ôo] |
+| | but, love, enough, blood |
+| /ei/ | [ā], [āi], [āy], [eā], [èy], [èi] |
+| | late, wait, say, great, they, weight |
+| /i:/ | [ē], [ēe], [ēa], [ēi], [ēy], [iē], [ĩ] |
+| | me, meet, mean, receive, key, belief, routine |
+| /ai/ | [ī], [ȳ] |
+| | nice, fly |
+| /əu/ | [ō], [ōa], [ōw], [ōu], [e̊aù] |
+| | go, road, slow, though, bureau |
+| /ju:/ | [ū], [ew̅], [eū] |
+| | duty, new, Europe |
+| /u:/ | [oo], [oū], [õ] |
+| | tool, group, do |
+| /u/ | [ù], [oo(k)], [oo(d)] |
+| | put, look, good |
+| /a:/ | [àr], [à] |
+| | dark, ask |
+| /au/ | [òu], [òw] |
+| | loud, cow |
+| /eə/ | [ār], [āir], [āer], [eār], [er] |
+| | care, fair, aerate, wear, there |
+| /iə/ | [ēer], [ēar], [ēr] |
+| | beer, hear, here |
+| /aiə/ | [īr] |
+| | fire |
+| /ɔ:/ | [or]=[ōr], [ōar], [ōur], [ōu(gh)], [ã(l)], [ãu], [ãw], [(w)ãr] |
 |  | port, fore, board, your, bought, tall, author, law, war |
-| /uə/ | [ūr] 　 during |
-| /ə/ | [e̊], [å], [i̊], [o̊],[ů], [o̊u(s)] |
-| /ə:/ | [e̊r],[år],[i̊r],[o̊r],[ůr],[e̊ar],[o̊ur],[e̊ur] |
-|  | her, collar, first, word, occur, learn, xxx, xxxxx |
-| /ɔi/ | [oi],[oẏ] 　 oil, enjoy |
+| /uə/ | [ūr] |
+| | during |
+| /ə/ | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)] |
+| | åbout, co̊mputer, dangero̊us|
+| /ə:/ | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur] |
+|  | her, collar, first, word, occur, learn |
+| /ɔi/ | [oi], [oẏ] |
+| | oil, enjoy |
 
 ## Liquids
 
@@ -204,28 +224,28 @@ The detailed rules for the pronunciation of consonant letters are shown in the t
 
 **Consonant Phoneme Pronunciation Rules Table**
 
-| Voiceless |  |  |  |  | Voiced |  |  |  |
-|---|---|---|---|---|---|---|---|---|
-| Sound | Letter |  | Example | Note | Sound | Letter | Example | Note |
-| [p] | p |  | pen |  | [b] | b | bed |  |
-| [t] | t |  | time |  | [d] | d | day |  |
-| [k] | k / c |  | kite / can | before a, o, u, consonants / at the end | [g] | g | go | g before a, o, u |
-| [f] | f / ph / gh |  | four / photo / tough |  | [v] | v | very |  |
-| [s] | s / c |  | say / cent | before e, i, y | [z] | z / ṡ | zoo / rise | after vowels, or after voiced consonants |
-| [th] | th |  | think |  | [ṫh] | ṫh | this | pronouns, articles, prepositions, conjunctions |
-| [sh] | sh / ċh |  | ship / machine |  | [s̃] | s̃ | vision | special suffixes |
-| [ch] | ch / tch |  | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | before e, i, y |
-|  |  |  |  |  | [l] | l | like |  |
-|  |  |  |  |  | [m] | m | map |  |
-|  |  |  |  |  | [n] | n | nine |  |
-|  |  |  |  |  | [ng] | ng | king | n before [k] |
-|  |  |  |  |  | [r] | r | red |  |
-|  |  |  |  |  | [w] | w | wall |  |
-|  |  |  |  |  | [y] | y | yes | y at the beginning of a word |
-|  |  |  |  |  | [ks] | x | excess | at the end or before a consonant |
-| (*) forget, give, girl, finger, tiger, begin, etc. are exceptions. When two identical consonants are doubled, only one consonant is pronounced. For example: kick, scent, little, etc. |  |  |  |  | [gz] | ẋ | exact | before a vowel |
-| [h] | h | his |  |  |  |  |  |  |
-| [kw] | qu | quiet |  |  |  |  |  |  |
+|  | Voiceless |  |  |  | Voiced |  |  |
+|---|---|---|---|---|---|---|---|
+|  | Letter | Example | Note |  | Letter | Example | Note |
+| [p] | p | pen |  | [b] | b | bed |  |
+| [t] | t | time |  | [d] | d | day |  |
+| [k] | k / c | kite / can | before a, o, u, consonants / at the end | [g] | g | go | g before a, o, u |
+| [f] | f / ph / gh | four / photo / tough |  | [v] | v | very |  |
+| [s] | s / c | say / cent | before e, i, y | [z] | z / ṡ | zoo / rise | after vowels, or after voiced consonants |
+| [th] | th | think |  | [ṫh] | ṫh | this | pronouns, articles, prepositions, conjunctions |
+| [sh] | sh / ċh | ship / machine |  | [s̃] | s̃ | vision | special suffixes |
+| [ch] | ch / tch | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | before e, i, y |
+| [h] | h | his |  | [l] | l | like |  |
+| [kw] | qu | quiet |  | [m] | m | map |  |
+|  |  |  |  | [n] | n | nine |  |
+|  |  |  |  | [ng] | ng | king | n before [k] |
+|  |  |  |  | [r] | r | red |  |
+|  |  |  |  | [w] | w | wall |  |
+|  |  |  |  | [y] | y | yes | y at the beginning of a word |
+|  |  |  |  | [ks] | x | excess | at the end or before a consonant |
+|  |  |  |  | [gz] | ẋ | exact | before a vowel |
+
+(*) forget, give, girl, finger, tiger, begin, etc. are exceptions. When two identical consonants are doubled, only one consonant is pronounced. For example: kick, scent, little, etc.
 
 ## Consonant Combinations
 
@@ -233,7 +253,7 @@ Below are common consonant combinations. Consonant combinations, like consonants
 
 **Table 4 — Common Consonant Combinations**
 
-|  |  |
+|  | Consonant combinations |
 |---|---|
 | Consonant + l | bl-, cl-, fl-,gl-, pl-,sl- |
 | Consonant + r | br-, cr-, fr-, gr-, pr-, tr-, dr- |
@@ -278,7 +298,7 @@ The pronunciation rules for -ed and -s(-es) are fixed, so for simplicity this bo
 
 **Table 7 — Pronunciation Rules for the -s(-es) Suffix**
 
-| -s(-es) pronunciation rule |  | Example |
+|  | -s(-es) pronunciation rule | Example |
 |---|---|---|
 | After consonants | after [s], [z], [sh], [s̃], [ch], [j] sounds add -es, pronounced [iz] | glasses, buzzes, washes, teaches |
 |  | after voiceless consonants add s, pronounced [s] | books, types |
@@ -313,80 +333,6 @@ Silent consonant letters are indicated by a horizontal line through the middle o
 | -sṭen | lisṭen, cḥrisṭen |
 | -sṭle | whisṭle |
 | Other | iṣland |
-
-## Summary of Regular Vowel Pronunciation
-
-At this point, we can see that, after separating out the several cases of irregular pronunciation, the vowel table can be simplified as shown in Table 14; knowing the stress position of a word, one can accurately pronounce most of the word.
-
-**Table 14 — Regular Pronunciation Table of Vowel Phonemes**
-
-|  | Letter |  | Letter | Letter |
-|---|---|---|---|---|
-| A | a |  | àr | ā,āi,āy, |
-| E | e, |  | e̊r, år, i̊r, o̊r,ůr, e̊ar, o̊ur，e̊ur（long weak） | ē,ēe,ēa,ēi,ēy, iē, |
-| I/Y | i, | ẏ,ė,ėy,ȧ,（light） |  | ī,ȳ, |
-| O | o |  | or,ã(l),ãu,ãw,(w)ãr | ō,ōa,ōw, |
-| U | u |  | e̊, å, i̊, o̊，ů, o̊u(s) （short weak） | ū,oo |
-
-## Summary of Irregular Pronunciation
-
-A small number of English words — mainly common words — have become irregular in spelling; they are summarized below:
-
-1) Stress shift
-
-In Chapter 3, words marked with ▲ are all cases of stress shift.
-
-2) Vowel-letter displacement
-
-they, eight, all, auto, law, war, double, love, come, woman, women, do, etc.
-
-3) The letter g is still pronounced [g] before e, i, y
-
-eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
-
-4) Open syllable becoming closed
-
-give, come, love, there, where, etc.
-
-5) Closed syllable becoming open
-
-Common combinations include:
-
-a). ild
-
-Example: child, wild
-
-b). ind
-
-Example: find, grind
-
-c). ight
-
-Example: bright, flight
-
-d). old
-
-Example: cold, gold
-
-e). olt
-
-Example: bolt, colt
-
-f). ost
-
-Example: most, post
-
-6) Loanwords
-
-café
-
-fiancé, ballet, plateau, etc.
-
-7) Other
-
-A very small number of words have exceptional pronunciation and should be memorized individually; they are summarized below:
-
-heart, one, busy, bury, buy, tortoise, island, isle, islet, any, many, pencil, Christmas, friend, soldier, floor, door, could, would, should.
 
 ## Differences Between American and British English
 

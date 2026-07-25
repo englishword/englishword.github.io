@@ -17,19 +17,19 @@ Memorizing an English word is, in essence, the process of linking the word's thr
 
 As is well known, Chinese is a logographic (or morphographic) writing system, whereas English is a phonographic writing system; the two languages differ fundamentally in their encoding. For Chinese, the written form is the most crucial link in constructing meaning; for English, speech sound is the most crucial link in constructing meaning. Chinese characters revolve around the written form, English words revolve around pronunciation, and the key to memorizing each lies respectively in the written form and in pronunciation. Because Chinese students develop morphographic thinking habits from childhood and lack an English speech-sound environment, when they first learn English they tend to treat English vocabulary as random strings of characters akin to numerals and memorize them as such. Failing to correctly summarize the internal formation patterns of English words, many students forcibly bind the word's pronunciation, part of speech, and Chinese meaning to its spelling for memorization, greatly increasing their study burden.
 
-<!-- TODO: flowchart — see IPSM_black.pdf, to be screenshotted or redrawn -->
+![The common but wrong way to memorize](/images/documents/02-wrong-memorization-en.svg)
 
 Let us first examine the most fundamental encoding process of the two languages, to explain the misconception into which English learning has fallen.
 
 As shown in the figure, the encoding process of Chinese characters is: strokes (horizontal, vertical, left-falling, right-falling, turning) first form radicals and components; these radicals and components then form characters; and finally the characters form vocabulary.
 
-<!-- TODO: flowchart — see IPSM_black.pdf, to be screenshotted or redrawn -->
+![Chinese character encoding](/images/documents/02-cn-encoding-en.svg)
 
 As shown in the figure, the encoding process of English is: letters form phonemes; phonemes form morphemes; and morphemes form words.
 
 From the comparison of logographic and phonographic writing above, we can see that the two differ greatly in the essence of their encoding. In the encoding process of a logographic script, the written form that carries meaning is the key to encoding, while pronunciation is imposed. In the encoding process of a phonographic script, pronunciation is the key to encoding, while meaning is largely imposed.
 
-<!-- TODO: flowchart — see IPSM_black.pdf, to be screenshotted or redrawn -->
+![English encoding](/images/documents/02-en-encoding-en.svg)
 
 However, which parts of a word are phonemes and which are morphemes is not obvious; beginners cannot effectively distinguish them and can only memorize the whole word indiscriminately, rigidly linking the Chinese meaning, part of speech, and pronunciation to the written form.
 
