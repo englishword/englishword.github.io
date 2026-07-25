@@ -16,5 +16,7 @@ bodyClass: "page-search"
     </div>
   </div>
 </div>
-<script>window.WORDS_URL = "{{ '/assets/data/words.json' | relative_url }}";</script>
+{% assign words_json = '/assets/data/words.json' %}
+{% if page.lang == 'zh' %}{% assign words_json = '/assets/data/words_zh.json' %}{% endif %}
+<script>window.WORDS_URL = "{{ words_json | relative_url }}";</script>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
