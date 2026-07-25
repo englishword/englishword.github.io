@@ -1,103 +1,62 @@
-# Jekyll Serif Theme
+# IPSM Approach
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
+> [中文](#zh) below.
 
-[Live Demo](https://jekyll-serif.netlify.app/) |
-[Zerostatic Themes](https://www.zerostatic.io)
+<p align="center"><img src="images/logo/logo.svg" alt="IPSM Approach" height="40"></p>
 
-<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+**IPSM Approach** (Integrated Pronunciation, Spelling and Meaning) is a unified method for memorizing English vocabulary — it brings **sound**, **form**, and **meaning** together into a single learning framework.
 
-![Jekyll Serif Theme screenshot](https://www.zerostatic.io/theme/jekyll-serif/jekyll-serif-screenshot.png)
+---
 
-### Theme features
+## What is IPSM?
 
-- Jekyll 4.2+
-- Netlify & Github Pages ready
-- Services (Collection)
-- Team (Collection)
-- Features (Data)
-- SCSS
-- 100% Responsive design, animated hamburger and mobile slide in menu
-- Bootstrap 4.6 - _Only the bootstrap grid and utilites are imported by default. If you want to use more of the Boostrap library you can uncomment the `@import` in `style.scss`_
-- 100/100 Google Lighthouse speed score
-- 100/100 Google Lighthouse seo score
-- 100/100 Google Lighthouse accessibility score
-- 100/100 Google Lighthouse best practices score
-- Under 50KB without images or 80KB with images and illustrations ⚡
-- Under 20KB without Google fonts ⚡⚡⚡
-- Robust example content included
-- Royalty free illustrations included
+IPSM integrates three perspectives that are usually taught separately:
 
-## Installation
+- **IPS — Integrated Pronunciation & Spelling**: embed pronunciation rules directly into the word using phoneme marks, so the spelling itself encodes how it sounds.
+- **ISM — Integrated Spelling & Meaning**: segment words into morphemes, making the building rules that carry meaning visible in the spelling.
+- **IPM — Integrated Pronunciation & Meaning**: feel the inner link between the phoneme rhythm of a word and its meaning.
 
-### Installing Ruby & Jekyll
+The method is presented across **9 bilingual chapters** (English / 简体中文), with an interactive IPA-vs-IPS comparison page and a client-side word search over the full lexicon.
 
-If this is your first time using Jekyll, please follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) and make sure your local environment (including Ruby) is setup correctly.
+## Features
 
-### Installing Theme
+- 📖 **9 bilingual chapters** — English at the site root, Chinese under `/zh/`.
+- 🔤 **IPA & IPS comparison page** — an interactive layout contrasting IPA with the project's IPS notation.
+- 🔎 **Client-side word search** — 6,099 entries, substring filter on the word, paginated 200/page, showing IPS / IPSM notation and meaning. Each language loads its own meanings (`words.json` / `words_zh.json`).
+- 🌍 **Language switcher** — English / 简体中文 dropdown in the top-right.
 
-Download or clone the theme.
+---
 
-To run the theme locally, navigate to the theme directory and run:
+<a id="zh"></a>
 
-```
-bundle install
-```
+# IPSM Approach 音形意统一记忆法
 
-To start the Jekyll local development server.
+> [English](#ipsm-approach) 见上方。
 
-```
-bundle exec jekyll serve
-```
+<p align="center"><img src="images/logo/logo-zh.svg" alt="音形意统一记忆法" height="40"></p>
 
-To build the theme.
+**IPSM Approach（音形意统一记忆法）** 是一套英语单词记忆方法，把**音、形、意**三者统一进同一个学习框架。
 
-```
-bundle exec jekyll build
-```
+---
 
-## Deployment
+## 什么是 IPSM？
 
-### Netlify
+IPSM 把通常分开教学的三个角度统一在一起：
 
-Use Netlify to deploy this theme. This theme contains a valid and tested `netlify.toml` - Feel free to use the 1-click deploy below.
+- **IPS 音形统一**：用音素标注符号把发音规则直接融入单词，让拼写本身就能体现读音。
+- **ISM 形意统一**：用词素划分把构词规则融入单词，让承载词意的构造在拼写中可见。
+- **IPM 音意统一**：体会单词的音素音律与词意之间的内在联系。
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/zerostaticthemes/jekyll-serif-theme)
+整套方法以**9 章双语文档**（英文 / 简体中文）呈现，并配有交互式 IPA 与 IPS 对照页，以及对全词库的客户端单词搜索。
 
-### Github Pages
+## 功能特性
 
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+- 📖 **9 章双语文档**：英文在站点根目录，中文在 `/zh/` 下。
+- 🔤 **IPA 与 IPS 对照页**：以交互排版对比 IPA 与本项目自创的 IPS 标注。
+- 🔎 **客户端单词搜索**：6099 个词条，按单词子串过滤、每页 200 条分页，显示 IPS / IPSM 标注与释义；各语言加载各自释义（`words.json` / `words_zh.json`）。
+- 🌍 **语言切换**：右上角 English / 简体中文 下拉。
 
-For example the site https://zerostaticthemes.github.io/jekyll-serif-theme would have `baseurl: "/jekyll-serif-theme/"`
+## 许可与致谢
 
-## Extras
-
-### License
-
-- You cannot create ports of this theme
-- You cannot re-sell this theme
-
-### Credits
-
-- Beautiful royalty free Illustrations by Icons8 - https://icons8.com/illustrations/style--pixeltrue
-- Stock images by Unsplash - https://unsplash.com/
-- Feature icons by Noun Project - https://thenounproject.com/
-
-## Support My Work
-
-I've been building open source themes for all the main static site generators for over 4 years now. My premium themes allow me to continue to allocate time to maintain, improve and build new open source themes.
-
-1. Leave a star ⭐🙏🏻
-2. Make a contribution to this theme, add a feature, fix a bug, nothing is to small 
-2. Mention this theme on twitter [@zerostaticio](https://twitter.com/zerostaticio) 📢
-3. Purchase a premium theme 🔥
-
-### All Jekyll Themes by Zerostatic
-
-- [Jekyll Serif (Open Source)](https://www.zerostatic.io/theme/jekyll-serif/)
-- [Jekyll Atlantic (Open Source)](https://www.zerostatic.io/theme/jekyll-atlantic/)
-- [Jekyll Advance (Premium)](https://www.zerostatic.io/theme/jekyll-advance/)
-- [Jekyll Origin (Premium)](https://www.zerostatic.io/theme/jekyll-origin/)
-- [Jekyll Curate (Premium)](https://www.zerostatic.io/theme/jekyll-curate/)
-
-🇦🇺 **Made in Australia** by Robert Austin
+- **许可**：MIT——见 [`LICENSE`](LICENSE)。
+- **主题**：基于 [Jekyll Serif](https://github.com/zerostaticthemes/jekyll-serif-theme)（作者 [Zerostatic Themes](https://www.zerostatic.io) / Robert Austin）。
