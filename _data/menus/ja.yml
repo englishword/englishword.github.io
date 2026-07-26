@@ -1,0 +1,21 @@
+main:
+  - name: "ドキュメント"
+    url: "/documents/"
+    weight: 2
+  - name: "IPA&amp;IPS"
+    url: "/ipa-ips/"
+    weight: 3
+  - name: "検索"
+    url: "/search/"
+    weight: 4
+  - name: "お問い合わせ"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "ホーム"
+    url: "/"
+    weight: 1
+  - name: "お問い合わせ"
+    url: "/contact/"
+    weight: 2

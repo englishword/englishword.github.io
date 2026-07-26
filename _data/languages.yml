@@ -19,3 +19,6 @@
 - code: ru
   name: Русский
   url_prefix: "/ru"
+- code: ja
+  name: 日本語
+  url_prefix: "/ja"

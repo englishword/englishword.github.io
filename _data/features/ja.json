@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "統合的発音・綴り — 発音の規則を単語に組み込むことで、音とつづりを統合します。",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "統合的綴り・意味 — 形態素への分割を通じて、形と意味を統合します。",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "統合的発音・意味 — 音のリズムと意味の内的なつながりを体得します。",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

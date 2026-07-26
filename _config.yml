@@ -42,6 +42,10 @@ collections:
     output: true
     sort_by: weight
     permalink: /ru/documents/:name/
+  documents_ja:
+    output: true
+    sort_by: weight
+    permalink: /ja/documents/:name/
 
 defaults:
   - scope:
@@ -110,6 +114,16 @@ defaults:
       path: "ru"
     values:
       lang: ru
+  - scope:
+      path: ""
+      type: "documents_ja"
+    values:
+      layout: "document"
+      lang: ja
+  - scope:
+      path: "ja"
+    values:
+      lang: ja
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
