@@ -34,6 +34,10 @@ collections:
     output: true
     sort_by: weight
     permalink: /de/documents/:name/
+  documents_vi:
+    output: true
+    sort_by: weight
+    permalink: /vi/documents/:name/
 
 defaults:
   - scope:
@@ -82,6 +86,16 @@ defaults:
       path: "de"
     values:
       lang: de
+  - scope:
+      path: ""
+      type: "documents_vi"
+    values:
+      layout: "document"
+      lang: vi
+  - scope:
+      path: "vi"
+    values:
+      lang: vi
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

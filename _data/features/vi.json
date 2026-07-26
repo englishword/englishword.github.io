@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "Thống nhất Âm-Hình — thống nhất âm thanh và chính tả bằng cách tích hợp quy tắc phát âm vào từ.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "Thống nhất Hình-Ý — thống nhất hình thức và ý nghĩa thông qua phân tách hình vị.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "Thống nhất Âm-Ý — nắm bắt mối liên hệ bên trong giữa nhịp điệu âm thanh và ý nghĩa.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

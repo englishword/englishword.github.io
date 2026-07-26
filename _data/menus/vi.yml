@@ -1,0 +1,21 @@
+main:
+  - name: "Tài liệu"
+    url: "/documents/"
+    weight: 2
+  - name: "IPA&amp;IPS"
+    url: "/ipa-ips/"
+    weight: 3
+  - name: "Tìm kiếm"
+    url: "/search/"
+    weight: 4
+  - name: "Liên hệ"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Trang chủ"
+    url: "/"
+    weight: 1
+  - name: "Liên hệ"
+    url: "/contact/"
+    weight: 2

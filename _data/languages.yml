@@ -13,3 +13,6 @@
 - code: de
   name: Deutsch
   url_prefix: "/de"
+- code: vi
+  name: Tiếng Việt
+  url_prefix: "/vi"
