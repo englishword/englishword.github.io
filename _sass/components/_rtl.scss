@@ -1,0 +1,32 @@
+// Arabic (ar) RTL overrides.
+// Scoped to [dir="rtl"] → only ar pages carry dir="rtl" (see _layouts/default.html).
+// All other languages have no dir attribute → these selectors never match → zero impact.
+
+[dir="rtl"] {
+  // 1. Language switcher (mirrors .language-switcher margin-left in style.scss)
+  .language-switcher {
+    margin-left: 0;
+    margin-right: 1rem;
+  }
+
+  // 2. Search results table (mirrors .word-table th,td text-align:left in style.scss)
+  .word-search .word-table th,
+  .word-search .word-table td {
+    text-align: right;
+  }
+
+  // 3. Document body (mirrors _content.scss physical left/right)
+  .content {
+    li {
+      margin-left: 0;
+      margin-right: 20px;
+    }
+    table thead th {
+      text-align: right;
+    }
+    blockquote {
+      border-left: 0;
+      border-right: .25em solid $secondary;
+    }
+  }
+}
