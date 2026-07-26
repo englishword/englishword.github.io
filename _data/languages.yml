@@ -7,3 +7,6 @@
 - code: es
   name: Español
   url_prefix: "/es"
+- code: fr
+  name: Français
+  url_prefix: "/fr"

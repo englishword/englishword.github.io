@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "Prononciation et Orthographe Intégrées : unifie le son et l'orthographe en intégrant les règles de prononciation dans le mot.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "Orthographe et Sens Intégrés : unifie la forme et le sens par la segmentation en morphèmes.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "Prononciation et Sens Intégrés : saisit le lien interne entre le rythme des sons et le sens.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
