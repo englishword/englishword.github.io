@@ -22,6 +22,10 @@ collections:
     output: true
     sort_by: weight
     permalink: /zh/documents/:name/
+  documents_es:
+    output: true
+    sort_by: weight
+    permalink: /es/documents/:name/
 
 defaults:
   - scope:
@@ -40,6 +44,16 @@ defaults:
       path: "zh"
     values:
       lang: zh
+  - scope:
+      path: ""
+      type: "documents_es"
+    values:
+      layout: "document"
+      lang: es
+  - scope:
+      path: "es"
+    values:
+      lang: es
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "Pronunciación y Ortografía Integradas: unifica el sonido y la ortografía incorporando las reglas de pronunciación en la palabra.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "Ortografía y Significado Integrados: unifica la forma y el significado mediante la segmentación en morfemas.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "Pronunciación y Significado Integrados: capta la conexión interna entre el ritmo de los sonidos y el significado.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

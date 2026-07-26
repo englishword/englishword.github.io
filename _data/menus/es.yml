@@ -1,0 +1,21 @@
+main:
+  - name: "Documentos"
+    url: "/documents/"
+    weight: 2
+  - name: "IPA&amp;IPS"
+    url: "/ipa-ips/"
+    weight: 3
+  - name: "Buscar"
+    url: "/search/"
+    weight: 4
+  - name: "Contacto"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Inicio"
+    url: "/"
+    weight: 1
+  - name: "Contacto"
+    url: "/contact/"
+    weight: 2
