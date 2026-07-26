@@ -30,6 +30,10 @@ collections:
     output: true
     sort_by: weight
     permalink: /fr/documents/:name/
+  documents_de:
+    output: true
+    sort_by: weight
+    permalink: /de/documents/:name/
 
 defaults:
   - scope:
@@ -68,6 +72,16 @@ defaults:
       path: "fr"
     values:
       lang: fr
+  - scope:
+      path: ""
+      type: "documents_de"
+    values:
+      layout: "document"
+      lang: de
+  - scope:
+      path: "de"
+    values:
+      lang: de
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

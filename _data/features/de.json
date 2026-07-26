@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "Integrierte Aussprache und Schreibweise — vereint Klang und Schreibweise, indem Ausspracheregeln in das Wort integriert werden.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "Integrierte Schreibweise und Bedeutung — vereint Form und Bedeutung durch Morphemsegmentierung.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "Integrierte Aussprache und Bedeutung — erfasst den inneren Zusammenhang zwischen Klangrhythmus und Bedeutung.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

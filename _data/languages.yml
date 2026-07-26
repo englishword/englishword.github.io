@@ -10,3 +10,6 @@
 - code: fr
   name: Français
   url_prefix: "/fr"
+- code: de
+  name: Deutsch
+  url_prefix: "/de"
