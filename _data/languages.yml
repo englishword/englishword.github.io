@@ -16,3 +16,6 @@
 - code: vi
   name: Tiếng Việt
   url_prefix: "/vi"
+- code: ru
+  name: Русский
+  url_prefix: "/ru"

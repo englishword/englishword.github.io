@@ -1,0 +1,21 @@
+main:
+  - name: "Документы"
+    url: "/documents/"
+    weight: 2
+  - name: "IPA&amp;IPS"
+    url: "/ipa-ips/"
+    weight: 3
+  - name: "Поиск"
+    url: "/search/"
+    weight: 4
+  - name: "Контакты"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "Главная"
+    url: "/"
+    weight: 1
+  - name: "Контакты"
+    url: "/contact/"
+    weight: 2

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "Интегрированные произношение и орфография — объединение звука и написания путём включения правил произношения в слово.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "Интегрированные орфография и значение — объединение формы и смысла через разделение на морфемы.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "Интегрированные произношение и значение — постижение внутренней связи между ритмом звука и смыслом.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
