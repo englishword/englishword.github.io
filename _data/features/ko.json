@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "통합적 발음·철자 — 발음 규칙을 단어에 녹여 소리와 철자를 통합합니다.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "통합적 철자·의미 — 형태소 분할을 통해 형태와 의미를 통합합니다.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "통합적 발음·의미 — 소리의 리듬과 의미의 내적 연관을 체득합니다.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

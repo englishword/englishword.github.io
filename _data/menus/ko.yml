@@ -1,0 +1,21 @@
+main:
+  - name: "문서"
+    url: "/documents/"
+    weight: 2
+  - name: "IPA&amp;IPS"
+    url: "/ipa-ips/"
+    weight: 3
+  - name: "검색"
+    url: "/search/"
+    weight: 4
+  - name: "문의하기"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "홈"
+    url: "/"
+    weight: 1
+  - name: "문의하기"
+    url: "/contact/"
+    weight: 2

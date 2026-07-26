@@ -22,3 +22,6 @@
 - code: ja
   name: 日本語
   url_prefix: "/ja"
+- code: ko
+  name: 한국어
+  url_prefix: "/ko"
