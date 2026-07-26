@@ -21,11 +21,10 @@ bodyClass: "page-documents"
 <div class="container pt-6 pb-6">
   <div class="row">
     {% assign lang = page.lang | default: site.default_lang %}
-    {% if lang == 'zh' %}
-      {% assign docs = site.documents_zh %}
-    {% else %}
-      {% assign docs = site.documents %}
-    {% endif %}
+    {% assign coll_label = 'documents' %}
+    {% if lang != 'en' %}{% assign coll_label = coll_label | append: '_' | append: lang %}{% endif %}
+    {% assign docs = site.collections | where: "label", coll_label | first %}
+    {% assign docs = docs.docs %}
     {% for document in docs %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">

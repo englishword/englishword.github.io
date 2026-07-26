@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS 音形统一",
+    "description": "音形统一:用音素标注符号把发音规则融入单词。",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM 形意统一",
+    "description": "形意统一:用词素划分把构词规则融入单词。",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM 音意统一",
+    "description": "音意统一:体会音素音律与词意的内在联系。",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

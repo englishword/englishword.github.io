@@ -1,27 +1,21 @@
 main:
-  - name: "Documents"
-    name_zh: "学习文档"
+  - name: "学习文档"
     url: "/documents/"
     weight: 2
   - name: "IPA&IPS"
-    name_zh: "IPA&IPS"
     url: "/ipa-ips/"
     weight: 3
-  - name: "Search"
-    name_zh: "搜索"
+  - name: "搜索"
     url: "/search/"
     weight: 4
-  - name: "Contact"
-    name_zh: "联系"
+  - name: "联系"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
-    name_zh: "首页"
+  - name: "首页"
     url: "/"
     weight: 1
-  - name: "Contact"
-    name_zh: "联系"
+  - name: "联系"
     url: "/contact/"
     weight: 2

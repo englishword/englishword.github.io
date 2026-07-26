@@ -1,4 +1,6 @@
 {% assign current_lang = page.lang | default: site.default_lang %}
+{% capture lang_prefixes %}{% for l in site.data.languages %}{% if l.url_prefix != '' %}|{{ l.url_prefix | remove: '/' }}{% endif %}{% endfor %}{% endcapture %}
+{% assign lang_prefixes = lang_prefixes | remove_first: '|' %}
 <div class="language-switcher">
   <select id="language-select" onchange="switchLanguage(this.value)" aria-label="Language">
     {% for l in site.data.languages %}
@@ -9,8 +11,8 @@
 <script>
 function switchLanguage(prefix) {
   var path = window.location.pathname.replace(/\/+$/, '');
-  // strip existing language prefix (/zh, /ko, /ja)
-  path = path.replace(/^\/(zh|ko|ja)(?=\/|$)/, '');
+  // strip existing non-default language prefix (from _data/languages.yml)
+  path = path.replace(/^\/({{ lang_prefixes }})(?=\/|$)/, '');
   if (path === '') path = '/';
   if (prefix) { path = prefix + path; }
   if (!path.endsWith('/')) path = path + '/';

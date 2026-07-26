@@ -4,17 +4,17 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.phone.size > 0 %}
-    <div class="call-phone"><strong>{% if lang == 'zh' %}电话: {% else %}Phone: {% endif %}</strong>{{ site.data.contact.phone }}</div>
+    <div class="call-phone"><strong>{{ site.data.ui[lang].phone }}</strong>{{ site.data.contact.phone }}</div>
     {% endif %}
     {% if site.data.contact.email.size > 0 %}
-    <div class="call-email"><strong>{% if lang == 'zh' %}邮箱: {% else %}Email: {% endif %}</strong>
+    <div class="call-email"><strong>{{ site.data.ui[lang].email }}</strong>
       <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>
     </div>
     {% endif %}
   </div>
   {% if include.show_button %}
     <div class="call-box-bottom">
-      <a href="{{ prefix | append: '/contact/' | relative_url }}" class="button">{% if lang == 'zh' %}联系方式{% else %}CONTACT{% endif %}</a>
+      <a href="{{ prefix | append: '/contact/' | relative_url }}" class="button">{{ site.data.ui[lang].contact_button }}</a>
     </div>
   {% endif %}
 </div>

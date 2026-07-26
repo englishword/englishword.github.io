@@ -28,7 +28,10 @@ bodyClass: "page-home"
       {% assign lang = page.lang | default: site.default_lang %}
       {% assign prefix = '' %}
       {% if lang != 'en' %}{% assign prefix = lang | prepend: '/' %}{% endif %}
-      {% if lang == 'zh' %}{% assign docs = site.documents_zh %}{% else %}{% assign docs = site.documents %}{% endif %}
+      {% assign coll_label = 'documents' %}
+      {% if lang != 'en' %}{% assign coll_label = coll_label | append: '_' | append: lang %}{% endif %}
+      {% assign docs = site.collections | where: "label", coll_label | first %}
+      {% assign docs = docs.docs %}
       {% for document in docs limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
@@ -44,7 +47,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ prefix | append: '/documents/' | relative_url }}">{% if lang == 'zh' %}查看全部文档{% else %}View All Documents{% endif %}</a>
+        <a class="button button-primary" href="{{ prefix | append: '/documents/' | relative_url }}">{{ site.data.ui[lang].view_all_documents }}</a>
       </div>
     </div>
   </div>
@@ -55,14 +58,14 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
 
-      {% for feature in site.data.features %}
+      {% for feature in site.data.features[lang] %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
           {% if feature.image %}
           <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
-          <h2 class="feature-title">{% if page.lang == 'zh' and feature.title_zh %}{{ feature.title_zh }}{% else %}{{ feature.title }}{% endif %}</h2>
-          <div class="feature-content">{% if page.lang == 'zh' and feature.description_zh %}{{ feature.description_zh }}{% else %}{{ feature.description }}{% endif %}</div>
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
         </div>
       </div>
       {% endfor %}
