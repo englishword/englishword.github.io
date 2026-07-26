@@ -89,7 +89,7 @@ Học sinh lớp hai tiểu học đã nắm vững 26 chữ cái tiếng Anh v�
 
 Thông qua cách phát âm của 26 chữ cái có thể nắm vững 16 phụ âm:
 
-[b], [s], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
+[b], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
 
 | A | B | C | D | E | F | G |
 |---|---|---|---|---|---|---|
@@ -316,7 +316,7 @@ Lưu ý: [y] tức là /j/ trong IPA; phương pháp này phục hồi diện m�
 >
 > F: fake fit
 >
-> G: got oringe
+> G: got orange
 >
 > H: hello sheep chair
 >

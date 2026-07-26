@@ -89,7 +89,7 @@ Un élève de deuxième année de primaire qui maîtrise les 26 lettres de l'ang
 
 À travers la prononciation des 26 lettres, on peut maîtriser 16 consonnes :
 
-[b], [s], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
+[b], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
 
 | A | B | C | D | E | F | G |
 |---|---|---|---|---|---|---|
@@ -316,7 +316,7 @@ Note : [y] est le /j/ de l'IPA ; cette méthode restaure sa forme originale.
 >
 > F: fake fit
 >
-> G: got oringe
+> G: got orange
 >
 > H: hello sheep chair
 >

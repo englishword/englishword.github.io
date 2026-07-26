@@ -89,7 +89,7 @@ Un estudiante de segundo grado de primaria que haya dominado las 26 letras del i
 
 A través de la pronunciación de las 26 letras, se pueden dominar 16 consonantes:
 
-[b], [s], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
+[b], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
 
 | A | B | C | D | E | F | G |
 |---|---|---|---|---|---|---|
@@ -316,7 +316,7 @@ Nota: [y] es la /j/ del IPA; este método restaura su forma original.
 >
 > F: fake fit
 >
-> G: got oringe
+> G: got orange
 >
 > H: hello sheep chair
 >

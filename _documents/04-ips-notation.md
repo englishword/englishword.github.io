@@ -89,7 +89,7 @@ A second-grade primary school student who has mastered the 26 English letters an
 
 Through the pronunciation of the 26 letters, one can master 16 consonants:
 
-[b], [s], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
+[b], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
 
 | A | B | C | D | E | F | G |
 |---|---|---|---|---|---|---|
@@ -316,7 +316,7 @@ Note: [y] is the /j/ of IPA; this method restores its original form.
 >
 > F: fake fit
 >
-> G: got oringe
+> G: got orange
 >
 > H: hello sheep chair
 >

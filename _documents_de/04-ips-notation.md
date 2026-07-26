@@ -89,7 +89,7 @@ Ein Schüler der zweiten Grundschulklasse, der die 26 Buchstaben des Englischen 
 
 Durch die Aussprache der 26 Buchstaben kann man 16 Konsonanten beherrschen:
 
-[b], [s], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
+[b], [d], [f], [j], [ch], [k], [l], [m], [n], [p], [r], [s], [t], [v], [w], [z]
 
 | A | B | C | D | E | F | G |
 |---|---|---|---|---|---|---|
@@ -316,7 +316,7 @@ Hinweis: [y] ist das /j/ des IPA; diese Methode stellt seine ursprüngliche Form
 >
 > F: fake fit
 >
-> G: got oringe
+> G: got orange
 >
 > H: hello sheep chair
 >
