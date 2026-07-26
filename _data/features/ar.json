@@ -1,0 +1,29 @@
+[
+  {
+    "title": "IPS",
+    "description": "النطق والإملاء المدمجة — دمج قواعد النطق في الكلمة لتوحيد الصوت والإملاء.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "ISM",
+    "description": "الإملاء والمعنى المدمجة — توحيد الشكل والمعنى عبر تقسيم المورفيمات.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "IPM",
+    "description": "النطق والمعنى المدمجة — استيعاب العلاقة الجوهرية بين إيقاع الصوت والمعنى.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

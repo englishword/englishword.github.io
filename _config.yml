@@ -50,6 +50,10 @@ collections:
     output: true
     sort_by: weight
     permalink: /ko/documents/:name/
+  documents_ar:
+    output: true
+    sort_by: weight
+    permalink: /ar/documents/:name/
 
 defaults:
   - scope:
@@ -138,6 +142,16 @@ defaults:
       path: "ko"
     values:
       lang: ko
+  - scope:
+      path: ""
+      type: "documents_ar"
+    values:
+      layout: "document"
+      lang: ar
+  - scope:
+      path: "ar"
+    values:
+      lang: ar
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

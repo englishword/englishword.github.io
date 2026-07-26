@@ -25,3 +25,6 @@
 - code: ko
   name: 한국어
   url_prefix: "/ko"
+- code: ar
+  name: العربية
+  url_prefix: "/ar"

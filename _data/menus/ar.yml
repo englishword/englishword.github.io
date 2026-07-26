@@ -1,0 +1,21 @@
+main:
+  - name: "الوثائق"
+    url: "/documents/"
+    weight: 2
+  - name: "IPA&amp;IPS"
+    url: "/ipa-ips/"
+    weight: 3
+  - name: "بحث"
+    url: "/search/"
+    weight: 4
+  - name: "تواصل معنا"
+    url: "/contact/"
+    weight: 5
+
+footer:
+  - name: "الرئيسية"
+    url: "/"
+    weight: 1
+  - name: "تواصل معنا"
+    url: "/contact/"
+    weight: 2
