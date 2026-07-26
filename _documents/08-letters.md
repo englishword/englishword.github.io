@@ -1,5 +1,5 @@
 ---
-title: "Letters"
+title: "Integrated Letters"
 weight: 8
 ---
 
@@ -33,9 +33,9 @@ The table below is the pronunciation table of the English letters; one can see t
 
 The form of the 26 letters is an extremely concise set of symbols, the product of being tempered by time over a long period; although their forms are simple, they carry extremely rich connotations.
 
-Due to the joint structure of the human right hand, writing the two symbols — the vertical line "|" and the circle "◯" — in a connected manner from left to right can be done both quickly and effortlessly; while the short dash "—" and the dot "•" can serve as prominent marks. Therefore, the 26 letters are actually combinations of these four symbols.
+Due to the joint structure of the human right hand, writing the two symbols — the vertical line "\|" and the circle "◯" — in a connected manner from left to right can be done both quickly and effortlessly; while the short dash "—" and the dot "•" can serve as prominent marks. Therefore, the 26 letters are actually combinations of these four symbols.
 
-When writing the vertical line "|", it is written from top to bottom; the circle "◯" has two ways of being written: one is clockwise, the other is counterclockwise.
+When writing the vertical line "\|", it is written from top to bottom; the circle "◯" has two ways of being written: one is clockwise, the other is counterclockwise.
 
 - 𝓪:  (counterclockwise) circle + short vertical
 - 𝓫:  long vertical + (clockwise) circle

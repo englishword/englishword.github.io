@@ -57,6 +57,31 @@
       <path d="M525 269 L541 325"/>
     </g>
 
+    <!-- ===== 单字母辅音节点圆圈（白底细边，盖住穿过的连线） ===== -->
+    <g fill="#ffffff" stroke="#1a1a1a" stroke-width="1.4">
+      <circle cx="45"  cy="445" r="17"/>  <!-- l -->
+      <circle cx="125" cy="605" r="17"/>  <!-- r -->
+      <circle cx="285" cy="45"  r="17"/>  <!-- m -->
+      <circle cx="285" cy="109" r="17"/>  <!-- n -->
+      <circle cx="45"  cy="245" r="17"/>  <!-- j -->
+      <circle cx="205" cy="245" r="17"/>  <!-- g -->
+      <circle cx="405" cy="245" r="17"/>  <!-- k -->
+      <ellipse cx="485" cy="173" rx="24" ry="17"/>  <!-- qu -->
+      <circle cx="301" cy="349" r="17"/>  <!-- x -->
+      <circle cx="645" cy="349" r="17"/>  <!-- c -->
+      <circle cx="205" cy="445" r="17"/>  <!-- z -->
+      <circle cx="405" cy="445" r="17"/>  <!-- s -->
+      <circle cx="205" cy="541" r="17"/>  <!-- d -->
+      <circle cx="405" cy="541" r="17"/>  <!-- t -->
+      <circle cx="565" cy="581" r="17"/>  <!-- h -->
+      <circle cx="725" cy="581" r="17"/>  <!-- g（第二个） -->
+      <circle cx="205" cy="621" r="17"/>  <!-- b -->
+      <circle cx="405" cy="621" r="17"/>  <!-- p -->
+      <circle cx="45"  cy="701" r="17"/>  <!-- w -->
+      <circle cx="205" cy="701" r="17"/>  <!-- v -->
+      <circle cx="405" cy="701" r="17"/>  <!-- f -->
+    </g>
+
     <!-- ===== 节点文字（后画，压在连线上；白色描边 halo 保证可读） ===== -->
     <g font-size="22" text-anchor="middle" dominant-baseline="central" stroke="#ffffff" stroke-width="3.5" paint-order="stroke fill">
       <!-- 黑色字母 -->
