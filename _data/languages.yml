@@ -1,30 +1,40 @@
 - code: en
   name: English
   url_prefix: ""
+  og_locale: en_US
 - code: zh
   name: 简体中文
   url_prefix: "/zh"
+  og_locale: zh_CN
 - code: es
   name: Español
   url_prefix: "/es"
+  og_locale: es_ES
 - code: fr
   name: Français
   url_prefix: "/fr"
+  og_locale: fr_FR
 - code: de
   name: Deutsch
   url_prefix: "/de"
+  og_locale: de_DE
 - code: vi
   name: Tiếng Việt
   url_prefix: "/vi"
+  og_locale: vi_VN
 - code: ru
   name: Русский
   url_prefix: "/ru"
+  og_locale: ru_RU
 - code: ja
   name: 日本語
   url_prefix: "/ja"
+  og_locale: ja_JP
 - code: ko
   name: 한국어
   url_prefix: "/ko"
+  og_locale: ko_KR
 - code: ar
   name: العربية
   url_prefix: "/ar"
+  og_locale: ar_SA

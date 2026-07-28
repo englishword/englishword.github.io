@@ -13,3 +13,17 @@ bodyClass: "page-document"
     </div>
   </div>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  {% if page.description %}"description": {{ page.description | jsonify }},{% endif %}
+  "inLanguage": {{ page.lang | default: 'en' | jsonify }},
+  "author": { "@type": "Organization", "name": {{ site.title | jsonify }} },
+  "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }}, "logo": { "@type": "ImageObject", "url": {{ '/images/logo/logo.svg' | absolute_url | jsonify }} } },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ page.url | absolute_url | jsonify }} }
+}
+</script>

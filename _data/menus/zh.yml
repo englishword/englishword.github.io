@@ -11,6 +11,9 @@ main:
   - name: "联系"
     url: "/contact/"
     weight: 5
+  - name: "关于"
+    url: "/about/"
+    weight: 6
 
 footer:
   - name: "首页"

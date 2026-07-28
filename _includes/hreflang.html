@@ -1,0 +1,24 @@
+{% comment %}hreflang alternate links + x-default.
+Loops all languages in _data/languages.yml. Optional `langs` param (list of codes)
+restricts output to a subset — for pages that only exist in some languages
+(e.g. word-family pages exist only in en + zh).{% endcomment %}
+{% assign current_lang = page.lang | default: 'en' %}
+{% assign base = page.url %}
+{% if current_lang != 'en' %}
+  {% assign cur_prefix = '/' | append: current_lang %}
+  {% assign base = base | remove_first: cur_prefix %}
+{% endif %}
+{% if base == '' %}{% assign base = '/' %}{% endif %}
+{% for l in site.data.languages %}
+  {% assign show = true %}
+  {% if include.langs %}
+    {% unless include.langs contains l.code %}{% assign show = false %}{% endunless %}
+  {% endif %}
+  {% if show %}
+    {% assign alt_url = l.url_prefix | append: base %}
+    {% assign alt_url = alt_url | replace: '//', '/' %}
+    {% if alt_url == '' %}{% assign alt_url = '/' %}{% endif %}
+    <link rel="alternate" hreflang="{{ l.code }}" href="{{ alt_url | absolute_url }}" />
+  {% endif %}
+{% endfor %}
+<link rel="alternate" hreflang="x-default" href="{{ base | absolute_url }}" />

@@ -1,3 +1,4 @@
+url: "https://lingose.com"
 baseurl: '/'
 permalink: pretty
 title: 'IPSM Approach'
@@ -158,6 +159,8 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - Gemfile

@@ -74,3 +74,24 @@ bodyClass: "page-home"
   </div>
 </div>
 {% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": {{ site.title | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "description": {{ page.description | default: site.title | jsonify }},
+      "inLanguage": {{ page.lang | default: 'en' | jsonify }}
+    },
+    {
+      "@type": "Organization",
+      "name": {{ site.title | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "logo": {{ '/images/logo/logo.svg' | absolute_url | jsonify }}
+    }
+  ]
+}
+</script>

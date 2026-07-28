@@ -1,0 +1,27 @@
+# IPSM Approach
+
+> IPSM Approach (Integrated Pronunciation, Spelling and Meaning) is a unified method for memorizing English vocabulary by bringing sound, form, and meaning together. Hosted at https://lingose.com in 10 languages (English at the site root, plus zh / es / fr / de / vi / ru / ja / ko / ar).
+
+IPSM unifies three perspectives that are usually taught separately:
+
+- **IPS (Integrated Pronunciation & Spelling)**: phoneme-annotation marks embedded in the word so the spelling itself encodes how it sounds.
+- **ISM (Integrated Spelling & Meaning)**: morpheme segmentation that makes word-formation rules and the meaning-carrying structure visible in the spelling.
+- **IPM (Integrated Pronunciation & Meaning)**: the inner link between a word's phoneme rhythm and its meaning.
+
+## Core pages
+- [Home (English)](https://lingose.com/)
+- [Home (Chinese)](https://lingose.com/zh/)
+- [About](https://lingose.com/about/)
+- [Documents — 9 chapters (English)](https://lingose.com/documents/)
+- [Documents — 9 chapters (Chinese)](https://lingose.com/zh/documents/)
+- [IPA & IPS comparison](https://lingose.com/ipa-ips/)
+- [Word search](https://lingose.com/search/)
+
+## Data
+- English lexicon JSON: https://lingose.com/assets/data/words.json
+- Chinese lexicon JSON: https://lingose.com/assets/data/words_zh.json
+- Full method covers 6,099 English words.
+
+## Contact & license
+- Contact: https://lingose.com/contact/
+- License: MIT
