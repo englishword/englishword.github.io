@@ -4,7 +4,8 @@ letter: a
 lang: en
 count: 161
 description: "161 English words starting with A, with IPS pronunciation, ISM morpheme breakdown and IPSM notation."
-hreflang_langs: [en, zh]
+back_label: "← Back to word index"
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 <nav class="az-nav" aria-label="A-Z">

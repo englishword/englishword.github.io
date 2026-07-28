@@ -4,7 +4,8 @@ letter: x
 lang: en
 count: 1
 description: "1 English words starting with X, with IPS pronunciation, ISM morpheme breakdown and IPSM notation."
-hreflang_langs: [en, zh]
+back_label: "← Back to word index"
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 <nav class="az-nav" aria-label="A-Z">

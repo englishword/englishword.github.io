@@ -4,7 +4,8 @@ letter: v
 lang: en
 count: 228
 description: "228 English words starting with V, with IPS pronunciation, ISM morpheme breakdown and IPSM notation."
-hreflang_langs: [en, zh]
+back_label: "← Back to word index"
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 <nav class="az-nav" aria-label="A-Z">

@@ -4,7 +4,8 @@ letter: i
 lang: en
 count: 42
 description: "42 English words starting with I, with IPS pronunciation, ISM morpheme breakdown and IPSM notation."
-hreflang_langs: [en, zh]
+back_label: "← Back to word index"
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 <nav class="az-nav" aria-label="A-Z">

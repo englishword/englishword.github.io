@@ -4,7 +4,8 @@ letter: f
 lang: zh
 count: 419
 description: "419 个 F 开头的英语单词,含 IPS 音形标注、ISM 词素划分与 IPSM 记忆符号。"
-hreflang_langs: [en, zh]
+back_label: "← 返回词库索引"
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 <nav class="az-nav" aria-label="A-Z">
@@ -14,7 +15,7 @@ hreflang_langs: [en, zh]
 
 <table>
 <thead>
-<tr><th>Word</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>Meaning</th></tr>
+<tr><th>单词</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>释义</th></tr>
 </thead>
 <tbody>
 <tr><td>fabricate</td><td>fabricāte</td><td>fabr-ic-ate</td><td>fabr-ic-āte</td><td>vt. 制造, 编造</td></tr>

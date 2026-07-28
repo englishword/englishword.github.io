@@ -61,6 +61,30 @@ collections:
   words_zh:
     output: true
     permalink: /zh/words/:name/
+  words_es:
+    output: true
+    permalink: /es/words/:name/
+  words_fr:
+    output: true
+    permalink: /fr/words/:name/
+  words_de:
+    output: true
+    permalink: /de/words/:name/
+  words_vi:
+    output: true
+    permalink: /vi/words/:name/
+  words_ru:
+    output: true
+    permalink: /ru/words/:name/
+  words_ja:
+    output: true
+    permalink: /ja/words/:name/
+  words_ko:
+    output: true
+    permalink: /ko/words/:name/
+  words_ar:
+    output: true
+    permalink: /ar/words/:name/
 
 defaults:
   - scope:
@@ -171,6 +195,54 @@ defaults:
     values:
       layout: "word_family"
       lang: zh
+  - scope:
+      path: ""
+      type: "words_es"
+    values:
+      layout: "word_family"
+      lang: es
+  - scope:
+      path: ""
+      type: "words_fr"
+    values:
+      layout: "word_family"
+      lang: fr
+  - scope:
+      path: ""
+      type: "words_de"
+    values:
+      layout: "word_family"
+      lang: de
+  - scope:
+      path: ""
+      type: "words_vi"
+    values:
+      layout: "word_family"
+      lang: vi
+  - scope:
+      path: ""
+      type: "words_ru"
+    values:
+      layout: "word_family"
+      lang: ru
+  - scope:
+      path: ""
+      type: "words_ja"
+    values:
+      layout: "word_family"
+      lang: ja
+  - scope:
+      path: ""
+      type: "words_ko"
+    values:
+      layout: "word_family"
+      lang: ko
+  - scope:
+      path: ""
+      type: "words_ar"
+    values:
+      layout: "word_family"
+      lang: ar
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

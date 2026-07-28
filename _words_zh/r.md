@@ -4,7 +4,8 @@ letter: r
 lang: zh
 count: 225
 description: "225 个 R 开头的英语单词,含 IPS 音形标注、ISM 词素划分与 IPSM 记忆符号。"
-hreflang_langs: [en, zh]
+back_label: "← 返回词库索引"
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 <nav class="az-nav" aria-label="A-Z">
@@ -14,7 +15,7 @@ hreflang_langs: [en, zh]
 
 <table>
 <thead>
-<tr><th>Word</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>Meaning</th></tr>
+<tr><th>单词</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>释义</th></tr>
 </thead>
 <tbody>
 <tr><td>rabbit</td><td>rabbit</td><td>rabb-it</td><td>rabb-it</td><td>n. 兔子</td></tr>

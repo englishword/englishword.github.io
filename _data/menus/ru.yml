@@ -5,7 +5,6 @@ main:
   - name: "Слова"
     url: "/words/"
     weight: 3
-    skip_prefix: true
   - name: "IPA&amp;IPS"
     url: "/ipa-ips/"
     weight: 4

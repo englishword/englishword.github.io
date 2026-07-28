@@ -4,7 +4,8 @@ letter: d
 lang: zh
 count: 223
 description: "223 个 D 开头的英语单词,含 IPS 音形标注、ISM 词素划分与 IPSM 记忆符号。"
-hreflang_langs: [en, zh]
+back_label: "← 返回词库索引"
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 <nav class="az-nav" aria-label="A-Z">
@@ -14,7 +15,7 @@ hreflang_langs: [en, zh]
 
 <table>
 <thead>
-<tr><th>Word</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>Meaning</th></tr>
+<tr><th>单词</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>释义</th></tr>
 </thead>
 <tbody>
 <tr><td>dairy</td><td>dāirẏ</td><td>dair-y</td><td>dāir-ẏ</td><td>n. 乳品店, 乳制品业, 奶牛场</td></tr>

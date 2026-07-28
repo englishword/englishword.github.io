@@ -15,7 +15,7 @@ bodyClass: "page-word-family"
           {{ content }}
         </div>
 
-        <p><a href="{{ prefix }}/words/">{% if page.lang == 'zh' %}← 返回词库索引{% else %}← Back to word index{% endif %}</a></p>
+        <p><a href="{{ prefix }}/words/">{{ page.back_label | default: '← Back to word index' }}</a></p>
       </div>
     </div>
   </div>

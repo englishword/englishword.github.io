@@ -3,7 +3,7 @@ layout: document
 lang: en
 title: "Word List A–Z"
 description: "Browse the full IPSM word list by letter — 6000+ English words with IPS pronunciation, ISM morpheme breakdown and IPSM notation."
-hreflang_langs: [en, zh]
+hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
 The IPSM word list groups **6000+ English words** by their root lemma and arranges them A–Z. Each letter page lists every word with its **IPS** pronunciation spelling, **ISM** morpheme breakdown, and **IPSM** combined notation, plus the meaning — so you can see how the same root spawns a whole family of related words.
