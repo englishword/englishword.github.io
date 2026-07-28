@@ -55,6 +55,12 @@ collections:
     output: true
     sort_by: weight
     permalink: /ar/documents/:name/
+  words:
+    output: true
+    permalink: /words/:name/
+  words_zh:
+    output: true
+    permalink: /zh/words/:name/
 
 defaults:
   - scope:
@@ -153,6 +159,18 @@ defaults:
       path: "ar"
     values:
       lang: ar
+  - scope:
+      path: ""
+      type: "words"
+    values:
+      layout: "word_family"
+      lang: en
+  - scope:
+      path: ""
+      type: "words_zh"
+    values:
+      layout: "word_family"
+      lang: zh
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

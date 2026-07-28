@@ -14,6 +14,8 @@ IPSM unifies three perspectives that are usually taught separately:
 - [About](https://lingose.com/about/)
 - [Documents — 9 chapters (English)](https://lingose.com/documents/)
 - [Documents — 9 chapters (Chinese)](https://lingose.com/zh/documents/)
+- [Word list A–Z (English)](https://lingose.com/words/)
+- [Word list A–Z (Chinese)](https://lingose.com/zh/words/)
 - [IPA & IPS comparison](https://lingose.com/ipa-ips/)
 - [Word search](https://lingose.com/search/)
 

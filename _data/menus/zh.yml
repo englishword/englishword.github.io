@@ -2,18 +2,21 @@ main:
   - name: "学习文档"
     url: "/documents/"
     weight: 2
+  - name: "词库"
+    url: "/words/"
+    weight: 3
   - name: "IPA&IPS"
     url: "/ipa-ips/"
-    weight: 3
+    weight: 4
   - name: "搜索"
     url: "/search/"
-    weight: 4
+    weight: 5
   - name: "联系"
     url: "/contact/"
-    weight: 5
+    weight: 6
   - name: "关于"
     url: "/about/"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "首页"

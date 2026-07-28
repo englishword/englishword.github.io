@@ -30,7 +30,7 @@
   <meta name="twitter:card" content="summary"/>
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.data.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.data.seo.meta_twitter_creator }}"/>{% endif %}
-  {% include hreflang.html %}
+  {% if page.hreflang_langs %}{% include hreflang.html langs=page.hreflang_langs %}{% else %}{% include hreflang.html %}{% endif %}
 
 </head>
 

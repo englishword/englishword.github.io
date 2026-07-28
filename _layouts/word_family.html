@@ -1,0 +1,34 @@
+---
+layout: default
+bodyClass: "page-word-family"
+---
+{% assign prefix = '' %}
+{% if page.lang != 'en' %}{% assign prefix = '/' | append: page.lang %}{% endif %}
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <div class="service service-single">
+        <h1 class="title">{{ page.title }}</h1>
+
+        <div class="content">
+          {{ content }}
+        </div>
+
+        <p><a href="{{ prefix }}/words/">{% if page.lang == 'zh' %}← 返回词库索引{% else %}← Back to word index{% endif %}</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page.url | absolute_url | jsonify }},
+  {% if page.description %}"description": {{ page.description | jsonify }},{% endif %}
+  "inLanguage": {{ page.lang | default: 'en' | jsonify }},
+  "isPartOf": { "@type": "WebSite", "name": {{ site.title | jsonify }}, "url": {{ site.url | jsonify }} }
+}
+</script>

@@ -2,18 +2,21 @@ main:
   - name: "Documents"
     url: "/documents/"
     weight: 2
+  - name: "Words"
+    url: "/words/"
+    weight: 3
   - name: "IPA&IPS"
     url: "/ipa-ips/"
-    weight: 3
+    weight: 4
   - name: "Search"
     url: "/search/"
-    weight: 4
+    weight: 5
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 6
   - name: "About"
     url: "/about/"
-    weight: 6
+    weight: 7
 
 footer:
   - name: "Home"
