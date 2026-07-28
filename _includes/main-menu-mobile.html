@@ -5,7 +5,7 @@
   {% if lang != 'en' %}{% assign prefix = lang | prepend: '/' %}{% endif %}
   <ul>
     {% for item in mainmenu %}
-    {% assign item_url = prefix | append: item.url %}
+    {% if item.skip_prefix %}{% assign item_url = item.url %}{% else %}{% assign item_url = prefix | append: item.url %}{% endif %}
     <li class="{% if page.url == item_url or page.url contains item_url %}active{% endif %}">
       <a href="{{ item_url | relative_url }}">{{ item.name }}</a>
     </li>

@@ -2,15 +2,19 @@ main:
   - name: "Documentos"
     url: "/documents/"
     weight: 2
+  - name: "Palabras"
+    url: "/words/"
+    weight: 3
+    skip_prefix: true
   - name: "IPA&amp;IPS"
     url: "/ipa-ips/"
-    weight: 3
+    weight: 4
   - name: "Buscar"
     url: "/search/"
-    weight: 4
+    weight: 5
   - name: "Contacto"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Inicio"

@@ -182,5 +182,19 @@ body {
   }
 }
 
+// A-Z word navigation (large tappable letters; letter pages + index page)
+.az-nav {
+  margin: 1.25rem 0;
+  line-height: 2;
+  a, strong {
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 0.25rem 0.55rem;
+    text-decoration: none;
+  }
+  strong { color: $black; }
+}
+
 // Arabic (ar) RTL
 @import "components/rtl";

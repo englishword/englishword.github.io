@@ -2,15 +2,19 @@ main:
   - name: "Документы"
     url: "/documents/"
     weight: 2
+  - name: "Слова"
+    url: "/words/"
+    weight: 3
+    skip_prefix: true
   - name: "IPA&amp;IPS"
     url: "/ipa-ips/"
-    weight: 3
+    weight: 4
   - name: "Поиск"
     url: "/search/"
-    weight: 4
+    weight: 5
   - name: "Контакты"
     url: "/contact/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Главная"
