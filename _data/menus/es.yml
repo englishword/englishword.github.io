@@ -14,6 +14,9 @@ main:
   - name: "Contacto"
     url: "/contact/"
     weight: 6
+  - name: "Acerca de"
+    url: "/about/"
+    weight: 7
 
 footer:
   - name: "Inicio"

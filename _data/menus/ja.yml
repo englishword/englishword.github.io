@@ -14,6 +14,9 @@ main:
   - name: "お問い合わせ"
     url: "/contact/"
     weight: 6
+  - name: "について"
+    url: "/about/"
+    weight: 7
 
 footer:
   - name: "ホーム"

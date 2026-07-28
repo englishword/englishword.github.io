@@ -14,6 +14,9 @@ main:
   - name: "Контакты"
     url: "/contact/"
     weight: 6
+  - name: "О сайте"
+    url: "/about/"
+    weight: 7
 
 footer:
   - name: "Главная"

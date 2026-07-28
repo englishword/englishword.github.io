@@ -14,6 +14,9 @@ main:
   - name: "문의하기"
     url: "/contact/"
     weight: 6
+  - name: "소개"
+    url: "/about/"
+    weight: 7
 
 footer:
   - name: "홈"

@@ -14,6 +14,9 @@ main:
   - name: "Liên hệ"
     url: "/contact/"
     weight: 6
+  - name: "Giới thiệu"
+    url: "/about/"
+    weight: 7
 
 footer:
   - name: "Trang chủ"
