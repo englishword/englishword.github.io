@@ -11,4 +11,4 @@ show_call_box: true
 # IPSM
 # Approach
 
-IPSM (Integrated Pronunciation, Spelling and Meaning) is a unified method for memorizing English vocabulary — unifying sound, form, and meaning. It integrates three perspectives: IPS — Integrated Pronunciation & Spelling; ISM — Integrated Spelling & Meaning; IPM — Integrated Pronunciation & Meaning
+IPSM (Integrated Pronunciation, Spelling and Meaning) is a unified method for memorizing English vocabulary. It integrates three perspectives: IPS — Integrated Pronunciation & Spelling; ISM — Integrated Spelling & Meaning; IPM — Integrated Pronunciation & Meaning
