@@ -3,27 +3,27 @@ title: IPS 音形统一
 weight: 5
 ---
 
-每个英语单词都包含以下几个属性：读音（Pronuncation）、字形（Spelling）、意义（Meaning）。本方法将单词的三个属性有效地融合在一起，要求学习者在准确发音的基础上记忆单词。采用本方法记忆单词时，将不自主地掌握语音规则和构词规则。
+每个英语单词都包含以下几个属性：读音（Pronuncation）、字形（Spelling）、意义（Meaning）。本方法将单词的三个属性融合在一起，要求学习者在准确发音的基础上记忆单词。采用本方法记忆单词时，将潜移默化地掌握语音规则和构词规则。
 
-准确发音是本方法的基础。要做到读准每一个元音和辅音，辅音发音容易掌握，主要是元音发音，绝不能将不同元音搞混。
+准确发音是本方法的基础。要做到读准每一个元音和辅音，辅音发音容易掌握，主要是元音发音，不要将不同元音搞混。
 
 ## 重音
 
-IPA国际音标中使用"`"符号表示重音，使用""符号表示次重音；在本方法中，重音可由元音类型自动区分，因此不再需要这两个符号。
+IPA国际音标中使用“ˈ”符号表示重音，使用“ˌ”符号表示次重音；在本方法中，重音可由元音类型自动区分，因此不再需要这两个符号。
 
 重音指的是元音，而不是辅音，辅音只有与发重音的元音相拼才能构成重音音节。
 
-重音对单词的正确拼读非常重要，重音能决定单词中元音的拼读方式。如前缀com-，若重音在com-上，则读作"[com-]"，如comment，若重音在它之后，则读作"[co̊m-]"如command。
+重音对单词的正确拼读非常重要，重音能决定单词中元音的拼读方式。如前缀com-，若重音在com-上，则读作"[com-]"，如comme̊nt，若重音在它之后，则读作“[co̊m-]”如co̊mmand。
 
-在英语中，重音的不同位置还能决定一些单词的词性。名词重音常常在前（第一个元音），动词重音常常在后（第二个元音）。如record：当它是名词时，重音在前，读作[\`re-cord]，当它是动词时，重音在后，读作[rė-\`cord]。这样的词还有address，discount等。
+在英语中，重音的不同位置还能决定一些单词的词性。名词重音常常在前（第一个元音），动词重音常常在后（第二个元音）。如record：当它是名词时，重音在前，读作[ˈre-cord]，当它是动词时，重音在后，读作[rė-ˈcord]。这样的词还有address，discount等。
 
 在绝大多数情况下，单词的前后音节以**"重弱交替"**的形式出现，所以当确定了重音位置后，大部分音节的重读与弱读也就确定了。
 
 通常情况下，双音节词和三音节词的重读在第一个音节上。
 
-如果单词的前面有前缀，前缀通常是弱读的，重音在词根第一个元音上。例:ab\`out，be\`cause等。
+如果单词的前面有前缀，前缀通常是弱读的，重音在词根第一个元音上。例:abˈout，beˈcause等。
 
-如果单词的结尾是ation，元音a也常重读，比如：trans\`lation  pronunci\`ation。
+如果单词的结尾是ation，元音a也常重读，比如：transˈlation  pronunciˈation。
 
 英语单词的重音位置，有几种固定的样式，大家可以在记忆单词时，积累经验。
 
@@ -154,9 +154,9 @@ IPA国际音标中使用"`"符号表示重音，使用""符号表示次重音；
 | /uə/ | [ūr] |
 | | during |
 | /ə/ | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)] |
-| | åbout, co̊mputer, dangero̊us|
+| | åbout, ope̊n, evi̊l, pro̊pel, sůpply |
 | /ə:/ | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur] |
-|  | her, collar, first, word, occur, learn |
+|  | her, collar, first, word, occur, learn, colour |
 | /ɔi/ | [oi], [oẏ] |
 | | oil, enjoy |
 
@@ -168,10 +168,10 @@ IPA国际音标中使用"`"符号表示重音，使用""符号表示次重音；
 
 - -rr-读作[r]。如merry。
 - 弱元音或辅音 + r，读[r]。如factory， drive。
-- 强元音 + r，读[e̊]，此时元音可能发生轻微音变。如dare, here, fire, during。
-- 弱音 + r，因伴有翘舌，常致使元音出现拉长现象，尤其是当r后为辅音时。如verge, birth, storm, burst。
+- 强元音 + r，读[e̊]，因伴有翘舌，使元音发生轻微音变。如dare, here, fire, during。
+- 弱音 + r + 辅音，因伴有翘舌，使弱音拉长。如verge, birth, storm, burst。
 
-### 流音与元音的结合
+### 流音与强元音的结合
 
 流音字母R与元音结合的发音情况在元音表中已经得到了很好的体现，流音字母R与元音结合时，因R字母发音时，伴有翘舌，能使原有的元音拉长或者轻微音变。流音L也有同样的功能。
 
@@ -208,17 +208,19 @@ IPA国际音标中使用"`"符号表示重音，使用""符号表示次重音；
 
 ## 不发音元音
 
-元音字母组合，有一个对发音起主导作用的元音字母，如mēan中的e字母。对于这类元音字母组合，本方法认为ēa组合共同发ē音。而如build，本方法将u认为不发音。
+元音字母组合，有一个对发音起主导作用的元音字母，如mēan中的e字母。对于这类元音字母组合，本方法认为ēa组合共同发ē音。而如b𝕦ild，本方法将u认为不发音。
 
-e位于句尾一般不发音，为简便起见，省略双线体标示；e位于句中不发音，用双线体标示。实际上，除前缀外re-，de-等之外，凡是出现xxxxe-或xxxxe的形式，e均不发音。如forẹ-ig̣n，closẹ-ly，pigẹ-on。而像re-cord，因re-是前缀，e是发音的。
+e位于句尾一般不发音，为简便起见，省略双线体标示；e位于句中不发音，用双线体标示。如：nam𝕖ly, chang𝕖able, h𝕖art, for𝕖in, for𝕖iner, pig𝕖on, g𝕦itar, q𝕦eue, fr𝕚end
 
-gu组合中，u常不发音。如guess, fatigue。此时g后紧跟的是不发音u，而不是e，因此g发[g]，不发[j]。
+实际上，除前缀外re-，de-等之外，凡是出现xxxxe-xxxx或xxxxe的形式，e均不发音。如for𝕖-i𝕘n，clos𝕖-ly，pig𝕖-on。而像re-cord，因re-是前缀，e是发音的。
 
-qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
+gu组合中，u常不发音。如g𝕦ess, fatig𝕦e。此时g后紧跟的是不发音u，而不是e，因此g发[g]，不发[j]。
+
+qu组合中，若u不发音，则q单独发[k]。如q𝕦eue，cheq𝕦e。
 
 ## 辅音
 
-为了使辅音字母与辅音音素书写一致，辅音音素的书写与国际音标书写并不完全一致，如[ch]表示/tʃ/，[j]表示/dʒ/，[y]表示/j/，[th]表示/θ/，[ṫh]表示/ð/等。
+为了使辅音字母与辅音音素书写一致，本书中[ch]表示/tʃ/，[j]表示/dʒ/，[y]表示/j/，[th]表示/θ/，[ṫh]表示/ð/等。
 
 辅音字母发音的详细规则如表所示：
 
@@ -231,9 +233,9 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 | [t] | t | time |  | [d] | d | day |  |
 | [k] | k / c | kite / can | a,o,u,辅音前 / 词尾 | [g] | g | go | g在a,o,u前 |
 | [f] | f / ph / gh | four / photo / tough |  | [v] | v | very |  |
-| [s] | s / c | say / cent | e,i,y前 | [z] | z / ṡ | zoo / rise | 元音后，或浊辅音后 |
-| [th] | th | think |  | [ṫh] | ṫh | this | 代冠介连 |
-| [sh] | sh / ċh | ship / machine |  | [s̃] | s̃ | vision | 特殊后缀 |
+| [s] | s / c | say / cent | e,i,y前 | [z] | z / <font color="red">ṡ</font> | zoo / rise | 元音后，或浊辅音后 |
+| [th] | th | think |  | [ṫh] | <font color="red">ṫh</font> | this | 代冠介连 |
+| [sh] | sh / <font color="red">ċh</font> | ship / machine |  | [s̃] | <font color="red">s̃</font> | vision | 特殊后缀 |
 | [ch] | ch / tch | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | 在e, i, y前 |
 | [h] | h | his |  | [l] | l | like |  |
 | [kw] | qu | quiet |  | [m] | m | map |  |
@@ -243,9 +245,9 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 |  |  |  |  | [w] | w | wall |  |
 |  |  |  |  | [y] | y | yes | y在词首 |
 |  |  |  |  | [ks] | x | excess | 词尾或辅音前 |
-|  |  |  |  | [gz] | ẋ | exact | 元音前 |
+|  |  |  |  | [gz] | <font color="red">ẋ</font> | exact | 元音前 |
 
-(*) forget, give, girl, finger, tiger, begin等例外。两相同辅音重叠时，只发一个辅音。如：kick, scent, little等。
+(*) eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger等例外。两相同辅音重叠时，只发一个辅音。如：kick, scent, little等。
 
 ## 辅音组合
 
@@ -261,11 +263,35 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 | 三辅音 | scr-, spr-, str-, shr-, thr-, spl- |
 | 其他 | tw- |
 
-## 特殊后缀发音
+## 常见后缀发音
 
-一些常用的后缀发音较为特殊，但规律相同，熟记即可，为了简便起见，省略语音标注。如表5所示：
+-ed 和 -s/-es 的发音规则有固定的规则，本书虽然给出不同标注，为了简便，也可不标注。
 
-**表5　一些特殊后缀发音**
+### -ed 后缀发音
+
+| -ed的发音规则 | 例词 |
+|---|---|
+| 在浊辅音和元音后面 [𝕖d] ⟹ [d] | call𝕖d, borrow𝕖d, mov𝕖d |
+| 在清辅音后面 [𝕖ḋ] ⟹ [t] | ask𝕖ḋ, finish𝕖ḋ, help𝕖ḋ |
+| 在[t]音后面 [ėd] ⟹ [id] | wantėd, startėd |
+| 在[d]音后面 [ėd] ⟹ [id] | needėd, countėd |
+
+### -s/-es 后缀发音
+
+|  | -s(-es)的发音规则 | 例词 |
+|---|---|---|
+| 辅音后 | [s], [z], [sh], [s̃], [ch], [j]音后加 -es, 读作 [ėṡ] ⟹ [iz] | glassėṡ, buzzėṡ, washėṡ, teachėṡ |
+|  | 清辅音后加 s 读作 [s] ⟹ [s] | books, typ𝕖s |
+|  | 浊辅音后加 s 读作 [ṡ] ⟹ [z] | bagṡ, lin𝕖ṡ, besid𝕖ṡ |
+| 元音后 | 字母 o 后加 -es 读作[𝕖ṡ] ⟹ [z] | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
+|  | 把 -y 改 i 加 -es 的情况读 [𝕖ṡ] ⟹ [z] | ladi𝕖ṡ, fli𝕖ṡ |
+|  | 其他读作 [ṡ] ⟹ [z] | newṡ, dayṡ, boyṡ, beeṡ |
+
+另外一些后缀,如-ly, -ous, -ity等，其发音符合规则，本书虽都给出标注，但由于它们发音全都一致，为简便起见，也可不标注。
+
+### 特殊后缀发音
+
+一些常用的后缀发音较为特殊，但规律相同，熟记即可，为了简便起见，本书省略语音标注。
 
 | 特殊后缀 | 读音 | 例词 |
 |---|---|---|
@@ -285,58 +311,33 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 | -cient | -she̊nt | ancient |
 | -ciency | -shency | efficiency, proficiency |
 
--ed和-s(-es)的发音规则有固定的规则，所以本书为了简便，不对其作语音标注，大家应该记住以下两个表格。如表6、表7所示：
+## 不发音辅音字母
 
-**表6　-ed后缀的发音规则**
-
-| -ed的发音规则 | 例词 |
-|---|---|
-| 在浊辅音和元音后面 [d] | called, borrowed, moved |
-| 在清辅音后面 [t] | asked, finished, helped |
-| 在[t]音后面 [id] | wanted, started |
-| 在[d]音后面[id] | needed, counted |
-
-**表7　-s(-es)后缀的发音规则**
-
-|  | -s(-es)的发音规则 | 例词 |
-|---|---|---|
-| 辅音后 | [s], [z], [sh], [s̃], [ch], [j]音后加-es, 读作[iz] | glasses, buzzes, washes, teaches |
-|  | 清辅音后加s读作[s] | books, types |
-|  | 浊辅音后加s读作[z] | bags, lines, besides |
-| 元音后 | 字母o后加-es读作[z] | tomatoes, potatoes, does |
-|  | 把-y改i加-es的情况读[z] | ladies, flies |
-|  | 其他读作[z] | news, days, boys, bees |
-
-另外一些后缀,如-ly, -ous, -ity等,其发音符合规则，本书虽都给出标注，但由于它们发音全都一致，为简便起见，也可不标注。
-
-## 不发音辅音
-
-对不发音的辅音字母采用中间加划横线标示，若学习者已熟记辅音字母不发音规则，也可不标示。如表8所示：
+对不发音的字母可采用删除线、斜杆线、下方加点等多种方式表示不发音，本书为了醒目，采用双线体（黑板体）标示。若学习者已熟记这些不发音字母，也可不标示。
 
 **表8　常见的不发音辅音**
 
 | 组合 | 例词 |
 |---|---|
-| cḥ | mecḥanic, Cḥrist |
-| g̣ḥ | lig̣ḥt, hig̣ḥ, eig̣ḥt, sig̣ḥ, nig̣ḥt |
-| gḥ | gḥost |
-| g̣n | g̣nat, sig̣n |
-| ḥ | ḥour, ḥonour |
-| ḳn | ḳnife, ḳnow, ḳnee, ḳnock |
-| mḅ | comḅ, lamḅ, thumḅ, dumḅ, climḅ |
-| p̣n | p̣neumonia |
-| p̣s | p̣sychology |
-| rḥ | rḥyme, rḥythm |
-| ẉr | ẉrong, ẉrist, ẉrite, ẉrap, ẉretch, ẉrench |
-| ẉh | ẉho, ẉhose |
-| wḥ | wḥat, wḥen, wḥere, wḥy |
-| -sṭen | lisṭen, cḥrisṭen |
-| -sṭle | whisṭle |
-| 其他 | iṣland |
+| 𝕙 | 𝕙our, 𝕙onour |
+| c𝕙 | mec𝕙anic, C𝕙rist |
+| 𝕘𝕙 | li𝕘𝕙t, hi𝕘𝕙, ei𝕘𝕙t, si𝕘𝕙t, ni𝕘𝕙t |
+| g𝕙 | g𝕙ost |
+| r𝕙 | r𝕙yme, r𝕙ythm |
+| 𝕘n | 𝕘nat, si𝕘n |
+| 𝕜n | 𝕜nife, 𝕜now, 𝕜nee, 𝕜nock |
+| m𝕓 | com𝕓, lam𝕓, thum𝕓, dum𝕓, clim𝕓 |
+| 𝕡n | 𝕡neumonia |
+| 𝕡s | 𝕡sychology |
+| 𝕨r | 𝕨rong, 𝕨rist, 𝕨rite, 𝕨rap, 𝕨retch, 𝕨rench |
+| 𝕨h | 𝕨ho, 𝕨hose |
+| w𝕙 | w𝕙at, w𝕙en, w𝕙ere, w𝕙y |
+| -is𝕥- | lis𝕥en, c𝕙ris𝕥en, c𝕙ris𝕥mas, whis𝕥le |
+| 𝕤 | i𝕤land |
 
 ## 美国英语与英国英语的区别
 
-美国英语与英国英语的区别概括为一句话：美国英语比英国英语更规则，无论是在书写还是发音上。
+美国英语与英国英语的区别概括为一句话：美国英语比英国英语更规则。
 
 ### 在书写上
 
@@ -389,9 +390,7 @@ qu组合中，若u不发音，则q单独发[k]。如queue，cheque。
 | po̊lĩce | po̊lice |
 | lĩte̊r | lite̊r |
 
-3）美语喜欢将卷舌音发出，如
-
-car,door,river,party,board,dirty,morning等。
+3）美语喜欢将卷舌音发出
 
 | 英语 | 美语 |
 |---|---|

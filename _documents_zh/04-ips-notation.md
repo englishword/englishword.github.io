@@ -9,7 +9,7 @@ weight: 4
 
 IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换成IPS，也可以反过来。若读者还未掌握IPA，不影响IPS的学习，若已经掌握IPA，不仅有助于IPS的学习，而且能再好地理解IPA。
 
-相比于IPA，IPS是根据单词的发音规则创造的，简洁明了，在潜移默化中便能掌握单词发音规则，从而不再需要任何语音标注。
+相比于IPA，IPS是根据单词的发音规则创造的，简洁明了，长期使用，在潜移默化中便能掌握单词发音规则，从而不再需要语音标注。
 
 掌握26个英文字母与汉语拼音的小学二年级学生便可以学习IPS标注。
 
@@ -101,7 +101,7 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 | U | V | W | | X | Y | Z |
 | [ ū ] | [ vē ] | double-[ ū ] | | [ eks ] | [ wī ] | [ zē ] |
 
-注：[j] 读作 /dʒ/；[ch] 读作 /tʃ/，与汉语拼音的 ch 的发音不同。
+注：[j] 读作 /dʒ/；[ch] 读作 /tʃ/，与汉语拼音 ch 的发音不同。
 
 ## 两个元音字母组合
 
@@ -109,10 +109,10 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *注：oi oo au 既不按前面一个字母读，也不按后面一个字母读，要单独记忆。*
@@ -173,39 +173,37 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 >
 > 【拼读练习】
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## I和U的替身
 
@@ -214,9 +212,9 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 | i ⟹ y | [ ī ] | [ ȳ ] | flȳ |
 | i ⟹ y | [ i ] | [ ẏ ] | lilẏ |
 | ai ⟹ ay | [ āi ] | [ āy ] | sāy |
+| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | ei ⟹ ey | [ ēi ] | [ ēy ] | kēy |
 | ei ⟹ ey | [ èi ] | [ èy ] | thèy |
-| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | eu ⟹ ew | [ eū ] | [ ew̄ ] | new̄ |
 | ou ⟹ ow | [ ōu ] | [ ōw ] | slōw |
 | ou ⟹ ow | [ òu ] | [ òw ] | còw |
@@ -228,15 +226,15 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 >
 > AY: bāy rāy wāy sāy hāy pāy Māy lāy
 >
-> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
+> AW: pãw drãw sãw strãw strãwberry̍ lãwn
 >
-> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
+> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
 >
 > OW: rainbōw pillōw yellōw windōw bōwl rōw hollōw lōw
 >
 > OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 >
-> AW: pãw drãw sãw strãw strãwberry̍ lãwn
+> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
 
 ## 元音字母+R
 
@@ -246,7 +244,7 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 |---|---|---|---|---|---|
 | 举例 | cāre | hēre | fīre | fōre | dūre |
 
-*注：开音后紧跟R音，由于R音带有翘舌，使得开音自动发生变化，IPS标注为变化前的音，而IPA记录了变化后的音，二者发音结果相同。*
+*注：开音后紧跟R音，由于R音带有翘舌，使得开音自然发生变化，IPS标注为变化前的音，而IPA记录了变化后的音，二者发音结果相同。*
 
 ### 闭音+R
 
@@ -268,6 +266,18 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 |---|---|---|---|---|
 | 举例 | be̊rg | bi̊rd | bůrn | ye̊ar |
 
+> **练习**
+>
+> 【拼读练习】
+>
+> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
+>
+> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
+>
+> OR: porch pork horse horn fort morning corn fork
+>
+> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
+
 ### 其他
 
 | | [ àr ] |
@@ -279,28 +289,20 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 > 【拼读练习】
 >
 > AR: àrm càr càrd càrt fàrm pàrk gàrde̊n
->
-> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
->
-> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
->
-> OR: porch pork horse horn fort morning corn fork
->
-> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
 
 ## 辅音字母
 
-其中添加了元音字母的5个闭音，和几个常用辅音[g] [h] [sh] [w] [y]。
-
-| 字母 | A | B | C | D | E | F | G |
+| 字母 | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| 发音 | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| 字母 | H | I | J | K | L | M | N |
-| 发音 | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| 字母 | O | P | Q | | R | S | T |
-| 发音 | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| 字母 | U | V | W | | X | Y | Z |
-| 发音 | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| 发音 | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| 字母 | H | <font color="red">I</font> | J | K | L | M | N |
+| 发音 | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| 字母 | <font color="red">O</font> | P | Q | | R | S | T |
+| 发音 | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| 字母 | <font color="red">U</font> | V | W | | X | Y | Z |
+| 发音 | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+表中添加了元音字母的5个闭音，和几个常用辅音[g] [h] [sh] [w] [y]。
 
 注：[y] 即 国际音标中的 /j/，本方法还原其本来面目。
 
@@ -312,7 +314,7 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 >
 > C: city cake
 >
-> D: desk
+> D: desk dog
 >
 > F: fake fit
 >
@@ -320,9 +322,9 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 >
 > H: hello sheep chair
 >
-> J: jeep
+> J: jeep jump
 >
-> K: kick
+> K: kick kind
 >
 > L: little light
 >
@@ -359,19 +361,19 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 | g | [ g ] | go | g在a,o,u前。 |
 | | [ j ] | orange | 在e, i, y前¹, 词尾ge |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | 代词，冠词、介词、连词 |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | 位于词首 |
+| x | [ x ] = [ z ] | xenon | 位于词首 |
 | ex | [ ėx ] = [ ėks ] | excess | x在词尾或后连辅音,有部分例外 |
 | | [ ėẋ ] = [ ėgz ] | exact | x后连元音，有部分例外 |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ 例外：finger, get, forget, together, begin, give, gift, girl, tiger
+¹ 例外：eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **练习**
 >
@@ -446,8 +448,6 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 
 -ed 和 -s/-es 的发音规则有固定的规则，本书虽然给出不同标注，为了简便，也可不标注。
 
-另外一些后缀,如-ly, -ous, -ity等，其发音符合规则，本书虽都给出标注，但由于它们发音全都一致，为简便起见，也可不标注。
-
 ### -ed 后缀发音
 
 | -ed的发音规则 | 例词 |
@@ -467,6 +467,8 @@ IPS标注和国际音标IPA是一一对应的，可以将单词的IPA，转换�
 | 元音后 | 字母 o 后加 -es 读作[𝕖ṡ] ⟹ [z] | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
 | | 把 -y 改 i 加 -es 的情况读 [𝕖ṡ] ⟹ [z] | ladi𝕖ṡ, fli𝕖ṡ |
 | | 其他读作 [ṡ] ⟹ [z] | newṡ, dayṡ, boyṡ, beeṡ |
+
+另外一些后缀,如-ly, -ous, -ity等，其发音符合规则，本书虽都给出标注，但由于它们发音全都一致，为简便起见，也可不标注。
 
 ### 特殊后缀发音
 
