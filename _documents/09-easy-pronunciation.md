@@ -1,9 +1,7 @@
 ---
-title: 26 Letters Pronunciation
+title: Easy Pronunciation
 weight: 9
 ---
-
-Among the 26 English letters, 5 are vowels — A, E, I, O, and U — while the remaining 21 are consonants. R, W, and Y sometimes combine with vowels to function together, and are therefore called "semi-vowels".
 
 This section revisits the pronunciation of words in the order of the 26 letters, showing how words are "sounded out" from letters.
 
@@ -67,7 +65,7 @@ This section revisits the pronunciation of words in the order of the 26 letters,
 - Open sound [ī]: e.g. nice.
 - Closed sound [i]: e.g. sit.
 - Long weak [i̊r]: e.g. bird.
-- Short weak [i̊]:
+- Short weak [i̊]: e.g. evil
 - Light [i]: e.g. lily.
 - Long sound [ĩ]: e.g. police.
 
@@ -99,6 +97,7 @@ This section revisits the pronunciation of words in the order of the 26 letters,
 - Closed sound: e.g. hot.
 - Long weak: replaced, pronounced /or/, e.g. force.
 - Short weak: /ǝ/ sound.
+- Vowel combinations: [oo].
 - Vowel combinations: [ou], [ow], e.g. loud, cow.
 - Vowel combinations: [oi], [oy], e.g. oil, boy.
 
@@ -136,11 +135,11 @@ This section revisits the pronunciation of words in the order of the 26 letters,
 ## U u
 
 - Open sound: pronounced /yu:/, e.g. duty; after L, R pronounced /u:/, e.g. blue, ruler.
-- Combinations: oo, ui, eu, ew.
+- Combinations: ui, eu, ew.
 - Closed sound: e.g. but.
 - Long weak: e.g. burn.
-- Short weak: [ǝ] sound.
-- Light: rare, e.g. busy.
+- Short weak: /ǝ/ sound.
+- Light: rare, e.g. busy, minute.
 
 ## V v
 
@@ -148,7 +147,7 @@ This section revisits the pronunciation of words in the order of the 26 letters,
 
 ## W w
 
-- As a consonant, same as Chinese pinyin w.
+- As a consonant, same as Chinese pinyin [w].
 - As a vowel, equivalent to letter u.
 - Combinations: aw, ew, ow.
 

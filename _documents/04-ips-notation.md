@@ -109,10 +109,10 @@ Whichever letter bears the horizontal line above is read with that letter's open
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *Note: oi, oo, and au are read according to neither the first nor the second letter; they must be memorized separately.*
@@ -173,39 +173,37 @@ Whichever letter bears the horizontal line above is read with that letter's open
 >
 > **Reading Practice**
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## Substitutes for I and U
 
@@ -214,9 +212,9 @@ Whichever letter bears the horizontal line above is read with that letter's open
 | i ⟹ y | [ ī ] | [ ȳ ] | flȳ |
 | i ⟹ y | [ i ] | [ ẏ ] | lilẏ |
 | ai ⟹ ay | [ āi ] | [ āy ] | sāy |
+| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | ei ⟹ ey | [ ēi ] | [ ēy ] | kēy |
 | ei ⟹ ey | [ èi ] | [ èy ] | thèy |
-| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | eu ⟹ ew | [ eū ] | [ ew̄ ] | new̄ |
 | ou ⟹ ow | [ ōu ] | [ ōw ] | slōw |
 | ou ⟹ ow | [ òu ] | [ òw ] | còw |
@@ -228,15 +226,15 @@ Whichever letter bears the horizontal line above is read with that letter's open
 >
 > AY: bāy rāy wāy sāy hāy pāy Māy lāy
 >
-> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
+> AW: pãw drãw sãw strãw strãwberry̍ lãwn
 >
-> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
+> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
 >
 > OW: rainbōw pillōw yellōw windōw bōwl rōw hollōw lōw
 >
 > OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 >
-> AW: pãw drãw sãw strãw strãwberry̍ lãwn
+> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
 
 ## Vowel Letter + R
 
@@ -246,7 +244,7 @@ Whichever letter bears the horizontal line above is read with that letter's open
 |---|---|---|---|---|---|
 | Example | cāre | hēre | fīre | fōre | dūre |
 
-*Note: when an R sound follows immediately after an open sound, since the R sound involves a retroflex curl, the open sound changes automatically. IPS annotates the sound before the change, while IPA records the sound after the change; the two produce the same result.*
+*Note: when an R sound follows immediately after an open sound, since the R sound involves a retroflex curl, the open sound changes naturally. IPS annotates the sound before the change, while IPA records the sound after the change; the two produce the same result.*
 
 ### Closed Sound + R
 
@@ -268,6 +266,18 @@ Whichever letter bears the horizontal line above is read with that letter's open
 |---|---|---|---|---|
 | Example | be̊rg | bi̊rd | bůrn | ye̊ar |
 
+> **Exercise**
+>
+> **Reading Practice**
+>
+> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
+>
+> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
+>
+> OR: porch pork horse horn fort morning corn fork
+>
+> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
+
 ### Other
 
 | | [ àr ] |
@@ -279,28 +289,20 @@ Whichever letter bears the horizontal line above is read with that letter's open
 > **Reading Practice**
 >
 > AR: àrm càr càrd càrt fàrm pàrk gàrde̊n
->
-> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
->
-> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
->
-> OR: porch pork horse horn fort morning corn fork
->
-> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
 
 ## Consonant Letters
 
-These include the five closed sounds of the vowel letters, plus a few common consonants [g] [h] [sh] [w] [y].
-
-| Letter | A | B | C | D | E | F | G |
+| Letter | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Pronunciation | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| Letter | H | I | J | K | L | M | N |
-| Pronunciation | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| Letter | O | P | Q | | R | S | T |
-| Pronunciation | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| Letter | U | V | W | | X | Y | Z |
-| Pronunciation | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| Pronunciation | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| Letter | H | <font color="red">I</font> | J | K | L | M | N |
+| Pronunciation | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| Letter | <font color="red">O</font> | P | Q | | R | S | T |
+| Pronunciation | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| Letter | <font color="red">U</font> | V | W | | X | Y | Z |
+| Pronunciation | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+Added to the table are the five closed sounds of the vowel letters, plus a few common consonants [g] [h] [sh] [w] [y].
 
 Note: [y] is the /j/ of IPA; this method restores its original form.
 
@@ -359,19 +361,19 @@ Note: [y] is the /j/ of IPA; this method restores its original form.
 | g | [ g ] | go | g before a, o, u. |
 | | [ j ] | orange | before e, i, y¹, word-final ge |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | pronouns, articles, prepositions, conjunctions |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | at the beginning of a word |
+| x | [ x ] = [ z ] | xenon | at the beginning of a word |
 | ex | [ ėx ] = [ ėks ] | excess | x at the end or before a consonant, with some exceptions |
 | | [ ėẋ ] = [ ėgz ] | exact | x before a vowel, with some exceptions |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ Exceptions: finger, get, forget, together, begin, give, gift, girl, tiger
+¹ Exceptions: eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **Exercise**
 >

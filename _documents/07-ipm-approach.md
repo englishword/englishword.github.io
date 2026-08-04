@@ -3,6 +3,18 @@ title: "IPM — Integrated Pronunciation & Meaning"
 weight: 7
 ---
 
+Undeniably there is a strong connection between sound and meaning. If one simply listens, the relationship between sound and meaning is easy to grasp; yet to express that relationship in writing is exceedingly difficult.
+
+**1. Sound is holographic; writing is discrete.**
+
+When you hear a piece of music or a sentence, what you receive is the sum of pitch, timbre, rhythm, stress, and tone — a holistic, three-dimensional perception. Your brain need not take it apart; intuition alone tells you instantly whether it is sad, brisk, or angry. But the moment you try to "write" that feeling down, you are forced to chop the continuous sound wave into static, linear symbols. In passing from a holographic whole to linear symbols, 90% of the information is inevitably lost.
+
+**2. Intuition is instantaneous; logic lags behind.**
+
+When you hear the word slither, the friction of tongue against teeth instantly evokes a physical association of "slimy, sliding." But to explain in writing "why sl suggests sliding," you would have to dissect the actions of the vocal organs and the flow of air. By the time the explanation is done, that instantaneous "beauty" and "intuition" are long gone.
+
+Yet this section still attempts to describe the relationship between sound and meaning in words alone, which inevitably feels esoteric and unconvincing — but this book can do no otherwise. To truly understand the relationship between sound and meaning, the most direct and effective way is simply to listen and speak, again and again.
+
 ## Core Syllable
 
 Every word has a core syllable. The core syllable is the most important syllable of the entire word; whether listening, speaking, reading, or writing, one should grasp it accurately. Under normal circumstances, the core syllable consists of the core letter and the stressed vowel that follows it.
@@ -17,7 +29,7 @@ When writing, try not to misspell the few letters contained in the core syllable
 
 For example, in intimidate (in-𝓽im-id-āte), the core syllable is 𝓽im; catching the letter "𝓽" at a glance and sweeping the other letters with peripheral vision, one can instantly grasp the inner meaning of the whole word, rather than traversing from the letter "i" to the letter "e" — i→n→t→i→m→i→d→a→t→e — and then retrieving its meaning from the brain. This ability should be cultivated through ample practice.
 
-## Core Phoneme
+## Core Letters
 
 Every word has one or two core letters. The core letter is usually the first letter of the word or the first letter of the root. For a word without a prefix, it is the first letter of the word; for a word with a prefix, it is the first letter of the root. Since English has multi-consonant combinations, multi-consonants are also core letters. The cases of core letters are shown in Table 22:
 
@@ -37,11 +49,7 @@ Some words are compound words, formed by combining two words, and thus have two 
 
 When memorizing words, we should try to establish a connection between the word's meaning and its core letter, phoneme, and morpheme; on one hand this enables us to more accurately appreciate the connotations of the 26 letters, and on the other hand it is very helpful for grasping the word's vague meaning. This ability should be cultivated gradually in the process of memorizing words.
 
-For example, the core letter of good, great, God, etc. is G, so we know that the letter G carries a sense of goodness; similarly, from home, house, hold, have, help, we know that the letter H has the meaning of holding and protecting; and from light, relate, lace, line, long, we know that the letter L has the meaning of line and connection.
-
-Consonant letters other than the core letter can also carry part of the meaning, but this is not the focus, and this book does not discuss these consonant letters, such as the ll in full, fill, and the d in good. Interested readers may think further on their own.
-
-In Chapter 3 of this book, the core letters of all words are marked in bold; the connotations of the 26 letters are mostly to be appreciated by the reader gradually in the course of study.
+For example, the core letter of good, great, God, etc. is G, so we know that the letter G carries a sense of goodness; similarly, from home, house, hold, have, help, we know that the letter H has the meaning of holding and protecting; and from light, relate, lace, line, long, we know that the letter L has the meaning of line and connection. However, this is an esoteric insight that "can be intuitively grasped but not put into words"; the connotations of the core letters must be appreciated by the reader gradually through the course of study.
 
 ## Meaning of Core Phonemes
 
@@ -60,61 +68,65 @@ The pronunciation of vowels likewise carries rich meaning; the meaning of a vowe
 
 ### Meaning of Consonant Phonemes
 
-- \[b]: burst, explode, break, strip, block,
-- \[c]: run, go, take, grasp, sing, clamor
-- \[d]: heavy, sinking,
-- \[f]: wind, blow, fly, light,
-- \[g]: earth, big, life, give
-- \[h]: high, blow, exhale,
-- \[j]: joyful, connect, jet,
-- \[k]: open, knot, kick, strike,
-- \[l]: line, pull, connect,
-- \[m]: mother, female, mountain, move
-- \[n]: birth, negation
-- \[p]: flat, pat, strike, push
-- \[r]: grind, rub, rough, rise, emit,
-- \[s]: exhale, inhale, sit,
-- \[t]: mark, strike, twist
-- \[v]: look, spin, turn, victory
-- \[w]: water, wave, go, move,
+The following is only a rough textual description, meant to be intuitively grasped, not a summary of rules.
+
+- \[b]: burst, explode, break, strip, block, …
+- \[c]: run, go, take, grasp, sing, clamor, …
+- \[d]: heavy, sinking, …
+- \[f]: wind, blow, fly, light, …
+- \[g]: earth, big, life, give, …
+- \[h]: high, blow, exhale, …
+- \[j]: joyful, connect, jet, …
+- \[k]: open, knot, kick, strike, …
+- \[l]: line, pull, connect, …
+- \[m]: mother, female, mountain, move, …
+- \[n]: birth, negation, …
+- \[p]: flat, pat, strike, push, …
+- \[r]: grind, rub, rough, rise, emit, …
+- \[s]: exhale, inhale, sit, …
+- \[t]: mark, strike, twist, …
+- \[v]: look, spin, turn, victory, …
+- \[w]: water, wave, go, move, …
 
 ### Meaning of Consonant Phoneme Combinations
 
-- \[bl]: brightness, obstruction, color, vagueness, blow;
-- \[br]: arc, split, break, produce;
-- \[cl]: cross, sacred, faith, separate, merge, gather;
-- \[cr]: cry, climb, rise;
-- \[dr]: drag, violent, coarse, dry/wet, fall, pull;
-- \[dw]: low, short, brief;
-- \[fl]: flat, flow, bend, fly;
-- \[fr]: fracture, deceive;
-- \[gl]: smooth, bright, shine, radiance;
-- \[gn]: know, node, tumor;
-- \[gr]: grind, carve, write, grasp, grain, significant, grow, increase;
-- \[kn]: know, joint, knock;
-- \[ph]: speak, blow, appear;
-- \[pl]: flat/calm, bend, feather, fold, speak;
-- \[pr]: front, first, original, seize, selfish, press;
-- \[qu]: take, seek;
-- \[sc]: surface, climb, cut, look, carve, ascend;
-- \[scr]: sharp, scrape, fight, grasp;
-- \[shr]: shrink, wrap, repent, shriek, contract, less, refined;
-- \[sk]: surface, skip/slide;
-- \[sl]: wetness, suck, slow/loose, slender, thin, slip;
-- \[sm]: smear, smell, bind/beat, small, tiny;
-- \[sn]: nasal, secret;
-- \[sp]: small spot, scatter, speak, spin;
-- \[spl]: split, spot, splash;
-- \[spr]: radiate, spray, splash;
-- \[squ]: settle, squeeze, press;
-- \[st]: stand, stay, still, segment, spike;
-- \[str]: pull, drag, noise;
-- \[sw]: bend, swing, sway;
-- \[thr]: tremble, strike, leap, through;
-- \[tr]: through, wear, poke, pull;
-- \[tw]: twist, two, double;
-- \[wh]: turn, question;
-- \[wr]: twist, bend, wind, roll, wrinkle, wrench;
+The following is only a rough textual description, meant to be intuitively grasped, not a summary of rules.
+
+- \[bl]: brightness, obstruction, color, vagueness, blow, …
+- \[br]: arc, split, break, produce, …
+- \[cl]: cross, sacred, faith, separate, merge, gather, …
+- \[cr]: cry, climb, rise, …
+- \[dr]: drag, violent, coarse, dry/wet, fall, pull, …
+- \[dw]: low, short, brief, …
+- \[fl]: flat, flow, bend, fly, …
+- \[fr]: fracture, deceive, …
+- \[gl]: smooth, bright, shine, radiance, …
+- \[gn]: know, node, tumor, …
+- \[gr]: grind, carve, write, grasp, grain, significant, grow, increase, …
+- \[kn]: know, joint, knock, …
+- \[ph]: speak, blow, appear, …
+- \[pl]: flat/calm, bend, feather, fold, speak, …
+- \[pr]: front, first, original, seize, selfish, press, …
+- \[qu]: take, seek, …
+- \[sc]: surface, climb, cut, look, carve, ascend, …
+- \[scr]: sharp, scrape, fight, grasp, …
+- \[shr]: shrink, wrap, repent, shriek, contract, less, refined, …
+- \[sk]: surface, skip/slide, …
+- \[sl]: wetness, suck, slow/loose, slender, thin, slip, …
+- \[sm]: smear, smell, bind/beat, small, tiny, …
+- \[sn]: nasal, secret, …
+- \[sp]: small spot, scatter, speak, spin, …
+- \[spl]: split, spot, splash, …
+- \[spr]: radiate, spray, splash, …
+- \[squ]: settle, squeeze, press, …
+- \[st]: stand, stay, still, segment, spike, …
+- \[str]: pull, drag, noise, …
+- \[sw]: bend, swing, sway, …
+- \[thr]: tremble, strike, leap, through, …
+- \[tr]: through, wear, poke, pull, …
+- \[tw]: twist, two, double, …
+- \[wh]: turn, question, …
+- \[wr]: twist, bend, wind, roll, wrinkle, wrench, …
 
 ## Consonants Are Static, Vowels Are Dynamic
 
@@ -124,36 +136,31 @@ Since the pronunciation of vowel letters is highly variable while that of conson
 
 In the tense or part-of-speech inflection of English words, what changes is mostly the vowels; consonants usually do not change. This is mainly because the meaning remains basically unchanged, so the consonant letters do not change. For example:
 
-1) Inflection of the base form, past tense, and past participle of verbs
+1) Verb inflection
 
-begin    began    begun
-
-bite     bit      bitten
-
-see      saw      seen
+| Base form | Past tense | Past participle |
+|---|---|---|
+| be𝓰in | be𝓰an | be𝓰un |
+| 𝓫ite | 𝓫it | 𝓫itten |
+| 𝓼ee | 𝓼aw | 𝓼een |
 
 2) Part-of-speech change
 
-full      fill
-
-sit       seat
-
-choose    choice
-
-bind      band
+|  |  |
+|---|---|
+| 𝓯ull | 𝓯ill |
+| 𝓼it | 𝓼eat |
+| 𝓬𝓱oose | 𝓬𝓱oice |
+| 𝓫ind | 𝓫and |
 
 Because human beings share the same physical conditions and live in the same environment, this fundamentally determines that different languages will ultimately converge in their speech sounds. A few of the most obvious examples are given below. From these examples one can see that the sound and meaning of different languages are interlinked. This is especially evident in verbs, as illustrated below.
 
-back (背 bèi, "to carry")　　bomb (爆 bào, "to explode")　　do (打 dǎ, "to hit")
-
-give (给 gěi, "to give")　　send (送 sòng, "to send")　　bind (绑 bǎng, "to bind")
-
-fail (废 fèi, "to waste")　　pan (盘 pán, "plate")　　mop (抹 mǒ, "to wipe")
-
-cheat (欺 qī, "to deceive")　　lug (拉 lā, "to pull")　　law (律 lǜ, "law")
-
-pour (泼 pō, "to splash")　　warp (弯 wān, "to bend")　　go (归 guī, "to return")
-
-quick (快 kuài, "fast")　　whole (合 hé, "to join")　　harm (害 hài, "to harm")
-
-lazy (懒 lǎn, "lazy")
+|  |  |  |
+|---|---|---|
+| 背（𝓫ei） 𝓫ack | 爆（𝓫ao） 𝓫omb | 打（𝓭a） 𝓭o |
+| 给（𝓰ei） 𝓰ive | 送（𝓼ong） 𝓼end | 绑（𝓫ang） 𝓫ind |
+| 废（𝓯ei） 𝓯ail | 盘（𝓹an） 𝓹an | 抹（𝓶o） 𝓶op |
+| 欺（𝓺i） 𝓬𝓱eat | 拉（𝓵a） 𝓵ug | 律（𝓵v） 𝓵aw |
+| 泼（𝓹o） 𝓹our | 弯（𝔀an） 𝔀arp | 归（𝓰ui） 𝓰o |
+| 快（𝓴𝓾ai） 𝓺𝓾ick | 合（𝓱e） 𝕨𝓱ole | 害（𝓱ai） 𝓱arm |
+| 懒（𝓵an） 𝓵azy |  |  |

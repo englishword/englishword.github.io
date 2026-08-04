@@ -5,19 +5,70 @@ weight: 6
 
 Morphemes are divided into prefixes, roots, suffixes, and combining vowels.
 
-Since prefixes and suffixes are few in number while roots are numerous, one can memorize the prefixes and suffixes and accumulate roots gradually over time. Prefixes and roots each carry a definite original meaning, while suffixes serve to change the part of speech. By separating a word's prefix, root, and suffix with hyphens, the original meaning of the word is displayed plainly; a word that once appeared as an indivisible whole is broken into organically unified components. In this way, one can roughly infer a word's meaning from its prefix and root, and accurately determine its part of speech from its suffix. Suffixes are often formed by combining and transforming two or more suffixes; such multiple suffixes are also segmented to reveal the word's part-of-speech transformation process.
+Since prefixes and suffixes are few in number while roots are numerous, one can memorize the prefixes and suffixes and accumulate roots gradually over time. Prefixes and roots each carry a definite original meaning, while suffixes serve to change the part of speech. By separating a word's prefix, root, and suffix with hyphens, the original meaning of the word is displayed plainly; a word that once appeared as an indivisible whole is broken into components. In this way, one can roughly infer a word's meaning from its prefix and root, and accurately determine its part of speech from its suffix. Suffixes are often formed by combining and transforming one or more suffixes; such multiple suffixes are also segmented to reveal the word's part-of-speech transformation process.
 
 ## Roots
 
 Since roots are numerous, only a small commonly-used portion is listed below. For more, consult a relevant root dictionary.
 
-Summary of the most common roots:
-
-ag, act = do; agr = field; am = love; anim = mind, spirit, life; ann, enn = year; astro = star; audi = hear; bell = war; bio = life, living thing; brev = short; ced = go; cent = hundred; center, centr = center; cid, cis = kill, cut; claim, clam = cry out; clar = clear; clud, clos = close; cogn = know; cord = heart; cosm = universe, world; cred = believe; cur, cours = run; cycl = circle, ring; di = day; dict = say; duc, duct = lead; ed = eat; fact = do, make; fer = carry, bring; flu = flow; form = form, shape; fract, frag = break; fus = pour; gen = origin; geo = earth, land; grad = step, go; gram = write, record; graph = write, draw; gress = walk; hap = chance, luck; hospit = guest; insul = island; hydra = water; ject = throw; junct = join; lect, leg, lig = choose, gather; lev = lift, raise; liber = free; lingu = language; liter = letter; loc = place; log = speech; loqu = speak; manu = hand; medi = middle; memor = memory; milit = soldier; min = small, less; mob, mot, mov = move; mort = death; nov = new; numer = number; oper = work; opt = light; path = feeling, disease; pel = push, drive; pend, pen = hang; phon = sound; plen = full; pon, pos = place; popul = people; port = carry; prim = first; psych = mind; pur = pure; rect = straight; rid, ris = laugh; rupt = break; scend, scens, scent = climb; sci = know; sens, sent = feel; sol = sun; spec = look; spir = breathe, life; tact, tang, tag = touch; tail = cut; tain, ten, tin = hold, contain; tect = cover; tele = far; tend, tens, tent = stretch; text = weave; therm = heat; tor, tort = twist; tract = drag, pull; un, uni = one; ut = use; vac, van = empty; vari = change; ven = come; vert, vers = turn; vid, vis = see; vit, viv = life; volv = roll; wis, wit = know
+| Root | Meaning | Root | Meaning |
+|---|---|---|---|
+| ag, act | do | agr | field |
+| am | love | anim | mind, spirit, life |
+| ann, enn | year | astro | star |
+| audi | hear | bell | war |
+| bio | life, living thing | brev | short |
+| ced | go | cent | hundred |
+| center, centr | center | cid, cis | kill, cut |
+| claim, clam | cry out | clar | clear |
+| clud, clos | close | cogn | know |
+| cord | heart | cosm | universe, world |
+| cred | believe | cur, cours | run |
+| cycl | circle, ring | di | day |
+| dict | say | duc, duct | lead |
+| ed | eat | fact | do, make |
+| fer | carry, bring | flu | flow |
+| form | form, shape | fract, frag | break |
+| fus | pour | gen | origin |
+| geo | earth, land | grad | step, go |
+| gram | write, record | graph | write, draw |
+| gress | walk | hap | chance, luck |
+| hospit | guest | insul | island |
+| hydra | water | ject | throw |
+| junct | join | lect, leg, lig | choose, gather |
+| lev | lift, raise | liber | free |
+| lingu | language | liter | letter |
+| loc | place | log | speech |
+| loqu | speak | manu | hand |
+| medi | middle | memor | memory |
+| milit | soldier | min | small, less |
+| mob, mot, mov | move | mort | death |
+| nov | new | numer | number |
+| oper | work | opt | sight |
+| path | feeling, disease | pel | push, drive |
+| pend, pen | hang | phon | sound |
+| plen | full | pon, pos | place |
+| popul | people | port | carry |
+| prim | first | psych | mind |
+| pur | pure | rect | straight |
+| rid, ris | laugh | rupt | break |
+| scend, scens, scent | climb | sci | know |
+| sens, sent | feel | sol | sun |
+| spec | look | spir | breathe, life |
+| tact, tang, tag | touch | tail | cut |
+| tain, ten, tin | hold, contain | tect | cover |
+| tele | far | tend, tens, tent | stretch |
+| text | weave | therm | heat |
+| tor, tort | twist | tract | drag, pull |
+| un, uni | one | ut | use |
+| vac, van | empty | vari | change |
+| ven | come | vert, vers | turn |
+| vid, vis | see | vit, viv | life |
+| volv | roll | wis, wit | know |
 
 ## Prefixes
 
-Common prefixes and their variants are categorized below to aid memorization. The prefixes listed here are commonly used ones and do not represent all prefixes. Table 15 shows the prefixes and their variant rules; Table 16 shows the numerical prefixes.
+Common prefixes and their variants are categorized below to aid memorization. The prefixes listed here are commonly used ones and do not represent all prefixes.
 
 The most common form of prefix variation is "prefix assimilation," which means that the final consonant letter of the prefix assimilates to match the first letter of the root, so as to facilitate smooth pronunciation.
 
@@ -40,7 +91,6 @@ The most common form of prefix variation is "prefix assimilation," which means t
 | inter- | intra-, intro-<br>becomes intel- before l. | between, among |
 | contra- | variants contre-, contro | against, not |
 | se- | becomes sed- before vowels. | apart |
-| drop final letter | multi-, myria-, octa-,<br>cata-, para-, endo-,<br>ento-, penta-, quinque-, tetra-<br>drop the prefix's final letter before vowels.<br>anti- drops i before vowels or h<br>apo-, epi- drop the final letter before roots beginning with h | |
 
 **Table 16 — Numerical Prefixes**
 
@@ -52,9 +102,27 @@ The most common form of prefix variation is "prefix assimilation," which means t
 |---|---|---|---|---|---|---|---|
 | non-<br>enne- | deci-<br>deca- | semi-<br>demi-<br>hemi-<br>quasi- | multi-<br>poly- | cent-<br>hecto- | chili-<br>kilo- | milli-<br>mini-<br>micro- | macro- |
 
-Other common prefixes besides those in Tables 15 and 16 are listed below:
+Other common prefixes are listed below:
 
-ante- = before, front; auto- = self; be- = to make; bene- = good; by- = side, deputy; circum- = around; counter- = against; de- = intensive; dia- = through; endo- = within; eu- = good; fore- = before; hetero- = different; holo- = whole; homo- = same; hyper- = over; hypo- = under; infra- = below; iso- = equal; mal-/male- = bad; meta- = beyond, change; mis- = wrong; neo- = new; non- = not; omni- = all; out- = out; over- = over; paleo- = old; pan- = all; para- = beside; pen-/pene- = almost; peri- = around; poly- = many; post- = after; pre- = before; pro- = forward; proto- = first; pseudo- = false; re- = again; retro- = backward; sino- = China; step- = step; stereo- = solid; super- = over, above; supra- = above; trans- = across; tele- = far; ultra- = beyond; under- = under; vice- = deputy; with- = back, against
+| Prefix | Meaning | Prefix | Meaning | Prefix | Meaning |
+|---|---|---|---|---|---|
+| ante- | before, front | auto- | self | be- | to make |
+| bene- | good | by- | side, deputy | circum- | around |
+| counter- | against | de- | intensive | dia- | through |
+| endo- | within | eu- | good | fore- | before |
+| hetero- | different | holo- | whole | homo- | same |
+| hyper- | over | hypo- | under | infra- | below |
+| iso- | equal | mal-/male- | bad | meta- | beyond, change |
+| mis- | wrong | neo- | new | non- | not |
+| omni- | all | out- | out | over- | over |
+| paleo- | old | pan- | all | para- | beside |
+| pen-/pene- | almost | peri- | around | poly- | many |
+| post- | after | pre- | before | pro- | forward |
+| proto- | first | pseudo- | false | re- | again |
+| retro- | backward | sino- | China | step- | step |
+| stereo- | solid | super- | over, above | supra- | above |
+| trans- | across | tele- | far | ultra- | beyond |
+| under- | under | vice- | deputy | with- | back, against |
 
 ## Suffixes
 
@@ -92,11 +160,11 @@ Most students know to add -ly to an adjective to form an adverb; to add -ing and
 
 Suffix variation rules:
 
-1. Change y to i: a morpheme ending in y changes y to i when another suffix is added; if that suffix begins with i, only one i is kept.
+1. **Change y to i**: a morpheme ending in y changes y to i when another suffix is added; if that suffix begins with i, only one i is kept.
 
-2. Drop e: when a suffix beginning with a vowel or semivowel is appended after a silent letter e, the e is dropped; when a suffix beginning with a consonant is appended, the e is kept. However, as in changeable, the e is kept to prevent g from changing its sound. (Since a final silent e serves as a marker for distinguishing open and closed sounds, dropping it can sometimes cause confusion between open and closed sounds — take care.)
+2. **Drop e**: when a suffix beginning with a vowel or semivowel is appended after a silent letter e, the e is dropped; when a suffix beginning with a consonant is appended, the e is kept. However, as in changeable, the e is kept to prevent g from changing its sound. (Since a final silent e serves as a marker for distinguishing open and closed sounds, dropping it can sometimes cause confusion between open and closed sounds — take care.)
 
-3. Double: a stressed closed syllable ending in a single vowel letter plus a doubable consonant letter doubles that final doubable consonant when adding certain suffixes beginning with a vowel, -y, or -le (common doubling suffixes are shown in Table 18). For example: app-le (stressed closed syllable, doubled); tab-le (stressed open syllable, not doubled); happ-y (stressed closed syllable, doubled).
+3. **Double**: a stressed closed syllable ending in a single vowel letter plus a doubable consonant letter doubles that final doubable consonant when adding certain suffixes beginning with a vowel, -y, or -le. For example: app-le (stressed closed syllable, doubled); tab-le (stressed open syllable, not doubled); happ-y (stressed closed syllable, doubled).
 
 Conversely, whether doubling occurs can be used to determine whether the preceding vowel letter is in an open or closed syllable.
 
@@ -107,53 +175,26 @@ The consonant letter C may be doubled as cc or ck depending on the vowel letter 
 
 Note the distinction: prefix assimilation is not doubling, as in affect; and some words inherently contain doubled letters that are not the result of doubling, as in ill, bill, billion, passage.
 
-**Table 18 — Common Suffixes That Double the Consonant**
-
-|  | Suffixes that double the consonant |
-|---|---|
-| A | -å, -år, -årẏ, -ȧage, |
-| E | -ēe，-e̊r, -e̊rẏ, -ed, -est, -ėy, (n/r后)-e̊l, -e̊n, |
-| I,Y | -ẏ, -i-(由-y变形而来) , -ing |
-| O | -ō,(l/r后)-ōw, -o̊r/-o̊ur, -o̊n, -o̊m, -o̊rẏ |
-| L | -le |
-
 Below are some examples of suffix variation, though not an exhaustive list; the word examples section will show the various variations of suffixes and their part-of-speech changes clearly.
 
--u-le→-ule→-ul-;
-
--i-le→-ile→-il-;
-
--i-fy→-ify→-ifi-→-if-;
-
--le-ing→-ling;
-
--le-er→-ler;
-
--le-ed→-led;
-
--i-ous→-ious;
-
--i-on→-ion;
-
--acy-ous→-acious;
-
--acy-ty→acity;
-
--ist-er→-istr（少量）;
-
--ate-ion→-ation;
-
--ate-ic→-at-ic;
-
--ate-ive→-at-ive;
-
--ate-ory→-at-ory;
-
--ary-um→-ari-um;
-
--ory-um→-ori-um;
-
--acy-ous→-aci-ous.
+- -u-le ⟹ -ule ⟹ -ul-
+- -i-le ⟹ -ile ⟹ -il-
+- -i-fy ⟹ -ify ⟹ -ifi- ⟹ -if-
+- -le-ing ⟹ -ling
+- -le-er ⟹ -ler
+- -le-ed ⟹ -led
+- -i-ous ⟹ -ious
+- -i-on ⟹ -ion
+- -acy-ous ⟹ -acious
+- -acy-ty ⟹ acity
+- -ist-er ⟹ -istr（少量）
+- -ate-ion ⟹ -ation
+- -ate-ic ⟹ -at-ic
+- -ate-ive ⟹ -at-ive
+- -ate-ory ⟹ -at-ory
+- -ary-um ⟹ -ari-um
+- -ory-um ⟹ -ori-um
+- -acy-ous ⟹ -aci-ous
 
 ## Common Combinations of Prefixes and Suffixes
 

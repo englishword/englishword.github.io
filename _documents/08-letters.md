@@ -7,7 +7,7 @@ An English word is a unity of sound, form, and meaning; the letters that make up
 
 The 26 letters are more fundamental and microscopic elements than words; therefore, the unified relationship of sound, form, and meaning of the 26 letters is difficult to describe in a higher-level language. To elaborate on the connotations of the letters, we need to explore things more basic than the letters themselves.
 
-The sound of a letter is closely related to the physiological structure of the human vocal organs — the mouth, throat, lungs, etc. Although the sounds of nature are rich and diverse, the sounds that the human mouth can produce are limited. The form of a letter is closely related to the joint structure of the human hand; the physiological structure of the human hand makes certain symbols suitable for easy writing. The meaning of a letter is closely related to human food, clothing, shelter, and transportation.
+The sound of a letter is closely related to the physiological structure of the human vocal organs — the mouth, throat, lungs, etc. Although the sounds of nature are rich and diverse, the sounds that the human mouth can produce are limited. The form of a letter is closely related to the joint structure of the human hand; the physiological structure of the human hand makes certain symbols suitable for easy writing. The meaning of a letter is closely related to food, clothing, shelter, and transportation.
 
 Since a letter is a unified whole of sound, form, and meaning, the phenomenon of pairwise mutual conversion between "sound," "form," and "meaning" often occurs (sound-to-meaning, meaning-to-sound, form-to-meaning, meaning-to-form, sound-to-form, form-to-sound).
 
@@ -19,15 +19,15 @@ The table below is the pronunciation table of the English letters; one can see t
 
 **Pronunciation of the 26 Letters\***
 
-| Letter | A | B | C | D | E | F | G |
+| Letter | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Pronunciation | [ā] | [bē] | [cē] | [dē] | [ē] | [ef] | [gē] |
-| Letter | H | I | J | K | L | M | N |
-| Pronunciation | [āch] | [ī] | [jā] | [kā] | [el] | [em] | [en] |
-| Letter | O | P | Q |  | R | S | T |
-| Pronunciation | [ō] | [pē] | [kū] |  | [àr] | [es] | [tē] |
-| Letter | U | V | W |  | X | Y | Z |
-| Pronunciation | [ū] | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
+| Pronunciation | <font color="red">[ā]</font> | [bē] | [cē] | [dē] | <font color="red">[ē]</font> | [ef] | [gē] |
+| Letter | H | <font color="red">I</font> | J | K | L | M | N |
+| Pronunciation | [āch] | <font color="red">[ī]</font> | [jā] | [kā] | [el] | [em] | [en] |
+| Letter | <font color="red">O</font> | P | Q |  | <font color="red">R</font> | S | T |
+| Pronunciation | <font color="red">[ō]</font> | [pē] | [kū] |  | <font color="red">[àr]</font> | [es] | [tē] |
+| Letter | <font color="red">U</font> | V | W |  | X | Y | Z |
+| Pronunciation | <font color="red">[ū]</font> | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
 
 ## The Form of Letters
 
@@ -61,8 +61,8 @@ When writing the vertical line "\|", it is written from top to bottom; the circl
 - 𝓿:  sharpened (counterclockwise) lower half-circle
 - 𝔀:  sharpened (counterclockwise) lower half-circle + sharpened (counterclockwise) lower half-circle
 - 𝔁:  (clockwise) right half-circle + (counterclockwise) left half-circle
-- 𝔂:  sharpened (counterclockwise) lower half-circle + long vertical + (clockwise) lower half-circle
-- 𝔃:  upper short dash + lower short dash (connected in the middle)
+- 𝔂:  sharpened (counterclockwise) lower half-circle + (clockwise) lower half-circle
+- 𝔃:  upper short dash + (connected in the middle) + lower short dash
 
 Among the lowercase letters, all five vowel letters occupy only the middle grid; the consonant letters that occupy only the middle grid are the weaker-sounding consonants, such as the nasals 𝓶, 𝓷, the fricatives 𝓼, 𝔃, and the semivowel 𝔀. The consonant letters that occupy two grids are all stronger-sounding consonants. Thus it can be seen that there is a certain connection between the form of a letter and its pronunciation.
 
@@ -76,7 +76,7 @@ Letters occupying two grids are more visually prominent; letters occupying one g
 
 In rapid handwriting, a vowel letter occupying one grid and a consonant letter occupying one grid are likely to be swiftly swept over in a single connected stroke, while the consonant letters occupying two grids protrude upward or downward like spikes, and are the key visual features caught in rapid reading.
 
-To make the initial letter more prominent, capital letters were created; a capital letter is very similar to its corresponding lowercase letter, usually having been made taller, wider, larger, or sharpened.
+To make the initial letter more prominent, capital letters were created; a capital letter is very similar to its corresponding lowercase letter, usually having been made taller, wider, larger, or sharpened, upgrading from an inconspicuous letter to the most prominent letter in the word.
 
 - 𝓐:  sharpened, made taller and larger, upgraded from one grid to two grids
 - 𝓑:  enlarged, with an extra right half-circle at the top
@@ -107,7 +107,7 @@ To make the initial letter more prominent, capital letters were created; a capit
 
 ## The Meaning of Letters
 
-Since the form and sound of English letters are closely related, combining the letter form and pronunciation together with phonemes, one can appreciate the inner meaning.
+Since the form and sound of English letters are closely related, combining the letter form and pronunciation together with phonemes, one can appreciate the inner meaning. This subsection is content to be "intuitively grasped" and should not be treated as a general rule.
 
 - 𝓐, 𝓪:  being the first of the 26 letters, it carries the meaning of "first." From the form of A, it resembles an arrowhead, very sharp, like the Eiffel Tower, symbolizing masculinity.
 
@@ -213,21 +213,9 @@ Figure 3. Consonant letter relationship diagram
 
 Figure 4 shows the vowel letter relationship diagram. Many of the letters or letter combinations in the diagram have more than one pronunciation; their specific pronunciation cases have been listed in vowel table 9, so their relationships are not explained further here.
 
-Table 21 shows the vowel letter combination table; from the table one can see that not any two vowel letters can combine to form a single vowel sound.
-
 Figure 4. Vowel letter relationship diagram
 
 ![Vowel letter relationship diagram](/images/documents/08-vowel-relationship-en.svg)
-
-**Vowel Combination Table**
-
-|  | -A | -E | -I/Y | -O | -U/W | -R |
-|---|---|---|---|---|---|---|
-| A- |  |  | ai/ay |  | au/aw | ar |
-| E- | ea | ee | ei/ey |  | eu/ew | er |
-| I- |  | ie |  |  |  | ir |
-| O- | oa |  | oi/oy | oo | ou/ow | or |
-| U- |  |  | ui |  |  | ur |
 
 ## Word Meaning and the Translation of Words
 
@@ -241,6 +229,6 @@ The "meaning" of a language depends on its own "form" and "sound" to exist; sepa
 
 ## Grasping Meaning from Spelling
 
-The meaning of a word can be deconstructed from multiple levels — letters, phonemes, syllables, and morphemes. Approaching from multiple aspects, going deeper layer by layer, dismantling step by step, and finally synthesizing the four aspects gives the most complete and correct meaning of the word.
+The meaning of a word can be deconstructed from multiple levels — letters, phonemes, syllables, morphemes, and context. Approaching from multiple aspects, going deeper layer by layer, dismantling step by step, and finally synthesizing multiple aspects gives the most complete and correct meaning of the word.
 
 The "grasping meaning from spelling" discussed in this book does not mean accurately stating the translated meaning of the word, but rather the literal vague meaning of the word. It is especially applicable to words that conform to word-formation rules. This vague meaning goes directly to the essential connotation of the word; it is a more scientific and rapid kind of meaning, applicable to learners whose native language is any language.
