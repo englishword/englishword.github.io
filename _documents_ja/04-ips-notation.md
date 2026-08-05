@@ -109,10 +109,10 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *注:oi, oo, au は第1文字でも第2文字でもなく読まれ、別途覚える必要があります。*
@@ -173,39 +173,37 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 >
 > **音読練習**
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## I と U の代替文字
 
@@ -214,9 +212,9 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 | i ⟹ y | [ ī ] | [ ȳ ] | flȳ |
 | i ⟹ y | [ i ] | [ ẏ ] | lilẏ |
 | ai ⟹ ay | [ āi ] | [ āy ] | sāy |
+| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | ei ⟹ ey | [ ēi ] | [ ēy ] | kēy |
 | ei ⟹ ey | [ èi ] | [ èy ] | thèy |
-| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | eu ⟹ ew | [ eū ] | [ ew̄ ] | new̄ |
 | ou ⟹ ow | [ ōu ] | [ ōw ] | slōw |
 | ou ⟹ ow | [ òu ] | [ òw ] | còw |
@@ -228,15 +226,15 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 >
 > AY: bāy rāy wāy sāy hāy pāy Māy lāy
 >
-> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
+> AW: pãw drãw sãw strãw strãwberry̍ lãwn
 >
-> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
+> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
 >
 > OW: rainbōw pillōw yellōw windōw bōwl rōw hollōw lōw
 >
 > OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 >
-> AW: pãw drãw sãw strãw strãwberry̍ lãwn
+> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
 
 ## 母音字 + R
 
@@ -246,7 +244,7 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 |---|---|---|---|---|---|
 | 例 | cāre | hēre | fīre | fōre | dūre |
 
-*注:開音の直後に R 音が続く場合、R 音は舌をそらせる巻き舌に関連するため、開音は自動的に変化します。IPSは変化前の音を示し、IPAは変化後の音を固定しますが、結果は同じになります。*
+*注:開音の直後に R 音が続く場合、R 音は舌をそらせる巻き舌に関連するため、開音は自然に変化します。IPSは変化前の音を示し、IPAは変化後の音を固定しますが、結果は同じになります。*
 
 ### 閉音 + R
 
@@ -268,6 +266,18 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 |---|---|---|---|---|
 | 例 | be̊rg | bi̊rd | bůrn | ye̊ar |
 
+> **練習**
+>
+> **音読練習**
+>
+> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
+>
+> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
+>
+> OR: porch pork horse horn fort morning corn fork
+>
+> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
+
 ### その他
 
 | | [ àr ] |
@@ -279,28 +289,20 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 > **音読練習**
 >
 > AR: àrm càr càrd càrt fàrm pàrk gàrde̊n
->
-> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
->
-> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
->
-> OR: porch pork horse horn fort morning corn fork
->
-> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
 
 ## 子音字
 
-ここには母音字の5つの閉音と、いくつかの一般的な子音 [g] [h] [sh] [w] [y] が含まれます。
-
-| 字 | A | B | C | D | E | F | G |
+| 字 | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| 発音 | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| 字 | H | I | J | K | L | M | N |
-| 発音 | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| 字 | O | P | Q | | R | S | T |
-| 発音 | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| 字 | U | V | W | | X | Y | Z |
-| 発音 | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| 発音 | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| 字 | H | <font color="red">I</font> | J | K | L | M | N |
+| 発音 | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| 字 | <font color="red">O</font> | P | Q | | R | S | T |
+| 発音 | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| 字 | <font color="red">U</font> | V | W | | X | Y | Z |
+| 発音 | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+ここには母音字の5つの閉音と、いくつかの一般的な子音 [g] [h] [sh] [w] [y] が含まれます。
 
 注:[y] は IPA の /j/ です。本メソッドはその本来の形を復元します。
 
@@ -359,19 +361,19 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 | g | [ g ] | go | g は a, o, u の前。 |
 | | [ j ] | orange | e, i, y¹ の前、語尾の ge |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | 代名詞、冠詞、前置詞、接続詞 |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | 語頭 |
+| x | [ x ] = [ z ] | xenon | 語頭 |
 | ex | [ ėx ] = [ ėks ] | excess | x は語尾または子音の前、一部例外あり |
 | | [ ėẋ ] = [ ėgz ] | exact | x は母音の前、一部例外あり |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ 例外:finger, get, forget, together, begin, give, gift, girl, tiger
+¹ 例外:eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **練習**
 >
@@ -494,7 +496,7 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 
 黙字はさまざまな方法で示されます — 取り消し線、斜線、下点などです。表現力のため、本書では二重輪郭文字(blackboard bold)を使用します。学習者がすでにこれらの黙字を覚えていれば、標記なしでもかまいません。
 
-### 黙子音
+### 黙子音字
 
 | 組み合わせ | 例 |
 |---|---|
@@ -514,7 +516,7 @@ IPS表記は、26個の英字と中国語のピンインを知っている小学
 | -is𝕥- | lis𝕥en, c𝕙ris𝕥en, c𝕙ris𝕥mas, whis𝕥le |
 | 𝕤 | i𝕤land |
 
-### 黙母音
+### 黙母音字
 
 語尾に黙字 e を持つ単語は大きな割合を占めるため、便宜上、語尾の黙字 e は標記されません。語中にある黙字 e のみが標記されます。
 

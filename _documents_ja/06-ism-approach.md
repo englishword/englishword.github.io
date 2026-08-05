@@ -5,19 +5,70 @@ weight: 6
 
 形態素は、接頭辞、語根、接尾辞、結合母音に分けられます。
 
-接頭辞と接尾辞は少なく、語根は多いため、接頭辞と接尾辞を暗記し、時間をかけて次第に語根を蓄積していくことができます。接頭辞と語根はそれぞれある本来の意味を持ち、接尾辞は品詞を変えるのに使われます。ハイフンによる単語の接頭辞・語根・接尾辞の分割を通じて、単語の本来の意味が明らかになります。本来分割できない一つのまとまりのように見えた単語が、統一された有機的な構成要素に分解されます。こうして接頭辞と語根から単語のおおよその意味を推測し、接尾辞からその品詞を正確に特定できます。接尾辞はしばしば2つ以上の接尾辞の結合と変形によって形成されます。こうした複合接尾辞も分割され、単語の品詞変化の過程を明らかにします。
+接頭辞と接尾辞は少なく、語根は多いため、接頭辞と接尾辞を暗記し、時間をかけて次第に語根を蓄積していくことができます。接頭辞と語根はそれぞれある本来の意味を持ち、接尾辞は品詞を変えるのに使われます。ハイフンによる単語の接頭辞・語根・接尾辞の分割を通じて、単語の本来の意味が明らかになります。本来分割できない一つのまとまりのように見えた単語が、統一された構成要素に分解されます。こうして接頭辞と語根から単語のおおよその意味を推測し、接尾辞からその品詞を正確に特定できます。接尾辞はしばしば1つ以上の接尾辞の結合と変形によって形成されます。こうした複合接尾辞も分割され、単語の品詞変化の過程を明らかにします。
 
 ## 語根(root)
 
 語根は非常に多いため、以下では最も一般的な語根の一部のみを列挙します。さらに知るには、専門の語根辞典を参照してください。
 
-一般的な語根のまとめ:
-
-ag, act = する、作り出す; agr = 農地、畑; am = 愛; anim = 精神、魂、命; ann, enn = 年; astro = 星; audi = 聞く; bell = 戦争; bio = 命、生物; brev = 短い; ced = 行く; cent = 百; center, centr = 中心; cid, cis = 殺す、切る; claim, clam = 叫ぶ、叫び; clar = 明瞭な; clud, clos = 閉じる; cogn = 知る、認識する; cord = 心臓; cosm = 宇宙、世界; cred = 信じる; cur, cours = 走る; cycl = 輪、円; di = 日; dict = 語る; duc, duct = 導く; ed = 食べる; fact = する; fer = 運ぶ、持ってくる; flu = 流れる; form = 形、形態; fract, frag = 壊す、折れる; fus = 注ぐ、鋳造する; gen = 起源; geo = 大地; grad = 歩む、行く; gram = 書く、記録; graph = 書く、描く; gress = 歩む; hap = 偶然、幸運; hospit = 客; insul = 島; hydra = 水; ject = 投げる; junct = 結ぶ、接続する; lect, leg, lig = 選ぶ、集める; lev = 持ち上げる; liber = 自由; lingu = 言語; liter = 文字; loc = 場所; log = 言葉、語; loqu = 語る; manu = 手; medi = 間、中間; memor = 記憶; milit = 兵士; min = 小さい、少ない; mob, mot, mov = 移動する; mort = 死; nov = 新しい; numer = 数; oper = 働く; opt = 光; path = 感情、病; pel = 押す、推進する; pend, pen = 吊るす; phon = 音; plen = 満ちる; pon, pos = 置く; popul = 民衆; port = 運ぶ; prim = 第一、最初; psych = 心; pur = 清らかな; rect = まっすぐな; rid, ris = 笑う; rupt = 切れる、折れる; scend, scens, scent = 登る; sci = 知る; sens, sent = 感覚; sol = 太陽; spec = 見る; spir = 呼吸する、命; tact, tang, tag = 触れる; tail = 切る; tain, ten, tin = 保つ、含む; tect = 覆う; tele = 遠い; tend, tens, tent = 伸ばす、張る; text = 織る; therm = 熱、暑い; tor, tort = 回す、ねじる; tract = 引く、引き寄せる; un, uni = 一つ; ut = 使う; vac, van = 空の; vari = 変わる; ven = 来る; vert, vers = 回す、反転する; vid, vis = 見る; vit, viv = 生きる; volv = 転がる; wis, wit = 知る
+| 語根 | 意味 | 語根 | 意味 |
+|---|---|---|---|
+| ag, act | する、作り出す | agr | 農地、畑 |
+| am | 愛 | anim | 精神、魂、命 |
+| ann, enn | 年 | astro | 星 |
+| audi | 聞く | bell | 戦争 |
+| bio | 命、生物 | brev | 短い |
+| ced | 行く | cent | 百 |
+| center, centr | 中心 | cid, cis | 殺す、切る |
+| claim, clam | 叫ぶ、叫び | clar | 明瞭な |
+| clud, clos | 閉じる | cogn | 知る、認識する |
+| cord | 心臓 | cosm | 宇宙、世界 |
+| cred | 信じる | cur, cours | 走る |
+| cycl | 輪、円 | di | 日 |
+| dict | 語る | duc, duct | 導く |
+| ed | 食べる | fact | する |
+| fer | 運ぶ、持ってくる | flu | 流れる |
+| form | 形、形態 | fract, frag | 壊す、折れる |
+| fus | 注ぐ、鋳造する | gen | 起源 |
+| geo | 大地 | grad | 歩む、行く |
+| gram | 書く、記録 | graph | 書く、描く |
+| gress | 歩む | hap | 偶然、幸運 |
+| hospit | 客 | insul | 島 |
+| hydra | 水 | ject | 投げる |
+| junct | 結ぶ、接続する | lect, leg, lig | 選ぶ、集める |
+| lev | 持ち上げる | liber | 自由 |
+| lingu | 言語 | liter | 文字 |
+| loc | 場所 | log | 言葉、語 |
+| loqu | 語る | manu | 手 |
+| medi | 間、中間 | memor | 記憶 |
+| milit | 兵士 | min | 小さい、少ない |
+| mob, mot, mov | 移動する | mort | 死 |
+| nov | 新しい | numer | 数 |
+| oper | 働く | opt | 視覚 |
+| path | 感情、病 | pel | 押す、推進する |
+| pend, pen | 吊るす | phon | 音 |
+| plen | 満ちる | pon, pos | 置く |
+| popul | 民衆 | port | 運ぶ |
+| prim | 第一、最初 | psych | 心 |
+| pur | 清らかな | rect | まっすぐな |
+| rid, ris | 笑う | rupt | 切れる、折れる |
+| scend, scens, scent | 登る | sci | 知る |
+| sens, sent | 感覚 | sol | 太陽 |
+| spec | 見る | spir | 呼吸する、命 |
+| tact, tang, tag | 触れる | tail | 切る |
+| tain, ten, tin | 保つ、含む | tect | 覆う |
+| tele | 遠い | tend, tens, tent | 伸ばす、張る |
+| text | 織る | therm | 熱、暑い |
+| tor, tort | 回す、ねじる | tract | 引く、引き寄せる |
+| un, uni | 一つ | ut | 使う |
+| vac, van | 空の | vari | 変わる |
+| ven | 来る | vert, vers | 回す、反転する |
+| vid, vis | 見る | vit, viv | 生きる |
+| volv | 転がる | wis, wit | 知る |
 
 ## 接頭辞
 
-以下では、覚えやすいように、一般的な接頭辞とその変形を分類します。ここに列挙した接頭辞は一般的なもので、すべての接頭辞を代表するものではありません。表15に接頭辞とその変形規則を、表16に数詞接頭辞を示します。
+以下では、覚えやすいように、一般的な接頭辞とその変形を分類します。ここに列挙した接頭辞は一般的なもので、すべての接頭辞を代表するものではありません。
 
 接頭辞の変形で最も一般的な形は「接頭辞の同化」であり、すなわち接頭辞の末尾の子音字が、発音を滑らかにするために、語根の先頭字に同化して一致することです。
 
@@ -40,7 +91,6 @@ ag, act = する、作り出す; agr = 農地、畑; am = 愛; anim = 精神、�
 | inter- | intra-, intro-<br>l の前に intel- となる。 | 間 |
 | contra- | 変形 contre-, contro | 逆、不 |
 | se- | 母音の前に sed- となる。 | 離れる |
-| 末尾字の脱落 | multi-, myria-, octa-,<br>cata-, para-, endo-,<br>ento-, penta-, quinque-, tetra-<br>母音の前に接頭辞の末尾字を脱落させる。<br>anti- は母音または h の前に i を脱落<br>apo-, epi- は h で始まる語根の前に末尾字を脱落 | |
 
 **表16 — 数詞接頭辞**
 
@@ -54,7 +104,25 @@ ag, act = する、作り出す; agr = 農地、畑; am = 愛; anim = 精神、�
 
 表15と表16の接頭辞以外の一般的な接頭辞を以下に列挙します:
 
-ante- = 前、前方; auto- = 自ら; be- = 〜させる; bene- = 良い; by- = わき、代替; circum- = 周囲; counter- = 逆、反対; de- = 強(下、削除); dia- = 貫通; endo- = 内; eu- = 良い、美; fore- = 前; hetero- = 異なる; holo- = 全; homo- = 同様、同じ; hyper- = 上、超; hypo- = 下; infra- = 下; iso- = 等しい、均一; mal-/male- = 悪い; meta- = 超、変化; mis- = 誤り; neo- = 新しい; non- = 不; omni- = すべて; out- = 外へ; over- = 上、過; paleo- = 古代; pan- = 全、すべて; para- = そば; pen-/pene- = 近い; peri- = 周囲; poly- = 多; post- = 後; pre- = 前; pro- = 前、前へ; proto- = 第一、本来; pseudo- = 偽; re- = 再び; retro- = 戻る、逆; sino- = 中国; step- = 継; stereo- = 固い、堅固; super- = 上、超; supra- = 上; trans- = 貫通、越える; tele- = 遠い; ultra- = 超; under- = 下; vice- = 代替; with- = 逆、戻る
+| 接頭辞 | 意味 | 接頭辞 | 意味 | 接頭辞 | 意味 |
+|---|---|---|---|---|---|
+| ante- | 前、前方 | auto- | 自ら | be- | 〜させる |
+| bene- | 良い | by- | わき、代替 | circum- | 周囲 |
+| counter- | 逆、反対 | de- | 強(下、削除) | dia- | 貫通 |
+| endo- | 内 | eu- | 良い、美 | fore- | 前 |
+| hetero- | 異なる | holo- | 全 | homo- | 同様、同じ |
+| hyper- | 上、超 | hypo- | 下 | infra- | 下 |
+| iso- | 等しい、均一 | mal-/male- | 悪い | meta- | 超、変化 |
+| mis- | 誤り | neo- | 新しい | non- | 不 |
+| omni- | すべて | out- | 外へ | over- | 上、過 |
+| paleo- | 古代 | pan- | 全、すべて | para- | そば |
+| pen-/pene- | 近い | peri- | 周囲 | poly- | 多 |
+| post- | 後 | pre- | 前 | pro- | 前、前へ |
+| proto- | 第一、本来 | pseudo- | 偽 | re- | 再び |
+| retro- | 戻る、逆 | sino- | 中国 | step- | 継 |
+| stereo- | 固い、堅固 | super- | 上、超 | supra- | 上 |
+| trans- | 貫通、越える | tele- | 遠い | ultra- | 超 |
+| under- | 下 | vice- | 代替 | with- | 逆、戻る |
 
 ## 接尾辞
 
@@ -92,11 +160,11 @@ ante- = 前、前方; auto- = 自ら; be- = 〜させる; bene- = 良い; by- = 
 
 接尾辞の変形規則:
 
-1. y を i に変える:y で終わる形態素は、別の接尾辞を付ける際に y を i に変えます。この接尾辞が i で始まる場合は、i を1つだけ残します。
+1. **y を i に変える**:y で終わる形態素は、別の接尾辞を付ける際に y を i に変えます。この接尾辞が i で始まる場合は、i を1つだけ残します。
 
-2. E を取る:黙字 e の後に母音または半母音で始まる接尾辞を付ける場合は e を取り、子音で始まる接尾辞を付ける場合は e を保ちます。ただし changeable のように、g の音が変わるのを防ぐために e を保ちます。(語尾の黙字 e は開音と閉音を区別する標識の役割を果たすため、それを取ると時に開音と閉音の混同を招きえます — 注意が必要です。)
+2. **E を取る**:黙字 e の後に母音または半母音で始まる接尾辞を付ける場合は e を取り、子音で始まる接尾辞を付ける場合は e を保ちます。ただし changeable のように、g の音が変わるのを防ぐために e を保ちます。(語尾の黙字 e は開音と閉音を区別する標識の役割を果たすため、それを取ると時に開音と閉音の混同を招きえます — 注意が必要です。)
 
-3. 重ねる:強勢のある閉音節で、単一の母音字と重ね可能な子音字1つで終わるものは、母音で始まる一部の接尾辞、-y または -le を付ける際にその末尾の子音を重ねます(最も一般的に子音を重ねる接尾辞を表18に示します)。例:app-le(強勢閉音節、重ねる)。tab-le(強勢開音節、重ねない)。happ-y(強勢閉音節、重ねる)。
+3. **重ねる**:強勢のある閉音節で、単一の母音字と重ね可能な子音字1つで終わるものは、母音で始まる一部の接尾辞、-y または -le を付ける際にその末尾の子音を重ねます。例:app-le(強勢閉音節、重ねる)。tab-le(強勢開音節、重ねない)。happ-y(強勢閉音節、重ねる)。
 
 逆に、重ねるかどうかは、前の母音字が開音節か閉音節にあるかを判断するのに使えます。
 
@@ -107,53 +175,26 @@ qu で始まる単語では、u は [w] と発音され子音とみなされま�
 
 注意して区別してください:接頭辞の同化は重ねではありません(affect のように)。また、一部の単語はそれ自体が重ね字を含んでおり、重ねによるものではありません(ill, bill, billion, passage のように)。
 
-**表18 — 子音を重ねる一般的な接尾辞**
-
-|  | 子音を重ねる接尾辞 |
-|---|---|
-| A | -å, -år, -årẏ, -ȧage, |
-| E | -ēe, -e̊r, -e̊rẏ, -ed, -est, -ėy, (n/rの後)-e̊l, -e̊n, |
-| I,Y | -ẏ, -i- (-y からの変形), -ing |
-| O | -ō, (l/rの後)-ōw, -o̊r/-o̊ur, -o̊n, -o̊m, -o̊rẏ |
-| L | -le |
-
 以下に接尾辞の変形の例をいくつか示します。網羅的ではありませんが、例語の部分から接尾辞のさまざまな変形とその品詞変化がはっきり分かります。
 
--u-le→-ule→-ul-;
-
--i-le→-ile→-il-;
-
--i-fy→-ify→-ifi-→-if-;
-
--le-ing→-ling;
-
--le-er→-ler;
-
--le-ed→-led;
-
--i-ous→-ious;
-
--i-on→-ion;
-
--acy-ous→-acious;
-
--acy-ty→acity;
-
--ist-er→-istr (少ないケース);
-
--ate-ion→-ation;
-
--ate-ic→-at-ic;
-
--ate-ive→-at-ive;
-
--ate-ory→-at-ory;
-
--ary-um→-ari-um;
-
--ory-um→-ori-um;
-
--acy-ous→-aci-ous.
+- -u-le ⟹ -ule ⟹ -ul-
+- -i-le ⟹ -ile ⟹ -il-
+- -i-fy ⟹ -ify ⟹ -ifi- ⟹ -if-
+- -le-ing ⟹ -ling
+- -le-er ⟹ -ler
+- -le-ed ⟹ -led
+- -i-ous ⟹ -ious
+- -i-on ⟹ -ion
+- -acy-ous ⟹ -acious
+- -acy-ty ⟹ acity
+- -ist-er ⟹ -istr (少ないケース)
+- -ate-ion ⟹ -ation
+- -ate-ic ⟹ -at-ic
+- -ate-ive ⟹ -at-ive
+- -ate-ory ⟹ -at-ory
+- -ary-um ⟹ -ari-um
+- -ory-um ⟹ -ori-um
+- -acy-ous ⟹ -aci-ous
 
 ## 接頭辞と接尾辞の一般的な組み合わせ
 
