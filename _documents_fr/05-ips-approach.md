@@ -3,27 +3,27 @@ title: "IPS — Prononciation et Orthographe Intégrées"
 weight: 5
 ---
 
-Chaque mot anglais contient les attributs suivants : prononciation, orthographe et sens. Cette méthode fusionne efficacement les trois attributs d'un mot, et exige de l'élève qu'il mémorise le mot sur la base d'une prononciation précise. En mémorisant les mots avec cette méthode, on maîtrise involontairement les règles phonétiques et les règles de formation des mots.
+Chaque mot anglais contient les attributs suivants : prononciation, orthographe et sens. Cette méthode fusionne les trois attributs d'un mot, et exige de l'élève qu'il mémorise le mot sur la base d'une prononciation précise. En mémorisant les mots avec cette méthode, on maîtrise subtilement les règles phonétiques et les règles de formation des mots.
 
-Une prononciation précise est le fondement de cette méthode. Il faut prononcer correctement chaque voyelle et chaque consonne. La prononciation des consonnes est facile à maîtriser ; le défi principal est la prononciation des voyelles, et il ne faut jamais confondre des voyelles distinctes.
+Une prononciation précise est le fondement de cette méthode. Il faut prononcer correctement chaque voyelle et chaque consonne. La prononciation des consonnes est facile à maîtriser ; le défi principal est la prononciation des voyelles, et il ne faut pas confondre des voyelles distinctes.
 
 ## L'accent
 
-Dans l'IPA, le symbole «`» sert à marquer l'accent et le symbole «ˌ» marque l'accent secondaire ; dans cette méthode, l'accent peut être distingué automatiquement par le type de voyelle, de sorte que ces deux symboles ne sont plus nécessaires.
+Dans l'IPA, le symbole «ˈ» sert à marquer l'accent et le symbole «ˌ» marque l'accent secondaire ; dans cette méthode, l'accent peut être distingué automatiquement par le type de voyelle, de sorte que ces deux symboles ne sont plus nécessaires.
 
 L'accent se rapporte aux voyelles, pas aux consonnes ; une consonne ne peut former une syllabe accentuée qu'en se mêlant à une voyelle accentuée.
 
-L'accent est très important pour la prononciation correcte d'un mot ; l'accent détermine la façon dont se lisent les voyelles d'un mot. Par exemple, le préfixe com- : si l'accent tombe sur com-, il se lit «[com-]», comme dans comment ; si l'accent tombe après, il se lit «[co̊m-]», comme dans command.
+L'accent est très important pour la prononciation correcte d'un mot ; l'accent détermine la façon dont se lisent les voyelles d'un mot. Par exemple, le préfixe com- : si l'accent tombe sur com-, il se lit «[com-]», comme dans comme̊nt ; si l'accent tombe après, il se lit «[co̊m-]», comme dans co̊mmand.
 
-En anglais, la position de l'accent peut aussi déterminer la catégorie grammaticale de certains mots. Les noms portent généralement l'accent sur l'avant (la première voyelle), tandis que les verbes le portent généralement sur l'arrière (la deuxième voyelle). Par exemple, record : lorsqu'il est un nom, l'accent est sur l'avant, et il se lit [\`re-cord] ; lorsqu'il est un verbe, l'accent est sur l'arrière, et il se lit [rė-\`cord]. D'autres mots de ce type incluent address, discount, etc.
+En anglais, la position de l'accent peut aussi déterminer la catégorie grammaticale de certains mots. Les noms portent généralement l'accent sur l'avant (la première voyelle), tandis que les verbes le portent généralement sur l'arrière (la deuxième voyelle). Par exemple, record : lorsqu'il est un nom, l'accent est sur l'avant, et il se lit [ˈre-cord] ; lorsqu'il est un verbe, l'accent est sur l'arrière, et il se lit [rė-ˈcord]. D'autres mots de ce type incluent address, discount, etc.
 
 Dans la grande majorité des cas, les syllabes de l'avant et de l'arrière d'un mot apparaissent dans une **« alternance accentuée-atone »** ; par conséquent, une fois la position de l'accent déterminée, la lecture accentuée ou atone de la plupart des syllabes est aussi déterminée.
 
 Dans des circonstances normales, l'accent des mots de deux et trois syllabes tombe sur la première syllabe.
 
-Si un mot porte un préfixe à l'avant, le préfixe est généralement atone, et l'accent tombe sur la première voyelle de la racine. Par exemple : ab\`out, be\`cause, etc.
+Si un mot porte un préfixe à l'avant, le préfixe est généralement atone, et l'accent tombe sur la première voyelle de la racine. Par exemple : abˈout, beˈcause, etc.
 
-Si un mot se termine par -ation, la voyelle a est aussi généralement accentuée ; par exemple : trans\`ation, pronunci\`ation.
+Si un mot se termine par -ation, la voyelle a est aussi généralement accentuée ; par exemple : transˌlation, pronunciˈation.
 
 La position de l'accent des mots anglais présente plusieurs schémas fixes ; on peut accumuler de l'expérience en mémorisant les mots.
 
@@ -154,9 +154,9 @@ En étendant le tableau vocalique de base, on obtient le tableau suivant.
 | /uə/ | [ūr] |
 | | during |
 | /ə/ | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)] |
-| | åbout, co̊mputer, dangero̊us|
+| | åbout, ope̊n, evi̊l, pro̊pel, sůpply |
 | /ə:/ | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur] |
-|  | her, collar, first, word, occur, learn |
+|  | her, collar, first, word, occur, learn, colour |
 | /ɔi/ | [oi], [oẏ] |
 | | oil, enjoy |
 
@@ -168,10 +168,10 @@ Les liquides désignent les sons produits par les lettres R et L. Ces deux lettr
 
 - -rr- se prononce [r]. Comme dans merry.
 - Voyelle faible ou consonne + r se prononce [r]. Comme dans factory, drive.
-- Voyelle forte + r se prononce [e̊] ; la voyelle peut subir un léger changement de son. Comme dans dare, here, fire, during.
-- Son faible + r, en raison de la courbure rétroflexe qui l'accompagne, provoque souvent l'allongement de la voyelle, surtout lorsqu'une consonne suit r. Comme dans verge, birth, storm, burst.
+- Voyelle forte + r se prononce [e̊] ; en raison de la courbure rétroflexe qui l'accompagne, la voyelle subit un léger changement de son. Comme dans dare, here, fire, during.
+- Son faible + r + consonne, en raison de la courbure rétroflexe qui l'accompagne, le son faible s'allonge. Comme dans verge, birth, storm, burst.
 
-### Combinaison de liquides et de voyelles
+### Combinaison de liquides et de voyelles fortes
 
 La prononciation de la lettre liquide R combinée avec les voyelles est bien reflétée dans le tableau vocalique. Lorsque la lettre liquide R se combine avec une voyelle, étant donné que la lettre R se prononce avec une courbure rétroflexe, elle peut allonger la voyelle originale ou provoquer un léger changement de son. La liquide L a la même fonction.
 
@@ -208,13 +208,15 @@ Il y a deux raisons principales au déplacement des lettres vocaliques : 1. la p
 
 ## Voyelles muettes
 
-Dans une combinaison de lettres vocaliques, il y a une lettre vocalique qui joue le rôle principal dans la prononciation, comme la lettre e dans mēan. Pour de telles combinaisons de lettres vocaliques, cette méthode considère que la combinaison ēa produit conjointement le son ē. Dans un mot comme build, cette méthode considère que la u est muette.
+Dans une combinaison de lettres vocaliques, il y a une lettre vocalique qui joue le rôle principal dans la prononciation, comme la lettre e dans mēan. Pour de telles combinaisons de lettres vocaliques, cette méthode considère que la combinaison ēa produit conjointement le son ē. Dans un mot comme b𝕦ild, cette méthode considère que la u est muette.
 
-Lorsque le e est à la fin d'un mot, il est généralement muet ; par simplicité, on omet la marque à double barre. Lorsque le e est muet au milieu d'un mot, il est marqué avec des lettres à double barre. En fait, outre les préfixes comme re-, de-, etc., chaque fois que la forme xxxxẹ- ou xxxxẹ apparaît, le e est muet. Par exemple : forẹ-ig̣n, closẹ-ly, pigẹ-on. Dans un mot comme re-cord, étant donné que re- est un préfixe, le e se prononce.
+Lorsque le e est à la fin d'un mot, il est généralement muet ; par simplicité, on omet la marque à double barre ; lorsque le e est muet au milieu d'un mot, il est marqué avec des lettres à double barre. Par exemple : nam𝕖ly, chang𝕖able, h𝕖art, for𝕖in, for𝕖iner, pig𝕖on, g𝕦itar, q𝕦eue, fr𝕚end.
 
-Dans la combinaison gu, la u est généralement muette. Par exemple : guess, fatigue. Ici la g est suivie d'une u muette au lieu de e, de sorte que la g se prononce [g], non [j].
+En fait, outre les préfixes comme re-, de-, etc., chaque fois que la forme xxxx𝕖-xxxx ou xxxx𝕖 apparaît, le e est muet. Par exemple : for𝕖-i𝕘n, clos𝕖-ly, pig𝕖-on. Dans un mot comme re-cord, étant donné que re- est un préfixe, le e se prononce.
 
-Dans la combinaison qu, si la u est muette, alors la q seule se prononce [k]. Par exemple : queue, cheque.
+Dans la combinaison gu, la u est généralement muette. Par exemple : g𝕦ess, fatig𝕦e. Ici la g est suivie d'une u muette au lieu de e, de sorte que la g se prononce [g], non [j].
+
+Dans la combinaison qu, si la u est muette, alors la q seule se prononce [k]. Par exemple : q𝕦eue, cheq𝕦e.
 
 ## Consonnes
 
@@ -231,9 +233,9 @@ Les règles détaillées pour la prononciation des lettres consonantiques sont m
 | [t] | t | time |  | [d] | d | day |  |
 | [k] | k / c | kite / can | avant a, o, u, consonnes / à la fin | [g] | g | go | g avant a, o, u |
 | [f] | f / ph / gh | four / photo / tough |  | [v] | v | very |  |
-| [s] | s / c | say / cent | avant e, i, y | [z] | z / ṡ | zoo / rise | après les voyelles, ou après les consonnes sonores |
-| [th] | th | think |  | [ṫh] | ṫh | this | pronoms, articles, prépositions, conjonctions |
-| [sh] | sh / ċh | ship / machine |  | [s̃] | s̃ | vision | suffixes spéciaux |
+| [s] | s / c | say / cent | avant e, i, y | [z] | z / <font color="red">ṡ</font> | zoo / rise | après les voyelles, ou après les consonnes sonores |
+| [th] | th | think |  | [ṫh] | <font color="red">ṫh</font> | this | pronoms, articles, prépositions, conjonctions |
+| [sh] | sh / <font color="red">ċh</font> | ship / machine |  | [s̃] | <font color="red">s̃</font> | vision | suffixes spéciaux |
 | [ch] | ch / tch | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | avant e, i, y |
 | [h] | h | his |  | [l] | l | like |  |
 | [kw] | qu | quiet |  | [m] | m | map |  |
@@ -243,9 +245,9 @@ Les règles détaillées pour la prononciation des lettres consonantiques sont m
 |  |  |  |  | [w] | w | wall |  |
 |  |  |  |  | [y] | y | yes | y au début du mot |
 |  |  |  |  | [ks] | x | excess | à la fin ou avant une consonne |
-|  |  |  |  | [gz] | ẋ | exact | avant une voyelle |
+|  |  |  |  | [gz] | <font color="red">ẋ</font> | exact | avant une voyelle |
 
-(*) forget, give, girl, finger, tiger, begin, etc. sont des exceptions. Lorsqu'on double deux consonnes identiques, une seule consonne se prononce. Par exemple : kick, scent, little, etc.
+(*) eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger, etc. sont des exceptions. Lorsqu'on double deux consonnes identiques, une seule consonne se prononce. Par exemple : kick, scent, little, etc.
 
 ## Combinaisons de consonnes
 
@@ -261,11 +263,35 @@ Voici des combinaisons consonantiques courantes. Les combinaisons consonantiques
 | Trois consonnes | scr-, spr-, str-, shr-, thr-, spl- |
 | Autres | tw- |
 
-## Prononciations spéciales de suffixes
+## Prononciations courantes de suffixes
 
-Certains suffixes d'usage courant ont une prononciation plutôt spéciale, mais le schéma est le même ; il suffit de les mémoriser. Par simplicité, on omet la notation phonétique. Comme le montre le Tableau 5 :
+Les règles de prononciation de -ed et -s/-es sont fixes ; bien que ce livre donne des annotations distinctes, par simplicité elles peuvent être laissées sans marquage.
 
-**Tableau 5 — Quelques prononciations spéciales de suffixes**
+### Le suffixe -ed
+
+| Règle de prononciation de -ed | Exemple |
+|---|---|
+| Après les consonnes sonores et les voyelles [𝕖d] ⟹ [d] | call𝕖d, borrow𝕖d, mov𝕖d |
+| Après les consonnes sourdes [𝕖ḋ] ⟹ [t] | ask𝕖ḋ, finish𝕖ḋ, help𝕖ḋ |
+| Après le son [t] [ėd] ⟹ [id] | wantėd, startėd |
+| Après le son [d] [ėd] ⟹ [id] | needėd, countėd |
+
+### Le suffixe -s/-es
+
+| | Règle de prononciation de -s(-es) | Exemple |
+|---|---|---|
+| Après les consonnes | après les sons [s], [z], [sh], [s̃], [ch], [j] ajouter -es, prononcé [ėṡ] ⟹ [iz] | glassėṡ, buzzėṡ, washėṡ, teachėṡ |
+| | après les consonnes sourdes ajouter s, prononcé [s] ⟹ [s] | books, typ𝕖s |
+| | après les consonnes sonores ajouter s, prononcé [ṡ] ⟹ [z] | bagṡ, lin𝕖ṡ, besid𝕖ṡ |
+| Après les voyelles | après la lettre o ajouter -es, prononcé [𝕖ṡ] ⟹ [z] | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
+| | changer -y en i et ajouter -es, prononcé [𝕖ṡ] ⟹ [z] | ladi𝕖ṡ, fli𝕖ṡ |
+| | sinon prononcé [ṡ] ⟹ [z] | newṡ, dayṡ, boyṡ, beeṡ |
+
+D'autres suffixes, comme -ly, -ous, -ity, etc., se prononcent selon les règles ; bien que ce livre les annote tous, étant donné que leur prononciation est uniforme, par simplicité ils peuvent être laissés sans marquage.
+
+### Prononciations spéciales de suffixes
+
+Certains suffixes d'usage courant ont une prononciation plutôt spéciale, mais le schéma est le même ; il suffit de les mémoriser. Par simplicité, ce livre omet la notation phonétique pour eux.
 
 | Suffixe spécial | Prononciation | Exemple |
 |---|---|---|
@@ -285,58 +311,31 @@ Certains suffixes d'usage courant ont une prononciation plutôt spéciale, mais 
 | -cient | -she̊nt | ancient |
 | -ciency | -shency | efficiency, proficiency |
 
-Les règles de prononciation de -ed et -s(-es) sont fixes, donc par simplicité ce livre ne les annote pas ; il convient de mémoriser les deux tableaux suivants. Comme le montrent les Tableaux 6 et 7 :
+## Lettres consonantiques muettes
 
-**Tableau 6 — Règles de prononciation du suffixe -ed**
-
-| Règle de prononciation de -ed | Exemple |
-|---|---|
-| Après les consonnes sonores et les voyelles [d] | called, borrowed, moved |
-| Après les consonnes sourdes [t] | asked, finished, helped |
-| Après le son [t] [id] | wanted, started |
-| Après le son [d] [id] | needed, counted |
-
-**Tableau 7 — Règles de prononciation du suffixe -s(-es)**
-
-|  | Règle de prononciation de -s(-es) | Exemple |
-|---|---|---|
-| Après les consonnes | après les sons [s], [z], [sh], [s̃], [ch], [j] ajouter -es, prononcé [iz] | glasses, buzzes, washes, teaches |
-|  | après les consonnes sourdes ajouter s, prononcé [s] | books, types |
-|  | après les consonnes sonores ajouter s, prononcé [z] | bags, lines, besides |
-| Après les voyelles | après la lettre o ajouter -es, prononcé [z] | tomatoes, potatoes, does |
-|  | changer -y en i et ajouter -es, prononcé [z] | ladies, flies |
-|  | sinon prononcé [z] | news, days, boys, bees |
-
-D'autres suffixes, comme -ly, -ous, -ity, etc., se prononcent selon les règles ; bien que ce livre les annote tous, étant donné que leur prononciation est uniforme, par simplicité ils peuvent être laissés sans marquage.
-
-## Consonnes muettes
-
-Les lettres consonantiques muettes sont indiquées par une ligne horizontale traversant la lettre en son milieu ; si l'élève a déjà mémorisé les règles des consonnes muettes, elles peuvent être laissées sans marquage. Comme le montre le Tableau 8 :
-
-**Tableau 8 — Consonnes muettes courantes**
+Les lettres consonantiques muettes peuvent être indiquées de diverses manières —lettre barrée, barres, points en dessous, etc.—. Pour les mettre en évidence, ce livre utilise des lettres à double barre (blackboard bold). Si l'élève a déjà mémorisé ces lettres muettes, elles peuvent être laissées sans marquage.
 
 | Combinaison | Exemple |
 |---|---|
-| cḥ | mecḥanic, Cḥrist |
-| g̣ḥ | lig̣ḥt, hig̣ḥ, eig̣ḥt, sig̣ḥ, nig̣ḥt |
-| gḥ | gḥost |
-| g̣n | g̣nat, sig̣n |
-| ḥ | ḥour, ḥonour |
-| ḳn | ḳnife, ḳnow, ḳnee, ḳnock |
-| mḅ | comḅ, lamḅ, thumḅ, dumḅ, climḅ |
-| p̣n | p̣neumonia |
-| p̣s | p̣sychology |
-| rḥ | rḥyme, rḥythm |
-| ẉr | ẉrong, ẉrist, ẉrite, ẉrap, ẉretch, ẉrench |
-| ẉh | ẉho, ẉhose |
-| wḥ | wḥat, wḥen, wḥere, wḥy |
-| -sṭen | lisṭen, cḥrisṭen |
-| -sṭle | whisṭle |
-| Autres | iṣland |
+| 𝕙 | 𝕙our, 𝕙onour |
+| c𝕙 | mec𝕙anic, C𝕙rist |
+| 𝕘𝕙 | li𝕘𝕙t, hi𝕘𝕙, ei𝕘𝕙t, si𝕘𝕙, ni𝕘𝕙t |
+| g𝕙 | g𝕙ost |
+| r𝕙 | r𝕙yme, r𝕙ythm |
+| 𝕘n | 𝕘nat, si𝕘n |
+| 𝕜n | 𝕜nife, 𝕜now, 𝕜nee, 𝕜nock |
+| m𝕓 | com𝕓, lam𝕓, thum𝕓, dum𝕓, clim𝕓 |
+| 𝕡n | 𝕡neumonia |
+| 𝕡s | 𝕡sychology |
+| 𝕨r | 𝕨rong, 𝕨rist, 𝕨rite, 𝕨rap, 𝕨retch, 𝕨rench |
+| 𝕨h | 𝕨ho, 𝕨hose |
+| w𝕙 | w𝕙at, w𝕙en, w𝕙ere, w𝕙y |
+| -is𝕥- | lis𝕥en, c𝕙ris𝕥en, c𝕙ris𝕥mas, whis𝕥le |
+| 𝕤 | i𝕤land |
 
 ## Différences entre l'anglais américain et l'anglais britannique
 
-La différence entre l'anglais américain et l'anglais britannique peut se résumer en une phrase : l'anglais américain est plus régulier que le britannique, tant dans l'orthographe que dans la prononciation.
+La différence entre l'anglais américain et l'anglais britannique peut se résumer en une phrase : l'anglais américain est plus régulier que le britannique.
 
 ### Dans l'orthographe
 

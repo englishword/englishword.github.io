@@ -1,9 +1,7 @@
 ---
-title: "Prononciation des 26 lettres"
+title: "Prononciation facile"
 weight: 9
 ---
-
-Parmi les 26 lettres de l'anglais, 5 sont des voyelles — A, E, I, O et U —, tandis que les 21 restantes sont des consonnes. R, W et Y se combinent parfois avec les voyelles pour fonctionner ensemble, et pour cela sont appelées « semi-voyelles ».
 
 Cette section passe en revue la prononciation des mots dans l'ordre des 26 lettres, montrant comment les mots « s'épellent à voix haute » à partir des lettres.
 
@@ -67,7 +65,7 @@ Cette section passe en revue la prononciation des mots dans l'ordre des 26 lettr
 - Son ouvert [ī] : p. ex. nice.
 - Son fermé [i] : p. ex. sit.
 - Long faible [i̊r] : p. ex. bird.
-- Bref faible [i̊] :
+- Bref faible [i̊] : p. ex. evil.
 - Léger [i] : p. ex. lily.
 - Son long [ĩ] : p. ex. police.
 
@@ -99,6 +97,7 @@ Cette section passe en revue la prononciation des mots dans l'ordre des 26 lettr
 - Son fermé : p. ex. hot.
 - Long faible : substitué, se prononce /or/, p. ex. force.
 - Bref faible : son /ǝ/.
+- Combinaisons de voyelles : [oo].
 - Combinaisons de voyelles : [ou], [ow], p. ex. loud, cow.
 - Combinaisons de voyelles : [oi], [oy], p. ex. oil, boy.
 
@@ -136,11 +135,11 @@ Cette section passe en revue la prononciation des mots dans l'ordre des 26 lettr
 ## U u
 
 - Son ouvert : se prononce /yu:/, p. ex. duty ; derrière L, R se prononce /u:/, p. ex. blue, ruler.
-- Combinaisons : oo, ui, eu, ew.
+- Combinaisons : ui, eu, ew.
 - Son fermé : p. ex. but.
 - Long faible : p. ex. burn.
-- Bref faible : son [ǝ].
-- Léger : rare, p. ex. busy.
+- Bref faible : son /ǝ/.
+- Léger : rare, p. ex. busy, minute.
 
 ## V v
 
@@ -148,7 +147,7 @@ Cette section passe en revue la prononciation des mots dans l'ordre des 26 lettr
 
 ## W w
 
-- Comme consonne, comme le w du pinyin chinois.
+- Comme consonne, comme le [w] du pinyin chinois.
 - Comme voyelle, équivalent à la lettre u.
 - Combinaisons : aw, ew, ow.
 

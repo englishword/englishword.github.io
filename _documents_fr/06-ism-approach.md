@@ -5,19 +5,70 @@ weight: 6
 
 Les morphèmes se divisent en préfixes, racines, suffixes et voyelles de liaison.
 
-Étant donné que les préfixes et suffixes sont peu nombreux, tandis que les racines sont nombreuses, on peut mémoriser les préfixes et suffixes et accumuler progressivement des racines au fil du temps. Les préfixes et les racines portent chacun un sens original défini, tandis que les suffixes servent à changer la catégorie grammaticale. En séparant par des traits d'union le préfixe, la racine et le suffixe d'un mot, le sens original du mot devient manifeste ; un mot qui auparavant semblait un tout indivisible se décompose en composants organiquement unifiés. Ainsi, on peut déduire approximativement le sens d'un mot à partir de son préfixe et de sa racine, et déterminer avec précision sa catégorie grammaticale à partir de son suffixe. Les suffixes sont souvent formés en combinant et transformant deux suffixes ou plus ; ces suffixes multiples sont aussi segmentés pour révéler le processus de transformation de la catégorie grammaticale du mot.
+Étant donné que les préfixes et suffixes sont peu nombreux, tandis que les racines sont nombreuses, on peut mémoriser les préfixes et suffixes et accumuler progressivement des racines au fil du temps. Les préfixes et les racines portent chacun un sens original défini, tandis que les suffixes servent à changer la catégorie grammaticale. En séparant par des traits d'union le préfixe, la racine et le suffixe d'un mot, le sens original du mot devient manifeste ; un mot qui auparavant semblait un tout indivisible se décompose en composants. Ainsi, on peut déduire approximativement le sens d'un mot à partir de son préfixe et de sa racine, et déterminer avec précision sa catégorie grammaticale à partir de son suffixe. Les suffixes sont souvent formés en combinant et transformant un ou plusieurs suffixes ; ces suffixes multiples sont aussi segmentés pour révéler le processus de transformation de la catégorie grammaticale du mot.
 
 ## Racines
 
 Étant donné que les racines sont nombreuses, ci-dessous ne sont énumérées qu'une petite partie des plus courantes. Pour plus, consulter un dictionnaire des racines pertinent.
 
-Résumé des racines les plus courantes :
-
-ag, act = faire ; agr = champ ; am = amour ; anim = esprit, âme, vie ; ann, enn = année ; astro = étoile ; audi = entendre ; bell = guerre ; bio = vie, être vivant ; brev = court ; ced = aller ; cent = cent ; center, centr = centre ; cid, cis = tuer, couper ; claim, clam = crier ; clar = clair ; clud, clos = fermer ; cogn = connaître ; cord = cœur ; cosm = univers, monde ; cred = croire ; cur, cours = courir ; cycl = cercle, anneau ; di = jour ; dict = dire ; duc, duct = conduire ; ed = manger ; fact = faire ; fer = porter, apporter ; flu = couler ; form = forme, figure ; fract, frag = briser ; fus = verser ; gen = origine ; geo = terre ; grad = pas, aller ; gram = écrire, enregistrer ; graph = écrire, tracer ; gress = marcher ; hap = hasard, chance ; hospit = hôte ; insul = île ; hydra = eau ; ject = lancer ; junct = joindre ; lect, leg, lig = choisir, réunir ; lev = lever ; liber = libre ; lingu = langue ; liter = lettre ; loc = lieu ; log = parole ; loqu = parler ; manu = main ; medi = milieu ; memor = mémoire ; milit = soldat ; min = petit, moins ; mob, mot, mov = mouvoir ; mort = mort ; nov = nouveau ; numer = nombre ; oper = travailler ; opt = lumière ; path = sentiment, maladie ; pel = pousser, impulser ; pend, pen = pendre ; phon = son ; plen = plein ; pon, pos = placer ; popul = peuple ; port = porter ; prim = premier ; psych = esprit ; pur = pur ; rect = droit ; rid, ris = rire ; rupt = rompre ; scend, scens, scent = grimper ; sci = savoir ; sens, sent = sentir ; sol = soleil ; spec = regarder ; spir = respirer, vie ; tact, tang, tag = toucher ; tail = couper ; tain, ten, tin = tenir, contenir ; tect = couvrir ; tele = loin ; tend, tens, tent = étirer ; text = tisser ; therm = chaleur ; tor, tort = tordre ; tract = traîner, tirer ; un, uni = un ; ut = user ; vac, van = vide ; vari = changer ; ven = venir ; vert, vers = tourner ; vid, vis = voir ; vit, viv = vie ; volv = rouler ; wis, wit = savoir
+| Racine | Sens | Racine | Sens |
+|---|---|---|---|
+| ag, act | faire | agr | champ |
+| am | amour | anim | esprit, âme, vie |
+| ann, enn | année | astro | étoile |
+| audi | entendre | bell | guerre |
+| bio | vie, être vivant | brev | court |
+| ced | aller | cent | cent |
+| center, centr | centre | cid, cis | tuer, couper |
+| claim, clam | crier | clar | clair |
+| clud, clos | fermer | cogn | connaître |
+| cord | cœur | cosm | univers, monde |
+| cred | croire | cur, cours | courir |
+| cycl | cercle, anneau | di | jour |
+| dict | dire | duc, duct | conduire |
+| ed | manger | fact | faire |
+| fer | porter, apporter | flu | couler |
+| form | forme, figure | fract, frag | briser |
+| fus | verser | gen | origine |
+| geo | terre | grad | pas, aller |
+| gram | écrire, enregistrer | graph | écrire, tracer |
+| gress | marcher | hap | hasard, chance |
+| hospit | hôte | insul | île |
+| hydra | eau | ject | lancer |
+| junct | joindre | lect, leg, lig | choisir, réunir |
+| lev | lever | liber | libre |
+| lingu | langue | liter | lettre |
+| loc | lieu | log | parole |
+| loqu | parler | manu | main |
+| medi | milieu | memor | mémoire |
+| milit | soldat | min | petit, moins |
+| mob, mot, mov | mouvoir | mort | mort |
+| nov | nouveau | numer | nombre |
+| oper | travailler | opt | vue |
+| path | sentiment, maladie | pel | pousser, impulser |
+| pend, pen | pendre | phon | son |
+| plen | plein | pon, pos | placer |
+| popul | peuple | port | porter |
+| prim | premier | psych | esprit |
+| pur | pur | rect | droit |
+| rid, ris | rire | rupt | rompre |
+| scend, scens, scent | grimper | sci | savoir |
+| sens, sent | sentir | sol | soleil |
+| spec | regarder | spir | respirer, vie |
+| tact, tang, tag | toucher | tail | couper |
+| tain, ten, tin | tenir, contenir | tect | couvrir |
+| tele | loin | tend, tens, tent | étirer |
+| text | tisser | therm | chaleur |
+| tor, tort | tordre | tract | traîner, tirer |
+| un, uni | un | ut | user |
+| vac, van | vide | vari | changer |
+| ven | venir | vert, vers | tourner |
+| vid, vis | voir | vit, viv | vie |
+| volv | rouler | wis, wit | savoir |
 
 ## Préfixes
 
-Ci-dessous sont classés les préfixes courants et leurs variantes pour faciliter la mémorisation. Les préfixes énumérés ici sont ceux d'usage courant et ne représentent pas tous les préfixes. Le Tableau 15 montre les préfixes et leurs règles de variante ; le Tableau 16 montre les préfixes numériques.
+Ci-dessous sont classés les préfixes courants et leurs variantes pour faciliter la mémorisation. Les préfixes énumérés ici sont ceux d'usage courant et ne représentent pas tous les préfixes.
 
 La forme la plus courante de variation de préfixe est l'« assimilation de préfixe », qui signifie que la lettre consonantique finale du préfixe s'assimile pour coïncider avec la première lettre de la racine, afin de faciliter une prononciation fluide.
 
@@ -40,7 +91,6 @@ La forme la plus courante de variation de préfixe est l'« assimilation de pré
 | inter- | intra-, intro-<br>passe à intel- devant l. | entre |
 | contra- | variantes contre-, contro | contre, non |
 | se- | passe à sed- devant les voyelles. | à part |
-| suppression de lettre finale | multi-, myria-, octa-,<br>cata-, para-, endo-,<br>ento-, penta-, quinque-, tetra-<br>suppriment la lettre finale du préfixe devant les voyelles.<br>anti- perd le i devant les voyelles ou h<br>apo-, epi- suppriment la lettre finale devant les racines commençant par h | |
 
 **Tableau 16 — Préfixes numériques**
 
@@ -54,7 +104,25 @@ La forme la plus courante de variation de préfixe est l'« assimilation de pré
 
 D'autres préfixes courants en plus de ceux des Tableaux 15 et 16 sont énumérés ci-dessous :
 
-ante- = avant, face ; auto- = propre ; be- = faire ; bene- = bon ; by- = latéral, remplaçant ; circum- = autour ; counter- = contre ; de- = intensif ; dia- = à travers ; endo- = à l'intérieur ; eu- = bon ; fore- = avant ; hetero- = différent ; holo- = entier ; homo- = même ; hyper- = sur ; hypo- = sous ; infra- = sous ; iso- = égal ; mal-/male- = mauvais ; meta- = au-delà, changement ; mis- = erreur ; neo- = nouveau ; non- = non ; omni- = tout ; out- = hors ; over- = sur ; paleo- = ancien ; pan- = tout ; para- = à côté ; pen-/pene- = presque ; peri- = autour ; poly- = plusieurs ; post- = après ; pre- = avant ; pro- = en avant ; proto- = premier ; pseudo- = faux ; re- = de nouveau ; retro- = en arrière ; sino- = Chine ; step- = beau-parent ; stereo- = solide ; super- = sur, au-dessus ; supra- = au-dessus ; trans- = à travers ; tele- = loin ; ultra- = au-delà ; under- = sous ; vice- = remplaçant ; with- = arrière, contre
+| Préfixe | Sens | Préfixe | Sens | Préfixe | Sens |
+|---|---|---|---|---|---|
+| ante- | avant, face | auto- | propre | be- | faire |
+| bene- | bon | by- | latéral, remplaçant | circum- | autour |
+| counter- | contre | de- | intensif | dia- | à travers |
+| endo- | à l'intérieur | eu- | bon | fore- | avant |
+| hetero- | différent | holo- | entier | homo- | même |
+| hyper- | sur | hypo- | sous | infra- | sous |
+| iso- | égal | mal-/male- | mauvais | meta- | au-delà, changement |
+| mis- | erreur | neo- | nouveau | non- | non |
+| omni- | tout | out- | hors | over- | sur |
+| paleo- | ancien | pan- | tout | para- | à côté |
+| pen-/pene- | presque | peri- | autour | poly- | plusieurs |
+| post- | après | pre- | avant | pro- | en avant |
+| proto- | premier | pseudo- | faux | re- | de nouveau |
+| retro- | en arrière | sino- | Chine | step- | beau-parent |
+| stereo- | solide | super- | sur, au-dessus | supra- | au-dessus |
+| trans- | à travers | tele- | loin | ultra- | au-delà |
+| under- | sous | vice- | remplaçant | with- | arrière, contre |
 
 ## Suffixes
 
@@ -92,11 +160,11 @@ La plupart des élèves savent ajouter -ly à un adjectif pour former un adverbe
 
 Règles de variation des suffixes :
 
-1. Changer y en i : un morphème terminé par y change le y en i lorsqu'on ajoute un autre suffixe ; si ce suffixe commence par i, on ne conserve qu'un seul i.
+1. **Changer y en i** : un morphème terminé par y change le y en i lorsqu'on ajoute un autre suffixe ; si ce suffixe commence par i, on ne conserve qu'un seul i.
 
-2. Supprimer e : lorsqu'on ajoute un suffixe commençant par une voyelle ou semi-voyelle après une lettre e muette, le e est supprimé ; lorsqu'on ajoute un suffixe commençant par une consonne, le e est conservé. Cependant, comme dans changeable, le e est conservé pour éviter que la g ne change de son. (Étant donné qu'un e muet final sert de marque pour distinguer les sons ouverts et fermés, le supprimer peut parfois provoquer une confusion entre sons ouverts et fermés — précaution.)
+2. **Supprimer e** : lorsqu'on ajoute un suffixe commençant par une voyelle ou semi-voyelle après une lettre e muette, le e est supprimé ; lorsqu'on ajoute un suffixe commençant par une consonne, le e est conservé. Cependant, comme dans changeable, le e est conservé pour éviter que la g ne change de son. (Étant donné qu'un e muet final sert de marque pour distinguer les sons ouverts et fermés, le supprimer peut parfois provoquer une confusion entre sons ouverts et fermés — précaution.)
 
-3. Doubler : une syllabe fermée accentuée terminée par une seule lettre vocale plus une lettre consonantique doublable double cette consonne finale doublable lorsqu'on ajoute certains suffixes commençant par une voyelle, -y ou -le (les suffixes de doublement les plus courants sont montrés au Tableau 18). Par exemple : app-le (syllabe fermée accentuée, doublée) ; tab-le (syllabe ouverte accentuée, non doublée) ; happ-y (syllabe fermée accentuée, doublée).
+3. **Doubler** : une syllabe fermée accentuée terminée par une seule lettre vocale plus une lettre consonantique doublable double cette consonne finale doublable lorsqu'on ajoute certains suffixes commençant par une voyelle, -y ou -le. Par exemple : app-le (syllabe fermée accentuée, doublée) ; tab-le (syllabe ouverte accentuée, non doublée) ; happ-y (syllabe fermée accentuée, doublée).
 
 À l'inverse, le fait que le doublement se produise ou non peut être utilisé pour déterminer si la lettre vocale précédente se trouve dans une syllabe ouverte ou fermée.
 
@@ -107,53 +175,26 @@ La lettre consonantique C peut se doubler en cc ou ck selon la lettre vocale qui
 
 Remarquer la distinction : l'assimilation de préfixe n'est pas un doublement, comme dans affect ; et certains mots contiennent intrinsèquement des lettres doublées qui ne résultent pas d'un doublement, comme dans ill, bill, billion, passage.
 
-**Tableau 18 — Suffixes courants doublant la consonne**
-
-|  | Suffixes doublant la consonne |
-|---|---|
-| A | -å, -år, -årẏ, -ȧage, |
-| E | -ēe, -e̊r, -e̊rẏ, -ed, -est, -ėy, (après n/r)-e̊l, -e̊n, |
-| I,Y | -ẏ, -i- (déformé à partir de -y), -ing |
-| O | -ō, (après l/r)-ōw, -o̊r/-o̊ur, -o̊n, -o̊m, -o̊rẏ |
-| L | -le |
-
 Ci-dessous sont donnés quelques exemples de variation de suffixes, bien qu'ils ne constituent pas une liste exhaustive ; la section des exemples de mots montrera clairement les diverses variations des suffixes et leurs changements de catégorie grammaticale.
 
--u-le→-ule→-ul-;
-
--i-le→-ile→-il-;
-
--i-fy→-ify→-ifi-→-if-;
-
--le-ing→-ling;
-
--le-er→-ler;
-
--le-ed→-led;
-
--i-ous→-ious;
-
--i-on→-ion;
-
--acy-ous→-acious;
-
--acy-ty→acity;
-
--ist-er→-istr (rares cas);
-
--ate-ion→-ation;
-
--ate-ic→-at-ic;
-
--ate-ive→-at-ive;
-
--ate-ory→-at-ory;
-
--ary-um→-ari-um;
-
--ory-um→-ori-um;
-
--acy-ous→-aci-ous.
+- -u-le ⟹ -ule ⟹ -ul-
+- -i-le ⟹ -ile ⟹ -il-
+- -i-fy ⟹ -ify ⟹ -ifi- ⟹ -if-
+- -le-ing ⟹ -ling
+- -le-er ⟹ -ler
+- -le-ed ⟹ -led
+- -i-ous ⟹ -ious
+- -i-on ⟹ -ion
+- -acy-ous ⟹ -acious
+- -acy-ty ⟹ acity
+- -ist-er ⟹ -istr (rares cas)
+- -ate-ion ⟹ -ation
+- -ate-ic ⟹ -at-ic
+- -ate-ive ⟹ -at-ive
+- -ate-ory ⟹ -at-ory
+- -ary-um ⟹ -ari-um
+- -ory-um ⟹ -ori-um
+- -acy-ous ⟹ -aci-ous
 
 ## Combinaisons courantes de préfixes et suffixes
 

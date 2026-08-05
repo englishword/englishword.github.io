@@ -3,6 +3,18 @@ title: "IPM — Prononciation et Sens Intégrés"
 weight: 7
 ---
 
+Il est indéniable qu'il existe une forte connexion entre le son et le sens. Si l'on se contente d'écouter, la relation entre son et sens est facile à saisir ; mais l'exprimer par écrit est extrêmement difficile.
+
+**1. Le son est holographique ; l'écriture est discrète.**
+
+Lorsque vous entendez un morceau de musique ou une phrase, ce que vous recevez est la somme de la hauteur, du timbre, du rythme, de l'accent et de l'intonation — une perception holistique et tridimensionnelle. Votre cerveau n'a pas besoin de la démonter ; l'intuition seule vous dit instantanément si elle est triste, vive ou en colère. Mais au moment où vous essayez d'« écrire » ce sentiment, vous êtes obligé de fragmenter l'onde sonore continue en symboles statiques et linéaires. En passant d'un tout holographique à des symboles linéaires, 90 % de l'information se perd inévitablement.
+
+**2. L'intuition est instantanée ; la logique est en retard.**
+
+Lorsque vous entendez le mot slither, la friction de la langue contre les dents évoque instantanément une association physique de « visqueux, glissant ». Mais pour expliquer par écrit « pourquoi sl suggère le glissement », il faudrait disséquer les actions des organes vocaux et le flux de l'air. Quand l'explication est terminée, cette « beauté » et cette « intuition » instantanées ont disparu depuis longtemps.
+
+Cependant, cette section tente encore de décrire la relation entre le son et le sens uniquement avec des mots, ce qui semble inévitablement ésotérique et peu convaincant, mais ce livre ne peut faire autrement. Pour véritablement comprendre la relation entre le son et le sens, le moyen le plus direct et le plus efficace est simplement d'écouter et de parler, encore et encore.
+
 ## Syllabe centrale
 
 Tout mot a une syllabe centrale. La syllabe centrale est la syllabe la plus importante de tout le mot ; que ce soit en écoutant, parlant, lisant ou écrivant, elle doit être saisie avec précision. Dans des circonstances normales, la syllabe centrale est formée par la lettre centrale et la voyelle accentuée qui la suit.
@@ -17,7 +29,7 @@ En écrivant, efforcez-vous de ne pas mal écrire les quelques lettres que conti
 
 Par exemple, dans intimidate (in-𝓽im-id-āte), la syllabe centrale est 𝓽im ; saisir la lettre « 𝓽 » d'un coup d'œil et embrasser les autres lettres avec la vision périphérique permet d'assailir instantanément le sens interne de tout le mot, au lieu de parcourir depuis la lettre « i » jusqu'à la lettre « e » — i→n→t→i→m→i→d→a→t→e — puis de récupérer son sens depuis le cerveau. Cette capacité doit être cultivée par une pratique abondante.
 
-## Phonème central
+## Lettres centrales
 
 Tout mot a une ou deux lettres centrales. La lettre centrale est généralement la première lettre du mot ou la première lettre de la racine. Pour un mot sans préfixe, c'est la première lettre du mot ; pour un mot à préfixe, c'est la première lettre de la racine. Étant donné que l'anglais présente des combinaisons de plusieurs consonnes, celles-ci sont aussi des lettres centrales. Les cas de lettres centrales sont montrés au Tableau 22 :
 
@@ -37,11 +49,7 @@ Certains mots sont composés, formés par la combinaison de deux mots, et ont do
 
 En mémorisant les mots, nous devons essayer d'établir une connexion entre le sens du mot et sa lettre centrale, son phonème et son morphème ; d'une part, cela nous permet d'apprécier avec plus de précision les connotations des 26 lettres, et d'autre part, c'est très utile pour saisir le sens vague du mot. Cette capacité doit être cultivée progressivement au cours de la mémorisation des mots.
 
-Par exemple, la lettre centrale de good, great, God, etc. est G, donc nous savons que la lettre G porte un sens de bonté ; de même, à partir de home, house, hold, have, help, nous savons que la lettre H a le sens de soutenir et protéger ; et à partir de light, relate, lace, line, long, nous savons que la lettre L a le sens de ligne et de connexion.
-
-Les consonnes autres que la lettre centrale peuvent aussi porter une partie du sens, mais ce n'est pas le foyer, et ce livre ne traite pas ces consonnes, comme le ll de full, fill, et le d de good. Les lecteurs intéressés peuvent réfléchir par eux-mêmes.
-
-Au Chapitre 3 de ce livre, les lettres centrales de tous les mots sont marquées en gras ; les connotations des 26 lettres doivent être appréciées en grande partie par le lecteur progressivement au fil de l'étude.
+Par exemple, la lettre centrale de good, great, God, etc. est G, donc nous savons que la lettre G porte un sens de bonté ; de même, à partir de home, house, hold, have, help, nous savons que la lettre H a le sens de soutenir et protéger ; et à partir de light, relate, lace, line, long, nous savons que la lettre L a le sens de ligne et de connexion. Cependant, il s'agit d'une intuition ésotérique qui « peut être saisie intuitivement mais non mise en paroles » ; les connotations des lettres centrales doivent être appréciées par le lecteur progressivement au cours de l'étude.
 
 ## Sens des phonèmes centraux
 
@@ -60,61 +68,65 @@ La prononciation des voyelles porte également un sens riche ; le sens d'une voy
 
 ### Sens des phonèmes consonantiques
 
-- \[b]: explosion, exploser, briser, mettre à nu, bloquer,
-- \[c]: courir, aller, prendre, saisir, chanter, clamer
-- \[d]: lourd, qui s'enfonce,
-- \[f]: vent, souffler, voler, léger,
-- \[g]: terre, grand, vie, donner
-- \[h]: haut, souffler, exhaler,
-- \[j]: joyeux, connecter, jet,
-- \[k]: ouvert, nœud, donner des coups de pied, frapper,
-- \[l]: ligne, tirer, connecter,
-- \[m]: mère, féminin, montagne, mouvoir
-- \[n]: naissance, négation
-- \[p]: plat, petite tape, frapper, pousser
-- \[r]: moudre, frotter, rude, monter, émettre,
-- \[s]: exhaler, inhaler, s'asseoir,
-- \[t]: marquer, frapper, tordre
-- \[v]: regarder, tourner, revenir, victoire
-- \[w]: eau, vague, aller, mouvoir,
+Ce qui suit n'est qu'une description textuelle approximative, à saisir intuitivement, et non un résumé de règles.
+
+- \[b]: explosion, exploser, briser, mettre à nu, bloquer, …
+- \[c]: courir, aller, prendre, saisir, chanter, clamer, …
+- \[d]: lourd, qui s'enfonce, …
+- \[f]: vent, souffler, voler, léger, …
+- \[g]: terre, grand, vie, donner, …
+- \[h]: haut, souffler, exhaler, …
+- \[j]: joyeux, connecter, jet, …
+- \[k]: ouvert, nœud, donner des coups de pied, frapper, …
+- \[l]: ligne, tirer, connecter, …
+- \[m]: mère, féminin, montagne, mouvoir, …
+- \[n]: naissance, négation, …
+- \[p]: plat, petite tape, frapper, pousser, …
+- \[r]: moudre, frotter, rude, monter, émettre, …
+- \[s]: exhaler, inhaler, s'asseoir, …
+- \[t]: marquer, frapper, tordre, …
+- \[v]: regarder, tourner, revenir, victoire, …
+- \[w]: eau, vague, aller, mouvoir, …
 
 ### Sens des combinaisons de phonèmes consonantiques
 
-- \[bl]: éclat, obstruction, couleur, vague, souffle ;
-- \[br]: arc, diviser, briser, produire ;
-- \[cl]: croix, sacré, foi, séparer, fusionner, réunir ;
-- \[cr]: crier, grimper, monter ;
-- \[dr]: traîner, violent, grossier, sec/mouillé, tomber, tirer ;
-- \[dw]: bas, court, bref ;
-- \[fl]: plat, couler, plier, voler ;
-- \[fr]: fracture, tromper ;
-- \[gl]: lisse, brillant, briller, éclat ;
-- \[gn]: savoir, nœud, tumeur ;
-- \[gr]: moudre, tailler, écrire, saisir, grain, significatif, croître, augmenter ;
-- \[kn]: savoir, articulation, frapper ;
-- \[ph]: parler, souffler, apparaître ;
-- \[pl]: plat/calme, plier, plume, plier, parler ;
-- \[pr]: avant, premier, original, s'emparer, égoïste, presser ;
-- \[qu]: prendre, chercher ;
-- \[sc]: surface, grimper, couper, regarder, tailler, monter ;
-- \[scr]: pointu, râper, lutter, saisir ;
-- \[shr]: rétrécir, envelopper, regretter, hurler, contracter, moins, raffiné ;
-- \[sk]: surface, sauter/glisser ;
-- \[sl]: humidité, sucer, lent/mou, mince, fin, glisser ;
-- \[sm]: étaler, sentir, lier/frapper, petit, minuscule ;
-- \[sn]: nasal, secret ;
-- \[sp]: petit point, disperser, parler, tourner ;
-- \[spl]: fendre, tacher, éclabousser ;
-- \[spr]: irradier, asperger, éclabousser ;
-- \[squ]: asseoir, serrer, presser ;
-- \[st]: se tenir debout, rester, immobile, segment, épine ;
-- \[str]: tirer, traîner, bruit ;
-- \[sw]: plier, balancer, osciller ;
-- \[thr]: trembler, frapper, sauter, à travers ;
-- \[tr]: à travers, porter, pousser, tirer ;
-- \[tw]: tordre, deux, double ;
-- \[wh]: tourner, question ;
-- \[wr]: tordre, plier, vent, rouler, froisser, tordre ;
+Ce qui suit n'est qu'une description textuelle approximative, à saisir intuitivement, et non un résumé de règles.
+
+- \[bl]: éclat, obstruction, couleur, vague, souffle, …
+- \[br]: arc, diviser, briser, produire, …
+- \[cl]: croix, sacré, foi, séparer, fusionner, réunir, …
+- \[cr]: crier, grimper, monter, …
+- \[dr]: traîner, violent, grossier, sec/mouillé, tomber, tirer, …
+- \[dw]: bas, court, bref, …
+- \[fl]: plat, couler, plier, voler, …
+- \[fr]: fracture, tromper, …
+- \[gl]: lisse, brillant, briller, éclat, …
+- \[gn]: savoir, nœud, tumeur, …
+- \[gr]: moudre, tailler, écrire, saisir, grain, significatif, croître, augmenter, …
+- \[kn]: savoir, articulation, frapper, …
+- \[ph]: parler, souffler, apparaître, …
+- \[pl]: plat/calme, plier, plume, plier, parler, …
+- \[pr]: avant, premier, original, s'emparer, égoïste, presser, …
+- \[qu]: prendre, chercher, …
+- \[sc]: surface, grimper, couper, regarder, tailler, monter, …
+- \[scr]: pointu, râper, lutter, saisir, …
+- \[shr]: rétrécir, envelopper, regretter, hurler, contracter, moins, raffiné, …
+- \[sk]: surface, sauter/glisser, …
+- \[sl]: humidité, sucer, lent/mou, mince, fin, glisser, …
+- \[sm]: étaler, sentir, lier/frapper, petit, minuscule, …
+- \[sn]: nasal, secret, …
+- \[sp]: petit point, disperser, parler, tourner, …
+- \[spl]: fendre, tacher, éclabousser, …
+- \[spr]: irradier, asperger, éclabousser, …
+- \[squ]: asseoir, serrer, presser, …
+- \[st]: se tenir debout, rester, immobile, segment, épine, …
+- \[str]: tirer, traîner, bruit, …
+- \[sw]: plier, balancer, osciller, …
+- \[thr]: trembler, frapper, sauter, à travers, …
+- \[tr]: à travers, porter, pousser, tirer, …
+- \[tw]: tordre, deux, double, …
+- \[wh]: tourner, question, …
+- \[wr]: tordre, plier, vent, rouler, froisser, tordre, …
 
 ## Les consonnes sont statiques, les voyelles sont dynamiques
 
@@ -126,34 +138,29 @@ Dans la flexion de temps ou de catégorie grammaticale des mots anglais, ce qui 
 
 1) Flexion de la forme de base, du passé et du participe passé des verbes
 
-begin    began    begun
-
-bite     bit      bitten
-
-see      saw      seen
+| Forme de base | Passé | Participe passé |
+|---|---|---|
+| be𝓰in | be𝓰an | be𝓰un |
+| 𝓫ite | 𝓫it | 𝓫itten |
+| 𝓼ee | 𝓼aw | 𝓼een |
 
 2) Changement de catégorie grammaticale
 
-full      fill
-
-sit       seat
-
-choose    choice
-
-bind      band
+|  |  |
+|---|---|
+| 𝓯ull | 𝓯ill |
+| 𝓼it | 𝓼eat |
+| 𝓬𝓱oose | 𝓬𝓱oice |
+| 𝓫ind | 𝓫and |
 
 Étant donné que les êtres humains partagent les mêmes conditions physiques et vivent dans le même environnement, cela détermine fondamentalement que les différentes langues finiront par converger dans leurs sons de la parole. Ci-dessous sont donnés quelques-uns des exemples les plus évidents. À partir de ces exemples, on peut observer que le son et le sens des différentes langues sont interconnectés. Cela est particulièrement évident dans les verbes, comme illustré plus bas.
 
-back (背 bèi, « porter »)　　bomb (爆 bào, « exploser »)　　do (打 dǎ, « frapper »)
-
-give (给 gěi, « donner »)　　send (送 sòng, « envoyer »)　　bind (绑 bǎng, « attacher »)
-
-fail (废 fèi, « gaspiller »)　　pan (盘 pán, « plat »)　　mop (抹 mǒ, « nettoyer »)
-
-cheat (欺 qī, « tromper »)　　lug (拉 lā, « tirer »)　　law (律 lǜ, « loi »)
-
-pour (泼 pō, « éclabousser »)　　warp (弯 wān, « plier »)　　go (归 guī, « retourner »)
-
-quick (快 kuài, « rapide »)　　whole (合 hé, « unir »)　　harm (害 hài, « nuire »)
-
-lazy (懒 lǎn, « paresseux »)
+|  |  |  |
+|---|---|---|
+| 背（𝓫ei） 𝓫ack | 爆（𝓫ao） 𝓫omb | 打（𝓭a） 𝓭o |
+| 给（𝓰ei） 𝓰ive | 送（𝓼ong） 𝓼end | 绑（𝓫ang） 𝓫ind |
+| 废（𝓯ei） 𝓯ail | 盘（𝓹an） 𝓹an | 抹（𝓶o） 𝓶op |
+| 欺（𝓺i） 𝓬𝓱eat | 拉（𝓵a） 𝓵ug | 律（𝓵v） 𝓵aw |
+| 泼（𝓹o） 𝓹our | 弯（𝔀an） 𝔀arp | 归（𝓰ui） 𝓰o |
+| 快（𝓴𝓾ai） 𝓺𝓾ick | 合（𝓱e） 𝕨𝓱ole | 害（𝓱ai） 𝓱arm |
+| 懒（𝓵an） 𝓵azy |  |  |

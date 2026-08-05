@@ -7,7 +7,7 @@ Un mot anglais est une unité de son, de forme et de sens ; les lettres qui comp
 
 Les 26 lettres sont des éléments plus fondamentaux et microscopiques que les mots ; par conséquent, la relation unifiée de son, de forme et de sens des 26 lettres est difficile à décrire dans un langage de niveau supérieur. Pour élaborer les connotations des lettres, nous devons explorer des choses plus basiques que les lettres elles-mêmes.
 
-Le son d'une lettre est étroitement lié à la structure physiologique des organes vocaux humains — la bouche, la gorge, les poumons, etc. Bien que les sons de la nature soient riches et divers, les sons que la bouche humaine peut produire sont limités. La forme d'une lettre est étroitement liée à la structure articulatoire de la main humaine ; la structure physiologique de la main humaine fait que certains symboles sont aptes à une écriture facile. Le sens d'une lettre est étroitement lié à l'alimentation, l'habillement, le logement et le transport humains.
+Le son d'une lettre est étroitement lié à la structure physiologique des organes vocaux humains — la bouche, la gorge, les poumons, etc. Bien que les sons de la nature soient riches et divers, les sons que la bouche humaine peut produire sont limités. La forme d'une lettre est étroitement liée à la structure articulatoire de la main humaine ; la structure physiologique de la main humaine fait que certains symboles sont aptes à une écriture facile. Le sens d'une lettre est étroitement lié à l'alimentation, l'habillement, le logement et le transport.
 
 Étant donné qu'une lettre est un tout unifié de son, de forme et de sens, il arrive souvent le phénomène de conversion mutuelle par paires entre « son », « forme » et « sens » (du son au sens, du sens au son, de la forme au sens, du sens à la forme, du son à la forme, de la forme au son).
 
@@ -19,15 +19,15 @@ Le tableau suivant est le tableau de prononciation des lettres anglaises ; on pe
 
 **Prononciation des 26 lettres\***
 
-| Lettre | A | B | C | D | E | F | G |
+| Lettre | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Prononciation | [ā] | [bē] | [cē] | [dē] | [ē] | [ef] | [gē] |
-| Lettre | H | I | J | K | L | M | N |
-| Prononciation | [āch] | [ī] | [jā] | [kā] | [el] | [em] | [en] |
-| Lettre | O | P | Q |  | R | S | T |
-| Prononciation | [ō] | [pē] | [kū] |  | [àr] | [es] | [tē] |
-| Lettre | U | V | W |  | X | Y | Z |
-| Prononciation | [ū] | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
+| Prononciation | <font color="red">[ā]</font> | [bē] | [cē] | [dē] | <font color="red">[ē]</font> | [ef] | [gē] |
+| Lettre | H | <font color="red">I</font> | J | K | L | M | N |
+| Prononciation | [āch] | <font color="red">[ī]</font> | [jā] | [kā] | [el] | [em] | [en] |
+| Lettre | <font color="red">O</font> | P | Q |  | <font color="red">R</font> | S | T |
+| Prononciation | <font color="red">[ō]</font> | [pē] | [kū] |  | <font color="red">[àr]</font> | [es] | [tē] |
+| Lettre | <font color="red">U</font> | V | W |  | X | Y | Z |
+| Prononciation | <font color="red">[ū]</font> | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
 
 ## La forme des lettres
 
@@ -61,8 +61,8 @@ En écrivant la ligne verticale « \| », on la trace de haut en bas ; le cercle
 - 𝓿:  effilé (sens antihoraire) demi-cercle inférieur
 - 𝔀:  effilé (sens antihoraire) demi-cercle inférieur + effilé (sens antihoraire) demi-cercle inférieur
 - 𝔁:  (sens horaire) demi-cercle droit + (sens antihoraire) demi-cercle gauche
-- 𝔂:  effilé (sens antihoraire) demi-cercle inférieur + verticale longue + (sens horaire) demi-cercle inférieur
-- 𝔃:  tiret court supérieur + tiret court inférieur (connectés au milieu)
+- 𝔂:  effilé (sens antihoraire) demi-cercle inférieur + (sens horaire) demi-cercle inférieur
+- 𝔃:  tiret court supérieur + (connecté au milieu) + tiret court inférieur
 
 Parmi les lettres minuscules, les cinq lettres vocaliques n'occupent que la case centrale ; les lettres consonantiques qui n'occupent que la case centrale sont les consonnes au son le plus faible, comme les nasales 𝓶, 𝓷, les fricatives 𝓼, 𝔃, et la semi-voyelle 𝔀. Les lettres consonantiques qui occupent deux cases sont toutes des consonnes au son plus fort. On peut ainsi voir qu'il existe une certaine connexion entre la forme d'une lettre et sa prononciation.
 
@@ -76,7 +76,7 @@ Les lettres qui occupent deux cases sont plus proéminentes visuellement ; les l
 
 Dans l'écriture manuscrite rapide, une lettre vocale qui occupe une case et une lettre consonantique qui occupe une case sont probablement balayées velocement en un seul trait continu, tandis que les lettres consonantiques qui occupent deux cases se dressent vers le haut ou vers le bas comme des piquants, et ce sont les traits visuels clés que l'on saisit en lecture rapide.
 
-Pour rendre la lettre initiale plus proéminente, on a créé les lettres majuscules ; une lettre majuscule ressemble beaucoup à sa minuscule correspondante, en général ayant été rendue plus haute, plus large, plus grande ou effilée.
+Pour rendre la lettre initiale plus proéminente, on a créé les lettres majuscules ; une lettre majuscule ressemble beaucoup à sa minuscule correspondante, en général ayant été rendue plus haute, plus large, plus grande ou effilée, passant d'une lettre discrète à la lettre la plus voyante du mot.
 
 - 𝓐:  effilée, rendue plus haute et plus grande, élevée d'une case à deux cases
 - 𝓑:  agrandie, avec un demi-cercle droit supplémentaire en partie supérieure
@@ -107,7 +107,7 @@ Pour rendre la lettre initiale plus proéminente, on a créé les lettres majusc
 
 ## Le sens des lettres
 
-Étant donné que la forme et le son des lettres anglaises sont étroitement liés, en combinant la forme de la lettre et la prononciation avec les phonèmes, on peut apprécier le sens interne.
+Étant donné que la forme et le son des lettres anglaises sont étroitement liés, en combinant la forme de la lettre et la prononciation avec les phonèmes, on peut apprécier le sens interne. Cette sous-section relève d'un contenu qui ne se saisit que « par intuition » et ne doit pas être considérée comme une règle générale.
 
 - 𝓐, 𝓪: étant la première des 26 lettres, elle porte le sens de « premier ». Par la forme de A, elle ressemble à une pointe de flèche, très effilée, comme la Tour Eiffel, et symbolise la masculinité.
 
@@ -213,21 +213,9 @@ Figure 3. Diagramme des relations des lettres consonantiques
 
 La Figure 4 montre le diagramme des relations des lettres vocaliques. Beaucoup des lettres ou combinaisons de lettres du diagramme ont plus d'une prononciation ; leurs cas concrets de prononciation ont été énumérés dans le tableau vocalique 9, c'est pourquoi leurs relations ne sont pas expliquées plus ici.
 
-Le Tableau 21 montre le tableau des combinaisons de lettres vocaliques ; par le tableau on peut observer que deux lettres vocaliques quelconques ne peuvent pas se combiner pour former un seul son vocalique.
-
 Figure 4. Diagramme des relations des lettres vocaliques
 
 ![Diagramme des relations des lettres vocaliques](/images/documents/08-vowel-relationship-en.svg)
-
-**Tableau des combinaisons de voyelles**
-
-|  | -A | -E | -I/Y | -O | -U/W | -R |
-|---|---|---|---|---|---|---|
-| A- |  |  | ai/ay |  | au/aw | ar |
-| E- | ea | ee | ei/ey |  | eu/ew | er |
-| I- |  | ie |  |  |  | ir |
-| O- | oa |  | oi/oy | oo | ou/ow | or |
-| U- |  |  | ui |  |  | ur |
 
 ## Le sens des mots et la traduction des mots
 
@@ -241,6 +229,6 @@ Le « sens » d'une langue dépend de sa propre « forme » et de son « son » 
 
 ## Saisir le sens à partir de l'orthographe
 
-Le sens d'un mot peut être déconstruit depuis de multiples niveaux — lettres, phonèmes, syllabes et morphèmes. En l'abordant depuis de multiples aspects, en approfondissant couche par couche, en démontant pas à pas et, finalement, en synthétisant les quatre aspects, on obtient le sens le plus complet et correct du mot.
+Le sens d'un mot peut être déconstruit depuis de multiples niveaux — lettres, phonèmes, syllabes, morphèmes et contexte. En l'abordant depuis de multiples aspects, en approfondissant couche par couche, en démontant pas à pas et, finalement, en synthétisant de multiples aspects, on obtient le sens le plus complet et correct du mot.
 
 Le « saisir le sens à partir de l'orthographe » dont traite ce livre ne signifie pas énoncer avec précision le sens traduit du mot, mais plutôt le sens vague littéral du mot. Il est particulièrement applicable aux mots qui se conforment aux règles de formation des mots. Ce sens vague accède directement à la connotation essentielle du mot ; c'est un type de sens plus scientifique et rapide, applicable aux élèves dont la langue maternelle est n'importe quelle langue.
