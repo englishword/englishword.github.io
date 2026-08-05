@@ -109,10 +109,10 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *주: oi, oo, au는 첫 번째 문자도 두 번째 문자도 아닌 방식으로 읽히며, 따로 외워야 합니다.*
@@ -173,39 +173,37 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 >
 > **음독 연습**
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## I와 U의 대체 문자
 
@@ -214,9 +212,9 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 | i ⟹ y | [ ī ] | [ ȳ ] | flȳ |
 | i ⟹ y | [ i ] | [ ẏ ] | lilẏ |
 | ai ⟹ ay | [ āi ] | [ āy ] | sāy |
+| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | ei ⟹ ey | [ ēi ] | [ ēy ] | kēy |
 | ei ⟹ ey | [ èi ] | [ èy ] | thèy |
-| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | eu ⟹ ew | [ eū ] | [ ew̄ ] | new̄ |
 | ou ⟹ ow | [ ōu ] | [ ōw ] | slōw |
 | ou ⟹ ow | [ òu ] | [ òw ] | còw |
@@ -228,15 +226,15 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 >
 > AY: bāy rāy wāy sāy hāy pāy Māy lāy
 >
-> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
+> AW: pãw drãw sãw strãw strãwberry̍ lãwn
 >
-> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
+> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
 >
 > OW: rainbōw pillōw yellōw windōw bōwl rōw hollōw lōw
 >
 > OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 >
-> AW: pãw drãw sãw strãw strãwberry̍ lãwn
+> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
 
 ## 모음자 + R
 
@@ -246,7 +244,7 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 |---|---|---|---|---|---|
 | 예 | cāre | hēre | fīre | fōre | dūre |
 
-*주: 개음 직후에 R 음이 이어지는 경우, R 음은 혀를 말아 올리는 권설음과 관련되어 있어 개음은 자동으로 변합니다. IPS는 변화 전의 음을 나타내고, IPA는 변화 후의 음을 고정하지만, 결과는 동일합니다.*
+*주: 개음 직후에 R 음이 이어지는 경우, R 음은 혀를 말아 올리는 권설음과 관련되어 있어 개음은 자연스럽게 변합니다. IPS는 변화 전의 음을 나타내고, IPA는 변화 후의 음을 고정하지만, 결과는 동일합니다.*
 
 ### 폐음 + R
 
@@ -268,6 +266,18 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 |---|---|---|---|---|
 | 예 | be̊rg | bi̊rd | bůrn | ye̊ar |
 
+> **연습**
+>
+> **음독 연습**
+>
+> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
+>
+> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
+>
+> OR: porch pork horse horn fort morning corn fork
+>
+> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
+
 ### 기타
 
 | | [ àr ] |
@@ -279,28 +289,20 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 > **음독 연습**
 >
 > AR: àrm càr càrd càrt fàrm pàrk gàrde̊n
->
-> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
->
-> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
->
-> OR: porch pork horse horn fort morning corn fork
->
-> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
 
 ## 자음자
 
-여기에는 모음자의 5가지 폐음과, 몇 가지 일반적인 자음 [g] [h] [sh] [w] [y]가 포함됩니다.
-
-| 자 | A | B | C | D | E | F | G |
+| 자 | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| 발음 | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| 자 | H | I | J | K | L | M | N |
-| 발음 | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| 자 | O | P | Q | | R | S | T |
-| 발음 | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| 자 | U | V | W | | X | Y | Z |
-| 발음 | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| 발음 | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| 자 | H | <font color="red">I</font> | J | K | L | M | N |
+| 발음 | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| 자 | <font color="red">O</font> | P | Q | | R | S | T |
+| 발음 | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| 자 | <font color="red">U</font> | V | W | | X | Y | Z |
+| 발음 | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+여기에는 모음자의 5가지 폐음과, 몇 가지 일반적인 자음 [g] [h] [sh] [w] [y]가 포함됩니다.
 
 주: [y]는 IPA의 /j/입니다. 본 방법은 그 본래 형태를 복원합니다.
 
@@ -359,19 +361,19 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 | g | [ g ] | go | g는 a, o, u 앞. |
 | | [ j ] | orange | e, i, y¹ 앞, 어말의 ge |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | 대명사, 관사, 전치사, 접속사 |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | 어두 |
+| x | [ x ] = [ z ] | xenon | 어두 |
 | ex | [ ėx ] = [ ėks ] | excess | x는 어말 또는 자음 앞, 일부 예외 있음 |
 | | [ ėẋ ] = [ ėgz ] | exact | x는 모음 앞, 일부 예외 있음 |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ 예외: finger, get, forget, together, begin, give, gift, girl, tiger
+¹ 예외: eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **연습**
 >
@@ -494,7 +496,7 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 
 묵음은 다양한 방법으로 표시됩니다 — 취소선, 사선, 아래 점 등입니다. 표현력을 위해 본서에서는 이중 윤곽 문자(blackboard bold)를 사용합니다. 학습자가 이미 이러한 묵음을 외웠다면 표기 없이도 무방합니다.
 
-### 묵음 자음
+### 묵음 자음자
 
 | 조합 | 예 |
 |---|---|
@@ -514,7 +516,7 @@ IPS 표기는 26개의 영문자와 중국어 병음을 알고 있는 초등학�
 | -is𝕥- | lis𝕥en, c𝕙ris𝕥en, c𝕙ris𝕥mas, whis𝕥le |
 | 𝕤 | i𝕤land |
 
-### 묵음 모음
+### 묵음 모음자
 
 어말에 묵음 e를 가진 단어가 큰 비율을 차지하므로, 편의상 어말의 묵음 e는 표기되지 않습니다. 어중에 있는 묵음 e만 표시됩니다.
 

@@ -5,19 +5,70 @@ weight: 6
 
 형태소는 접두사, 어근, 접미사, 결합 모음으로 나뉜다.
 
-접두사와 접미사는 수가 적고 어근은 수가 많으므로, 접두사와 접미사는 먼저 암기하고 어근은 평소에 조금씩 축적해 나가면 된다. 접두사와 어근은 각각 확정된 원래 의미를 지니며, 접미사는 품사를 바꾸는 역할을 한다. 하이픈 등으로 영어 단어의 접두사, 어근, 접미사를 분리해 내면 단어의 원래 의미가 간단명료하게 드러난다. 본래 하나로 통째여서 분할할 수 없어 보이던 단어가 유기적으로 통일된 여러 구성 요소로 나뉘는 것이다. 이렇게 하면 한편으로는 접두사와 어근을 통해 단어의 대략적 의미를 파악할 수 있고, 다른 한편으로는 접미사를 통해 단어의 품사를 정확히 판단할 수 있다. 접미사는 흔히 두 개 이상의 접미사가 결합하고 변형되어 이루어지는데, 이런 다중 접미사에 대해서도 구분을 제시하여 단어의 품사 변화 과정을 드러낸다.
+접두사와 접미사는 수가 적고 어근은 수가 많으므로, 접두사와 접미사는 먼저 암기하고 어근은 평소에 조금씩 축적해 나가면 된다. 접두사와 어근은 각각 확정된 원래 의미를 지니며, 접미사는 품사를 바꾸는 역할을 한다. 하이픈 등으로 영어 단어의 접두사, 어근, 접미사를 분리해 내면 단어의 원래 의미가 간단명료하게 드러난다. 본래 하나로 통째여서 분할할 수 없어 보이던 단어가 통일된 여러 구성 요소로 나뉘는 것이다. 이렇게 하면 한편으로는 접두사와 어근을 통해 단어의 대략적 의미를 파악할 수 있고, 다른 한편으로는 접미사를 통해 단어의 품사를 정확히 판단할 수 있다. 접미사는 흔히 한 개 이상의 접미사가 결합하고 변형되어 이루어지는데, 이런 다중 접미사에 대해서도 구분을 제시하여 단어의 품사 변화 과정을 드러낸다.
 
 ## 어근(root)
 
 어근은 수가 많아 아래에는 가장 자주 쓰이는 일부만 나열한다. 더 보려면 관련 어근 전문 사전을 참고하라.
 
-가장 자주 쓰이는 어근 총정리:
-
-ag, act = 만들다, 행하다; agr = 농지, 밭; am = 사랑; anim = 정신, 영혼, 생명; ann, enn = 해, 년; astro = 별; audi = 듣다; bell = 전쟁; bio = 생명, 생물; brev = 짧다; ced = 가다; cent = 백; center, centr = 중심; cid, cis = 죽이다, 자르다; claim, clam = 외치다; clar = 분명하다; clud, clos = 닫다; cogn = 알다; cord = 마음; cosm = 우주, 세계; cred = 믿다; cur, cours = 달리다; cycl = 원, 고리; di = 날; dict = 말하다; duc, duct = 이끌다; ed = 먹다; fact = 만들다; fer = 가져오다, 운반하다; flu = 흐르다; form = 형태, 모양; fract, frag = 부수다, 꺾다; fus = 붓다, 쏟다; gen = 기원; geo = 땅, 토지; grad = 걷다, 나아가다; gram = 쓰다, 기록하다; graph = 쓰다, 그리다; gress = 걷다; hap = 우연, 행운; hospit = 손님; insul = 섬; hydra = 물; ject = 던지다; junct = 잇다, 결합하다; lect, leg, lig = 고르다, 모으다; lev = 들다, 올리다; liber = 자유; lingu = 언어; liter = 문자, 글자; loc = 장소; log = 말; loqu = 말하다; manu = 손; medi = 중간; memor = 기억; milit = 군인; min = 적다, 작다; mob, mot, mov = 움직이다; mort = 죽음; nov = 새롭다; numer = 수; oper = 일하다; opt = 빛; path = 감정, 질병; pel = 밀다, 몰다; pend, pen = 매달다; phon = 소리; plen = 가득, 전부; pon, pos = 놓다; popul = 사람; port = 나르다; prim = 첫째; psych = 정신; pur = 순수하다; rect = 바르다; rid, ris = 웃다; rupt = 끊어지다; scend, scens, scent = 오르다; sci = 알다; sens, sent = 느끼다; sol = 태양; spec = 보다; spir = 숨쉬다, 생명; tact, tang, tag = 닿다; tail = 자르다, 베다; tain, ten, tin = 간직하다, 담다; tect = 덮다, 가리다; tele = 멀다; tend, tens, tent = 뻗다, 팽팽하다; text = 엮다; therm = 열; tor, tort = 비틀다, 돌리다; tract = 끌다, 당기다; un, uni = 하나; ut = 쓰다; vac, van = 비다; vari = 변하다; ven = 오다; vert, vers = 돌리다, 뒤집다; vid, vis = 보다; vit, viv = 살다; volv = 구르다; wis, wit = 알다
+| 어근 | 의미 | 어근 | 의미 |
+|---|---|---|---|
+| ag, act | 만들다, 행하다 | agr | 농지, 밭 |
+| am | 사랑 | anim | 정신, 영혼, 생명 |
+| ann, enn | 해, 년 | astro | 별 |
+| audi | 듣다 | bell | 전쟁 |
+| bio | 생명, 생물 | brev | 짧다 |
+| ced | 가다 | cent | 백 |
+| center, centr | 중심 | cid, cis | 죽이다, 자르다 |
+| claim, clam | 외치다 | clar | 분명하다 |
+| clud, clos | 닫다 | cogn | 알다 |
+| cord | 마음 | cosm | 우주, 세계 |
+| cred | 믿다 | cur, cours | 달리다 |
+| cycl | 원, 고리 | di | 날 |
+| dict | 말하다 | duc, duct | 이끌다 |
+| ed | 먹다 | fact | 만들다 |
+| fer | 가져오다, 운반하다 | flu | 흐르다 |
+| form | 형태, 모양 | fract, frag | 부수다, 꺾다 |
+| fus | 붓다, 쏟다 | gen | 기원 |
+| geo | 땅, 토지 | grad | 걷다, 나아가다 |
+| gram | 쓰다, 기록하다 | graph | 쓰다, 그리다 |
+| gress | 걷다 | hap | 우연, 행운 |
+| hospit | 손님 | insul | 섬 |
+| hydra | 물 | ject | 던지다 |
+| junct | 잇다, 결합하다 | lect, leg, lig | 고르다, 모으다 |
+| lev | 들다, 올리다 | liber | 자유 |
+| lingu | 언어 | liter | 문자, 글자 |
+| loc | 장소 | log | 말 |
+| loqu | 말하다 | manu | 손 |
+| medi | 중간 | memor | 기억 |
+| milit | 군인 | min | 적다, 작다 |
+| mob, mot, mov | 움직이다 | mort | 죽음 |
+| nov | 새롭다 | numer | 수 |
+| oper | 일하다 | opt | 시각 |
+| path | 감정, 질병 | pel | 밀다, 몰다 |
+| pend, pen | 매달다 | phon | 소리 |
+| plen | 가득, 전부 | pon, pos | 놓다 |
+| popul | 사람 | port | 나르다 |
+| prim | 첫째 | psych | 정신 |
+| pur | 순수하다 | rect | 바르다 |
+| rid, ris | 웃다 | rupt | 끊어지다 |
+| scend, scens, scent | 오르다 | sci | 알다 |
+| sens, sent | 느끼다 | sol | 태양 |
+| spec | 보다 | spir | 숨쉬다, 생명 |
+| tact, tang, tag | 닿다 | tail | 자르다, 베다 |
+| tain, ten, tin | 간직하다, 담다 | tect | 덮다, 가리다 |
+| tele | 멀다 | tend, tens, tent | 뻗다, 팽팽하다 |
+| text | 엮다 | therm | 열 |
+| tor, tort | 비틀다, 돌리다 | tract | 끌다, 당기다 |
+| un, uni | 하나 | ut | 쓰다 |
+| vac, van | 비다 | vari | 변하다 |
+| ven | 오다 | vert, vers | 돌리다, 뒤집다 |
+| vid, vis | 보다 | vit, viv | 살다 |
+| volv | 구르다 | wis, wit | 알다 |
 
 ## 접두사
 
-아래에는 자주 쓰이는 접두사와 그 변형을 암기하기 쉽도록 적절히 분류해 놓았다. 여기 나열한 접두사는 흔히 쓰이는 것들로, 모든 접두사를 망라한 것은 아니다. 표 15는 접두사와 그 변형 규칙을, 표 16은 숫자 접두사를 보여준다.
+아래에는 자주 쓰이는 접두사와 그 변형을 암기하기 쉽도록 적절히 분류해 놓았다. 여기 나열한 접두사는 흔히 쓰이는 것들로, 모든 접두사를 망라한 것은 아니다.
 
 접두사 변형 중 가장 흔한 형태는 "접두사 동화"이다. 접두사 동화란 접두사 끝의 자음 글자가 어근 첫 글자와 같아지도록 동화되어, 발음을 매끄럽고 쉽게 하려는 것을 말한다.
 
@@ -40,7 +91,6 @@ ag, act = 만들다, 행하다; agr = 농지, 밭; am = 사랑; anim = 정신, �
 | inter- | intra-, intro-<br>l 앞에서 intel-. | 상호 |
 | contra- | 변형 contre-, contro | 대립, 부정 |
 | se- | 모음 앞에서 sed-. | 분리 |
-| 끝 글자 탈락 | multi-, myria-, octa-,<br>cata-, para-, endo-,<br>ento-, penta-, quinque-, tetra-<br>모음 앞에서 접두사 끝 글자 탈락.<br>anti-는 모음 또는 h 앞에서 i 탈락<br>apo-, epi-는 h로 시작하는 어근 앞에서 끝 글자 탈락 | |
 
 **표 16 — 숫자 접두사**
 
@@ -54,7 +104,25 @@ ag, act = 만들다, 행하다; agr = 농지, 밭; am = 사랑; anim = 정신, �
 
 표 15와 표 16에 든 접두사 외의 다른 자주 쓰이는 접두사는 다음과 같다:
 
-ante- = 앞, 이전; auto- = 자동; be- = …하게 만들다; bene- = 좋음; by- = 곁의, 부(副); circum- = 주변; counter- = 반대; de- = 강조; dia- = 관통; endo- = 안; eu- = 좋음; fore- = 앞; hetero- = 다른; holo- = 전부; homo- = 같은; hyper- = 초; hypo- = 아래; infra- = 아래; iso- = 같음; mal-/male- = 나쁨; meta- = 초월, 변화; mis- = 잘못; neo- = 새로운; non- = 부정; omni- = 전부; out- = 밖; over- = 초; paleo- = 옛; pan- = 넓음; para- = 옆; pen-/pene- = 거의; peri- = 주변; poly- = 많음; post- = 뒤; pre- = 앞; pro- = 앞; proto- = 원시; pseudo- = 거짓; re- = 반복; retro- = 후퇴; sino- = 중국; step- = 의붓; stereo- = 입체; super- = 초, 위; supra- = 초; trans- = 변환, 가로질름; tele- = 멀리; ultra- = 초; under- = 아래; vice- = 부(副); with- = 뒤로, 반대
+| 접두사 | 의미 | 접두사 | 의미 | 접두사 | 의미 |
+|---|---|---|---|---|---|
+| ante- | 앞, 이전 | auto- | 자동 | be- | …하게 만들다 |
+| bene- | 좋음 | by- | 곁의, 부(副) | circum- | 주변 |
+| counter- | 반대 | de- | 강조 | dia- | 관통 |
+| endo- | 안 | eu- | 좋음 | fore- | 앞 |
+| hetero- | 다른 | holo- | 전부 | homo- | 같은 |
+| hyper- | 초 | hypo- | 아래 | infra- | 아래 |
+| iso- | 같음 | mal-/male- | 나쁨 | meta- | 초월, 변화 |
+| mis- | 잘못 | neo- | 새로운 | non- | 부정 |
+| omni- | 전부 | out- | 밖 | over- | 초 |
+| paleo- | 옛 | pan- | 넓음 | para- | 옆 |
+| pen-/pene- | 거의 | peri- | 주변 | poly- | 많음 |
+| post- | 뒤 | pre- | 앞 | pro- | 앞 |
+| proto- | 원시 | pseudo- | 거짓 | re- | 반복 |
+| retro- | 후퇴 | sino- | 중국 | step- | 의붓 |
+| stereo- | 입체 | super- | 초, 위 | supra- | 초 |
+| trans- | 변환, 가로질름 | tele- | 멀리 | ultra- | 초 |
+| under- | 아래 | vice- | 부(副) | with- | 뒤로, 반대 |
 
 ## 접미사
 
@@ -92,11 +160,11 @@ ante- = 앞, 이전; auto- = 자동; be- = …하게 만들다; bene- = 좋음; 
 
 접미사 변형 규칙:
 
-1. y를 i로 바꾸기: y로 끝나는 형태소는 다른 접미사를 덧붙일 때 y를 i로 바꾼다. 그 접미사가 i로 시작하면 i를 하나만 남긴다.
+1. **y를 i로 바꾸기**: y로 끝나는 형태소는 다른 접미사를 덧붙일 때 y를 i로 바꾼다. 그 접미사가 i로 시작하면 i를 하나만 남긴다.
 
-2. e 탈락: 묵음 글자 e 뒤에 모음 또는 반모음으로 시작하는 접미사를 덧붙일 때는 e를 탈락하고, 자음으로 시작하는 접미사를 덧붙일 때는 e를 유지한다. 단, changeable처럼 g의 발음 변화를 막기 위해 e를 유지하기도 한다. (끝의 묵음 e는 개음·폐음 판단의 표지 구실을 하므로, 탈락시키면 개음과 폐음 구분에 혼동이 올 수 있으니 주의해야 한다.)
+2. **e 탈락**: 묵음 글자 e 뒤에 모음 또는 반모음으로 시작하는 접미사를 덧붙일 때는 e를 탈락하고, 자음으로 시작하는 접미사를 덧붙일 때는 e를 유지한다. 단, changeable처럼 g의 발음 변화를 막기 위해 e를 유지하기도 한다. (끝의 묵음 e는 개음·폐음 판단의 표지 구실을 하므로, 탈락시키면 개음과 폐음 구분에 혼동이 올 수 있으니 주의해야 한다.)
 
-3. 중복: 모음 글자 하나와 중복 가능 자음 글자 하나로 끝나는 강세 폐음절은, 모음 글자로 시작하는 일부 접미사나 -y, -le을 덧붙일 때(자주 쓰이는 중복 접미사는 표 18과 같다) 끝의 중복 가능 자음 글자를 중복한다. 예: app-le(강세 폐음절, 중복), tab-le(강세 개음절, 중복 아님), happ-y(강세 폐음절, 중복).
+3. **중복**: 모음 글자 하나와 중복 가능 자음 글자 하나로 끝나는 강세 폐음절은, 모음 글자로 시작하는 일부 접미사나 -y, -le을 덧붙일 때 끝의 중복 가능 자음 글자를 중복한다. 예: app-le(강세 폐음절, 중복), tab-le(강세 개음절, 중복 아님), happ-y(강세 폐음절, 중복).
 
 중복 여부로 거꾸로 앞의 모음 글자가 개음절인지 폐음절인지 판단할 수도 있다.
 
@@ -107,53 +175,26 @@ qu로 시작하는 단어에서 u는 [w]로 발음되어 자음으로 취급한�
 
 주의해야 할 구분: 접두사 동화는 중복이 아니다(예: affect). 또 일부 단어 자체에 원래 중복 글자가 있는 것도 중복이 아니다(예: ill, bill, billion, passage).
 
-**표 18 — 자음을 중복하는 자주 쓰이는 접미사**
-
-|  | 자음을 중복하는 접미사 |
-|---|---|
-| A | -å, -år, -årẏ, -ȧage, |
-| E | -ēe, -e̊r, -e̊rẏ, -ed, -est, -ėy, (n/r 뒤)-e̊l, -e̊n, |
-| I,Y | -ẏ, -i- (-y에서 변형), -ing |
-| O | -ō, (l/r 뒤)-ōw, -o̊r/-o̊ur, -o̊n, -o̊m, -o̊rẏ |
-| L | -le |
-
 아래에 접미사 변형의 몇 가지 예를 든다. 모든 예는 아니며, 단어 예시 부분에서 접미사의 여러 변형과 품사 변화를 더 분명히 볼 수 있다.
 
--u-le→-ule→-ul-;
-
--i-le→-ile→-il-;
-
--i-fy→-ify→-ifi-→-if-;
-
--le-ing→-ling;
-
--le-er→-ler;
-
--le-ed→-led;
-
--i-ous→-ious;
-
--i-on→-ion;
-
--acy-ous→-acious;
-
--acy-ty→acity;
-
--ist-er→-istr (소수);
-
--ate-ion→-ation;
-
--ate-ic→-at-ic;
-
--ate-ive→-at-ive;
-
--ate-ory→-at-ory;
-
--ary-um→-ari-um;
-
--ory-um→-ori-um;
-
--acy-ous→-aci-ous.
+- -u-le ⟹ -ule ⟹ -ul-
+- -i-le ⟹ -ile ⟹ -il-
+- -i-fy ⟹ -ify ⟹ -ifi- ⟹ -if-
+- -le-ing ⟹ -ling
+- -le-er ⟹ -ler
+- -le-ed ⟹ -led
+- -i-ous ⟹ -ious
+- -i-on ⟹ -ion
+- -acy-ous ⟹ -acious
+- -acy-ty ⟹ acity
+- -ist-er ⟹ -istr (소수)
+- -ate-ion ⟹ -ation
+- -ate-ic ⟹ -at-ic
+- -ate-ive ⟹ -at-ive
+- -ate-ory ⟹ -at-ory
+- -ary-um ⟹ -ari-um
+- -ory-um ⟹ -ori-um
+- -acy-ous ⟹ -aci-ous
 
 ## 접두사와 접미사의 일반적인 조합
 
