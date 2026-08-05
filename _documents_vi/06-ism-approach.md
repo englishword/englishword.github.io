@@ -5,19 +5,70 @@ weight: 6
 
 Hình vị có thể chia thành tiền tố, gốc từ, hậu tố và nguyên âm nối.
 
-Do tiền tố và hậu tố ít, mà gốc từ lại nhiều, nên có thể thuộc lòng tiền tố và hậu tố, rồi theo thời gian dần dần tích lũy gốc từ. Tiền tố và gốc từ mỗi loại mang một ý nghĩa nguyên thủy nhất định, còn hậu tố dùng để thay đổi từ loại. Thông qua việc phân tách tiền tố, gốc và hậu tố của một từ bằng gạch nối, ý nghĩa nguyên thủy của từ trở nên rõ ràng; một từ vốn trông như một chỉnh thể không thể chia tách, nay phân rã thành các thành phần hữu cơ thống nhất. Như vậy có thể suy ra ý nghĩa đại khái của từ từ tiền tố và gốc, và xác định chính xác từ loại của nó từ hậu tố. Hậu tố thường được hình thành qua sự kết hợp và biến đổi của hai hay nhiều hậu tố; các hậu tố bội này cũng được phân tách, để bộc lộ quá trình biến đổi từ loại của từ.
+Do tiền tố và hậu tố ít, mà gốc từ lại nhiều, nên có thể thuộc lòng tiền tố và hậu tố, rồi theo thời gian dần dần tích lũy gốc từ. Tiền tố và gốc từ mỗi loại mang một ý nghĩa nguyên thủy nhất định, còn hậu tố dùng để thay đổi từ loại. Thông qua việc phân tách tiền tố, gốc và hậu tố của một từ bằng gạch nối, ý nghĩa nguyên thủy của từ trở nên rõ ràng; một từ vốn trông như một chỉnh thể không thể chia tách, nay phân rã thành các thành phần. Như vậy có thể suy ra ý nghĩa đại khái của từ từ tiền tố và gốc, và xác định chính xác từ loại của nó từ hậu tố. Hậu tố thường được hình thành qua sự kết hợp và biến đổi của một hoặc nhiều hậu tố; các hậu tố bội này cũng được phân tách, để bộc lộ quá trình biến đổi từ loại của từ.
 
 ## Gốc từ (root)
 
 Do gốc từ rất nhiều, dưới đây chỉ liệt kê một phần nhỏ các gốc thường gặp nhất. Để biết thêm, xem từ điển gốc từ chuyên ngành.
 
-Tổng hợp các gốc từ thường gặp nhất:
-
-ag, act = làm, tạo ra; agr = ruộng đồng; am = tình yêu; anim = tinh thần, linh hồn, sự sống; ann, enn = năm; astro = ngôi sao; audi = nghe; bell = chiến tranh; bio = sự sống, sinh vật; brev = ngắn; ced = đi; cent = trăm; center, centr = trung tâm; cid, cis = giết, cắt; claim, clam = kêu, hô; clar = rõ ràng; clud, clos = đóng; cogn = biết, nhận biết; cord = tim; cosm = vũ trụ, thế giới; cred = tin; cur, cours = chạy; cycl = vòng, tròn; di = ngày; dict = nói; duc, duct = dẫn; ed = ăn; fact = làm; fer = mang, đem; flu = chảy; form = hình, hình dạng; fract, frag = phá, gãy; fus = rót, đúc; gen = nguồn gốc; geo = đất; grad = bước, đi; gram = viết, ghi chép; graph = viết, vẽ; gress = bước đi; hap = tình cờ, may mắn; hospit = khách; insul = hòn đảo; hydra = nước; ject = ném; junct = nối, kết nối; lect, leg, lig = chọn, tập hợp; lev = nâng; liber = tự do; lingu = ngôn ngữ; liter = chữ cái; loc = nơi chốn; log = lời, từ; loqu = nói; manu = tay; medi = giữa; memor = trí nhớ; milit = lính; min = nhỏ, ít; mob, mot, mov = di chuyển; mort = chết; nov = mới; numer = số; oper = làm việc; opt = ánh sáng; path = cảm giác, bệnh; pel = đẩy, thúc đẩy; pend, pen = treo; phon = âm thanh; plen = đầy; pon, pos = đặt; popul = dân; port = mang; prim = đầu tiên; psych = tâm trí; pur = trong sạch; rect = thẳng; rid, ris = cười; rupt = đứt, gãy; scend, scens, scent = trèo; sci = biết; sens, sent = cảm giác; sol = mặt trời; spec = nhìn; spir = thở, sự sống; tact, tang, tag = chạm; tail = cắt; tain, ten, tin = giữ, chứa; tect = che phủ; tele = xa; tend, tens, tent = duỗi, căng; text = dệt; therm = nhiệt, nóng; tor, tort = xoay, vặn; tract = kéo, lôi; un, uni = một; ut = dùng; vac, van = trống; vari = thay đổi; ven = đến; vert, vers = xoay, lật; vid, vis = nhìn; vit, viv = sống; volv = lăn; wis, wit = biết
+| Gốc từ | Ý nghĩa | Gốc từ | Ý nghĩa |
+|---|---|---|---|
+| ag, act | làm, tạo ra | agr | ruộng đồng |
+| am | tình yêu | anim | tinh thần, linh hồn, sự sống |
+| ann, enn | năm | astro | ngôi sao |
+| audi | nghe | bell | chiến tranh |
+| bio | sự sống, sinh vật | brev | ngắn |
+| ced | đi | cent | trăm |
+| center, centr | trung tâm | cid, cis | giết, cắt |
+| claim, clam | kêu, hô | clar | rõ ràng |
+| clud, clos | đóng | cogn | biết, nhận biết |
+| cord | tim | cosm | vũ trụ, thế giới |
+| cred | tin | cur, cours | chạy |
+| cycl | vòng, tròn | di | ngày |
+| dict | nói | duc, duct | dẫn |
+| ed | ăn | fact | làm |
+| fer | mang, đem | flu | chảy |
+| form | hình, hình dạng | fract, frag | phá, gãy |
+| fus | rót, đúc | gen | nguồn gốc |
+| geo | đất | grad | bước, đi |
+| gram | viết, ghi chép | graph | viết, vẽ |
+| gress | bước đi | hap | tình cờ, may mắn |
+| hospit | khách | insul | hòn đảo |
+| hydra | nước | ject | ném |
+| junct | nối, kết nối | lect, leg, lig | chọn, tập hợp |
+| lev | nâng | liber | tự do |
+| lingu | ngôn ngữ | liter | chữ cái |
+| loc | nơi chốn | log | lời, từ |
+| loqu | nói | manu | tay |
+| medi | giữa | memor | trí nhớ |
+| milit | lính | min | nhỏ, ít |
+| mob, mot, mov | di chuyển | mort | chết |
+| nov | mới | numer | số |
+| oper | làm việc | opt | thị giác |
+| path | cảm giác, bệnh | pel | đẩy, thúc đẩy |
+| pend, pen | treo | phon | âm thanh |
+| plen | đầy | pon, pos | đặt |
+| popul | dân | port | mang |
+| prim | đầu tiên | psych | tâm trí |
+| pur | trong sạch | rect | thẳng |
+| rid, ris | cười | rupt | đứt, gãy |
+| scend, scens, scent | trèo | sci | biết |
+| sens, sent | cảm giác | sol | mặt trời |
+| spec | nhìn | spir | thở, sự sống |
+| tact, tang, tag | chạm | tail | cắt |
+| tain, ten, tin | giữ, chứa | tect | che phủ |
+| tele | xa | tend, tens, tent | duỗi, căng |
+| text | dệt | therm | nhiệt, nóng |
+| tor, tort | xoay, vặn | tract | kéo, lôi |
+| un, uni | một | ut | dùng |
+| vac, van | trống | vari | thay đổi |
+| ven | đến | vert, vers | xoay, lật |
+| vid, vis | nhìn | vit, viv | sống |
+| volv | lăn | wis, wit | biết |
 
 ## Tiền tố
 
-Dưới đây phân loại các tiền tố thường gặp và các biến thể của chúng, để tiện ghi nhớ. Các tiền tố liệt kê ở đây là các tiền tố thông dụng, không đại diện cho toàn bộ tiền tố. Bảng 15 cho thấy tiền tố và quy tắc biến thể của chúng; Bảng 16 cho thấy các tiền tố chỉ số.
+Dưới đây phân loại các tiền tố thường gặp và các biến thể của chúng, để tiện ghi nhớ. Các tiền tố liệt kê ở đây là các tiền tố thông dụng, không đại diện cho toàn bộ tiền tố.
 
 Hình thức thường gặp nhất của biến thể tiền tố là "đồng hóa tiền tố", nghĩa là chữ cái phụ âm cuối của tiền tố được đồng hóa để phù hợp với chữ cái đầu của gốc, nhằm tạo thuận lợi cho phát âm trôi chảy.
 
@@ -40,7 +91,6 @@ Hình thức thường gặp nhất của biến thể tiền tố là "đồng 
 | inter- | intra-, intro-<br>trở thành intel- trước l. | giữa |
 | contra- | biến thể contre-, contro | chống, không |
 | se- | trở thành sed- trước nguyên âm. | tách ra |
-| Bỏ chữ cái cuối | multi-, myria-, octa-,<br>cata-, para-, endo-,<br>ento-, penta-, quinque-, tetra-<br>bỏ chữ cái cuối của tiền tố trước nguyên âm.<br>anti- mất i trước nguyên âm hoặc h<br>apo-, epi- bỏ chữ cái cuối trước các gốc bắt đầu bằng h | |
 
 **Bảng 16 — Tiền tố chỉ số**
 
@@ -52,9 +102,27 @@ Hình thức thường gặp nhất của biến thể tiền tố là "đồng 
 |---|---|---|---|---|---|---|---|
 | non-<br>enne- | deci-<br>deca- | semi-<br>demi-<br>hemi-<br>quasi- | multi-<br>poly- | cent-<br>hecto- | chili-<br>kilo- | milli-<br>mini-<br>micro- | macro- |
 
-Các tiền tố thường gặp khác ngoài các tiền tố trong Bảng 15 và Bảng 16 được liệt kê dưới đây:
+Các tiền tố thường gặp khác được liệt kê dưới đây:
 
-ante- = trước, phía trước; auto- = tự; be- = làm cho; bene- = tốt; by- = bên, thay thế; circum- = quanh; counter- = ngược, chống; de- = mạnh (xuống, xoá); dia- = xuyên; endo- = trong; eu- = tốt, đẹp; fore- = trước; hetero- = khác; holo- = toàn; homo- = giống, cùng; hyper- = trên, vượt; hypo- = dưới; infra- = dưới; iso- = bằng, đều; mal-/male- = xấu; meta- = vượt, thay đổi; mis- = sai; neo- = mới; non- = không; omni- = tất cả; out- = ra; over- = trên, quá; paleo- = cổ; pan- = toàn, tất cả; para- = bên cạnh; pen-/pene- = gần; peri- = quanh; poly- = nhiều; post- = sau; pre- = trước; pro- = tiến, trước; proto- = đầu tiên, nguyên; pseudo- = giả; re- = lại; retro- = lùi, ngược; sino- = Trung Quốc; step- = kế; stereo- = cứng, rắn; super- = trên, siêu; supra- = trên; trans- = xuyên, qua; tele- = xa; ultra- = vượt; under- = dưới; vice- = thay; with- = ngược, lại
+| Tiền tố | Ý nghĩa | Tiền tố | Ý nghĩa | Tiền tố | Ý nghĩa |
+|---|---|---|---|---|---|
+| ante- | trước, phía trước | auto- | tự | be- | làm cho |
+| bene- | tốt | by- | bên, thay thế | circum- | quanh |
+| counter- | ngược, chống | de- | mạnh (xuống, xoá) | dia- | xuyên |
+| endo- | trong | eu- | tốt, đẹp | fore- | trước |
+| hetero- | khác | holo- | toàn | homo- | giống, cùng |
+| hyper- | trên, vượt | hypo- | dưới | infra- | dưới |
+| iso- | bằng, đều | mal-/male- | xấu | meta- | vượt, thay đổi |
+| mis- | sai | neo- | mới | non- | không |
+| omni- | tất cả | out- | ra | over- | trên, quá |
+| paleo- | cổ | pan- | toàn, tất cả | para- | bên cạnh |
+| pen-/pene- | gần | peri- | quanh | poly- | nhiều |
+| post- | sau | pre- | trước | pro- | tiến, trước |
+| proto- | đầu tiên, nguyên | pseudo- | giả | re- | lại |
+| retro- | lùi, ngược | sino- | Trung Quốc | step- | kế |
+| stereo- | cứng, rắn | super- | trên, siêu | supra- | trên |
+| trans- | xuyên, qua | tele- | xa | ultra- | vượt |
+| under- | dưới | vice- | thay | with- | ngược, lại |
 
 ## Hậu tố
 
@@ -92,11 +160,11 @@ Khi ghi nhớ từ, nên cố gắng phân biệt nguyên âm nối với phần
 
 Quy tắc biến thể của hậu tố:
 
-1. Đổi y thành i: Một hình vị kết thúc bằng y, khi thêm một hậu tố khác thì đổi y thành i; nếu hậu tố này bắt đầu bằng i, thì chỉ giữ lại một i duy nhất.
+1. **Đổi y thành i**: Một hình vị kết thúc bằng y, khi thêm một hậu tố khác thì đổi y thành i; nếu hậu tố này bắt đầu bằng i, thì chỉ giữ lại một i duy nhất.
 
-2. Bỏ e: Khi thêm một hậu tố bắt đầu bằng nguyên âm hoặc bán nguyên âm sau chữ cái e câm, thì bỏ e; khi thêm hậu tố bắt đầu bằng phụ âm, thì giữ e. Tuy nhiên, như trong changeable, giữ e để ngăn g thay đổi âm. (Do e câm cuối từ đóng vai trò dấu hiệu phân biệt âm mở và âm đóng, nên việc bỏ nó đôi khi có thể gây nhầm lẫn giữa âm mở và âm đóng — cần cẩn thận.)
+2. **Bỏ e**: Khi thêm một hậu tố bắt đầu bằng nguyên âm hoặc bán nguyên âm sau chữ cái e câm, thì bỏ e; khi thêm hậu tố bắt đầu bằng phụ âm, thì giữ e. Tuy nhiên, như trong changeable, giữ e để ngăn g thay đổi âm. (Do e câm cuối từ đóng vai trò dấu hiệu phân biệt âm mở và âm đóng, nên việc bỏ nó đôi khi có thể gây nhầm lẫn giữa âm mở và âm đóng — cần cẩn thận.)
 
-3. Nhân đôi: Một âm tiết đóng mang trọng âm kết thúc bằng một chữ cái nguyên âm duy nhất cộng với một chữ cái phụ âm có thể nhân đôi, sẽ nhân đôi phụ âm cuối đó khi thêm một số hậu tố bắt đầu bằng nguyên âm, -y hoặc -le (các hậu tố nhân đôi thường gặp nhất được cho trong Bảng 18). Ví dụ: app-le (âm tiết đóng mang trọng âm, nhân đôi); tab-le (âm tiết mở mang trọng âm, không nhân đôi); happ-y (âm tiết đóng mang trọng âm, nhân đôi).
+3. **Nhân đôi**: Một âm tiết đóng mang trọng âm kết thúc bằng một chữ cái nguyên âm duy nhất cộng với một chữ cái phụ âm có thể nhân đôi, sẽ nhân đôi phụ âm cuối đó khi thêm một số hậu tố bắt đầu bằng nguyên âm, -y hoặc -le. Ví dụ: app-le (âm tiết đóng mang trọng âm, nhân đôi); tab-le (âm tiết mở mang trọng âm, không nhân đôi); happ-y (âm tiết đóng mang trọng âm, nhân đôi).
 
 Ngược lại, việc có nhân đôi hay không có thể được dùng để xác định xem chữ cái nguyên âm phía trước nằm trong âm tiết mở hay đóng.
 
@@ -107,53 +175,26 @@ Chữ cái phụ âm C có thể nhân đôi thành cc hoặc ck tùy theo chữ
 
 Chú ý phân biệt: Sự đồng hóa tiền tố không phải là nhân đôi, như trong affect; và một số từ bản thân đã chứa chữ cái nhân đôi, không phải do nhân đôi, như trong ill, bill, billion, passage.
 
-**Bảng 18 — Các hậu tố thường gặp có nhân đôi phụ âm**
-
-|  | Hậu tố nhân đôi phụ âm |
-|---|---|
-| A | -å, -år, -årẏ, -ȧage, |
-| E | -ēe, -e̊r, -e̊rẏ, -ed, -est, -ėy, (sau n/r)-e̊l, -e̊n, |
-| I,Y | -ẏ, -i- (biến đổi từ -y), -ing |
-| O | -ō, (sau l/r)-ōw, -o̊r/-o̊ur, -o̊n, -o̊m, -o̊rẏ |
-| L | -le |
-
 Dưới đây là một số ví dụ về biến đổi hậu tố, tuy không phải là danh sách đầy đủ; phần ví dụ từ sẽ cho thấy rõ các biến đổi khác nhau của hậu tố và sự thay đổi từ loại của chúng.
 
--u-le→-ule→-ul-;
-
--i-le→-ile→-il-;
-
--i-fy→-ify→-ifi-→-if-;
-
--le-ing→-ling;
-
--le-er→-ler;
-
--le-ed→-led;
-
--i-ous→-ious;
-
--i-on→-ion;
-
--acy-ous→-acious;
-
--acy-ty→acity;
-
--ist-er→-istr (ít trường hợp);
-
--ate-ion→-ation;
-
--ate-ic→-at-ic;
-
--ate-ive→-at-ive;
-
--ate-ory→-at-ory;
-
--ary-um→-ari-um;
-
--ory-um→-ori-um;
-
--acy-ous→-aci-ous.
+- -u-le⟹-ule⟹-ul-
+- -i-le⟹-ile⟹-il-
+- -i-fy⟹-ify⟹-ifi-⟹-if-
+- -le-ing⟹-ling
+- -le-er⟹-ler
+- -le-ed⟹-led
+- -i-ous⟹-ious
+- -i-on⟹-ion
+- -acy-ous⟹-acious
+- -acy-ty⟹acity
+- -ist-er⟹-istr (ít trường hợp)
+- -ate-ion⟹-ation
+- -ate-ic⟹-at-ic
+- -ate-ive⟹-at-ive
+- -ate-ory⟹-at-ory
+- -ary-um⟹-ari-um
+- -ory-um⟹-ori-um
+- -acy-ous⟹-aci-ous
 
 ## Các tổ hợp thường gặp của tiền tố và hậu tố
 

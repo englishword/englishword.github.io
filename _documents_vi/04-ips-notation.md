@@ -109,10 +109,10 @@ Chữ cái nào phía trên có gạch ngang thì đọc theo âm mở của ch�
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *Lưu ý: oi, oo và au không đọc theo chữ cái trước cũng không đọc theo chữ cái sau, cần ghi nhớ riêng.*
@@ -173,39 +173,37 @@ Chữ cái nào phía trên có gạch ngang thì đọc theo âm mở của ch�
 >
 > Bài tập đánh vần
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## Thế thân của I và U
 
@@ -214,9 +212,9 @@ Chữ cái nào phía trên có gạch ngang thì đọc theo âm mở của ch�
 | i ⟹ y | [ ī ] | [ ȳ ] | flȳ |
 | i ⟹ y | [ i ] | [ ẏ ] | lilẏ |
 | ai ⟹ ay | [ āi ] | [ āy ] | sāy |
+| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | ei ⟹ ey | [ ēi ] | [ ēy ] | kēy |
 | ei ⟹ ey | [ èi ] | [ èy ] | thèy |
-| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | eu ⟹ ew | [ eū ] | [ ew̄ ] | new̄ |
 | ou ⟹ ow | [ ōu ] | [ ōw ] | slōw |
 | ou ⟹ ow | [ òu ] | [ òw ] | còw |
@@ -228,15 +226,15 @@ Chữ cái nào phía trên có gạch ngang thì đọc theo âm mở của ch�
 >
 > AY: bāy rāy wāy sāy hāy pāy Māy lāy
 >
-> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
+> AW: pãw drãw sãw strãw strãwberry̍ lãwn
 >
-> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
+> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
 >
 > OW: rainbōw pillōw yellōw windōw bōwl rōw hollōw lōw
 >
 > OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 >
-> AW: pãw drãw sãw strãw strãwberry̍ lãwn
+> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
 
 ## Chữ cái nguyên âm + R
 
@@ -246,7 +244,7 @@ Chữ cái nào phía trên có gạch ngang thì đọc theo âm mở của ch�
 |---|---|---|---|---|---|
 | Ví dụ | cāre | hēre | fīre | fōre | dūre |
 
-*Lưu ý: Khi âm mở ngay theo sau là âm R, do âm R có sự cuộn lưỡi nên làm cho âm mở tự động thay đổi; IPS ký hiệu âm trước khi thay đổi, còn IPA ghi lại âm sau khi thay đổi; kết quả phát âm của cả hai giống nhau.*
+*Lưu ý: Khi âm mở ngay theo sau là âm R, do âm R có sự cuộn lưỡi nên làm cho âm mở tự nhiên thay đổi; IPS ký hiệu âm trước khi thay đổi, còn IPA ghi lại âm sau khi thay đổi; kết quả phát âm của cả hai giống nhau.*
 
 ### Âm đóng + R
 
@@ -268,6 +266,18 @@ Chữ cái nào phía trên có gạch ngang thì đọc theo âm mở của ch�
 |---|---|---|---|---|
 | Ví dụ | be̊rg | bi̊rd | bůrn | ye̊ar |
 
+> **Bài tập**
+>
+> Bài tập đánh vần
+>
+> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
+>
+> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
+>
+> OR: porch pork horse horn fort morning corn fork
+>
+> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
+
 ### Khác
 
 | | [ àr ] |
@@ -279,28 +289,20 @@ Chữ cái nào phía trên có gạch ngang thì đọc theo âm mở của ch�
 > Bài tập đánh vần
 >
 > AR: àrm càr càrd càrt fàrm pàrk gàrde̊n
->
-> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
->
-> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
->
-> OR: porch pork horse horn fort morning corn fork
->
-> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
 
 ## Chữ cái phụ âm
 
-Trong đó bổ sung 5 âm đóng của chữ cái nguyên âm, cùng một số phụ âm thường gặp [g] [h] [sh] [w] [y].
-
-| Chữ cái | A | B | C | D | E | F | G |
+| Chữ cái | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Phát âm | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| Chữ cái | H | I | J | K | L | M | N |
-| Phát âm | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| Chữ cái | O | P | Q | | R | S | T |
-| Phát âm | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| Chữ cái | U | V | W | | X | Y | Z |
-| Phát âm | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| Phát âm | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| Chữ cái | H | <font color="red">I</font> | J | K | L | M | N |
+| Phát âm | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| Chữ cái | <font color="red">O</font> | P | Q | | R | S | T |
+| Phát âm | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| Chữ cái | <font color="red">U</font> | V | W | | X | Y | Z |
+| Phát âm | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+Trong đó bổ sung 5 âm đóng của chữ cái nguyên âm, cùng một số phụ âm thường gặp [g] [h] [sh] [w] [y].
 
 Lưu ý: [y] tức là /j/ trong IPA; phương pháp này phục hồi diện mạo vốn có của nó.
 
@@ -359,19 +361,19 @@ Lưu ý: [y] tức là /j/ trong IPA; phương pháp này phục hồi diện m�
 | g | [ g ] | go | g trước a, o, u. |
 | | [ j ] | orange | trước e, i, y¹, ge ở cuối từ |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | đại từ, mạo từ, giới từ, liên từ |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | ở đầu từ |
+| x | [ x ] = [ z ] | xenon | ở đầu từ |
 | ex | [ ėx ] = [ ėks ] | excess | x ở cuối từ hoặc theo sau là phụ âm, có một số ngoại lệ |
 | | [ ėẋ ] = [ ėgz ] | exact | x theo sau là nguyên âm, có một số ngoại lệ |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ Ngoại lệ: finger, get, forget, together, begin, give, gift, girl, tiger
+¹ Ngoại lệ: eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **Bài tập**
 >

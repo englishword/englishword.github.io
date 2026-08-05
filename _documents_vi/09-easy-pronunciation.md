@@ -1,9 +1,7 @@
 ---
-title: "Phát âm 26 chữ cái"
+title: "Phát âm đơn giản"
 weight: 9
 ---
-
-Trong 26 chữ cái tiếng Anh, có 5 nguyên âm — A, E, I, O và U —, còn lại 21 phụ âm. R, W và Y đôi khi kết hợp với nguyên âm để cùng hoạt động, nên được gọi là "bán nguyên âm".
 
 Phần này đi qua cách phát âm của từ theo thứ tự 26 chữ cái, cho thấy từ được "đánh vần thành âm" từ các chữ cái như thế nào.
 
@@ -67,7 +65,7 @@ Phần này đi qua cách phát âm của từ theo thứ tự 26 chữ cái, ch
 - Âm mở [ī]: vd. nice.
 - Âm đóng [i]: vd. sit.
 - Âm yếu dài [i̊r]: vd. bird.
-- Âm yếu ngắn [i̊]:
+- Âm yếu ngắn [i̊]: vd. evil
 - Âm nhẹ [i]: vd. lily.
 - Âm dài [ĩ]: vd. police.
 
@@ -99,6 +97,7 @@ Phần này đi qua cách phát âm của từ theo thứ tự 26 chữ cái, ch
 - Âm đóng: vd. hot.
 - Âm yếu dài: bị thay thế, phát /or/, vd. force.
 - Âm yếu ngắn: âm /ǝ/.
+- Tổ hợp nguyên âm: [oo].
 - Tổ hợp nguyên âm: [ou], [ow], vd. loud, cow.
 - Tổ hợp nguyên âm: [oi], [oy], vd. oil, boy.
 
@@ -136,11 +135,11 @@ Phần này đi qua cách phát âm của từ theo thứ tự 26 chữ cái, ch
 ## U u
 
 - Âm mở: phát /yu:/, vd. duty; sau L, R phát /u:/, vd. blue, ruler.
-- Tổ hợp: oo, ui, eu, ew.
+- Tổ hợp: ui, eu, ew.
 - Âm đóng: vd. but.
 - Âm yếu dài: vd. burn.
-- Âm yếu ngắn: âm [ǝ].
-- Âm nhẹ: hiếm, vd. busy.
+- Âm yếu ngắn: âm /ǝ/.
+- Âm nhẹ: hiếm, vd. busy, minute.
 
 ## V v
 
@@ -148,7 +147,7 @@ Phần này đi qua cách phát âm của từ theo thứ tự 26 chữ cái, ch
 
 ## W w
 
-- Làm phụ âm, như w trong bính âm tiếng Trung.
+- Làm phụ âm, như [w] trong bính âm tiếng Trung.
 - Làm nguyên âm, tương đương với chữ cái u.
 - Tổ hợp: aw, ew, ow.
 

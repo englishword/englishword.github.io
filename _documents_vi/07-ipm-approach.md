@@ -3,6 +3,18 @@ title: "IPM — Thống nhất Âm-Ý"
 weight: 7
 ---
 
+Không thể phủ nhận là có một mối liên hệ mạnh mẽ giữa âm thanh và ý nghĩa. Nếu chỉ lắng nghe, mối quan hệ giữa âm thanh và ý nghĩa rất dễ nắm bắt; nhưng để diễn đạt mối quan hệ ấy bằng văn tự lại cực kỳ khó khăn.
+
+**1. Âm thanh mang tính toàn ảnh; văn tự mang tính rời rạc.**
+
+Khi nghe một đoạn nhạc hay một câu nói, điều bạn tiếp nhận là tổng hòa của cao độ, âm sắc, nhịp điệu, trọng âm và thanh điệu — một cảm nhận toàn diện, ba chiều. Não bộ không cần tháo rời nó; riêng trực giác đã lập tức cho bạn biết nó buồn, sôi nổi hay tức giận. Nhưng ngay khi cố gắng "viết" ra cảm giác ấy, bạn buộc phải cắt sóng âm liên tục thành những ký hiệu tĩnh, tuyến tính. Khi chuyển từ một toàn ảnh sang ký hiệu tuyến tính, 90% thông tin tất yếu bị mất.
+
+**2. Trực giác tức thời; logic chậm chân.**
+
+Khi nghe từ slither, sự ma sát của lưỡi với răng lập tức gợi lên liên tưởng vật lý về "trơn nhớt, lướt đi". Nhưng để giải thích bằng văn tự "vì sao sl lại gợi sự lướt đi", bạn phải mổ xẻ động tác của cơ quan phát âm và dòng khí. Đến khi giải thích xong thì "cái đẹp" và "trực giác" tức thời ấy đã mất từ lâu.
+
+Dù vậy, phần này vẫn cố gắng mô tả mối quan hệ giữa âm thanh và ý nghĩa chỉ bằng ngôn từ, điều tất yếu khiến nó có vẻ huyền bí và thiếu thuyết phục — nhưng cuốn sách này không thể làm khác. Để thực sự hiểu mối quan hệ giữa âm thanh và ý nghĩa, cách trực tiếp và hiệu quả nhất đơn giản là lắng nghe và nói, lặp đi lặp lại.
+
 ## Âm tiết lõi
 
 Mỗi từ đều có một âm tiết lõi. Âm tiết lõi là âm tiết quan trọng nhất của toàn bộ từ; dù khi nghe, nói, đọc hay viết, đều phải nắm bắt chính xác. Trong điều kiện bình thường, âm tiết lõi được hình thành bởi chữ cái lõi và nguyên âm mang trọng âm đi theo sau nó.
@@ -17,7 +29,7 @@ Khi viết, hãy cố gắng không viết sai một vài chữ cái mà âm ti�
 
 Ví dụ, trong intimidate (in-𝓽im-id-āte), âm tiết lõi là 𝓽im; nắm bắt chữ cái "𝓽" bằng một ánh nhìn và bao quát các chữ cái khác bằng thị lực ngoại vi, sẽ cho phép nắm bắt ngay ý nghĩa bên trong của toàn bộ từ, thay vì phải đi từ chữ "i" đến chữ "e" — i→n→t→i→m→i→d→a→t→e — rồi mới lấy ý nghĩa của nó từ trong não. Năng lực này cần được bồi dưỡng thông qua thực hành đầy đủ.
 
-## Âm vị lõi
+## Chữ cái lõi
 
 Mỗi từ có một hoặc hai chữ cái lõi. Chữ cái lõi thường là chữ cái đầu tiên của từ hoặc chữ cái đầu tiên của gốc. Đối với từ không có tiền tố, đó là chữ cái đầu tiên của từ; đối với từ có tiền tố, đó là chữ cái đầu tiên của gốc. Do tiếng Anh có các tổ hợp nhiều phụ âm, nên những tổ hợp đó cũng là chữ cái lõi. Các trường hợp chữ cái lõi được cho trong Bảng 22:
 
@@ -37,11 +49,7 @@ Một số từ là từ ghép, được hình thành qua sự kết hợp của
 
 Khi ghi nhớ từ, chúng ta nên cố gắng thiết lập mối liên hệ giữa ý nghĩa của từ với chữ cái lõi, âm vị và hình vị của nó; một mặt điều này cho phép chúng ta cảm nhận chính xác hơn các nội hàm của 26 chữ cái, mặt khác rất có ích để nắm bắt ý nghĩa mơ hồ của từ. Năng lực này cần được bồi dưỡng dần trong quá trình ghi nhớ từ.
 
-Ví dụ, chữ cái lõi của good, great, God v.v. là G, do đó chúng ta biết rằng chữ G mang ý nghĩa của sự tốt đẹp; tương tự, từ home, house, hold, have, help, chúng ta biết rằng chữ H mang ý nghĩa của chống đỡ và bảo vệ; và từ light, relate, lace, line, long, chúng ta biết rằng chữ L mang ý nghĩa của đường线和 kết nối.
-
-Các phụ âm ngoài chữ cái lõi cũng có thể mang một phần ý nghĩa, nhưng chúng không phải là trọng tâm, và sách này không xử lý các phụ âm đó, như ll của full, fill, và d của good. Bạn đọc quan tâm có thể tự suy ngẫm.
-
-Trong chương 3 của sách này, chữ cái lõi của tất cả các từ được đánh dấu đậm; nội hàm của 26 chữ cái phần lớn cần được bạn đọc cảm nhận dần trong quá trình học.
+Ví dụ, chữ cái lõi của good, great, God v.v. là G, do đó chúng ta biết rằng chữ G mang ý nghĩa của sự tốt đẹp; tương tự, từ home, house, hold, have, help, chúng ta biết rằng chữ H mang ý nghĩa của chống đỡ và bảo vệ; và từ light, relate, lace, line, long, chúng ta biết rằng chữ L mang ý nghĩa của đường và kết nối. Tuy nhiên, đây là một sự hiểu biết huyền bí "chỉ có thể ý hội mà không thể diễn đạt bằng lời"; nội hàm của các chữ cái lõi cần được bạn đọc cảm nhận dần trong quá trình học.
 
 ## Ý nghĩa của âm vị lõi
 
@@ -60,61 +68,65 @@ Cách phát âm của nguyên âm cũng mang ý nghĩa phong phú; ý nghĩa c�
 
 ### Ý nghĩa của âm vị phụ âm
 
-- \[b]: vụ nổ, nổ tung, vỡ, bộc lộ, chặn,
-- \[c]: chạy, đi, lấy, chộp, hát, hô to
-- \[d]: nặng, trầm xuống,
-- \[f]: gió, thổi, bay, nhẹ,
-- \[g]: đất, to lớn, sự sống, cho
-- \[h]: cao, thổi, thở ra,
-- \[j]: vui vẻ, kết nối, ném,
-- \[k]: mở, nút, đá, đánh,
-- \[l]: đường, kéo, kết nối,
-- \[m]: mẹ, nữ, núi, di chuyển
-- \[n]: sinh, phủ định
-- \[p]: phẳng, gõ nhẹ, đánh, đẩy
-- \[r]: xay, chà, thô ráp, lên cao, đẩy ra,
-- \[s]: thở ra, hít vào, ngồi,
-- \[t]: đánh dấu, đánh, xoay
-- \[v]: nhìn, xoay, quay lại, thắng lợi
-- \[w]: nước, sóng, đi, di chuyển,
+Phần dưới đây chỉ là mô tả văn bản thô, chỉ có thể cảm nhận trực giác, không phải là tóm tắt quy tắc.
+
+- \[b]: vụ nổ, nổ tung, vỡ, bộc lộ, chặn, …
+- \[c]: chạy, đi, lấy, chộp, hát, hô to, …
+- \[d]: nặng, trầm xuống, …
+- \[f]: gió, thổi, bay, nhẹ, …
+- \[g]: đất, to lớn, sự sống, cho, …
+- \[h]: cao, thổi, thở ra, …
+- \[j]: vui vẻ, kết nối, ném, …
+- \[k]: mở, nút, đá, đánh, …
+- \[l]: đường, kéo, kết nối, …
+- \[m]: mẹ, nữ, núi, di chuyển, …
+- \[n]: sinh, phủ định, …
+- \[p]: phẳng, gõ nhẹ, đánh, đẩy, …
+- \[r]: xay, chà, thô ráp, lên cao, đẩy ra, …
+- \[s]: thở ra, hít vào, ngồi, …
+- \[t]: đánh dấu, đánh, xoay, …
+- \[v]: nhìn, xoay, quay lại, thắng lợi, …
+- \[w]: nước, sóng, đi, di chuyển, …
 
 ### Ý nghĩa của các tổ hợp âm vị phụ âm
 
-- \[bl]: ánh sáng, đóng, màu, sóng, hơi thở;
-- \[br]: cung, chia, vỡ, sinh ra;
-- \[cl]: thập giá, thiêng, tin, tách, hòa, hợp nhất;
-- \[cr]: kêu, trèo, leo lên;
-- \[dr]: kéo, dữ dội, thô, khô/ướt, rơi, lôi;
-- \[dw]: thấp, ngắn, eo hẹp;
-- \[fl]: phẳng, chảy, uốn, bay;
-- \[fr]: đứt gãy, lừa dối;
-- \[gl]: nhẵn, bóng, chiếu, ánh sáng;
-- \[gn]: biết, nút, khối u;
-- \[gr]: xay, khắc, viết, chộp, hạt, quan trọng, mọc, to ra;
-- \[kn]: biết, khớp, đánh;
-- \[ph]: nói, thổi, xuất hiện;
-- \[pl]: phẳng/yên, uốn, lông chim, gấp, nói;
-- \[pr]: trước, đầu tiên, ban đầu, nắm, vị kỷ, ép;
-- \[qu]: lấy, tìm;
-- \[sc]: bề mặt, trèo, cắt, nhìn, khắc, leo;
-- \[scr]: nhọn, chà, vật, chộp;
-- \[shr]: co lại, bao bọc, hối hận, tru lên, thu lại, ít hơn, tinh tế;
-- \[sk]: bề mặt, nhảy/trượt;
-- \[sl]: ẩm ướt, hút, chậm/mềm, mỏng, tinh, trượt;
-- \[sm]: bôi, ngửi, buộc/đánh, nhỏ, bé;
-- \[sn]: qua mũi, bí mật;
-- \[sp]: chấm nhỏ, rải, nói, xoay;
-- \[spl]: chẻ, vấy, vẩy;
-- \[spr]: phát ra, rắc, vẩy;
-- \[squ]: ngồi, ép lại, nén;
-- \[st]: đứng, ở lại, đứng yên, đoạn, gai;
-- \[str]: kéo, lôi, tiếng ồn;
-- \[sw]: uốn, đung đưa, dao động;
-- \[thr]: run rẩy, đánh, nhảy, xuyên;
-- \[tr]: xuyên, mang, đẩy, kéo;
-- \[tw]: xoay, hai, kép;
-- \[wh]: xoay, câu hỏi;
-- \[wr]: xoay, uốn, gió, lăn, nhăn, quấn;
+Phần dưới đây chỉ là mô tả văn bản thô, chỉ có thể cảm nhận trực giác, không phải là tóm tắt quy tắc.
+
+- \[bl]: ánh sáng, đóng, màu, sóng, hơi thở, …
+- \[br]: cung, chia, vỡ, sinh ra, …
+- \[cl]: thập giá, thiêng, tin, tách, hòa, hợp nhất, …
+- \[cr]: kêu, trèo, leo lên, …
+- \[dr]: kéo, dữ dội, thô, khô/ướt, rơi, lôi, …
+- \[dw]: thấp, ngắn, eo hẹp, …
+- \[fl]: phẳng, chảy, uốn, bay, …
+- \[fr]: đứt gãy, lừa dối, …
+- \[gl]: nhẵn, bóng, chiếu, ánh sáng, …
+- \[gn]: biết, nút, khối u, …
+- \[gr]: xay, khắc, viết, chộp, hạt, quan trọng, mọc, to ra, …
+- \[kn]: biết, khớp, đánh, …
+- \[ph]: nói, thổi, xuất hiện, …
+- \[pl]: phẳng/yên, uốn, lông chim, gấp, nói, …
+- \[pr]: trước, đầu tiên, ban đầu, nắm, vị kỷ, ép, …
+- \[qu]: lấy, tìm, …
+- \[sc]: bề mặt, trèo, cắt, nhìn, khắc, leo, …
+- \[scr]: nhọn, chà, vật, chộp, …
+- \[shr]: co lại, bao bọc, hối hận, tru lên, thu lại, ít hơn, tinh tế, …
+- \[sk]: bề mặt, nhảy/trượt, …
+- \[sl]: ẩm ướt, hút, chậm/mềm, mỏng, tinh, trượt, …
+- \[sm]: bôi, ngửi, buộc/đánh, nhỏ, bé, …
+- \[sn]: qua mũi, bí mật, …
+- \[sp]: chấm nhỏ, rải, nói, xoay, …
+- \[spl]: chẻ, vấy, vẩy, …
+- \[spr]: phát ra, rắc, vẩy, …
+- \[squ]: ngồi, ép lại, nén, …
+- \[st]: đứng, ở lại, đứng yên, đoạn, gai, …
+- \[str]: kéo, lôi, tiếng ồn, …
+- \[sw]: uốn, đung đưa, dao động, …
+- \[thr]: run rẩy, đánh, nhảy, xuyên, …
+- \[tr]: xuyên, mang, đẩy, kéo, …
+- \[tw]: xoay, hai, kép, …
+- \[wh]: xoay, câu hỏi, …
+- \[wr]: xoay, uốn, gió, lăn, nhăn, quấn, …
 
 ## Phụ âm tĩnh, nguyên âm động
 
@@ -126,34 +138,29 @@ Trong việc biến đổi thì hoặc từ loại của từ tiếng Anh, phầ
 
 1) Biến đổi hình thức gốc, quá khứ và phân từ của động từ
 
-begin    began    begun
-
-bite     bit      bitten
-
-see      saw      seen
+| Nguyên mẫu | Quá khứ | Phân từ quá khứ |
+|---|---|---|
+| be𝓰in | be𝓰an | be𝓰un |
+| 𝓫ite | 𝓫it | 𝓫itten |
+| 𝓼ee | 𝓼aw | 𝓼een |
 
 2) Thay đổi từ loại
 
-full      fill
-
-sit       seat
-
-choose    choice
-
-bind      band
+|  |  |
+|---|---|
+| 𝓯ull | 𝓯ill |
+| 𝓼it | 𝓼eat |
+| 𝓬𝓱oose | 𝓬𝓱oice |
+| 𝓫ind | 𝓫and |
 
 Do con người có cùng điều kiện thể chất và sống trong cùng một môi trường, điều này cơ bản quyết định rằng các ngôn ngữ khác nhau cuối cùng sẽ hội tụ về mặt âm thanh. Dưới đây là một số ví dụ rõ rệt nhất. Từ các ví dụ này, có thể quan sát thấy rằng âm thanh và ý nghĩa của các ngôn ngữ khác nhau có liên hệ với nhau. Điều này đặc biệt rõ ở các động từ, như minh họa dưới đây.
 
-back (背 bèi, "mang")　　bomb (爆 bào, "nổ")　　do (打 dǎ, "đánh")
-
-give (给 gěi, "cho")　　send (送 sòng, "gửi")　　bind (绑 bǎng, "trói")
-
-fail (废 fèi, "phí")　　pan (盘 pán, "đĩa")　　mop (抹 mǒ, "lau")
-
-cheat (欺 qī, "lừa")　　lug (拉 lā, "kéo")　　law (律 lǜ, "luật")
-
-pour (泼 pō, "vẩy")　　warp (弯 wān, "uốn")　　go (归 guī, "trở về")
-
-quick (快 kuài, "nhanh")　　whole (合 hé, "hợp nhất")　　harm (害 hài, "gây hại")
-
-lazy (懒 lǎn, "lười")
+|  |  |  |
+|---|---|---|
+| 背（𝓫ei） 𝓫ack | 爆（𝓫ao） 𝓫omb | 打（𝓭a） 𝓭o |
+| 给（𝓰ei） 𝓰ive | 送（𝓼ong） 𝓼end | 绑（𝓫ang） 𝓫ind |
+| 废（𝓯ei） 𝓯ail | 盘（𝓹an） 𝓹an | 抹（𝓶o） 𝓶op |
+| 欺（𝓺i） 𝓬𝓱eat | 拉（𝓵a） 𝓵ug | 律（𝓵v） 𝓵aw |
+| 泼（𝓹o） 𝓹our | 弯（𝔀an） 𝔀arp | 归（𝓰ui） 𝓰o |
+| 快（𝓴𝓾ai） 𝓺𝓾ick | 合（𝓱e） 𝕨𝓱ole | 害（𝓱ai） 𝓱arm |
+| 懒（𝓵an） 𝓵azy |  |  |

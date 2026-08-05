@@ -7,7 +7,7 @@ Một từ tiếng Anh là một chỉnh thể của âm, hình và ý; các ch�
 
 26 chữ cái là những yếu tố cơ bản hơn và vi mô hơn từ; do đó, mối quan hệ thống nhất giữa âm, hình và ý của 26 chữ cái khó được mô tả trong một ngôn ngữ ở cấp độ cao hơn. Để khai thác nội hàm của chữ cái, chúng ta phải nghiên cứu những thứ cơ bản hơn chính chữ cái.
 
-Âm của chữ cái gắn liền chặt chẽ với cấu trúc sinh lý của cơ quan phát âm của con người — miệng, họng, phổi v.v. Dù âm thanh của tự nhiên phong phú đa dạng, nhưng âm thanh mà miệng con người có thể tạo ra là hữu hạn. Hình của chữ cái gắn liền chặt chẽ với cấu trúc khớp của bàn tay con người; cấu trúc sinh lý của bàn tay con người làm cho một số ký hiệu thích hợp cho việc viết dễ dàng. Ý của chữ cái gắn liền chặt chẽ với ăn, mặc, ở, đi lại của con người.
+Âm của chữ cái gắn liền chặt chẽ với cấu trúc sinh lý của cơ quan phát âm của con người — miệng, họng, phổi v.v. Dù âm thanh của tự nhiên phong phú đa dạng, nhưng âm thanh mà miệng con người có thể tạo ra là hữu hạn. Hình của chữ cái gắn liền chặt chẽ với cấu trúc khớp của bàn tay con người; cấu trúc sinh lý của bàn tay con người làm cho một số ký hiệu thích hợp cho việc viết dễ dàng. Ý của chữ cái gắn liền chặt chẽ với ăn, mặc, ở, đi lại.
 
 Do chữ cái là một chỉnh thể thống nhất của âm, hình và ý, nên thường xuất hiện hiện tượng chuyển hóa lẫn nhau theo cặp giữa "âm", "hình" và "ý" (từ âm đến ý, từ ý đến âm, từ hình đến ý, từ ý đến hình, từ âm đến hình, từ hình đến âm).
 
@@ -19,15 +19,15 @@ Bảng dưới là bảng phát âm các chữ cái tiếng Anh; có thể quan 
 
 **Phát âm của 26 chữ cái\***
 
-| Chữ cái | A | B | C | D | E | F | G |
+| Chữ cái | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Phát âm | [ā] | [bē] | [cē] | [dē] | [ē] | [ef] | [gē] |
-| Chữ cái | H | I | J | K | L | M | N |
-| Phát âm | [āch] | [ī] | [jā] | [kā] | [el] | [em] | [en] |
-| Chữ cái | O | P | Q |  | R | S | T |
-| Phát âm | [ō] | [pē] | [kū] |  | [àr] | [es] | [tē] |
-| Chữ cái | U | V | W |  | X | Y | Z |
-| Phát âm | [ū] | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
+| Phát âm | <font color="red">[ā]</font> | [bē] | [cē] | [dē] | <font color="red">[ē]</font> | [ef] | [gē] |
+| Chữ cái | H | <font color="red">I</font> | J | K | L | M | N |
+| Phát âm | [āch] | <font color="red">[ī]</font> | [jā] | [kā] | [el] | [em] | [en] |
+| Chữ cái | <font color="red">O</font> | P | Q |  | <font color="red">R</font> | S | T |
+| Phát âm | <font color="red">[ō]</font> | [pē] | [kū] |  | <font color="red">[àr]</font> | [es] | [tē] |
+| Chữ cái | <font color="red">U</font> | V | W |  | X | Y | Z |
+| Phát âm | <font color="red">[ū]</font> | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
 
 ## Hình của chữ cái
 
@@ -61,7 +61,7 @@ Khi viết đường thẳng đứng "\|", vẽ từ trên xuống dưới; vòn
 - 𝓿: nhọn (ngược chiều) nửa vòng tròn dưới
 - 𝔀: nhọn (ngược chiều) nửa vòng tròn dưới + nhọn (ngược chiều) nửa vòng tròn dưới
 - 𝔁: (theo chiều) nửa vòng tròn bên phải + (ngược chiều) nửa vòng tròn bên trái
-- 𝔂: nhọn (ngược chiều) nửa vòng tròn dưới + đường thẳng đứng dài + (theo chiều) nửa vòng tròn dưới
+- 𝔂: nhọn (ngược chiều) nửa vòng tròn dưới + (theo chiều) nửa vòng tròn dưới
 - 𝔃: nét ngắn phía trên + nét ngắn phía dưới (nối ở giữa)
 
 Trong các chữ cái thường, năm chữ cái nguyên âm chỉ chiếm ô giữa; các chữ cái phụ âm chỉ chiếm ô giữa là những phụ âm có âm yếu nhất, như âm mũi 𝓶, 𝓷, âm xát 𝓼, 𝔃, và bán nguyên âm 𝔀. Các chữ cái phụ âm chiếm hai ô đều là những phụ âm có âm mạnh hơn. Có thể nhận thấy như vậy là có một sự liên hệ nhất định giữa hình của chữ cái và cách phát âm của nó.
@@ -76,7 +76,7 @@ Chữ cái chiếm hai ô dễ chú ý về thị giác hơn; chữ cái chiếm
 
 Khi viết tay nhanh, một chữ cái nguyên âm chiếm một ô và một chữ cái phụ âm chiếm một ô, có thể nhanh chóng bị nét liên tục bao trùm trong một nét viết duy nhất, trong khi các chữ cái phụ âm chiếm hai ô thì vươn lên trên hoặc xuống dưới như những đỉnh nhọn, và đây là những nét khóa thị giác mà người ta nắm bắt khi đọc nhanh.
 
-Để làm cho chữ cái đầu tiên nổi bật hơn, người ta đã sáng tạo ra chữ cái viết hoa; một chữ cái viết hoa rất giống với chữ cái thường tương ứng, thường được làm cao hơn, rộng hơn, to hơn hoặc nhọn hơn.
+Để làm cho chữ cái đầu tiên nổi bật hơn, người ta đã sáng tạo ra chữ cái viết hoa; một chữ cái viết hoa rất giống với chữ cái thường tương ứng, thường được làm cao hơn, rộng hơn, to hơn hoặc nhọn hơn, từ một chữ cái không nổi bật nâng cấp thành chữ cái nổi bật nhất trong từ.
 
 - 𝓐: nhọn, làm cao hơn và to hơn, từ một ô nâng lên hai ô
 - 𝓑: phóng to, thêm một nửa vòng tròn bên phải ở phần trên
@@ -107,7 +107,7 @@ Khi viết tay nhanh, một chữ cái nguyên âm chiếm một ô và một ch
 
 ## Ý của chữ cái
 
-Do hình và âm của chữ cái tiếng Anh gắn liền chặt chẽ, có thể thông qua việc kết hợp hình chữ cái và phát âm với âm vị mà cảm nhận được ý nghĩa bên trong.
+Do hình và âm của chữ cái tiếng Anh gắn liền chặt chẽ, có thể thông qua việc kết hợp hình chữ cái và phát âm với âm vị mà cảm nhận được ý nghĩa bên trong. Phần này thuộc loại nội dung "chỉ có thể ý hội", không nên coi là quy tắc chung.
 
 - 𝓐, 𝓪: là chữ cái đầu tiên trong 26 chữ cái, mang ý nghĩa của "đầu tiên". Qua hình của A, nó giống một mũi tên, rất nhọn, như tháp Eiffel, tượng trưng cho giới tính nam.
 
@@ -213,21 +213,9 @@ Hình 3. Sơ đồ quan hệ các chữ cái phụ âm
 
 Hình 4 cho thấy sơ đồ quan hệ các chữ cái nguyên âm. Nhiều chữ cái hoặc tổ hợp chữ cái trong sơ đồ có nhiều hơn một cách phát âm; các trường hợp phát âm cụ thể đã được liệt kê trong bảng nguyên âm 9, do đó mối quan hệ của chúng không được giải thích thêm ở đây.
 
-Bảng 21 cho thấy bảng tổ hợp chữ cái nguyên âm; từ bảng có thể quan sát thấy rằng hai chữ cái nguyên âm bất kỳ không thể tổ hợp thành một âm nguyên âm duy nhất.
-
 Hình 4. Sơ đồ quan hệ các chữ cái nguyên âm
 
 ![Sơ đồ quan hệ các chữ cái nguyên âm](/images/documents/08-vowel-relationship-en.svg)
-
-**Bảng tổ hợp nguyên âm**
-
-|  | -A | -E | -I/Y | -O | -U/W | -R |
-|---|---|---|---|---|---|---|
-| A- |  |  | ai/ay |  | au/aw | ar |
-| E- | ea | ee | ei/ey |  | eu/ew | er |
-| I- |  | ie |  |  |  | ir |
-| O- | oa |  | oi/oy | oo | ou/ow | or |
-| U- |  |  | ui |  |  | ur |
 
 ## Ý nghĩa của từ và dịch thuật từ
 
@@ -241,6 +229,6 @@ Tiếng Anh nhấn mạnh sự thống nhất của âm và ý, trong đó ý ng
 
 ## Nắm bắt ý nghĩa từ hình chữ
 
-Ý nghĩa của một từ có thể được giải cấu trúc từ nhiều cấp độ — chữ cái, âm vị, âm tiết và hình vị. Bằng cách tiếp cận từ nhiều phương diện, đào sâu từng tầng, tháo gỡ từng bước, cuối cùng tổng hợp bốn phương diện, sẽ thu được ý nghĩa đầy đủ và đúng đắn nhất của từ.
+Ý nghĩa của một từ có thể được giải cấu trúc từ nhiều cấp độ — chữ cái, âm vị, âm tiết, hình vị và ngữ cảnh. Bằng cách tiếp cận từ nhiều phương diện, đào sâu từng tầng, tháo gỡ từng bước, cuối cùng tổng hợp nhiều phương diện, sẽ thu được ý nghĩa đầy đủ và đúng đắn nhất của từ.
 
 "Nắm bắt ý nghĩa từ hình chữ" mà sách này đề cập không phải là chỉ ra chính xác ý nghĩa đã dịch của từ, mà là ý nghĩa đen mơ hồ của từ. Nó đặc biệt áp dụng được cho các từ phù hợp với quy tắc cấu tạo từ. Ý nghĩa mơ hồ này trực tiếp phơi bày nội hàm bản chất của từ; đó là một loại ý nghĩa khoa học và nhanh hơn, áp dụng được cho học sinh có tiếng mẹ đẻ là bất kỳ ngôn ngữ nào.

@@ -9,21 +9,21 @@ Phát âm chính xác là nền tảng của phương pháp này. Cần đọc �
 
 ## Trọng âm
 
-Trong IPA dùng ký hiệu `` ` `` để đánh dấu trọng âm, ký hiệu `ˌ` đánh dấu trọng âm phụ; trong phương pháp này, trọng âm có thể được phân biệt tự động theo loại nguyên âm, do đó hai ký hiệu này không còn cần thiết.
+Trong IPA, ký hiệu "ˈ" dùng để đánh dấu trọng âm, ký hiệu "ˌ" đánh dấu trọng âm phụ; trong phương pháp này, trọng âm có thể được phân biệt tự động theo loại nguyên âm, do đó hai ký hiệu này không còn cần thiết.
 
 Trọng âm chỉ nguyên âm, chứ không chỉ phụ âm; phụ âm chỉ khi ghép với nguyên âm mang trọng âm mới có thể tạo thành âm tiết trọng âm.
 
-Trọng âm rất quan trọng đối với đánh vần đúng của từ; trọng âm có thể quyết định cách đánh vần nguyên âm trong từ. Như tiền tố com-: nếu trọng âm nằm trên com-, thì đọc là "[com-]", như trong comment; nếu trọng âm nằm sau nó, thì đọc là "[co̊m-]", như trong command.
+Trọng âm rất quan trọng đối với đánh vần đúng của từ; trọng âm có thể quyết định cách đánh vần nguyên âm trong từ. Như tiền tố com-: nếu trọng âm nằm trên com-, thì đọc là "[com-]", như trong comme̊nt; nếu trọng âm nằm sau nó, thì đọc là "[co̊m-]", như trong co̊mmand.
 
-Trong tiếng Anh, vị trí trọng âm khác nhau cũng có thể quyết định từ loại của một số từ. Danh từ thường mang trọng âm ở trước (nguyên âm đầu tiên), động từ thường mang trọng âm ở sau (nguyên âm thứ hai). Như record: khi là danh từ, trọng âm ở trước, đọc là [\`re-cord]; khi là động từ, trọng âm ở sau, đọc là [rė-\`cord]. Các từ kiểu này còn có address, discount v.v.
+Trong tiếng Anh, vị trí trọng âm khác nhau cũng có thể quyết định từ loại của một số từ. Danh từ thường mang trọng âm ở trước (nguyên âm đầu tiên), động từ thường mang trọng âm ở sau (nguyên âm thứ hai). Như record: khi là danh từ, trọng âm ở trước, đọc là [ˈre-cord]; khi là động từ, trọng âm ở sau, đọc là [rė-ˈcord]. Các từ kiểu này còn có address, discount v.v.
 
 Trong đại đa số trường hợp, âm tiết trước và sau của từ xuất hiện dưới dạng **"nhịp điệu mạnh-yếu đan xen"**; vì vậy khi xác định được vị trí trọng âm, cách đọc mạnh hay yếu của phần lớn âm tiết cũng được xác định.
 
 Trong điều kiện bình thường, từ hai âm tiết và ba âm tiết mang trọng âm ở âm tiết đầu tiên.
 
-Nếu từ ở phía trước có tiền tố, tiền tố thường đọc yếu, trọng âm rơi vào nguyên âm đầu tiên của gốc từ. Ví dụ: ab\`out, be\`cause v.v.
+Nếu từ ở phía trước có tiền tố, tiền tố thường đọc yếu, trọng âm rơi vào nguyên âm đầu tiên của gốc từ. Ví dụ: abˈout, beˈcause v.v.
 
-Nếu từ kết thúc bằng -ation, nguyên âm a cũng thường mang trọng âm; ví dụ: trans\`lation, pronunci\`ation.
+Nếu từ kết thúc bằng -ation, nguyên âm a cũng thường mang trọng âm; ví dụ: transˈlation, pronunciˈation.
 
 Vị trí trọng âm của từ tiếng Anh có một số khuôn mẫu cố định; người học có thể tích lũy kinh nghiệm khi ghi nhớ từ.
 
@@ -154,9 +154,9 @@ Mở rộng trên cơ sở bảng nguyên âm cơ bản, sẽ hình thành bản
 | /uə/ | [ūr] |
 | | during |
 | /ə/ | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)] |
-| | åbout, co̊mputer, dangero̊us|
+| | åbout, ope̊n, evi̊l, pro̊pel, sůpply |
 | /ə:/ | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur] |
-|  | her, collar, first, word, occur, learn |
+|  | her, collar, first, word, occur, learn, colour |
 | /ɔi/ | [oi], [oẏ] |
 | | oil, enjoy |
 
@@ -169,9 +169,9 @@ Mở rộng trên cơ sở bảng nguyên âm cơ bản, sẽ hình thành bản
 - -rr- đọc là [r]. Như merry.
 - Nguyên âm yếu hoặc phụ âm + r, đọc là [r]. Như factory, drive.
 - Nguyên âm mạnh + r, đọc là [e̊], lúc này nguyên âm có thể xảy ra biến âm nhẹ. Như dare, here, fire, during.
-- Âm yếu + r, do kèm theo cuộn lưỡi, thường khiến nguyên âm xuất hiện hiện tượng kéo dài, đặc biệt là khi sau r là phụ âm. Như verge, birth, storm, burst.
+- Âm yếu + r + phụ âm, do kèm theo cuộn lưỡi, khiến âm yếu bị kéo dài. Như verge, birth, storm, burst.
 
-### Sự kết hợp giữa âm lưu và nguyên âm
+### Sự kết hợp giữa âm lưu và nguyên âm mạnh
 
 Tình trạng phát âm khi chữ cái âm lưu R kết hợp với nguyên âm đã được thể hiện rất tốt trong bảng nguyên âm; khi chữ cái âm lưu R kết hợp với nguyên âm, do chữ cái R khi phát âm kèm theo cuộn lưỡi, có thể làm nguyên âm ban đầu kéo dài hoặc biến âm nhẹ. Âm lưu L cũng có chức năng tương tự.
 
@@ -208,13 +208,15 @@ Nguyên nhân dịch chuyển chữ cái nguyên âm chủ yếu có hai mặt: 
 
 ## Nguyên âm câm
 
-Trong tổ hợp chữ cái nguyên âm, có một chữ cái nguyên âm đóng vai trò chủ đạo đối với phát âm, như chữ e trong mēan. Đối với các tổ hợp chữ cái nguyên âm kiểu này, phương pháp này cho rằng tổ hợp ēa cùng phát âm ē. Còn như build, phương pháp này cho rằng u là câm.
+Trong tổ hợp chữ cái nguyên âm, có một chữ cái nguyên âm đóng vai trò chủ đạo đối với phát âm, như chữ e trong mēan. Đối với các tổ hợp chữ cái nguyên âm kiểu này, phương pháp này cho rằng tổ hợp ēa cùng phát âm ē. Trong một từ như b𝕦ild, phương pháp này coi u là câm.
 
-Khi e nằm ở cuối từ thường không phát âm, để đơn giản, lược bỏ ký hiệu nét kép; khi e nằm ở giữa từ không phát âm, dùng ký hiệu nét kép. Trên thực tế, ngoài tiền tố re-, de- v.v. ra, hễ khi xuất hiện hình thức xxxxẹ- hoặc xxxxẹ, thì e đều không phát âm. Như forẹ-ig̣n, closẹ-ly, pigẹ-on. Còn như re-cord, do re- là tiền tố, nên e phát âm.
+Khi e nằm ở cuối từ thường không phát âm, để đơn giản, lược bỏ ký hiệu nét kép; khi e nằm ở giữa từ không phát âm, dùng ký hiệu nét kép. Ví dụ: nam𝕖ly, chang𝕖able, h𝕖art, for𝕖in, for𝕖iner, pig𝕖on, g𝕦itar, q𝕦eue, fr𝕚end.
 
-Trong tổ hợp gu, u thường không phát âm. Như guess, fatigue. Lúc này sau g ngay theo là u câm, chứ không phải e, do đó g phát [g], không phát [j].
+Trên thực tế, ngoài tiền tố re-, de- v.v. ra, hễ khi xuất hiện hình thức xxxx𝕖-xxxx hoặc xxxx𝕖, thì e đều không phát âm. Ví dụ: for𝕖-i𝕘n, clos𝕖-ly, pig𝕖-on. Còn như re-cord, do re- là tiền tố, nên e phát âm.
 
-Trong tổ hợp qu, nếu u không phát âm, thì q riêng lẻ phát [k]. Như queue, cheque.
+Trong tổ hợp gu, u thường không phát âm. Ví dụ: g𝕦ess, fatig𝕦e. Lúc này sau g ngay theo là u câm, chứ không phải e, do đó g phát [g], không phát [j].
+
+Trong tổ hợp qu, nếu u không phát âm, thì q riêng lẻ phát [k]. Ví dụ: q𝕦eue, cheq𝕦e.
 
 ## Phụ âm
 
@@ -231,9 +233,9 @@ Quy tắc chi tiết về phát âm của chữ cái phụ âm như bảng dư�
 | [t] | t | time |  | [d] | d | day |  |
 | [k] | k / c | kite / can | trước a, o, u, phụ âm / ở cuối từ | [g] | g | go | g trước a, o, u |
 | [f] | f / ph / gh | four / photo / tough |  | [v] | v | very |  |
-| [s] | s / c | say / cent | trước e, i, y | [z] | z / ṡ | zoo / rise | sau nguyên âm, hoặc sau phụ âm hữu thanh |
-| [th] | th | think |  | [ṫh] | ṫh | this | đại từ, mạo từ, giới từ, liên từ |
-| [sh] | sh / ċh | ship / machine |  | [s̃] | s̃ | vision | hậu tố đặc biệt |
+| [s] | s / c | say / cent | trước e, i, y | [z] | z / <font color="red">ṡ</font> | zoo / rise | sau nguyên âm, hoặc sau phụ âm hữu thanh |
+| [th] | th | think |  | [ṫh] | <font color="red">ṫh</font> | this | đại từ, mạo từ, giới từ, liên từ |
+| [sh] | sh / <font color="red">ċh</font> | ship / machine |  | [s̃] | <font color="red">s̃</font> | vision | hậu tố đặc biệt |
 | [ch] | ch / tch | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | trước e, i, y |
 | [h] | h | his |  | [l] | l | like |  |
 | [kw] | qu | quiet |  | [m] | m | map |  |
@@ -243,9 +245,9 @@ Quy tắc chi tiết về phát âm của chữ cái phụ âm như bảng dư�
 |  |  |  |  | [w] | w | wall |  |
 |  |  |  |  | [y] | y | yes | y ở đầu từ |
 |  |  |  |  | [ks] | x | excess | ở cuối từ hoặc trước phụ âm |
-|  |  |  |  | [gz] | ẋ | exact | trước nguyên âm |
+|  |  |  |  | [gz] | <font color="red">ẋ</font> | exact | trước nguyên âm |
 
-(*) forget, give, girl, finger, tiger, begin v.v. là ngoại lệ. Khi hai phụ âm giống nhau chồng lên nhau, chỉ phát một phụ âm. Như kick, scent, little v.v.
+(*) eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger v.v. là ngoại lệ. Khi hai phụ âm giống nhau chồng lên nhau, chỉ phát một phụ âm. Như kick, scent, little v.v.
 
 ## Tổ hợp phụ âm
 
@@ -261,11 +263,35 @@ Dưới đây là các tổ hợp phụ âm thường dùng; tổ hợp phụ â
 | Ba phụ âm | scr-, spr-, str-, shr-, thr-, spl- |
 | Khác | tw- |
 
-## Phát âm hậu tố đặc biệt
+## Phát âm hậu tố thường gặp
 
-Một số hậu tố thường dùng có phát âm khá đặc biệt, nhưng quy luật giống nhau, chỉ cần ghi nhớ, để đơn giản, lược bỏ ký hiệu ngữ âm. Như Bảng 5:
+Quy tắc phát âm của -ed và -s/-es là cố định; tuy sách này cho các ký hiệu khác nhau, nhưng để đơn giản, cũng có thể không ký hiệu.
 
-**Bảng 5 — Một số phát âm hậu tố đặc biệt**
+### Hậu tố -ed
+
+| Quy tắc phát âm của -ed | Từ ví dụ |
+|---|---|
+| Sau phụ âm hữu thanh và nguyên âm [𝕖d] ⟹ [d] | call𝕖d, borrow𝕖d, mov𝕖d |
+| Sau phụ âm vô thanh [𝕖ḋ] ⟹ [t] | ask𝕖ḋ, finish𝕖ḋ, help𝕖ḋ |
+| Sau âm [t] [ėd] ⟹ [id] | wantėd, startėd |
+| Sau âm [d] [ėd] ⟹ [id] | needėd, countėd |
+
+### Hậu tố -s/-es
+
+| | Quy tắc phát âm của -s(-es) | Từ ví dụ |
+|---|---|---|
+| Sau phụ âm | sau các âm [s], [z], [sh], [s̃], [ch], [j] thêm -es, đọc là [ėṡ] ⟹ [iz] | glassėṡ, buzzėṡ, washėṡ, teachėṡ |
+| | sau phụ âm vô thanh thêm s, đọc là [s] ⟹ [s] | books, typ𝕖s |
+| | sau phụ âm hữu thanh thêm s, đọc là [ṡ] ⟹ [z] | bagṡ, lin𝕖ṡ, besid𝕖ṡ |
+| Sau nguyên âm | sau chữ cái o thêm -es, đọc là [𝕖ṡ] ⟹ [z] | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
+| | trường hợp đổi -y thành i rồi thêm -es, đọc là [𝕖ṡ] ⟹ [z] | ladi𝕖ṡ, fli𝕖ṡ |
+| | trường hợp khác đọc là [ṡ] ⟹ [z] | newṡ, dayṡ, boyṡ, beeṡ |
+
+Một số hậu tố khác, như -ly, -ous, -ity v.v., phát âm phù hợp quy tắc; tuy sách này đều cho ký hiệu, nhưng do cách phát âm của chúng đều giống nhau, nên vì đơn giản, cũng có thể không ký hiệu.
+
+### Phát âm hậu tố đặc biệt
+
+Một số hậu tố thường dùng có phát âm khá đặc biệt, nhưng quy luật giống nhau, chỉ cần ghi nhớ; để đơn giản, sách này lược bỏ ký hiệu ngữ âm.
 
 | Hậu tố đặc biệt | Cách đọc | Từ ví dụ |
 |---|---|---|
@@ -285,58 +311,31 @@ Một số hậu tố thường dùng có phát âm khá đặc biệt, nhưng q
 | -cient | -she̊nt | ancient |
 | -ciency | -shency | efficiency, proficiency |
 
-Quy tắc phát âm của -ed và -s(-es) là cố định, nên sách này vì đơn giản, không ký hiệu ngữ âm cho chúng, người học nên nhớ hai bảng dưới. Như Bảng 6 và Bảng 7:
+## Chữ cái phụ âm câm
 
-**Bảng 6 — Quy tắc phát âm của hậu tố -ed**
-
-| Quy tắc phát âm của -ed | Từ ví dụ |
-|---|---|
-| Sau phụ âm hữu thanh và nguyên âm [d] | called, borrowed, moved |
-| Sau phụ âm vô thanh [t] | asked, finished, helped |
-| Sau âm [t] [id] | wanted, started |
-| Sau âm [d] [id] | needed, counted |
-
-**Bảng 7 — Quy tắc phát âm của hậu tố -s(-es)**
-
-|  | Quy tắc phát âm của -s(-es) | Từ ví dụ |
-|---|---|---|
-| Sau phụ âm | sau các âm [s], [z], [sh], [s̃], [ch], [j] thêm -es, đọc là [iz] | glasses, buzzes, washes, teaches |
-|  | sau phụ âm vô thanh thêm s, đọc là [s] | books, types |
-|  | sau phụ âm hữu thanh thêm s, đọc là [z] | bags, lines, besides |
-| Sau nguyên âm | sau chữ cái o thêm -es, đọc là [z] | tomatoes, potatoes, does |
-|  | trường hợp đổi -y thành i rồi thêm -es, đọc là [z] | ladies, flies |
-|  | trường hợp khác đọc là [z] | news, days, boys, bees |
-
-Một số hậu tố khác, như -ly, -ous, -ity v.v., phát âm phù hợp quy tắc; tuy sách này đều cho ký hiệu, nhưng do cách phát âm của chúng đều giống nhau, nên vì đơn giản, cũng có thể không ký hiệu.
-
-## Phụ âm câm
-
-Đối với chữ cái phụ âm không phát âm, dùng cách thêm một đường gạch ngang xuyên qua giữa chữ cái để biểu thị; nếu người học đã thuộc lòng quy tắc phụ âm câm, thì cũng có thể không ký hiệu. Như Bảng 8:
-
-**Bảng 8 — Các phụ âm câm thường gặp**
+Chữ cái câm có thể được biểu thị bằng nhiều cách — gạch xóa, gạch chéo, dấu chấm phía dưới v.v.; để nổi bật, sách này dùng chữ cái nét kép (blackboard-bold) để biểu thị. Nếu người học đã thuộc lòng các chữ cái câm này, thì cũng có thể không ký hiệu.
 
 | Tổ hợp | Từ ví dụ |
 |---|---|
-| cḥ | mecḥanic, Cḥrist |
-| g̣ḥ | lig̣ḥt, hig̣ḥ, eig̣ḥt, sig̣ḥ, nig̣ḥt |
-| gḥ | gḥost |
-| g̣n | g̣nat, sig̣n |
-| ḥ | ḥour, ḥonour |
-| ḳn | ḳnife, ḳnow, ḳnee, ḳnock |
-| mḅ | comḅ, lamḅ, thumḅ, dumḅ, climḅ |
-| p̣n | p̣neumonia |
-| p̣s | p̣sychology |
-| rḥ | rḥyme, rḥythm |
-| ẉr | ẉrong, ẉrist, ẉrite, ẉrap, ẉretch, ẉrench |
-| ẉh | ẉho, ẉhose |
-| wḥ | wḥat, wḥen, wḥere, wḥy |
-| -sṭen | lisṭen, cḥrisṭen |
-| -sṭle | whisṭle |
-| Khác | iṣland |
+| 𝕙 | 𝕙our, 𝕙onour |
+| c𝕙 | mec𝕙anic, C𝕙rist |
+| 𝕘𝕙 | li𝕘𝕙t, hi𝕘𝕙, ei𝕘𝕙t, si𝕘𝕙, ni𝕘𝕙t |
+| g𝕙 | g𝕙ost |
+| r𝕙 | r𝕙yme, r𝕙ythm |
+| 𝕘n | 𝕘nat, si𝕘n |
+| 𝕜n | 𝕜nife, 𝕜now, 𝕜nee, 𝕜nock |
+| m𝕓 | com𝕓, lam𝕓, thum𝕓, dum𝕓, clim𝕓 |
+| 𝕡n | 𝕡neumonia |
+| 𝕡s | 𝕡sychology |
+| 𝕨r | 𝕨rong, 𝕨rist, 𝕨rite, 𝕨rap, 𝕨retch, 𝕨rench |
+| 𝕨h | 𝕨ho, 𝕨hose |
+| w𝕙 | w𝕙at, w𝕙en, w𝕙ere, w𝕙y |
+| -is𝕥- | lis𝕥en, c𝕙ris𝕥en, c𝕙ris𝕥mas, whis𝕥le |
+| 𝕤 | i𝕤land |
 
 ## Sự khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh
 
-Sự khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh đúc kết trong một câu: tiếng Anh Mỹ quy tắc hơn tiếng Anh Anh, dù về mặt viết hay phát âm.
+Sự khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh đúc kết trong một câu: tiếng Anh Mỹ quy tắc hơn tiếng Anh Anh.
 
 ### Về mặt viết
 
@@ -390,8 +389,6 @@ Sự khác biệt giữa tiếng Anh Mỹ và tiếng Anh Anh đúc kết trong 
 | lĩte̊r | lite̊r |
 
 3) Tiếng Anh Mỹ thích phát âm cuộn lưỡi. Như
-
-car, door, river, party, board, dirty, morning v.v.
 
 | Anh Anh | Anh Mỹ |
 |---|---|
