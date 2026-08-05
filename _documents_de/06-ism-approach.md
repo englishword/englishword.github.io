@@ -5,19 +5,70 @@ weight: 6
 
 Morpheme lassen sich in Präfixe, Wurzeln, Suffixe und Verbindungsvokale unterteilen.
 
-Da Präfixe und Suffixe wenige sind, während Wurzeln zahlreich sind, kann man die Präfixe und Suffixe auswendig lernen und im Laufe der Zeit allmählich Wurzeln ansammeln. Präfixe und Wurzeln tragen jeweils eine bestimmte ursprüngliche Bedeutung, während Suffixe dazu dienen, die Wortart zu ändern. Durch die Trennung von Präfix, Wurzel und Suffix eines Wortes mit Bindestrichen wird die ursprüngliche Bedeutung des Wortes offensichtlich; ein Wort, das zuvor wie ein unteilbares Ganzes wirkte, zerfällt in organisch geeinte Bestandteile. So kann man die Bedeutung eines Wortes ungefähr aus seinem Präfix und seiner Wurzel ableiten und seine Wortart aus dem Suffix genau bestimmen. Suffixe werden oft durch die Kombination und Umwandlung von zwei oder mehr Suffixen gebildet; diese mehrfachen Suffixe werden ebenfalls segmentiert, um den Umwandlungsprozess der Wortart des Wortes offenzulegen.
+Da Präfixe und Suffixe wenige sind, während Wurzeln zahlreich sind, kann man die Präfixe und Suffixe auswendig lernen und im Laufe der Zeit allmählich Wurzeln ansammeln. Präfixe und Wurzeln tragen jeweils eine bestimmte ursprüngliche Bedeutung, während Suffixe dazu dienen, die Wortart zu ändern. Durch die Trennung von Präfix, Wurzel und Suffix eines Wortes mit Bindestrichen wird die ursprüngliche Bedeutung des Wortes offensichtlich; ein Wort, das zuvor wie ein unteilbares Ganzes wirkte, zerfällt in Bestandteile. So kann man die Bedeutung eines Wortes ungefähr aus seinem Präfix und seiner Wurzel ableiten und seine Wortart aus dem Suffix genau bestimmen. Suffixe werden oft durch die Kombination und Umwandlung von einem oder mehreren Suffixen gebildet; diese mehrfachen Suffixe werden ebenfalls segmentiert, um den Umwandlungsprozess der Wortart des Wortes offenzulegen.
 
 ## Wurzeln
 
 Da Wurzeln zahlreich sind, sind unten nur ein kleiner Teil der häufigsten aufgeführt. Für mehr siehe ein einschlägisches Wurzelwörterbuch.
 
-Zusammenfassung der häufigsten Wurzeln:
-
-ag, act = tun, machen; agr = Feld; am = Liebe; anim = Geist, Seele, Leben; ann, enn = Jahr; astro = Stern; audi = hören; bell = Krieg; bio = Leben, Lebewesen; brev = kurz; ced = gehen; cent = hundert; center, centr = Zentrum; cid, cis = töten, schneiden; claim, clam = rufen; clar = klar; clud, clos = schließen; cogn = kennen; cord = Herz; cosm = Universum, Welt; cred = glauben; cur, cours = laufen; cycl = Kreis, Ring; di = Tag; dict = sagen; duc, duct = führen; ed = essen; fact = machen; fer = tragen, bringen; flu = fließen; form = Form, Gestalt; fract, frag = brechen; fus = gießen; gen = Ursprung; geo = Erde; grad = Schritt, gehen; gram = schreiben, aufzeichnen; graph = schreiben, zeichnen; gress = schreiten; hap = Zufall, Glück; hospit = Gast; insul = Insel; hydra = Wasser; ject = werfen; junct = verbinden; lect, leg, lig = wählen, versammeln; lev = heben; liber = frei; lingu = Sprache; liter = Buchstabe; loc = Ort; log = Wort; loqu = sprechen; manu = Hand; medi = Mitte; memor = Gedächtnis; milit = Soldat; min = klein, weniger; mob, mot, mov = bewegen; mort = Tod; nov = neu; numer = Zahl; oper = arbeiten; opt = Licht; path = Gefühl, Krankheit; pel = schieben, antreiben; pend, pen = hängen; phon = Klang; plen = voll; pon, pos = setzen; popul = Volk; port = tragen; prim = erste; psych = Geist; pur = rein; rect = gerade; rid, ris = lachen; rupt = brechen; scend, scens, scent = klettern; sci = wissen; sens, sent = fühlen; sol = Sonne; spec = sehen; spir = atmen, Leben; tact, tang, tag = berühren; tail = schneiden; tain, ten, tin = halten, enthalten; tect = bedecken; tele = fern; tend, tens, tent = dehnen; text = weben; therm = Wärme; tor, tort = drehen; tract = ziehen, schleppen; un, uni = eins; ut = gebrauchen; vac, van = leer; vari = ändern; ven = kommen; vert, vers = drehen; vid, vis = sehen; vit, viv = Leben; volv = rollen; wis, wit = wissen
+| Wurzel | Bedeutung | Wurzel | Bedeutung |
+|---|---|---|---|---|
+| ag, act | tun, machen | agr | Feld |
+| am | Liebe | anim | Geist, Seele, Leben |
+| ann, enn | Jahr | astro | Stern |
+| audi | hören | bell | Krieg |
+| bio | Leben, Lebewesen | brev | kurz |
+| ced | gehen | cent | hundert |
+| center, centr | Zentrum | cid, cis | töten, schneiden |
+| claim, clam | rufen | clar | klar |
+| clud, clos | schließen | cogn | kennen |
+| cord | Herz | cosm | Universum, Welt |
+| cred | glauben | cur, cours | laufen |
+| cycl | Kreis, Ring | di | Tag |
+| dict | sagen | duc, duct | führen |
+| ed | essen | fact | machen |
+| fer | tragen, bringen | flu | fließen |
+| form | Form, Gestalt | fract, frag | brechen |
+| fus | gießen | gen | Ursprung |
+| geo | Erde | grad | Schritt, gehen |
+| gram | schreiben, aufzeichnen | graph | schreiben, zeichnen |
+| gress | schreiten | hap | Zufall, Glück |
+| hospit | Gast | insul | Insel |
+| hydra | Wasser | ject | werfen |
+| junct | verbinden | lect, leg, lig | wählen, versammeln |
+| lev | heben | liber | frei |
+| lingu | Sprache | liter | Buchstabe |
+| loc | Ort | log | Wort |
+| loqu | sprechen | manu | Hand |
+| medi | Mitte | memor | Gedächtnis |
+| milit | Soldat | min | klein, weniger |
+| mob, mot, mov | bewegen | mort | Tod |
+| nov | neu | numer | Zahl |
+| oper | arbeiten | opt | Sehen |
+| path | Gefühl, Krankheit | pel | schieben, antreiben |
+| pend, pen | hängen | phon | Klang |
+| plen | voll | pon, pos | setzen |
+| popul | Volk | port | tragen |
+| prim | erste | psych | Geist |
+| pur | rein | rect | gerade |
+| rid, ris | lachen | rupt | brechen |
+| scend, scens, scent | klettern | sci | wissen |
+| sens, sent | fühlen | sol | Sonne |
+| spec | sehen | spir | atmen, Leben |
+| tact, tang, tag | berühren | tail | schneiden |
+| tain, ten, tin | halten, enthalten | tect | bedecken |
+| tele | fern | tend, tens, tent | dehnen |
+| text | weben | therm | Wärme |
+| tor, tort | drehen | tract | ziehen, schleppen |
+| un, uni | eins | ut | gebrauchen |
+| vac, van | leer | vari | ändern |
+| ven | kommen | vert, vers | drehen |
+| vid, vis | sehen | vit, viv | Leben |
+| volv | rollen | wis, wit | wissen |
 
 ## Präfixe
 
-Unten sind die häufigen Präfixe und ihre Varianten klassifiziert, um das Einprägen zu erleichtern. Die hier aufgelisteten Präfixe sind die gebräuchlichen und stellen nicht alle Präfixe dar. Tabelle 15 zeigt die Präfixe und ihre Variantenregeln; Tabelle 16 zeigt die numerischen Präfixe.
+Unten sind die häufigen Präfixe und ihre Varianten klassifiziert, um das Einprägen zu erleichtern. Die hier aufgelisteten Präfixe sind die gebräuchlichen und stellen nicht alle Präfixe dar.
 
 Die häufigste Form der Präfixvariation ist die „Präfixassimilation", die bedeutet, dass der finale Konsonantenbuchstabe des Präfixes assimiliert wird, um mit dem ersten Buchstaben der Wurzel übereinzustimmen, um eine flüssige Aussprache zu erleichtern.
 
@@ -40,7 +91,6 @@ Die häufigste Form der Präfixvariation ist die „Präfixassimilation", die be
 | inter- | intra-, intro-<br>wird zu intel- vor l. | zwischen |
 | contra- | Varianten contre-, contro | gegen, nicht |
 | se- | wird zu sed- vor Vokalen. | abseits |
-| Endbuchstabenunterdrückung | multi-, myria-, octa-,<br>cata-, para-, endo-,<br>ento-, penta-, quinque-, tetra-<br>unterdrücken den Endbuchstaben des Präfixes vor Vokalen.<br>anti- verliert das i vor Vokalen oder h<br>apo-, epi- unterdrücken den Endbuchstaben vor Wurzeln, die mit h beginnen | |
 
 **Tabelle 16 — Numerische Präfixe**
 
@@ -52,9 +102,27 @@ Die häufigste Form der Präfixvariation ist die „Präfixassimilation", die be
 |---|---|---|---|---|---|---|---|
 | non-<br>enne- | deci-<br>deca- | semi-<br>demi-<br>hemi-<br>quasi- | multi-<br>poly- | cent-<br>hecto- | chili-<br>kilo- | milli-<br>mini-<br>micro- | macro- |
 
-Andere häufige Präfixe zusätzlich zu denen in den Tabellen 15 und 16 sind unten aufgeführt:
+Andere häufige Präfixe sind unten aufgeführt:
 
-ante- = vor, Vorderseite; auto- = eigen; be- = machen; bene- = gut; by- = seitlich, stellvertretend; circum- = herum; counter- = gegen; de- = intensiv; dia- = durch; endo- = innen; eu- = gut; fore- = vor; hetero- = verschieden; holo- = ganz; homo- = gleich; hyper- = über; hypo- = unter; infra- = unter; iso- = gleich; mal-/male- = schlecht; meta- = jenseits, Veränderung; mis- = Fehler; neo- = neu; non- = nicht; omni- = alles; out- = heraus; over- = über; paleo- = alt; pan- = alles; para- = neben; pen-/pene- = fast; peri- = herum; poly- = mehrere; post- = nach; pre- = vor; pro- = vorwärts; proto- = erste; pseudo- = falsch; re- = wieder; retro- = zurück; sino- = China; step- = Stief-; stereo- = fest; super- = über, oberhalb; supra- = oberhalb; trans- = durch; tele- = fern; ultra- = jenseits; under- = unter; vice- = stellvertretend; with- = zurück, gegen
+| Präfix | Bedeutung | Präfix | Bedeutung | Präfix | Bedeutung |
+|---|---|---|---|---|---|---|
+| ante- | vor, Vorderseite | auto- | eigen | be- | machen |
+| bene- | gut | by- | seitlich, stellvertretend | circum- | herum |
+| counter- | gegen | de- | intensiv | dia- | durch |
+| endo- | innen | eu- | gut | fore- | vor |
+| hetero- | verschieden | holo- | ganz | homo- | gleich |
+| hyper- | über | hypo- | unter | infra- | unter |
+| iso- | gleich | mal-/male- | schlecht | meta- | jenseits, Veränderung |
+| mis- | Fehler | neo- | neu | non- | nicht |
+| omni- | alles | out- | heraus | over- | über |
+| paleo- | alt | pan- | alles | para- | neben |
+| pen-/pene- | fast | peri- | herum | poly- | mehrere |
+| post- | nach | pre- | vor | pro- | vorwärts |
+| proto- | erste | pseudo- | falsch | re- | wieder |
+| retro- | zurück | sino- | China | step- | Stief- |
+| stereo- | fest | super- | über, oberhalb | supra- | oberhalb |
+| trans- | durch | tele- | fern | ultra- | jenseits |
+| under- | unter | vice- | stellvertretend | with- | zurück, gegen |
 
 ## Suffixe
 
@@ -92,11 +160,11 @@ Die meisten Schüler wissen, dass man -ly an ein Adjektiv anfügt, um ein Adverb
 
 Variantenregeln der Suffixe:
 
-1. y in i ändern: Ein auf y endendes Morphem ändert das y in i, wenn ein weiteres Suffix angefügt wird; wenn dieses Suffix mit i beginnt, behält man nur ein einziges i.
+1. **y in i ändern**: Ein auf y endendes Morphem ändert das y in i, wenn ein weiteres Suffix angefügt wird; wenn dieses Suffix mit i beginnt, behält man nur ein einziges i.
 
-2. e entfernen: Wenn man ein mit einem Vokal oder Halbvokal beginnendes Suffix nach einem stummen Buchstaben e anfügt, wird das e entfernt; wenn man ein mit einem Konsonanten beginnendes Suffix anfügt, wird das e beibehalten. Jedoch wird, wie in changeable, das e beibehalten, um zu verhindern, dass das g den Laut ändert. (Da ein stummes finales e als Marke zur Unterscheidung offener und geschlossener Laute dient, kann sein Entfernen manchmal eine Verwechslung offener und geschlossener Laute hervorrufen — Vorsicht.)
+2. **e entfernen**: Wenn man ein mit einem Vokal oder Halbvokal beginnendes Suffix nach einem stummen Buchstaben e anfügt, wird das e entfernt; wenn man ein mit einem Konsonanten beginnendes Suffix anfügt, wird das e beibehalten. Jedoch wird, wie in changeable, das e beibehalten, um zu verhindern, dass das g den Laut ändert. (Da ein stummes finales e als Marke zur Unterscheidung offener und geschlossener Laute dient, kann sein Entfernen manchmal eine Verwechslung offener und geschlossener Laute hervorrufen — Vorsicht.)
 
-3. Verdoppeln: Eine betonte geschlossene Silbe, die auf einen einzigen Vokalbuchstaben plus einen verdopplbaren Konsonantenbuchstaben endet, verdoppelt diesen finalen verdopplbaren Konsonanten, wenn man bestimmte mit einem Vokal, -y oder -le beginnende Suffixe anfügt (die häufigsten Verdopplungssuffixe sind in Tabelle 18 gezeigt). Zum Beispiel: app-le (betonte geschlossene Silbe, verdoppelt); tab-le (betonte offene Silbe, nicht verdoppelt); happ-y (betonte geschlossene Silbe, verdoppelt).
+3. **Verdoppeln**: Eine betonte geschlossene Silbe, die auf einen einzigen Vokalbuchstaben plus einen verdopplbaren Konsonantenbuchstaben endet, verdoppelt diesen finalen verdopplbaren Konsonanten, wenn man bestimmte mit einem Vokal, -y oder -le beginnende Suffixe anfügt. Zum Beispiel: app-le (betonte geschlossene Silbe, verdoppelt); tab-le (betonte offene Silbe, nicht verdoppelt); happ-y (betonte geschlossene Silbe, verdoppelt).
 
 Umgekehrt kann die Tatsache, ob die Verdopplung eintritt oder nicht, dazu verwendet werden, zu bestimmen, ob sich der vorhergehende Vokalbuchstabe in einer offenen oder geschlossenen Silbe befindet.
 
@@ -107,53 +175,27 @@ Der Konsonantenbuchstabe C kann sich je nach dem folgenden Vokalbuchstaben zu cc
 
 Beachten Sie die Unterscheidung: Die Präfixassimilation ist keine Verdopplung, wie in affect; und einige Wörter enthalten von Natur aus gedoppelte Buchstaben, die nicht aus einer Verdopplung resultieren, wie in ill, bill, billion, passage.
 
-**Tabelle 18 — Häufige Suffixe, die den Konsonanten verdoppeln**
-
-|  | Suffixe, die den Konsonanten verdoppeln |
-|---|---|
-| A | -å, -år, -årẏ, -ȧage, |
-| E | -ēe, -e̊r, -e̊rẏ, -ed, -est, -ėy, (nach n/r)-e̊l, -e̊n, |
-| I,Y | -ẏ, -i- (deformiert aus -y), -ing |
-| O | -ō, (nach l/r)-ōw, -o̊r/-o̊ur, -o̊n, -o̊m, -o̊rẏ |
-| L | -le |
-
 Unten sind einige Beispiele für Suffixvariationen gegeben, obwohl sie keine erschöpfende Liste darstellen; der Abschnitt der Wortbeispiele wird die verschiedenen Variationen der Suffixe und ihre Wortartänderungen klar zeigen.
 
--u-le→-ule→-ul-;
+- -u-le ⟹ -ule ⟹ -ul-
+- -i-le ⟹ -ile ⟹ -il-
+- -i-fy ⟹ -ify ⟹ -ifi- ⟹ -if-
+- -le-ing ⟹ -ling
+- -le-er ⟹ -ler
+- -le-ed ⟹ -led
+- -i-ous ⟹ -ious
+- -i-on ⟹ -ion
+- -acy-ous ⟹ -acious
+- -acy-ty ⟹ acity
+- -ist-er ⟹ -istr (seltene Fälle)
+- -ate-ion ⟹ -ation
+- -ate-ic ⟹ -at-ic
+- -ate-ive ⟹ -at-ive
+- -ate-ory ⟹ -at-ory
+- -ary-um ⟹ -ari-um
+- -ory-um ⟹ -ori-um
+- -acy-ous ⟹ -aci-ous
 
--i-le→-ile→-il-;
-
--i-fy→-ify→-ifi-→-if-;
-
--le-ing→-ling;
-
--le-er→-ler;
-
--le-ed→-led;
-
--i-ous→-ious;
-
--i-on→-ion;
-
--acy-ous→-acious;
-
--acy-ty→acity;
-
--ist-er→-istr (seltene Fälle);
-
--ate-ion→-ation;
-
--ate-ic→-at-ic;
-
--ate-ive→-at-ive;
-
--ate-ory→-at-ory;
-
--ary-um→-ari-um;
-
--ory-um→-ori-um;
-
--acy-ous→-aci-ous.
 
 ## Häufige Kombinationen von Präfixen und Suffixen
 

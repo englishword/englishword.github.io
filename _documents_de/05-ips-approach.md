@@ -3,27 +3,27 @@ title: "IPS — Integrierte Aussprache und Schreibweise"
 weight: 5
 ---
 
-Jedes englische Wort enthält die folgenden Attribute: Aussprache, Schreibweise und Bedeutung. Diese Methode vereint wirksam die drei Attribute eines Wortes und verlangt vom Schüler, das Wort auf der Grundlage einer präzisen Aussprache einzuprägen. Indem man die Wörter mit dieser Methode einprägt, beherrscht man unwillkürlich die phonetischen Regeln und die Wortbildungsregeln.
+Jedes englische Wort enthält die folgenden Attribute: Aussprache, Schreibweise und Bedeutung. Diese Methode vereint die drei Attribute eines Wortes und verlangt vom Schüler, das Wort auf der Grundlage einer präzisen Aussprache einzuprägen. Indem man die Wörter mit dieser Methode einprägt, beherrscht man unbewusst die phonetischen Regeln und die Wortbildungsregeln.
 
-Eine präzise Aussprache ist die Grundlage dieser Methode. Man muss jeden Vokal und jeden Konsonanten richtig aussprechen. Die Aussprache der Konsonanten ist leicht zu beherrschen; die Hauptaufgabe ist die Aussprache der Vokale, und man darf niemals verschiedene Vokale verwechseln.
+Eine präzise Aussprache ist die Grundlage dieser Methode. Man muss jeden Vokal und jeden Konsonanten richtig aussprechen. Die Aussprache der Konsonanten ist leicht zu beherrschen; die Hauptaufgabe ist die Aussprache der Vokale, und man darf nicht verschiedene Vokale verwechseln.
 
 ## Der Akzent
 
-Im IPA dient das Symbol „`" zur Markierung des Akzents und das Symbol „ˌ" markiert den Nebenton; in dieser Methode kann der Akzent automatisch durch die Art des Vokals unterschieden werden, sodass diese beiden Symbole nicht mehr notwendig sind.
+Im IPA dient das Symbol „ˈ" zur Markierung des Akzents und das Symbol „ˌ" markiert den Nebenton; in dieser Methode kann der Akzent automatisch durch die Art des Vokals unterschieden werden, sodass diese beiden Symbole nicht mehr notwendig sind.
 
 Der Akzent bezieht sich auf Vokale, nicht auf Konsonanten; ein Konsonant kann eine betonte Silbe nur bilden, indem er sich mit einem betonten Vokal verbindet.
 
-Der Akzent ist für die richtige Aussprache eines Wortes sehr wichtig; der Akzent bestimmt, wie die Vokale eines Wortes gelesen werden. Zum Beispiel das Präfix com-: Wenn der Akzent auf com- liegt, wird es „[com-]" gelesen, wie in comment; wenn der Akzent danach liegt, wird es „[co̊m-]" gelesen, wie in command.
+Der Akzent ist für die richtige Aussprache eines Wortes sehr wichtig; der Akzent bestimmt, wie die Vokale eines Wortes gelesen werden. Zum Beispiel das Präfix com-: Wenn der Akzent auf com- liegt, wird es „[com-]" gelesen, wie in comme̊nt; wenn der Akzent danach liegt, wird es „[co̊m-]" gelesen, wie in co̊mmand.
 
-Im Englischen kann die Position des Akzents auch die Wortart einiger Wörter bestimmen. Substantive tragen den Akzent generell vorne (auf dem ersten Vokal), während Verben ihn generell hinten tragen (auf dem zweiten Vokal). Zum Beispiel record: Wenn es ein Substantiv ist, liegt der Akzent vorne, und es wird [\`re-cord] gelesen; wenn es ein Verb ist, liegt der Akzent hinten, und es wird [rė-\`cord] gelesen. Andere Wörter dieser Art sind address, discount usw.
+Im Englischen kann die Position des Akzents auch die Wortart einiger Wörter bestimmen. Substantive tragen den Akzent generell vorne (auf dem ersten Vokal), während Verben ihn generell hinten tragen (auf dem zweiten Vokal). Zum Beispiel record: Wenn es ein Substantiv ist, liegt der Akzent vorne, und es wird [ˈre-cord] gelesen; wenn es ein Verb ist, liegt der Akzent hinten, und es wird [rė-ˈcord] gelesen. Andere Wörter dieser Art sind address, discount usw.
 
 In der großen Mehrheit der Fälle erscheinen die vorderen und hinteren Silben eines Wortes in einer **„betont-unbetonten Alternanz"**; sobald die Position des Akzents bestimmt ist, ist auch die betonte oder unbetonte Lesart der meisten Silben bestimmt.
 
 Unter normalen Umständen fällt der Akzent von zwei- und dreisilbigen Wörtern auf die erste Silbe.
 
-Wenn ein Wort vorne ein Präfix trägt, ist das Präfix generell unbetont, und der Akzent fällt auf den ersten Vokal der Wurzel. Zum Beispiel: ab\`out, be\`cause usw.
+Wenn ein Wort vorne ein Präfix trägt, ist das Präfix generell unbetont, und der Akzent fällt auf den ersten Vokal der Wurzel. Zum Beispiel: abˈout, beˈcause usw.
 
-Wenn ein Wort auf -ation endet, ist der Vokal a generell auch betont; zum Beispiel: trans\`ation, pronunci\`ation.
+Wenn ein Wort auf -ation endet, ist der Vokal a generell auch betont; zum Beispiel: transˈlation, pronunciˈation.
 
 Die Position des Akzents englischer Wörter weist mehrere feste Muster auf; man kann Erfahrung ansammeln, indem man Wörter einprägt.
 
@@ -154,9 +154,9 @@ Durch die Erweiterung der Grundvokaltabelle erhält man die folgende Tabelle.
 | /uə/ | [ūr] |
 | | during |
 | /ə/ | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)] |
-| | åbout, co̊mputer, dangero̊us|
+| | åbout, ope̊n, evi̊l, pro̊pel, sůpply |
 | /ə:/ | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur] |
-|  | her, collar, first, word, occur, learn |
+|  | her, collar, first, word, occur, learn, colour |
 | /ɔi/ | [oi], [oẏ] |
 | | oil, enjoy |
 
@@ -168,10 +168,10 @@ Liquiden bezeichnen die Laute, die durch die Buchstaben R und L erzeugt werden. 
 
 - -rr- wird [r] gesprochen. Wie in merry.
 - Schwacher Vokal oder Konsonant + r wird [r] gesprochen. Wie in factory, drive.
-- Starker Vokal + r wird [e̊] gesprochen; der Vokal kann eine leichte Lautveränderung erfahren. Wie in dare, here, fire, during.
-- Schwacher Laut + r bewirkt aufgrund der begleitenden retroflexen Krümmung oft eine Verlängerung des Vokals, besonders wenn auf r ein Konsonant folgt. Wie in verge, birth, storm, burst.
+- Starker Vokal + r wird [e̊] gesprochen; aufgrund der begleitenden retroflexen Krümmung erfährt der Vokal eine leichte Lautveränderung. Wie in dare, here, fire, during.
+- Schwacher Laut + r + Konsonant: aufgrund der begleitenden retroflexen Krümmung wird der schwache Laut verlängert. Wie in verge, birth, storm, burst.
 
-### Kombination von Liquiden und Vokalen
+### Kombination von Liquiden und starken Vokalen
 
 Die Aussprache des Liquidenbuchstabens R in Kombination mit Vokalen ist in der Vokaltabelle gut widergespiegelt. Wenn sich der Liquidenbuchstabe R mit einem Vokal verbindet, kann er den ursprünglichen Vokal verlängern oder eine leichte Lautveränderung bewirken, da der Buchstabe R mit einer retroflexen Krümmung gesprochen wird. Die Liquide L hat die gleiche Funktion.
 
@@ -208,13 +208,15 @@ Es gibt zwei Hauptgründe für die Verschiebung der Vokalbuchstaben: 1. die Auss
 
 ## Stumme Vokale
 
-In einer Kombination von Vokalbuchstaben gibt es einen Vokalbuchstaben, der in der Aussprache die Hauptrolle spielt, wie der Buchstabe e in mēan. Für solche Vokalbuchstabenkombinationen betrachtet diese Methode, dass die Kombination ēa gemeinsam den Laut ē erzeugt. In einem Wort wie build betrachtet diese Methode, dass das u stumm ist.
+In einer Kombination von Vokalbuchstaben gibt es einen Vokalbuchstaben, der in der Aussprache die Hauptrolle spielt, wie der Buchstabe e in mēan. Für solche Vokalbuchstabenkombinationen betrachtet diese Methode, dass die Kombination ēa gemeinsam den Laut ē erzeugt. In einem Wort wie b𝕦ild betrachtet diese Methode, dass das u stumm ist.
 
-Wenn das e am Ende eines Wortes steht, ist es generell stumm; der Einfachheit halber wird die Doppelstrichmarkierung weggelassen. Wenn das e in der Mitte eines Wortes stumm ist, wird es mit doppelstrichigen Buchstaben markiert. Tatsächlich ist, abgesehen von Präfixen wie re-, de- usw., immer dann, wenn die Form xxxxẹ- oder xxxxẹ auftritt, das e stumm. Zum Beispiel: forẹ-ig̣n, closẹ-ly, pigẹ-on. In einem Wort wie re-cord wird das e gesprochen, da re- ein Präfix ist.
+Wenn das e am Ende eines Wortes steht, ist es generell stumm; der Einfachheit halber wird die Doppelstrichmarkierung weggelassen; wenn das e in der Mitte eines Wortes stumm ist, wird es mit doppelstrichigen Buchstaben markiert. Zum Beispiel: nam𝕖ly, chang𝕖able, h𝕖art, for𝕖in, for𝕖iner, pig𝕖on, g𝕦itar, q𝕦eue, fr𝕚end.
 
-In der Kombination gu ist das u generell stumm. Zum Beispiel: guess, fatigue. Hier folgt auf das g ein stummes u statt eines e, sodass das g als [g] gesprochen wird, nicht als [j].
+Tatsächlich ist, abgesehen von Präfixen wie re-, de- usw., immer dann, wenn die Form xxxx𝕖-xxxx oder xxxx𝕖 auftritt, das e stumm. Zum Beispiel: for𝕖-i𝕘n, clos𝕖-ly, pig𝕖-on. In einem Wort wie re-cord wird das e gesprochen, da re- ein Präfix ist.
 
-In der Kombination qu: Wenn das u stumm ist, wird das q allein als [k] gesprochen. Zum Beispiel: queue, cheque.
+In der Kombination gu ist das u generell stumm. Zum Beispiel: g𝕦ess, fatig𝕦e. Hier folgt auf das g ein stummes u statt eines e, sodass das g als [g] gesprochen wird, nicht als [j].
+
+In der Kombination qu: Wenn das u stumm ist, wird das q allein als [k] gesprochen. Zum Beispiel: q𝕦eue, cheq𝕦e.
 
 ## Konsonanten
 
@@ -231,9 +233,9 @@ Die detaillierten Regeln für die Aussprache der Konsonantenbuchstaben sind in d
 | [t] | t | time |  | [d] | d | day |  |
 | [k] | k / c | kite / can | vor a, o, u, Konsonanten / am Ende | [g] | g | go | g vor a, o, u |
 | [f] | f / ph / gh | four / photo / tough |  | [v] | v | very |  |
-| [s] | s / c | say / cent | vor e, i, y | [z] | z / ṡ | zoo / rise | nach Vokalen, oder nach stimmhaften Konsonanten |
-| [th] | th | think |  | [ṫh] | ṫh | this | Pronomina, Artikel, Präpositionen, Konjunktionen |
-| [sh] | sh / ċh | ship / machine |  | [s̃] | s̃ | vision | besondere Suffixe |
+| [s] | s / c | say / cent | vor e, i, y | [z] | z / <font color="red">ṡ</font> | zoo / rise | nach Vokalen, oder nach stimmhaften Konsonanten |
+| [th] | th | think |  | [ṫh] | <font color="red">ṫh</font> | this | Pronomina, Artikel, Präpositionen, Konjunktionen |
+| [sh] | sh / <font color="red">ċh</font> | ship / machine |  | [s̃] | <font color="red">s̃</font> | vision | besondere Suffixe |
 | [ch] | ch / tch | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | vor e, i, y |
 | [h] | h | his |  | [l] | l | like |  |
 | [kw] | qu | quiet |  | [m] | m | map |  |
@@ -243,9 +245,9 @@ Die detaillierten Regeln für die Aussprache der Konsonantenbuchstaben sind in d
 |  |  |  |  | [w] | w | wall |  |
 |  |  |  |  | [y] | y | yes | y am Wortanfang |
 |  |  |  |  | [ks] | x | excess | am Ende oder vor einem Konsonanten |
-|  |  |  |  | [gz] | ẋ | exact | vor einem Vokal |
+|  |  |  |  | [gz] | <font color="red">ẋ</font> | exact | vor einem Vokal |
 
-(*) forget, give, girl, finger, tiger, begin usw. sind Ausnahmen. Wenn man zwei identische Konsonanten verdoppelt, wird nur ein Konsonant gesprochen. Zum Beispiel: kick, scent, little usw.
+(*) eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger usw. sind Ausnahmen. Wenn man zwei identische Konsonanten verdoppelt, wird nur ein Konsonant gesprochen. Zum Beispiel: kick, scent, little usw.
 
 ## Konsonantenkombinationen
 
@@ -261,11 +263,35 @@ Hier sind häufige Konsonantenkombinationen. Die Konsonantenkombinationen tragen
 | Drei Konsonanten | scr-, spr-, str-, shr-, thr-, spl- |
 | Andere | tw- |
 
-## Besondere Aussprachen von Suffixen
+## Häufige Aussprachen von Suffixen
 
-Einige gebräuchliche Suffixe haben eine eher besondere Aussprache, aber das Muster ist dasselbe; man muss sie einfach auswendig lernen. Der Einfachheit halber wird die phonetische Notation weggelassen. Wie Tabelle 5 zeigt:
+Die Ausspracheregeln von -ed und -s/-es sind fest; obwohl dieses Buch unterschiedliche Annotationen gibt, können sie der Einfachheit halber ohne Markierung bleiben.
 
-**Tabelle 5 — Einige besondere Aussprachen von Suffixen**
+### Das Suffix -ed
+
+| Ausspracheregel von -ed | Beispiel |
+|---|---|
+| Nach stimmhaften Konsonanten und Vokalen [𝕖d] ⟹ [d] | call𝕖d, borrow𝕖d, mov𝕖d |
+| Nach stimmlosen Konsonanten [𝕖ḋ] ⟹ [t] | ask𝕖ḋ, finish𝕖ḋ, help𝕖ḋ |
+| Nach dem Laut [t] [ėd] ⟹ [id] | wantėd, startėd |
+| Nach dem Laut [d] [ėd] ⟹ [id] | needėd, countėd |
+
+### Das Suffix -s/-es
+
+| | Ausspracheregel von -s(-es) | Beispiel |
+|---|---|---|
+| Nach Konsonanten | nach den Lauten [s], [z], [sh], [s̃], [ch], [j] -es anfügen, als [ėṡ] ⟹ [iz] gesprochen | glassėṡ, buzzėṡ, washėṡ, teachėṡ |
+| | nach stimmlosen Konsonanten s anfügen, als [s] ⟹ [s] gesprochen | books, typ𝕖s |
+| | nach stimmhaften Konsonanten s anfügen, als [ṡ] ⟹ [z] gesprochen | bagṡ, lin𝕖ṡ, besid𝕖ṡ |
+| Nach Vokalen | nach dem Buchstaben o -es anfügen, als [𝕖ṡ] ⟹ [z] gesprochen | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
+| | -y in i ändern und -es anfügen, als [𝕖ṡ] ⟹ [z] gesprochen | ladi𝕖ṡ, fli𝕖ṡ |
+| | sonst als [ṡ] ⟹ [z] gesprochen | newṡ, dayṡ, boyṡ, beeṡ |
+
+Andere Suffixe, wie -ly, -ous, -ity usw., werden nach den Regeln ausgesprochen; obwohl dieses Buch sie alle annotiert, können sie angesichts ihrer einheitlichen Aussprache der Einfachheit halber ohne Markierung bleiben.
+
+### Besondere Aussprachen von Suffixen
+
+Einige gebräuchliche Suffixe haben eine eher besondere Aussprache, aber das Muster ist dasselbe; man muss sie einfach auswendig lernen. Der Einfachheit halber lässt dieses Buch die phonetische Notation für sie weg.
 
 | Besonderes Suffix | Aussprache | Beispiel |
 |---|---|---|
@@ -285,58 +311,31 @@ Einige gebräuchliche Suffixe haben eine eher besondere Aussprache, aber das Mus
 | -cient | -she̊nt | ancient |
 | -ciency | -shency | efficiency, proficiency |
 
-Die Ausspracheregeln von -ed und -s(-es) sind fest, daher annotiert dieses Buch sie der Einfachheit halber nicht; es empfiehlt sich, die folgenden zwei Tabellen auswendig zu lernen. Wie die Tabellen 6 und 7 zeigen:
+## Stumme Konsonantenbuchstaben
 
-**Tabelle 6 — Ausspracheregeln des Suffixes -ed**
-
-| Ausspracheregel von -ed | Beispiel |
-|---|---|
-| Nach stimmhaften Konsonanten und Vokalen [d] | called, borrowed, moved |
-| Nach stimmlosen Konsonanten [t] | asked, finished, helped |
-| Nach dem Laut [t] [id] | wanted, started |
-| Nach dem Laut [d] [id] | needed, counted |
-
-**Tabelle 7 — Ausspracheregeln des Suffixes -s(-es)**
-
-|  | Ausspracheregel von -s(-es) | Beispiel |
-|---|---|---|
-| Nach Konsonanten | nach den Lauten [s], [z], [sh], [s̃], [ch], [j] -es anfügen, als [iz] gesprochen | glasses, buzzes, washes, teaches |
-|  | nach stimmlosen Konsonanten s anfügen, als [s] gesprochen | books, types |
-|  | nach stimmhaften Konsonanten s anfügen, als [z] gesprochen | bags, lines, besides |
-| Nach Vokalen | nach dem Buchstaben o -es anfügen, als [z] gesprochen | tomatoes, potatoes, does |
-|  | -y in i ändern und -es anfügen, als [z] gesprochen | ladies, flies |
-|  | sonst als [z] gesprochen | news, days, boys, bees |
-
-Andere Suffixe, wie -ly, -ous, -ity usw., werden nach den Regeln ausgesprochen; obwohl dieses Buch sie alle annotiert, können sie angesichts ihrer einheitlichen Aussprache der Einfachheit halber ohne Markierung bleiben.
-
-## Stumme Konsonanten
-
-Stumme Konsonantenbuchstaben werden durch eine horizontale Linie angezeigt, die den Buchstaben in der Mitte durchquert; wenn der Schüler die Regeln der stummen Konsonanten bereits memoriert hat, können sie ohne Markierung bleiben. Wie Tabelle 8 zeigt:
-
-**Tabelle 8 — Häufige stumme Konsonanten**
+Stumme Buchstaben können auf verschiedene Arten angegeben werden — Durchstreichung, Striche, Punkte unten usw. Aus Gründen der Hervorhebung verwendet dieses Buch doppelstrichige Buchstaben (Blackboard-Bold). Wenn der Schüler diese stummen Buchstaben bereits memoriert hat, können sie ohne Markierung bleiben.
 
 | Kombination | Beispiel |
 |---|---|
-| cḥ | mecḥanic, Cḥrist |
-| g̣ḥ | lig̣ḥt, hig̣ḥ, eig̣ḥt, sig̣ḥ, nig̣ḥt |
-| gḥ | gḥost |
-| g̣n | g̣nat, sig̣n |
-| ḥ | ḥour, ḥonour |
-| ḳn | ḳnife, ḳnow, ḳnee, ḳnock |
-| mḅ | comḅ, lamḅ, thumḅ, dumḅ, climḅ |
-| p̣n | p̣neumonia |
-| p̣s | p̣sychology |
-| rḥ | rḥyme, rḥythm |
-| ẉr | ẉrong, ẉrist, ẉrite, ẉrap, ẉretch, ẉrench |
-| ẉh | ẉho, ẉhose |
-| wḥ | wḥat, wḥen, wḥere, wḥy |
-| -sṭen | lisṭen, cḥrisṭen |
-| -sṭle | whisṭle |
-| Andere | iṣland |
+| 𝕙 | 𝕙our, 𝕙onour |
+| c𝕙 | mec𝕙anic, C𝕙rist |
+| 𝕘𝕙 | li𝕘𝕙t, hi𝕘𝕙, ei𝕘𝕙t, si𝕘𝕙, ni𝕘𝕙t |
+| g𝕙 | g𝕙ost |
+| r𝕙 | r𝕙yme, r𝕙ythm |
+| 𝕘n | 𝕘nat, si𝕘n |
+| 𝕜n | 𝕜nife, 𝕜now, 𝕜nee, 𝕜nock |
+| m𝕓 | com𝕓, lam𝕓, thum𝕓, dum𝕓, clim𝕓 |
+| 𝕡n | 𝕡neumonia |
+| 𝕡s | 𝕡sychology |
+| 𝕨r | 𝕨rong, 𝕨rist, 𝕨rite, 𝕨rap, 𝕨retch, 𝕨rench |
+| 𝕨h | 𝕨ho, 𝕨hose |
+| w𝕙 | w𝕙at, w𝕙en, w𝕙ere, w𝕙y |
+| -is𝕥- | lis𝕥en, c𝕙ris𝕥en, c𝕙ris𝕥mas, whis𝕥le |
+| 𝕤 | i𝕤land |
 
 ## Unterschiede zwischen amerikanischem und britischem Englisch
 
-Der Unterschied zwischen amerikanischem und britischem Englisch lässt sich in einem Satz zusammenfassen: Das amerikanische Englisch ist regelmäßiger als das britische, sowohl in der Schreibweise als auch in der Aussprache.
+Der Unterschied zwischen amerikanischem und britischem Englisch lässt sich in einem Satz zusammenfassen: Das amerikanische Englisch ist regelmäßiger als das britische.
 
 ### In der Schreibweise
 
@@ -390,8 +389,6 @@ Der Unterschied zwischen amerikanischem und britischem Englisch lässt sich in e
 | lĩte̊r | lite̊r |
 
 3) Das amerikanische Englisch neigt dazu, den retroflexen (rhotischen) Laut zu sprechen. Zum Beispiel:
-
-car, door, river, party, board, dirty, morning usw.
 
 | Britisch | Amerikanisch |
 |---|---|

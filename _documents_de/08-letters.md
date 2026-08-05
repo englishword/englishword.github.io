@@ -7,7 +7,7 @@ Ein englisches Wort ist eine Einheit von Klang, Form und Bedeutung; die Buchstab
 
 Die 26 Buchstaben sind grundlegendere und mikroskopischere Elemente als Wörter; folglich ist die geeinte Beziehung von Klang, Form und Bedeutung der 26 Buchstaben schwer in einer Sprache auf höherem Niveau zu beschreiben. Um die Konnotationen der Buchstaben zu erarbeiten, müssen wir Dinge erforschen, die grundlegender sind als die Buchstaben selbst.
 
-Der Klang eines Buchstabens ist eng mit der physiologischen Struktur der menschlichen Sprechorgane — Mund, Rachen, Lunge usw. — verbunden. Obwohl die Klänge der Natur reich und vielfältig sind, sind die Klänge, die der menschliche Mund erzeugen kann, begrenzt. Die Form eines Buchstabens ist eng mit der Gelenkstruktur der menschlichen Hand verbunden; die physiologische Struktur der menschlichen Hand bewirkt, dass bestimmte Symbole für ein leichtes Schreiben geeignet sind. Die Bedeutung eines Buchstabens ist eng mit der menschlichen Ernährung, Kleidung, Wohnung und Beförderung verbunden.
+Der Klang eines Buchstabens ist eng mit der physiologischen Struktur der menschlichen Sprechorgane — Mund, Rachen, Lunge usw. — verbunden. Obwohl die Klänge der Natur reich und vielfältig sind, sind die Klänge, die der menschliche Mund erzeugen kann, begrenzt. Die Form eines Buchstabens ist eng mit der Gelenkstruktur der menschlichen Hand verbunden; die physiologische Struktur der menschlichen Hand bewirkt, dass bestimmte Symbole für ein leichtes Schreiben geeignet sind. Die Bedeutung eines Buchstabens ist eng mit Ernährung, Kleidung, Wohnung und Beförderung verbunden.
 
 Da ein Buchstabe ein geeintes Ganzes aus Klang, Form und Bedeutung ist, kommt es oft zum Phänomen der paarweisen gegenseitigen Umwandlung zwischen „Klang", „Form" und „Bedeutung" (vom Klang zur Bedeutung, von der Bedeutung zum Klang, von der Form zur Bedeutung, von der Bedeutung zur Form, vom Klang zur Form, von der Form zum Klang).
 
@@ -19,15 +19,15 @@ Die folgende Tabelle ist die Aussprachetabelle der englischen Buchstaben; man ka
 
 **Aussprache der 26 Buchstaben\***
 
-| Buchstabe | A | B | C | D | E | F | G |
+| Buchstabe | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Aussprache | [ā] | [bē] | [cē] | [dē] | [ē] | [ef] | [gē] |
-| Buchstabe | H | I | J | K | L | M | N |
-| Aussprache | [āch] | [ī] | [jā] | [kā] | [el] | [em] | [en] |
-| Buchstabe | O | P | Q |  | R | S | T |
-| Aussprache | [ō] | [pē] | [kū] |  | [àr] | [es] | [tē] |
-| Buchstabe | U | V | W |  | X | Y | Z |
-| Aussprache | [ū] | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
+| Aussprache | <font color="red">[ā]</font> | [bē] | [cē] | [dē] | <font color="red">[ē]</font> | [ef] | [gē] |
+| Buchstabe | H | <font color="red">I</font> | J | K | L | M | N |
+| Aussprache | [āch] | <font color="red">[ī]</font> | [jā] | [kā] | [el] | [em] | [en] |
+| Buchstabe | <font color="red">O</font> | P | Q |  | <font color="red">R</font> | S | T |
+| Aussprache | <font color="red">[ō]</font> | [pē] | [kū] |  | <font color="red">[àr]</font> | [es] | [tē] |
+| Buchstabe | <font color="red">U</font> | V | W |  | X | Y | Z |
+| Aussprache | <font color="red">[ū]</font> | [vē] | double-[ū] |  | [eks] | [wī] | [zē] |
 
 ## Die Form der Buchstaben
 
@@ -61,8 +61,8 @@ Beim Schreiben der senkrechten Linie „\|" zeichnet man sie von oben nach unten
 - 𝓿:  spitz zulaufend (gegen den Uhrzeigersinn) unterer Halbkreis
 - 𝔀:  spitz zulaufend (gegen den Uhrzeigersinn) unterer Halbkreis + spitz zulaufend (gegen den Uhrzeigersinn) unterer Halbkreis
 - 𝔁:  (im Uhrzeigersinn) rechter Halbkreis + (gegen den Uhrzeigersinn) linker Halbkreis
-- 𝔂:  spitz zulaufend (gegen den Uhrzeigersinn) unterer Halbkreis + lange Senkrechte + (im Uhrzeigersinn) unterer Halbkreis
-- 𝔃:  kurzer oberer Strich + kurzer unterer Strich (in der Mitte verbunden)
+- 𝔂:  spitz zulaufend (gegen den Uhrzeigersinn) unterer Halbkreis + (im Uhrzeigersinn) unterer Halbkreis
+- 𝔃:  kurzer oberer Strich + (in der Mitte verbunden) + kurzer unterer Strich
 
 Unter den Kleinbuchstaben nehmen die fünf Vokalbuchstaben nur das mittlere Feld ein; die Konsonantenbuchstaben, die nur das mittlere Feld einnehmen, sind die Konsonanten mit dem schwächsten Laut, wie die Nasale 𝓶, 𝓷, die Frikative 𝓼, 𝔃, und der Halbvokal 𝔀. Die Konsonantenbuchstaben, die zwei Felder einnehmen, sind sämtlich Konsonanten mit stärkerem Laut. Man kann so erkennen, dass es eine gewisse Verbindung zwischen der Form eines Buchstabens und seiner Aussprache gibt.
 
@@ -76,7 +76,7 @@ Buchstaben, die zwei Felder einnehmen, sind optisch auffälliger; Buchstaben, di
 
 Beim schnellen Schreiben von Hand werden ein Vokalbuchstabe, der ein Feld einnimmt, und ein Konsonantenbuchstabe, der ein Feld einnimmt, wahrscheinlich schnell in einem einzigen durchgehenden Strich überstrichen, während die Konsonantenbuchstaben, die zwei Felder einnehmen, sich nach oben oder unten wie Spitzen aufrichten, und dies sind die visuellen Schlüsselstriche, die man beim schnellen Lesen erfasst.
 
-Um den Anfangsbuchstaben auffälliger zu machen, hat man die Großbuchstaben geschaffen; ein Großbuchstabe ähnelt seinem entsprechenden Kleinbuchstaben stark, wobei er generell höher, breiter, größer oder spitz zulaufend gemacht wurde.
+Um den Anfangsbuchstaben auffälliger zu machen, hat man die Großbuchstaben geschaffen; ein Großbuchstabe ähnelt seinem entsprechenden Kleinbuchstaben stark, wobei er generell höher, breiter, größer oder spitz zulaufend gemacht wurde, wodurch er von einem unauffälligen Buchstaben zum auffälligsten Buchstaben im Wort aufgewertet wird.
 
 - 𝓐:  spitz zulaufend, höher und größer gemacht, von einem Feld auf zwei Felder erhöht
 - 𝓑:  vergrößert, mit einem zusätzlichen rechten Halbkreis im oberen Teil
@@ -107,7 +107,7 @@ Um den Anfangsbuchstaben auffälliger zu machen, hat man die Großbuchstaben ges
 
 ## Die Bedeutung der Buchstaben
 
-Da Form und Klang der englischen Buchstaben eng verbunden sind, kann man durch die Kombination der Buchstabenform und der Aussprache mit den Phonemen die innere Bedeutung nachvollziehen.
+Da Form und Klang der englischen Buchstaben eng verbunden sind, kann man durch die Kombination der Buchstabenform und der Aussprache mit den Phonemen die innere Bedeutung nachvollziehen. Dieser Unterabschnitt ist ein Inhalt, der „intuitiv zu erfassen" ist, und sollte nicht als allgemeine Regel behandelt werden.
 
 - 𝓐, 𝓪: als die erste der 26 Buchstaben trägt sie die Bedeutung von „erste". Durch die Form von A ähnelt sie einer Pfeilspitze, sehr spitz zulaufend, wie der Eiffelturm, und symbolisiert das Männliche.
 
@@ -213,21 +213,9 @@ Abbildung 3. Diagramm der Beziehungen der Konsonantenbuchstaben
 
 Abbildung 4 zeigt das Diagramm der Beziehungen der Vokalbuchstaben. Viele der Buchstaben oder Buchstabenkombinationen des Diagramms haben mehr als eine Aussprache; ihre konkreten Aussprachefälle wurden in der Vokaltabelle 9 aufgeführt, weshalb ihre Beziehungen hier nicht weiter erklärt werden.
 
-Tabelle 21 zeigt die Tabelle der Vokalbuchstabenkombinationen; aus der Tabelle kann man beobachten, dass zwei beliebige Vokalbuchstaben sich nicht zu einem einzigen Vokallaut kombinieren können.
-
 Abbildung 4. Diagramm der Beziehungen der Vokalbuchstaben
 
 ![Diagramm der Beziehungen der Vokalbuchstaben](/images/documents/08-vowel-relationship-en.svg)
-
-**Tabelle der Vokalkombinationen**
-
-|  | -A | -E | -I/Y | -O | -U/W | -R |
-|---|---|---|---|---|---|---|
-| A- |  |  | ai/ay |  | au/aw | ar |
-| E- | ea | ee | ei/ey |  | eu/ew | er |
-| I- |  | ie |  |  |  | ir |
-| O- | oa |  | oi/oy | oo | ou/ow | or |
-| U- |  |  | ui |  |  | ur |
 
 ## Die Bedeutung der Wörter und die Übersetzung der Wörter
 
@@ -241,6 +229,6 @@ Die „Bedeutung" einer Sprache hängt von ihrer eigenen „Form" und ihrem „K
 
 ## Die Bedeutung aus der Schreibweise erfassen
 
-Die Bedeutung eines Wortes kann von mehreren Ebenen her dekonstruiert werden — Buchstaben, Phoneme, Silben und Morpheme. Indem man es von mehreren Aspekten aus angeht, Schicht für Schicht vertieft, Schritt für Schritt demontiert und schließlich die vier Aspekte synthetisiert, erhält man die vollständigste und richtigste Bedeutung des Wortes.
+Die Bedeutung eines Wortes kann von mehreren Ebenen her dekonstruiert werden — Buchstaben, Phoneme, Silben, Morpheme und Kontext. Indem man es von mehreren Aspekten aus angeht, Schicht für Schicht vertieft, Schritt für Schritt demontiert und schließlich mehrere Aspekte synthetisiert, erhält man die vollständigste und richtigste Bedeutung des Wortes.
 
 Das „Erfassen der Bedeutung aus der Schreibweise", das dieses Buch behandelt, bedeutet nicht, die übersetzte Bedeutung des Wortes präzise anzugeben, sondern eher die vage wörtliche Bedeutung des Wortes. Es ist besonders auf Wörter anwendbar, die den Wortbildungsregeln entsprechen. Diese vage Bedeutung erschließt direkt die wesentliche Konnotation des Wortes; es ist eine Art Bedeutung, die wissenschaftlicher und schneller ist, anwendbar auf Schüler, deren Muttersprache eine beliebige Sprache ist.

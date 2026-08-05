@@ -1,9 +1,7 @@
 ---
-title: "Aussprache der 26 Buchstaben"
+title: "Einfache Aussprache"
 weight: 9
 ---
-
-Von den 26 Buchstaben des Englischen sind 5 Vokale — A, E, I, O und U —, während die restlichen 21 Konsonanten sind. R, W und Y verbinden sich manchmal mit den Vokalen, um gemeinsam zu funktionieren, und werden daher „Halbvokale" genannt.
 
 Dieser Abschnitt geht die Aussprache der Wörter in der Reihenfolge der 26 Buchstaben durch und zeigt, wie sich Wörter aus den Buchstaben „laut buchstabieren".
 
@@ -67,7 +65,7 @@ Dieser Abschnitt geht die Aussprache der Wörter in der Reihenfolge der 26 Buchs
 - Offener Laut [ī] : z. B. nice.
 - Geschlossener Laut [i] : z. B. sit.
 - Langer schwacher Laut [i̊r] : z. B. bird.
-- Kurzer schwacher Laut [i̊] :
+- Kurzer schwacher Laut [i̊] : z. B. evil
 - Leichter Laut [i] : z. B. lily.
 - Langer Laut [ĩ] : z. B. police.
 
@@ -99,6 +97,7 @@ Dieser Abschnitt geht die Aussprache der Wörter in der Reihenfolge der 26 Buchs
 - Geschlossener Laut : z. B. hot.
 - Langer schwacher Laut : substituiert, wird /or/ gesprochen, z. B. force.
 - Kurzer schwacher Laut : Laut /ǝ/.
+- Vokalkombinationen : [oo].
 - Vokalkombinationen : [ou], [ow], z. B. loud, cow.
 - Vokalkombinationen : [oi], [oy], z. B. oil, boy.
 
@@ -136,11 +135,11 @@ Dieser Abschnitt geht die Aussprache der Wörter in der Reihenfolge der 26 Buchs
 ## U u
 
 - Offener Laut : wird /yu:/ gesprochen, z. B. duty; hinter L, R wird /u:/ gesprochen, z. B. blue, ruler.
-- Kombinationen : oo, ui, eu, ew.
+- Kombinationen : ui, eu, ew.
 - Geschlossener Laut : z. B. but.
 - Langer schwacher Laut : z. B. burn.
-- Kurzer schwacher Laut : Laut [ǝ].
-- Leichter Laut : selten, z. B. busy.
+- Kurzer schwacher Laut : Laut /ǝ/.
+- Leichter Laut : selten, z. B. busy, minute.
 
 ## V v
 
@@ -148,7 +147,7 @@ Dieser Abschnitt geht die Aussprache der Wörter in der Reihenfolge der 26 Buchs
 
 ## W w
 
-- Als Konsonant, wie das w im chinesischen Pinyin.
+- Als Konsonant, wie das w im chinesischen Pinyin [w].
 - Als Vokal, gleichbedeutend mit dem Buchstaben u.
 - Kombinationen : aw, ew, ow.
 

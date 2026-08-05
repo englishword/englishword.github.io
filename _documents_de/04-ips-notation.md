@@ -109,10 +109,10 @@ Welcher Buchstabe auch immer die horizontale Linie darüber trägt, er wird mit 
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *Hinweis: oi, oo und au werden weder nach dem ersten noch nach dem zweiten Buchstaben gelesen; sie müssen gesondert auswendig gelernt werden.*
@@ -173,39 +173,37 @@ Welcher Buchstabe auch immer die horizontale Linie darüber trägt, er wird mit 
 >
 > **Leseübung**
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## Substituten von I und U
 
@@ -246,7 +244,7 @@ Welcher Buchstabe auch immer die horizontale Linie darüber trägt, er wird mit 
 |---|---|---|---|---|---|
 | Beispiel | cāre | hēre | fīre | fōre | dūre |
 
-*Hinweis: Wenn ein R-Laut unmittelbar auf einen offenen Laut folgt, ändert sich der offene Laut automatisch, da der R-Laut eine retroflexe Krümmung beinhaltet. Das IPS notiert den Laut vor der Änderung, während das IPA den Laut nach der Änderung erfasst; beide führen zum selben Ergebnis.*
+*Hinweis: Wenn ein R-Laut unmittelbar auf einen offenen Laut folgt, ändert sich der offene Laut natürlich, da der R-Laut eine retroflexe Krümmung beinhaltet. Das IPS notiert den Laut vor der Änderung, während das IPA den Laut nach der Änderung erfasst; beide führen zum selben Ergebnis.*
 
 ### Geschlossener Laut + R
 
@@ -290,17 +288,17 @@ Welcher Buchstabe auch immer die horizontale Linie darüber trägt, er wird mit 
 
 ## Konsonantenbuchstaben
 
-Diese umfassen die fünf geschlossenen Laute der Vokalbuchstaben sowie einige häufige Konsonanten [g] [h] [sh] [w] [y].
-
-| Buchstabe | A | B | C | D | E | F | G |
+| Buchstabe | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Aussprache | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| Buchstabe | H | I | J | K | L | M | N |
-| Aussprache | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| Buchstabe | O | P | Q | | R | S | T |
-| Aussprache | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| Buchstabe | U | V | W | | X | Y | Z |
-| Aussprache | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| Aussprache | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| Buchstabe | H | <font color="red">I</font> | J | K | L | M | N |
+| Aussprache | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| Buchstabe | <font color="red">O</font> | P | Q | | <font color="red">R</font> | S | T |
+| Aussprache | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| Buchstabe | <font color="red">U</font> | V | W | | X | Y | Z |
+| Aussprache | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+Diese umfassen die fünf geschlossenen Laute der Vokalbuchstaben sowie einige häufige Konsonanten [g] [h] [sh] [w] [y].
 
 Hinweis: [y] ist das /j/ des IPA; diese Methode stellt seine ursprüngliche Form wieder her.
 
@@ -359,19 +357,19 @@ Hinweis: [y] ist das /j/ des IPA; diese Methode stellt seine ursprüngliche Form
 | g | [ g ] | go | g vor a, o, u. |
 | | [ j ] | orange | vor e, i, y¹, ge am Wortende |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | Pronomina, Artikel, Präpositionen, Konjunktionen |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | am Wortanfang |
+| x | [ x ] = [ z ] | xenon | am Wortanfang |
 | ex | [ ėx ] = [ ėks ] | excess | x am Ende oder vor einem Konsonanten, mit einigen Ausnahmen |
 | | [ ėẋ ] = [ ėgz ] | exact | x vor einem Vokal, mit einigen Ausnahmen |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ Ausnahmen: finger, get, forget, together, begin, give, gift, girl, tiger
+¹ Ausnahmen: eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **Übung**
 >

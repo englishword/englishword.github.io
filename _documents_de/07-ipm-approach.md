@@ -3,6 +3,18 @@ title: "IPM — Integrierte Aussprache und Bedeutung"
 weight: 7
 ---
 
+Es lässt sich nicht leugnen, dass ein enger Zusammenhang zwischen Klang und Bedeutung besteht. Wenn man nur aufmerksam zuhört, lässt sich das Verhältnis zwischen Klang und Bedeutung leicht erfassen; doch dieses Verhältnis schriftlich auszudrücken, ist äußerst schwierig.
+
+**1. Klang ist holografisch; Schrift ist diskret.**
+
+Wenn man ein Musikstück oder einen Satz hört, empfängt man die Summe aus Tonhöhe, Klangfarbe, Rhythmus, Akzent und Ton — eine ganzheitliche, dreidimensionale Wahrnehmung. Das Gehirn muss sie nicht zerlegen; die Intuition allein sagt einem sofort, ob sie traurig, lebhaft oder wütend ist. Doch sobald man versucht, dieses Gefühl „niederzuschreiben", ist man gezwungen, die kontinuierliche Schallwelle in statische, lineare Symbole zu zerlegen. Beim Übergang von einem holografischen Ganzen zu linearen Symbolen gehen unvermeidlich 90 % der Informationen verloren.
+
+**2. Intuition ist unmittelbar; die Logik hinkt hinterher.**
+
+Wenn man das Wort slither hört, ruft die Reibung der Zunge an den Zähnen sofort eine physische Assoziation von „schleimig, gleitend" hervor. Doch um schriftlich zu erklären, „warum sl für Gleiten steht", müsste man die Aktionen der Sprechorgane und den Luftstrom sezieren. Wenn die Erklärung fertig ist, sind jene unmittelbare „Schönheit" und „Intuition" längst verflogen.
+
+Dennoch versucht dieser Abschnitt noch, das Verhältnis zwischen Klang und Bedeutung allein in Worten zu beschreiben, was unweigerlich esoterisch und unüberzeugend wirkt — doch dieses Buch kann nicht anders. Um das Verhältnis zwischen Klang und Bedeutung wirklich zu verstehen, ist der direkteste und wirksamste Weg einfach, immer wieder zu hören und zu sprechen.
+
 ## Zentrale Silbe
 
 Jedes Wort hat eine zentrale Silbe. Die zentrale Silbe ist die wichtigste Silbe des ganzen Wortes; egal ob beim Hören, Sprechen, Lesen oder Schreiben, sie muss präzise erfasst werden. Unter normalen Umständen wird die zentrale Silbe durch den zentralen Buchstaben und den betonten Vokal, der ihm folgt, gebildet.
@@ -17,7 +29,7 @@ Beim Schreiben bemühen Sie sich, die wenigen Buchstaben, die die zentrale Silbe
 
 Zum Beispiel ist in intimidate (in-𝓽im-id-āte) die zentrale Silbe 𝓽im; den Buchstaben „𝓽" mit einem Blick zu erfassen und die anderen Buchstaben mit dem peripheren Blick zu umfassen, erlaubt es, die innere Bedeutung des ganzen Wortes sofort zu erfassen, anstatt vom Buchstaben „i" bis zum Buchstaben „e" zu durchlaufen — i→n→t→i→m→i→d→a→t→e — und dann seine Bedeutung aus dem Gehirn abzurufen. Diese Fähigkeit muss durch reichliche Praxis kultiviert werden.
 
-## Zentrales Phonem
+## Zentrale Buchstaben
 
 Jedes Wort hat einen oder zwei zentrale Buchstaben. Der zentrale Buchstabe ist generell der erste Buchstabe des Wortes oder der erste Buchstabe der Wurzel. Für ein Wort ohne Präfix ist es der erste Buchstabe des Wortes; für ein Wort mit Präfix ist es der erste Buchstabe der Wurzel. Da das Englische Kombinationen mehrerer Konsonanten aufweist, sind auch diese zentrale Buchstaben. Die Fälle zentraler Buchstaben sind in Tabelle 22 gezeigt:
 
@@ -37,11 +49,7 @@ Einige Wörter sind zusammengesetzt, gebildet durch die Kombination von zwei Wö
 
 Beim Einprägen der Wörter sollten wir versuchen, eine Verbindung zwischen der Bedeutung des Wortes und seinem zentralen Buchstaben, seinem Phonem und seinem Morphem herzustellen; einerseits ermöglicht uns dies, die Konnotationen der 26 Buchstaben präziser nachzuvollziehen, und andererseits ist es sehr nützlich, um die vage Bedeutung des Wortes zu erfassen. Diese Fähigkeit muss im Laufe des Einprägens der Wörter allmählich kultiviert werden.
 
-Zum Beispiel ist der zentrale Buchstabe von good, great, God usw. G, also wissen wir, dass der Buchstabe G eine Bedeutung von Güte trägt; ebenso wissen wir aus home, house, hold, have, help, dass der Buchstabe H die Bedeutung von Stützen und Schützen hat; und aus light, relate, lace, line, long wissen wir, dass der Buchstabe L die Bedeutung von Linie und Verbindung hat.
-
-Auch Konsonanten außer dem zentralen Buchstaben können einen Teil der Bedeutung tragen, aber sie sind nicht der Schwerpunkt, und dieses Buch behandelt diese Konsonanten nicht, wie das ll von full, fill, und das d von good. Interessierte Leser können selbst nachdenken.
-
-In Kapitel 3 dieses Buches sind die zentralen Buchstaben aller Wörter fett markiert; die Konnotationen der 26 Buchstaben müssen weitgehend vom Leser im Laufe des Studiums allmählich nachvollzogen werden.
+Zum Beispiel ist der zentrale Buchstabe von good, great, God usw. G, also wissen wir, dass der Buchstabe G eine Bedeutung von Güte trägt; ebenso wissen wir aus home, house, hold, have, help, dass der Buchstabe H die Bedeutung von Stützen und Schützen hat; und aus light, relate, lace, line, long wissen wir, dass der Buchstabe L die Bedeutung von Linie und Verbindung hat. Dies ist jedoch eine esoterische Erkenntnis, die „intuitiv zu erfassen, aber schwer in Worte zu fassen" ist; die Konnotationen der zentralen Buchstaben müssen vom Leser im Laufe des Studiums allmählich nachvollzogen werden.
 
 ## Bedeutung der zentralen Phoneme
 
@@ -60,61 +68,65 @@ Die Aussprache der Vokale trägt ebenfalls eine reiche Bedeutung; die Bedeutung 
 
 ### Bedeutung der konsonantischen Phoneme
 
-- \[b]: Explosion, explodieren, brechen, entblößen, blockieren,
-- \[c]: rennen, gehen, nehmen, greifen, singen, ausrufen
-- \[d]: schwer, sich senkend,
-- \[f]: Wind, wehen, fliegen, leicht,
-- \[g]: Erde, groß, Leben, geben
-- \[h]: hoch, wehen, ausatmen,
-- \[j]: freudig, verbinden, werfen,
-- \[k]: offen, Knoten, kicken, schlagen,
-- \[l]: Linie, ziehen, verbinden,
-- \[m]: Mutter, weiblich, Berg, bewegen
-- \[n]: Geburt, Verneinung
-- \[p]: flach, kleines Klopfen, schlagen, schieben
-- \[r]: mahlen, reiben, rau, steigen, ausstoßen,
-- \[s]: ausatmen, einatmen, sitzen,
-- \[t]: markieren, schlagen, drehen
-- \[v]: sehen, drehen, zurückkehren, Sieg
-- \[w]: Wasser, Welle, gehen, bewegen,
+Das Folgende ist nur eine grobe Textbeschreibung, die intuitiv zu erfassen ist, und keine Zusammenfassung von Regeln.
+
+- \[b]: Explosion, explodieren, brechen, entblößen, blockieren, …
+- \[c]: rennen, gehen, nehmen, greifen, singen, ausrufen, …
+- \[d]: schwer, sich senkend, …
+- \[f]: Wind, wehen, fliegen, leicht, …
+- \[g]: Erde, groß, Leben, geben, …
+- \[h]: hoch, wehen, ausatmen, …
+- \[j]: freudig, verbinden, werfen, …
+- \[k]: offen, Knoten, kicken, schlagen, …
+- \[l]: Linie, ziehen, verbinden, …
+- \[m]: Mutter, weiblich, Berg, bewegen, …
+- \[n]: Geburt, Verneinung, …
+- \[p]: flach, kleines Klopfen, schlagen, schieben, …
+- \[r]: mahlen, reiben, rau, steigen, ausstoßen, …
+- \[s]: ausatmen, einatmen, sitzen, …
+- \[t]: markieren, schlagen, drehen, …
+- \[v]: sehen, drehen, zurückkehren, Sieg, …
+- \[w]: Wasser, Welle, gehen, bewegen, …
 
 ### Bedeutung der Kombinationen konsonantischer Phoneme
 
-- \[bl]: Glanz, Verschluss, Farbe, Welle, Atem;
-- \[br]: Bogen, teilen, brechen, erzeugen;
-- \[cl]: Kreuz, heilig, Glaube, trennen, verschmelzen, vereinen;
-- \[cr]: rufen, klettern, steigen;
-- \[dr]: schleppen, heftig, grob, trocken/nass, fallen, ziehen;
-- \[dw]: niedrig, kurz, knapp;
-- \[fl]: flach, fließen, biegen, fliegen;
-- \[fr]: Bruch, täuschen;
-- \[gl]: glatt, glänzend, scheinen, Glanz;
-- \[gn]: wissen, Knoten, Geschwulst;
-- \[gr]: mahlen, schnitzen, schreiben, greifen, Korn, bedeutsam, wachsen, vergrößern;
-- \[kn]: wissen, Gelenk, schlagen;
-- \[ph]: sprechen, wehen, erscheinen;
-- \[pl]: flach/ruhig, biegen, Feder, falten, sprechen;
-- \[pr]: vorne, erste, ursprünglich, ergreifen, egoistisch, drücken;
-- \[qu]: nehmen, suchen;
-- \[sc]: Oberfläche, klettern, schneiden, sehen, schnitzen, steigen;
-- \[scr]: spitz, reiben, ringen, greifen;
-- \[shr]: schrumpfen, einhüllen, bereuen, heulen, zusammenziehen, weniger, verfeinert;
-- \[sk]: Oberfläche, springen/gleiten;
-- \[sl]: Feuchtigkeit, saugen, langsam/weich, dünn, fein, gleiten;
-- \[sm]: verstreichen, riechen, binden/schlagen, klein, winzig;
-- \[sn]: nasal, geheim;
-- \[sp]: kleiner Punkt, zerstreuen, sprechen, drehen;
-- \[spl]: spalten, beflecken, bespritzen;
-- \[spr]: ausstrahlen, besprengen, bespritzen;
-- \[squ]: sitzen, zusammendrücken, pressen;
-- \[st]: stehen, bleiben, unbewegt, Segment, Dorn;
-- \[str]: ziehen, schleppen, Lärm;
-- \[sw]: biegen, schaukeln, oszillieren;
-- \[thr]: zittern, schlagen, springen, durch;
-- \[tr]: durch, tragen, schieben, ziehen;
-- \[tw]: drehen, zwei, doppelt;
-- \[wh]: drehen, Frage;
-- \[wr]: drehen, biegen, Wind, rollen, knittern, winden;
+Das Folgende ist nur eine grobe Textbeschreibung, die intuitiv zu erfassen ist, und keine Zusammenfassung von Regeln.
+
+- \[bl]: Glanz, Verschluss, Farbe, Welle, Atem, …
+- \[br]: Bogen, teilen, brechen, erzeugen, …
+- \[cl]: Kreuz, heilig, Glaube, trennen, verschmelzen, vereinen, …
+- \[cr]: rufen, klettern, steigen, …
+- \[dr]: schleppen, heftig, grob, trocken/nass, fallen, ziehen, …
+- \[dw]: niedrig, kurz, knapp, …
+- \[fl]: flach, fließen, biegen, fliegen, …
+- \[fr]: Bruch, täuschen, …
+- \[gl]: glatt, glänzend, scheinen, Glanz, …
+- \[gn]: wissen, Knoten, Geschwulst, …
+- \[gr]: mahlen, schnitzen, schreiben, greifen, Korn, bedeutsam, wachsen, vergrößern, …
+- \[kn]: wissen, Gelenk, schlagen, …
+- \[ph]: sprechen, wehen, erscheinen, …
+- \[pl]: flach/ruhig, biegen, Feder, falten, sprechen, …
+- \[pr]: vorne, erste, ursprünglich, ergreifen, egoistisch, drücken, …
+- \[qu]: nehmen, suchen, …
+- \[sc]: Oberfläche, klettern, schneiden, sehen, schnitzen, steigen, …
+- \[scr]: spitz, reiben, ringen, greifen, …
+- \[shr]: schrumpfen, einhüllen, bereuen, heulen, zusammenziehen, weniger, verfeinert, …
+- \[sk]: Oberfläche, springen/gleiten, …
+- \[sl]: Feuchtigkeit, saugen, langsam/weich, dünn, fein, gleiten, …
+- \[sm]: verstreichen, riechen, binden/schlagen, klein, winzig, …
+- \[sn]: nasal, geheim, …
+- \[sp]: kleiner Punkt, zerstreuen, sprechen, drehen, …
+- \[spl]: spalten, beflecken, bespritzen, …
+- \[spr]: ausstrahlen, besprengen, bespritzen, …
+- \[squ]: sitzen, zusammendrücken, pressen, …
+- \[st]: stehen, bleiben, unbewegt, Segment, Dorn, …
+- \[str]: ziehen, schleppen, Lärm, …
+- \[sw]: biegen, schaukeln, oszillieren, …
+- \[thr]: zittern, schlagen, springen, durch, …
+- \[tr]: durch, tragen, schieben, ziehen, …
+- \[tw]: drehen, zwei, doppelt, …
+- \[wh]: drehen, Frage, …
+- \[wr]: drehen, biegen, Wind, rollen, knittern, winden, …
 
 ## Konsonanten sind statisch, Vokale sind dynamisch
 
@@ -126,34 +138,29 @@ Bei der Beugung der Zeitform oder Wortart englischer Wörter ist es großteils d
 
 1) Beugung der Grundform, der Vergangenheit und des Partizips der Verben
 
-begin    began    begun
-
-bite     bit      bitten
-
-see      saw      seen
+| Grundform | Vergangenheit | Partizip |
+|---|---|---|
+| be𝓰in | be𝓰an | be𝓰un |
+| 𝓫ite | 𝓫it | 𝓫itten |
+| 𝓼ee | 𝓼aw | 𝓼een |
 
 2) Wortartänderung
 
-full      fill
-
-sit       seat
-
-choose    choice
-
-bind      band
+|  |  |
+|---|---|
+| 𝓯ull | 𝓯ill |
+| 𝓼it | 𝓼eat |
+| 𝓬𝓱oose | 𝓬𝓱oice |
+| 𝓫ind | 𝓫and |
 
 Da die Menschen dieselben körperlichen Voraussetzungen teilen und in derselben Umgebung leben, bestimmt dies grundlegend, dass die verschiedenen Sprachen in ihren Lauten schließlich konvergieren werden. Unten sind einige der offensichtlichsten Beispiele gegeben. Aus diesen Beispielen kann man beobachten, dass Klang und Bedeutung der verschiedenen Sprachen miteinander verbunden sind. Dies ist besonders offensichtlich bei den Verben, wie unten veranschaulicht.
 
-back (背 bèi, „tragen")　　bomb (爆 bào, „explodieren")　　do (打 dǎ, „schlagen")
-
-give (给 gěi, „geben")　　send (送 sòng, „senden")　　bind (绑 bǎng, „binden")
-
-fail (废 fèi, „verschwenden")　　pan (盘 pán, „flach")　　mop (抹 mǒ, „reinigen")
-
-cheat (欺 qī, „täuschen")　　lug (拉 lā, „ziehen")　　law (律 lǜ, „Gesetz")
-
-pour (泼 pō, „bespritzen")　　warp (弯 wān, „biegen")　　go (归 guī, „zurückkehren")
-
-quick (快 kuài, „schnell")　　whole (合 hé, „vereinen")　　harm (害 hài, „schaden")
-
-lazy (懒 lǎn, „faul")
+|  |  |  |
+|---|---|---|
+| 背（𝓫ei） 𝓫ack | 爆（𝓫ao） 𝓫omb | 打（𝓭a） 𝓭o |
+| 给（𝓰ei） 𝓰ive | 送（𝓼ong） 𝓼end | 绑（𝓫ang） 𝓫ind |
+| 废（𝓯ei） 𝓯ail | 盘（𝓹an） 𝓹an | 抹（𝓶o） 𝓶op |
+| 欺（𝓺i） 𝓬𝓱eat | 拉（𝓵a） 𝓵ug | 律（𝓵v） 𝓵aw |
+| 泼（𝓹o） 𝓹our | 弯（𝔀an） 𝔀arp | 归（𝓰ui） 𝓰o |
+| 快（𝓴𝓾ai） 𝓺𝓾ick | 合（𝓱e） 𝕨𝓱ole | 害（𝓱ai） 𝓱arm |
+| 懒（𝓵an） 𝓵azy |  |  |
