@@ -109,10 +109,10 @@ weight: 4
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *ملاحظة: يُقرأ كلٌّ من oi و oo و au بطريقةٍ لا تتبع الحرف الأول ولا الثاني، فيجب حفظها على حدة.*
@@ -173,39 +173,37 @@ weight: 4
 >
 > **تمرين على القراءة الصوتية**
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## البدائل لحرفَّي I و U
 
@@ -228,15 +226,15 @@ weight: 4
 >
 > AY: bāy rāy wāy sāy hāy pāy Māy lāy
 >
-> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
+> AW: pãw drãw sãw strãw strãwberry̍ lãwn
 >
-> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
+> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
 >
 > OW: rainbōw pillōw yellōw windōw bōwl rōw hollōw lōw
 >
 > OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 >
-> AW: pãw drãw sãw strãw strãwberry̍ lãwn
+> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
 
 ## حرف العلة + R
 
@@ -246,7 +244,7 @@ weight: 4
 |---|---|---|---|---|---|
 | أمثلة | cāre | hēre | fīre | fōre | dūre |
 
-*ملاحظة: إذا تلا صوتُ R مقطعًا مفتوحًا مباشرة، فإن صوت R — بما يتطلبه من ثني طرف اللسان إلى الخلف — يجعل المقطع المفتوح يتغيّر تلقائيًا. ويدلّ تدوين IPS على الصوت قبل التغيّر، بينما يُثبِّت IPA الصوتَ بعد التغيّر، غير أن النتيجة الصوتية واحدة.*
+*ملاحظة: إذا تلا صوتُ R مقطعًا مفتوحًا مباشرة، فإن صوت R — بما يتطلبه من ثني طرف اللسان إلى الخلف — يجعل المقطع المفتوح يتغيّر طبيعيًا. ويدلّ تدوين IPS على الصوت قبل التغيّر، بينما يُثبِّت IPA الصوتَ بعد التغيّر، غير أن النتيجة الصوتية واحدة.*
 
 ### المقطع المغلق + R
 
@@ -290,17 +288,17 @@ weight: 4
 
 ## حروف الساكنة
 
-يشمل ذلك المقاطع المغلقة الخمسة لحروف العلة، وبعض السواكن الشائعة: [g] [h] [sh] [w] [y].
-
-| الحرف | A | B | C | D | E | F | G |
+| الحرف | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| النطق | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| الحرف | H | I | J | K | L | M | N |
-| النطق | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| الحرف | O | P | Q | | R | S | T |
-| النطق | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| الحرف | U | V | W | | X | Y | Z |
-| النطق | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| النطق | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| الحرف | H | <font color="red">I</font> | J | K | L | M | N |
+| النطق | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| الحرف | <font color="red">O</font> | P | Q | | R | S | T |
+| النطق | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| الحرف | <font color="red">U</font> | V | W | | X | Y | Z |
+| النطق | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+يُضاف إلى الجدول المقاطع المغلقة الخمسة لحروف العلة، وبعض السواكن الشائعة: [g] [h] [sh] [w] [y].
 
 ملاحظة: [y] هو نفسه /j/ في IPA، وهذه الطريقة تستعيد صورتَه الأصلية.
 
@@ -359,19 +357,19 @@ weight: 4
 | g | [ g ] | go | g قبل a و o و u. |
 | | [ j ] | orange | قبل e و i و y¹، وفي اللاحقة ge في نهاية الكلمة |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | ضمائر، أدوات تعريف، حروف جر، أدوات ربط |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | في بداية الكلمة |
+| x | [ x ] = [ z ] | xenon | في بداية الكلمة |
 | ex | [ ėx ] = [ ėks ] | excess | x في نهاية الكلمة أو قبل ساكن، مع بعض الاستثناءات |
 | | [ ėẋ ] = [ ėgz ] | exact | x قبل حرف علة، مع بعض الاستثناءات |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ الاستثناءات: finger, get, forget, together, begin, give, gift, girl, tiger
+¹ الاستثناءات: eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **تمرين**
 >
