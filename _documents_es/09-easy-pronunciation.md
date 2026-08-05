@@ -1,9 +1,7 @@
 ---
-title: "Pronunciación de las 26 letras"
+title: "Pronunciación fácil"
 weight: 9
 ---
-
-Entre las 26 letras del inglés, 5 son vocales —A, E, I, O y U—, mientras que las 21 restantes son consonantes. R, W e Y a veces se combinan con las vocales para funcionar en conjunto, y por ello se llaman "semivocales".
 
 Esta sección repasa la pronunciación de las palabras en el orden de las 26 letras, mostrando cómo las palabras se "deletrean en voz alta" a partir de las letras.
 
@@ -67,7 +65,7 @@ Esta sección repasa la pronunciación de las palabras en el orden de las 26 let
 - Sonido abierto [ī]: p. ej. nice.
 - Sonido cerrado [i]: p. ej. sit.
 - Largo débil [i̊r]: p. ej. bird.
-- Breve débil [i̊]:
+- Breve débil [i̊]: p. ej. evil.
 - Ligero [i]: p. ej. lily.
 - Sonido largo [ĩ]: p. ej. police.
 
@@ -99,6 +97,7 @@ Esta sección repasa la pronunciación de las palabras en el orden de las 26 let
 - Sonido cerrado: p. ej. hot.
 - Largo débil: sustituido, se pronuncia /or/, p. ej. force.
 - Breve débil: sonido /ǝ/.
+- Combinaciones de vocales: [oo].
 - Combinaciones de vocales: [ou], [ow], p. ej. loud, cow.
 - Combinaciones de vocales: [oi], [oy], p. ej. oil, boy.
 
@@ -136,11 +135,11 @@ Esta sección repasa la pronunciación de las palabras en el orden de las 26 let
 ## U u
 
 - Sonido abierto: se pronuncia /yu:/, p. ej. duty; detrás de L, R se pronuncia /u:/, p. ej. blue, ruler.
-- Combinaciones: oo, ui, eu, ew.
+- Combinaciones: ui, eu, ew.
 - Sonido cerrado: p. ej. but.
 - Largo débil: p. ej. burn.
-- Breve débil: sonido [ǝ].
-- Ligero: raro, p. ej. busy.
+- Breve débil: sonido /ǝ/.
+- Ligero: raro, p. ej. busy, minute.
 
 ## V v
 
@@ -148,7 +147,7 @@ Esta sección repasa la pronunciación de las palabras en el orden de las 26 let
 
 ## W w
 
-- Como consonante, igual que la w del pinyin chino.
+- Como consonante, igual que el pinyin chino [w].
 - Como vocal, equivalente a la letra u.
 - Combinaciones: aw, ew, ow.
 

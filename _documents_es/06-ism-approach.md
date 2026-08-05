@@ -5,19 +5,70 @@ weight: 6
 
 Los morfemas se dividen en prefijos, raíces, sufijos y vocales de enlace.
 
-Dado que los prefijos y sufijos son pocos, mientras que las raíces son numerosas, se pueden memorizar los prefijos y sufijos e ir acumulando raíces gradualmente con el tiempo. Los prefijos y las raíces portan cada uno un significado original definido, mientras que los sufijos sirven para cambiar la categoría gramatical. Al separar con guiones el prefijo, la raíz y el sufijo de una palabra, el significado original de la palabra queda patente; una palabra que antes parecía un todo indivisible se descompone en componentes orgánicamente unificados. De este modo, se puede inferir aproximadamente el significado de una palabra a partir de su prefijo y su raíz, y determinar con precisión su categoría gramatical a partir de su sufijo. Los sufijos suelen formarse combinando y transformando dos o más sufijos; estos sufijos múltiples también se segmentan para revelar el proceso de transformación de la categoría gramatical de la palabra.
+Dado que los prefijos y sufijos son pocos, mientras que las raíces son numerosas, se pueden memorizar los prefijos y sufijos e ir acumulando raíces gradualmente con el tiempo. Los prefijos y las raíces portan cada uno un significado original definido, mientras que los sufijos sirven para cambiar la categoría gramatical. Al separar con guiones el prefijo, la raíz y el sufijo de una palabra, el significado original de la palabra queda patente; una palabra que antes parecía un todo indivisible se descompone en componentes. De este modo, se puede inferir aproximadamente el significado de una palabra a partir de su prefijo y su raíz, y determinar con precisión su categoría gramatical a partir de su sufijo. Los sufijos suelen formarse combinando y transformando uno o más sufijos; estos sufijos múltiples también se segmentan para revelar el proceso de transformación de la categoría gramatical de la palabra.
 
 ## Raíces
 
 Dado que las raíces son numerosas, a continuación solo se enumera una pequeña parte de las más comunes. Para más, consúltese un diccionario de raíces pertinente.
 
-Resumen de las raíces más comunes:
-
-ag, act = hacer; agr = campo; am = amor; anim = mente, espíritu, vida; ann, enn = año; astro = estrella; audi = oír; bell = guerra; bio = vida, ser vivo; brev = corto; ced = ir; cent = cien; center, centr = centro; cid, cis = matar, cortar; claim, clam = clamar; clar = claro; clud, clos = cerrar; cogn = conocer; cord = corazón; cosm = universo, mundo; cred = creer; cur, cours = correr; cycl = círculo, anillo; di = día; dict = decir; duc, duct = conducir; ed = comer; fact = hacer; fer = llevar, traer; flu = fluir; form = forma, figura; fract, frag = romper; fus = verter; gen = origen; geo = tierra; grad = paso, ir; gram = escribir, registrar; graph = escribir, trazar; gress = caminar; hap = azar, suerte; hospit = huésped; insul = isla; hydra = agua; ject = lanzar; junct = unir; lect, leg, lig = elegir, reunir; lev = levantar; liber = libre; lingu = lenguaje; liter = letra; loc = lugar; log = palabra; loqu = hablar; manu = mano; medi = medio; memor = memoria; milit = soldado; min = pequeño, menos; mob, mot, mov = mover; mort = muerte; nov = nuevo; numer = número; oper = trabajar; opt = luz; path = sentimiento, enfermedad; pel = empujar, impulsar; pend, pen = colgar; phon = sonido; plen = lleno; pon, pos = colocar; popul = gente; port = llevar; prim = primero; psych = mente; pur = puro; rect = recto; rid, ris = reír; rupt = romper; scend, scens, scent = trepar; sci = saber; sens, sent = sentir; sol = sol; spec = mirar; spir = respirar, vida; tact, tang, tag = tocar; tail = cortar; tain, ten, tin = tener, contener; tect = cubrir; tele = lejos; tend, tens, tent = estirar; text = tejer; therm = calor; tor, tort = torcer; tract = arrastrar, tirar; un, uni = uno; ut = usar; vac, van = vacío; vari = cambiar; ven = venir; vert, vers = girar; vid, vis = ver; vit, viv = vida; volv = rodar; wis, wit = saber
+| Raíz | Significado | Raíz | Significado |
+|---|---|---|---|
+| ag, act | hacer | agr | campo |
+| am | amor | anim | mente, espíritu, vida |
+| ann, enn | año | astro | estrella |
+| audi | oír | bell | guerra |
+| bio | vida, ser vivo | brev | corto |
+| ced | ir | cent | cien |
+| center, centr | centro | cid, cis | matar, cortar |
+| claim, clam | clamar | clar | claro |
+| clud, clos | cerrar | cogn | conocer |
+| cord | corazón | cosm | universo, mundo |
+| cred | creer | cur, cours | correr |
+| cycl | círculo, anillo | di | día |
+| dict | decir | duc, duct | conducir |
+| ed | comer | fact | hacer |
+| fer | llevar, traer | flu | fluir |
+| form | forma, figura | fract, frag | romper |
+| fus | verter | gen | origen |
+| geo | tierra | grad | paso, ir |
+| gram | escribir, registrar | graph | escribir, trazar |
+| gress | caminar | hap | azar, suerte |
+| hospit | huésped | insul | isla |
+| hydra | agua | ject | lanzar |
+| junct | unir | lect, leg, lig | elegir, reunir |
+| lev | levantar | liber | libre |
+| lingu | lenguaje | liter | letra |
+| loc | lugar | log | palabra |
+| loqu | hablar | manu | mano |
+| medi | medio | memor | memoria |
+| milit | soldado | min | pequeño, menos |
+| mob, mot, mov | mover | mort | muerte |
+| nov | nuevo | numer | número |
+| oper | trabajar | opt | vista |
+| path | sentimiento, enfermedad | pel | empujar, impulsar |
+| pend, pen | colgar | phon | sonido |
+| plen | lleno | pon, pos | colocar |
+| popul | gente | port | llevar |
+| prim | primero | psych | mente |
+| pur | puro | rect | recto |
+| rid, ris | reír | rupt | romper |
+| scend, scens, scent | trepar | sci | saber |
+| sens, sent | sentir | sol | sol |
+| spec | mirar | spir | respirar, vida |
+| tact, tang, tag | tocar | tail | cortar |
+| tain, ten, tin | tener, contener | tect | cubrir |
+| tele | lejos | tend, tens, tent | estirar |
+| text | tejer | therm | calor |
+| tor, tort | torcer | tract | arrastrar, tirar |
+| un, uni | uno | ut | usar |
+| vac, van | vacío | vari | cambiar |
+| ven | venir | vert, vers | girar |
+| vid, vis | ver | vit, viv | vida |
+| volv | rodar | wis, wit | saber |
 
 ## Prefijos
 
-A continuación se clasifican los prefijos comunes y sus variantes para facilitar la memorización. Los prefijos enumerados aquí son los de uso común y no representan todos los prefijos. La Tabla 15 muestra los prefijos y sus reglas de variante; la Tabla 16 muestra los prefijos numéricos.
+A continuación se clasifican los prefijos comunes y sus variantes para facilitar la memorización. Los prefijos enumerados aquí son los de uso común y no representan todos los prefijos.
 
 La forma más común de variación de prefijo es la "asimilación de prefijo", que significa que la letra consonántica final del prefijo se asimila para coincidir con la primera letra de la raíz, a fin de facilitar una pronunciación fluida.
 
@@ -40,7 +91,6 @@ La forma más común de variación de prefijo es la "asimilación de prefijo", q
 | inter- | intra-, intro-<br>pasa a intel- antes de l. | entre |
 | contra- | variantes contre-, contro | contra, no |
 | se- | pasa a sed- antes de vocales. | aparte |
-| supresión de letra final | multi-, myria-, octa-,<br>cata-, para-, endo-,<br>ento-, penta-, quinque-, tetra-<br>suprimen la letra final del prefijo antes de vocales.<br>anti- pierde la i antes de vocales o h<br>apo-, epi- suprimen la letra final antes de raíces que empiezan por h | |
 
 **Tabla 16 — Prefijos numéricos**
 
@@ -54,7 +104,25 @@ La forma más común de variación de prefijo es la "asimilación de prefijo", q
 
 Otros prefijos comunes además de los de las Tablas 15 y 16 se enumeran a continuación:
 
-ante- = antes, frente; auto- = propio; be- = hacer; bene- = bueno; by- = lateral, suplente; circum- = alrededor; counter- = contra; de- = intensivo; dia- = a través; endo- = dentro; eu- = bueno; fore- = antes; hetero- = diferente; holo- = entero; homo- = mismo; hyper- = sobre; hypo- = debajo; infra- = debajo; iso- = igual; mal-/male- = malo; meta- = más allá, cambio; mis- = error; neo- = nuevo; non- = no; omni- = todo; out- = fuera; over- = sobre; paleo- = antiguo; pan- = todo; para- = al lado; pen-/pene- = casi; peri- = alrededor; poly- = muchos; post- = después; pre- = antes; pro- = adelante; proto- = primero; pseudo- = falso; re- = de nuevo; retro- = hacia atrás; sino- = China; step- = parentastro; stereo- = sólido; super- = sobre, encima; supra- = encima; trans- = a través; tele- = lejos; ultra- = más allá; under- = debajo; vice- = suplente; with- = atrás, contra
+| Prefijo | Significado | Prefijo | Significado | Prefijo | Significado |
+|---|---|---|---|---|---|
+| ante- | antes, frente | auto- | propio | be- | hacer |
+| bene- | bueno | by- | lateral, suplente | circum- | alrededor |
+| counter- | contra | de- | intensivo | dia- | a través |
+| endo- | dentro | eu- | bueno | fore- | antes |
+| hetero- | diferente | holo- | entero | homo- | mismo |
+| hyper- | sobre | hypo- | debajo | infra- | debajo |
+| iso- | igual | mal-/male- | malo | meta- | más allá, cambio |
+| mis- | error | neo- | nuevo | non- | no |
+| omni- | todo | out- | fuera | over- | sobre |
+| paleo- | antiguo | pan- | todo | para- | al lado |
+| pen-/pene- | casi | peri- | alrededor | poly- | muchos |
+| post- | después | pre- | antes | pro- | adelante |
+| proto- | primero | pseudo- | falso | re- | de nuevo |
+| retro- | hacia atrás | sino- | China | step- | parentastro |
+| stereo- | sólido | super- | sobre, encima | supra- | encima |
+| trans- | a través | tele- | lejos | ultra- | más allá |
+| under- | debajo | vice- | suplente | with- | atrás, contra |
 
 ## Sufijos
 
@@ -92,11 +160,11 @@ La mayoría de los estudiantes saben añadir -ly a un adjetivo para formar un ad
 
 Reglas de variación de sufijos:
 
-1. Cambiar y por i: un morfema terminado en y cambia la y por i cuando se añade otro sufijo; si ese sufijo empieza por i, solo se conserva una i.
+1. **Cambiar y por i**: un morfema terminado en y cambia la y por i cuando se añade otro sufijo; si ese sufijo empieza por i, solo se conserva una i.
 
-2. Suprimir e: cuando se añade un sufijo que empieza por vocal o semivocal después de una letra muda e, la e se suprime; cuando se añade un sufijo que empieza por consonante, la e se conserva. Sin embargo, como en changeable, la e se conserva para evitar que la g cambie de sonido. (Dado que una e muda final sirve de marca para distinguir los sonidos abiertos y cerrados, suprimirla a veces puede provocar confusión entre sonidos abiertos y cerrados —precaución.)
+2. **Suprimir e**: cuando se añade un sufijo que empieza por vocal o semivocal después de una letra muda e, la e se suprime; cuando se añade un sufijo que empieza por consonante, la e se conserva. Sin embargo, como en changeable, la e se conserva para evitar que la g cambie de sonido. (Dado que una e muda final sirve de marca para distinguir los sonidos abiertos y cerrados, suprimirla a veces puede provocar confusión entre sonidos abiertos y cerrados —precaución.)
 
-3. Duplicar: una sílaba cerrada acentuada que termina en una sola letra vocal más una letra consonántica duplicable duplica esa consonante final duplicable cuando se añaden ciertos sufijos que empiezan por vocal, -y o -le (los sufijos de duplicación más comunes se muestran en la Tabla 18). Por ejemplo: app-le (sílaba cerrada acentuada, duplicada); tab-le (sílaba abierta acentuada, no duplicada); happ-y (sílaba cerrada acentuada, duplicada).
+3. **Duplicar**: una sílaba cerrada acentuada que termina en una sola letra vocal más una letra consonántica duplicable duplica esa consonante final duplicable cuando se añaden ciertos sufijos que empiezan por vocal, -y o -le. Por ejemplo: app-le (sílaba cerrada acentuada, duplicada); tab-le (sílaba abierta acentuada, no duplicada); happ-y (sílaba cerrada acentuada, duplicada).
 
 A la inversa, el hecho de que se produzca o no la duplicación puede usarse para determinar si la letra vocal precedente está en una sílaba abierta o cerrada.
 
@@ -107,53 +175,26 @@ La letra consonántica C puede duplicarse como cc o ck según la letra vocal que
 
 Nótese la distinción: la asimilación de prefijo no es duplicación, como en affect; y algunas palabras contienen intrínsecamente letras duplicadas que no son el resultado de una duplicación, como en ill, bill, billion, passage.
 
-**Tabla 18 — Sufijos comunes que duplican la consonante**
-
-|  | Sufijos que duplican la consonante |
-|---|---|
-| A | -å, -år, -årẏ, -ȧage, |
-| E | -ēe, -e̊r, -e̊rẏ, -ed, -est, -ėy, (tras n/r)-e̊l, -e̊n, |
-| I,Y | -ẏ, -i- (deformado a partir de -y), -ing |
-| O | -ō, (tras l/r)-ōw, -o̊r/-o̊ur, -o̊n, -o̊m, -o̊rẏ |
-| L | -le |
-
 A continuación se ofrecen algunos ejemplos de variación de sufijos, aunque no son una lista exhaustiva; la sección de ejemplos de palabras mostrará con claridad las diversas variaciones de los sufijos y sus cambios de categoría gramatical.
 
--u-le→-ule→-ul-;
-
--i-le→-ile→-il-;
-
--i-fy→-ify→-ifi-→-if-;
-
--le-ing→-ling;
-
--le-er→-ler;
-
--le-ed→-led;
-
--i-ous→-ious;
-
--i-on→-ion;
-
--acy-ous→-acious;
-
--acy-ty→acity;
-
--ist-er→-istr (pocos casos);
-
--ate-ion→-ation;
-
--ate-ic→-at-ic;
-
--ate-ive→-at-ive;
-
--ate-ory→-at-ory;
-
--ary-um→-ari-um;
-
--ory-um→-ori-um;
-
--acy-ous→-aci-ous.
+- -u-le ⟹ -ule ⟹ -ul-
+- -i-le ⟹ -ile ⟹ -il-
+- -i-fy ⟹ -ify ⟹ -ifi- ⟹ -if-
+- -le-ing ⟹ -ling
+- -le-er ⟹ -ler
+- -le-ed ⟹ -led
+- -i-ous ⟹ -ious
+- -i-on ⟹ -ion
+- -acy-ous ⟹ -acious
+- -acy-ty ⟹ acity
+- -ist-er ⟹ -istr (pocos casos)
+- -ate-ion ⟹ -ation
+- -ate-ic ⟹ -at-ic
+- -ate-ive ⟹ -at-ive
+- -ate-ory ⟹ -at-ory
+- -ary-um ⟹ -ari-um
+- -ory-um ⟹ -ori-um
+- -acy-ous ⟹ -aci-ous
 
 ## Combinaciones comunes de prefijos y sufijos
 

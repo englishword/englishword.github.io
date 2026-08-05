@@ -3,6 +3,18 @@ title: "IPM — Pronunciación y Significado Integrados"
 weight: 7
 ---
 
+Es innegable que existe una fuerte conexión entre el sonido y el significado. Si uno simplemente escucha, la relación entre sonido y significado es fácil de captar; sin embargo, expresar esa relación por escrito es sumamente difícil.
+
+**1. El sonido es holográfico; la escritura es discreta.**
+
+Cuando escuchas un fragmento de música o una frase, lo que recibes es la suma de tono, timbre, ritmo, acento y entonación —una percepción holística y tridimensional. Tu cerebro no necesita desmontarla; la intuición por sí sola te dice al instante si es triste, viva o enojada. Pero en el momento en que intentas «escribir» esa sensación, te ves obligado a fragmentar la onda sonora continua en símbolos estáticos y lineales. Al pasar de un todo holográfico a símbolos lineales, el 90 % de la información se pierde inevitablemente.
+
+**2. La intuición es instantánea; la lógica va por detrás.**
+
+Cuando escuchas la palabra slither, la fricción de la lengua contra los dientes evoca al instante una asociación física de «resbaladizo, deslizante». Pero para explicar por escrito «por qué sl sugiere deslizamiento», tendrías que diseccionar las acciones de los órganos vocales y el flujo del aire. Para cuando termina la explicación, esa «belleza» y esa «intuición» instantáneas ya hacen tiempo que desaparecieron.
+
+Y, sin embargo, esta sección aún intenta describir la relación entre el sonido y el significado únicamente con palabras, lo cual resulta inevitablemente esotérico y poco convincente, pero este libro no puede hacer otra cosa. Para comprender verdaderamente la relación entre el sonido y el significado, el modo más directo y eficaz es sencillamente escuchar y hablar, una y otra vez.
+
 ## Sílaba central
 
 Toda palabra tiene una sílaba central. La sílaba central es la sílaba más importante de toda la palabra; ya sea al escuchar, hablar, leer o escribir, debe captarse con precisión. En circunstancias normales, la sílaba central está formada por la letra central y la vocal acentuada que la sigue.
@@ -17,7 +29,7 @@ Al escribir, procura no escribir mal las pocas letras que contiene la sílaba ce
 
 Por ejemplo, en intimidate (in-𝓽im-id-āte), la sílaba central es 𝓽im; captar la letra "𝓽" de un vistazo y abarcar las demás letras con la visión periférica permite asaltar al instante el significado interno de toda la palabra, en lugar de recorrer desde la letra "i" hasta la letra "e" —i→n→t→i→m→i→d→a→t→e— y luego recuperar su significado desde el cerebro. Esta capacidad debe cultivarse mediante práctica abundante.
 
-## Fonema central
+## Letras centrales
 
 Toda palabra tiene una o dos letras centrales. La letra central suele ser la primera letra de la palabra o la primera letra de la raíz. Para una palabra sin prefijo, es la primera letra de la palabra; para una palabra con prefijo, es la primera letra de la raíz. Dado que el inglés presenta combinaciones de varias consonantes, estas también son letras centrales. Los casos de letras centrales se muestran en la Tabla 22:
 
@@ -37,11 +49,7 @@ Algunas palabras son compuestas, formadas por la combinación de dos palabras, y
 
 Al memorizar palabras, debemos intentar establecer una conexión entre el significado de la palabra y su letra central, fonema y morfema; por un lado, esto nos permite apreciar con mayor precisión las connotaciones de las 26 letras y, por otro, es muy útil para captar el significado vago de la palabra. Esta capacidad debe cultivarse gradualmente en el proceso de memorizar palabras.
 
-Por ejemplo, la letra central de good, great, God, etc. es G, por lo que sabemos que la letra G porta un sentido de bondad; del mismo modo, a partir de home, house, hold, have, help, sabemos que la letra H tiene el significado de sostener y proteger; y a partir de light, relate, lace, line, long, sabemos que la letra L tiene el significado de línea y conexión.
-
-Las consonantes distintas de la letra central también pueden portar parte del significado, pero este no es el foco, y este libro no trata esas consonantes, como la ll de full, fill, y la d de good. Los lectores interesados pueden reflexionar por su cuenta.
-
-En el Capítulo 3 de este libro, las letras centrales de todas las palabras se marcan en negrita; las connotaciones de las 26 letras deben ser apreciadas en gran medida por el lector gradualmente a lo largo del estudio.
+Por ejemplo, la letra central de good, great, God, etc. es G, por lo que sabemos que la letra G porta un sentido de bondad; del mismo modo, a partir de home, house, hold, have, help, sabemos que la letra H tiene el significado de sostener y proteger; y a partir de light, relate, lace, line, long, sabemos que la letra L tiene el significado de línea y conexión. Sin embargo, esta es una intuición esotérica que «puede captarse pero no expresarse con palabras»; las connotaciones de las letras centrales deben ser apreciadas por el lector gradualmente a lo largo del estudio.
 
 ## Significado de los fonemas centrales
 
@@ -60,61 +68,65 @@ La pronunciación de las vocales porta igualmente un significado rico; el signif
 
 ### Significado de los fonemas consonánticos
 
-- \[b]: estallido, explosionar, romper, desnudar, bloquear,
-- \[c]: correr, ir, tomar, agarrar, cantar, clamorear
-- \[d]: pesado, que se hunde,
-- \[f]: viento, soplar, volar, ligero,
-- \[g]: tierra, grande, vida, dar
-- \[h]: alto, soplar, exhalar,
-- \[j]: alegre, conectar, chorro,
-- \[k]: abierto, nudo, dar patadas, golpear,
-- \[l]: línea, tirar, conectar,
-- \[m]: madre, femenino, montaña, mover
-- \[n]: nacimiento, negación
-- \[p]: plano, palmadita, golpear, empujar
-- \[r]: moler, frotar, áspero, subir, emitir,
-- \[s]: exhalar, inhalar, sentarse,
-- \[t]: marcar, golpear, retorcer
-- \[v]: mirar, girar, volver, victoria
-- \[w]: agua, ola, ir, mover,
+Lo siguiente es solo una descripción textual aproximada, que debe captarse de forma intuitiva, no un resumen de reglas.
+
+- \[b]: estallido, explosionar, romper, desnudar, bloquear, …
+- \[c]: correr, ir, tomar, agarrar, cantar, clamorear, …
+- \[d]: pesado, que se hunde, …
+- \[f]: viento, soplar, volar, ligero, …
+- \[g]: tierra, grande, vida, dar, …
+- \[h]: alto, soplar, exhalar, …
+- \[j]: alegre, conectar, chorro, …
+- \[k]: abierto, nudo, dar patadas, golpear, …
+- \[l]: línea, tirar, conectar, …
+- \[m]: madre, femenino, montaña, mover, …
+- \[n]: nacimiento, negación, …
+- \[p]: plano, palmadita, golpear, empujar, …
+- \[r]: moler, frotar, áspero, subir, emitir, …
+- \[s]: exhalar, inhalar, sentarse, …
+- \[t]: marcar, golpear, retorcer, …
+- \[v]: mirar, girar, volver, victoria, …
+- \[w]: agua, ola, ir, mover, …
 
 ### Significado de las combinaciones de fonemas consonánticos
 
-- \[bl]: brillo, obstrucción, color, vaguedad, soplo;
-- \[br]: arco, dividir, romper, producir;
-- \[cl]: cruz, sagrado, fe, separar, fusionar, reunir;
-- \[cr]: llorar, trepar, subir;
-- \[dr]: arrastrar, violento, basto, seco/mojado, caer, tirar;
-- \[dw]: bajo, corto, breve;
-- \[fl]: plano, fluir, doblar, volar;
-- \[fr]: fractura, engañar;
-- \[gl]: liso, brillante, brillar, resplandor;
-- \[gn]: saber, nudo, tumor;
-- \[gr]: moler, tallar, escribir, agarrar, grano, significativo, crecer, aumentar;
-- \[kn]: saber, articulación, golpear;
-- \[ph]: hablar, soplar, aparecer;
-- \[pl]: plano/calmo, doblar, pluma, plegar, hablar;
-- \[pr]: frente, primero, original, apoderarse, egoísta, presionar;
-- \[qu]: tomar, buscar;
-- \[sc]: superficie, trepar, cortar, mirar, tallar, ascender;
-- \[scr]: afilado, raspar, luchar, agarrar;
-- \[shr]: encoger, envolver, arrepentirse, chillar, contraer, menos, refinado;
-- \[sk]: superficie, saltar/deslizar;
-- \[sl]: humedad, chupar, lento/flojo, esbelto, delgado, resbalar;
-- \[sm]: untar, oler, atar/golpear, pequeño, diminuto;
-- \[sn]: nasal, secreto;
-- \[sp]: pequeño punto, dispersar, hablar, girar;
-- \[spl]: partir, manchar, salpicar;
-- \[spr]: irradiar, rociar, salpicar;
-- \[squ]: asentar, apretar, presionar;
-- \[st]: estar de pie, quedarse, quieto, segmento, púa;
-- \[str]: tirar, arrastrar, ruido;
-- \[sw]: doblar, balancear, oscilar;
-- \[thr]: temblar, golpear, saltar, a través de;
-- \[tr]: a través de, llevar, empujar, tirar;
-- \[tw]: retorcer, dos, doble;
-- \[wh]: girar, pregunta;
-- \[wr]: retorcer, doblar, viento, rodar, arrugar, torcer;
+Lo siguiente es solo una descripción textual aproximada, que debe captarse de forma intuitiva, no un resumen de reglas.
+
+- \[bl]: brillo, obstrucción, color, vaguedad, soplo, …
+- \[br]: arco, dividir, romper, producir, …
+- \[cl]: cruz, sagrado, fe, separar, fusionar, reunir, …
+- \[cr]: llorar, trepar, subir, …
+- \[dr]: arrastrar, violento, basto, seco/mojado, caer, tirar, …
+- \[dw]: bajo, corto, breve, …
+- \[fl]: plano, fluir, doblar, volar, …
+- \[fr]: fractura, engañar, …
+- \[gl]: liso, brillante, brillar, resplandor, …
+- \[gn]: saber, nudo, tumor, …
+- \[gr]: moler, tallar, escribir, agarrar, grano, significativo, crecer, aumentar, …
+- \[kn]: saber, articulación, golpear, …
+- \[ph]: hablar, soplar, aparecer, …
+- \[pl]: plano/calmo, doblar, pluma, plegar, hablar, …
+- \[pr]: frente, primero, original, apoderarse, egoísta, presionar, …
+- \[qu]: tomar, buscar, …
+- \[sc]: superficie, trepar, cortar, mirar, tallar, ascender, …
+- \[scr]: afilado, raspar, luchar, agarrar, …
+- \[shr]: encoger, envolver, arrepentirse, chillar, contraer, menos, refinado, …
+- \[sk]: superficie, saltar/deslizar, …
+- \[sl]: humedad, chupar, lento/flojo, esbelto, delgado, resbalar, …
+- \[sm]: untar, oler, atar/golpear, pequeño, diminuto, …
+- \[sn]: nasal, secreto, …
+- \[sp]: pequeño punto, dispersar, hablar, girar, …
+- \[spl]: partir, manchar, salpicar, …
+- \[spr]: irradiar, rociar, salpicar, …
+- \[squ]: asentar, apretar, presionar, …
+- \[st]: estar de pie, quedarse, quieto, segmento, púa, …
+- \[str]: tirar, arrastrar, ruido, …
+- \[sw]: doblar, balancear, oscilar, …
+- \[thr]: temblar, golpear, saltar, a través de, …
+- \[tr]: a través de, llevar, empujar, tirar, …
+- \[tw]: retorcer, dos, doble, …
+- \[wh]: girar, pregunta, …
+- \[wr]: retorcer, doblar, viento, rodar, arrugar, torcer, …
 
 ## Las consonantes son estáticas, las vocales son dinámicas
 
@@ -126,34 +138,29 @@ En la flexión de tiempo o de categoría gramatical de las palabras inglesas, lo
 
 1) Flexión de la forma base, el pasado y el participio pasado de los verbos
 
-begin    began    begun
-
-bite     bit      bitten
-
-see      saw      seen
+| Forma base | Pasado | Participio pasado |
+|---|---|---|
+| be𝓰in | be𝓰an | be𝓰un |
+| 𝓫ite | 𝓫it | 𝓫itten |
+| 𝓼ee | 𝓼aw | 𝓼een |
 
 2) Cambio de categoría gramatical
 
-full      fill
-
-sit       seat
-
-choose    choice
-
-bind      band
+|  |  |
+|---|---|
+| 𝓯ull | 𝓯ill |
+| 𝓼it | 𝓼eat |
+| 𝓬𝓱oose | 𝓬𝓱oice |
+| 𝓫ind | 𝓫and |
 
 Dado que los seres humanos comparten las mismas condiciones físicas y viven en el mismo entorno, esto determina fundamentalmente que las distintas lenguas terminarán por converger en sus sonidos del habla. A continuación se ofrecen unos pocos de los ejemplos más evidentes. A partir de estos ejemplos se puede observar que el sonido y el significado de las distintas lenguas están interconectados. Esto resulta especialmente evidente en los verbos, como se ilustra más abajo.
 
-back (背 bèi, «llevar»)　　bomb (爆 bào, «explotar»)　　do (打 dǎ, «golpear»)
-
-give (给 gěi, «dar»)　　send (送 sòng, «enviar»)　　bind (绑 bǎng, «atar»)
-
-fail (废 fèi, «desperdiciar»)　　pan (盘 pán, «plato»)　　mop (抹 mǒ, «limpiar»)
-
-cheat (欺 qī, «engañar»)　　lug (拉 lā, «tirar»)　　law (律 lǜ, «ley»)
-
-pour (泼 pō, «salpicar»)　　warp (弯 wān, «doblar»)　　go (归 guī, «retornar»)
-
-quick (快 kuài, «rápido»)　　whole (合 hé, «unir»)　　harm (害 hài, «dañar»)
-
-lazy (懒 lǎn, «perezoso»)
+|  |  |  |
+|---|---|---|
+| 背（𝓫ei） 𝓫ack «llevar» | 爆（𝓫ao） 𝓫omb «explotar» | 打（𝓭a） 𝓭o «golpear» |
+| 给（𝓰ei） 𝓰ive «dar» | 送（𝓼ong） 𝓼end «enviar» | 绑（𝓫ang） 𝓫ind «atar» |
+| 废（𝓯ei） 𝓯ail «desperdiciar» | 盘（𝓹an） 𝓹an «plato» | 抹（𝓶o） 𝓶op «limpiar» |
+| 欺（𝓺i） 𝓬𝓱eat «engañar» | 拉（𝓵a） 𝓵ug «tirar» | 律（𝓵v） 𝓵aw «ley» |
+| 泼（𝓹o） 𝓹our «salpicar» | 弯（𝔀an） 𝔀arp «doblar» | 归（𝓰ui） 𝓰o «retornar» |
+| 快（𝓴𝓾ai） 𝓺𝓾ick «rápido» | 合（𝓱e） 𝕨𝓱ole «unir» | 害（𝓱ai） 𝓱arm «dañar» |
+| 懒（𝓵an） 𝓵azy «perezoso» |  |  |

@@ -109,10 +109,10 @@ Sea cual sea la letra que lleve la línea horizontal encima, se lee con el sonid
 
 | | -A | -E | -I | -O | -U |
 |---|---|---|---|---|---|
-| A- | | | [ āi ] | | [ ãu ] |
+| A- | | | [ āi ] | | <font color="red">[ ãu ]</font> |
 | E- | [ ēa ] | [ ēe ] | [ ēi ] | | [ eū ] |
 | I- | | [ iē ] | | | |
-| O- | [ ōa ] | | [ oi ] | [ oo ] | [ ōu ] |
+| O- | [ ōa ] | | <font color="red">[ oi ]</font> | <font color="red">[ oo ]</font> | [ ōu ] |
 | U- | | | [ ūi ] | | |
 
 *Nota: oi, oo y au no se leen ni según la primera ni según la segunda letra; deben memorizarse por separado.*
@@ -173,39 +173,37 @@ Sea cual sea la letra que lleve la línea horizontal encima, se lee con el sonid
 >
 > **Práctica de lectura**
 >
-> pass after last class grass half dance ask
+> pàss àfter làst clàss gràss hàlf dànce àsk
 >
-> all also always
+> ãll ãlso ãlways
 >
-> meat deal peak sea cease
+> mēat dēal pēak sēa cēase
 >
 > brèad brèakfåst brèath brèadth plèasůre dèad dèaf hèad hèavẏ
 >
 > breāk greāt greātly steāk weār peār beār
 >
-> ceiling
+> cēiling
 >
-> freight weigh veil vein rein
+> frèight wèigh vèil vèin rèin
 >
-> dog lock bot cock not
+> lôve sôme môney amông mônkey mônth nône sôn ôther côme côlor
 >
-> love some money among monkey month none son other come color
+> dõ tõ undõ whõ whõse lõse mõve remõve mõvie  prõve apprõve imprõve
 >
-> do to undo who whose lose move remove movie prove approve improve
+> sōul shōulder mōuld
 >
-> soul shoulder mould
+> groūp roūte soūp coūld woūld shoūld
 >
-> group route soup could would should
+> lòud pròud òut abòut sòuth dòubt hòuse
 >
-> loud proud out about south doubt house
->
-> trouble couple cousin
+> trôuble côuple côusin
 >
 > cool
 >
 > book cook good foot look hook
 >
-> blood flood
+> blôod flôod
 
 ## Sustitutos de I y U
 
@@ -214,9 +212,9 @@ Sea cual sea la letra que lleve la línea horizontal encima, se lee con el sonid
 | i ⟹ y | [ ī ] | [ ȳ ] | flȳ |
 | i ⟹ y | [ i ] | [ ẏ ] | lilẏ |
 | ai ⟹ ay | [ āi ] | [ āy ] | sāy |
+| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | ei ⟹ ey | [ ēi ] | [ ēy ] | kēy |
 | ei ⟹ ey | [ èi ] | [ èy ] | thèy |
-| au ⟹ aw | [ ãu ] | [ ãw ] | lãw |
 | eu ⟹ ew | [ eū ] | [ ew̄ ] | new̄ |
 | ou ⟹ ow | [ ōu ] | [ ōw ] | slōw |
 | ou ⟹ ow | [ òu ] | [ òw ] | còw |
@@ -228,15 +226,15 @@ Sea cual sea la letra que lleve la línea horizontal encima, se lee con el sonid
 >
 > AY: bāy rāy wāy sāy hāy pāy Māy lāy
 >
-> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
+> AW: pãw drãw sãw strãw strãwberry̍ lãwn
 >
-> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
+> EY: donkēy monkēy jockēy turkēy hockēy kēy trollēy
 >
 > OW: rainbōw pillōw yellōw windōw bōwl rōw hollōw lōw
 >
 > OW: còw tòwel clòwn òwl cròwn bròwn flòwe̊r tòwe̊r
 >
-> AW: pãw drãw sãw strãw strãwberry̍ lãwn
+> OY: oy̍ste̊r boy̍ còwboy̍ soy̍ toy̍
 
 ## Letra vocal + R
 
@@ -246,7 +244,7 @@ Sea cual sea la letra que lleve la línea horizontal encima, se lee con el sonid
 |---|---|---|---|---|---|
 | Ejemplo | cāre | hēre | fīre | fōre | dūre |
 
-*Nota: cuando un sonido R sigue inmediatamente a un sonido abierto, dado que el sonido R implica una curvatura retrofleja, el sonido abierto cambia automáticamente. El IPS anota el sonido antes del cambio, mientras que el IPA registra el sonido después del cambio; ambos producen el mismo resultado.*
+*Nota: cuando un sonido R sigue inmediatamente a un sonido abierto, dado que el sonido R implica una curvatura retrofleja, el sonido abierto cambia naturalmente. El IPS anota el sonido antes del cambio, mientras que el IPA registra el sonido después del cambio; ambos producen el mismo resultado.*
 
 ### Sonido cerrado + R
 
@@ -268,6 +266,18 @@ Sea cual sea la letra que lleve la línea horizontal encima, se lee con el sonid
 |---|---|---|---|---|
 | Ejemplo | be̊rg | bi̊rd | bůrn | ye̊ar |
 
+> **Ejercicio**
+>
+> **Práctica de lectura**
+>
+> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
+>
+> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
+>
+> OR: porch pork horse horn fort morning corn fork
+>
+> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
+
 ### Otras
 
 | | [ àr ] |
@@ -279,28 +289,20 @@ Sea cual sea la letra que lleve la línea horizontal encima, se lee con el sonid
 > **Práctica de lectura**
 >
 > AR: àrm càr càrd càrt fàrm pàrk gàrde̊n
->
-> ER: siste̊r brôthe̊r unde̊r rooste̊r winte̊r môthe̊r
->
-> IR: ci̊rcůs di̊rtẏ bi̊rd ci̊rcle di̊rt gi̊rl
->
-> OR: porch pork horse horn fort morning corn fork
->
-> UR: tůrtle sůrfing tůrkėy fůr hůrt půrse nůrse
 
 ## Letras consonánticas
 
-Estos incluyen los cinco sonidos cerrados de las letras vocálicas, más unas cuantas consonantes comunes [g] [h] [sh] [w] [y].
-
-| Letra | A | B | C | D | E | F | G |
+| Letra | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Pronunciación | [ā]/[a] | [b] | [s]/[k] | [d] | [ē]/[e] | [f] | [g]/[j] |
-| Letra | H | I | J | K | L | M | N |
-| Pronunciación | [h]/[ch]/[sh] | [ī]/[i] | [j] | [k] | [l] | [m] | [n] |
-| Letra | O | P | Q | | R | S | T |
-| Pronunciación | [ō]/[o] | [p] | [qu]=[kw] | | [r]/[àr] | [s] | [t] |
-| Letra | U | V | W | | X | Y | Z |
-| Pronunciación | [ū]/[u] | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+| Pronunciación | <font color="red">[ā]/[a]</font> | [b] | [s]/[k] | [d] | <font color="red">[ē]/[e]</font> | [f] | [g]/[j] |
+| Letra | H | <font color="red">I</font> | J | K | L | M | N |
+| Pronunciación | [h]/[ch]/[sh] | <font color="red">[ī]/[i]</font> | [j] | [k]/[ck] | [l] | [m] | [n] |
+| Letra | <font color="red">O</font> | P | Q | | R | S | T |
+| Pronunciación | <font color="red">[ō]/[o]</font> | [p] | [qu]=[kw] | | <font color="red">[àr]/[r]</font> | [s] | [t] |
+| Letra | <font color="red">U</font> | V | W | | X | Y | Z |
+| Pronunciación | <font color="red">[ū]/[u]</font> | [v] | [w] | | [ks]/[gz] | [y] | [z] |
+
+Estos incluyen los cinco sonidos cerrados de las letras vocálicas, más unas cuantas consonantes comunes [g] [h] [sh] [w] [y].
 
 Nota: [y] es la /j/ del IPA; este método restaura su forma original.
 
@@ -359,19 +361,19 @@ Nota: [y] es la /j/ del IPA; este método restaura su forma original.
 | g | [ g ] | go | g antes de a, o, u. |
 | | [ j ] | orange | antes de e, i, y¹, ge final de palabra |
 | th | [ th ] | think | |
-| | [ ṫh ] | ṫhis | |
+| | [ ṫh ] | ṫhis | pronombres, artículos, preposiciones, conjunciones |
 | sh | [ sh ] | ship | |
 | ch | [ ch ] | cheep | |
 | | [ ċh ] = [ sh ] | maċhine | |
 | tch | [ tch ] = [ ch ] | catch | |
-| x | [ x ] = [ z ] | xeon | al principio de palabra |
+| x | [ x ] = [ z ] | xenon | al principio de palabra |
 | ex | [ ėx ] = [ ėks ] | excess | x al final o antes de una consonante, con algunas excepciones |
 | | [ ėẋ ] = [ ėgz ] | exact | x antes de una vocal, con algunas excepciones |
 | ph | [ ph ] = [ f ] | photo | |
 | qu | [ qu ] = [ kw ] | quick | |
 | ng | [ ng ] | king | |
 
-¹ Excepciones: finger, get, forget, together, begin, give, gift, girl, tiger
+¹ Excepciones: eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger
 
 > **Ejercicio**
 >

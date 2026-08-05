@@ -7,7 +7,7 @@ Una palabra inglesa es una unidad de sonido, forma y significado; las letras que
 
 Las 26 letras son elementos más fundamentales y microscópicos que las palabras; por tanto, la relación unificada de sonido, forma y significado de las 26 letras es difícil de describir en un lenguaje de nivel superior. Para elaborar las connotaciones de las letras, necesitamos explorar cosas más básicas que las propias letras.
 
-El sonido de una letra está estrechamente relacionado con la estructura fisiológica de los órganos vocales humanos —la boca, la garganta, los pulmones, etc.—. Aunque los sonidos de la naturaleza son ricos y diversos, los sonidos que la boca humana puede producir son limitados. La forma de una letra está estrechamente relacionada con la estructura articular de la mano humana; la estructura fisiológica de la mano humana hace que ciertos símbolos sean aptos para una escritura fácil. El significado de una letra está estrechamente relacionado con la alimentación, el vestido, el alojamiento y el transporte humanos.
+El sonido de una letra está estrechamente relacionado con la estructura fisiológica de los órganos vocales humanos —la boca, la garganta, los pulmones, etc.—. Aunque los sonidos de la naturaleza son ricos y diversos, los sonidos que la boca humana puede producir son limitados. La forma de una letra está estrechamente relacionada con la estructura articular de la mano humana; la estructura fisiológica de la mano humana hace que ciertos símbolos sean aptos para una escritura fácil. El significado de una letra está estrechamente relacionado con la alimentación, el vestido, el alojamiento y el transporte.
 
 Dado que una letra es un todo unificado de sonido, forma y significado, a menudo se da el fenómeno de conversión mutua por pares entre "sonido", "forma" y "significado" (de sonido a significado, de significado a sonido, de forma a significado, de significado a forma, de sonido a forma, de forma a sonido).
 
@@ -19,15 +19,15 @@ La siguiente tabla es la tabla de pronunciación de las letras inglesas; se pued
 
 **Pronunciación de las 26 letras\***
 
-| Letra | A | B | C | D | E | F | G |
+| Letra | <font color="red">A</font> | B | C | D | <font color="red">E</font> | F | G |
 |---|---|---|---|---|---|---|---|
-| Pronunciación | [ā] | [bē] | [cē] | [dē] | [ē] | [ef] | [gē] |
-| Letra | H | I | J | K | L | M | N |
-| Pronunciación | [āch] | [ī] | [jā] | [kā] | [el] | [em] | [en] |
-| Letra | O | P | Q |  | R | S | T |
-| Pronunciación | [ō] | [pē] | [kū] |  | [àr] | [es] | [tē] |
-| Letra | U | V | W |  | X | Y | Z |
-| Pronunciación | [ū] | [vē] | doble-[ū] |  | [eks] | [wī] | [zē] |
+| Pronunciación | <font color="red">[ā]</font> | [bē] | [cē] | [dē] | <font color="red">[ē]</font> | [ef] | [gē] |
+| Letra | H | <font color="red">I</font> | J | K | L | M | N |
+| Pronunciación | [āch] | <font color="red">[ī]</font> | [jā] | [kā] | [el] | [em] | [en] |
+| Letra | <font color="red">O</font> | P | Q |  | <font color="red">R</font> | S | T |
+| Pronunciación | <font color="red">[ō]</font> | [pē] | [kū] |  | <font color="red">[àr]</font> | [es] | [tē] |
+| Letra | <font color="red">U</font> | V | W |  | X | Y | Z |
+| Pronunciación | <font color="red">[ū]</font> | [vē] | doble-[ū] |  | [eks] | [wī] | [zē] |
 
 ## La forma de las letras
 
@@ -61,8 +61,8 @@ Al escribir la línea vertical "\|", se traza de arriba abajo; el círculo "◯"
 - 𝓿:  afilado (sentido antihorario) semicírculo inferior
 - 𝔀:  afilado (sentido antihorario) semicírculo inferior + afilado (sentido antihorario) semicírculo inferior
 - 𝔁:  (sentido horario) semicírculo derecho + (sentido antihorario) semicírculo izquierdo
-- 𝔂:  afilado (sentido antihorario) semicírculo inferior + vertical larga + (sentido horario) semicírculo inferior
-- 𝔃:  guion corto superior + guion corto inferior (conectados en el medio)
+- 𝔂:  afilado (sentido antihorario) semicírculo inferior + (sentido horario) semicírculo inferior
+- 𝔃:  guion corto superior + (conectado en el medio) + guion corto inferior
 
 Entre las letras minúsculas, las cinco letras vocálicas ocupan solo la casilla central; las letras consonánticas que ocupan solo la casilla central son las consonantes de sonido más débil, como las nasales 𝓶, 𝓷, las fricativas 𝓼, 𝔃, y la semivocal 𝔀. Las letras consonánticas que ocupan dos casillas son todas consonantes de sonido más fuerte. Así puede verse que existe una cierta conexión entre la forma de una letra y su pronunciación.
 
@@ -76,7 +76,7 @@ Las letras que ocupan dos casillas son más prominentes visualmente; las letras 
 
 En la escritura a mano rápida, una letra vocal que ocupa una casilla y una letra consonántica que ocupa una casilla probablemente sean barridas velozmente en un solo trazo continuo, mientras que las letras consonánticas que ocupan dos casillas sobresalen hacia arriba o hacia abajo como pinchos, y son los rasgos visuales clave que se captan en la lectura rápida.
 
-Para hacer la letra inicial más prominente, se crearon las letras mayúsculas; una letra mayúscula es muy parecida a su correspondiente minúscula, por lo general habiéndose hecho más alta, más ancha, más grande o afilada.
+Para hacer la letra inicial más prominente, se crearon las letras mayúsculas; una letra mayúscula es muy parecida a su correspondiente minúscula, por lo general habiéndose hecho más alta, más ancha, más grande o afilada, elevándose de una letra discreta a la letra más llamativa de la palabra.
 
 - 𝓐:  afilada, hecha más alta y más grande, elevada de una casilla a dos casillas
 - 𝓑:  agrandada, con un medio círculo derecho extra en la parte superior
@@ -107,7 +107,7 @@ Para hacer la letra inicial más prominente, se crearon las letras mayúsculas; 
 
 ## El significado de las letras
 
-Dado que la forma y el sonido de las letras inglesas están estrechamente relacionados, combinando la forma de la letra y la pronunciación junto con los fonemas, se puede apreciar el significado interno.
+Dado que la forma y el sonido de las letras inglesas están estrechamente relacionados, combinando la forma de la letra y la pronunciación junto con los fonemas, se puede apreciar el significado interno. Esta subsección es un contenido que debe «captarse de forma intuitiva» y no debe tratarse como una regla general.
 
 - 𝓐, 𝓪: al ser la primera de las 26 letras, porta el significado de "primero". Por la forma de A, se asemeja a una punta de flecha, muy afilada, como la Torre Eiffel, y simboliza la masculinidad.
 
@@ -213,21 +213,9 @@ Figura 3. Diagrama de relaciones de las letras consonánticas
 
 La Figura 4 muestra el diagrama de relaciones de las letras vocálicas. Muchas de las letras o combinaciones de letras del diagrama tienen más de una pronunciación; sus casos concretos de pronunciación se han enumerado en la tabla vocálica 9, por lo que aquí no se explican más sus relaciones.
 
-La Tabla 21 muestra la tabla de combinaciones de letras vocálicas; por la tabla se puede observar que no cualesquiera dos letras vocálicas pueden combinarse para formar un solo sonido vocálico.
-
 Figura 4. Diagrama de relaciones de las letras vocálicas
 
 ![Diagrama de relaciones de las letras vocálicas](/images/documents/08-vowel-relationship-en.svg)
-
-**Tabla de combinaciones de vocales**
-
-|  | -A | -E | -I/Y | -O | -U/W | -R |
-|---|---|---|---|---|---|---|
-| A- |  |  | ai/ay |  | au/aw | ar |
-| E- | ea | ee | ei/ey |  | eu/ew | er |
-| I- |  | ie |  |  |  | ir |
-| O- | oa |  | oi/oy | oo | ou/ow | or |
-| U- |  |  | ui |  |  | ur |
 
 ## El significado de las palabras y la traducción de las palabras
 
@@ -241,6 +229,6 @@ El "significado" de una lengua depende de su propia "forma" y "sonido" para exis
 
 ## Captar el significado a partir de la ortografía
 
-El significado de una palabra puede deconstruirse desde múltiples niveles —letras, fonemas, sílabas y morfemas—. Abordándolo desde múltiples aspectos, profundizando capa por capa, desmontando paso a paso y, finalmente, sintetizando los cuatro aspectos, se obtiene el significado más completo y correcto de la palabra.
+El significado de una palabra puede deconstruirse desde múltiples niveles —letras, fonemas, sílabas, morfemas y contexto—. Abordándolo desde múltiples aspectos, profundizando capa por capa, desmontando paso a paso y, finalmente, sintetizando múltiples aspectos, se obtiene el significado más completo y correcto de la palabra.
 
 El "captar el significado a partir de la ortografía" del que trata este libro no significa enunciar con precisión el significado traducido de la palabra, sino más bien el significado vago literal de la palabra. Es especialmente aplicable a las palabras que se ajustan a las reglas de formación de palabras. Este significado vago accede directamente a la connotación esencial de la palabra; es un tipo de significado más científico y rápido, aplicable a estudiantes cuya lengua materna sea cualquier lengua.

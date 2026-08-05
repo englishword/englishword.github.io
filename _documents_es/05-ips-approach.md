@@ -3,27 +3,27 @@ title: "IPS — Pronunciación y Ortografía Integradas"
 weight: 5
 ---
 
-Cada palabra inglesa contiene los siguientes atributos: pronunciación, ortografía y significado. Este método fusiona con eficacia los tres atributos de una palabra, y exige al estudiante memorizar la palabra sobre la base de una pronunciación precisa. Al memorizar palabras con este método, se dominan de manera involuntaria las reglas fonéticas y las reglas de formación de palabras.
+Cada palabra inglesa contiene los siguientes atributos: pronunciación, ortografía y significado. Este método fusiona los tres atributos de una palabra, y exige al estudiante memorizar la palabra sobre la base de una pronunciación precisa. Al memorizar palabras con este método, se asimilan de forma sutil las reglas fonéticas y las reglas de formación de palabras.
 
-Una pronunciación precisa es el fundamento de este método. Hay que pronunciar correctamente cada vocal y cada consonante. La pronunciación de las consonantes es fácil de dominar; el principal reto es la pronunciación de las vocales, y nunca deben confundirse distintas vocales.
+Una pronunciación precisa es el fundamento de este método. Hay que pronunciar correctamente cada vocal y cada consonante. La pronunciación de las consonantes es fácil de dominar; el principal reto es la pronunciación de las vocales, y no deben confundirse distintas vocales.
 
 ## El acento
 
-En el IPA, el símbolo «`» se usa para marcar el acento y el símbolo «ˌ» marca el acento secundario; en este método, el acento puede distinguirse automáticamente por el tipo de vocal, por lo que estos dos símbolos ya no son necesarios.
+En el IPA, el símbolo «ˈ» se usa para marcar el acento y el símbolo «ˌ» marca el acento secundario; en este método, el acento puede distinguirse automáticamente por el tipo de vocal, por lo que estos dos símbolos ya no son necesarios.
 
 El acento se refiere a las vocales, no a las consonantes; una consonante solo puede formar una sílaba acentuada al mezclarse con una vocal acentuada.
 
-El acento es muy importante para la pronunciación correcta de una palabra; el acento determina cómo se leen las vocales de una palabra. Por ejemplo, el prefijo com-: si el acento cae sobre com-, se lee «[com-]», como en comment; si el acento cae después, se lee «[co̊m-]», como en command.
+El acento es muy importante para la pronunciación correcta de una palabra; el acento determina cómo se leen las vocales de una palabra. Por ejemplo, el prefijo com-: si el acento cae sobre com-, se lee «[com-]», como en comme̊nt; si el acento cae después, se lee «[co̊m-]», como en co̊mmand.
 
-En inglés, la posición del acento también puede determinar la categoría gramatical de algunas palabras. Los sustantivos suelen llevar el acento en la parte delantera (la primera vocal), mientras que los verbos suelen llevarlo en la parte trasera (la segunda vocal). Por ejemplo, record: cuando es un sustantivo, el acento va en la parte delantera, y se lee [\`re-cord]; cuando es un verbo, el acento va en la parte trasera, y se lee [rė-\`cord]. Otras palabras de este tipo incluyen address, discount, etc.
+En inglés, la posición del acento también puede determinar la categoría gramatical de algunas palabras. Los sustantivos suelen llevar el acento en la parte delantera (la primera vocal), mientras que los verbos suelen llevarlo en la parte trasera (la segunda vocal). Por ejemplo, record: cuando es un sustantivo, el acento va en la parte delantera, y se lee [ˈre-cord]; cuando es un verbo, el acento va en la parte trasera, y se lee [rė-ˈcord]. Otras palabras de este tipo incluyen address, discount, etc.
 
 En la gran mayoría de los casos, las sílabas de la parte delantera y trasera de una palabra aparecen en una **«alternancia acento-átona»**; por tanto, una vez determinada la posición del acento, también queda determinada la lectura acentuada o átona de la mayoría de las sílabas.
 
 En circunstancias normales, el acento de las palabras de dos y tres sílabas cae sobre la primera sílaba.
 
-Si una palabra lleva un prefijo en la parte delantera, el prefijo suele ser átono, y el acento cae sobre la primera vocal de la raíz. Por ejemplo: ab\`out, be\`cause, etc.
+Si una palabra lleva un prefijo en la parte delantera, el prefijo suele ser átono, y el acento cae sobre la primera vocal de la raíz. Por ejemplo: abˈout, beˈcause, etc.
 
-Si una palabra termina en -ation, la vocal a también suele ser acentuada; por ejemplo: trans\`ation, pronunci\`ation.
+Si una palabra termina en -ation, la vocal a también suele ser acentuada; por ejemplo: transˈlation, pronunciˈation.
 
 La posición del acento de las palabras inglesas presenta varios patrones fijos; se puede acumular experiencia al memorizar palabras.
 
@@ -154,9 +154,9 @@ Ampliando la tabla vocálica básica se obtiene la siguiente tabla.
 | /uə/ | [ūr] |
 | | during |
 | /ə/ | [e̊], [å], [i̊], [o̊], [ů], [o̊u(s)] |
-| | åbout, co̊mputer, dangero̊us|
+| | åbout, ope̊n, evi̊l, pro̊pel, sůpply |
 | /ə:/ | [e̊r], [år], [i̊r], [o̊r], [ůr], [e̊ar], [o̊ur], [e̊ur] |
-|  | her, collar, first, word, occur, learn |
+|  | her, collar, first, word, occur, learn, colour |
 | /ɔi/ | [oi], [oẏ] |
 | | oil, enjoy |
 
@@ -168,10 +168,10 @@ Las líquidas se refieren a los sonidos producidos por las letras R y L. Estas d
 
 - -rr- se pronuncia [r]. Como en merry.
 - Vocal débil o consonante + r se pronuncia [r]. Como en factory, drive.
-- Vocal fuerte + r se pronuncia [e̊]; la vocal puede experimentar un ligero cambio de sonido. Como en dare, here, fire, during.
-- Sonido débil + r, debido a la curvatura retrofleja que lo acompaña, a menudo provoca el alargamiento de la vocal, especialmente cuando a la r le sigue una consonante. Como en verge, birth, storm, burst.
+- Vocal fuerte + r se pronuncia [e̊]; debido a la curvatura retrofleja que lo acompaña, la vocal experimenta un ligero cambio de sonido. Como en dare, here, fire, during.
+- Sonido débil + r + consonante, debido a la curvatura retrofleja que lo acompaña, el sonido débil se alarga. Como en verge, birth, storm, burst.
 
-### Combinación de líquidas y vocales
+### Combinación de líquidas y vocales fuertes
 
 La pronunciación de la letra líquida R combinada con las vocales queda bien reflejada en la tabla vocálica. Cuando la letra líquida R se combina con una vocal, dado que la letra R se pronuncia con una curvatura retrofleja, puede alargar la vocal original o provocar un ligero cambio de sonido. La líquida L tiene la misma función.
 
@@ -208,13 +208,15 @@ Hay dos razones principales para el desplazamiento de letras vocálicas: 1. la p
 
 ## Vocales mudas
 
-En una combinación de letras vocálicas, hay una letra vocálica que desempeña el papel principal en la pronunciación, como la letra e en mēan. Para tales combinaciones de letras vocálicas, este método sostiene que la combinación ēa produce conjuntamente el sonido ē. En una palabra como build, este método considera que la u es muda.
+En una combinación de letras vocálicas, hay una letra vocálica que desempeña el papel principal en la pronunciación, como la letra e en mēan. Para tales combinaciones de letras vocálicas, este método sostiene que la combinación ēa produce conjuntamente el sonido ē. En una palabra como b𝕦ild, este método considera que la u es muda.
 
-Cuando la e está al final de una palabra suele ser muda; por simplicidad, se omite la marca de doble trazo. Cuando la e es muda en medio de una palabra, se marca con letras de doble trazo. De hecho, aparte de prefijos como re-, de-, etc., siempre que aparezca la forma xxxxẹ- o xxxxẹ, la e es muda. Por ejemplo: forẹ-ig̣n, closẹ-ly, pigẹ-on. En una palabra como re-cord, dado que re- es un prefijo, la e se pronuncia.
+Cuando la e está al final de una palabra suele ser muda; por simplicidad, se omite la marca de doble trazo; cuando la e es muda en medio de una palabra, se marca con letras de doble trazo. Por ejemplo: nam𝕖ly, chang𝕖able, h𝕖art, for𝕖in, for𝕖iner, pig𝕖on, g𝕦itar, q𝕦eue, fr𝕚end.
 
-En la combinación gu, la u suele ser muda. Por ejemplo: guess, fatigue. Aquí la g va seguida de una u muda en lugar de e, de modo que la g se pronuncia [g], no [j].
+De hecho, aparte de prefijos como re-, de-, etc., siempre que aparezca la forma xxxx𝕖-xxxx o xxxx𝕖, la e es muda. Por ejemplo: for𝕖-i𝕘n, clos𝕖-ly, pig𝕖-on. En una palabra como re-cord, dado que re- es un prefijo, la e se pronuncia.
 
-En la combinación qu, si la u es muda, entonces la q sola se pronuncia [k]. Por ejemplo: queue, cheque.
+En la combinación gu, la u suele ser muda. Por ejemplo: g𝕦ess, fatig𝕦e. Aquí la g va seguida de una u muda en lugar de e, de modo que la g se pronuncia [g], no [j].
+
+En la combinación qu, si la u es muda, entonces la q sola se pronuncia [k]. Por ejemplo: q𝕦eue, cheq𝕦e.
 
 ## Consonantes
 
@@ -231,9 +233,9 @@ Las reglas detalladas para la pronunciación de las letras consonánticas se mue
 | [t] | t | time |  | [d] | d | day |  |
 | [k] | k / c | kite / can | antes de a, o, u, consonantes / al final | [g] | g | go | g antes de a, o, u |
 | [f] | f / ph / gh | four / photo / tough |  | [v] | v | very |  |
-| [s] | s / c | say / cent | antes de e, i, y | [z] | z / ṡ | zoo / rise | después de vocales, o después de consonantes sonoras |
-| [th] | th | think |  | [ṫh] | ṫh | this | pronombres, artículos, preposiciones, conjunciones |
-| [sh] | sh / ċh | ship / machine |  | [s̃] | s̃ | vision | sufijos especiales |
+| [s] | s / c | say / cent | antes de e, i, y | [z] | z / <font color="red">ṡ</font> | zoo / rise | después de vocales, o después de consonantes sonoras |
+| [th] | th | think |  | [ṫh] | <font color="red">ṫh</font> | this | pronombres, artículos, preposiciones, conjunciones |
+| [sh] | sh / <font color="red">ċh</font> | ship / machine |  | [s̃] | <font color="red">s̃</font> | vision | sufijos especiales |
 | [ch] | ch / tch | cheap / catch |  | [j] | j / g(*) / dg | jeep / orange / judge | antes de e, i, y |
 | [h] | h | his |  | [l] | l | like |  |
 | [kw] | qu | quiet |  | [m] | m | map |  |
@@ -243,9 +245,9 @@ Las reglas detalladas para la pronunciación de las letras consonánticas se mue
 |  |  |  |  | [w] | w | wall |  |
 |  |  |  |  | [y] | y | yes | y al principio de palabra |
 |  |  |  |  | [ks] | x | excess | al final o antes de una consonante |
-|  |  |  |  | [gz] | ẋ | exact | antes de una vocal |
+|  |  |  |  | [gz] | <font color="red">ẋ</font> | exact | antes de una vocal |
 
-(*) forget, give, girl, finger, tiger, begin, etc. son excepciones. Cuando se duplican dos consonantes idénticas, solo se pronuncia una consonante. Por ejemplo: kick, scent, little, etc.
+(*) eager, finger, gear, get, forget, together, altogether, gather, begin, give, gift, girl, linger, tiger, etc. son excepciones. Cuando se duplican dos consonantes idénticas, solo se pronuncia una consonante. Por ejemplo: kick, scent, little, etc.
 
 ## Combinaciones de consonantes
 
@@ -261,11 +263,35 @@ A continuación se presentan combinaciones consonánticas comunes. Las combinaci
 | Tres consonantes | scr-, spr-, str-, shr-, thr-, spl- |
 | Otras | tw- |
 
-## Pronunciaciones especiales de sufijos
+## Pronunciaciones comunes de sufijos
 
-Algunos sufijos de uso común tienen una pronunciación más bien especial, pero el patrón es el mismo; basta con memorizarlos. Por simplicidad, se omite la anotación fonética. Como se muestra en la Tabla 5:
+Las reglas de pronunciación de -ed y -s(-es) son fijas; aunque este libro da anotaciones distintas, por simplicidad pueden dejarse sin marcar.
 
-**Tabla 5 — Algunas pronunciaciones especiales de sufijos**
+### El sufijo -ed
+
+| Regla de pronunciación de -ed | Ejemplo |
+|---|---|
+| Después de consonantes sonoras y vocales [𝕖d] ⟹ [d] | call𝕖d, borrow𝕖d, mov𝕖d |
+| Después de consonantes sordas [𝕖ḋ] ⟹ [t] | ask𝕖ḋ, finish𝕖ḋ, help𝕖ḋ |
+| Después del sonido [t] [ėd] ⟹ [id] | wantėd, startėd |
+| Después del sonido [d] [ėd] ⟹ [id] | needėd, countėd |
+
+### El sufijo -s/-es
+
+| | Regla de pronunciación de -s(-es) | Ejemplo |
+|---|---|---|
+| Después de consonantes | después de los sonidos [s], [z], [sh], [s̃], [ch], [j] añadir -es, pronunciado [ėṡ] ⟹ [iz] | glassėṡ, buzzėṡ, washėṡ, teachėṡ |
+| | después de consonantes sordas añadir s, pronunciado [s] ⟹ [s] | books, typ𝕖s |
+| | después de consonantes sonoras añadir s, pronunciado [ṡ] ⟹ [z] | bagṡ, lin𝕖ṡ, besid𝕖ṡ |
+| Después de vocales | después de la letra o añadir -es, pronunciado [𝕖ṡ] ⟹ [z] | tomato𝕖ṡ, potato𝕖ṡ, do𝕖ṡ |
+| | cambiar -y por i y añadir -es, pronunciado [𝕖ṡ] ⟹ [z] | ladi𝕖ṡ, fli𝕖ṡ |
+| | en caso contrario pronunciado [ṡ] ⟹ [z] | newṡ, dayṡ, boyṡ, beeṡ |
+
+Otros sufijos, como -ly, -ous, -ity, etc., se pronuncian según las reglas; aunque este libro los anota todos, dado que su pronunciación es uniforme, por simplicidad pueden dejarse sin marcar.
+
+### Pronunciaciones especiales de sufijos
+
+Algunos sufijos de uso común tienen una pronunciación más bien especial, pero el patrón es el mismo; basta con memorizarlos. Por simplicidad, este libro omite la anotación fonética para ellos.
 
 | Sufijo especial | Pronunciación | Ejemplo |
 |---|---|---|
@@ -285,58 +311,31 @@ Algunos sufijos de uso común tienen una pronunciación más bien especial, pero
 | -cient | -she̊nt | ancient |
 | -ciency | -shency | efficiency, proficiency |
 
-Las reglas de pronunciación de -ed y -s(-es) son fijas, por lo que por simplicidad este libro no las anota; conviene memorizar las dos tablas siguientes. Como se muestran en las Tablas 6 y 7:
+## Letras consonánticas mudas
 
-**Tabla 6 — Reglas de pronunciación del sufijo -ed**
-
-| Regla de pronunciación de -ed | Ejemplo |
-|---|---|
-| Después de consonantes sonoras y vocales [d] | called, borrowed, moved |
-| Después de consonantes sordas [t] | asked, finished, helped |
-| Después del sonido [t] [id] | wanted, started |
-| Después del sonido [d] [id] | needed, counted |
-
-**Tabla 7 — Reglas de pronunciación del sufijo -s(-es)**
-
-|  | Regla de pronunciación de -s(-es) | Ejemplo |
-|---|---|---|
-| Después de consonantes | después de los sonidos [s], [z], [sh], [s̃], [ch], [j] añadir -es, pronunciado [iz] | glasses, buzzes, washes, teaches |
-|  | después de consonantes sordas añadir s, pronunciado [s] | books, types |
-|  | después de consonantes sonoras añadir s, pronunciado [z] | bags, lines, besides |
-| Después de vocales | después de la letra o añadir -es, pronunciado [z] | tomatoes, potatoes, does |
-|  | cambiar -y por i y añadir -es, pronunciado [z] | ladies, flies |
-|  | en caso contrario pronunciado [z] | news, days, boys, bees |
-
-Otros sufijos, como -ly, -ous, -ity, etc., se pronuncian según las reglas; aunque este libro los anota todos, dado que su pronunciación es uniforme, por simplicidad pueden dejarse sin marcar.
-
-## Consonantes mudas
-
-Las letras consonánticas mudas se indican con una línea horizontal que atraviesa la letra por el medio; si el estudiante ya ha memorizado las reglas de consonantes mudas, pueden dejarse sin marcar. Como se muestra en la Tabla 8:
-
-**Tabla 8 — Consonantes mudas comunes**
+Las letras consonánticas mudas pueden indicarse de diversas maneras —tachado, barras, puntos debajo, etc.—. Para darles prominencia, este libro usa letras de doble trazo (blackboard bold). Si el estudiante ya ha memorizado estas letras mudas, pueden dejarse sin marcar.
 
 | Combinación | Ejemplo |
 |---|---|
-| cḥ | mecḥanic, Cḥrist |
-| g̣ḥ | lig̣ḥt, hig̣ḥ, eig̣ḥt, sig̣ḥ, nig̣ḥt |
-| gḥ | gḥost |
-| g̣n | g̣nat, sig̣n |
-| ḥ | ḥour, ḥonour |
-| ḳn | ḳnife, ḳnow, ḳnee, ḳnock |
-| mḅ | comḅ, lamḅ, thumḅ, dumḅ, climḅ |
-| p̣n | p̣neumonia |
-| p̣s | p̣sychology |
-| rḥ | rḥyme, rḥythm |
-| ẉr | ẉrong, ẉrist, ẉrite, ẉrap, ẉretch, ẉrench |
-| ẉh | ẉho, ẉhose |
-| wḥ | wḥat, wḥen, wḥere, wḥy |
-| -sṭen | lisṭen, cḥrisṭen |
-| -sṭle | whisṭle |
-| Otras | iṣland |
+| 𝕙 | 𝕙our, 𝕙onour |
+| c𝕙 | mec𝕙anic, C𝕙rist |
+| 𝕘𝕙 | li𝕘𝕙t, hi𝕘𝕙, ei𝕘𝕙t, si𝕘𝕙, ni𝕘𝕙t |
+| g𝕙 | g𝕙ost |
+| r𝕙 | r𝕙yme, r𝕙ythm |
+| 𝕘n | 𝕘nat, si𝕘n |
+| 𝕜n | 𝕜nife, 𝕜now, 𝕜nee, 𝕜nock |
+| m𝕓 | com𝕓, lam𝕓, thum𝕓, dum𝕓, clim𝕓 |
+| 𝕡n | 𝕡neumonia |
+| 𝕡s | 𝕡sychology |
+| 𝕨r | 𝕨rong, 𝕨rist, 𝕨rite, 𝕨rap, 𝕨retch, 𝕨rench |
+| 𝕨h | 𝕨ho, 𝕨hose |
+| w𝕙 | w𝕙at, w𝕙en, w𝕙ere, w𝕙y |
+| -is𝕥- | lis𝕥en, c𝕙ris𝕥en, c𝕙ris𝕥mas, whis𝕥le |
+| 𝕤 | i𝕤land |
 
 ## Diferencias entre el inglés americano y el británico
 
-La diferencia entre el inglés americano y el británico puede resumirse en una frase: el inglés americano es más regular que el británico, tanto en la ortografía como en la pronunciación.
+La diferencia entre el inglés americano y el británico puede resumirse en una frase: el inglés americano es más regular que el británico.
 
 ### En la ortografía
 
@@ -390,8 +389,6 @@ La diferencia entre el inglés americano y el británico puede resumirse en una 
 | lĩte̊r | lite̊r |
 
 3) El inglés americano tiende a pronunciar el sonido retroflejo (rótico). Por ejemplo:
-
-car, door, river, party, board, dirty, morning, etc.
 
 | Británico | Americano |
 |---|---|
