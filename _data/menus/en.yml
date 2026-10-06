@@ -25,3 +25,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Extension Privacy Policy"
+    url: "/chrome-extension-doc/"
+    weight: 3
