@@ -5,16 +5,31 @@
   if (!input || !results) return;
 
   var words = null;
+  var loading = null;
   var PAGE_SIZE = 200;   // 每页渲染条数(避免一次画几千行卡顿)
   var page = 1;          // 当前页
   var currentList = [];  // 当前(过滤后)列表,翻页时复用,不必重新过滤
 
-  function load(cb) {
-    if (words) { cb(); return; }
-    fetch(window.WORDS_URL)
-      .then(function (r) { return r.json(); })
-      .then(function (data) { words = data; cb(); })
-      .catch(function () { results.innerHTML = '<p>Failed to load word data.</p>'; });
+  function load() {
+    if (words) return Promise.resolve();
+    if (!loading) {
+      results.innerHTML = '<p>Loading word data…</p>';
+      loading = fetch(window.WORDS_URL)
+        .then(function (r) {
+          if (!r.ok) throw new Error('Word data request failed');
+          return r.json();
+        })
+        .then(function (data) {
+          if (!Array.isArray(data)) throw new Error('Invalid word data');
+          words = data;
+        })
+        .catch(function () {
+          loading = null;
+          count.textContent = '';
+          results.innerHTML = '<p>Failed to load word data. Type to try again.</p>';
+        });
+    }
+    return loading;
   }
 
   function escape(s) {
@@ -52,7 +67,7 @@
     }
 
     var rowsHtml = currentList.slice(start, end).map(function (w) {
-      return '<tr><td>' + escape(w.word) + '</td><td>' + escape(w.ips) + '</td><td>' + escape(w.ipsm) + '</td><td>' + escape(w.meaning).replace(/\n/g, '<br>') + '</td></tr>';
+      return '<tr><td>' + escape(w.word) + '</td><td>' + escape(w.ips) + '</td><td>' + escape(w.ipsm) + '</td><td>' + escape(w.meaning).replace(/\r\n?|\n/g, '<br>') + '</td></tr>';
     }).join('');
 
     var prevDis = page <= 1 ? ' disabled' : '';
@@ -65,7 +80,7 @@
       '<button type="button" data-go="last"' + nextDis + '>Last »</button>' +
       '</div>';
 
-    results.innerHTML = pager + '<table class="word-table"><thead><tr><th>Word</th><th>IPS</th><th>IPSM</th><th>Meaning</th></tr></thead><tbody>' + rowsHtml + '</tbody></table>';
+    results.innerHTML = pager + '<div class="word-table-scroll" tabindex="0" role="region" aria-label="Search results"><table class="word-table"><thead><tr><th>Word</th><th>IPS</th><th>IPSM</th><th>Meaning</th></tr></thead><tbody>' + rowsHtml + '</tbody></table></div>';
   }
 
   function goTo(p) {
@@ -88,17 +103,18 @@
     else if (act === 'last') goTo(totalPages());
   });
 
-  input.addEventListener('input', function () {
-    load(function () {
-      currentList = filter(input.value.trim());
-      page = 1;
-      render();
-    });
-  });
-
-  load(function () {
-    currentList = words.slice();
+  function refresh() {
+    if (!words) return;
+    currentList = filter(input.value.trim());
     page = 1;
     render();
+  }
+
+  input.addEventListener('input', function () {
+    if (words) refresh();
+    // The single initial request will apply the latest input when it completes.
+    else if (!loading) load().then(refresh);
   });
+
+  load().then(refresh);
 })();

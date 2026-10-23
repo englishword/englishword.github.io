@@ -2,11 +2,11 @@
 layout: document
 lang: vi
 title: "Danh sách từ A–Z"
-description: "Duyệt danh sách từ IPSM đầy đủ theo chữ cái — hơn 6000 từ tiếng Anh với phiên âm IPS, phân tích hình vị ISM và ký hiệu IPSM."
+description: "Duyệt danh sách từ IPSM đầy đủ theo chữ cái — hơn 50000 từ tiếng Anh với phiên âm IPS, phân tích hình vị ISM và ký hiệu IPSM."
 hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
-Danh sách từ IPSM nhóm **hơn 6000 từ tiếng Anh** theo gốc từ (lemma) và sắp xếp theo A–Z. Mỗi trang chữ cái liệt kê mọi từ kèm phiên âm **IPS**, phân tích hình vị **ISM** và ký hiệu tổng hợp **IPSM** cùng nghĩa — để bạn thấy cách một gốc từ sinh ra cả một họ từ liên quan.
+Danh sách từ IPSM nhóm **{{ site.data.lexicon.count }} từ tiếng Anh** theo gốc từ (lemma) và sắp xếp theo A–Z. Mỗi trang chữ cái liệt kê mọi từ kèm phiên âm **IPS**, phân tích hình vị **ISM** và ký hiệu tổng hợp **IPSM** cùng nghĩa — để bạn thấy cách một gốc từ sinh ra cả một họ từ liên quan.
 
 ## Duyệt theo chữ cái
 

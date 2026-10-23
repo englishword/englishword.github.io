@@ -2,11 +2,11 @@
 layout: document
 lang: fr
 title: "Liste de mots A–Z"
-description: "Parcourez la liste complète des mots IPSM par lettre — plus de 6000 mots anglais avec prononciation IPS, décomposition morphémique ISM et notation IPSM."
+description: "Parcourez la liste complète des mots IPSM par lettre — plus de 50000 mots anglais avec prononciation IPS, décomposition morphémique ISM et notation IPSM."
 hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
-La liste de mots IPSM regroupe **plus de 6000 mots anglais** par leur lemme racine et les range de A à Z. Chaque page de lettre liste tous les mots avec leur prononciation **IPS**, décomposition morphémique **ISM** et notation combinée **IPSM**, ainsi que le sens — pour voir comment une même racine engendre toute une famille de mots apparentés.
+La liste de mots IPSM regroupe **{{ site.data.lexicon.count }} mots anglais** par leur lemme racine et les range de A à Z. Chaque page de lettre liste tous les mots avec leur prononciation **IPS**, décomposition morphémique **ISM** et notation combinée **IPSM**, ainsi que le sens — pour voir comment une même racine engendre toute une famille de mots apparentés.
 
 ## Parcourir par lettre
 

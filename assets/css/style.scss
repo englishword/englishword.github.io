@@ -133,6 +133,10 @@ body {
   margin: 1rem 0 0;
   select { width: 100%; }
 }
+.word-table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+}
 .word-search {
   margin-top: 2rem;
   input#word-search-input {

@@ -2,11 +2,11 @@
 layout: document
 lang: de
 title: "Wortliste A–Z"
-description: "Durchsuchen Sie die vollständige IPSM-Wortliste nach Buchstabe — über 6000 englische Wörter mit IPS-Aussprache, ISM-Morphemaufschlüsselung und IPSM-Notation."
+description: "Durchsuchen Sie die vollständige IPSM-Wortliste nach Buchstabe — über 50000 englische Wörter mit IPS-Aussprache, ISM-Morphemaufschlüsselung und IPSM-Notation."
 hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
-Die IPSM-Wortliste gruppiert **über 6000 englische Wörter** nach ihrem Stammlemma und ordnet sie von A bis Z. Jede Buchstabenseite listet alle Wörter mit ihrer **IPS**-Aussprache, **ISM**-Morphemaufschlüsselung und der kombinierten **IPSM**-Notation sowie der Bedeutung — damit Sie sehen, wie derselbe Stamm eine ganze Familie verwandter Wörter hervorbringt.
+Die IPSM-Wortliste gruppiert **{{ site.data.lexicon.count }} englische Wörter** nach ihrem Stammlemma und ordnet sie von A bis Z. Jede Buchstabenseite listet alle Wörter mit ihrer **IPS**-Aussprache, **ISM**-Morphemaufschlüsselung und der kombinierten **IPSM**-Notation sowie der Bedeutung — damit Sie sehen, wie derselbe Stamm eine ganze Familie verwandter Wörter hervorbringt.
 
 ## Nach Buchstabe durchsuchen
 

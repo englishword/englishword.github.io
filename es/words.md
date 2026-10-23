@@ -2,11 +2,11 @@
 layout: document
 lang: es
 title: "Lista de palabras A–Z"
-description: "Explora la lista completa de palabras IPSM por letra — más de 6000 palabras en inglés con pronunciación IPS, desglose morfológico ISM y notación IPSM."
+description: "Explora la lista completa de palabras IPSM por letra — más de 50000 palabras en inglés con pronunciación IPS, desglose morfológico ISM y notación IPSM."
 hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
-La lista de palabras IPSM agrupa **más de 6000 palabras en inglés** por su lema raíz y las ordena de la A a la Z. Cada página de letra muestra todas las palabras con su pronunciación **IPS**, desglose morfológico **ISM** y notación combinada **IPSM**, además del significado — para que veas cómo una misma raíz genera toda una familia de palabras relacionadas.
+La lista de palabras IPSM agrupa **{{ site.data.lexicon.count }} palabras en inglés** por su lema raíz y las ordena de la A a la Z. Cada página de letra muestra todas las palabras con su pronunciación **IPS**, desglose morfológico **ISM** y notación combinada **IPSM**, además del significado — para que veas cómo una misma raíz genera toda una familia de palabras relacionadas.
 
 ## Explorar por letra
 

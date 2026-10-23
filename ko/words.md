@@ -2,11 +2,11 @@
 layout: document
 lang: ko
 title: "단어 목록 A–Z"
-description: "IPSM 단어 목록을 글자별로 탐색 — IPS 발음, ISM 형태소 분해, IPSM 표기를 포함한 6000개 이상의 영어 단어."
+description: "IPSM 단어 목록을 글자별로 탐색 — IPS 발음, ISM 형태소 분해, IPSM 표기를 포함한 50000개 이상의 영어 단어."
 hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 ---
 
-IPSM 단어 목록은 **6000개 이상의 영어 단어**를 어근(lemma)별로 묶어 A–Z 순으로 배열합니다. 각 글자 페이지의 모든 단어에는 **IPS** 발음, **ISM** 형태소 분해, **IPSM** 통합 표기 및 뜻이 표시되어, 같은 어근에서 어떻게 관련 단어들이 파생되는지 볼 수 있습니다.
+IPSM 단어 목록은 **{{ site.data.lexicon.count }}개의 영어 단어**를 어근(lemma)별로 묶어 A–Z 순으로 배열합니다. 각 글자 페이지의 모든 단어에는 **IPS** 발음, **ISM** 형태소 분해, **IPSM** 통합 표기 및 뜻이 표시되어, 같은 어근에서 어떻게 관련 단어들이 파생되는지 볼 수 있습니다.
 
 ## 글자별로 탐색
 

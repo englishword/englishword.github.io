@@ -1,0 +1,22 @@
+{
+  "count": 50335,
+  "source": "Installed Python lingose / runtime.sqlite",
+  "package_version": "0.3.0",
+  "runtime_sha256": "05d6b16afa7be720f6339cd3aa030e2bcf54cbfaf8aecb441e62c34c577bebee",
+  "data_version": "c28300841f154faabd0ed28300c577411aff2d8ac9c61df771dc8f6dfb435a20",
+  "sort": [
+    "root_lemma (casefold; missing: word)",
+    "rank (source code; missing last)",
+    "word (casefold)",
+    "word"
+  ],
+  "missing": {
+    "ips": 246,
+    "ism": 85,
+    "ipsm": 332,
+    "root_lemma": 87,
+    "rank": 85,
+    "meaning_en": 4616,
+    "meaning_zh": 4596
+  }
+}

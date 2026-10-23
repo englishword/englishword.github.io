@@ -1,31 +1,12 @@
 #!/usr/bin/env python3
-"""把 words_list.csv 转为 A–Z 26 个字母聚合页(10 种语言各一套)供网站词库浏览/SEO。
+"""生成十语言 A–Z 词库页；来源和 root_lemma / rank 排序与 Search 完全一致。
 
-每个字母页 = 该字母开头的所有 rootLemma 家族的全部成员词,扁平一张大表
-(word | ips | ism | ipsm | meaning),按 rootLemma → rank 排序。
-
-数据源:books/Black/Tables/words_list.csv(8 列:word,ips,ism,rootLemma,rank,ipsm,meaningCN,meaningEN)
-输出:englishword.github.io/_words[_<lang>]/<letter>.md,共 10 套 × 26 页
-  - en  → _words/        meaning ← meaningEN
-  - zh  → _words_zh/     meaning ← meaningCN
-  - 其余 8 语言 → _words_<lang>/   meaning ← meaningEN(CSV 无对应翻译,复用英文,与搜索页硬约束一致)
-
-文案全面本地化:title/description/表头/计数/返回链接按 LANGS 表各语言翻译;
-释义列受数据源限制,非中文一律英文。hreflang 指向全部 10 种语言。
-
-字母键:rootLemma 非空取 rootLemma[0],空则取 word[0](6 个空 rootLemma 按 word 归入)。
-可在任意目录运行,路径基于脚本自身位置计算。与 csv_to_json.py 并存,不替换它。
+仅中文使用中文释义，其余九种语言共用英文释义。缺失字段留空，不丢弃条目。
 """
-import csv
 import html
 import os
-import shutil
 import string
-
-HERE = os.path.dirname(os.path.abspath(__file__))      # englishword.github.io/scripts
-SITE = os.path.dirname(HERE)                            # englishword.github.io
-ROOT = os.path.dirname(SITE)                            # 项目根
-SRC = os.path.join(ROOT, 'books', 'Black', 'Tables', 'words_list.csv')
+from lingose_data import SITE, load_entries, write_metadata
 
 LETTERS = list(string.ascii_lowercase)                  # a..z
 
@@ -34,61 +15,61 @@ HREFLANG_LANGS = ['en', 'zh', 'es', 'fr', 'de', 'vi', 'ru', 'ja', 'ko', 'ar']
 
 # 每语言配置:目录名/URL 前缀/释义列 + 本地化文案模板({U}=大写字母, {count}=词数)
 LANGS = [
-    dict(code='en', prefix='', dst='_words', meaning='meaningEN',
+    dict(code='en', prefix='', dst='_words', meaning='meaning_en',
          title='Words starting with {U}',
          desc='{count} English words starting with {U}, with IPS pronunciation, ISM morpheme breakdown and IPSM notation.',
          count='{count} words',
          headers=('Word', 'IPS', 'ISM', 'IPSM', 'Meaning'),
          back='← Back to word index'),
-    dict(code='zh', prefix='/zh', dst='_words_zh', meaning='meaningCN',
+    dict(code='zh', prefix='/zh', dst='_words_zh', meaning='meaning_zh',
          title='{U} 开头的单词',
          desc='{count} 个 {U} 开头的英语单词,含 IPS 音形标注、ISM 词素划分与 IPSM 记忆符号。',
          count='{count} 个单词',
          headers=('单词', 'IPS', 'ISM', 'IPSM', '释义'),
          back='← 返回词库索引'),
-    dict(code='es', prefix='/es', dst='_words_es', meaning='meaningEN',
+    dict(code='es', prefix='/es', dst='_words_es', meaning='meaning_en',
          title='Palabras que empiezan por {U}',
          desc='{count} palabras en inglés que empiezan por {U}, con pronunciación IPS, desglose morfológico ISM y notación IPSM.',
          count='{count} palabras',
          headers=('Palabra', 'IPS', 'ISM', 'IPSM', 'Significado'),
          back='← Volver al índice de palabras'),
-    dict(code='fr', prefix='/fr', dst='_words_fr', meaning='meaningEN',
+    dict(code='fr', prefix='/fr', dst='_words_fr', meaning='meaning_en',
          title='Mots commençant par {U}',
          desc='{count} mots anglais commençant par {U}, avec prononciation IPS, décomposition morphémique ISM et notation IPSM.',
          count='{count} mots',
          headers=('Mot', 'IPS', 'ISM', 'IPSM', 'Sens'),
          back='← Retour à l’index des mots'),
-    dict(code='de', prefix='/de', dst='_words_de', meaning='meaningEN',
+    dict(code='de', prefix='/de', dst='_words_de', meaning='meaning_en',
          title='Wörter mit {U}',
          desc='{count} englische Wörter mit Anfangsbuchstabe {U}, mit IPS-Aussprache, ISM-Morphemaufschlüsselung und IPSM-Notation.',
          count='{count} Wörter',
          headers=('Wort', 'IPS', 'ISM', 'IPSM', 'Bedeutung'),
          back='← Zurück zum Wortindex'),
-    dict(code='vi', prefix='/vi', dst='_words_vi', meaning='meaningEN',
+    dict(code='vi', prefix='/vi', dst='_words_vi', meaning='meaning_en',
          title='Từ bắt đầu bằng {U}',
          desc='{count} từ tiếng Anh bắt đầu bằng {U}, kèm phiên âm IPS, phân tích hình vị ISM và ký hiệu IPSM.',
          count='{count} từ',
          headers=('Từ', 'IPS', 'ISM', 'IPSM', 'Nghĩa'),
          back='← Quay lại chỉ mục từ'),
-    dict(code='ru', prefix='/ru', dst='_words_ru', meaning='meaningEN',
+    dict(code='ru', prefix='/ru', dst='_words_ru', meaning='meaning_en',
          title='Слова на букву {U}',
          desc='{count} английских слов на букву {U}, с произношением IPS, разбором морфем ISM и нотацией IPSM.',
          count='{count} слов',
          headers=('Слово', 'IPS', 'ISM', 'IPSM', 'Значение'),
          back='← Назад к индексу слов'),
-    dict(code='ja', prefix='/ja', dst='_words_ja', meaning='meaningEN',
+    dict(code='ja', prefix='/ja', dst='_words_ja', meaning='meaning_en',
          title='{U} で始まる単語',
          desc='{U} で始まる英語単語 {count} 語、IPS 発音、ISM 形態素分解、IPSM 表記付き。',
          count='{count} 語',
          headers=('単語', 'IPS', 'ISM', 'IPSM', '意味'),
          back='← 単語インデックスに戻る'),
-    dict(code='ko', prefix='/ko', dst='_words_ko', meaning='meaningEN',
+    dict(code='ko', prefix='/ko', dst='_words_ko', meaning='meaning_en',
          title='{U}(으)로 시작하는 단어',
          desc='{U}(으)로 시작하는 영어 단어 {count}개, IPS 발음, ISM 형태소 분해, IPSM 표기 포함.',
          count='{count}개 단어',
          headers=('단어', 'IPS', 'ISM', 'IPSM', '뜻'),
          back='← 단어 인덱스로 돌아가기'),
-    dict(code='ar', prefix='/ar', dst='_words_ar', meaning='meaningEN',
+    dict(code='ar', prefix='/ar', dst='_words_ar', meaning='meaning_en',
          title='كلمات تبدأ بـ {U}',
          desc='{count} كلمة إنجليزية تبدأ بـ {U}، مع نطق IPS وتحليل الصرف ISM ورموز IPSM.',
          count='{count} كلمة',
@@ -98,8 +79,8 @@ LANGS = [
 
 
 def letter_key(row):
-    """返回该行归属的字母(a-z);rootLemma 优先,空则用 word;都无法归类返回 None。"""
-    lemma = (row.get('rootLemma') or '').strip().lower()
+    """root_lemma 优先，缺失时用 word 的首字母。"""
+    lemma = (row.get('root_lemma') or '').casefold()
     if lemma and lemma[0] in string.ascii_lowercase:
         return lemma[0]
     word = (row.get('word') or '').strip().lower()
@@ -111,15 +92,7 @@ def letter_key(row):
 def cell(s):
     """HTML 安全:escape 后把换行转 <br>(与 search.js 的 escape + \\n→<br> 同策略)。"""
     s = html.escape(s or '')
-    return s.replace('\r\n', '\n').replace('\r', '\n').replace('\n', '<br>\n')
-
-
-def sort_key(row):
-    return (
-        (row.get('rootLemma') or '').strip().lower(),
-        (row.get('rank') or '').strip(),
-        (row.get('word') or '').strip().lower(),
-    )
+    return s.replace('\r\n', '\n').replace('\r', '\n').replace('\n', '<br>')
 
 
 def nav_block(letter, cfg, count):
@@ -157,7 +130,9 @@ def write_page(path, cfg, letter, count, rows):
         f'hreflang_langs: [{hreflang}]\n'
         '---\n\n'
     )
-    out = [nav_block(letter, cfg, count), '<table>', '<thead>',
+    out = [nav_block(letter, cfg, count),
+           f'<div class="word-table-scroll" tabindex="0" role="region" aria-label="{html.escape(title, quote=True)}">',
+           '<table>', '<thead>',
            '<tr><th>{}</th><th>{}</th><th>{}</th><th>{}</th><th>{}</th></tr>'.format(*h),
            '</thead>', '<tbody>']
     meaning_col = cfg['meaning']
@@ -168,50 +143,39 @@ def write_page(path, cfg, letter, count, rows):
                 m=cell(r.get('ipsm')), e=cell(r.get(meaning_col))))
     out.append('</tbody>')
     out.append('</table>')
+    out.append('</div>')
     with open(path, 'w', encoding='utf-8') as f:
         f.write(frontmatter)
         f.write('\n'.join(out))
         f.write('\n')
 
 
-def main():
+def write_pages(entries):
     buckets = {l: [] for l in LETTERS}
-    seen = set()
-    dropped = 0
-    with open(SRC, encoding='utf-8-sig', newline='') as f:
-        for row in csv.DictReader(f):
-            word = (row.get('word') or '').strip()
-            ips = (row.get('ips') or '').strip()
-            if (word.lower(), ips) in seen:       # 去重(10 个重复 word)
-                continue
-            seen.add((word.lower(), ips))
-            l = letter_key(row)
-            if l is None:
-                dropped += 1
-                continue
-            buckets[l].append(row)
+    for row in entries:
+        letter = letter_key(row)
+        if letter is None:
+            raise ValueError(f'Word outside A–Z: {row["word"]!r}')
+        buckets[letter].append(row)
 
-    for cfg in LANGS:                            # 幂等:清所有语言的生成目录
-        d = os.path.join(SITE, cfg['dst'])
-        if os.path.isdir(d):
-            shutil.rmtree(d)
-        os.makedirs(d, exist_ok=True)
+    for cfg in LANGS:
+        os.makedirs(SITE / cfg['dst'], exist_ok=True)
 
     total = 0
     dist = {}
     for l in LETTERS:
         rows = buckets[l]
-        rows.sort(key=sort_key)
         count = len(rows)
         total += count
         dist[l] = count
         for cfg in LANGS:
             write_page(os.path.join(SITE, cfg['dst'], f'{l}.md'), cfg, l, count, rows)
 
-    print(f'共 {total} 词(去重后),生成 {len(LETTERS)}×{len(LANGS)} = {len(LETTERS) * len(LANGS)} 个字母页')
-    print(f'丢弃(无法归类):{dropped}')
+    print(f'共 {total} 词，生成 {len(LETTERS)}×{len(LANGS)} = {len(LETTERS) * len(LANGS)} 个字母页')
     print('字母分布:', ' '.join(f'{l}:{dist[l]}' for l in LETTERS))
 
 
 if __name__ == '__main__':
-    main()
+    entries, metadata = load_entries()
+    write_pages(entries)
+    write_metadata(metadata)
