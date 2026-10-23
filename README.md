@@ -64,6 +64,7 @@ IPSM 把通常分开教学的三个角度统一在一起：
 python scripts/generate_lexicon.py
 python scripts/verify_lexicon.py
 bundle exec jekyll build
+python scripts/verify_search_pages.py
 ```
 
 生成器从已安装包的 `runtime.sqlite` 只读提取全部条目，一次生成两份搜索 JSON、十语言 × 26 个字母页及 `_data/lexicon.json` 来源记录。常规 Jekyll 构建直接使用这些已提交产物，不需要安装 Lingose。该流程替代旧的 `csv_to_json.py` / `csv_to_words.py`，不再依赖旧书稿 CSV。
@@ -71,6 +72,8 @@ bundle exec jekyll build
 两类页面共用排序：`root_lemma` 不区分大小写升序 → 原始 `rank` 编码升序 → 单词拼写打破并列。`rank` 是词族层级编码，不是词频数值；不转换为数字。缺失词根用单词本身归组，缺失 rank 排在该词族有 rank 的条目之后。保留原始大小写、编码、空值和全部条目；显示时缺失标注或释义留空。中文使用中文释义，其余九种语言沿用英文释义。
 
 来源版本、数据库 SHA-256、条目总数和缺失字段统计见 `_data/lexicon.json`。再次更新时重新运行同一命令，并验证生成结果。
+
+Search 的数据和脚本 URL 附带词库版本号，防止扩容后复用旧缓存。构建后运行 `verify_search_pages.py`，核对十语言均使用完整词库，且只有中文使用中文释义，其他九种语言的 Meaning 全部来自英文释义。
 
 ## 许可与致谢
 
