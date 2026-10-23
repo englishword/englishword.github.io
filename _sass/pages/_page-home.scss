@@ -1,2 +1,224 @@
 .page-home {
+  .home-tools {
+    padding: 72px 0 88px;
+    background: linear-gradient(180deg, $white 0%, #fff9f8 100%);
+    text-align: start;
+  }
+
+  .home-tools-heading {
+    max-width: 680px;
+    margin: 0 auto 36px;
+    text-align: center;
+
+    h2 { font-size: clamp(28px, 3vw, 38px); }
+    p { margin-bottom: 0; }
+  }
+
+  .home-tools-eyebrow {
+    display: inline-block;
+    margin-bottom: 12px;
+    color: $primary;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+  }
+
+  .home-tools-grid {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 20px;
+  }
+
+  .tool-card {
+    grid-column: span 3;
+    min-width: 0;
+    padding: 28px;
+    border: 1px solid #eedfdd;
+    border-radius: 12px;
+    background: $white;
+    box-shadow: 0 4px 16px rgba(47, 47, 65, 0.03);
+
+    h3 {
+      margin-bottom: 8px;
+      color: $black;
+      font-family: $font-family-base;
+      font-size: 21px;
+      font-weight: 700;
+      line-height: 1.35;
+    }
+
+    p { font-size: 15px; }
+  }
+
+  .tool-browsers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 24px;
+  }
+
+  .tool-browser {
+    display: flex;
+    flex: 1 1 100px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 9px;
+    position: relative;
+    padding: 16px 10px;
+    border: 1px solid #eedfdd;
+    border-radius: 8px;
+    color: $black;
+    font-size: 14px;
+    font-weight: 600;
+    transition: border-color 0.15s, background-color 0.15s;
+
+    &:hover {
+      border-color: $primary;
+      background: #fff9f8;
+      color: $primary-dark;
+      text-decoration: none;
+    }
+
+    .tool-external {
+      position: absolute;
+      top: 7px;
+      inset-inline-end: 9px;
+    }
+  }
+
+  .tool-external { color: $primary; font-size: 15px; }
+
+  .tool-browser:focus-visible,
+  .tool-card a:focus-visible,
+  .tool-code:focus-visible {
+    outline: 3px solid $primary;
+    outline-offset: 4px;
+  }
+
+  .tool-card-wechat {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .tool-wechat-text { min-width: 0; }
+
+  .tool-wechat-name {
+    display: inline-block;
+    padding: 7px 12px;
+    border-radius: 6px;
+    background: $white-offset;
+    color: $primary-dark;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  .tool-wechat-code {
+    flex: 0 0 auto;
+    width: 160px;
+    height: auto;
+    max-width: 45%;
+  }
+
+  .tool-card-package {
+    grid-column: span 2;
+    display: flex;
+    flex-direction: column;
+
+    .tool-code { margin-top: auto; }
+  }
+
+  .tool-label {
+    align-self: flex-start;
+    margin-bottom: 18px;
+    padding: 4px 9px;
+    border-radius: 5px;
+    background: $white-offset;
+    color: $primary-dark;
+    font: 600 12px/1.5 monospace;
+  }
+
+  .tool-code {
+    width: 100%;
+    margin: 0;
+    padding: 14px 16px;
+    overflow-x: auto;
+    border: 1px solid #ede9e8;
+    border-radius: 7px;
+    background: #f7f6f5;
+    color: $black;
+    direction: ltr;
+    text-align: left;
+    unicode-bidi: isolate;
+    font: 13px/1.75 Consolas, "Liberation Mono", monospace;
+    tab-size: 2;
+
+    code { font: inherit; color: inherit; }
+  }
+
+  .tool-card-wide { grid-column: 1 / -1; }
+
+  .tool-card-heading {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 24px;
+
+    p { margin-bottom: 0; }
+    a { color: $black; }
+    a:hover { color: $primary-dark; }
+  }
+
+  .tool-symbol {
+    display: flex;
+    flex: 0 0 44px;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    border-radius: 10px;
+    background: $white-offset;
+    color: $primary-dark;
+    font: 700 22px/1 monospace;
+  }
+
+  .tool-installers {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px;
+  }
+
+  .tool-installer {
+    min-width: 0;
+
+    h4 {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 6px 12px;
+      margin-bottom: 9px;
+      font-size: 15px;
+      font-weight: 600;
+      text-align: start;
+    }
+
+    h4 span { color: $steel; font-size: 12px; font-weight: 400; }
+  }
+
+  @include media-breakpoint-down(lg) {
+    .tool-card-wechat { flex-direction: column; align-items: flex-start; }
+    .tool-wechat-code { max-width: 160px; }
+    .tool-card-package { grid-column: 1 / -1; }
+  }
+
+  @include media-breakpoint-down(md) {
+    .home-tools { padding: 48px 0; }
+    .home-tools-grid { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+    .tool-card { grid-column: 1 / -1; padding: 22px; }
+    .tool-card-wechat { flex-direction: row; align-items: center; }
+    .tool-wechat-code { width: 130px; max-width: 42%; }
+    .tool-installers { grid-template-columns: minmax(0, 1fr); }
+    .tool-browser { flex-basis: 70px; }
+  }
 }

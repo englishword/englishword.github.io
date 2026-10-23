@@ -1,0 +1,55 @@
+browsers:
+  - name: Chrome
+    icon: /images/tools/chrome.svg
+    url: https://chromewebstore.google.com/detail/lingose-ipsm-notation/dfijmkpkhkhpocoigaijaddddeebfehk
+  - name: Edge
+    icon: /images/tools/edge.svg
+    url: https://microsoftedge.microsoft.com/addons/detail/lingose-ipsm-notation/ipgkdakonihcfincanbljaaedalmdmfc
+  - name: Firefox
+    icon: /images/tools/firefox.svg
+    url: https://addons.mozilla.org/en-US/firefox/addon/lingose-ipsm-notation/
+
+wechat:
+  name: 英语与单词
+  code: /images/tools/miniprogram-code.png
+
+packages:
+  - name: Python
+    description_key: python_description
+    label: pip
+    command: python -m pip install lingose
+  - name: TypeScript
+    description_key: typescript_description
+    label: npm
+    command: npm i lingose
+  - name: Rust
+    description_key: rust_description
+    label: cargo
+    command: |-
+      cargo add lingose
+      cargo install lingose-cli
+
+cli:
+  - name: Chocolatey
+    platform: Windows
+    command: choco install lingose
+  - name: WinGet
+    platform: Windows
+    command: winget install --id Lingose.Lingose -e
+  - name: Scoop
+    platform: Windows
+    command: |-
+      scoop bucket add lingose https://github.com/englishword/lingose-rust
+      scoop install lingose/lingose
+  - name: Homebrew
+    platform: macOS / Linux
+    command: |-
+      brew tap englishword/lingose https://github.com/englishword/lingose-rust
+      brew install englishword/lingose/lingose
+
+dataset:
+  name: Lingose/IPSM-English-Lexicon
+  url: https://huggingface.co/datasets/Lingose/IPSM-English-Lexicon
+  code: |-
+    from datasets import load_dataset
+    lexicon = load_dataset("Lingose/IPSM-English-Lexicon", split="train", revision="main")

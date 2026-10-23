@@ -1,0 +1,74 @@
+{% assign tools_ui = site.data.ui[lang].homepage_tools %}
+{% assign tools = site.data.tools %}
+<section class="home-tools" aria-labelledby="home-tools-title">
+  <div class="container">
+    <div class="home-tools-heading">
+      <span class="home-tools-eyebrow">{{ tools_ui.eyebrow | escape }}</span>
+      <h2 id="home-tools-title">{{ tools_ui.title | escape }}</h2>
+      <p>{{ tools_ui.description | escape }}</p>
+    </div>
+
+    <div class="home-tools-grid">
+      <article class="tool-card tool-card-browser">
+        <h3>{{ tools_ui.browser_title | escape }}</h3>
+        <p>{{ tools_ui.browser_description | escape }}</p>
+        <div class="tool-browsers">
+          {% for browser in tools.browsers %}
+          <a class="tool-browser" href="{{ browser.url | escape }}" target="_blank" rel="noopener noreferrer" aria-label="{{ browser.name | escape }} — {{ tools_ui.new_window | escape }}">
+            <img src="{{ browser.icon | relative_url }}" alt="" width="44" height="44" loading="lazy" />
+            <span dir="ltr">{{ browser.name | escape }}</span>
+            <span class="tool-external" aria-hidden="true">↗</span>
+          </a>
+          {% endfor %}
+        </div>
+      </article>
+
+      <article class="tool-card tool-card-wechat">
+        <div class="tool-wechat-text">
+          <h3>{{ tools_ui.wechat_title | escape }}</h3>
+          <p>{{ tools_ui.wechat_description | escape }}</p>
+          <bdi class="tool-wechat-name" lang="zh">{{ tools.wechat.name | escape }}</bdi>
+        </div>
+        <img class="tool-wechat-code" src="{{ tools.wechat.code | relative_url }}" alt="{{ tools_ui.wechat_qr_alt | escape }}" width="160" height="160" loading="lazy" />
+      </article>
+
+      {% for package in tools.packages %}
+      <article class="tool-card tool-card-package">
+        <span class="tool-label" dir="ltr">{{ package.label | escape }}</span>
+        <h3><bdi dir="ltr">{{ package.name | escape }}</bdi></h3>
+        <p>{{ tools_ui[package.description_key] | escape }}</p>
+        <pre class="tool-code" dir="ltr" tabindex="0" aria-label="{{ package.name | escape }}"><code>{{ package.command | escape }}</code></pre>
+      </article>
+      {% endfor %}
+
+      <article class="tool-card tool-card-wide">
+        <div class="tool-card-heading">
+          <span class="tool-symbol" aria-hidden="true" dir="ltr">&gt;_</span>
+          <div>
+            <h3>{{ tools_ui.cli_title | escape }}</h3>
+            <p>{{ tools_ui.cli_description | escape }}</p>
+          </div>
+        </div>
+        <div class="tool-installers">
+          {% for installer in tools.cli %}
+          <div class="tool-installer">
+            <h4 dir="ltr">{{ installer.name | escape }} <span>{{ installer.platform | escape }}</span></h4>
+            <pre class="tool-code" dir="ltr" tabindex="0" aria-label="{{ installer.name | escape }}"><code>{{ installer.command | escape }}</code></pre>
+          </div>
+          {% endfor %}
+        </div>
+      </article>
+
+      <article class="tool-card tool-card-wide tool-card-dataset">
+        <div class="tool-card-heading">
+          <span class="tool-symbol" aria-hidden="true">🤗</span>
+          <div>
+            <h3><a href="{{ tools.dataset.url | escape }}" target="_blank" rel="noopener noreferrer" aria-label="{{ tools_ui.dataset_title | escape }} — {{ tools_ui.new_window | escape }}">{{ tools_ui.dataset_title | escape }} <span class="tool-external" aria-hidden="true">↗</span></a></h3>
+            <p>{{ tools_ui.dataset_description | escape }}</p>
+          </div>
+        </div>
+        <pre class="tool-code" dir="ltr" tabindex="0" aria-label="{{ tools.dataset.name | escape }}"><code>{{ tools.dataset.code | escape }}</code></pre>
+      </article>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,8 @@
+Browser logos: https://github.com/alrra/browser-logos/tree/58881b84c4d73adc03c06fa2c275a7abee02d935
+Logos remain the trademarks of their respective owners. See browser-logos-LICENSE.txt.
+
+chrome.svg: https://raw.githubusercontent.com/alrra/browser-logos/58881b84c4d73adc03c06fa2c275a7abee02d935/src/chrome/chrome.svg
+edge.svg: https://raw.githubusercontent.com/alrra/browser-logos/58881b84c4d73adc03c06fa2c275a7abee02d935/src/edge/edge.svg
+firefox.svg: https://raw.githubusercontent.com/alrra/browser-logos/58881b84c4d73adc03c06fa2c275a7abee02d935/src/firefox/firefox.svg
+
+miniprogram-code.png: unmodified copy of user-supplied ../miniprogram_code.png.
