@@ -1,9 +1,9 @@
 {
   "count": 50335,
   "source": "Installed Python lingose / runtime.sqlite",
-  "package_version": "0.3.0",
-  "runtime_sha256": "05d6b16afa7be720f6339cd3aa030e2bcf54cbfaf8aecb441e62c34c577bebee",
-  "data_version": "c28300841f154faabd0ed28300c577411aff2d8ac9c61df771dc8f6dfb435a20",
+  "package_version": "0.4.0",
+  "runtime_sha256": "b9ed7274c5ba7470edeec805043b18c7b4bce9a76312ddaf9ffa355217db6dcd",
+  "data_version": "8ad0d03944f2b8531e1e2143c971fd7f7bc384de6fc18db941d6068289e01462",
   "sort": [
     "root_lemma (casefold; missing: word)",
     "rank (source code; missing last)",

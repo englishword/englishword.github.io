@@ -23,7 +23,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wacky</td><td>wackẏ</td><td>wack-y</td><td>wack-ẏ</td><td>a. eccentric or unusual in a humorous way</td></tr>
 <tr><td>wackier</td><td>wackie̊r</td><td>wack-i-er</td><td>wack-i-e̊r</td><td></td></tr>
 <tr><td>wackiest</td><td>wackiėst</td><td>wack-i-est</td><td>wack-i-ėst</td><td></td></tr>
-<tr><td>wackiness</td><td>wackine̊ss</td><td>wack-i-ness</td><td>wack-i-ne̊ss</td><td>n. the quality of being wacky or eccentric</td></tr>
+<tr><td>wackiness</td><td>wackinėss</td><td>wack-i-ness</td><td>wack-i-nėss</td><td>n. the quality of being wacky or eccentric</td></tr>
 <tr><td>whackier</td><td>w𝕙ackie̊r</td><td>whack-i-er</td><td>w𝕙ack-i-e̊r</td><td></td></tr>
 <tr><td>whackiest</td><td>w𝕙ackiėst</td><td>whack-i-est</td><td>w𝕙ack-i-ėst</td><td></td></tr>
 <tr><td>whacky</td><td>w𝕙ackẏ</td><td>whack-y</td><td>w𝕙ack-ẏ</td><td></td></tr>
@@ -40,7 +40,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waffle</td><td>wàffle</td><td>waffle</td><td>wàffle</td><td>n. a batter-based cake cooked in a waffle iron<br>v. to speak or write vaguely</td></tr>
 <tr><td>waffling</td><td>wàffling</td><td>waffl-ing</td><td>wàffl-ing</td><td>v pause or hold back in uncertainty or unwillingness</td></tr>
 <tr><td>waffles</td><td>wãffl𝕖ṡ</td><td>waffle-s</td><td>wãffl𝕖-ṡ</td><td></td></tr>
-<tr><td>waft</td><td>wàft</td><td>waft</td><td>wàft</td><td>v. to be carried gently through the air<br>n. a gentle movement of air</td></tr>
+<tr><td>waft</td><td>waft</td><td>waft</td><td>waft</td><td>v. to be carried gently through the air<br>n. a gentle movement of air</td></tr>
 <tr><td>wag</td><td>wag</td><td>wag</td><td>wag</td><td>v. to move from side to side<br>n. a person who makes jokes</td></tr>
 <tr><td>wager</td><td>wāge̊r</td><td>wag-er</td><td>wāg-e̊r</td><td>n the act of gambling<br>n the money risked on a gamble<br>v stake on the outcome of an issue<br>v maintain with or as if with a bet</td></tr>
 <tr><td>wagging</td><td>wagging</td><td>wagg-ing</td><td>wagg-ing</td><td>v. move from side to side</td></tr>
@@ -51,19 +51,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wagering</td><td>wāge̊ring</td><td>wag-er-ing</td><td>wāg-e̊r-ing</td><td>v. stake on the outcome of an issue</td></tr>
 <tr><td>waggish</td><td>waggish</td><td>wagg-ish</td><td>wagg-ish</td><td>a. witty or joking</td></tr>
 <tr><td>waggon</td><td>waggo̊n</td><td>wagg-on</td><td>wagg-o̊n</td><td>n. a heavy vehicle for goods</td></tr>
-<tr><td>wagnerian</td><td>wagnèriån</td><td>wagnerian</td><td>wagnèriån</td><td>a. of or relating to Richard Wagner or his music</td></tr>
+<tr><td>wagnerian</td><td>wagnēriån</td><td>wagnerian</td><td>wagnēriån</td><td>a. of or relating to Richard Wagner or his music</td></tr>
 <tr><td>chuckwagon</td><td>chûckwago̊n</td><td>chuck-wagon</td><td>chûck-wago̊n</td><td>n. a wagon carrying food and cooking utensils for cowboys</td></tr>
 <tr><td>wah</td><td>wà𝕙</td><td>wah</td><td>wà𝕙</td><td></td></tr>
-<tr><td>wahabi</td><td>wåhàbĩ</td><td>wahabi</td><td>wåhàbĩ</td><td>n. a member of a strictly orthodox Muslim sect</td></tr>
-<tr><td>wahhabi</td><td>wåhhàbi</td><td>wahhabi</td><td>wåhhàbi</td><td>n. a member of a strictly conservative Muslim sect founded in Arabia</td></tr>
-<tr><td>wahoo</td><td>wåhoo</td><td>wahoo</td><td>wåhoo</td><td>n. a large fast-moving predacious food and game fish<br>n. a deciduous shrub with purple capsules enclosing scarlet seeds</td></tr>
+<tr><td>wahabi</td><td>wahàbi</td><td>wahabi</td><td>wahàbi</td><td>n. a member of a strictly orthodox Muslim sect</td></tr>
+<tr><td>wahhabi</td><td>wàhhàbi</td><td>wahhabi</td><td>wàhhàbi</td><td>n. a member of a strictly conservative Muslim sect founded in Arabia</td></tr>
+<tr><td>wahoo</td><td>wahoo</td><td>wahoo</td><td>wahoo</td><td>n. a large fast-moving predacious food and game fish<br>n. a deciduous shrub with purple capsules enclosing scarlet seeds</td></tr>
 <tr><td>waif</td><td>wāif</td><td>waif</td><td>wāif</td><td>n. a homeless child especially one forsaken or orphaned</td></tr>
 <tr><td>waiflike</td><td>wāiflīke</td><td>waif-like</td><td>wāif-līke</td><td>a. thin and frail-looking</td></tr>
 <tr><td>wail</td><td>wāil</td><td>wail</td><td>wāil</td><td>v. to make a long, high cry expressing pain or sorrow<br>n. a long, high cry of grief</td></tr>
 <tr><td>wailing</td><td>wāiling</td><td>wail-ing</td><td>wāil-ing</td><td>n. a loud high-pitched cry of grief or pain</td></tr>
 <tr><td>bewail</td><td>bėwāil</td><td>be-wail</td><td>bė-wāil</td><td>v regret strongly</td></tr>
-<tr><td>wainscot</td><td>wāinsco̊t</td><td>wainscot</td><td>wāinsco̊t</td><td>n. panel forming the lower part of an interior wall finished differently from the rest</td></tr>
-<tr><td>wainscoting</td><td>wāinsco̊ting</td><td>wainscot-ing</td><td>wāinsco̊t-ing</td><td>n. a wainscoted wall (or wainscoted walls collectively)</td></tr>
+<tr><td>wainscot</td><td>wāinscot</td><td>wainscot</td><td>wāinscot</td><td>n. panel forming the lower part of an interior wall finished differently from the rest</td></tr>
+<tr><td>wainscoting</td><td>wāinscōting</td><td>wainscot-ing</td><td>wāinscōt-ing</td><td>n. a wainscoted wall (or wainscoted walls collectively)</td></tr>
 <tr><td>waist</td><td>wāist</td><td>waist</td><td>wāist</td><td>n. the part of the body between the ribs and hips</td></tr>
 <tr><td>waistband</td><td>wāistband</td><td>waist-band</td><td>wāist-band</td><td>n a band of material around the waist that strengthens a skirt or trousers</td></tr>
 <tr><td>waistcoat</td><td>wāistcōat</td><td>waist-coat</td><td>wāist-cōat</td><td>n. a man&#x27;s sleeveless garment worn underneath a coat</td></tr>
@@ -75,7 +75,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waitress</td><td>wāitrėss</td><td>waitr-ess</td><td>wāitr-ėss</td><td>n. a woman whose job is to serve food in a restaurant</td></tr>
 <tr><td>waiting</td><td>wāiting</td><td>wait-ing</td><td>wāit-ing</td><td>n. the act of staying where one is or delaying action until something happens</td></tr>
 <tr><td>waits</td><td>wāits</td><td>wait-s</td><td>wāit-s</td><td></td></tr>
-<tr><td>waitstaff</td><td>wāitstaff</td><td>wait-staff</td><td>wāit-staff</td><td>n. the group of people who work as waiters and waitresses in a restaurant</td></tr>
+<tr><td>waitstaff</td><td>wāitstàff</td><td>wait-staff</td><td>wāit-stàff</td><td>n. the group of people who work as waiters and waitresses in a restaurant</td></tr>
 <tr><td>waitresses</td><td>wāitrėssėṡ</td><td>waitr-ess-es</td><td>wāitr-ėss-ėṡ</td><td></td></tr>
 <tr><td>waitressing</td><td>wāitre̊ssing</td><td>waitr-ess-ing</td><td>wāitr-e̊ss-ing</td><td>v. serve as a waitress in a restaurant (waitress的现在分词)</td></tr>
 <tr><td>waiting-room</td><td></td><td>wait-ing-room</td><td></td><td>n. a room for waiting</td></tr>
@@ -87,20 +87,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waiver</td><td>wāive̊r</td><td>waiv-er</td><td>wāiv-e̊r</td><td>n. the act of giving up a right or claim</td></tr>
 <tr><td>waive</td><td>wāive</td><td>waive</td><td>wāive</td><td>v. to refrain from applying or enforcing a rule or right</td></tr>
 <tr><td>wake</td><td>wāke</td><td>wake</td><td>wāke</td><td>v. emerge or cause to emerge from sleep<br>v. rouse from sleep<br>n. a watch or vigil held beside someone who has died</td></tr>
-<tr><td>wakeboard</td><td>wākebōard</td><td>wake-board</td><td>wāke-bōard</td><td>n. a buoyant board used to ride over water while being pulled behind a motorboat</td></tr>
+<tr><td>wakeboard</td><td>wāk𝕖bōard</td><td>wake-board</td><td>wāk𝕖-bōard</td><td>n. a buoyant board used to ride over water while being pulled behind a motorboat</td></tr>
 <tr><td>waked</td><td>wāk𝕖ḋ</td><td>wak-ed</td><td>wāk-𝕖ḋ</td><td></td></tr>
 <tr><td>waken</td><td>wāke̊n</td><td>wak-en</td><td>wāk-e̊n</td><td>v. cause to become awake or conscious<br>v. stop sleeping</td></tr>
 <tr><td>wakeful</td><td>wāk𝕖fůl</td><td>wake-ful</td><td>wāk𝕖-fůl</td><td>a. unable to sleep; watchful and alert</td></tr>
 <tr><td>waking</td><td>wāking</td><td>wak-ing</td><td>wāk-ing</td><td>a. being awake<br>n. the state of remaining awake</td></tr>
 <tr><td>wakes</td><td>wāk𝕖s</td><td>wake-s</td><td>wāk𝕖-s</td><td></td></tr>
 <tr><td>wake-up</td><td>wāke-ûp</td><td>wake-up</td><td>wāke-ûp</td><td></td></tr>
-<tr><td>wakefulness</td><td>wāk𝕖fùlnėss</td><td>wake-ful-ness</td><td>wāk𝕖-fùl-nėss</td><td>n. a periodic state during which you are conscious and aware of the world</td></tr>
+<tr><td>wakefulness</td><td>wāk𝕖fůlnėss</td><td>wake-ful-ness</td><td>wāk𝕖-fůl-nėss</td><td>n. a periodic state during which you are conscious and aware of the world</td></tr>
 <tr><td>wake-ups</td><td>wāke-ûps</td><td>wake-up-s</td><td>wāke-ûp-s</td><td></td></tr>
 <tr><td>awake</td><td>åwāke</td><td>a-wake</td><td>å-wāke</td><td>a. not asleep; fully conscious<br>v. to wake up or make someone wake up</td></tr>
 <tr><td>awaken</td><td>åwāke̊n</td><td>a-waken</td><td>å-wāke̊n</td><td>v. to wake up or cause to wake up<br>v. to become aware of something</td></tr>
 <tr><td>awakened</td><td>åwāke̊n𝕖d</td><td>a-waken-ed</td><td>å-wāke̊n-𝕖d</td><td>a. aroused or activated</td></tr>
 <tr><td>awakening</td><td>åwāke̊ning</td><td>a-waken-ing</td><td>å-wāke̊n-ing</td><td>n. the act of waking</td></tr>
-<tr><td>reawakening</td><td>rēawāke̊ning</td><td>re-a-wak-en-ing</td><td>rē-a-wāk-e̊n-ing</td><td>v. awaken once again</td></tr>
+<tr><td>reawakening</td><td>rēåwāke̊ning</td><td>re-a-wak-en-ing</td><td>rē-å-wāk-e̊n-ing</td><td>v. awaken once again</td></tr>
 <tr><td>woke</td><td>wōke</td><td>woke</td><td>wōke</td><td>v. past tense of wake</td></tr>
 <tr><td>woken</td><td>wōke̊n</td><td>woken</td><td>wōke̊n</td><td></td></tr>
 <tr><td>waling</td><td>wāling</td><td>wal-ing</td><td>wāl-ing</td><td>n. a horizontal timber support</td></tr>
@@ -116,7 +116,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>walkout</td><td>wãlkòut</td><td>walk-out</td><td>wãlk-òut</td><td>n. a strike in which the workers walk out<br>n. the act of walking out as a sign of protest</td></tr>
 <tr><td>walkover</td><td>wãlkōve̊r</td><td>walk-over</td><td>wãlk-ōve̊r</td><td>n. an easy victory; a contest with no serious competition</td></tr>
 <tr><td>walks</td><td>wãlks</td><td>walk-s</td><td>wãlk-s</td><td></td></tr>
-<tr><td>walkthrough</td><td>wãlkthroūgh</td><td>walk-through</td><td>wãlk-throūgh</td><td>n. a step-by-step demonstration or review of a process or procedure</td></tr>
+<tr><td>walkthrough</td><td>wãlkthroū𝕘𝕙</td><td>walk-through</td><td>wãlk-throū𝕘𝕙</td><td>n. a step-by-step demonstration or review of a process or procedure</td></tr>
 <tr><td>walkway</td><td>wãlkwāy</td><td>walk-way</td><td>wãlk-wāy</td><td>n. a path set aside for walking</td></tr>
 <tr><td>jaywalk</td><td>jāywã𝕝k</td><td>jay-walk</td><td>jāy-wã𝕝k</td><td>v. cross the road at a red light</td></tr>
 <tr><td>jaywalker</td><td>jāywã𝕝ke̊r</td><td>jay-walk-er</td><td>jāy-wã𝕝k-e̊r</td><td>n. a reckless pedestrian who crosses a street illegally</td></tr>
@@ -133,37 +133,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wallpaper</td><td>wãllpāpe̊r</td><td>wall-pap-er</td><td>wãll-pāp-e̊r</td><td>n. a decorative paper for the walls of rooms<br>v. cover with wallpaper</td></tr>
 <tr><td>walloping</td><td>wãllo̊ping</td><td>wall-op-ing</td><td>wãll-o̊p-ing</td><td>v. defeat soundly and utterly<br>a. very large</td></tr>
 <tr><td>wallets</td><td>wãllėts</td><td>wall-et-s</td><td>wãll-ėt-s</td><td></td></tr>
-<tr><td>drywall</td><td>drȳwàll</td><td>dry-wall</td><td>drȳ-wàll</td><td>n. a wide flat board used to cover walls, made from plaster or wood pulp</td></tr>
+<tr><td>drywall</td><td>drȳwãll</td><td>dry-wall</td><td>drȳ-wãll</td><td>n. a wide flat board used to cover walls, made from plaster or wood pulp</td></tr>
 <tr><td>walnut</td><td>wãlnût</td><td>wal-nut</td><td>wãl-nût</td><td>n. the nut of the walnut tree<br>n. the tree itself</td></tr>
 <tr><td>walrus</td><td>wãlrůs</td><td>walrus</td><td>wãlrůs</td><td>n. a large marine mammal with ivory tusks</td></tr>
 <tr><td>waltz</td><td>wãltz</td><td>waltz</td><td>wãltz</td><td>n. a ballroom dance in triple time<br>v. to dance a waltz</td></tr>
-<tr><td>wampum</td><td>wàmpům</td><td>wampum</td><td>wàmpům</td><td>n. small cylindrical beads from polished shells, used by Native Americans as money</td></tr>
-<tr><td>wan</td><td>wàn</td><td>wan</td><td>wàn</td><td>a. pale and looking ill or tired</td></tr>
+<tr><td>wampum</td><td>wampům</td><td>wampum</td><td>wampům</td><td>n. small cylindrical beads from polished shells, used by Native Americans as money</td></tr>
+<tr><td>wan</td><td>wan</td><td>wan</td><td>wan</td><td>a. pale and looking ill or tired</td></tr>
 <tr><td>waning</td><td>wāning</td><td>wan-ing</td><td>wān-ing</td><td>n. a gradual decrease in magnitude or extent<br>a. pertaining to the period when the visible moon surface decreases</td></tr>
-<tr><td>wanly</td><td>wànlẏ</td><td>wan-ly</td><td>wàn-lẏ</td><td>adv. in a weak or pale or languid manner</td></tr>
+<tr><td>wanly</td><td>wanlẏ</td><td>wan-ly</td><td>wan-lẏ</td><td>adv. in a weak or pale or languid manner</td></tr>
 <tr><td>wand</td><td>wànd</td><td>wand</td><td>wànd</td><td>n. a rod used by a magician; a thin supple twig or rod</td></tr>
 <tr><td>wander</td><td>wãnder</td><td>wand-er</td><td>wãnd-er</td><td>v. to move about without a definite destination or purpose<br>v. to stray from a subject</td></tr>
 <tr><td>wands</td><td>wãndṡ</td><td>wand-s</td><td>wãnd-ṡ</td><td></td></tr>
 <tr><td>wandered</td><td>wãnde̊r𝕖d</td><td>wand-er-ed</td><td>wãnd-e̊r-𝕖d</td><td></td></tr>
-<tr><td>wanderer</td><td>wànde̊re̊r</td><td>wand-er-er</td><td>wànd-e̊r-e̊r</td><td>n. someone who leads a wandering unsettled life</td></tr>
-<tr><td>wandering</td><td>wànde̊ring</td><td>wand-er-ing</td><td>wànd-e̊r-ing</td><td>n. travelling about without any clear destination</td></tr>
-<tr><td>wanderlust</td><td>wànde̊rlûst</td><td>wand-er-lust</td><td>wànd-e̊r-lûst</td><td>n. very strong or irresistible impulse to travel</td></tr>
+<tr><td>wanderer</td><td>wãnde̊re̊r</td><td>wand-er-er</td><td>wãnd-e̊r-e̊r</td><td>n. someone who leads a wandering unsettled life</td></tr>
+<tr><td>wandering</td><td>wãnde̊ring</td><td>wand-er-ing</td><td>wãnd-e̊r-ing</td><td>n. travelling about without any clear destination</td></tr>
+<tr><td>wanderlust</td><td>wãnde̊rlûst</td><td>wand-er-lust</td><td>wãnd-e̊r-lûst</td><td>n. very strong or irresistible impulse to travel</td></tr>
 <tr><td>wanders</td><td>wãnde̊rṡ</td><td>wand-er-s</td><td>wãnd-e̊r-ṡ</td><td></td></tr>
 <tr><td>wanderings</td><td>wãnde̊ringṡ</td><td>wand-er-ing-s</td><td>wãnd-e̊r-ing-ṡ</td><td>n. travelling about without any clear destination</td></tr>
 <tr><td>wane</td><td>wāne</td><td>wane</td><td>wāne</td><td>v. decrease gradually in size, amount, or intensity<br>n. a gradual decrease</td></tr>
 <tr><td>wangle</td><td>wangle</td><td>wangle</td><td>wangle</td><td>n. an instance of accomplishing something by trickery<br>v. achieve something by devious methods</td></tr>
 <tr><td>wanker</td><td>wanke̊r</td><td>wank-er</td><td>wank-e̊r</td><td>n terms of abuse for a masturbator</td></tr>
 <tr><td>wannabe</td><td>wànnåbē</td><td>wannabe</td><td>wànnåbē</td><td>n. one who tries to be like someone else</td></tr>
-<tr><td>wanna</td><td>wànnå</td><td>wanna</td><td>wànnå</td><td>v. want to (informal)</td></tr>
+<tr><td>wanna</td><td>wãnnå</td><td>wanna</td><td>wãnnå</td><td>v. want to (informal)</td></tr>
 <tr><td>want</td><td>wãnt</td><td>want</td><td>wãnt</td><td>vt. to have a desire for; to need; to lack<br>vi. to be lacking or needed<br>n. a lack or deficiency</td></tr>
 <tr><td>wanton</td><td>wãnto̊n</td><td>wanton</td><td>wãnto̊n</td><td>a. deliberate and without motive or provocation<br>v. to indulge in a carefree way of life</td></tr>
 <tr><td>wanted</td><td>wãntėd</td><td>want-ed</td><td>wãnt-ėd</td><td>a. desired or sought after; being searched for by police</td></tr>
-<tr><td>wanting</td><td>wànting</td><td>want-ing</td><td>wànt-ing</td><td>a. lacking or missing<br>prep. without; lacking</td></tr>
+<tr><td>wanting</td><td>wãnting</td><td>want-ing</td><td>wãnt-ing</td><td>a. lacking or missing<br>prep. without; lacking</td></tr>
 <tr><td>wantonly</td><td>wãnto̊nlẏ</td><td>wanton-ly</td><td>wãnto̊n-lẏ</td><td>adv. in a wanton manner</td></tr>
-<tr><td>wantonness</td><td>wãnto̊nne̊ss</td><td>wanton-ness</td><td>wãnto̊n-ne̊ss</td><td>n. the trait of lacking restraint or control<br>n. the quality of being lewd and lascivious</td></tr>
+<tr><td>wantonness</td><td>wãnto̊nnėss</td><td>wanton-ness</td><td>wãnto̊n-nėss</td><td>n. the trait of lacking restraint or control<br>n. the quality of being lewd and lascivious</td></tr>
 <tr><td>wants</td><td>wãnts</td><td>want-s</td><td>wãnt-s</td><td></td></tr>
 <tr><td>unwanted</td><td>ûnwãntėd</td><td>un-want-ed</td><td>ûn-wãnt-ėd</td><td>a. not wanted or needed</td></tr>
-<tr><td>wapiti</td><td>wåpĩtĩ</td><td>wapiti</td><td>wåpĩtĩ</td><td>n. large North American deer with large much-branched antlers in the male</td></tr>
+<tr><td>wapiti</td><td>wapĩti</td><td>wapiti</td><td>wapĩti</td><td>n. large North American deer with large much-branched antlers in the male</td></tr>
 <tr><td>war</td><td>wãr</td><td>war</td><td>wãr</td><td>n. a state of armed conflict between different nations or groups<br>n. a sustained effort to deal with or end something harmful</td></tr>
 <tr><td>warden</td><td>wãrde̊n</td><td>war-den</td><td>wãr-de̊n</td><td>n. a person responsible for the supervision of a particular place</td></tr>
 <tr><td>warfare</td><td>wãrfāre</td><td>war-fare</td><td>wãr-fāre</td><td>n. engagement in or the activities involved in war or conflict</td></tr>
@@ -172,19 +172,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warring</td><td>wãrring</td><td>warr-ing</td><td>wãrr-ing</td><td>a. engaged in war or conflict</td></tr>
 <tr><td>warlike</td><td>wãrlīke</td><td>war-like</td><td>wãr-līke</td><td>a. suggesting war or military life</td></tr>
 <tr><td>warlord</td><td>wãrlord</td><td>war-lord</td><td>wãr-lord</td><td>n. a military leader exercising civil power in a region</td></tr>
-<tr><td>warpath</td><td>wãrpath</td><td>war-path</td><td>wãr-path</td><td>n. hostile or belligerent mood<br>n. a course leading to warfare or battle</td></tr>
+<tr><td>warpath</td><td>wãrpàth</td><td>war-path</td><td>wãr-pàth</td><td>n. hostile or belligerent mood<br>n. a course leading to warfare or battle</td></tr>
 <tr><td>warplane</td><td>wãrplāne</td><td>war-plane</td><td>wãr-plāne</td><td>n. an aircraft designed and used for combat</td></tr>
 <tr><td>wars</td><td>wãrṡ</td><td>war-s</td><td>wãr-ṡ</td><td></td></tr>
 <tr><td>warship</td><td>wãrship</td><td>war-ship</td><td>wãr-ship</td><td>n. a government ship used for waging war</td></tr>
 <tr><td>wartime</td><td>wãrtīme</td><td>war-time</td><td>wãr-tīme</td><td>n. a period of time during which there is armed conflict</td></tr>
-<tr><td>wary</td><td>warẏ</td><td>war-y</td><td>war-ẏ</td><td>a. feeling or showing caution about possible dangers</td></tr>
+<tr><td>wary</td><td>wārẏ</td><td>war-y</td><td>wār-ẏ</td><td>a. feeling or showing caution about possible dangers</td></tr>
 <tr><td>warrior</td><td>wãrrio̊r</td><td>war-r-ior</td><td>wãr-r-io̊r</td><td>n. a person who fights in battles or has experience of fighting</td></tr>
-<tr><td>warily</td><td>wari̊lẏ</td><td>war-i-ly</td><td>war-i̊-lẏ</td><td>adv. in a cautious and watchful manner</td></tr>
-<tr><td>wariness</td><td>warĩnėss</td><td>war-i-ness</td><td>war-ĩ-nėss</td><td>n. the trait of being cautious and watchful</td></tr>
+<tr><td>warily</td><td>wārilẏ</td><td>war-i-ly</td><td>wār-i-lẏ</td><td>adv. in a cautious and watchful manner</td></tr>
+<tr><td>wariness</td><td>wārinėss</td><td>war-i-ness</td><td>wār-i-nėss</td><td>n. the trait of being cautious and watchful</td></tr>
 <tr><td>warriors</td><td>wãrrio̊rṡ</td><td>war-r-ior-s</td><td>wãr-r-io̊r-ṡ</td><td></td></tr>
 <tr><td>biowarfare</td><td>bīōwãrfāre</td><td>bio-war-fare</td><td>bīō-wãr-fāre</td><td>n. the use of biological agents as weapons of war</td></tr>
 <tr><td>post-war</td><td>pōst-wãr</td><td>post-war</td><td>pōst-wãr</td><td>a. occurring after a war</td></tr>
-<tr><td>unwary</td><td>ûnwarẏ</td><td>un-war-y</td><td>ûn-war-ẏ</td><td>a. not alert to danger or deception</td></tr>
+<tr><td>unwary</td><td>ûnwārẏ</td><td>un-war-y</td><td>ûn-wār-ẏ</td><td>a. not alert to danger or deception</td></tr>
 <tr><td>warble</td><td>wãrble</td><td>warble</td><td>wãrble</td><td>v. to sing with trills and quavers<br>n. a gentle quavering sound</td></tr>
 <tr><td>warbler</td><td>wãrble̊r</td><td>warbl-er</td><td>wãrbl-e̊r</td><td>n. a small active songbird; a singer</td></tr>
 <tr><td>warbling</td><td>wãrbling</td><td>warbl-ing</td><td>wãrbl-ing</td><td>v. sing or play with trills<br>v. sing by changing register</td></tr>
@@ -219,29 +219,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>upwards</td><td>ûpwårdṡ</td><td>up-ward-s</td><td>ûp-wård-ṡ</td><td>adv. toward a higher place or level</td></tr>
 <tr><td>wayward</td><td>wāywård</td><td>way-ward</td><td>wāy-wård</td><td>a. difficult to control because of willful behavior</td></tr>
 <tr><td>waywardness</td><td>wāywårdnėss</td><td>way-ward-ness</td><td>wāy-wård-nėss</td><td>n. the quality of being wayward</td></tr>
-<tr><td>unrewarded</td><td>unrėwãrdėd</td><td>un-re-ward-ed</td><td>un-rė-wãrd-ėd</td><td>a. having acquired or gained nothing</td></tr>
-<tr><td>unrewarding</td><td>unrėwãrding</td><td>un-re-ward-ing</td><td>un-rė-wãrd-ing</td><td>a. not rewarding; not providing personal satisfaction</td></tr>
+<tr><td>unrewarded</td><td>ûnrėwãrdėd</td><td>un-re-ward-ed</td><td>ûn-rė-wãrd-ėd</td><td>a. having acquired or gained nothing</td></tr>
+<tr><td>unrewarding</td><td>ûnrėwãrding</td><td>un-re-ward-ing</td><td>ûn-rė-wãrd-ing</td><td>a. not rewarding; not providing personal satisfaction</td></tr>
 <tr><td>untoward</td><td>ûnto̊wãrd</td><td>un-to-ward</td><td>ûn-to̊-wãrd</td><td>a. not in keeping with accepted standards<br>a. contrary to your interests or welfare</td></tr>
 <tr><td>ware</td><td>wāre</td><td>ware</td><td>wāre</td><td>n. manufactured goods, pottery</td></tr>
 <tr><td>warehouse</td><td>wār𝕖hòuse</td><td>ware-house</td><td>wār𝕖-hòuse</td><td>n. a building for storing goods<br>v. to store in a warehouse</td></tr>
-<tr><td>wares</td><td>war𝕖ṡ</td><td>ware-s</td><td>war𝕖-ṡ</td><td>n. commodities offered for sale<br>n. articles of the same kind or material</td></tr>
-<tr><td>warehousing</td><td>wārehòuṡing</td><td>ware-hous-ing</td><td>wāre-hòuṡ-ing</td><td>n. depositing in a warehouse<br>v. store in a warehouse</td></tr>
+<tr><td>wares</td><td>wār𝕖ṡ</td><td>ware-s</td><td>wār𝕖-ṡ</td><td>n. commodities offered for sale<br>n. articles of the same kind or material</td></tr>
+<tr><td>warehousing</td><td>wār𝕖hòuṡing</td><td>ware-hous-ing</td><td>wār𝕖-hòuṡ-ing</td><td>n. depositing in a warehouse<br>v. store in a warehouse</td></tr>
 <tr><td>warehouses</td><td>wārehòusėṡ</td><td>ware-house-s</td><td>wāre-hòusė-ṡ</td><td></td></tr>
 <tr><td>aware</td><td>åwāre</td><td>a-ware</td><td>å-wāre</td><td>a. having knowledge or perception of a situation or fact</td></tr>
 <tr><td>awarer</td><td>åwāre̊r</td><td>a-war-er</td><td>å-wār-e̊r</td><td></td></tr>
 <tr><td>awarest</td><td>åwārėst</td><td>a-war-est</td><td>å-wār-ėst</td><td></td></tr>
 <tr><td>awareness</td><td>åwār𝕖nėss</td><td>a-ware-ness</td><td>å-wār𝕖-nėss</td><td>n. having knowledge of<br>n. state of elementary or undifferentiated consciousness</td></tr>
 <tr><td>beware</td><td>bėwāre</td><td>be-ware</td><td>bė-wāre</td><td>v. be on one&#x27;s guard; be cautious or wary about; be alert to</td></tr>
-<tr><td>delftware</td><td>delftware</td><td>delft-ware</td><td>delft-ware</td><td>n. pottery made at the city of Delft in Holland; glazed earthenware</td></tr>
-<tr><td>enamelware</td><td>ėname̊lwāre</td><td>enamel-ware</td><td>ėname̊l-wāre</td><td>n. cooking utensil of enameled iron</td></tr>
-<tr><td>kitchenware</td><td>kitche̊nware</td><td>kitchen-ware</td><td>kitche̊n-ware</td><td>n. hardware utensils for use in a kitchen</td></tr>
-<tr><td>malware</td><td>malware</td><td>mal-ware</td><td>mal-ware</td><td>n. software designed to damage or disrupt a computer system</td></tr>
-<tr><td>redware</td><td>redwåre</td><td>red-ware</td><td>red-wåre</td><td>n. a reddish-brown earthenware</td></tr>
-<tr><td>wetware</td><td>wetwåre</td><td>wet-ware</td><td>wet-wåre</td><td>n. human beings considered as a component of a computer system</td></tr>
-<tr><td>dinnerware</td><td>dinne̊rware</td><td>dinn-er-ware</td><td>dinn-e̊r-ware</td><td>n. the tableware (plates and platters and serving bowls etc.) used in serving a meal</td></tr>
-<tr><td>unaware</td><td>ûnåware</td><td>un-a-ware</td><td>ûn-å-ware</td><td>a. not aware or conscious of something</td></tr>
-<tr><td>unawareness</td><td>ûnåwar𝕖nėss</td><td>un-a-ware-ness</td><td>ûn-å-war𝕖-nėss</td><td>n unconsciousness resulting from lack of knowledge or attention</td></tr>
-<tr><td>unawares</td><td>ûnåwar𝕖ṡ</td><td>un-a-ware-s</td><td>ûn-å-war𝕖-ṡ</td><td>adv. without forethought; inadvertently; suddenly and unexpectedly</td></tr>
+<tr><td>delftware</td><td>delftwāre</td><td>delft-ware</td><td>delft-wāre</td><td>n. pottery made at the city of Delft in Holland; glazed earthenware</td></tr>
+<tr><td>enamelware</td><td>ėnamėlwāre</td><td>enamel-ware</td><td>ėnamėl-wāre</td><td>n. cooking utensil of enameled iron</td></tr>
+<tr><td>kitchenware</td><td>kitche̊nwāre</td><td>kitchen-ware</td><td>kitche̊n-wāre</td><td>n. hardware utensils for use in a kitchen</td></tr>
+<tr><td>malware</td><td>malwāre</td><td>mal-ware</td><td>mal-wāre</td><td>n. software designed to damage or disrupt a computer system</td></tr>
+<tr><td>redware</td><td>redwāre</td><td>red-ware</td><td>red-wāre</td><td>n. a reddish-brown earthenware</td></tr>
+<tr><td>wetware</td><td>wetwāre</td><td>wet-ware</td><td>wet-wāre</td><td>n. human beings considered as a component of a computer system</td></tr>
+<tr><td>dinnerware</td><td>dinne̊rwāre</td><td>dinn-er-ware</td><td>dinn-e̊r-wāre</td><td>n. the tableware (plates and platters and serving bowls etc.) used in serving a meal</td></tr>
+<tr><td>unaware</td><td>ûnåwāre</td><td>un-a-ware</td><td>ûn-å-wāre</td><td>a. not aware or conscious of something</td></tr>
+<tr><td>unawareness</td><td>ûnåwār𝕖nėss</td><td>un-a-ware-ness</td><td>ûn-å-wār𝕖-nėss</td><td>n unconsciousness resulting from lack of knowledge or attention</td></tr>
+<tr><td>unawares</td><td>ûnåwār𝕖ṡ</td><td>un-a-ware-s</td><td>ûn-å-wār𝕖-ṡ</td><td>adv. without forethought; inadvertently; suddenly and unexpectedly</td></tr>
 <tr><td>warfarin</td><td>wãrfårin</td><td>warf-ar-in</td><td>wãrf-år-in</td><td>n. an anticoagulant used to prevent and treat blood clots</td></tr>
 <tr><td>warlock</td><td>wãrlock</td><td>warlock</td><td>wãrlock</td><td>n. a male witch or demon</td></tr>
 <tr><td>warm</td><td>wãrm</td><td>warm</td><td>wãrm</td><td>a. having or giving a moderate degree of heat<br>a. friendly and affectionate<br>v. make or become warm</td></tr>
@@ -253,16 +253,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warms</td><td>wãrmṡ</td><td>warm-s</td><td>wãrm-ṡ</td><td></td></tr>
 <tr><td>warmth</td><td>wãrmth</td><td>warm-th</td><td>wãrm-th</td><td>n. the quality or state of being warm<br>n. enthusiasm, affection, or kindness</td></tr>
 <tr><td>warm-hearted</td><td></td><td>warm-heart-ed</td><td></td><td>a. kind and sympathetic</td></tr>
-<tr><td>lukewarm</td><td>lūkewãrm</td><td>luke-warm</td><td>lūke-wãrm</td><td>a. moderately warm; lacking enthusiasm</td></tr>
-<tr><td>rewarm</td><td>rew̄àrm</td><td>re-warm</td><td>re-w̄àrm</td><td>v. to warm again</td></tr>
+<tr><td>lukewarm</td><td>lūk𝕖wãrm</td><td>luke-warm</td><td>lūk𝕖-wãrm</td><td>a. moderately warm; lacking enthusiasm</td></tr>
+<tr><td>rewarm</td><td>rėwãrm</td><td>re-warm</td><td>rė-wãrm</td><td>v. to warm again</td></tr>
 <tr><td>warn</td><td>wãrn</td><td>warn</td><td>wãrn</td><td>v. inform someone of a danger or problem<br>v. give someone advice about what to do</td></tr>
 <tr><td>warned</td><td>wãrn𝕖d</td><td>warn-ed</td><td>wãrn-𝕖d</td><td></td></tr>
 <tr><td>warning</td><td>wãrning</td><td>warn-ing</td><td>wãrn-ing</td><td>n. a statement or event that indicates danger or trouble</td></tr>
 <tr><td>warns</td><td>wãrnṡ</td><td>warn-s</td><td>wãrn-ṡ</td><td></td></tr>
 <tr><td>warningly</td><td>wãrninglẏ</td><td>warn-ing-ly</td><td>wãrn-ing-lẏ</td><td>adv. in a warning manner</td></tr>
 <tr><td>warnings</td><td>wãrningṡ</td><td>warn-ing-s</td><td>wãrn-ing-ṡ</td><td></td></tr>
-<tr><td>forewarn</td><td>forewãrn</td><td>fore-warn</td><td>fore-wãrn</td><td>v. warn in advance or beforehand; give an early warning</td></tr>
-<tr><td>forewarning</td><td>forewãrning</td><td>fore-warn-ing</td><td>fore-wãrn-ing</td><td>n. an early warning about a future event<br>v. warn in advance (forewarn的现在分词)</td></tr>
+<tr><td>forewarn</td><td>for𝕖wãrn</td><td>fore-warn</td><td>for𝕖-wãrn</td><td>v. warn in advance or beforehand; give an early warning</td></tr>
+<tr><td>forewarning</td><td>for𝕖wãrning</td><td>fore-warn-ing</td><td>for𝕖-wãrn-ing</td><td>n. an early warning about a future event<br>v. warn in advance (forewarn的现在分词)</td></tr>
 <tr><td>warp</td><td>wãrp</td><td>warp</td><td>wãrp</td><td>v. to bend or twist out of shape<br>n. a twist or distortion</td></tr>
 <tr><td>warped</td><td>wãrp𝕖ḋ</td><td>warp-ed</td><td>wãrp-𝕖ḋ</td><td>a. bent out of shape; distorted</td></tr>
 <tr><td>warping</td><td>wãrping</td><td>warp-ing</td><td>wãrp-ing</td><td>n. a moral or mental distortion<br>v. bend out of shape, as under pressure or from heat</td></tr>
@@ -270,7 +270,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warrantable</td><td>wãrråntåble</td><td>warr-ant-able</td><td>wãrr-ånt-åble</td><td>a. able to be justified</td></tr>
 <tr><td>warranted</td><td>wãrråntėd</td><td>warr-ant-ed</td><td>wãrr-ånt-ėd</td><td>v. show to be reasonable or provide adequate ground for<br>a. justified or authorized</td></tr>
 <tr><td>warrantee</td><td>wãrråntēe</td><td>warr-ant-ee</td><td>wãrr-ånt-ēe</td><td>n. a person protected by a warranty</td></tr>
-<tr><td>warrantless</td><td>wãrråntle̊ss</td><td>warr-ant-less</td><td>wãrr-ånt-le̊ss</td><td>a. without a warrant or legal authorization</td></tr>
+<tr><td>warrantless</td><td>wãrråntlėss</td><td>warr-ant-less</td><td>wãrr-ånt-lėss</td><td>a. without a warrant or legal authorization</td></tr>
 <tr><td>warranty</td><td>wãrråntẏ</td><td>warr-ant-y</td><td>wãrr-ånt-ẏ</td><td>n. a written guarantee given to the purchaser of a product</td></tr>
 <tr><td>unwarranted</td><td>ûnwãrråntėd</td><td>un-warr-ant-ed</td><td>ûn-wãrr-ånt-ėd</td><td>a. without justification or authorization</td></tr>
 <tr><td>warren</td><td>wãrre̊n</td><td>warren</td><td>wãrre̊n</td><td>n. a rabbit burrow; a crowded area</td></tr>
@@ -278,40 +278,40 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warty</td><td>wãrtẏ</td><td>wart-y</td><td>wãrt-ẏ</td><td>a. covered with warts or projections that resemble warts</td></tr>
 <tr><td>wasabi</td><td>wåsàbi</td><td>wasabi</td><td>wåsàbi</td><td>n. the thick green root of the wasabi plant used in Japanese cooking</td></tr>
 <tr><td>wash</td><td>wãsh</td><td>wash</td><td>wãsh</td><td>v. clean with water<br>n. the act of washing</td></tr>
-<tr><td>washable</td><td>wàshåble</td><td>wash-able</td><td>wàsh-åble</td><td>a. capable of being washed without injury</td></tr>
-<tr><td>washboard</td><td>wàshbōard</td><td>wash-board</td><td>wàsh-bōard</td><td>n. device consisting of a corrugated surface to scrub clothes on</td></tr>
-<tr><td>washcloth</td><td>wàshcloth</td><td>wash-cloth</td><td>wàsh-cloth</td><td>n. a piece of cloth used to wash the face and body</td></tr>
-<tr><td>washed</td><td>wàsh𝕖ḋ</td><td>wash-ed</td><td>wàsh-𝕖ḋ</td><td>a. clean by virtue of having been washed in water</td></tr>
-<tr><td>washer</td><td>wàshe̊r</td><td>wash-er</td><td>wàsh-e̊r</td><td>n. a flat ring used to seal a joint; a person or machine that washes</td></tr>
+<tr><td>washable</td><td>wãshåble</td><td>wash-able</td><td>wãsh-åble</td><td>a. capable of being washed without injury</td></tr>
+<tr><td>washboard</td><td>wãshbōard</td><td>wash-board</td><td>wãsh-bōard</td><td>n. device consisting of a corrugated surface to scrub clothes on</td></tr>
+<tr><td>washcloth</td><td>wãshcloth</td><td>wash-cloth</td><td>wãsh-cloth</td><td>n. a piece of cloth used to wash the face and body</td></tr>
+<tr><td>washed</td><td>wãsh𝕖ḋ</td><td>wash-ed</td><td>wãsh-𝕖ḋ</td><td>a. clean by virtue of having been washed in water</td></tr>
+<tr><td>washer</td><td>wãshe̊r</td><td>wash-er</td><td>wãsh-e̊r</td><td>n. a flat ring used to seal a joint; a person or machine that washes</td></tr>
 <tr><td>washes</td><td>wãshėṡ</td><td>wash-es</td><td>wãsh-ėṡ</td><td></td></tr>
-<tr><td>washing</td><td>wàshing</td><td>wash-ing</td><td>wàsh-ing</td><td>n. the act of cleaning with water; clothes to be washed</td></tr>
-<tr><td>washout</td><td>wàshòut</td><td>wash-out</td><td>wàsh-òut</td><td>n. a complete failure; erosion by water</td></tr>
+<tr><td>washing</td><td>wãshing</td><td>wash-ing</td><td>wãsh-ing</td><td>n. the act of cleaning with water; clothes to be washed</td></tr>
+<tr><td>washout</td><td>wãshòut</td><td>wash-out</td><td>wãsh-òut</td><td>n. a complete failure; erosion by water</td></tr>
 <tr><td>washrag</td><td>wãshrag</td><td>wash-rag</td><td>wãsh-rag</td><td>n bath linen consisting of a piece of cloth used to wash the face and body</td></tr>
-<tr><td>washroom</td><td>wàshroom</td><td>wash-room</td><td>wàsh-room</td><td>n. a lavatory particularly a lavatory in a public place</td></tr>
+<tr><td>washroom</td><td>wãshroom</td><td>wash-room</td><td>wãsh-room</td><td>n. a lavatory particularly a lavatory in a public place</td></tr>
 <tr><td>washstand</td><td>wãshstand</td><td>wash-stand</td><td>wãsh-stand</td><td>n. a table or stand to hold a basin and pitcher of water for washing</td></tr>
-<tr><td>washtub</td><td>wàshtûb</td><td>wash-tub</td><td>wàsh-tûb</td><td>n. a tub in which clothes or linens can be washed</td></tr>
-<tr><td>washbasin</td><td>wàshbāsi̊n</td><td>wash-bas-in</td><td>wàsh-bās-i̊n</td><td>n. a basin for washing, typically in a bathroom</td></tr>
-<tr><td>Washington</td><td>Wàshingto̊n</td><td>Wash-ing-ton</td><td>Wàsh-ing-to̊n</td><td>n. the capital of the US</td></tr>
-<tr><td>washingtonian</td><td>wàshingtōniån</td><td>wash-ing-ton-ian</td><td>wàsh-ing-tōn-iån</td><td>n. a native or resident of Washington<br>a. of or relating to Washington or its people</td></tr>
-<tr><td>awash</td><td>åwàsh</td><td>a-wash</td><td>å-wàsh</td><td>a. covered with water; flooded</td></tr>
+<tr><td>washtub</td><td>wãshtûb</td><td>wash-tub</td><td>wãsh-tûb</td><td>n. a tub in which clothes or linens can be washed</td></tr>
+<tr><td>washbasin</td><td>wãshbāsi̊n</td><td>wash-bas-in</td><td>wãsh-bās-i̊n</td><td>n. a basin for washing, typically in a bathroom</td></tr>
+<tr><td>Washington</td><td>Wãshingto̊n</td><td>Wash-ing-ton</td><td>Wãsh-ing-to̊n</td><td>n. the capital of the US</td></tr>
+<tr><td>washingtonian</td><td>wãshingtōniån</td><td>wash-ing-ton-ian</td><td>wãsh-ing-tōn-iån</td><td>n. a native or resident of Washington<br>a. of or relating to Washington or its people</td></tr>
+<tr><td>awash</td><td>åwãsh</td><td>a-wash</td><td>å-wãsh</td><td>a. covered with water; flooded</td></tr>
 <tr><td>carwash</td><td>càrwãsh</td><td>car-wash</td><td>càr-wãsh</td><td>n. a place where automobiles are washed</td></tr>
 <tr><td>outwash</td><td>òutwãsh</td><td>out-wash</td><td>òut-wãsh</td><td>n. sediment deposited by meltwater from a glacier</td></tr>
-<tr><td>prewashed</td><td>prēwãsh𝕖ḋ</td><td>pre-wash-ed</td><td>prē-wãsh-𝕖ḋ</td><td>a. washed before sale or use</td></tr>
-<tr><td>unwashed</td><td>ûnwàsh𝕖ḋ</td><td>un-wash-ed</td><td>ûn-wàsh-𝕖ḋ</td><td>a. not cleaned with soap and water</td></tr>
+<tr><td>prewashed</td><td>prėwãsh𝕖ḋ</td><td>pre-wash-ed</td><td>prė-wãsh-𝕖ḋ</td><td>a. washed before sale or use</td></tr>
+<tr><td>unwashed</td><td>ûnwãsh𝕖ḋ</td><td>un-wash-ed</td><td>ûn-wãsh-𝕖ḋ</td><td>a. not cleaned with soap and water</td></tr>
 <tr><td>wasp</td><td>wasp</td><td>wasp</td><td>wasp</td><td>n. a winged insect that can sting</td></tr>
-<tr><td>waspish</td><td>wãspish</td><td>wasp-ish</td><td>wãsp-ish</td><td>a. very irritable</td></tr>
-<tr><td>waspy</td><td>wãspẏ</td><td>wasp-y</td><td>wãsp-ẏ</td><td>a. relating to or characteristic of WASPs (White Anglo-Saxon Protestants)</td></tr>
+<tr><td>waspish</td><td>waspish</td><td>wasp-ish</td><td>wasp-ish</td><td>a. very irritable</td></tr>
+<tr><td>waspy</td><td>waspẏ</td><td>wasp-y</td><td>wasp-ẏ</td><td>a. relating to or characteristic of WASPs (White Anglo-Saxon Protestants)</td></tr>
 <tr><td>waste</td><td>wāste</td><td>waste</td><td>wāste</td><td>n. the act of using something carelessly<br>n. material that is not wanted<br>v. use carelessly or extravagantly</td></tr>
 <tr><td>wastage</td><td>wāstȧge</td><td>wast-age</td><td>wāst-ȧge</td><td>n. the process of wasting<br>n. anything lost by wear or waste</td></tr>
-<tr><td>wasted</td><td>wāst𝕖d</td><td>wast-ed</td><td>wāst-𝕖d</td><td>a. not used to good advantage; very thin from disease or hunger</td></tr>
+<tr><td>wasted</td><td>wāstėd</td><td>wast-ed</td><td>wāst-ėd</td><td>a. not used to good advantage; very thin from disease or hunger</td></tr>
 <tr><td>waster</td><td>wāste̊r</td><td>wast-er</td><td>wāst-e̊r</td><td>n. someone who dissipates resources self-indulgently<br>n. a person who destroys or ruins</td></tr>
 <tr><td>wasteful</td><td>wāst𝕖fůl</td><td>waste-ful</td><td>wāst𝕖-fůl</td><td>a. tending to squander and waste</td></tr>
 <tr><td>wasting</td><td>wāsting</td><td>wast-ing</td><td>wāst-ing</td><td>n. a decrease in size of an organ caused by disease or disuse<br>a. causing physical deterioration</td></tr>
-<tr><td>wasteland</td><td>wāst𝕖land</td><td>waste-land</td><td>wāst𝕖-land</td><td>n. an uninhabited area of land that is barren</td></tr>
+<tr><td>wasteland</td><td>wāst𝕖lånd</td><td>waste-land</td><td>wāst𝕖-lånd</td><td>n. an uninhabited area of land that is barren</td></tr>
 <tr><td>wastes</td><td>wāst𝕖s</td><td>waste-s</td><td>wāst𝕖-s</td><td></td></tr>
-<tr><td>wastebasket</td><td>wāst𝕖baske̊t</td><td>waste-bask-et</td><td>wāst𝕖-bask-e̊t</td><td>n. a container for discarded paper and rubbish</td></tr>
+<tr><td>wastebasket</td><td>wāst𝕖bàskėt</td><td>waste-bask-et</td><td>wāst𝕖-bàsk-ėt</td><td>n. a container for discarded paper and rubbish</td></tr>
 <tr><td>wastepaper</td><td>wāst𝕖pāpe̊r</td><td>waste-pap-er</td><td>wāst𝕖-pāp-e̊r</td><td>n. paper that has been discarded</td></tr>
-<tr><td>wastefully</td><td>wāstefůllẏ</td><td>waste-ful-ly</td><td>wāste-fůl-lẏ</td><td>adv. to a wasteful manner or degree</td></tr>
+<tr><td>wastefully</td><td>wāst𝕖fůllẏ</td><td>waste-ful-ly</td><td>wāst𝕖-fůl-lẏ</td><td>adv. to a wasteful manner or degree</td></tr>
 <tr><td>wastefulness</td><td>wāst𝕖fůlnėss</td><td>waste-ful-ness</td><td>wāst𝕖-fůl-nėss</td><td>n the trait of wasting resources<br>n. useless or profitless activity; using resources thoughtlessly</td></tr>
 <tr><td>wastrel</td><td>wāstre̊l</td><td>wastrel</td><td>wāstre̊l</td><td>n. someone who dissipates resources self-indulgently</td></tr>
 <tr><td>wat</td><td>wãt</td><td>wat</td><td>wãt</td><td>n. a Buddhist monastery or temple in Thailand or Cambodia</td></tr>
@@ -321,21 +321,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>watch</td><td>wãtch</td><td>watch</td><td>wãtch</td><td>n. a small timepiece; a period of duty; close observation<br>vt. to look at attentively; to guard<br>vi. to keep vigil</td></tr>
 <tr><td>watchable</td><td>wãtchåble</td><td>watch-able</td><td>wãtch-åble</td><td>a. worth watching; entertaining</td></tr>
 <tr><td>watchband</td><td>wãtchband</td><td>watch-band</td><td>wãtch-band</td><td>n. a band of cloth, leather or metal links attaching a wristwatch to the wrist</td></tr>
-<tr><td>watchdog</td><td>wàtchdog</td><td>watch-dog</td><td>wàtch-dog</td><td>n. a guardian or defender against illegal practices or waste<br>n. a dog trained to guard property</td></tr>
-<tr><td>watched</td><td>wàtch𝕖ḋ</td><td>watch-ed</td><td>wàtch-𝕖ḋ</td><td>v. past tense of watch</td></tr>
-<tr><td>watcher</td><td>wàtche̊r</td><td>watch-er</td><td>wàtch-e̊r</td><td>n. a person who watches or observes</td></tr>
+<tr><td>watchdog</td><td>wãtchdog</td><td>watch-dog</td><td>wãtch-dog</td><td>n. a guardian or defender against illegal practices or waste<br>n. a dog trained to guard property</td></tr>
+<tr><td>watched</td><td>wãtch𝕖ḋ</td><td>watch-ed</td><td>wãtch-𝕖ḋ</td><td>v. past tense of watch</td></tr>
+<tr><td>watcher</td><td>wãtche̊r</td><td>watch-er</td><td>wãtch-e̊r</td><td>n. a person who watches or observes</td></tr>
 <tr><td>watches</td><td>wãtchėṡ</td><td>watch-es</td><td>wãtch-ėṡ</td><td></td></tr>
 <tr><td>watchful</td><td>wãtchfůl</td><td>watch-ful</td><td>wãtch-fůl</td><td>a. engaged in close observation; alert and vigilant</td></tr>
-<tr><td>watching</td><td>wàtching</td><td>watch-ing</td><td>wàtch-ing</td><td>n. the act of observing; taking a patient look<br>v. look attentively</td></tr>
-<tr><td>watchman</td><td>wàtchmån</td><td>watch-man</td><td>wàtch-mån</td><td>n. a guard who keeps watch</td></tr>
-<tr><td>watchword</td><td>wàtchwo̊rd</td><td>watch-word</td><td>wàtch-wo̊rd</td><td>n. a slogan used to rally support for a cause<br>n. a secret word or phrase known only to a restricted group</td></tr>
+<tr><td>watching</td><td>wãtching</td><td>watch-ing</td><td>wãtch-ing</td><td>n. the act of observing; taking a patient look<br>v. look attentively</td></tr>
+<tr><td>watchman</td><td>wãtchmån</td><td>watch-man</td><td>wãtch-mån</td><td>n. a guard who keeps watch</td></tr>
+<tr><td>watchword</td><td>wãtchwo̊rd</td><td>watch-word</td><td>wãtch-wo̊rd</td><td>n. a slogan used to rally support for a cause<br>n. a secret word or phrase known only to a restricted group</td></tr>
 <tr><td>watchmaker</td><td>wãtchmāke̊r</td><td>watch-mak-er</td><td>wãtch-māk-e̊r</td><td>n. someone who makes or repairs watches</td></tr>
 <tr><td>watchtower</td><td>wãtchtòwe̊r</td><td>watch-tow-er</td><td>wãtch-tòw-e̊r</td><td>n. an observation tower for watching over prisoners, fires, or enemies</td></tr>
 <tr><td>watchfully</td><td>wãtchfůllẏ</td><td>watch-ful-ly</td><td>wãtch-fůl-lẏ</td><td>adv. in a watchful manner</td></tr>
-<tr><td>watchfulness</td><td>wàtchfùlne̊ss</td><td>watch-ful-ness</td><td>wàtch-fùl-ne̊ss</td><td>n. the process of paying close and continuous attention<br>n. vigilant attentiveness</td></tr>
+<tr><td>watchfulness</td><td>wãtchfůlnėss</td><td>watch-ful-ness</td><td>wãtch-fůl-nėss</td><td>n. the process of paying close and continuous attention<br>n. vigilant attentiveness</td></tr>
 <tr><td>unwatchable</td><td>ûnwãtchåble</td><td>un-watch-able</td><td>ûn-wãtch-åble</td><td>a. so bad as to be impossible to watch</td></tr>
 <tr><td>unwatched</td><td>ûnwãtch𝕖ḋ</td><td>un-watch-ed</td><td>ûn-wãtch-𝕖ḋ</td><td>a. not watched or observed</td></tr>
-<tr><td>waterbed</td><td>wãte̊rb𝕖d</td><td>water-bed</td><td>wãte̊r-b𝕖d</td><td>n. a bed with a mattress made of vinyl filled with water</td></tr>
+<tr><td>waterbed</td><td>wãte̊rbed</td><td>water-bed</td><td>wãte̊r-bed</td><td>n. a bed with a mattress made of vinyl filled with water</td></tr>
 <tr><td>waterbird</td><td>wãte̊rbi̊rd</td><td>water-bird</td><td>wãte̊r-bi̊rd</td><td>n. freshwater aquatic bird</td></tr>
 <tr><td>waterborne</td><td>wãte̊rborne</td><td>water-borne</td><td>wãte̊r-borne</td><td>a. transported by water<br>a. supported by water</td></tr>
 <tr><td>watercolor</td><td>wãte̊rcôlo̊r</td><td>water-color</td><td>wãte̊r-côlo̊r</td><td>n. paint that is mixed with water<br>n. a picture painted with watercolors</td></tr>
@@ -351,18 +351,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waterfront</td><td>wãte̊rfrônt</td><td>water-front</td><td>wãte̊r-frônt</td><td>n. the area of a city alongside a body of water</td></tr>
 <tr><td>waterhole</td><td>wãte̊rhōle</td><td>water-hole</td><td>wãte̊r-hōle</td><td>n. a natural hole or hollow containing water</td></tr>
 <tr><td>watering</td><td>wãte̊ring</td><td>water-ing</td><td>wãte̊r-ing</td><td>n. wetting with water</td></tr>
-<tr><td>waterless</td><td>wãte̊rle̊ss</td><td>water-less</td><td>wãte̊r-le̊ss</td><td>a. lacking sufficient water or rainfall</td></tr>
+<tr><td>waterless</td><td>wãte̊rlėss</td><td>water-less</td><td>wãte̊r-lėss</td><td>a. lacking sufficient water or rainfall</td></tr>
 <tr><td>waterline</td><td>wãte̊rlīne</td><td>water-line</td><td>wãte̊r-līne</td><td>n. a line corresponding to the surface of the water when a vessel is afloat</td></tr>
 <tr><td>waterlog</td><td>wãte̊rlog</td><td>water-log</td><td>wãte̊r-log</td><td>v. make completely wet by soaking with water</td></tr>
 <tr><td>waterman</td><td>wãte̊rmån</td><td>water-man</td><td>wãte̊r-mån</td><td>n. someone who drives or rides in a boat</td></tr>
 <tr><td>watermark</td><td>wãte̊rmàrk</td><td>water-mark</td><td>wãte̊r-màrk</td><td>n. a mark impressed on paper during manufacture, visible when held to light</td></tr>
 <tr><td>waterproof</td><td>wãte̊rproof</td><td>water-proof</td><td>wãte̊r-proof</td><td>a. not allowing water to pass through<br>n. waterproof material<br>vt. to make waterproof</td></tr>
-<tr><td>watershed</td><td>wãte̊rsh𝕖d</td><td>water-shed</td><td>wãte̊r-sh𝕖d</td><td>n. a ridge of land separating two river systems<br>n. an event marking a turning point</td></tr>
+<tr><td>watershed</td><td>wãte̊rshed</td><td>water-shed</td><td>wãte̊r-shed</td><td>n. a ridge of land separating two river systems<br>n. an event marking a turning point</td></tr>
 <tr><td>waterside</td><td>wãte̊rsīde</td><td>water-side</td><td>wãte̊r-sīde</td><td>n. land bordering a body of water</td></tr>
 <tr><td>waterspout</td><td>wãte̊rspòut</td><td>water-spout</td><td>wãte̊r-spòut</td><td>n. a tornado passing over water and picking up a column of water and mist<br>n. a channel for discharging water, especially for drainage from roof gutters</td></tr>
 <tr><td>watertight</td><td>wãte̊rtī𝕘𝕙t</td><td>water-tight</td><td>wãte̊r-tī𝕘𝕙t</td><td>a. not allowing water to pass in or out</td></tr>
 <tr><td>waterway</td><td>wãte̊rwāy</td><td>water-way</td><td>wãte̊r-wāy</td><td>n. a navigable body of water</td></tr>
-<tr><td>waterwheel</td><td>wãte̊rwhēel</td><td>water-wheel</td><td>wãte̊r-whēel</td><td>n. a wheel with buckets attached to its rim; raises water from a stream or pond<br>n. a wheel that rotates by direct action of water; a simple turbine</td></tr>
+<tr><td>waterwheel</td><td>wãte̊rw𝕙ēel</td><td>water-wheel</td><td>wãte̊r-w𝕙ēel</td><td>n. a wheel with buckets attached to its rim; raises water from a stream or pond<br>n. a wheel that rotates by direct action of water; a simple turbine</td></tr>
 <tr><td>waterworks</td><td>wãte̊rwo̊rks</td><td>water-works</td><td>wãte̊r-wo̊rks</td><td>n. workplace where water is stored and purified and distributed for a community</td></tr>
 <tr><td>watery</td><td>wãte̊rẏ</td><td>water-y</td><td>wãte̊r-ẏ</td><td>a. containing or filled with water<br>a. weak or lacking flavor</td></tr>
 <tr><td>waterfowler</td><td>wãte̊rfòwle̊r</td><td>water-fowl-er</td><td>wãte̊r-fòwl-e̊r</td><td>n. a person who hunts waterfowl</td></tr>
@@ -371,41 +371,41 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waterproofness</td><td>wãte̊rproofnėss</td><td>water-proof-ness</td><td>wãte̊r-proof-nėss</td><td>n. the property of being waterproof</td></tr>
 <tr><td>watermelon</td><td>wãte̊rmelo̊n</td><td>water-mel-on</td><td>wãte̊r-mel-o̊n</td><td>n. a large fruit with green skin and sweet red flesh</td></tr>
 <tr><td>waters</td><td>wãte̊rṡ</td><td>wat-er-s</td><td>wãt-e̊r-ṡ</td><td></td></tr>
-<tr><td>dewatered</td><td>dėwãte̊r𝕖d</td><td>de-water-ed</td><td>dė-wãte̊r-𝕖d</td><td>v. remove water from</td></tr>
-<tr><td>dewatering</td><td>dėwãte̊ring</td><td>de-water-ing</td><td>dė-wãte̊r-ing</td><td>n. the removal of water from something</td></tr>
+<tr><td>dewatered</td><td>dēwãte̊r𝕖d</td><td>de-water-ed</td><td>dē-wãte̊r-𝕖d</td><td>v. remove water from</td></tr>
+<tr><td>dewatering</td><td>dēwãte̊ring</td><td>de-water-ing</td><td>dē-wãte̊r-ing</td><td>n. the removal of water from something</td></tr>
 <tr><td>overwater</td><td>ōve̊rwãte̊r</td><td>over-water</td><td>ōve̊r-wãte̊r</td><td>a. over or across water</td></tr>
 <tr><td>underwater</td><td>ûnde̊rwãte̊r</td><td>under-water</td><td>ûnde̊r-wãte̊r</td><td>a. beneath the surface of the water<br>adv. beneath the surface of the water</td></tr>
-<tr><td>wastewater</td><td>wāstewãte̊r</td><td>waste-water</td><td>wāste-wãte̊r</td><td>n. water that has been used and contains waste</td></tr>
-<tr><td>watt</td><td>wàtt</td><td>watt</td><td>wàtt</td><td>n. a unit of electrical power</td></tr>
+<tr><td>wastewater</td><td>wāst𝕖wãte̊r</td><td>waste-water</td><td>wāst𝕖-wãte̊r</td><td>n. water that has been used and contains waste</td></tr>
+<tr><td>watt</td><td>wãtt</td><td>watt</td><td>wãtt</td><td>n. a unit of electrical power</td></tr>
 <tr><td>wattle</td><td>wàttle</td><td>wattle</td><td>wàttle</td><td>n. a fleshy fold of skin on the neck of certain birds and lizards<br>n. a framework of stakes interwoven with branches for fencing</td></tr>
-<tr><td>wattage</td><td>wàttåge</td><td>watt-age</td><td>wàtt-åge</td><td>n. the product of voltage and current</td></tr>
-<tr><td>gigawatt</td><td>gī𝕘åwãtt</td><td>giga-watt</td><td>gī𝕘å-wãtt</td><td>n. a unit of power equal to one billion watts</td></tr>
+<tr><td>wattage</td><td>wàttȧge</td><td>watt-age</td><td>wàtt-ȧge</td><td>n. the product of voltage and current</td></tr>
+<tr><td>gigawatt</td><td>gigåwãtt</td><td>giga-watt</td><td>gigå-wãtt</td><td>n. a unit of power equal to one billion watts</td></tr>
 <tr><td>unwavering</td><td>ûnwāve̊ring</td><td>un-wav-er-ing</td><td>ûn-wāv-e̊r-ing</td><td>a. marked by firm determination; not wavering</td></tr>
 <tr><td>unwaveringly</td><td>ûnwāve̊ringlẏ</td><td>un-wav-er-ing-ly</td><td>ûn-wāv-e̊r-ing-lẏ</td><td>adv. with resolute determination</td></tr>
 <tr><td>wave</td><td>wāve</td><td>wave</td><td>wāve</td><td>n. a long body of water curling into an arched form and breaking on the shore<br>v. move one&#x27;s hand to and fro in greeting or as a signal</td></tr>
 <tr><td>waved</td><td>wāv𝕖d</td><td>wav-ed</td><td>wāv-𝕖d</td><td></td></tr>
 <tr><td>waver</td><td>wāve̊r</td><td>wav-er</td><td>wāv-e̊r</td><td>v. to move back and forth; to be undecided</td></tr>
 <tr><td>wavery</td><td>wāve̊rẏ</td><td>wav-ery</td><td>wāv-e̊rẏ</td><td>a. unsteady, wavering, or rippling</td></tr>
-<tr><td>waveform</td><td>wāveform</td><td>wave-form</td><td>wāve-form</td><td>n. the shape of a wave plotted graphically against time</td></tr>
+<tr><td>waveform</td><td>wāv𝕖form</td><td>wave-form</td><td>wāv𝕖-form</td><td>n. the shape of a wave plotted graphically against time</td></tr>
 <tr><td>wavefront</td><td>wāv𝕖frônt</td><td>wave-front</td><td>wāv𝕖-frônt</td><td>n. (physics) an imaginary surface joining all points reached at the same instant by a wave</td></tr>
-<tr><td>waveguide</td><td>wāveguīde</td><td>wave-guide</td><td>wāve-guīde</td><td>n. a hollow metal conductor that guides electromagnetic waves</td></tr>
+<tr><td>waveguide</td><td>wāv𝕖guīde</td><td>wave-guide</td><td>wāv𝕖-guīde</td><td>n. a hollow metal conductor that guides electromagnetic waves</td></tr>
 <tr><td>waving</td><td>wāving</td><td>wav-ing</td><td>wāv-ing</td><td>a. moving back and forth</td></tr>
 <tr><td>wavelength</td><td>wāv𝕖length</td><td>wave-length</td><td>wāv𝕖-length</td><td>n. the distance between two points in the same phase in consecutive cycles of a wave</td></tr>
 <tr><td>wavelet</td><td>wāv𝕖lėt</td><td>wave-let</td><td>wāv𝕖-lėt</td><td>n. a small wave on the surface of a liquid</td></tr>
 <tr><td>waves</td><td>wāv𝕖ṡ</td><td>wave-s</td><td>wāv𝕖-ṡ</td><td></td></tr>
 <tr><td>wavy</td><td>wāvẏ</td><td>wav-y</td><td>wāv-ẏ</td><td>a. having a wavy form or surface</td></tr>
-<tr><td>wavepacket</td><td>wāv𝕖packe̊t</td><td>wave-pack-et</td><td>wāv𝕖-pack-e̊t</td><td>n. (physics) a short burst of wave motion</td></tr>
+<tr><td>wavepacket</td><td>wāv𝕖packėt</td><td>wave-pack-et</td><td>wāv𝕖-pack-ėt</td><td>n. (physics) a short burst of wave motion</td></tr>
 <tr><td>wavering</td><td>wāve̊ring</td><td>wav-er-ing</td><td>wāv-e̊r-ing</td><td>n. indecision in speech or action<br>v. be unsure or weak<br>a. uncertain in purpose or action</td></tr>
 <tr><td>wavefunction</td><td>wāv𝕖fûnctio̊n</td><td>wave-funct-ion</td><td>wāv𝕖-fûnct-io̊n</td><td>n. a mathematical function used in quantum mechanics to describe the state of a system</td></tr>
-<tr><td>wavevector</td><td>wāvevecto̊r</td><td>wave-vect-or</td><td>wāve-vect-o̊r</td><td>n. a vector that describes the direction and wavelength of a wave</td></tr>
+<tr><td>wavevector</td><td>wāv𝕖vecto̊r</td><td>wave-vect-or</td><td>wāv𝕖-vect-o̊r</td><td>n. a vector that describes the direction and wavelength of a wave</td></tr>
 <tr><td>microwave</td><td>mīcrōwāve</td><td>micro-wave</td><td>mīcrō-wāve</td><td>n. a type of electromagnetic wave used for cooking and communication<br>v. to cook using a microwave oven</td></tr>
 <tr><td>microwavable</td><td>mīcrōwāvåble</td><td>micro-wav-able</td><td>mīcrō-wāv-åble</td><td>a. suitable for heating in a microwave oven</td></tr>
-<tr><td>microwaveable</td><td>mīcrōwāveåble</td><td>micro-wave-able</td><td>mīcrō-wāve-åble</td><td>a. suitable for cooking in a microwave oven</td></tr>
+<tr><td>microwaveable</td><td>mīcrōwāv𝕖åble</td><td>micro-wave-able</td><td>mīcrō-wāv𝕖-åble</td><td>a. suitable for cooking in a microwave oven</td></tr>
 <tr><td>microwaved</td><td>mīcrōwāv𝕖d</td><td>micro-wav-ed</td><td>mīcrō-wāv-𝕖d</td><td>v. cook or heat in a microwave oven</td></tr>
 <tr><td>wax</td><td>wax</td><td>wax</td><td>wax</td><td>n. a solid substance that melts when heated<br>v. to grow or increase<br>v. to coat with wax</td></tr>
 <tr><td>waxed</td><td>wax𝕖ḋ</td><td>wax-ed</td><td>wax-𝕖ḋ</td><td>a. treated with wax</td></tr>
 <tr><td>waxen</td><td>waxe̊n</td><td>wax-en</td><td>wax-e̊n</td><td>a. made of or covered with wax<br>a. having the paleness of wax</td></tr>
-<tr><td>waxes</td><td>wax𝕖ṡ</td><td>wax-es</td><td>wax-𝕖ṡ</td><td>n. plural of wax</td></tr>
+<tr><td>waxes</td><td>waxėṡ</td><td>wax-es</td><td>wax-ėṡ</td><td>n. plural of wax</td></tr>
 <tr><td>waxing</td><td>waxing</td><td>wax-ing</td><td>wax-ing</td><td>n. a gradual increase in magnitude or extent<br>a. (of the moon) pertaining to the period during which the visible surface increases</td></tr>
 <tr><td>waxy</td><td>waxẏ</td><td>wax-y</td><td>wax-ẏ</td><td>a. made of or covered with wax<br>a. having the paleness of wax</td></tr>
 <tr><td>way</td><td>wāy</td><td>way</td><td>wāy</td><td>n. a road, path, or course; a method or manner; a direction</td></tr>
@@ -419,15 +419,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>subway</td><td>sûbwāy</td><td>sub-way</td><td>sûb-wāy</td><td>n. an underground electric railway system</td></tr>
 <tr><td>subways</td><td>sûbwāyṡ</td><td>sub-way-s</td><td>sûb-wāy-ṡ</td><td></td></tr>
 <tr><td>three-way</td><td>thrēe-wāy</td><td>three-way</td><td>thrēe-wāy</td><td></td></tr>
-<tr><td>tollway</td><td>to̊llwāy</td><td>toll-way</td><td>to̊ll-wāy</td><td></td></tr>
+<tr><td>tollway</td><td>tōllwāy</td><td>toll-way</td><td>tōll-wāy</td><td></td></tr>
 <tr><td>three-ways</td><td>thrēe-wāyṡ</td><td>three-way-s</td><td>thrēe-wāy-ṡ</td><td></td></tr>
 <tr><td>underway</td><td>ûnde̊rwāy</td><td>under-way</td><td>ûnde̊r-wāy</td><td>a. currently in progress; having started</td></tr>
-<tr><td>carriageway</td><td>carriȧgewāy</td><td>carr-i-age-way</td><td>carr-i-ȧge-wāy</td><td>n. one side of a motorway where traffic travels in one direction in two or three lanes</td></tr>
+<tr><td>carriageway</td><td>carriȧg𝕖wāy</td><td>carr-i-age-way</td><td>carr-i-ȧg𝕖-wāy</td><td>n. one side of a motorway where traffic travels in one direction in two or three lanes</td></tr>
 <tr><td>we</td><td>wē</td><td>we</td><td>wē</td><td>pron. used by a speaker to refer to himself or herself and one or more other people</td></tr>
 <tr><td>weak</td><td>wēak</td><td>weak</td><td>wēak</td><td>a. lacking physical strength or energy<br>a. lacking force or authority</td></tr>
 <tr><td>weaken</td><td>wēake̊n</td><td>weak-en</td><td>wēak-e̊n</td><td>v. make or become weaker</td></tr>
 <tr><td>weaker</td><td>wēake̊r</td><td>weak-er</td><td>wēak-e̊r</td><td></td></tr>
-<tr><td>weakest</td><td>wēake̊st</td><td>weak-est</td><td>wēak-e̊st</td><td>a. superlative of weak; least strong</td></tr>
+<tr><td>weakest</td><td>wēakėst</td><td>weak-est</td><td>wēak-ėst</td><td>a. superlative of weak; least strong</td></tr>
 <tr><td>weakfish</td><td>wēakfish</td><td>weak-fish</td><td>wēak-fish</td><td>n. a marine food fish of the Atlantic coast of North America</td></tr>
 <tr><td>weakling</td><td>wēakling</td><td>weak-ling</td><td>wēak-ling</td><td>n. a person who is physically weak and ineffectual</td></tr>
 <tr><td>weakly</td><td>wēaklẏ</td><td>weak-ly</td><td>wēak-lẏ</td><td>adv. in a weak or feeble manner</td></tr>
@@ -448,7 +448,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>weaponless</td><td>wèapo̊nlėss</td><td>weap-on-less</td><td>wèap-o̊n-lėss</td><td>a. without a weapon</td></tr>
 <tr><td>weaponry</td><td>wèapo̊nrẏ</td><td>weap-on-ry</td><td>wèap-o̊n-rẏ</td><td>n. weapons considered collectively</td></tr>
 <tr><td>weapons</td><td>wèapo̊nṡ</td><td>weap-on-s</td><td>wèap-o̊n-ṡ</td><td></td></tr>
-<tr><td>weaponized</td><td>wēapo̊nīz𝕖d</td><td>weap-on-iz-ed</td><td>wēap-o̊n-īz-𝕖d</td><td>v. make into or use as a weapon or a potential weapon</td></tr>
+<tr><td>weaponized</td><td>wèapo̊nīz𝕖d</td><td>weap-on-iz-ed</td><td>wèap-o̊n-īz-𝕖d</td><td>v. make into or use as a weapon or a potential weapon</td></tr>
 <tr><td>weaponization</td><td>wèapo̊nīzātio̊n</td><td>weap-on-iz-at-ion</td><td>wèap-o̊n-īz-āt-io̊n</td><td>n. the act of converting something into a weapon or a means of attack</td></tr>
 <tr><td>bioweapon</td><td>bīōwèapo̊n</td><td>bio-weapon</td><td>bīō-wèapo̊n</td><td>n. any weapon usable in biological warfare</td></tr>
 <tr><td>wear</td><td>weār</td><td>wear</td><td>weār</td><td>v. to have something on the body as clothing or decoration<br>v. to become damaged or thinner by use over time</td></tr>
@@ -457,11 +457,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wearing</td><td>weāring</td><td>wear-ing</td><td>weār-ing</td><td>a. producing exhaustion</td></tr>
 <tr><td>wears</td><td>weārṡ</td><td>wear-s</td><td>weār-ṡ</td><td></td></tr>
 <tr><td>weary</td><td>wēarẏ</td><td>wear-y</td><td>wēar-ẏ</td><td>a. feeling or showing tiredness<br>v. to make or become tired</td></tr>
-<tr><td>wearability</td><td>we̊aråbili̊tẏ</td><td>wear-abil-ity</td><td>we̊ar-åbil-i̊tẏ</td><td>n. the ability to withstand wear</td></tr>
+<tr><td>wearability</td><td>weāråbilitẏ</td><td>wear-abil-ity</td><td>weār-åbil-itẏ</td><td>n. the ability to withstand wear</td></tr>
 <tr><td>wearying</td><td>wēarẏing</td><td>wear-y-ing</td><td>wēar-ẏ-ing</td><td>v. exhaust or get tired through overuse<br>a. producing exhaustion</td></tr>
-<tr><td>wearily</td><td>weāri̊lẏ</td><td>wear-i-ly</td><td>weār-i̊-lẏ</td><td>adv. in a weary manner</td></tr>
-<tr><td>weariness</td><td>wēarine̊ss</td><td>wear-i-ness</td><td>wēar-i-ne̊ss</td><td>n. temporary loss of strength and energy resulting from hard physical or mental work</td></tr>
-<tr><td>wearisome</td><td>wēarĩso̊me</td><td>wear-i-some</td><td>wēar-ĩ-so̊me</td><td>a. so lacking in interest as to cause mental weariness</td></tr>
+<tr><td>wearily</td><td>wēarilẏ</td><td>wear-i-ly</td><td>wēar-i-lẏ</td><td>adv. in a weary manner</td></tr>
+<tr><td>weariness</td><td>wēarinėss</td><td>wear-i-ness</td><td>wēar-i-nėss</td><td>n. temporary loss of strength and energy resulting from hard physical or mental work</td></tr>
+<tr><td>wearisome</td><td>wēariso̊me</td><td>wear-i-some</td><td>wēar-i-so̊me</td><td>a. so lacking in interest as to cause mental weariness</td></tr>
 <tr><td>unworn</td><td>ûnworn</td><td>un-worn</td><td>ûn-worn</td><td>a. not worn or showing signs of wear</td></tr>
 <tr><td>wore</td><td>wore</td><td>wore</td><td>wore</td><td></td></tr>
 <tr><td>worn</td><td>worn</td><td>worn</td><td>worn</td><td>a. affected by wear; damaged by long use</td></tr>
@@ -483,7 +483,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>woven</td><td>wōve̊n</td><td>wov-en</td><td>wōv-e̊n</td><td>a. made by interlacing threads</td></tr>
 <tr><td>web</td><td>web</td><td>web</td><td>web</td><td>n. a network of fine threads made by a spider<br>n. the Internet</td></tr>
 <tr><td>webcam</td><td>webcam</td><td>web-cam</td><td>web-cam</td><td>n. a digital camera designed to take photographs and transmit them over the internet</td></tr>
-<tr><td>webcast</td><td>webcast</td><td>web-cast</td><td>web-cast</td><td>n. a broadcast transmitted over the Internet</td></tr>
+<tr><td>webcast</td><td>webcàst</td><td>web-cast</td><td>web-càst</td><td>n. a broadcast transmitted over the Internet</td></tr>
 <tr><td>webbed</td><td>webb𝕖d</td><td>webb-ed</td><td>webb-𝕖d</td><td>a. (of the feet of some animals) having the digits connected by a thin fold of skin</td></tr>
 <tr><td>webbing</td><td>webbing</td><td>webb-ing</td><td>webb-ing</td><td>n. a strong fabric woven in strips; something forming a web</td></tr>
 <tr><td>weblog</td><td>weblog</td><td>web-log</td><td>web-log</td><td>n. a personal website where an individual records opinions, links to other sites, etc.</td></tr>
@@ -491,25 +491,25 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>webs</td><td>webṡ</td><td>web-s</td><td>web-ṡ</td><td></td></tr>
 <tr><td>website</td><td>websīte</td><td>web-site</td><td>web-sīte</td><td>n. a set of related web pages located under a single domain name</td></tr>
 <tr><td>webby</td><td>webbẏ</td><td>webb-y</td><td>webb-ẏ</td><td>a. having open interstices or resembling a web</td></tr>
-<tr><td>webmaster</td><td>webmaste̊r</td><td>web-mast-er</td><td>web-mast-e̊r</td><td>n. a technician who designs or maintains a website</td></tr>
+<tr><td>webmaster</td><td>webmàste̊r</td><td>web-mast-er</td><td>web-màst-e̊r</td><td>n. a technician who designs or maintains a website</td></tr>
 <tr><td>websites</td><td>websīt𝕖s</td><td>web-site-s</td><td>web-sīt𝕖-s</td><td></td></tr>
 <tr><td>cobweb</td><td>cobweb</td><td>cob-web</td><td>cob-web</td><td>n. a web spun by a spider</td></tr>
 <tr><td>cobwebbed</td><td>cobwebb𝕖d</td><td>cob-webb-ed</td><td>cob-webb-𝕖d</td><td>a. abounding in cobwebs</td></tr>
 <tr><td>cobwebby</td><td>cobwebbẏ</td><td>cob-webb-y</td><td>cob-webb-ẏ</td><td>a. covered with cobwebs</td></tr>
-<tr><td>weberian</td><td>wèbėriån</td><td>weber-ian</td><td>wèbėr-iån</td><td>a. relating to or characteristic of Max Weber or his sociological theories</td></tr>
-<tr><td>wed</td><td>w𝕖d</td><td>wed</td><td>w𝕖d</td><td>v. to marry</td></tr>
-<tr><td>wedded</td><td>wedd𝕖d</td><td>wedd-ed</td><td>wedd-𝕖d</td><td>a. having been taken in marriage<br>a. deeply devoted to</td></tr>
+<tr><td>weberian</td><td>webēriån</td><td>weber-ian</td><td>webēr-iån</td><td>a. relating to or characteristic of Max Weber or his sociological theories</td></tr>
+<tr><td>wed</td><td>wed</td><td>wed</td><td>wed</td><td>v. to marry</td></tr>
+<tr><td>wedded</td><td>weddėd</td><td>wedd-ed</td><td>wedd-ėd</td><td>a. having been taken in marriage<br>a. deeply devoted to</td></tr>
 <tr><td>wedding</td><td>wedding</td><td>wedd-ing</td><td>wedd-ing</td><td>n. a marriage ceremony and the celebrations</td></tr>
 <tr><td>wedlock</td><td>wedlock</td><td>wed-lock</td><td>wed-lock</td><td>n. the state of being a married couple</td></tr>
 <tr><td>weddings</td><td>weddingṡ</td><td>wedd-ing-s</td><td>wedd-ing-ṡ</td><td></td></tr>
-<tr><td>unwed</td><td>ûnw𝕖d</td><td>un-wed</td><td>ûn-w𝕖d</td><td>a. of someone who has not been married</td></tr>
+<tr><td>unwed</td><td>ûnwed</td><td>un-wed</td><td>ûn-wed</td><td>a. of someone who has not been married</td></tr>
 <tr><td>wedge</td><td>wedge</td><td>wedge</td><td>wedge</td><td>n. a piece of material with a pointed edge used to split things<br>v. to squeeze tightly into a space</td></tr>
 <tr><td>wedge-shaped</td><td>wedge-shāp𝕖ḋ</td><td>wedge-shap-ed</td><td>wedge-shāp-𝕖ḋ</td><td>a. shaped like a wedge</td></tr>
 <tr><td>wedgie</td><td>wedgie</td><td>wedgie</td><td>wedgie</td><td>n. a shoe with a wedge heel</td></tr>
-<tr><td>wednesday</td><td>we𝕕neṡdāy</td><td></td><td></td><td>n. the fourth day of the week</td></tr>
+<tr><td>wednesday</td><td>we𝕕n𝕖ṡdāy</td><td></td><td></td><td>n. the fourth day of the week</td></tr>
 <tr><td>wee</td><td>wēe</td><td>wee</td><td>wēe</td><td>a. very small; very early<br>n. a short time</td></tr>
 <tr><td>weed</td><td>wēed</td><td>weed</td><td>wēed</td><td>n. a wild plant growing where it is not wanted<br>v. remove weeds</td></tr>
-<tr><td>weedbed</td><td>wēedb𝕖d</td><td>weed-bed</td><td>wēed-b𝕖d</td><td>n. a dense growth of weeds in a body of water</td></tr>
+<tr><td>weedbed</td><td>wēedbed</td><td>weed-bed</td><td>wēed-bed</td><td>n. a dense growth of weeds in a body of water</td></tr>
 <tr><td>weeding</td><td>wēeding</td><td>weed-ing</td><td>wēed-ing</td><td>v. clear of weeds</td></tr>
 <tr><td>weedless</td><td>wēedlėss</td><td>weed-less</td><td>wēed-lėss</td><td>a. free from weeds</td></tr>
 <tr><td>weeds</td><td>wēedṡ</td><td>weed-s</td><td>wēed-ṡ</td><td></td></tr>
@@ -562,12 +562,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>welterweight</td><td>welte̊rwèi𝕘𝕙t</td><td>welter-weight</td><td>welte̊r-wèi𝕘𝕙t</td><td>n. a wrestler who weighs 154-172 pounds<br>n. a boxer who weighs no more than 147 pounds</td></tr>
 <tr><td>counterweight</td><td>còunte̊rwèi𝕘𝕙t</td><td>count-er-weight</td><td>còunt-e̊r-wèi𝕘𝕙t</td><td>n. a weight that balances another weight</td></tr>
 <tr><td>middleweight</td><td>middl𝕖wèi𝕘𝕙t</td><td>midd-le-weight</td><td>midd-l𝕖-wèi𝕘𝕙t</td><td>n. a boxer or wrestler in the middle weight class</td></tr>
-<tr><td>weird</td><td>weird</td><td>weird</td><td>weird</td><td>a. strange and unusual; unexpected</td></tr>
+<tr><td>weird</td><td>wēird</td><td>weird</td><td>wēird</td><td>a. strange and unusual; unexpected</td></tr>
 <tr><td>weirder</td><td>weirde̊r</td><td>weird-er</td><td>weird-e̊r</td><td></td></tr>
 <tr><td>weirdest</td><td>weirdėst</td><td>weird-est</td><td>weird-ėst</td><td></td></tr>
-<tr><td>weirdly</td><td>weirdlẏ</td><td>weird-ly</td><td>weird-lẏ</td><td>adv. in a weird manner</td></tr>
-<tr><td>weirdness</td><td>weirdnėss</td><td>weird-ness</td><td>weird-nėss</td><td>n. strikingly out of the ordinary</td></tr>
-<tr><td>weirdo</td><td>weirdō</td><td>weird-o</td><td>weird-ō</td><td>n someone unpleasantly strange or eccentric<br>n someone deranged and possibly dangerous</td></tr>
+<tr><td>weirdly</td><td>wēirdlẏ</td><td>weird-ly</td><td>wēird-lẏ</td><td>adv. in a weird manner</td></tr>
+<tr><td>weirdness</td><td>wēirdnėss</td><td>weird-ness</td><td>wēird-nėss</td><td>n. strikingly out of the ordinary</td></tr>
+<tr><td>weirdo</td><td>wēirdō</td><td>weird-o</td><td>wēird-ō</td><td>n someone unpleasantly strange or eccentric<br>n someone deranged and possibly dangerous</td></tr>
 <tr><td>weirdos</td><td>weirdōṡ</td><td>weird-o-s</td><td>weird-ō-ṡ</td><td></td></tr>
 <tr><td>weld</td><td>weld</td><td>weld</td><td>weld</td><td>n. a metal joint formed by heating<br>v. to join together by heating</td></tr>
 <tr><td>welded</td><td>weldėd</td><td>weld-ed</td><td>weld-ėd</td><td>v. join together by heating<br>v. unite closely or intimately</td></tr>
@@ -577,7 +577,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>well</td><td>well</td><td>well</td><td>well</td><td>n. a deep hole for water or oil; a source<br>adv. in a good or satisfactory way<br>a. in good health<br>interj. used to express surprise or hesitation</td></tr>
 <tr><td>wellhead</td><td>wellhèad</td><td>well-head</td><td>well-hèad</td><td>n. the source of water for a well<br>n. a structure built over a well</td></tr>
 <tr><td>welling</td><td>welling</td><td>well-ing</td><td>well-ing</td><td>v. come up, as of a liquid</td></tr>
-<tr><td>wellness</td><td>wellne̊ss</td><td>well-ness</td><td>well-ne̊ss</td><td>n. the state of being in good health</td></tr>
+<tr><td>wellness</td><td>wellnėss</td><td>well-ness</td><td>well-nėss</td><td>n. the state of being in good health</td></tr>
 <tr><td>well-off</td><td></td><td>well-off</td><td></td><td>a. prosperous, wealthy</td></tr>
 <tr><td>wells</td><td>wellṡ</td><td>well-s</td><td>well-ṡ</td><td></td></tr>
 <tr><td>well-to-do</td><td></td><td>well-to-do</td><td></td><td>a. rich, prosperous</td></tr>
@@ -594,7 +594,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wench</td><td>wench</td><td>wench</td><td>wench</td><td>v. frequent prostitutes<br>n. informal terms for a (young) woman</td></tr>
 <tr><td>wend</td><td>wend</td><td>wend</td><td>wend</td><td>v. direct one&#x27;s course or way</td></tr>
 <tr><td>werewolf</td><td>wèrewõlf</td><td>were-wolf</td><td>wère-wõlf</td><td>n. a monster able to change appearance from human to wolf and back again</td></tr>
-<tr><td>wesleyan</td><td>weṡlēyån</td><td>wesley-an</td><td>weṡlēy-ån</td><td>n. a follower of Wesleyanism</td></tr>
+<tr><td>wesleyan</td><td>weṡlėyån</td><td>wesley-an</td><td>weṡlėy-ån</td><td>n. a follower of Wesleyanism</td></tr>
 <tr><td>west</td><td>west</td><td>west</td><td>west</td><td>n. the direction toward the point where the sun sets<br>a. lying toward the west</td></tr>
 <tr><td>western</td><td>weste̊rn</td><td>west-ern</td><td>west-e̊rn</td><td>n. a film or story about the American West<br>a. relating to the west</td></tr>
 <tr><td>westward</td><td>westwård</td><td>west-ward</td><td>west-wård</td><td>adv. toward the west<br>a. moving or directed toward the west</td></tr>
@@ -608,12 +608,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>westernizer</td><td>weste̊rnīze̊r</td><td>west-ern-iz-er</td><td>west-e̊rn-īz-e̊r</td><td>n. one who advocates or promotes westernization</td></tr>
 <tr><td>westphalian</td><td>westphāliån</td><td>westphal-ian</td><td>westphāl-iån</td><td>a. of or relating to Westphalia or its inhabitants</td></tr>
 <tr><td>wet</td><td>wet</td><td>wet</td><td>wet</td><td>a. covered or soaked with a liquid such as water<br>v. cause to become wet</td></tr>
-<tr><td>wetted</td><td>wett𝕖d</td><td>wett-ed</td><td>wett-𝕖d</td><td>v. cause to become wet</td></tr>
+<tr><td>wetted</td><td>wettėd</td><td>wett-ed</td><td>wett-ėd</td><td>v. cause to become wet</td></tr>
 <tr><td>wetter</td><td>wette̊r</td><td>wett-er</td><td>wett-e̊r</td><td></td></tr>
 <tr><td>wettest</td><td>wettėst</td><td>wett-est</td><td>wett-ėst</td><td></td></tr>
 <tr><td>wetting</td><td>wetting</td><td>wett-ing</td><td>wett-ing</td><td>n. the act of making something wet</td></tr>
 <tr><td>wetly</td><td>wetlẏ</td><td>wet-ly</td><td>wet-lẏ</td><td>adv. in a wet manner</td></tr>
-<tr><td>wetness</td><td>wetne̊ss</td><td>wet-ness</td><td>wet-ne̊ss</td><td>n. the condition of containing or being covered by a liquid (especially water)</td></tr>
+<tr><td>wetness</td><td>wetnėss</td><td>wet-ness</td><td>wet-nėss</td><td>n. the condition of containing or being covered by a liquid (especially water)</td></tr>
 <tr><td>bellwether</td><td>bellweṫhe̊r</td><td>bell-wether</td><td>bell-weṫhe̊r</td><td>n. a leader of a movement or trend; the leading sheep of a flock</td></tr>
 <tr><td>whack</td><td>w𝕙ack</td><td>whack</td><td>w𝕙ack</td><td>n. a sharp swift blow<br>v. to hit hard</td></tr>
 <tr><td>whacked</td><td>w𝕙ack𝕖ḋ</td><td>whack-ed</td><td>w𝕙ack-𝕖ḋ</td><td>a. exhausted or worn out</td></tr>
@@ -621,13 +621,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whacko</td><td>w𝕙ackō</td><td>whack-o</td><td>w𝕙ack-ō</td><td>n. a person who is regarded as eccentric or mad</td></tr>
 <tr><td>whacks</td><td>w𝕙acks</td><td>whack-s</td><td>w𝕙ack-s</td><td></td></tr>
 <tr><td>whale</td><td>whāle</td><td>whale</td><td>whāle</td><td>n. a very large sea mammal</td></tr>
-<tr><td>whalebone</td><td>whālebōne</td><td>whale-bone</td><td>whāle-bōne</td><td>n. a horny material from the upper jaws of certain whales, used as stays in corsets</td></tr>
+<tr><td>whalebone</td><td>w𝕙āl𝕖bōne</td><td>whale-bone</td><td>w𝕙āl𝕖-bōne</td><td>n. a horny material from the upper jaws of certain whales, used as stays in corsets</td></tr>
 <tr><td>whaler</td><td>w𝕙āle̊r</td><td>whal-er</td><td>w𝕙āl-e̊r</td><td>n. a seaman who works on a ship that hunts whales<br>n. a ship engaged in whale fishing</td></tr>
 <tr><td>whaling</td><td>w𝕙āling</td><td>whal-ing</td><td>w𝕙āl-ing</td><td>v hunt for whales</td></tr>
 <tr><td>whales</td><td>w𝕙āl𝕖ṡ</td><td>whale-s</td><td>w𝕙āl𝕖-ṡ</td><td></td></tr>
 <tr><td>wham</td><td>w𝕙am</td><td>wham</td><td>w𝕙am</td><td>n. a hard hit<br>v. to hit hard</td></tr>
 <tr><td>whammy</td><td>w𝕙ammẏ</td><td>whamm-y</td><td>w𝕙amm-ẏ</td><td>n. a serious or devastating setback</td></tr>
-<tr><td>whap</td><td>whàp</td><td>whap</td><td>whàp</td><td>v. hit hard</td></tr>
+<tr><td>whap</td><td>whap</td><td>whap</td><td>whap</td><td>v. hit hard</td></tr>
 <tr><td>wharf</td><td>whãrf</td><td>wharf</td><td>whãrf</td><td>v. provide with a wharf<br>v. store on a wharf<br>v. discharge at a wharf<br>v. moor at a wharf</td></tr>
 <tr><td>what</td><td>w𝕙ãt</td><td>what</td><td>w𝕙ãt</td><td>pron. asking for information about something; the thing or things that<br>a. used interrogatively to ask for a description<br>adv. to what extent</td></tr>
 <tr><td>whatever</td><td>w𝕙ãteve̊r</td><td>what-ever</td><td>w𝕙ãt-eve̊r</td><td>pron. anything at all; no matter what</td></tr>
@@ -635,7 +635,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whatsoever</td><td>w𝕙ãtsōeve̊r</td><td>what-so-ever</td><td>w𝕙ãt-sō-eve̊r</td><td>adv. at all; used to emphasize a negative statement</td></tr>
 <tr><td>wheat</td><td>whēat</td><td>wheat</td><td>whēat</td><td>n. a grain used for making flour</td></tr>
 <tr><td>wheatfield</td><td>w𝕙ēatfiēld</td><td>wheat-field</td><td>w𝕙ēat-fiēld</td><td>n. a field planted with wheat</td></tr>
-<tr><td>wheatgrass</td><td>w𝕙ēatgrass</td><td>wheat-grass</td><td>w𝕙ēat-grass</td><td>n. a grass of the genus Agropyron</td></tr>
+<tr><td>wheatgrass</td><td>w𝕙ēatgràss</td><td>wheat-grass</td><td>w𝕙ēat-gràss</td><td>n. a grass of the genus Agropyron</td></tr>
 <tr><td>whee</td><td>whēe</td><td>whee</td><td>whēe</td><td>int. an expression of excitement or delight</td></tr>
 <tr><td>wheedle</td><td>whēedle</td><td>wheed-le</td><td>whēed-le</td><td>v. influence or urge by gentle urging, caressing, or flattering</td></tr>
 <tr><td>wheedling</td><td>whēedling</td><td>wheed-ling</td><td>whēed-ling</td><td>n the act of urging by means of teasing or flattery<br>v influence or urge by gentle urging, caressing, or flattering</td></tr>
@@ -644,14 +644,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wheelbase</td><td>w𝕙ēelbāse</td><td>wheel-base</td><td>w𝕙ēel-bāse</td><td>n. the distance from the center of a car&#x27;s front wheel to the rear axle</td></tr>
 <tr><td>wheelchair</td><td>w𝕙ēelchāir</td><td>wheel-chair</td><td>w𝕙ēel-chāir</td><td>n. a chair with wheels used by people who cannot walk</td></tr>
 <tr><td>wheeled</td><td>w𝕙ēel𝕖d</td><td>wheel-ed</td><td>w𝕙ēel-𝕖d</td><td>a. having wheels; often used in combination</td></tr>
-<tr><td>wheelhouse</td><td>whēelhòuse</td><td>wheel-house</td><td>whēel-hòuse</td><td>n. an enclosed compartment from which a vessel can be navigated</td></tr>
+<tr><td>wheelhouse</td><td>w𝕙ēelhòuse</td><td>wheel-house</td><td>w𝕙ēel-hòuse</td><td>n. an enclosed compartment from which a vessel can be navigated</td></tr>
 <tr><td>wheelie</td><td>whēelie</td><td>wheel-ie</td><td>whēel-ie</td><td>n. a trick in which the front wheel of a bicycle is lifted off the ground</td></tr>
 <tr><td>wheeling</td><td>w𝕙ēeling</td><td>wheel-ing</td><td>w𝕙ēel-ing</td><td>n. propelling something on wheels</td></tr>
 <tr><td>wheels</td><td>w𝕙ēelṡ</td><td>wheel-s</td><td>w𝕙ēel-ṡ</td><td></td></tr>
 <tr><td>wheelset</td><td>w𝕙ēelset</td><td>wheel-set</td><td>w𝕙ēel-set</td><td>n. a pair of wheels on an axle</td></tr>
 <tr><td>wheelwright</td><td>whēel𝕨rī𝕘𝕙t</td><td>wheel-wright</td><td>whēel-𝕨rī𝕘𝕙t</td><td>n. someone who makes and repairs wooden wheels</td></tr>
 <tr><td>wheelchairs</td><td>w𝕙ēelchāirṡ</td><td>wheel-chair-s</td><td>w𝕙ēel-chāir-ṡ</td><td></td></tr>
-<tr><td>cartwheel</td><td>càrtwhēel</td><td>cart-wheel</td><td>càrt-whēel</td><td>n. acrobatic revolutions with the body turned sideways and the arms and legs outstretched</td></tr>
+<tr><td>cartwheel</td><td>càrtw𝕙ēel</td><td>cart-wheel</td><td>càrt-w𝕙ēel</td><td>n. acrobatic revolutions with the body turned sideways and the arms and legs outstretched</td></tr>
 <tr><td>wheeze</td><td>w𝕙ēeze</td><td>wheeze</td><td>w𝕙ēeze</td><td>v. to breathe with difficulty and a whistling sound<br>n. a whistling sound when breathing</td></tr>
 <tr><td>wheezing</td><td>w𝕙ēezing</td><td>wheez-ing</td><td>w𝕙ēez-ing</td><td>a. relating to breathing with a whistling sound</td></tr>
 <tr><td>wheezy</td><td>whēezẏ</td><td>wheez-y</td><td>whēez-ẏ</td><td>a. breathing with a whistling sound</td></tr>
@@ -667,12 +667,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whereby</td><td>w𝕙èrebȳ</td><td>where-by</td><td>w𝕙ère-bȳ</td><td>adv. by which; used relatively</td></tr>
 <tr><td>wherever</td><td>w𝕙èreve̊r</td><td>wher-ever</td><td>w𝕙èr-eve̊r</td><td>adv. in or to whatever place</td></tr>
 <tr><td>wherefore</td><td>w𝕙èr𝕖fore</td><td>where-fore</td><td>w𝕙èr𝕖-fore</td><td>n. the cause or intention underlying an action or situation</td></tr>
-<tr><td>wherein</td><td>w𝕙èrein</td><td>where-in</td><td>w𝕙ère-in</td><td>adv. in which; in what</td></tr>
-<tr><td>whereof</td><td>w𝕙èreof</td><td>where-of</td><td>w𝕙ère-of</td><td>adv. of which; of whom</td></tr>
-<tr><td>whereon</td><td>w𝕙èreon</td><td>where-on</td><td>w𝕙ère-on</td><td>adv. on which; on what</td></tr>
-<tr><td>wherewithal</td><td>w𝕙èrewiṫhãl</td><td>where-with-al</td><td>w𝕙ère-wiṫh-ãl</td><td>n. the necessary means (especially financial means)</td></tr>
-<tr><td>whereupon</td><td>w𝕙èreupon</td><td>where-up-on</td><td>w𝕙ère-up-on</td><td>adv. Upon which; in consequence of which; after which.</td></tr>
-<tr><td>whereabouts</td><td>w𝕙èreabòuts</td><td>where-ab-out-s</td><td>w𝕙ère-ab-òut-s</td><td>n. the general location where something is<br>adv. about where</td></tr>
+<tr><td>wherein</td><td>w𝕙èr𝕖in</td><td>where-in</td><td>w𝕙èr𝕖-in</td><td>adv. in which; in what</td></tr>
+<tr><td>whereof</td><td>w𝕙èr𝕖of</td><td>where-of</td><td>w𝕙èr𝕖-of</td><td>adv. of which; of whom</td></tr>
+<tr><td>whereon</td><td>w𝕙èr𝕖on</td><td>where-on</td><td>w𝕙èr𝕖-on</td><td>adv. on which; on what</td></tr>
+<tr><td>wherewithal</td><td>w𝕙èr𝕖wiṫhãl</td><td>where-with-al</td><td>w𝕙èr𝕖-wiṫh-ãl</td><td>n. the necessary means (especially financial means)</td></tr>
+<tr><td>whereupon</td><td>w𝕙èr𝕖ůpon</td><td>where-up-on</td><td>w𝕙èr𝕖-ůp-on</td><td>adv. Upon which; in consequence of which; after which.</td></tr>
+<tr><td>whereabouts</td><td>w𝕙èr𝕖åbòuts</td><td>where-ab-out-s</td><td>w𝕙èr𝕖-åb-òut-s</td><td>n. the general location where something is<br>adv. about where</td></tr>
 <tr><td>nowhere</td><td>nōw𝕙ère</td><td>no-where</td><td>nō-w𝕙ère</td><td>n. an insignificant place<br>adv. not anywhere; in or at or to no place</td></tr>
 <tr><td>wherry</td><td>wherrẏ</td><td>wherry</td><td>wherrẏ</td><td>n. a light rowing boat</td></tr>
 <tr><td>whet</td><td>w𝕙et</td><td>whet</td><td>w𝕙et</td><td>v. to sharpen by rubbing<br>v. to make keen or more acute</td></tr>
@@ -701,7 +701,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whiner</td><td>w𝕙īne̊r</td><td>whin-er</td><td>w𝕙īn-e̊r</td><td>n. a person given to excessive complaints and whining</td></tr>
 <tr><td>whining</td><td>w𝕙īning</td><td>whin-ing</td><td>w𝕙īn-ing</td><td>v. to make a high-pitched screeching noise; to complain</td></tr>
 <tr><td>whines</td><td>w𝕙īn𝕖ṡ</td><td>whine-s</td><td>w𝕙īn𝕖-ṡ</td><td></td></tr>
-<tr><td>whiney</td><td>whīn𝕖y</td><td>whine-y</td><td>whīn𝕖-y</td><td>a. habitually complaining</td></tr>
+<tr><td>whiney</td><td>whīnėy</td><td>whine-y</td><td>whīnė-y</td><td>a. habitually complaining</td></tr>
 <tr><td>whiny</td><td>w𝕙īnẏ</td><td>whin-y</td><td>w𝕙īn-ẏ</td><td>a. habitually complaining</td></tr>
 <tr><td>whinny</td><td>whinnẏ</td><td>whinn-y</td><td>whinn-ẏ</td><td>n. the characteristic sounds made by a horse<br>v. make a characteristic sound, of a horse</td></tr>
 <tr><td>whip</td><td>whip</td><td>whip</td><td>whip</td><td>n. a strip of leather used for striking<br>vt. strike with a whip; beat</td></tr>
@@ -731,7 +731,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whisker</td><td>whiske̊r</td><td>whisk-er</td><td>whisk-e̊r</td><td>n. a long stiff hair growing near the mouth of an animal</td></tr>
 <tr><td>whiskered</td><td>w𝕙iske̊r𝕖d</td><td>whisk-er-ed</td><td>w𝕙isk-e̊r-𝕖d</td><td>a. having hair on the cheeks and chin</td></tr>
 <tr><td>bewhiskered</td><td>bėw𝕙iske̊r𝕖d</td><td>be-whisk-er-ed</td><td>bė-w𝕙isk-e̊r-𝕖d</td><td>a. having hair on the cheeks and chin</td></tr>
-<tr><td>whiskey</td><td>w𝕙iskēy</td><td>whiskey</td><td>w𝕙iskēy</td><td>n. a spirit made from fermented grain</td></tr>
+<tr><td>whiskey</td><td>w𝕙iskėy</td><td>whiskey</td><td>w𝕙iskėy</td><td>n. a spirit made from fermented grain</td></tr>
 <tr><td>whisky</td><td>whiskẏ</td><td>whisky</td><td>whiskẏ</td><td>n. a liquor made from fermented mash of grain</td></tr>
 <tr><td>whiskies</td><td>w𝕙iski𝕖ṡ</td><td>whisk-ies</td><td>w𝕙isk-i𝕖ṡ</td><td></td></tr>
 <tr><td>whiskeys</td><td>w𝕙iskėyṡ</td><td>whiskey-s</td><td>w𝕙iskėy-ṡ</td><td></td></tr>
@@ -747,11 +747,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whistled</td><td>w𝕙is𝕥l𝕖d</td><td>whist-l-ed</td><td>w𝕙is𝕥-l-𝕖d</td><td></td></tr>
 <tr><td>whistler</td><td>w𝕙is𝕥le̊r</td><td>whist-le-r</td><td>w𝕙is𝕥-le̊-r</td><td>n. someone who makes a loud high sound</td></tr>
 <tr><td>whistles</td><td>w𝕙is𝕥l𝕖ṡ</td><td>whist-le-s</td><td>w𝕙is𝕥-l𝕖-ṡ</td><td></td></tr>
-<tr><td>whistleblower</td><td>whis𝕥leblōwe̊r</td><td>whist-le-blow-er</td><td>whis𝕥-le-blōw-e̊r</td><td>n. one who exposes wrongdoing</td></tr>
+<tr><td>whistleblower</td><td>whis𝕥l𝕖blōwe̊r</td><td>whist-le-blow-er</td><td>whis𝕥-l𝕖-blōw-e̊r</td><td>n. one who exposes wrongdoing</td></tr>
 <tr><td>whit</td><td>w𝕙it</td><td>whit</td><td>w𝕙it</td><td>n. a tiny or scarcely detectable amount</td></tr>
 <tr><td>white</td><td>whīte</td><td>white</td><td>whīte</td><td>a. of the lightest color; pale; pure<br>n. the color white; a white person</td></tr>
-<tr><td>whiteboard</td><td>whītebōard</td><td>white-board</td><td>whīte-bōard</td><td>n. a white board for writing on with markers</td></tr>
-<tr><td>whitecap</td><td>whītecap</td><td>white-cap</td><td>whīte-cap</td><td>n. a wave that is blown by the wind so its crest is broken and appears white</td></tr>
+<tr><td>whiteboard</td><td>w𝕙īt𝕖bōard</td><td>white-board</td><td>w𝕙īt𝕖-bōard</td><td>n. a white board for writing on with markers</td></tr>
+<tr><td>whitecap</td><td>w𝕙īt𝕖cap</td><td>white-cap</td><td>w𝕙īt𝕖-cap</td><td>n. a wave that is blown by the wind so its crest is broken and appears white</td></tr>
 <tr><td>whiten</td><td>w𝕙īte̊n</td><td>whit-en</td><td>w𝕙īt-e̊n</td><td>v. turn white</td></tr>
 <tr><td>whiter</td><td>w𝕙īte̊r</td><td>whit-er</td><td>w𝕙īt-e̊r</td><td></td></tr>
 <tr><td>whitest</td><td>w𝕙ītėst</td><td>whit-est</td><td>w𝕙īt-ėst</td><td></td></tr>
@@ -763,16 +763,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whiteness</td><td>w𝕙īt𝕖nėss</td><td>white-ness</td><td>w𝕙īt𝕖-nėss</td><td>n. the quality or state of being white</td></tr>
 <tr><td>whitetail</td><td>w𝕙īt𝕖tāil</td><td>white-tail</td><td>w𝕙īt𝕖-tāil</td><td>n. a common North American deer with a white underside to its tail</td></tr>
 <tr><td>whitewash</td><td>whīt𝕖wãsh</td><td>white-wash</td><td>whīt𝕖-wãsh</td><td>n. a white liquid for painting walls; a deceptive clearing<br>v. to cover up a fault or error</td></tr>
-<tr><td>whitey</td><td>w𝕙ītēy</td><td>white-y</td><td>w𝕙ītē-y</td><td>n. (slang) offensive term for a White person</td></tr>
+<tr><td>whitey</td><td>w𝕙ītėy</td><td>white-y</td><td>w𝕙ītė-y</td><td>n. (slang) offensive term for a White person</td></tr>
 <tr><td>white-collar</td><td>whīte-collår</td><td>white-coll-ar</td><td>whīte-coll-år</td><td>a. relating to office work</td></tr>
 <tr><td>whitened</td><td>w𝕙īte̊n𝕖d</td><td>whit-en-ed</td><td>w𝕙īt-e̊n-𝕖d</td><td>v. turn white<br>a. (of hair) having lost its color</td></tr>
 <tr><td>whitener</td><td>w𝕙īte̊ne̊r</td><td>whit-en-er</td><td>w𝕙īt-e̊n-e̊r</td><td>n. an agent that makes things white or colorless</td></tr>
-<tr><td>whitewashed</td><td>w𝕙ītewãsh𝕖ḋ</td><td>white-wash-ed</td><td>w𝕙īte-wãsh-𝕖ḋ</td><td>a. coated with whitewash<br>v. cover with whitewash</td></tr>
+<tr><td>whitewashed</td><td>w𝕙īt𝕖wãsh𝕖ḋ</td><td>white-wash-ed</td><td>w𝕙īt𝕖-wãsh-𝕖ḋ</td><td>a. coated with whitewash<br>v. cover with whitewash</td></tr>
 <tr><td>whitening</td><td>w𝕙īte̊ning</td><td>whit-en-ing</td><td>w𝕙īt-e̊n-ing</td><td>n. changing to a lighter color</td></tr>
-<tr><td>whitewashing</td><td>w𝕙ītewãshing</td><td>white-wash-ing</td><td>w𝕙īte-wãsh-ing</td><td>v. cover with whitewash<br>v. exonerate through biased presentation</td></tr>
-<tr><td>whitecaps</td><td>whītecaps</td><td>white-cap-s</td><td>whīte-cap-s</td><td>n. a wave that is blown by the wind so its crest is broken and appears white</td></tr>
+<tr><td>whitewashing</td><td>w𝕙īt𝕖wãshing</td><td>white-wash-ing</td><td>w𝕙īt𝕖-wãsh-ing</td><td>v. cover with whitewash<br>v. exonerate through biased presentation</td></tr>
+<tr><td>whitecaps</td><td>w𝕙īt𝕖caps</td><td>white-cap-s</td><td>w𝕙īt𝕖-cap-s</td><td>n. a wave that is blown by the wind so its crest is broken and appears white</td></tr>
 <tr><td>whither</td><td>w𝕙iṫhe̊r</td><td>whith-er</td><td>w𝕙iṫh-e̊r</td><td>adv. to what place or state</td></tr>
-<tr><td>Whitney</td><td>Whitnēy</td><td>Whitney</td><td>Whitnēy</td><td>n. a surname</td></tr>
+<tr><td>Whitney</td><td>Whitnėy</td><td>Whitney</td><td>Whitnėy</td><td>n. a surname</td></tr>
 <tr><td>whittle</td><td>w𝕙ittle</td><td>whitt-le</td><td>w𝕙itt-le</td><td>v. to cut small bits from; to reduce gradually</td></tr>
 <tr><td>whiz</td><td>w𝕙iz</td><td>whiz</td><td>w𝕙iz</td><td>n. a buzzing or hissing sound<br>n. someone who is dazzlingly skilled</td></tr>
 <tr><td>whizz</td><td>whizz</td><td>whizz</td><td>whizz</td><td>v. to move quickly with a whizzing sound<br>n. a whizzing sound</td></tr>
@@ -786,7 +786,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whodunit</td><td>𝕨hõdûnit</td><td>who-dun-it</td><td>𝕨hõ-dûn-it</td><td>n. a story about a crime (usually murder) presented as a novel or play or movie</td></tr>
 <tr><td>whoops</td><td>w𝕙oops</td><td>who-op-s</td><td>w𝕙o-op-s</td><td>int. an exclamation made on making a mistake or a minor accident</td></tr>
 <tr><td>whoa</td><td>w𝕙ōa</td><td>whoa</td><td>w𝕙ōa</td><td>interj. a command to stop or slow down</td></tr>
-<tr><td>wholistic</td><td>𝕨hōlistic</td><td>whol-ist-ic</td><td>𝕨hōl-ist-ic</td><td>a. emphasizing the whole and the interdependence of its parts</td></tr>
+<tr><td>wholistic</td><td>𝕨ho̊listic</td><td>whol-ist-ic</td><td>𝕨ho̊l-ist-ic</td><td>a. emphasizing the whole and the interdependence of its parts</td></tr>
 <tr><td>whole</td><td>𝕨hōle</td><td>whole</td><td>𝕨hōle</td><td>a. complete; including all parts<br>n. the full amount or entirety of something</td></tr>
 <tr><td>wholly</td><td>𝕨hōllẏ</td><td>whol-ly</td><td>𝕨hōl-lẏ</td><td>adv. completely; entirely</td></tr>
 <tr><td>wholeness</td><td>𝕨hōl𝕖nėss</td><td>whole-ness</td><td>𝕨hōl𝕖-nėss</td><td>n. a state of robust good health</td></tr>
@@ -794,10 +794,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wholesome</td><td>𝕨hōl𝕖so̊me</td><td>whole-some</td><td>𝕨hōl𝕖-so̊me</td><td>a. conducive to or promoting health or well-being</td></tr>
 <tr><td>wholehearted</td><td>𝕨hōl𝕖h𝕖àrtėd</td><td>whole-heart-ed</td><td>𝕨hōl𝕖-h𝕖àrt-ėd</td><td>a. with unconditional and enthusiastic devotion</td></tr>
 <tr><td>wholesaler</td><td>𝕨hōl𝕖sāle̊r</td><td>whole-sal-er</td><td>𝕨hōl𝕖-sāl-e̊r</td><td>n. a person who sells goods in large quantities at low prices</td></tr>
-<tr><td>wholesomeness</td><td>𝕨hōl𝕖so̊menėss</td><td>whole-some-ness</td><td>𝕨hōl𝕖-so̊me-nėss</td><td>n. the quality of being beneficial and generally good for you</td></tr>
+<tr><td>wholesomeness</td><td>𝕨hōl𝕖sôm𝕖nėss</td><td>whole-some-ness</td><td>𝕨hōl𝕖-sôm𝕖-nėss</td><td>n. the quality of being beneficial and generally good for you</td></tr>
 <tr><td>wholly-owned</td><td></td><td>whol-ly-own-ed</td><td></td><td>a. fully owned by one entity</td></tr>
 <tr><td>wholeheartedly</td><td>𝕨hōl𝕖h𝕖àrtėdlẏ</td><td>whole-heart-ed-ly</td><td>𝕨hōl𝕖-h𝕖àrt-ėd-lẏ</td><td>adv. without reserve; with full commitment</td></tr>
-<tr><td>unwholesome</td><td>ûn𝕨hōleso̊me</td><td>un-whole-some</td><td>ûn-𝕨hōle-so̊me</td><td>a. detrimental to physical or moral well-being</td></tr>
+<tr><td>unwholesome</td><td>ûn𝕨hōl𝕖sôme</td><td>un-whole-some</td><td>ûn-𝕨hōl𝕖-sôme</td><td>a. detrimental to physical or moral well-being</td></tr>
 <tr><td>whoo</td><td>w𝕙oo</td><td>whoo</td><td>w𝕙oo</td><td>int. an exclamation of excitement or surprise</td></tr>
 <tr><td>whoop</td><td>w𝕙oop</td><td>whoop</td><td>w𝕙oop</td><td>n. a loud hooting cry of exultation or excitement<br>v. shout, as if with joy or enthusiasm</td></tr>
 <tr><td>whoopee</td><td>w𝕙oopēe</td><td>whoop-ee</td><td>w𝕙oop-ēe</td><td>n. noisy and boisterous revelry</td></tr>
@@ -809,19 +809,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whopping</td><td>w𝕙opping</td><td>whopp-ing</td><td>w𝕙opp-ing</td><td>adv. extremely<br>a. very large</td></tr>
 <tr><td>whore</td><td>𝕨hore</td><td>whore</td><td>𝕨hore</td><td>n. a prostitute<br>v. work as a prostitute</td></tr>
 <tr><td>whores</td><td>𝕨hor𝕖ṡ</td><td>whore-s</td><td>𝕨hor𝕖-ṡ</td><td></td></tr>
-<tr><td>whorl</td><td>w𝕙o̊rl</td><td>whorl</td><td>w𝕙o̊rl</td><td>n. a round shape formed by a series of concentric circles</td></tr>
-<tr><td>whorled</td><td>who̊rl𝕖d</td><td>whorl-ed</td><td>who̊rl-𝕖d</td><td>a. in the shape of a coil<br>a. forming one or more whorls</td></tr>
+<tr><td>whorl</td><td>w𝕙orl</td><td>whorl</td><td>w𝕙orl</td><td>n. a round shape formed by a series of concentric circles</td></tr>
+<tr><td>whorled</td><td>w𝕙orl𝕖d</td><td>whorl-ed</td><td>w𝕙orl-𝕖d</td><td>a. in the shape of a coil<br>a. forming one or more whorls</td></tr>
 <tr><td>whump</td><td>w𝕙ûmp</td><td>whump</td><td>w𝕙ûmp</td><td>n. a heavy thudding sound<br>v. strike heavily with a thumping sound</td></tr>
 <tr><td>whup</td><td>w𝕙ûp</td><td>whup</td><td>w𝕙ûp</td><td>v. beat thoroughly; defeat decisively</td></tr>
 <tr><td>why</td><td>w𝕙ȳ</td><td>why</td><td>w𝕙ȳ</td><td>adv. for what reason; on account of which<br>n. a reason or explanation</td></tr>
 <tr><td>wick</td><td>wick</td><td>wick</td><td>wick</td><td>n. a piece of cord in a candle or lamp that draws fuel up to the flame</td></tr>
 <tr><td>wicked</td><td>wickėd</td><td>wick-ed</td><td>wick-ėd</td><td>a. morally bad in principle or practice</td></tr>
-<tr><td>wicket</td><td>wicke̊t</td><td>wick-et</td><td>wick-e̊t</td><td>n. small gate or door (especially one that is part of a larger door)<br>n. small opening (like a window in a door) through which business can be transacted</td></tr>
+<tr><td>wicket</td><td>wickėt</td><td>wick-et</td><td>wick-ėt</td><td>n. small gate or door (especially one that is part of a larger door)<br>n. small opening (like a window in a door) through which business can be transacted</td></tr>
 <tr><td>wicking</td><td>wicking</td><td>wick-ing</td><td>wick-ing</td><td>n. the material of which wicks are made</td></tr>
 <tr><td>wickeder</td><td>wickėde̊r</td><td>wick-ed-er</td><td>wick-ėd-e̊r</td><td></td></tr>
-<tr><td>wickedest</td><td>wickėdest</td><td>wick-ed-est</td><td>wick-ėd-est</td><td>a. morally bad in principle or practice</td></tr>
+<tr><td>wickedest</td><td>wickėdėst</td><td>wick-ed-est</td><td>wick-ėd-ėst</td><td>a. morally bad in principle or practice</td></tr>
 <tr><td>wickedly</td><td>wickėdlẏ</td><td>wick-ed-ly</td><td>wick-ėd-lẏ</td><td>adv. in a wicked manner</td></tr>
-<tr><td>wickedness</td><td>wicke̊dne̊ss</td><td>wick-ed-ness</td><td>wick-e̊d-ne̊ss</td><td>n. morally objectionable behavior<br>n. the quality of being wicked</td></tr>
+<tr><td>wickedness</td><td>wickėdnėss</td><td>wick-ed-ness</td><td>wick-ėd-nėss</td><td>n. morally objectionable behavior<br>n. the quality of being wicked</td></tr>
 <tr><td>wicker</td><td>wicke̊r</td><td>wicker</td><td>wicke̊r</td><td>n. slender flexible branches used for weaving</td></tr>
 <tr><td>widow</td><td>widōw</td><td>wid-ow</td><td>wid-ōw</td><td>n. a woman whose husband has died and who has not remarried<br>vt. to cause to become a widow or widower</td></tr>
 <tr><td>widowed</td><td>widōw𝕖d</td><td>wid-ow-ed</td><td>wid-ōw-𝕖d</td><td>a. having lost one&#x27;s spouse by death</td></tr>
@@ -859,26 +859,26 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wiggly</td><td>wigglẏ</td><td>wigg-ly</td><td>wigg-lẏ</td><td>a. moving in a twisting or snake-like fashion</td></tr>
 <tr><td>wigs</td><td>wigṡ</td><td>wig-s</td><td>wig-ṡ</td><td></td></tr>
 <tr><td>wigwag</td><td>wigwag</td><td>wig-wag</td><td>wig-wag</td><td>v. to move back and forth</td></tr>
-<tr><td>wigwam</td><td>wigwàm</td><td>wig-wam</td><td>wig-wàm</td><td>n. a Native American lodge frequently having an oval shape and covered with bark or hides</td></tr>
+<tr><td>wigwam</td><td>wigwam</td><td>wig-wam</td><td>wig-wam</td><td>n. a Native American lodge frequently having an oval shape and covered with bark or hides</td></tr>
 <tr><td>wiggy</td><td>wiggẏ</td><td>wigg-y</td><td>wigg-ẏ</td><td>a. crazy or eccentric</td></tr>
 <tr><td>bigwig</td><td>bigwig</td><td>big-wig</td><td>big-wig</td><td>n. the most important person in a group or undertaking</td></tr>
 <tr><td>widgeon</td><td>widg𝕖o̊n</td><td>widge-on</td><td>widg𝕖-o̊n</td><td>n. freshwater duck of Eurasia and northern Africa related to mallards and teals</td></tr>
 <tr><td>wigeon</td><td>wig𝕖o̊n</td><td>wige-on</td><td>wig𝕖-o̊n</td><td>n. a freshwater duck of Eurasia related to mallards</td></tr>
-<tr><td>wiki</td><td>wikĩ</td><td>wiki</td><td>wikĩ</td><td>n. a website that allows users to collaboratively create and edit content</td></tr>
+<tr><td>wiki</td><td>wiki</td><td>wiki</td><td>wiki</td><td>n. a website that allows users to collaboratively create and edit content</td></tr>
 <tr><td>wild</td><td>wīld</td><td>wild</td><td>wīld</td><td>a. living or growing in natural conditions; not tamed or cultivated<br>a. uncontrolled or violent</td></tr>
 <tr><td>WildAid</td><td></td><td>Wild-Aid</td><td></td><td>n. a wildlife conservation organization</td></tr>
 <tr><td>wildcat</td><td>wīldcat</td><td>wild-cat</td><td>wīld-cat</td><td>n. any small or medium-sized cat living in the wild<br>a. outside the bounds of legitimate business practices</td></tr>
 <tr><td>wilder</td><td>wīlde̊r</td><td>wild-er</td><td>wīld-e̊r</td><td></td></tr>
 <tr><td>wildest</td><td>wīldėst</td><td>wild-est</td><td>wīld-ėst</td><td></td></tr>
 <tr><td>wildfire</td><td>wīldfīre</td><td>wild-fire</td><td>wīld-fīre</td><td>n. a raging and rapidly spreading conflagration</td></tr>
-<tr><td>wildland</td><td>wīldland</td><td>wild-land</td><td>wīld-land</td><td>n. land in its natural state; uncultivated land</td></tr>
+<tr><td>wildland</td><td>wīldlånd</td><td>wild-land</td><td>wīld-lånd</td><td>n. land in its natural state; uncultivated land</td></tr>
 <tr><td>wildlife</td><td>wīldlīfe</td><td>wild-life</td><td>wīld-līfe</td><td>n. wild animals and plants, especially those preserved for study or enjoyment</td></tr>
 <tr><td>wildly</td><td>wīldlẏ</td><td>wild-ly</td><td>wīld-lẏ</td><td>adv. in an uncontrolled or extreme manner</td></tr>
-<tr><td>wildness</td><td>wīldne̊ss</td><td>wild-ness</td><td>wīld-ne̊ss</td><td>n. a feeling of extreme emotional intensity; an uncultivated state</td></tr>
+<tr><td>wildness</td><td>wīldnėss</td><td>wild-ness</td><td>wīld-nėss</td><td>n. a feeling of extreme emotional intensity; an uncultivated state</td></tr>
 <tr><td>wildwood</td><td>wīldwood</td><td>wild-wood</td><td>wīld-wood</td><td>n. a wild or unfrequented wood</td></tr>
 <tr><td>wildcatter</td><td>wīldcatte̊r</td><td>wild-catt-er</td><td>wīld-catt-e̊r</td><td>n. an oilman who drills exploratory wells in territory not known to be an oil field</td></tr>
 <tr><td>wildflower</td><td>wīldflòwe̊r</td><td>wild-flow-er</td><td>wīld-flòw-e̊r</td><td>n. a wild or uncultivated flowering plant</td></tr>
-<tr><td>wilderness</td><td>wilde̊rne̊ss</td><td>wild-er-ness</td><td>wild-e̊r-ne̊ss</td><td>n. a wild and uninhabited area left in its natural condition</td></tr>
+<tr><td>wilderness</td><td>wilde̊rnėss</td><td>wild-er-ness</td><td>wild-e̊r-nėss</td><td>n. a wild and uninhabited area left in its natural condition</td></tr>
 <tr><td>wildernesses</td><td>wilde̊rnėssėṡ</td><td>wild-er-ness-es</td><td>wild-e̊r-nėss-ėṡ</td><td></td></tr>
 <tr><td>bewilder</td><td>bėwilde̊r</td><td>be-wild-er</td><td>bė-wild-e̊r</td><td>v. cause to be confused emotionally</td></tr>
 <tr><td>bewildered</td><td>bėwilde̊r𝕖d</td><td>be-wild-er-ed</td><td>bė-wild-e̊r-𝕖d</td><td>a. deeply confused or puzzled</td></tr>
@@ -889,7 +889,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wily</td><td>wīlẏ</td><td>wil-y</td><td>wīl-ẏ</td><td>a. marked by skill in deception</td></tr>
 <tr><td>wiliness</td><td>wīlinėss</td><td>wil-i-ness</td><td>wīl-i-nėss</td><td>n. the quality of being crafty</td></tr>
 <tr><td>will</td><td>will</td><td>will</td><td>will</td><td>n. the faculty of conscious action; a legal document declaring a person&#x27;s wishes<br>v. to decide by will power<br>aux. expressing future tense, intention, or determination</td></tr>
-<tr><td>wilful</td><td>wilfùl</td><td>wil-ful</td><td>wil-fùl</td><td>a. done by design</td></tr>
+<tr><td>wilful</td><td>wilfůl</td><td>wil-ful</td><td>wil-fůl</td><td>a. done by design</td></tr>
 <tr><td>willful</td><td>willfůl</td><td>will-ful</td><td>will-fůl</td><td>a. deliberate or intentional<br>a. stubbornly determined</td></tr>
 <tr><td>willing</td><td>willing</td><td>will-ing</td><td>will-ing</td><td>a. ready or eager to do something</td></tr>
 <tr><td>willy-nilly</td><td>willẏ-nillẏ</td><td>willy-nilly</td><td>willẏ-nillẏ</td><td>a. whether one wants to or not</td></tr>
@@ -899,7 +899,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wilfully</td><td>wilfůllẏ</td><td>wil-ful-ly</td><td>wil-fůl-lẏ</td><td>adv. in a willful manner</td></tr>
 <tr><td>willfully</td><td>willfůllẏ</td><td>will-ful-ly</td><td>will-fůl-lẏ</td><td>adv. in a willful manner</td></tr>
 <tr><td>willingly</td><td>willinglẏ</td><td>will-ing-ly</td><td>will-ing-lẏ</td><td>adv. in a willing manner</td></tr>
-<tr><td>willfulness</td><td>willfùlne̊ss</td><td>will-ful-ness</td><td>will-fùl-ne̊ss</td><td>n the trait of being prone to disobedience and lack of discipline</td></tr>
+<tr><td>willfulness</td><td>willfůlnėss</td><td>will-ful-ness</td><td>will-fůl-nėss</td><td>n the trait of being prone to disobedience and lack of discipline</td></tr>
 <tr><td>willingness</td><td>willingnėss</td><td>will-ing-ness</td><td>will-ing-nėss</td><td>n. the quality of being ready to do something</td></tr>
 <tr><td>willowy</td><td>willōwẏ</td><td>will-ow-y</td><td>will-ōw-ẏ</td><td>a. slender and graceful</td></tr>
 <tr><td>unwilling</td><td>ûnwilling</td><td>un-will-ing</td><td>ûn-will-ing</td><td>a. not willing or reluctant to do something</td></tr>
@@ -920,8 +920,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>winning</td><td>winning</td><td>winn-ing</td><td>winn-ing</td><td>n. the act of achieving victory<br>a. that wins or achieves victory</td></tr>
 <tr><td>winless</td><td>winlėss</td><td>win-less</td><td>win-lėss</td><td>a. having no wins</td></tr>
 <tr><td>wins</td><td>winṡ</td><td>win-s</td><td>win-ṡ</td><td></td></tr>
-<tr><td>winsome</td><td>winso̊me</td><td>win-some</td><td>win-so̊me</td><td>a. charming in a childlike or naive way</td></tr>
-<tr><td>winningest</td><td>winninge̊st</td><td>winn-ing-est</td><td>winn-ing-e̊st</td><td>a. having won the most; very attractive</td></tr>
+<tr><td>winsome</td><td>winsôme</td><td>win-some</td><td>win-sôme</td><td>a. charming in a childlike or naive way</td></tr>
+<tr><td>winningest</td><td>winningėst</td><td>winn-ing-est</td><td>winn-ing-ėst</td><td>a. having won the most; very attractive</td></tr>
 <tr><td>winningly</td><td>winninglẏ</td><td>winn-ing-ly</td><td>winn-ing-lẏ</td><td>adv. In a winning manner.</td></tr>
 <tr><td>winners</td><td>winne̊rṡ</td><td>winn-er-s</td><td>winn-e̊r-ṡ</td><td></td></tr>
 <tr><td>winnings</td><td>winningṡ</td><td>winn-ing-s</td><td>winn-ing-ṡ</td><td>n. something won (especially money)</td></tr>
@@ -935,10 +935,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>windblown</td><td>windblōwn</td><td>wind-blown</td><td>wind-blōwn</td><td>a. growing in a shape determined by the prevailing winds</td></tr>
 <tr><td>windbreak</td><td>windbreāk</td><td>wind-break</td><td>wind-breāk</td><td>n. hedge or fence of trees designed to lessen the force of the wind and reduce erosion</td></tr>
 <tr><td>winded</td><td>windėd</td><td>wind-ed</td><td>wind-ėd</td><td>a. breathing laboriously or convulsively</td></tr>
-<tr><td>winder</td><td>winde̊r</td><td>wind-er</td><td>wind-e̊r</td><td>n. a worker who winds (e.g., a winch or clock or other mechanism)<br>n. mechanical device used to wind another device that is driven by a spring</td></tr>
+<tr><td>winder</td><td>wīnde̊r</td><td>wind-er</td><td>wīnd-e̊r</td><td>n. a worker who winds (e.g., a winch or clock or other mechanism)<br>n. mechanical device used to wind another device that is driven by a spring</td></tr>
 <tr><td>windfall</td><td>windfãll</td><td>wind-fall</td><td>wind-fãll</td><td>n. fruit blown from a tree; an unexpected gain</td></tr>
 <tr><td>winding</td><td>winding</td><td>wind-ing</td><td>wind-ing</td><td>a. following a curving or twisting course<br>n. something wound around something else</td></tr>
-<tr><td>windlass</td><td>windlåss</td><td>wind-lass</td><td>wind-låss</td><td>n. a lifting device with a horizontal cylinder turned by a crank on which a cable winds</td></tr>
+<tr><td>windlass</td><td>windlass</td><td>wind-lass</td><td>wind-lass</td><td>n. a lifting device with a horizontal cylinder turned by a crank on which a cable winds</td></tr>
 <tr><td>windless</td><td>windlėss</td><td>wind-less</td><td>wind-lėss</td><td>a. without or almost without wind</td></tr>
 <tr><td>windmill</td><td>windmill</td><td>wind-mill</td><td>wind-mill</td><td>n. a mill or generator powered by the wind</td></tr>
 <tr><td>window</td><td>windōw</td><td>wind-ow</td><td>wind-ōw</td><td>n. an opening in a wall or roof, fitted with glass, to admit light or air</td></tr>
@@ -948,7 +948,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>winds</td><td>windṡ</td><td>wind-s</td><td>wind-ṡ</td><td></td></tr>
 <tr><td>windscreen</td><td>windscrēen</td><td>wind-screen</td><td>wind-scrēen</td><td>n. transparent screen to protect occupants of a vehicle</td></tr>
 <tr><td>windshield</td><td>windshiēld</td><td>wind-shield</td><td>wind-shiēld</td><td>n. the window at the front of a vehicle</td></tr>
-<tr><td>windsock</td><td>wīndsock</td><td>wind-sock</td><td>wīnd-sock</td><td>n. a cloth cone mounted on a mast to show wind direction at airports</td></tr>
+<tr><td>windsock</td><td>windsock</td><td>wind-sock</td><td>wind-sock</td><td>n. a cloth cone mounted on a mast to show wind direction at airports</td></tr>
 <tr><td>windstorm</td><td>windstorm</td><td>wind-storm</td><td>wind-storm</td><td>n. a storm consisting of violent winds</td></tr>
 <tr><td>windsurf</td><td>windsůrf</td><td>wind-surf</td><td>wind-sůrf</td><td>v. ride standing on a surfboard with an attached sail, on water</td></tr>
 <tr><td>windswept</td><td>windswept</td><td>wind-swept</td><td>wind-swept</td><td>a. open to or swept by wind</td></tr>
@@ -959,18 +959,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>windowed</td><td>windōw𝕖d</td><td>wind-ow-ed</td><td>wind-ōw-𝕖d</td><td>a. having windows or openings</td></tr>
 <tr><td>windsurfer</td><td>windsůrfe̊r</td><td>wind-surf-er</td><td>wind-sůrf-e̊r</td><td>n. a person who sails on a windsurf board</td></tr>
 <tr><td>windsurfing</td><td>windsůrfing</td><td>wind-surf-ing</td><td>wind-sůrf-ing</td><td>v. ride standing on a surfboard with an attached sail, on water</td></tr>
-<tr><td>windowless</td><td>windōwle̊ss</td><td>wind-ow-less</td><td>wind-ōw-le̊ss</td><td>a. Destitute of a window.</td></tr>
+<tr><td>windowless</td><td>windōwlėss</td><td>wind-ow-less</td><td>wind-ōw-lėss</td><td>a. Destitute of a window.</td></tr>
 <tr><td>windowpane</td><td>windōwpāne</td><td>wind-ow-pane</td><td>wind-ōw-pāne</td><td>n. a pane of glass in a window</td></tr>
 <tr><td>windows</td><td>windōwṡ</td><td>wind-ow-s</td><td>wind-ōw-ṡ</td><td></td></tr>
 <tr><td>windowsill</td><td>windōwsill</td><td>wind-ow-sill</td><td>wind-ōw-sill</td><td>n. the horizontal ledge at the bottom of a window frame</td></tr>
 <tr><td>windshields</td><td>windshiēldṡ</td><td>wind-shield-s</td><td>wind-shiēld-ṡ</td><td></td></tr>
-<tr><td>rewind</td><td>rēwīnd</td><td>re-wind</td><td>rē-wīnd</td><td>v. to wind again; to rewind a tape or film<br>n. the act of rewinding</td></tr>
+<tr><td>rewind</td><td>rėwīnd</td><td>re-wind</td><td>rė-wīnd</td><td>v. to wind again; to rewind a tape or film<br>n. the act of rewinding</td></tr>
 <tr><td>unwind</td><td>ûnwīnd</td><td>un-wind</td><td>ûn-wīnd</td><td>v. to undo the winding of<br>v. to relax after a period of tension</td></tr>
 <tr><td>unwinding</td><td>ûnwīnding</td><td>un-wind-ing</td><td>ûn-wīnd-ing</td><td>v. undo the winding or twisting of<br>v. become less tense, relax</td></tr>
 <tr><td>wine</td><td>wīne</td><td>wine</td><td>wīne</td><td>n. an alcoholic drink made from fermented grapes or other fruit</td></tr>
 <tr><td>winery</td><td>wīne̊rẏ</td><td>win-ery</td><td>wīn-e̊rẏ</td><td>n. a place where wine is made</td></tr>
-<tr><td>wineglass</td><td>wīn𝕖glass</td><td>wine-glass</td><td>wīn𝕖-glass</td><td>n. a glass that has a stem and in which wine is served</td></tr>
-<tr><td>wino</td><td>wĩnō</td><td>win-o</td><td>wĩn-ō</td><td>n. a chronic drinker</td></tr>
+<tr><td>wineglass</td><td>wīn𝕖glàss</td><td>wine-glass</td><td>wīn𝕖-glàss</td><td>n. a glass that has a stem and in which wine is served</td></tr>
+<tr><td>wino</td><td>wīnō</td><td>win-o</td><td>wīn-ō</td><td>n. a chronic drinker</td></tr>
 <tr><td>wines</td><td>wīn𝕖ṡ</td><td>wine-s</td><td>wīn𝕖-ṡ</td><td></td></tr>
 <tr><td>wineshop</td><td>wīn𝕖shop</td><td>wine-shop</td><td>wīn𝕖-shop</td><td>n. a shop where wine is sold</td></tr>
 <tr><td>wineskin</td><td>wīn𝕖skin</td><td>wine-skin</td><td>wīn𝕖-skin</td><td>n. an animal skin bag (usually goatskin) used to hold and dispense wine</td></tr>
@@ -988,8 +988,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wingspan</td><td>wingspan</td><td>wing-span</td><td>wing-span</td><td>n. the distance between the tips of the wings of an aircraft or bird</td></tr>
 <tr><td>wingspread</td><td>wingsprèad</td><td>wing-spread</td><td>wing-sprèad</td><td>n. distance between the tips of the wings (as of a bird or insect) when fully extended</td></tr>
 <tr><td>wingtip</td><td>wingtip</td><td>wing-tip</td><td>wing-tip</td><td>n. the tip of a wing, especially of a bird or aircraft<br>n. a style of shoe with a pointed toe cap with wing-shaped perforations</td></tr>
-<tr><td>forewing</td><td>forewing</td><td>fore-wing</td><td>fore-wing</td><td>n. either of the anterior pair of wings on an insect</td></tr>
-<tr><td>lacewing</td><td>lācewing</td><td>lace-wing</td><td>lāce-wing</td><td>n. a slender insect with gauzy greenish wings</td></tr>
+<tr><td>forewing</td><td>for𝕖wing</td><td>fore-wing</td><td>for𝕖-wing</td><td>n. either of the anterior pair of wings on an insect</td></tr>
+<tr><td>lacewing</td><td>lāc𝕖wing</td><td>lace-wing</td><td>lāc𝕖-wing</td><td>n. a slender insect with gauzy greenish wings</td></tr>
 <tr><td>underwing</td><td>ûnde̊rwing</td><td>under-wing</td><td>ûnde̊r-wing</td><td>n. moth having dull forewings and brightly colored hind wings</td></tr>
 <tr><td>waxwing</td><td>waxwing</td><td>wax-wing</td><td>wax-wing</td><td>n. a velvety-plumaged songbird with a crested head and red waxy wing tips</td></tr>
 <tr><td>wink</td><td>wink</td><td>wink</td><td>wink</td><td>n. closing one eye quickly as a signal<br>v. signal by winking</td></tr>
@@ -1022,10 +1022,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wireless</td><td>wīr𝕖lėss</td><td>wire-less</td><td>wīr𝕖-lėss</td><td>n. a system of communication using radio waves<br>a. using radio signals rather than wires</td></tr>
 <tr><td>wires</td><td>wīr𝕖ṡ</td><td>wire-s</td><td>wīr𝕖-ṡ</td><td></td></tr>
 <tr><td>wiretap</td><td>wīr𝕖tap</td><td>wire-tap</td><td>wīr𝕖-tap</td><td>n. the act of tapping a telephone line<br>v. to tap a telephone line</td></tr>
-<tr><td>wiry</td><td>wirẏ</td><td>wir-y</td><td>wir-ẏ</td><td>a. lean and tough<br>a. resembling wire in stiffness</td></tr>
+<tr><td>wiry</td><td>wīrẏ</td><td>wir-y</td><td>wīr-ẏ</td><td>a. lean and tough<br>a. resembling wire in stiffness</td></tr>
 <tr><td>wiretapped</td><td>wīr𝕖tapp𝕖ḋ</td><td>wire-tapp-ed</td><td>wīr𝕖-tapp-𝕖ḋ</td><td>v. tap a telephone or telegraph wire to get information</td></tr>
 <tr><td>wiretapping</td><td>wīr𝕖tapping</td><td>wire-tapp-ing</td><td>wīr𝕖-tapp-ing</td><td>n. the practice of secretly tapping telephone or telegraph lines</td></tr>
-<tr><td>wirephoto</td><td>wīre̊phōtō</td><td>wire-phot-o</td><td>wīre̊-phōt-ō</td><td>n. a photograph sent by wire</td></tr>
+<tr><td>wirephoto</td><td>wīr𝕖phōtō</td><td>wire-phot-o</td><td>wīr𝕖-phōt-ō</td><td>n. a photograph sent by wire</td></tr>
 <tr><td>barbwire</td><td>bàrbwīre</td><td>barb-wire</td><td>bàrb-wīre</td><td>n. strong wire with barbs at regular intervals used to prevent passage</td></tr>
 <tr><td>nanowire</td><td>nanōwīre</td><td>nano-wire</td><td>nanō-wīre</td><td>n. a wire with a diameter measured in nanometers</td></tr>
 <tr><td>rewire</td><td>rėwīre</td><td>re-wire</td><td>rė-wīre</td><td>v. provide with new wiring</td></tr>
@@ -1033,8 +1033,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unwired</td><td>ûnwīr𝕖d</td><td>un-wir-ed</td><td>ûn-wīr-𝕖d</td><td>v. remove the wiring of<br>a. not connected by wire</td></tr>
 <tr><td>newswire</td><td>new̄ṡwīre</td><td>new-s-wire</td><td>new̄-ṡ-wīre</td><td>n. a news agency service that distributes news stories to subscribing media</td></tr>
 <tr><td>wise</td><td>wīse</td><td>wise</td><td>wīse</td><td>a. having or showing good judgment and understanding</td></tr>
-<tr><td>wiseacre</td><td>wīṡeācre̊</td><td>wise-acre</td><td>wīṡe-ācre̊</td><td>n. an upstart who makes conceited, sardonic, insolent comments</td></tr>
-<tr><td>wiseass</td><td>wīseass</td><td>wise-ass</td><td>wīse-ass</td><td>n. a person who is annoyingly self-assertive and arrogant</td></tr>
+<tr><td>wiseacre</td><td>wīṡ𝕖ācre</td><td>wise-acre</td><td>wīṡ𝕖-ācre</td><td>n. an upstart who makes conceited, sardonic, insolent comments</td></tr>
+<tr><td>wiseass</td><td>wīṡ𝕖ass</td><td>wise-ass</td><td>wīṡ𝕖-ass</td><td>n. a person who is annoyingly self-assertive and arrogant</td></tr>
 <tr><td>wizard</td><td>wizård</td><td>wiz-ard</td><td>wiz-ård</td><td>n. a man who practices magic; a person who is very skilled</td></tr>
 <tr><td>wisecrack</td><td>wīṡ𝕖crack</td><td>wise-crack</td><td>wīṡ𝕖-crack</td><td>n. witty remark<br>v. make a comment, usually ironic</td></tr>
 <tr><td>wisdom</td><td>wiṡdo̊m</td><td>wis-dom</td><td>wiṡ-do̊m</td><td>n. accumulated knowledge or erudition or enlightenment<br>n. the trait of utilizing knowledge and experience with common sense and insight<br>n. ability to apply knowledge or experience or understanding or common sense and insight</td></tr>
@@ -1058,11 +1058,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wisp</td><td>wisp</td><td>wisp</td><td>wisp</td><td>n. a small thin twisted bunch or piece</td></tr>
 <tr><td>wispy</td><td>wispẏ</td><td>wisp-y</td><td>wisp-ẏ</td><td>a. thin and weak<br>a. lacking clarity or distinctness</td></tr>
 <tr><td>wistful</td><td>wistfůl</td><td>wist-ful</td><td>wist-fůl</td><td>a. showing pensive sadness</td></tr>
-<tr><td>wisteria</td><td>wiste̊riå</td><td>wist-er-ia</td><td>wist-e̊r-iå</td><td>n. any flowering vine of the genus Wisteria</td></tr>
+<tr><td>wisteria</td><td>wistēriå</td><td>wist-er-ia</td><td>wist-ēr-iå</td><td>n. any flowering vine of the genus Wisteria</td></tr>
 <tr><td>wistfully</td><td>wistfůllẏ</td><td>wist-ful-ly</td><td>wist-fůl-lẏ</td><td>adv. in a wistful manner</td></tr>
-<tr><td>wistfulness</td><td>wistfůlne̊ss</td><td>wist-ful-ness</td><td>wist-fůl-ne̊ss</td><td>n. a sadly pensive longing</td></tr>
+<tr><td>wistfulness</td><td>wistfůlnėss</td><td>wist-ful-ness</td><td>wist-fůl-nėss</td><td>n. a sadly pensive longing</td></tr>
 <tr><td>wit</td><td>wit</td><td>wit</td><td>wit</td><td>n. the ability to think quickly and make clever remarks<br>n. intelligence or good sense</td></tr>
-<tr><td>witless</td><td>witle̊ss</td><td>wit-less</td><td>wit-le̊ss</td><td>a. lacking sense or understanding or judgment</td></tr>
+<tr><td>witless</td><td>witlėss</td><td>wit-less</td><td>wit-lėss</td><td>a. lacking sense or understanding or judgment</td></tr>
 <tr><td>witling</td><td>witling</td><td>wit-ling</td><td>wit-ling</td><td>n. one who tries to be witty</td></tr>
 <tr><td>witness</td><td>witnėss</td><td>wit-ness</td><td>wit-nėss</td><td>n. a person who sees an event happen<br>n. a person who gives evidence in court<br>v. see something happen</td></tr>
 <tr><td>witty</td><td>wittẏ</td><td>witt-y</td><td>witt-ẏ</td><td>a. combining clever conception and facetious expression</td></tr>
@@ -1071,8 +1071,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>witnessed</td><td>witnėss𝕖ḋ</td><td>wit-ness-ed</td><td>wit-nėss-𝕖ḋ</td><td></td></tr>
 <tr><td>witnesses</td><td>witnėssėṡ</td><td>wit-ness-es</td><td>wit-nėss-ėṡ</td><td></td></tr>
 <tr><td>witticism</td><td>witticiṡm</td><td>witt-ic-ism</td><td>witt-ic-iṡm</td><td>n. a witty remark whose ingenuity or incongruity has the power to evoke laughter</td></tr>
-<tr><td>witnessing</td><td>witne̊ssing</td><td>wit-ness-ing</td><td>wit-ne̊ss-ing</td><td>v. see or experience an event<br>n. the act of giving testimony</td></tr>
-<tr><td>wittily</td><td>witti̊lẏ</td><td>witt-i-ly</td><td>witt-i̊-lẏ</td><td>adv. in a witty manner</td></tr>
+<tr><td>witnessing</td><td>witnėssing</td><td>wit-ness-ing</td><td>wit-nėss-ing</td><td>v. see or experience an event<br>n. the act of giving testimony</td></tr>
+<tr><td>wittily</td><td>wittilẏ</td><td>witt-i-ly</td><td>witt-i-lẏ</td><td>adv. in a witty manner</td></tr>
 <tr><td>wittingly</td><td>wittinglẏ</td><td>witt-ing-ly</td><td>witt-ing-lẏ</td><td>adv. with full knowledge and deliberation</td></tr>
 <tr><td>nitwit</td><td>nitwit</td><td>nit-wit</td><td>nit-wit</td><td>n a stupid incompetent person</td></tr>
 <tr><td>unwitting</td><td>ûnwitting</td><td>un-witt-ing</td><td>ûn-witt-ing</td><td>a. not aware or knowing</td></tr>
@@ -1090,21 +1090,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>withal</td><td>wiṫhãl</td><td>with-al</td><td>wiṫh-ãl</td><td>adv. in addition; besides</td></tr>
 <tr><td>withdraw</td><td>wiṫhdrãw</td><td>with-draw</td><td>wiṫh-drãw</td><td>v. pull back or move away or backward<br>v. remove (a commodity) from (a supply source)<br>v. withdraw from an active social life</td></tr>
 <tr><td>wither</td><td>wiṫhe̊r</td><td>with-er</td><td>wiṫh-e̊r</td><td>v. to dry up and die; to lose freshness</td></tr>
-<tr><td>withheld</td><td>withheld</td><td>with-held</td><td>with-held</td><td>v. hold back; refuse to hand over or share</td></tr>
-<tr><td>withhold</td><td>withhōld</td><td>with-hold</td><td>with-hōld</td><td>v. to hold back; to refuse to give</td></tr>
+<tr><td>withheld</td><td>wiṫhheld</td><td>with-held</td><td>wiṫh-held</td><td>v. hold back; refuse to hand over or share</td></tr>
+<tr><td>withhold</td><td>wiṫhhōld</td><td>with-hold</td><td>wiṫh-hōld</td><td>v. to hold back; to refuse to give</td></tr>
 <tr><td>within</td><td>wiṫhin</td><td>with-in</td><td>wiṫh-in</td><td>prep. inside the limits of; not beyond<br>adv. inside something</td></tr>
 <tr><td>without</td><td>wiṫhòut</td><td>with-out</td><td>wiṫh-òut</td><td>prep. not having; not accompanied by; lacking<br>adv. on the outside; externally</td></tr>
 <tr><td>withstand</td><td>wiṫhstand</td><td>with-stand</td><td>wiṫh-stand</td><td>v. to resist or confront with resistance</td></tr>
-<tr><td>withdrawal</td><td>wiṫhdrãwål</td><td>with-draw-al</td><td>wiṫh-drãw-ål</td><td>n. the act of taking back or away<br>n. the removal of money from an account</td></tr>
+<tr><td>withdrawal</td><td>withdrãwål</td><td>with-draw-al</td><td>with-drãw-ål</td><td>n. the act of taking back or away<br>n. the removal of money from an account</td></tr>
 <tr><td>withered</td><td>wiṫhe̊r𝕖d</td><td>with-er-ed</td><td>wiṫh-e̊r-𝕖d</td><td>a. lean and wrinkled by shrinkage as from age or illness<br>a. (used especially of vegetation) having lost all moisture</td></tr>
 <tr><td>withering</td><td>wiṫhe̊ring</td><td>with-er-ing</td><td>wiṫh-e̊r-ing</td><td>a. wreaking or capable of wreaking complete destruction</td></tr>
-<tr><td>withholding</td><td>withhōlding</td><td>with-hold-ing</td><td>with-hōld-ing</td><td>n. the act of deducting from an employee&#x27;s salary<br>n. the act of holding back or keeping within your possession or control</td></tr>
+<tr><td>withholding</td><td>wiṫhhōlding</td><td>with-hold-ing</td><td>wiṫh-hōld-ing</td><td>n. the act of deducting from an employee&#x27;s salary<br>n. the act of holding back or keeping within your possession or control</td></tr>
 <tr><td>withers</td><td>wiṫhe̊rṡ</td><td>with-er-s</td><td>wiṫh-e̊r-ṡ</td><td>n. the highest part of the back at the base of the neck, especially of draft animals</td></tr>
 <tr><td>witheringly</td><td>wiṫhe̊ringlẏ</td><td>with-er-ing-ly</td><td>wiṫh-e̊r-ing-lẏ</td><td>adv. in a withering manner</td></tr>
 <tr><td>wittgensteinian</td><td>wittge̊nsteīniån</td><td>witt-gen-stein-ian</td><td>witt-ge̊n-steīn-iån</td><td>a. of or relating to Ludwig Wittgenstein or his philosophical theories</td></tr>
 <tr><td>wiz</td><td>wiz</td><td>wiz</td><td>wiz</td><td>n. someone who is dazzlingly skilled in any field</td></tr>
-<tr><td>wizen</td><td>wīze̊n</td><td>wiz-en</td><td>wīz-e̊n</td><td>a. shriveled, withered</td></tr>
-<tr><td>wizened</td><td>wīze̊n𝕖d</td><td>wiz-en-ed</td><td>wīz-e̊n-𝕖d</td><td>a. lean and wrinkled by shrinkage as from age or illness</td></tr>
+<tr><td>wizen</td><td>wize̊n</td><td>wiz-en</td><td>wiz-e̊n</td><td>a. shriveled, withered</td></tr>
+<tr><td>wizened</td><td>wize̊n𝕖d</td><td>wiz-en-ed</td><td>wiz-e̊n-𝕖d</td><td>a. lean and wrinkled by shrinkage as from age or illness</td></tr>
 <tr><td>woad</td><td>wōad</td><td>woad</td><td>wōad</td><td>n. a plant yielding blue dye</td></tr>
 <tr><td>wobble</td><td>wobble</td><td>wob-ble</td><td>wob-ble</td><td>n. an unsteady rocking motion<br>v. move unsteadily</td></tr>
 <tr><td>wobbling</td><td>wobbling</td><td>wob-bl-ing</td><td>wob-bl-ing</td><td>a. (of sound) fluctuating unsteadily</td></tr>
@@ -1131,15 +1131,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wonderment</td><td>wônde̊rme̊nt</td><td>wond-er-ment</td><td>wônd-e̊r-me̊nt</td><td>n. the feeling aroused by something strange and surprising</td></tr>
 <tr><td>wondrous</td><td>wôndro̊us</td><td>wond-r-ous</td><td>wônd-r-o̊us</td><td>a. extraordinarily good or great<br>adv. extremely, remarkably</td></tr>
 <tr><td>wonders</td><td>wônde̊rṡ</td><td>wond-er-s</td><td>wônd-e̊r-ṡ</td><td></td></tr>
-<tr><td>wonderfully</td><td>wônde̊rfûllẏ</td><td>wond-er-ful-ly</td><td>wônd-e̊r-fûl-lẏ</td><td>adv. in a wonderful manner; extremely well</td></tr>
+<tr><td>wonderfully</td><td>wônde̊rfůllẏ</td><td>wond-er-ful-ly</td><td>wônd-e̊r-fůl-lẏ</td><td>adv. in a wonderful manner; extremely well</td></tr>
 <tr><td>wonderingly</td><td>wônde̊ringlẏ</td><td>wond-er-ing-ly</td><td>wônd-e̊r-ing-lẏ</td><td>adv. in a curious and questioning manner</td></tr>
 <tr><td>wondrously</td><td>wôndro̊uslẏ</td><td>wond-r-ous-ly</td><td>wônd-r-o̊us-lẏ</td><td>adv. extremely well</td></tr>
-<tr><td>wonderfulness</td><td>wônde̊rfûlne̊ss</td><td>wond-er-ful-ness</td><td>wônd-e̊r-fûl-ne̊ss</td><td>n. admirable excellence</td></tr>
+<tr><td>wonderfulness</td><td>wônde̊rfůlnėss</td><td>wond-er-ful-ness</td><td>wônd-e̊r-fůl-nėss</td><td>n. admirable excellence</td></tr>
 <tr><td>wonk</td><td>wonk</td><td>wonk</td><td>wonk</td><td>n. an insignificant student who is ridiculed as being affected or boringly studious</td></tr>
 <tr><td>wonky</td><td>wonkẏ</td><td>wonk-y</td><td>wonk-ẏ</td><td>a. turned or twisted toward one side<br>a. inclined to shake as from weakness or defect</td></tr>
-<tr><td>wont</td><td>wōnt</td><td>wont</td><td>wōnt</td><td>n. an established custom<br>a. accustomed</td></tr>
-<tr><td>wonton</td><td>wonton</td><td>wont-on</td><td>wont-on</td><td>n. a Chinese dumpling filled with spiced minced pork; usually served in soup</td></tr>
-<tr><td>unwonted</td><td>ûnwo̊ntėd</td><td>un-wont-ed</td><td>ûn-wo̊nt-ėd</td><td>a. out of the ordinary</td></tr>
+<tr><td>wont</td><td>wont</td><td>wont</td><td>wont</td><td>n. an established custom<br>a. accustomed</td></tr>
+<tr><td>wonton</td><td>wonto̊n</td><td>wont-on</td><td>wont-o̊n</td><td>n. a Chinese dumpling filled with spiced minced pork; usually served in soup</td></tr>
+<tr><td>unwonted</td><td>ûnwontėd</td><td>un-wont-ed</td><td>ûn-wont-ėd</td><td>a. out of the ordinary</td></tr>
 <tr><td>woo</td><td>woo</td><td>woo</td><td>woo</td><td>v. seek someone&#x27;s favor<br>v. make amorous advances towards</td></tr>
 <tr><td>wooing</td><td>wooing</td><td>woo-ing</td><td>woo-ing</td><td>n. courting a woman; seeking her affections, usually with the hope of marriage</td></tr>
 <tr><td>wood</td><td>wood</td><td>wood</td><td>wood</td><td>n. the hard material that forms the trunk and branches of a tree<br>n. an area of trees</td></tr>
@@ -1147,15 +1147,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>woodbox</td><td>woodbox</td><td>wood-box</td><td>wood-box</td><td>n. a box for storing firewood</td></tr>
 <tr><td>woodchuck</td><td>woodchûck</td><td>wood-chuck</td><td>wood-chûck</td><td>n. a reddish brown North American marmot</td></tr>
 <tr><td>woodcock</td><td>woodcock</td><td>wood-cock</td><td>wood-cock</td><td>n. game bird of the sandpiper family that resembles a snipe</td></tr>
-<tr><td>woodcraft</td><td>woodcraft</td><td>wood-craft</td><td>wood-craft</td><td>n. skill and experience in matters relating to the woods<br>n. skill in carving or fashioning objects from wood</td></tr>
+<tr><td>woodcraft</td><td>woodcràft</td><td>wood-craft</td><td>wood-cràft</td><td>n. skill and experience in matters relating to the woods<br>n. skill in carving or fashioning objects from wood</td></tr>
 <tr><td>woodcut</td><td>woodcût</td><td>wood-cut</td><td>wood-cût</td><td>n. a print made from an engraved block of wood</td></tr>
 <tr><td>wooded</td><td>woodėd</td><td>wood-ed</td><td>wood-ėd</td><td>a. covered with growing trees and bushes etc</td></tr>
 <tr><td>wooden</td><td>woode̊n</td><td>wood-en</td><td>wood-e̊n</td><td>a. made or consisting of (entirely or in part) or employing wood<br>a. lacking ease or grace</td></tr>
-<tr><td>woodland</td><td>woodland</td><td>wood-land</td><td>wood-land</td><td>n. land covered with trees and shrubs</td></tr>
+<tr><td>woodland</td><td>woodlånd</td><td>wood-land</td><td>wood-lånd</td><td>n. land covered with trees and shrubs</td></tr>
 <tr><td>woodlot</td><td>woodlot</td><td>wood-lot</td><td>wood-lot</td><td>n. a densely wooded area, especially one maintained for the purpose of supplying firewood</td></tr>
 <tr><td>woodpile</td><td>woodpīle</td><td>wood-pile</td><td>wood-pīle</td><td>n. a pile or stack of wood to be used for fuel</td></tr>
 <tr><td>woods</td><td>woodṡ</td><td>wood-s</td><td>wood-ṡ</td><td></td></tr>
-<tr><td>woodshed</td><td>woodsh𝕖d</td><td>wood-shed</td><td>wood-sh𝕖d</td><td>n. a shed for storing firewood or garden tools</td></tr>
+<tr><td>woodshed</td><td>woodshed</td><td>wood-shed</td><td>wood-shed</td><td>n. a shed for storing firewood or garden tools</td></tr>
 <tr><td>woodstove</td><td>woodstōve</td><td>wood-stove</td><td>wood-stōve</td><td>n. a stove that burns wood for heating</td></tr>
 <tr><td>woodwind</td><td>woodwind</td><td>wood-wind</td><td>wood-wind</td><td>n. any wind instrument other than the brass instruments</td></tr>
 <tr><td>woodwork</td><td>woodwo̊rk</td><td>wood-work</td><td>wood-wo̊rk</td><td>n. work made of wood; especially moldings or stairways or furniture</td></tr>
@@ -1170,8 +1170,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>woodcutting</td><td>woodcûtting</td><td>wood-cutt-ing</td><td>wood-cûtt-ing</td><td>n. the cutting of wood  a. relating to woodcuts</td></tr>
 <tr><td>woodworking</td><td>woodwo̊rking</td><td>wood-work-ing</td><td>wood-wo̊rk-ing</td><td>n. the craft of making things out of wood</td></tr>
 <tr><td>woodenly</td><td>woode̊nlẏ</td><td>wood-en-ly</td><td>wood-e̊n-lẏ</td><td>adv. without grace; rigidly</td></tr>
-<tr><td>woodsman</td><td>woodṡman</td><td>wood-s-man</td><td>wood-ṡ-man</td><td>n. someone who lives or works in the woods</td></tr>
-<tr><td>woodsy</td><td>woodṡẏ</td><td>wood-s-y</td><td>wood-ṡ-ẏ</td><td>a. characteristic or suggestive of woods</td></tr>
+<tr><td>woodsman</td><td>woodṡmån</td><td>wood-s-man</td><td>wood-ṡ-mån</td><td>n. someone who lives or works in the woods</td></tr>
+<tr><td>woodsy</td><td>woodsẏ</td><td>wood-s-y</td><td>wood-s-ẏ</td><td>a. characteristic or suggestive of woods</td></tr>
 <tr><td>basswood</td><td>basswood</td><td>bass-wood</td><td>bass-wood</td><td>n. soft light-colored wood of linden trees; used in making crates, boxes and carving</td></tr>
 <tr><td>bentwood</td><td>bentwood</td><td>bent-wood</td><td>bent-wood</td><td>n. wood steamed until pliable and shaped for use in making furniture</td></tr>
 <tr><td>boxwood</td><td>boxwood</td><td>box-wood</td><td>box-wood</td><td>n. very hard tough close-grained light yellow wood; used in delicate woodwork</td></tr>
@@ -1193,11 +1193,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wooly</td><td>woolẏ</td><td>wool-y</td><td>wool-ẏ</td><td>a. covered with dense often matted or curly hairs</td></tr>
 <tr><td>woolens</td><td>woole̊nṡ</td><td>wool-en-s</td><td>wool-e̊n-ṡ</td><td>n. a fabric made from the hair of sheep</td></tr>
 <tr><td>woozy</td><td>woozẏ</td><td>wooz-y</td><td>wooz-ẏ</td><td>a. having a whirling sensation; dizzy</td></tr>
-<tr><td>woozily</td><td>woozĩlẏ</td><td>wooz-i-ly</td><td>wooz-ĩ-lẏ</td><td>adv. in a woozy manner</td></tr>
+<tr><td>woozily</td><td>woozilẏ</td><td>wooz-i-ly</td><td>wooz-i-lẏ</td><td>adv. in a woozy manner</td></tr>
 <tr><td>wop</td><td>wop</td><td>wop</td><td>wop</td><td>n. (ethnic slur) offensive term for a person of Italian descent</td></tr>
 <tr><td>word</td><td>wo̊rd</td><td>word</td><td>wo̊rd</td><td>n. a unit of language; a brief statement; a promise; a command<br>vt. to express in words</td></tr>
 <tr><td>wording</td><td>wo̊rding</td><td>word-ing</td><td>wo̊rd-ing</td><td>n. the manner in which something is expressed in words</td></tr>
-<tr><td>wordless</td><td>wo̊rdle̊ss</td><td>word-less</td><td>wo̊rd-le̊ss</td><td>a. expressed without speech</td></tr>
+<tr><td>wordless</td><td>wo̊rdlėss</td><td>word-less</td><td>wo̊rd-lėss</td><td>a. expressed without speech</td></tr>
 <tr><td>wordplay</td><td>wo̊rdplāy</td><td>word-play</td><td>wo̊rd-plāy</td><td>n. a humorous play on words</td></tr>
 <tr><td>words</td><td>wo̊rdṡ</td><td>word-s</td><td>wo̊rd-ṡ</td><td></td></tr>
 <tr><td>wordsmith</td><td>wo̊rdsmith</td><td>word-smith</td><td>wo̊rd-smith</td><td>n. a fluent and prolific writer</td></tr>
@@ -1205,7 +1205,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wordlessly</td><td>wo̊rdlėsslẏ</td><td>word-less-ly</td><td>wo̊rd-lėss-lẏ</td><td>adv. without speaking</td></tr>
 <tr><td>wordsworthian</td><td>wo̊rdṡwo̊rthiån</td><td>word-s-worth-ian</td><td>wo̊rd-ṡ-wo̊rth-iån</td><td>a. of or relating to William Wordsworth or his poetry</td></tr>
 <tr><td>byword</td><td>bȳwo̊rd</td><td>by-word</td><td>bȳ-wo̊rd</td><td>n. a condensed but memorable saying embodying some important fact of experience</td></tr>
-<tr><td>foreword</td><td>forewo̊rd</td><td>fore-word</td><td>fore-wo̊rd</td><td>n. a short introductory essay preceding the text of a book</td></tr>
+<tr><td>foreword</td><td>for𝕖wo̊rd</td><td>fore-word</td><td>for𝕖-wo̊rd</td><td>n. a short introductory essay preceding the text of a book</td></tr>
 <tr><td>keyword</td><td>kēywo̊rd</td><td>key-word</td><td>kēy-wo̊rd</td><td>n. a word that serves as a key to a code or cipher</td></tr>
 <tr><td>reword</td><td>rėwo̊rd</td><td>re-word</td><td>rė-wo̊rd</td><td>v express the same message in different words</td></tr>
 <tr><td>work</td><td>wo̊rk</td><td>work</td><td>wo̊rk</td><td>n. activity involving effort; a product of effort; employment<br>v. to exert oneself; to function or operate</td></tr>
@@ -1216,10 +1216,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>workday</td><td>wo̊rkdāy</td><td>work-day</td><td>wo̊rk-dāy</td><td>n. a day on which work is done<br>n. the amount of time that a worker must work for an agreed daily wage</td></tr>
 <tr><td>worked</td><td>wo̊rk𝕖ḋ</td><td>work-ed</td><td>wo̊rk-𝕖ḋ</td><td>v. exert oneself by doing mental or physical work<br>v. shape, form, or improve a material</td></tr>
 <tr><td>worker</td><td>wo̊rke̊r</td><td>work-er</td><td>wo̊rk-e̊r</td><td>n. a person who works at a job or trade</td></tr>
-<tr><td>workfare</td><td>wo̊rkfare</td><td>work-fare</td><td>wo̊rk-fare</td><td>n. a welfare system that requires recipients to work or participate in job training</td></tr>
+<tr><td>workfare</td><td>wo̊rkfāre</td><td>work-fare</td><td>wo̊rk-fāre</td><td>n. a welfare system that requires recipients to work or participate in job training</td></tr>
 <tr><td>workflow</td><td>wo̊rkflōw</td><td>work-flow</td><td>wo̊rk-flōw</td><td>n. progress (or rate of progress) in work being done</td></tr>
 <tr><td>workforce</td><td>wo̊rkforce</td><td>work-force</td><td>wo̊rk-force</td><td>n. the total number of workers available for employment</td></tr>
-<tr><td>workgroup</td><td>wo̊rkgroùp</td><td>work-group</td><td>wo̊rk-groùp</td><td>n. a group of people working together on a task or project</td></tr>
+<tr><td>workgroup</td><td>wo̊rkgroūp</td><td>work-group</td><td>wo̊rk-groūp</td><td>n. a group of people working together on a task or project</td></tr>
 <tr><td>workhorse</td><td>wo̊rkhorse</td><td>work-horse</td><td>wo̊rk-horse</td><td>n. a horse used for heavy labor<br>n. a machine that performs dependably</td></tr>
 <tr><td>workhouse</td><td>wo̊rkhòuse</td><td>work-house</td><td>wo̊rk-hòuse</td><td>n. a poorhouse where able-bodied poor are compelled to labor</td></tr>
 <tr><td>working</td><td>wo̊rking</td><td>work-ing</td><td>wo̊rk-ing</td><td>n. a mine or quarry that is being or has been worked<br>a. actively engaged in paid work<br>a. adequate for practical use</td></tr>
@@ -1238,11 +1238,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>workweek</td><td>wo̊rkwēek</td><td>work-week</td><td>wo̊rk-wēek</td><td>n. hours or days of work in a calendar week</td></tr>
 <tr><td>workability</td><td>wo̊rkåbilitẏ</td><td>work-abil-ity</td><td>wo̊rk-åbil-itẏ</td><td>n. the quality of being workable or practical</td></tr>
 <tr><td>workaholic</td><td>wo̊rkåholic</td><td>work-ahol-ic</td><td>wo̊rk-åhol-ic</td><td>n. a person with a compulsive need to work</td></tr>
-<tr><td>workaholism</td><td>wo̊rkåholiṡm</td><td>work-ahol-ism</td><td>wo̊rk-åhol-iṡm</td><td>n. compulsiveness about working</td></tr>
+<tr><td>workaholism</td><td>wo̊rkåhōliṡm</td><td>work-ahol-ism</td><td>wo̊rk-åhōl-iṡm</td><td>n. compulsiveness about working</td></tr>
 <tr><td>workstation</td><td>wo̊rkstātio̊n</td><td>work-stat-ion</td><td>wo̊rk-stāt-io̊n</td><td>n. a desktop computer designed for technical use</td></tr>
-<tr><td>workmanlike</td><td>wo̊rkmanlīke</td><td>work-man-like</td><td>wo̊rk-man-līke</td><td>a. worthy of a good workman</td></tr>
+<tr><td>workmanlike</td><td>wo̊rkmånlīke</td><td>work-man-like</td><td>wo̊rk-mån-līke</td><td>a. worthy of a good workman</td></tr>
 <tr><td>worktable</td><td>wo̊rktāble</td><td>work-tab-le</td><td>wo̊rk-tāb-le</td><td>n. a table designed for a particular task</td></tr>
-<tr><td>workingman</td><td>wo̊rkingman</td><td>work-ing-man</td><td>wo̊rk-ing-man</td><td>n an employee who performs manual or industrial labor</td></tr>
+<tr><td>workingman</td><td>wo̊rkingmån</td><td>work-ing-man</td><td>wo̊rk-ing-mån</td><td>n an employee who performs manual or industrial labor</td></tr>
 <tr><td>workers</td><td>wo̊rke̊rṡ</td><td>work-er-s</td><td>wo̊rk-e̊r-ṡ</td><td></td></tr>
 <tr><td>workmanship</td><td>wo̊rkmånship</td><td>work-man-ship</td><td>wo̊rk-mån-ship</td><td>n. skill in an occupation or trade</td></tr>
 <tr><td>workouts</td><td>wo̊rkòuts</td><td>work-out-s</td><td>wo̊rk-òut-s</td><td></td></tr>
@@ -1264,10 +1264,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waxwork</td><td>waxwo̊rk</td><td>wax-work</td><td>wax-wo̊rk</td><td>n. an effigy (usually of a famous person) made of wax</td></tr>
 <tr><td>basketwork</td><td>bàskėtwo̊rk</td><td>bask-et-work</td><td>bàsk-ėt-wo̊rk</td><td>n. articles made by weaving</td></tr>
 <tr><td>busywork</td><td>bu̇ṡẏwo̊rk</td><td>bus-y-work</td><td>bu̇ṡ-ẏ-wo̊rk</td><td>n. active work of little value</td></tr>
-<tr><td>masterwork</td><td>maste̊rwo̊rk</td><td>mast-er-work</td><td>mast-e̊r-wo̊rk</td><td>n. the most outstanding work of a creative artist or craftsman</td></tr>
+<tr><td>masterwork</td><td>màste̊rwo̊rk</td><td>mast-er-work</td><td>màst-e̊r-wo̊rk</td><td>n. the most outstanding work of a creative artist or craftsman</td></tr>
 <tr><td>camerawork</td><td>came̊råwo̊rk</td><td>cam-er-a-work</td><td>cam-e̊r-å-wo̊rk</td><td>n. the art or technique of using a camera in filmmaking</td></tr>
-<tr><td>overwrought</td><td>ōve̊r𝕨rōught</td><td>over-wrought</td><td>ōve̊r-𝕨rōught</td><td>a. deeply agitated especially from emotion</td></tr>
-<tr><td>wrought</td><td>𝕨rōught</td><td>wrought</td><td>𝕨rōught</td><td>a. made or fashioned; shaped</td></tr>
+<tr><td>overwrought</td><td>ōve̊r𝕨rōu𝕘𝕙t</td><td>over-wrought</td><td>ōve̊r-𝕨rōu𝕘𝕙t</td><td>a. deeply agitated especially from emotion</td></tr>
+<tr><td>wrought</td><td>𝕨rōu𝕘𝕙t</td><td>wrought</td><td>𝕨rōu𝕘𝕙t</td><td>a. made or fashioned; shaped</td></tr>
 <tr><td>world</td><td>wo̊rld</td><td>world</td><td>wo̊rld</td><td>n. the earth and its inhabitants; a sphere of human activity; the universe</td></tr>
 <tr><td>world-class</td><td></td><td>world-class</td><td></td><td>a. among the best in the world</td></tr>
 <tr><td>worldly</td><td>wo̊rldlẏ</td><td>world-ly</td><td>wo̊rld-lẏ</td><td>a. relating to the ordinary concerns of this world<br>a. experienced and sophisticated</td></tr>
@@ -1276,15 +1276,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>world-wide</td><td>wo̊rld-wīde</td><td>world-wide</td><td>wo̊rld-wīde</td><td>a. extending across the world</td></tr>
 <tr><td>worldwide</td><td>wo̊rldwīde</td><td>world-wide</td><td>wo̊rld-wīde</td><td>a. extending throughout the world<br>adv. throughout the world</td></tr>
 <tr><td>world-beater</td><td></td><td>world-beat-er</td><td></td><td>n. one likely to beat the world</td></tr>
-<tr><td>worldliness</td><td>wo̊rldline̊ss</td><td>world-li-ness</td><td>wo̊rld-li-ne̊ss</td><td>n. concern with worldly affairs to the neglect of spiritual needs</td></tr>
+<tr><td>worldliness</td><td>wo̊rldlinėss</td><td>world-li-ness</td><td>wo̊rld-li-nėss</td><td>n. concern with worldly affairs to the neglect of spiritual needs</td></tr>
 <tr><td>world-famous</td><td></td><td>world-fam-ous</td><td></td><td>a. known throughout the world</td></tr>
-<tr><td>lifeworld</td><td>līfewo̊rld</td><td>life-world</td><td>līfe-wo̊rld</td><td>n. the world as experienced and lived by an individual</td></tr>
+<tr><td>lifeworld</td><td>līf𝕖wo̊rld</td><td>life-world</td><td>līf𝕖-wo̊rld</td><td>n. the world as experienced and lived by an individual</td></tr>
 <tr><td>microworld</td><td>mīcrōwo̊rld</td><td>micro-world</td><td>mīcrō-wo̊rld</td><td>n. a small-scale world or environment</td></tr>
 <tr><td>netherworld</td><td>neṫhe̊rwo̊rld</td><td>nether-world</td><td>neṫhe̊r-wo̊rld</td><td>n. (religion) the world of the dead</td></tr>
 <tr><td>underworld</td><td>ûnde̊rwo̊rld</td><td>under-world</td><td>ûnde̊r-wo̊rld</td><td>n. the criminal world<br>n. the world of the dead in mythology</td></tr>
 <tr><td>unworldly</td><td>ûnwo̊rldlẏ</td><td>un-world-ly</td><td>ûn-wo̊rld-lẏ</td><td>a. not concerned with the temporal world or swayed by mundane considerations</td></tr>
 <tr><td>worm</td><td>wo̊rm</td><td>worm</td><td>wo̊rm</td><td>n. a soft-bodied animal with an elongated body<br>v. to move in a twisting or wriggling way</td></tr>
-<tr><td>wormhole</td><td>wo̊rmhole</td><td>worm-hole</td><td>wo̊rm-hole</td><td>n. a hole made by a burrowing worm; a theoretical passage through space-time</td></tr>
+<tr><td>wormhole</td><td>wo̊rmhōle</td><td>worm-hole</td><td>wo̊rm-hōle</td><td>n. a hole made by a burrowing worm; a theoretical passage through space-time</td></tr>
 <tr><td>wormlike</td><td>wo̊rmlīke</td><td>worm-like</td><td>wo̊rm-līke</td><td>a. totally submissive<br>a. resembling a worm in shape</td></tr>
 <tr><td>worms</td><td>wo̊rmṡ</td><td>worm-s</td><td>wo̊rm-ṡ</td><td></td></tr>
 <tr><td>wormwood</td><td>wo̊rmwood</td><td>worm-wood</td><td>wo̊rm-wood</td><td>n. any of several low composite herbs of the genera Artemisia or Seriphidium</td></tr>
@@ -1295,12 +1295,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>worries</td><td>wôrri𝕖ṡ</td><td>worr-ies</td><td>wôrr-i𝕖ṡ</td><td></td></tr>
 <tr><td>worrying</td><td>wôrrẏing</td><td>worry-ing</td><td>wôrrẏ-ing</td><td>a. causing anxiety or concern</td></tr>
 <tr><td>worrywart</td><td>wôrrẏwãrt</td><td>worry-wart</td><td>wôrrẏ-wãrt</td><td>n. thinks about unfortunate things that might happen</td></tr>
-<tr><td>worried</td><td>wôrrĩ𝕖d</td><td>worr-i-ed</td><td>wôrr-ĩ-𝕖d</td><td>a. feeling anxious or troubled about something</td></tr>
-<tr><td>worrier</td><td>wôrriēr</td><td>worr-i-er</td><td>wôrr-i-ēr</td><td>n. someone who thinks about unfortunate things that might happen</td></tr>
-<tr><td>worrisome</td><td>wôrrĩso̊me</td><td>worr-i-some</td><td>wôrr-ĩ-so̊me</td><td>a. causing worry or anxiety</td></tr>
-<tr><td>worriedly</td><td>wôrriēdlẏ</td><td>worr-i-ed-ly</td><td>wôrr-i-ēd-lẏ</td><td>adv. in a worried manner</td></tr>
-<tr><td>unworried</td><td>ûnwôrrĩ𝕖d</td><td>un-worr-i-ed</td><td>ûn-wôrr-ĩ-𝕖d</td><td>a. free of trouble and worry</td></tr>
-<tr><td>wort</td><td>wo̊rt</td><td>wort</td><td>wo̊rt</td><td>n. unfermented or fermenting malt used in brewing</td></tr>
+<tr><td>worried</td><td>wôrri𝕖d</td><td>worr-i-ed</td><td>wôrr-i-𝕖d</td><td>a. feeling anxious or troubled about something</td></tr>
+<tr><td>worrier</td><td>wôrrie̊r</td><td>worr-i-er</td><td>wôrr-i-e̊r</td><td>n. someone who thinks about unfortunate things that might happen</td></tr>
+<tr><td>worrisome</td><td>wôrrisôme</td><td>worr-i-some</td><td>wôrr-i-sôme</td><td>a. causing worry or anxiety</td></tr>
+<tr><td>worriedly</td><td>wôrri𝕖dlẏ</td><td>worr-i-ed-ly</td><td>wôrr-i-𝕖d-lẏ</td><td>adv. in a worried manner</td></tr>
+<tr><td>unworried</td><td>ûnwôrri𝕖d</td><td>un-worr-i-ed</td><td>ûn-wôrr-i-𝕖d</td><td>a. free of trouble and worry</td></tr>
+<tr><td>wort</td><td>wort</td><td>wort</td><td>wort</td><td>n. unfermented or fermenting malt used in brewing</td></tr>
 <tr><td>worth</td><td>wo̊rth</td><td>worth</td><td>wo̊rth</td><td>n. the value or usefulness of something<br>a. having a specified value</td></tr>
 <tr><td>worthless</td><td>wo̊rthlėss</td><td>worth-less</td><td>wo̊rth-lėss</td><td>a. lacking in usefulness or value</td></tr>
 <tr><td>worship</td><td>wo̊rship</td><td>wor-ship</td><td>wo̊r-ship</td><td>n. the feeling or expression of reverence and adoration<br>v. to show devotion to a deity</td></tr>
@@ -1309,23 +1309,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>worthier</td><td>wo̊rṫhie̊r</td><td>worth-i-er</td><td>wo̊rṫh-i-e̊r</td><td></td></tr>
 <tr><td>worthiest</td><td>wo̊rṫhiėst</td><td>worth-i-est</td><td>wo̊rṫh-i-ėst</td><td></td></tr>
 <tr><td>worshiped</td><td>wo̊rship𝕖ḋ</td><td>wor-ship-ed</td><td>wo̊r-ship-𝕖ḋ</td><td></td></tr>
-<tr><td>worshiper</td><td>wo̊rshi̊pe̊r</td><td>wor-ship-er</td><td>wo̊r-shi̊p-e̊r</td><td>n. someone who admires too much to recognize faults</td></tr>
-<tr><td>worshipper</td><td>wo̊rshi̊ppe̊r</td><td>wor-shipp-er</td><td>wo̊r-shi̊pp-e̊r</td><td>n. a person who has religious faith<br>n. someone who admires too much</td></tr>
-<tr><td>worshipful</td><td>wo̊rshi̊pfůl</td><td>wor-ship-ful</td><td>wo̊r-shi̊p-fůl</td><td>a. showing adoration or great reverence</td></tr>
-<tr><td>worshiping</td><td>wo̊rshi̊ping</td><td>wor-ship-ing</td><td>wo̊r-shi̊p-ing</td><td>v. show devotion to a deity<br>v. love unquestioningly and uncritically</td></tr>
-<tr><td>worthiness</td><td>wo̊rṫhĩnėss</td><td>worth-i-ness</td><td>wo̊rṫh-ĩ-nėss</td><td>n. the quality or state of having merit or value</td></tr>
-<tr><td>worthlessness</td><td>wo̊rthle̊ssne̊ss</td><td>worth-less-ness</td><td>wo̊rth-le̊ss-ne̊ss</td><td>n. having no qualities that would render it valuable or useful</td></tr>
+<tr><td>worshiper</td><td>wo̊rshipe̊r</td><td>wor-ship-er</td><td>wo̊r-ship-e̊r</td><td>n. someone who admires too much to recognize faults</td></tr>
+<tr><td>worshipper</td><td>wo̊rshippe̊r</td><td>wor-shipp-er</td><td>wo̊r-shipp-e̊r</td><td>n. a person who has religious faith<br>n. someone who admires too much</td></tr>
+<tr><td>worshipful</td><td>wo̊rshipfůl</td><td>wor-ship-ful</td><td>wo̊r-ship-fůl</td><td>a. showing adoration or great reverence</td></tr>
+<tr><td>worshiping</td><td>wo̊rshiping</td><td>wor-ship-ing</td><td>wo̊r-ship-ing</td><td>v. show devotion to a deity<br>v. love unquestioningly and uncritically</td></tr>
+<tr><td>worthiness</td><td>wo̊rṫhinėss</td><td>worth-i-ness</td><td>wo̊rṫh-i-nėss</td><td>n. the quality or state of having merit or value</td></tr>
+<tr><td>worthlessness</td><td>wo̊rthlėssnėss</td><td>worth-less-ness</td><td>wo̊rth-lėss-nėss</td><td>n. having no qualities that would render it valuable or useful</td></tr>
 <tr><td>worships</td><td>wo̊rships</td><td>wor-ship-s</td><td>wo̊r-ship-s</td><td></td></tr>
-<tr><td>worshipfully</td><td>wo̊rshi̊pfůllẏ</td><td>wor-ship-ful-ly</td><td>wo̊r-shi̊p-fůl-lẏ</td><td>adv. with reverence and respect</td></tr>
-<tr><td>noteworthy</td><td>nōtewo̊rṫhẏ</td><td>note-worth-y</td><td>nōte-wo̊rṫh-ẏ</td><td>a. worthy of attention or notice</td></tr>
+<tr><td>worshipfully</td><td>wo̊rshipfůllẏ</td><td>wor-ship-ful-ly</td><td>wo̊r-ship-fůl-lẏ</td><td>adv. with reverence and respect</td></tr>
+<tr><td>noteworthy</td><td>nōt𝕖wo̊rṫhẏ</td><td>note-worth-y</td><td>nōt𝕖-wo̊rṫh-ẏ</td><td>a. worthy of attention or notice</td></tr>
 <tr><td>unworthy</td><td>ûnwo̊rṫhẏ</td><td>un-worth-y</td><td>ûn-wo̊rṫh-ẏ</td><td>a. lacking in value or merit<br>a. not deserving</td></tr>
 <tr><td>unworthiness</td><td>ûnwo̊rṫhinėss</td><td>un-worth-i-ness</td><td>ûn-wo̊rṫh-i-nėss</td><td>n. the quality or state of lacking merit or value</td></tr>
 <tr><td>creditworthy</td><td>creditwo̊rṫhẏ</td><td>cred-it-worth-y</td><td>cred-it-wo̊rṫh-ẏ</td><td>a. having an acceptable credit rating</td></tr>
 <tr><td>newsworthy</td><td>new̄ṡwo̊rṫhẏ</td><td>new-s-worth-y</td><td>new̄-ṡ-wo̊rṫh-ẏ</td><td>a. sufficiently interesting to be reported</td></tr>
 <tr><td>wot</td><td>wot</td><td>wot</td><td>wot</td><td>v. to know (archaic)</td></tr>
 <tr><td>wound</td><td>woūnd</td><td>wound</td><td>woūnd</td><td>n. an injury to the body involving a cut or break in the skin<br>vt. to cause injury to someone</td></tr>
-<tr><td>wounded</td><td>woùndėd</td><td>wound-ed</td><td>woùnd-ėd</td><td>a. injured by a weapon<br>n. people who have been injured</td></tr>
-<tr><td>wounding</td><td>woùnding</td><td>wound-ing</td><td>woùnd-ing</td><td>a. causing physical or psychological injury<br>n. the act of inflicting a wound</td></tr>
+<tr><td>wounded</td><td>woūndėd</td><td>wound-ed</td><td>woūnd-ėd</td><td>a. injured by a weapon<br>n. people who have been injured</td></tr>
+<tr><td>wounding</td><td>woūnding</td><td>wound-ing</td><td>woūnd-ing</td><td>a. causing physical or psychological injury<br>n. the act of inflicting a wound</td></tr>
 <tr><td>wounds</td><td>woūndṡ</td><td>wound-s</td><td>woūnd-ṡ</td><td></td></tr>
 <tr><td>wow</td><td>wòw</td><td>wow</td><td>wòw</td><td>int. used to express surprise or admiration<br>vt. to impress someone greatly</td></tr>
 <tr><td>wrack</td><td>𝕨rack</td><td>wrack</td><td>𝕨rack</td><td>n. destruction or collapse</td></tr>
@@ -1340,20 +1340,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wrapping</td><td>𝕨rapping</td><td>wrapp-ing</td><td>𝕨rapp-ing</td><td>n. the material used for wrapping something</td></tr>
 <tr><td>wraps</td><td>𝕨raps</td><td>wrap-s</td><td>𝕨rap-s</td><td></td></tr>
 <tr><td>wrapt</td><td>𝕨rapt</td><td>wrap-t</td><td>𝕨rap-t</td><td></td></tr>
-<tr><td>wraparound</td><td>𝕨rapåroùnd</td><td>wrap-a-round</td><td>𝕨rap-å-roùnd</td><td>a. designed to be wrapped around the body<br>n. a garment that wraps around the body</td></tr>
-<tr><td>enwrap</td><td>ėn𝕨rap</td><td>en-wrap</td><td>ėn-𝕨rap</td><td>v enclose or enfold completely with or as if with a covering</td></tr>
+<tr><td>wraparound</td><td>𝕨rapåròund</td><td>wrap-a-round</td><td>𝕨rap-å-ròund</td><td>a. designed to be wrapped around the body<br>n. a garment that wraps around the body</td></tr>
+<tr><td>enwrap</td><td>en𝕨rap</td><td>en-wrap</td><td>en-𝕨rap</td><td>v enclose or enfold completely with or as if with a covering</td></tr>
 <tr><td>unwrap</td><td>ûn𝕨rap</td><td>un-wrap</td><td>ûn-𝕨rap</td><td>v. remove the outer cover or wrapping of<br>v. make known information previously kept secret</td></tr>
 <tr><td>unwrapped</td><td>ûn𝕨rapp𝕖ḋ</td><td>un-wrapp-ed</td><td>ûn-𝕨rapp-𝕖ḋ</td><td>a. not wrapped or having the wrapping removed</td></tr>
 <tr><td>wrasse</td><td>𝕨rasse</td><td>wrasse</td><td>𝕨rasse</td><td>n. a tropical marine fish with fleshy lips and powerful teeth; brightly colored</td></tr>
 <tr><td>wrath</td><td>𝕨rath</td><td>wrath</td><td>𝕨rath</td><td>n. intense anger; fury</td></tr>
 <tr><td>wroth</td><td>𝕨roth</td><td>wroth</td><td>𝕨roth</td><td>a. intensely angry</td></tr>
-<tr><td>wrathful</td><td>𝕨rathfùl</td><td>wrath-ful</td><td>𝕨rath-fùl</td><td>a. vehemently incensed and condemnatory</td></tr>
+<tr><td>wrathful</td><td>𝕨rathfůl</td><td>wrath-ful</td><td>𝕨rath-fůl</td><td>a. vehemently incensed and condemnatory</td></tr>
 <tr><td>bewray</td><td>bė𝕨rāy</td><td>be-wray</td><td>bė-𝕨rāy</td><td>vt. to reveal or expose; to betray</td></tr>
 <tr><td>wreak</td><td>𝕨rēak</td><td>wreak</td><td>𝕨rēak</td><td>v. to cause something harmful or damaging</td></tr>
 <tr><td>wreath</td><td>𝕨rēath</td><td>wreath</td><td>𝕨rēath</td><td>n. a circular band of flowers or foliage for ornamental purposes</td></tr>
 <tr><td>wreathe</td><td>𝕨rēaṫhe</td><td>wreath-e</td><td>𝕨rēaṫh-e</td><td>v. decorate or deck with wreaths<br>v. form into a wreath</td></tr>
 <tr><td>wreck</td><td>𝕨reck</td><td>wreck</td><td>𝕨reck</td><td>n. something that has been destroyed<br>v. to destroy or ruin</td></tr>
-<tr><td>wreckage</td><td>𝕨reckåge</td><td>wreck-age</td><td>𝕨reck-åge</td><td>n. the remaining parts of something that has been wrecked</td></tr>
+<tr><td>wreckage</td><td>𝕨reckȧge</td><td>wreck-age</td><td>𝕨reck-ȧge</td><td>n. the remaining parts of something that has been wrecked</td></tr>
 <tr><td>wrecked</td><td>𝕨reck𝕖ḋ</td><td>wreck-ed</td><td>𝕨reck-𝕖ḋ</td><td>a. destroyed in an accident</td></tr>
 <tr><td>wrecker</td><td>𝕨recke̊r</td><td>wreck-er</td><td>𝕨reck-e̊r</td><td>n. someone who demolishes or dismantles buildings as a job</td></tr>
 <tr><td>wrecking</td><td>𝕨recking</td><td>wreck-ing</td><td>𝕨reck-ing</td><td>n. the act of destroying or demolishing<br>v. present participle of wreck</td></tr>
@@ -1365,7 +1365,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wrestle</td><td>𝕨restle</td><td>wrest-le</td><td>𝕨rest-le</td><td>v. to fight by holding and throwing someone<br>n. a wrestling match</td></tr>
 <tr><td>wrestling</td><td>𝕨res𝕥ling</td><td>wrest-ling</td><td>𝕨res𝕥-ling</td><td>n. the sport of hand-to-hand struggle between unarmed contestants</td></tr>
 <tr><td>wrestled</td><td>𝕨res𝕥l𝕖d</td><td>wrest-l-ed</td><td>𝕨res𝕥-l-𝕖d</td><td></td></tr>
-<tr><td>wrestler</td><td>𝕨restle̊r</td><td>wrest-l-er</td><td>𝕨rest-l-e̊r</td><td>n. a person who competes in wrestling</td></tr>
+<tr><td>wrestler</td><td>𝕨res𝕥le̊r</td><td>wrest-l-er</td><td>𝕨res𝕥-l-e̊r</td><td>n. a person who competes in wrestling</td></tr>
 <tr><td>wrestles</td><td>𝕨res𝕥l𝕖ṡ</td><td>wrest-le-s</td><td>𝕨res𝕥-l𝕖-ṡ</td><td></td></tr>
 <tr><td>wrestlers</td><td>𝕨restle̊rṡ</td><td>wrest-l-er-s</td><td>𝕨rest-l-e̊r-ṡ</td><td></td></tr>
 <tr><td>wretch</td><td>𝕨retch</td><td>wretch</td><td>𝕨retch</td><td>n. a miserable or unfortunate person; a despicable person</td></tr>
@@ -1383,7 +1383,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wrinkling</td><td>𝕨rinkling</td><td>wrink-ling</td><td>𝕨rink-ling</td><td>v. gather or contract into wrinkles or folds<br>v. become wrinkled or crumpled</td></tr>
 <tr><td>wrinkly</td><td>𝕨rinklẏ</td><td>wrink-ly</td><td>𝕨rink-lẏ</td><td>a marked by wrinkles</td></tr>
 <tr><td>wrinkled</td><td>𝕨rinkl𝕖d</td><td>wrink-l-ed</td><td>𝕨rink-l-𝕖d</td><td>a. having wrinkles</td></tr>
-<tr><td>unwrinkled</td><td>ûn𝕨rinkled</td><td>un-wrink-l-ed</td><td>ûn-𝕨rink-l-ed</td><td>a. not wrinkled or creased</td></tr>
+<tr><td>unwrinkled</td><td>ûn𝕨rinkl𝕖d</td><td>un-wrink-l-ed</td><td>ûn-𝕨rink-l-𝕖d</td><td>a. not wrinkled or creased</td></tr>
 <tr><td>wrist</td><td>𝕨rist</td><td>wrist</td><td>𝕨rist</td><td>n. the joint connecting the hand with the forearm</td></tr>
 <tr><td>wristband</td><td>𝕨ristband</td><td>wrist-band</td><td>𝕨rist-band</td><td>n. a band that covers the wrist, part of a sleeve or a watch strap</td></tr>
 <tr><td>wrists</td><td>𝕨rists</td><td>wrist-s</td><td>𝕨rist-s</td><td></td></tr>
@@ -1401,20 +1401,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>writings</td><td>𝕨rītingṡ</td><td>writ-ing-s</td><td>𝕨rīt-ing-ṡ</td><td></td></tr>
 <tr><td>overwrite</td><td>ōve̊r𝕨rīte</td><td>over-write</td><td>ōve̊r-𝕨rīte</td><td>v. write new data on top of existing data and thus erase the previously existing data</td></tr>
 <tr><td>rewrite</td><td>rė𝕨rīte</td><td>re-write</td><td>rė-𝕨rīte</td><td>v. write something again or differently<br>n. a revised version</td></tr>
-<tr><td>rewritable</td><td>re𝕨rītåble</td><td>re-writ-able</td><td>re-𝕨rīt-åble</td><td>a. capable of being rewritten</td></tr>
+<tr><td>rewritable</td><td>rė𝕨rītåble</td><td>re-writ-able</td><td>rė-𝕨rīt-åble</td><td>a. capable of being rewritten</td></tr>
 <tr><td>rewriting</td><td>rė𝕨rīting</td><td>re-writ-ing</td><td>rė-𝕨rīt-ing</td><td>n. editing that involves writing something again</td></tr>
 <tr><td>underwrite</td><td>ûnde̊r𝕨rīte</td><td>under-write</td><td>ûnde̊r-𝕨rīte</td><td>v. guarantee financial support of</td></tr>
 <tr><td>underwriter</td><td>ûnde̊r𝕨rīte̊r</td><td>under-writ-er</td><td>ûnde̊r-𝕨rīt-e̊r</td><td>n. a banker who deals chiefly in underwriting new securities<br>n. an agent who sells insurance</td></tr>
 <tr><td>unwritten</td><td>ûn𝕨ritte̊n</td><td>un-writt-en</td><td>ûn-𝕨ritt-e̊n</td><td>a. based on custom rather than documentation</td></tr>
 <tr><td>underwriting</td><td>ûnde̊r𝕨rīting</td><td>under-writ-ing</td><td>ûnde̊r-𝕨rīt-ing</td><td>n. the business of insuring or guaranteeing financial support</td></tr>
 <tr><td>copywriter</td><td>copẏ𝕨rīte̊r</td><td>cop-y-writ-er</td><td>cop-ẏ-𝕨rīt-e̊r</td><td>n. a person employed to write advertising or publicity copy</td></tr>
-<tr><td>writhe</td><td>𝕨rithe</td><td>writhe</td><td>𝕨rithe</td><td>v. to move in a twisting or contorted motion, especially when struggling</td></tr>
+<tr><td>writhe</td><td>𝕨rīṫhe</td><td>writhe</td><td>𝕨rīṫhe</td><td>v. to move in a twisting or contorted motion, especially when struggling</td></tr>
 <tr><td>writhing</td><td>𝕨rīṫhing</td><td>writh-ing</td><td>𝕨rīṫh-ing</td><td>v. to move in a twisting or contorted motion, especially when struggling</td></tr>
 <tr><td>wrong</td><td>𝕨rong</td><td>wrong</td><td>𝕨rong</td><td>a. not correct or true; mistaken<br>adv. in a mistaken or incorrect way</td></tr>
 <tr><td>wronged</td><td>𝕨rong𝕖d</td><td>wrong-ed</td><td>𝕨rong-𝕖d</td><td>v. treat unjustly; do wrong to</td></tr>
 <tr><td>wrongful</td><td>𝕨rongfůl</td><td>wrong-ful</td><td>𝕨rong-fůl</td><td>a. unjust; unlawful</td></tr>
 <tr><td>wrongly</td><td>𝕨ronglẏ</td><td>wrong-ly</td><td>𝕨rong-lẏ</td><td>adv. incorrectly; without justice or fairness</td></tr>
-<tr><td>wrongness</td><td>𝕨ron𝕘nėss</td><td>wrong-ness</td><td>𝕨ron𝕘-nėss</td><td>n. contrary to conscience or morality</td></tr>
+<tr><td>wrongness</td><td>𝕨rongnėss</td><td>wrong-ness</td><td>𝕨rong-nėss</td><td>n. contrary to conscience or morality</td></tr>
 <tr><td>wrongdoer</td><td>𝕨rongdõe̊r</td><td>wrong-do-er</td><td>𝕨rong-dõ-e̊r</td><td>n. a person who transgresses moral or civil law</td></tr>
 <tr><td>wrongheaded</td><td>𝕨ronghèadėd</td><td>wrong-head-ed</td><td>𝕨rong-hèad-ėd</td><td>a. stubbornly wrong</td></tr>
 <tr><td>wrongdoing</td><td>𝕨rongdõing</td><td>wrong-do-ing</td><td>𝕨rong-dõ-ing</td><td>n. activity that transgresses moral or civil law</td></tr>

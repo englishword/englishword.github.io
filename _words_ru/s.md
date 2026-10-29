@@ -26,7 +26,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sabayon</td><td></td><td>sabayon</td><td></td><td>n light foamy custard-like dessert served hot or chilled</td></tr>
 <tr><td>Sabbath</td><td>Sabbåth</td><td>Sabbath</td><td>Sabbåth</td><td>n. a day of religious observance</td></tr>
 <tr><td>sabbatical</td><td>såbbaticål</td><td>sabbat-ic-al</td><td>såbbat-ic-ål</td><td>n. a leave usually taken every seventh year<br>a. of or relating to the Sabbath<br>a. of or relating to sabbatical leave</td></tr>
-<tr><td>sabbatarian</td><td>sabbåtåriån</td><td>sabbat-ar-ian</td><td>sabbåt-år-iån</td><td>n. one who observes the Sabbath strictly<br>a. relating to the strict observance of the Sabbath</td></tr>
+<tr><td>sabbatarian</td><td>sabbåtāriån</td><td>sabbat-ar-ian</td><td>sabbåt-ār-iån</td><td>n. one who observes the Sabbath strictly<br>a. relating to the strict observance of the Sabbath</td></tr>
 <tr><td>sabine</td><td>såbĩne</td><td>sabine</td><td>såbĩne</td><td>n. a member of an ancient people of central Italy</td></tr>
 <tr><td>sabot</td><td>sabō𝕥</td><td>sabot</td><td>sabō𝕥</td><td>n. a shoe carved from a single block of wood</td></tr>
 <tr><td>sabotage</td><td>sabo̊tàge</td><td>sabot-age</td><td>sabo̊t-àge</td><td>n. a deliberate act of destruction<br>vt. to destroy or damage deliberately</td></tr>
@@ -34,36 +34,36 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sabotaged</td><td>sabo̊tàg𝕖d</td><td>sabot-ag-ed</td><td>sabo̊t-àg-𝕖d</td><td></td></tr>
 <tr><td>sabotaging</td><td>sabo̊tàging</td><td>sabot-ag-ing</td><td>sabo̊t-àg-ing</td><td></td></tr>
 <tr><td>sabotages</td><td>sabo̊tàg𝕖ṡ</td><td>sabot-age-s</td><td>sabo̊t-àg𝕖-ṡ</td><td></td></tr>
-<tr><td>sabra</td><td>sàbrå</td><td>sabra</td><td>sàbrå</td><td>n. a native-born Israeli</td></tr>
+<tr><td>sabra</td><td>sabrå</td><td>sabra</td><td>sabrå</td><td>n. a native-born Israeli</td></tr>
 <tr><td>sac</td><td>sac</td><td>sac</td><td>sac</td><td>n. a pouch-like structure in an animal or plant</td></tr>
 <tr><td>saccule</td><td>saccūle</td><td>sacc-ule</td><td>sacc-ūle</td><td>n. a small sac or pouch (especially the smaller chamber of the membranous labyrinth)</td></tr>
-<tr><td>saccharin</td><td>sacc𝕙åri̊n</td><td>sacchar-in</td><td>sacc𝕙år-i̊n</td><td>n. a crystalline substance 500 times sweeter than sugar; used as a calorie-free sweetener</td></tr>
-<tr><td>saccharine</td><td>sacc𝕙årīne</td><td>sacchar-ine</td><td>sacc𝕙år-īne</td><td>a. overly sweet</td></tr>
-<tr><td>sacerdotal</td><td>sace̊rdōtål</td><td>sacerdot-al</td><td>sace̊rdōt-ål</td><td>a. of or relating to a belief in sacerdotalism</td></tr>
-<tr><td>sachem</td><td>sāche̊m</td><td>sachem</td><td>sāche̊m</td><td>n. a political leader (especially of Tammany Hall)<br>n. a chief of a North American tribe or confederation (especially an Algonquian chief)</td></tr>
+<tr><td>saccharin</td><td>sacc𝕙årin</td><td>sacchar-in</td><td>sacc𝕙år-in</td><td>n. a crystalline substance 500 times sweeter than sugar; used as a calorie-free sweetener</td></tr>
+<tr><td>saccharine</td><td>sacc𝕙årine</td><td>sacchar-ine</td><td>sacc𝕙år-ine</td><td>a. overly sweet</td></tr>
+<tr><td>sacerdotal</td><td>sace̊rdotål</td><td>sacerdot-al</td><td>sace̊rdot-ål</td><td>a. of or relating to a belief in sacerdotalism</td></tr>
+<tr><td>sachem</td><td>saċhe̊m</td><td>sachem</td><td>saċhe̊m</td><td>n. a political leader (especially of Tammany Hall)<br>n. a chief of a North American tribe or confederation (especially an Algonquian chief)</td></tr>
 <tr><td>sachet</td><td>saċhè𝕥</td><td>sachet</td><td>saċhè𝕥</td><td>n. a small soft bag containing perfumed powder</td></tr>
 <tr><td>sack</td><td>sack</td><td>sack</td><td>sack</td><td>n. a large bag for carrying things<br>vt. dismiss from a job; plunder</td></tr>
 <tr><td>sackcloth</td><td>sackcloth</td><td>sack-cloth</td><td>sack-cloth</td><td>n. a garment made of coarse sacking; formerly worn as an indication of remorse<br>n. a coarse cloth resembling sacking</td></tr>
-<tr><td>sackful</td><td>sackfùl</td><td>sack-ful</td><td>sack-fùl</td><td>n. the quantity contained in a sack</td></tr>
+<tr><td>sackful</td><td>sackfůl</td><td>sack-ful</td><td>sack-fůl</td><td>n. the quantity contained in a sack</td></tr>
 <tr><td>sacking</td><td>sacking</td><td>sack-ing</td><td>sack-ing</td><td>n. coarse fabric used for bags or sacks</td></tr>
 <tr><td>sacks</td><td>sacks</td><td>sack-s</td><td>sack-s</td><td></td></tr>
 <tr><td>rucksack</td><td>rûcksack</td><td>ruck-sack</td><td>rûck-sack</td><td>n. a bag carried by a strap on your back or shoulder</td></tr>
-<tr><td>sacral</td><td>sācrål</td><td>sacr-al</td><td>sācr-ål</td><td>a. of or relating to or near the sacrum<br>a. of or relating to sacred rites</td></tr>
+<tr><td>sacral</td><td>sacrål</td><td>sacr-al</td><td>sacr-ål</td><td>a. of or relating to or near the sacrum<br>a. of or relating to sacred rites</td></tr>
 <tr><td>sacred</td><td>sācrėd</td><td>sacr-ed</td><td>sācr-ėd</td><td>a. connected with religion or a god; highly valued and respected</td></tr>
-<tr><td>sacrality</td><td>sācrali̊tẏ</td><td>sacr-al-ity</td><td>sācr-al-i̊tẏ</td><td>n. the quality of being sacred</td></tr>
+<tr><td>sacrality</td><td>sacralitẏ</td><td>sacr-al-ity</td><td>sacr-al-itẏ</td><td>n. the quality of being sacred</td></tr>
 <tr><td>sacrifice</td><td>sacrifīce</td><td>sacr-if-ice</td><td>sacr-if-īce</td><td>n. the act of giving up something valued<br>vt. offer as a sacrifice</td></tr>
-<tr><td>sacrilege</td><td>sacri̊le̊ge</td><td>sacr-i-lege</td><td>sacr-i̊-le̊ge</td><td>n. blasphemous behavior; the act of depriving something of its sacred character</td></tr>
+<tr><td>sacrilege</td><td>sacrilėge</td><td>sacr-i-lege</td><td>sacr-i-lėge</td><td>n. blasphemous behavior; the act of depriving something of its sacred character</td></tr>
 <tr><td>sacrament</td><td>sacråme̊nt</td><td>sacr-a-ment</td><td>sacr-å-me̊nt</td><td>n. a formal religious ceremony</td></tr>
 <tr><td>sacredness</td><td>sācrėdnėss</td><td>sacr-ed-ness</td><td>sācr-ėd-nėss</td><td>n. the quality of being sacred</td></tr>
-<tr><td>sacrosanct</td><td>sacrōsanct</td><td>sacr-o-sanct</td><td>sacr-ō-sanct</td><td>a. must be kept sacred</td></tr>
-<tr><td>sacramental</td><td>sacråme̊ntål</td><td>sacr-a-ment-al</td><td>sacr-å-me̊nt-ål</td><td>a. of or relating to or involving a sacrament</td></tr>
-<tr><td>sacrificed</td><td>sacri̊fīc𝕖ḋ</td><td>sacr-if-ic-ed</td><td>sacr-i̊f-īc-𝕖ḋ</td><td>v. endure the loss of<br>v. make a sacrifice of</td></tr>
-<tr><td>sacrificing</td><td>sacri̊fīcing</td><td>sacr-if-ic-ing</td><td>sacr-i̊f-īc-ing</td><td>v. endure the loss of; give up<br>v. offer as a sacrifice</td></tr>
+<tr><td>sacrosanct</td><td>sacro̊sanct</td><td>sacr-o-sanct</td><td>sacr-o̊-sanct</td><td>a. must be kept sacred</td></tr>
+<tr><td>sacramental</td><td>sacråmentål</td><td>sacr-a-ment-al</td><td>sacr-å-ment-ål</td><td>a. of or relating to or involving a sacrament</td></tr>
+<tr><td>sacrificed</td><td>sacrifīc𝕖ḋ</td><td>sacr-if-ic-ed</td><td>sacr-if-īc-𝕖ḋ</td><td>v. endure the loss of<br>v. make a sacrifice of</td></tr>
+<tr><td>sacrificing</td><td>sacrifīcing</td><td>sacr-if-ic-ing</td><td>sacr-if-īc-ing</td><td>v. endure the loss of; give up<br>v. offer as a sacrifice</td></tr>
 <tr><td>sacrifices</td><td>sacrifīcėṡ</td><td>sacr-if-ice-s</td><td>sacr-if-īcė-ṡ</td><td></td></tr>
-<tr><td>sacrificial</td><td>sacri̊ficiål</td><td>sacr-if-ic-i-al</td><td>sacr-i̊f-ic-i-ål</td><td>a. used in or connected with a sacrifice</td></tr>
-<tr><td>sacralization</td><td>sācrålīzātio̊n</td><td>sacr-al-iz-at-ion</td><td>sācr-ål-īz-āt-io̊n</td><td>n. the process of sacralizing</td></tr>
-<tr><td>sacramentality</td><td>sacråme̊ntålitẏ</td><td>sacr-a-ment-al-ity</td><td>sacr-å-me̊nt-ål-itẏ</td><td>n. the quality of being sacramental</td></tr>
-<tr><td>sacrilegious</td><td>sacri̊legio̊us</td><td>sacr-i-leg-i-ous</td><td>sacr-i̊-leg-i-o̊us</td><td>a. grossly irreverent toward what is held to be sacred</td></tr>
+<tr><td>sacrificial</td><td>sacrificiål</td><td>sacr-if-ic-i-al</td><td>sacr-if-ic-i-ål</td><td>a. used in or connected with a sacrifice</td></tr>
+<tr><td>sacralization</td><td>sacrålīzātio̊n</td><td>sacr-al-iz-at-ion</td><td>sacr-ål-īz-āt-io̊n</td><td>n. the process of sacralizing</td></tr>
+<tr><td>sacramentality</td><td>sacråmentalitẏ</td><td>sacr-a-ment-al-ity</td><td>sacr-å-ment-al-itẏ</td><td>n. the quality of being sacramental</td></tr>
+<tr><td>sacrilegious</td><td>sacrilėgio̊us</td><td>sacr-i-leg-i-ous</td><td>sacr-i-lėg-i-o̊us</td><td>a. grossly irreverent toward what is held to be sacred</td></tr>
 <tr><td>sacristan</td><td>sacristån</td><td>sacrist-an</td><td>sacrist-ån</td><td>n. an officer of the church who is in charge of sacred objects</td></tr>
 <tr><td>sacristy</td><td>sacristẏ</td><td>sacrist-y</td><td>sacrist-ẏ</td><td>n. a room in a church where sacred vessels and vestments are kept</td></tr>
 <tr><td>sacrum</td><td>sācrům</td><td>sacrum</td><td>sācrům</td><td>n. a wedge-shaped bone of five fused vertebrae forming the posterior part of the pelvis</td></tr>
@@ -72,17 +72,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sadder</td><td>sadde̊r</td><td>sadd-er</td><td>sadd-e̊r</td><td></td></tr>
 <tr><td>saddest</td><td>saddėst</td><td>sadd-est</td><td>sadd-ėst</td><td></td></tr>
 <tr><td>sadism</td><td>sādiṡm</td><td>sad-ism</td><td>sād-iṡm</td><td>n. sexual pleasure obtained by inflicting harm on others<br>n. extreme cruelty</td></tr>
-<tr><td>sadist</td><td>sādi̊st</td><td>sad-ist</td><td>sād-i̊st</td><td>n. someone who obtains pleasure from inflicting pain or others</td></tr>
+<tr><td>sadist</td><td>sādist</td><td>sad-ist</td><td>sād-ist</td><td>n. someone who obtains pleasure from inflicting pain or others</td></tr>
 <tr><td>sadly</td><td>sadlẏ</td><td>sad-ly</td><td>sad-lẏ</td><td>adv. in a sad manner; unfortunately</td></tr>
 <tr><td>sadness</td><td>sadnėss</td><td>sad-ness</td><td>sad-nėss</td><td>n. the state of feeling sad</td></tr>
 <tr><td>saddened</td><td>sadde̊n𝕖d</td><td>sad-den-ed</td><td>sad-de̊n-𝕖d</td><td>v. make unhappy; come to feel sad</td></tr>
 <tr><td>sadistic</td><td>sådistic</td><td>sad-ist-ic</td><td>såd-ist-ic</td><td>a. deriving pleasure or sexual gratification from inflicting pain on another</td></tr>
-<tr><td>sadistically</td><td>sādi̊sticållẏ</td><td>sad-ist-ic-al-ly</td><td>sād-i̊st-ic-ål-lẏ</td><td>adv. in a sadistic manner</td></tr>
+<tr><td>sadistically</td><td>sådisticållẏ</td><td>sad-ist-ic-al-ly</td><td>såd-ist-ic-ål-lẏ</td><td>adv. in a sadistic manner</td></tr>
 <tr><td>saddle</td><td>saddle</td><td>sadd-le</td><td>sadd-le</td><td>n. a seat for a rider on a horse or bicycle<br>v. to put a saddle on an animal</td></tr>
-<tr><td>saddlebag</td><td>saddlebag</td><td>sadd-le-bag</td><td>sadd-le-bag</td><td>n. a large bag hung over a saddle</td></tr>
+<tr><td>saddlebag</td><td>saddl𝕖bag</td><td>sadd-le-bag</td><td>sadd-l𝕖-bag</td><td>n. a large bag hung over a saddle</td></tr>
 <tr><td>unsaddled</td><td>ûnsaddl𝕖d</td><td>un-saddl-ed</td><td>ûn-saddl-𝕖d</td><td>a. with no saddle</td></tr>
 <tr><td>sadhu</td><td>sàd𝕙ū</td><td>sadhu</td><td>sàd𝕙ū</td><td>n. (Hinduism) an ascetic holy man</td></tr>
-<tr><td>safari</td><td>såfàrĩ</td><td>safari</td><td>såfàrĩ</td><td>n. an expedition to observe or hunt animals in Africa</td></tr>
+<tr><td>safari</td><td>såfàri</td><td>safari</td><td>såfàri</td><td>n. an expedition to observe or hunt animals in Africa</td></tr>
 <tr><td>safe</td><td>sāfe</td><td>safe</td><td>sāfe</td><td>n. a strong locked box where valuables can be stored<br>a. free from danger or risk</td></tr>
 <tr><td>safer</td><td>sāfe̊r</td><td>saf-er</td><td>sāf-e̊r</td><td></td></tr>
 <tr><td>safest</td><td>sāfėst</td><td>saf-est</td><td>sāf-ėst</td><td></td></tr>
@@ -109,9 +109,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>presage</td><td>presȧge</td><td>pre-sage</td><td>pre-sȧge</td><td>n. a foreboding about what is about to happen</td></tr>
 <tr><td>saggy</td><td>saggẏ</td><td>sagg-y</td><td>sagg-ẏ</td><td>a. sagging or drooping</td></tr>
 <tr><td>sago</td><td>sāgō</td><td>sago</td><td>sāgō</td><td>n. powdery starch from certain sago palms; used in Asia as a food thickener</td></tr>
-<tr><td>saguaro</td><td>sågùãrō</td><td>saguaro</td><td>sågùãrō</td><td>n. a large treelike cactus of the southwestern United States</td></tr>
-<tr><td>sahara</td><td>såharå</td><td>sahara</td><td>såharå</td><td>n. a vast desert in North Africa</td></tr>
-<tr><td>sahelian</td><td>såhèliån</td><td>sahel-ian</td><td>såhèl-iån</td><td>a. of or relating to the Sahel region of Africa</td></tr>
+<tr><td>saguaro</td><td>såguàrō</td><td>saguaro</td><td>såguàrō</td><td>n. a large treelike cactus of the southwestern United States</td></tr>
+<tr><td>sahara</td><td>såhàrå</td><td>sahara</td><td>såhàrå</td><td>n. a vast desert in North Africa</td></tr>
+<tr><td>sahelian</td><td>såhēliån</td><td>sahel-ian</td><td>såhēl-iån</td><td>a. of or relating to the Sahel region of Africa</td></tr>
 <tr><td>sail</td><td>sāil</td><td>sail</td><td>sāil</td><td>n. a large piece of fabric used to propel a boat<br>v. travel on water</td></tr>
 <tr><td>sailboard</td><td>sāilbōard</td><td>sail-board</td><td>sāil-bōard</td><td>n. a board equipped with a sail, used for windsurfing<br>v. sail on a sailboard</td></tr>
 <tr><td>sailboat</td><td>sāilbōat</td><td>sail-boat</td><td>sāil-bōat</td><td>n. a small sailing vessel; usually with a single mast</td></tr>
@@ -126,7 +126,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>assail</td><td>åssāil</td><td>as-sail</td><td>ås-sāil</td><td>v. attack someone physically or emotionally</td></tr>
 <tr><td>assailant</td><td>åssāilånt</td><td>as-sail-ant</td><td>ås-sāil-ånt</td><td>n. someone who attacks</td></tr>
 <tr><td>parasail</td><td>paråsāil</td><td>para-sail</td><td>parå-sāil</td><td>n. a parachute that lifts a person into the air when towed by a motorboat or car</td></tr>
-<tr><td>topsail</td><td>topsåil</td><td>top-sail</td><td>top-såil</td><td>n. a sail immediately above the lowermost sail of a mast and supported by a topmast</td></tr>
+<tr><td>topsail</td><td>topsāil</td><td>top-sail</td><td>top-sāil</td><td>n. a sail immediately above the lowermost sail of a mast and supported by a topmast</td></tr>
 <tr><td>unassailable</td><td>ûnåssāilåble</td><td>un-as-sail-able</td><td>ûn-ås-sāil-åble</td><td>a. impossible to assail; without flaws</td></tr>
 <tr><td>saint</td><td>sāint</td><td>saint</td><td>sāint</td><td>n. a person recognized as having exceptional holiness<br>n. a person of great kindness or virtue</td></tr>
 <tr><td>sainted</td><td>sāintėd</td><td>saint-ed</td><td>sāint-ėd</td><td>a. marked by utter benignity; resembling or befitting an angel or saint</td></tr>
@@ -142,107 +142,107 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>salad</td><td>salåd</td><td>sal-ad</td><td>sal-åd</td><td>n. a mixture of raw vegetables served with a dressing</td></tr>
 <tr><td>salary</td><td>salårẏ</td><td>sal-ary</td><td>sal-årẏ</td><td>n. something that remunerates<br>v. pay a salary to</td></tr>
 <tr><td>salina</td><td>sålĩnå</td><td>sal-ina</td><td>sål-ĩnå</td><td>n. a salt marsh, lake, or pond</td></tr>
-<tr><td>saline</td><td>sålĩne</td><td>sal-ine</td><td>sål-ĩne</td><td>a. containing salt<br>n. a salt solution</td></tr>
-<tr><td>salon</td><td>sålon</td><td>sal-on</td><td>sål-on</td><td>n. a place where hairdressers or beauticians work<br>n. a gathering of people for discussion</td></tr>
+<tr><td>saline</td><td>sālīne</td><td>sal-ine</td><td>sāl-īne</td><td>a. containing salt<br>n. a salt solution</td></tr>
+<tr><td>salon</td><td>salon</td><td>sal-on</td><td>sal-on</td><td>n. a place where hairdressers or beauticians work<br>n. a gathering of people for discussion</td></tr>
 <tr><td>saloon</td><td>såloon</td><td>sal-oon</td><td>sål-oon</td><td>n. a bar or room where alcoholic drinks are served<br>n. a car with front and rear seats</td></tr>
-<tr><td>salsa</td><td>sàlså</td><td>sal-sa</td><td>sàl-så</td><td>n. spicy sauce of tomatoes and onions and chili peppers</td></tr>
-<tr><td>salaried</td><td>salårĩ𝕖d</td><td>salar-i-ed</td><td>salår-ĩ-𝕖d</td><td>a. receiving a salary</td></tr>
-<tr><td>salacious</td><td>sålācio̊us</td><td>sal-ac-ious</td><td>sål-āc-io̊us</td><td>a. characterized by lust</td></tr>
+<tr><td>salsa</td><td>salså</td><td>sal-sa</td><td>sal-så</td><td>n. spicy sauce of tomatoes and onions and chili peppers</td></tr>
+<tr><td>salaried</td><td>salåri𝕖d</td><td>salar-i-ed</td><td>salår-i-𝕖d</td><td>a. receiving a salary</td></tr>
+<tr><td>salacious</td><td>salācio̊us</td><td>sal-ac-ious</td><td>sal-āc-io̊us</td><td>a. characterized by lust</td></tr>
 <tr><td>salacity</td><td>sålacitẏ</td><td>sal-ac-ity</td><td>sål-ac-itẏ</td><td>n. the quality of being lustful</td></tr>
 <tr><td>salaries</td><td>salåri𝕖ṡ</td><td>sal-ar-ies</td><td>sal-år-i𝕖ṡ</td><td></td></tr>
-<tr><td>salaryman</td><td>salårẏman</td><td>sal-ary-man</td><td>sal-årẏ-man</td><td>n. a white-collar worker (Japanese term)</td></tr>
+<tr><td>salaryman</td><td>salårẏmån</td><td>sal-ary-man</td><td>sal-årẏ-mån</td><td>n. a white-collar worker (Japanese term)</td></tr>
 <tr><td>salads</td><td>salådṡ</td><td>sal-ad-s</td><td>sal-åd-ṡ</td><td></td></tr>
 <tr><td>salsas</td><td>salsåṡ</td><td>sal-sa-s</td><td>sal-så-ṡ</td><td></td></tr>
 <tr><td>saliferous</td><td>sålife̊ro̊us</td><td>sal-if-er-ous</td><td>sål-if-e̊r-o̊us</td><td>a. containing salt</td></tr>
-<tr><td>salinization</td><td>sålinizātio̊n</td><td>sal-in-iz-at-ion</td><td>sål-in-iz-āt-io̊n</td><td>n. the process of becoming salty</td></tr>
-<tr><td>desalinated</td><td>dēsalinātėd</td><td>de-sal-in-at-ed</td><td>dē-sal-in-āt-ėd</td><td>v remove salt from</td></tr>
+<tr><td>salinization</td><td>sālinīzātio̊n</td><td>sal-in-iz-at-ion</td><td>sāl-in-īz-āt-io̊n</td><td>n. the process of becoming salty</td></tr>
+<tr><td>desalinated</td><td>dėsalinātėd</td><td>de-sal-in-at-ed</td><td>dė-sal-in-āt-ėd</td><td>v remove salt from</td></tr>
 <tr><td>unsalable</td><td>ûnsālåble</td><td>un-sal-able</td><td>ûn-sāl-åble</td><td>a. impossible to sell</td></tr>
-<tr><td>salaam</td><td>sålàam</td><td>salaam</td><td>sålàam</td><td>n. a deep bow; a Muslim form of salutation<br>v. greet with a salaam</td></tr>
+<tr><td>salaam</td><td>salàam</td><td>salaam</td><td>salàam</td><td>n. a deep bow; a Muslim form of salutation<br>v. greet with a salaam</td></tr>
 <tr><td>salal</td><td>sålal</td><td>salal</td><td>sålal</td><td>n. a North American evergreen shrub</td></tr>
 <tr><td>salamander</td><td>salåmande̊r</td><td>salamand-er</td><td>salåmand-e̊r</td><td>n. a small animal that looks like a lizard</td></tr>
-<tr><td>salami</td><td>sålàmĩ</td><td>salami</td><td>sålàmĩ</td><td>n. a highly seasoned dried sausage</td></tr>
+<tr><td>salami</td><td>sålàmi</td><td>salami</td><td>sålàmi</td><td>n. a highly seasoned dried sausage</td></tr>
 <tr><td>sale</td><td>sāle</td><td>sale</td><td>sāle</td><td>n. the exchange of goods for money<br>n. an event at which goods are sold cheaply</td></tr>
 <tr><td>salable</td><td>sālåble</td><td>sal-able</td><td>sāl-åble</td><td>a. capable of being sold; fit for sale</td></tr>
-<tr><td>saleable</td><td>sāle̊able</td><td>sale-able</td><td>sāle̊-able</td><td>a. capable of being sold; fit for sale</td></tr>
+<tr><td>saleable</td><td>sāl𝕖åble</td><td>sale-able</td><td>sāl𝕖-åble</td><td>a. capable of being sold; fit for sale</td></tr>
 <tr><td>sales</td><td>sāl𝕖ṡ</td><td>sale-s</td><td>sāl𝕖-ṡ</td><td>n. the activity of selling goods or services<br>n. the amount of goods sold</td></tr>
 <tr><td>salesclerk</td><td>sāl𝕖ṡcle̊rk</td><td>sale-s-clerk</td><td>sāl𝕖-ṡ-cle̊rk</td><td>n. a salesperson in a store</td></tr>
 <tr><td>salesgirl</td><td>sāl𝕖ṡgi̊rl</td><td>sale-s-girl</td><td>sāl𝕖-ṡ-gi̊rl</td><td>n. a woman salesperson</td></tr>
-<tr><td>salesian</td><td>sålēs̃i̊ån</td><td>sale-s-ian</td><td>sålē-s̃-i̊ån</td><td>a. of or relating to the Salesian religious order</td></tr>
+<tr><td>salesian</td><td>sålēs̃iån</td><td>sale-s-ian</td><td>sålē-s̃-iån</td><td>a. of or relating to the Salesian religious order</td></tr>
 <tr><td>saleslady</td><td>sāl𝕖ṡlādẏ</td><td>sale-s-lady</td><td>sāl𝕖-ṡ-lādẏ</td><td>n a woman salesperson</td></tr>
 <tr><td>salesman</td><td>sāl𝕖ṡmån</td><td>sale-s-man</td><td>sāl𝕖-ṡ-mån</td><td>n. a man whose job is selling goods or services</td></tr>
 <tr><td>salesmen</td><td>sāl𝕖ṡmen</td><td>sale-s-men</td><td>sāl𝕖-ṡ-men</td><td></td></tr>
 <tr><td>salespeople</td><td>sāl𝕖ṡpēople</td><td>sale-s-people</td><td>sāl𝕖-ṡ-pēople</td><td>n. a person employed to sell merchandise</td></tr>
 <tr><td>salesroom</td><td>sāl𝕖ṡroom</td><td>sale-s-room</td><td>sāl𝕖-ṡ-room</td><td>n. an area where merchandise can be displayed</td></tr>
-<tr><td>salesmanager</td><td>sāleṡmanȧge̊r</td><td>sale-s-manag-er</td><td>sāle-ṡ-manȧg-e̊r</td><td>n. a manager in charge of sales</td></tr>
+<tr><td>salesmanager</td><td>sāl𝕖ṡmanȧge̊r</td><td>sale-s-manag-er</td><td>sāl𝕖-ṡ-manȧg-e̊r</td><td>n. a manager in charge of sales</td></tr>
 <tr><td>saleswoman</td><td>sāl𝕖ṡwõmån</td><td>sale-s-wo-man</td><td>sāl𝕖-ṡ-wõ-mån</td><td>n. a woman salesperson</td></tr>
 <tr><td>salesmanship</td><td>sāl𝕖ṡmånship</td><td>sale-s-man-ship</td><td>sāl𝕖-ṡ-mån-ship</td><td>n. skill in selling; skill in persuading people to buy</td></tr>
 <tr><td>salesperson</td><td>sāl𝕖ṡpe̊rso̊n</td><td>sale-s-per-son</td><td>sāl𝕖-ṡ-pe̊r-so̊n</td><td>n. a person employed to represent a business and sell its merchandise</td></tr>
 <tr><td>resale</td><td>rēsāle</td><td>re-sale</td><td>rē-sāle</td><td>n. the selling of something purchased</td></tr>
 <tr><td>telesales</td><td>telėsāl𝕖ṡ</td><td>tele-sale-s</td><td>telė-sāl𝕖-ṡ</td><td>n. selling goods by telephone</td></tr>
-<tr><td>salience</td><td>sālience</td><td>sali-ence</td><td>sāli-ence</td><td>n. the state of being salient</td></tr>
-<tr><td>saliency</td><td>sāliēncẏ</td><td>sali-ency</td><td>sāli-ēncẏ</td><td>n. the state of being salient</td></tr>
-<tr><td>salient</td><td>sāliēnt</td><td>sali-ent</td><td>sāli-ēnt</td><td>a. most noticeable or important; projecting</td></tr>
+<tr><td>salience</td><td>sālie̊nce</td><td>sali-ence</td><td>sāli-e̊nce</td><td>n. the state of being salient</td></tr>
+<tr><td>saliency</td><td>sālie̊ncẏ</td><td>sali-ency</td><td>sāli-e̊ncẏ</td><td>n. the state of being salient</td></tr>
+<tr><td>salient</td><td>sālie̊nt</td><td>sali-ent</td><td>sāli-e̊nt</td><td>a. most noticeable or important; projecting</td></tr>
 <tr><td>salicylate</td><td>salicẏlāte</td><td>salicyl-ate</td><td>salicẏl-āte</td><td>n. a salt of salicylic acid</td></tr>
 <tr><td>salinity</td><td>sålini̊tẏ</td><td>salin-ity</td><td>sålin-i̊tẏ</td><td>n. the saltiness of a solution</td></tr>
-<tr><td>desalinize</td><td>dēsalinīze</td><td>de-salin-ize</td><td>dē-salin-īze</td><td>vt. to remove salt from seawater</td></tr>
-<tr><td>desalination</td><td>dēsālinātio̊n</td><td>de-salin-at-ion</td><td>dē-sālin-āt-io̊n</td><td>n. the removal of salt (especially from sea water)</td></tr>
-<tr><td>desalinization</td><td>dēsālini̊zātio̊n</td><td>de-salin-iz-at-ion</td><td>dē-sālin-i̊z-āt-io̊n</td><td>n. the removal of salt (especially from sea water)</td></tr>
+<tr><td>desalinize</td><td>dėsalinīze</td><td>de-salin-ize</td><td>dė-salin-īze</td><td>vt. to remove salt from seawater</td></tr>
+<tr><td>desalination</td><td>dėsalinātio̊n</td><td>de-salin-at-ion</td><td>dė-salin-āt-io̊n</td><td>n. the removal of salt (especially from sea water)</td></tr>
+<tr><td>desalinization</td><td>dėsalinīzātio̊n</td><td>de-salin-iz-at-ion</td><td>dė-salin-īz-āt-io̊n</td><td>n. the removal of salt (especially from sea water)</td></tr>
 <tr><td>salivary</td><td>salivårẏ</td><td>saliv-ary</td><td>saliv-årẏ</td><td>a. of or relating to saliva</td></tr>
-<tr><td>salivate</td><td>sali̊vāte</td><td>saliv-ate</td><td>sali̊v-āte</td><td>v. produce saliva<br>v. be envious, desirous, eager for, or extremely happy about something</td></tr>
+<tr><td>salivate</td><td>salivāte</td><td>saliv-ate</td><td>saliv-āte</td><td>v. produce saliva<br>v. be envious, desirous, eager for, or extremely happy about something</td></tr>
 <tr><td>salivation</td><td>salivātio̊n</td><td>saliv-at-ion</td><td>saliv-āt-io̊n</td><td>n. the secretion of saliva</td></tr>
 <tr><td>saliva</td><td>sålīvå</td><td>saliva</td><td>sålīvå</td><td>n. the clear liquid in the mouth that moistens food</td></tr>
 <tr><td>sallow</td><td>sallōw</td><td>sallow</td><td>sallōw</td><td>a. unhealthy looking; of a sickly yellowish color</td></tr>
 <tr><td>sally</td><td>sallẏ</td><td>sally</td><td>sallẏ</td><td>n. a venture off the beaten path</td></tr>
 <tr><td>salmon</td><td>salmo̊n</td><td>salm-on</td><td>salm-o̊n</td><td>n. a large fish valued as food, usually pink-fleshed<br>n. a pale pinkish-orange color</td></tr>
 <tr><td>salmons</td><td>salmo̊nṡ</td><td>salm-on-s</td><td>salm-o̊n-ṡ</td><td></td></tr>
-<tr><td>salmonella</td><td>salmo̊nellå</td><td>salm-on-ell-a</td><td>salm-o̊n-ell-å</td><td>n. a type of bacteria that causes food poisoning</td></tr>
+<tr><td>salmonella</td><td>salmōnellå</td><td>salm-on-ell-a</td><td>salm-ōn-ell-å</td><td>n. a type of bacteria that causes food poisoning</td></tr>
 <tr><td>salmonid</td><td>salmo̊nid</td><td>salmon-id</td><td>salmo̊n-id</td><td>n. soft-finned fishes of cold and temperate waters</td></tr>
 <tr><td>salmonellosis</td><td>salmo̊nellōsis</td><td>salmonell-osis</td><td>salmo̊nell-ōsis</td><td>n. a kind of food poisoning caused by eating foods contaminated with Salmonella</td></tr>
 <tr><td>salmonberry</td><td>sa𝕝mo̊nberrẏ</td><td>salmon-berr-y</td><td>sa𝕝mo̊n-berr-ẏ</td><td>n. a North American bramble fruit</td></tr>
 <tr><td>salt</td><td>sãlt</td><td>salt</td><td>sãlt</td><td>n. a white crystalline substance used to season food<br>v. add salt to food</td></tr>
 <tr><td>saltbox</td><td>sãltbox</td><td>salt-box</td><td>sãlt-box</td><td>n. a type of house with two stories in front and one behind</td></tr>
-<tr><td>salted</td><td>sãlt𝕖d</td><td>salt-ed</td><td>sãlt-𝕖d</td><td>a. preserved or treated with salt</td></tr>
+<tr><td>salted</td><td>sãltėd</td><td>salt-ed</td><td>sãlt-ėd</td><td>a. preserved or treated with salt</td></tr>
 <tr><td>saltine</td><td>sãltĩne</td><td>salt-ine</td><td>sãlt-ĩne</td><td>n. a cracker sprinkled with salt before baking</td></tr>
-<tr><td>saltpeter</td><td>sãltpėte̊r</td><td>salt-peter</td><td>sãlt-pėte̊r</td><td>n. (KNO3) used especially as a fertilizer and explosive</td></tr>
+<tr><td>saltpeter</td><td>sãltpēte̊r</td><td>salt-peter</td><td>sãlt-pēte̊r</td><td>n. (KNO3) used especially as a fertilizer and explosive</td></tr>
 <tr><td>salts</td><td>sãlts</td><td>salt-s</td><td>sãlt-s</td><td></td></tr>
 <tr><td>salty</td><td>sãltẏ</td><td>salt-y</td><td>sãlt-ẏ</td><td>a. containing salt; tasting of salt</td></tr>
 <tr><td>saltier</td><td>sãltie̊r</td><td>salt-i-er</td><td>sãlt-i-e̊r</td><td></td></tr>
 <tr><td>saltiest</td><td>sãltiėst</td><td>salt-i-est</td><td>sãlt-i-ėst</td><td></td></tr>
 <tr><td>saltshaker</td><td>sãltshāke̊r</td><td>salt-shak-er</td><td>sãlt-shāk-e̊r</td><td>n. a shaker with a perforated top for sprinkling salt</td></tr>
-<tr><td>saltwater</td><td>sãltwàte̊r</td><td>salt-wat-er</td><td>sãlt-wàt-e̊r</td><td>n. water containing salt<br>a. living in or occurring in salt water</td></tr>
-<tr><td>saltiness</td><td>sãltine̊ss</td><td>salt-i-ness</td><td>sãlt-i-ne̊ss</td><td>n. the property of containing salt<br>n. language or humor that is down-to-earth</td></tr>
+<tr><td>saltwater</td><td>sãltwãte̊r</td><td>salt-wat-er</td><td>sãlt-wãt-e̊r</td><td>n. water containing salt<br>a. living in or occurring in salt water</td></tr>
+<tr><td>saltiness</td><td>sãltinėss</td><td>salt-i-ness</td><td>sãlt-i-nėss</td><td>n. the property of containing salt<br>n. language or humor that is down-to-earth</td></tr>
 <tr><td>unsalted</td><td>ûnsãltėd</td><td>un-salt-ed</td><td>ûn-sãlt-ėd</td><td>a. without salt or seasoning</td></tr>
 <tr><td>salubrious</td><td>sålūbrio̊us</td><td>salubr-ious</td><td>sålūbr-io̊us</td><td>a. favorable to health of mind or body</td></tr>
-<tr><td>salutary</td><td>salūtarẏ</td><td>salut-ary</td><td>salūt-arẏ</td><td>a. tending to promote physical well-being; beneficial</td></tr>
+<tr><td>salutary</td><td>salūtårẏ</td><td>salut-ary</td><td>salūt-årẏ</td><td>a. tending to promote physical well-being; beneficial</td></tr>
 <tr><td>saluting</td><td>sålūting</td><td>salut-ing</td><td>sålūt-ing</td><td>v. greet in a friendly way</td></tr>
 <tr><td>salute</td><td>sålūte</td><td>sal-ute</td><td>sål-ūte</td><td>n. a gesture of respect or greeting<br>v. to greet with a sign of respect</td></tr>
 <tr><td>salutation</td><td>salūtātio̊n</td><td>salut-at-ion</td><td>salūt-āt-io̊n</td><td>n. word of greeting used to begin a letter</td></tr>
 <tr><td>salutatory</td><td>sålūtåto̊rẏ</td><td>salut-at-ory</td><td>sålūt-åt-o̊rẏ</td><td>n. a welcoming address at graduation</td></tr>
-<tr><td>salutatorian</td><td>sålūtåtoriån</td><td>salut-at-or-ian</td><td>sålūt-åt-or-iån</td><td>n. the student with the second highest rank in a graduating class</td></tr>
-<tr><td>salve</td><td>sà𝕝ve</td><td>salve</td><td>sà𝕝ve</td><td>n. anything that remedies or heals or soothes<br>v. apply a salve to, usually for the purpose of healing</td></tr>
-<tr><td>salvage</td><td>salvåge</td><td>salv-age</td><td>salv-åge</td><td>n. the rescue of property from loss or damage<br>vt. to save from ruin or destruction</td></tr>
+<tr><td>salutatorian</td><td>salūtåtoriån</td><td>salut-at-or-ian</td><td>salūt-åt-or-iån</td><td>n. the student with the second highest rank in a graduating class</td></tr>
+<tr><td>salve</td><td>salve</td><td>salve</td><td>salve</td><td>n. anything that remedies or heals or soothes<br>v. apply a salve to, usually for the purpose of healing</td></tr>
+<tr><td>salvage</td><td>salvȧge</td><td>salv-age</td><td>salv-ȧge</td><td>n. the rescue of property from loss or damage<br>vt. to save from ruin or destruction</td></tr>
 <tr><td>salver</td><td>salve̊r</td><td>salv-er</td><td>salv-e̊r</td><td>n. a tray (or large plate) for serving food or drinks; usually made of silver</td></tr>
 <tr><td>salvia</td><td>salviå</td><td>salv-ia</td><td>salv-iå</td><td>n. any of various plants of the genus Salvia; a cosmopolitan herb</td></tr>
-<tr><td>salvageable</td><td>salvȧge̊able</td><td>salv-age-able</td><td>salv-ȧge̊-able</td><td>a. capable of being saved from ruin</td></tr>
+<tr><td>salvageable</td><td>salvȧg𝕖åble</td><td>salv-age-able</td><td>salv-ȧg𝕖-åble</td><td>a. capable of being saved from ruin</td></tr>
 <tr><td>salvaged</td><td>salvȧg𝕖d</td><td>salv-ag-ed</td><td>salv-ȧg-𝕖d</td><td>v. saved from ruin, destruction, or harm</td></tr>
 <tr><td>salvager</td><td>salvȧge̊r</td><td>salv-ag-er</td><td>salv-ȧg-e̊r</td><td>n. someone who salvages</td></tr>
 <tr><td>salvation</td><td>salvātio̊n</td><td>salv-at-ion</td><td>salv-āt-io̊n</td><td>n. the act of saving from harm or danger<br>n. deliverance from sin and its consequences</td></tr>
 <tr><td>salvific</td><td>salvific</td><td>salv-if-ic</td><td>salv-if-ic</td><td>a. pertaining to the power of salvation or redemption</td></tr>
-<tr><td>unsalvageable</td><td>ûnsalvȧge̊able</td><td>un-salv-age-able</td><td>ûn-salv-ȧge̊-able</td><td>a. impossible to recover or save</td></tr>
+<tr><td>unsalvageable</td><td>ûnsalvȧg𝕖åble</td><td>un-salv-age-able</td><td>ûn-salv-ȧg𝕖-åble</td><td>a. impossible to recover or save</td></tr>
 <tr><td>salvadoran</td><td>salvådorån</td><td>salvad-or-an</td><td>salvåd-or-ån</td><td>n. a native of El Salvador<br>a. of or relating to El Salvador</td></tr>
 <tr><td>salvo</td><td>salvō</td><td>salvo</td><td>salvō</td><td>n. a simultaneous discharge of firearms<br>n. an outburst of cheers</td></tr>
 <tr><td>Sam</td><td>Sam</td><td>Sam</td><td>Sam</td><td>n. a male given name</td></tr>
 <tr><td>Samuel</td><td>Samū𝕖l</td><td>Samuel</td><td>Samū𝕖l</td><td>n. a male given name</td></tr>
 <tr><td>samaritan</td><td>såmaritån</td><td>samarit-an</td><td>såmarit-ån</td><td>n. a person who voluntarily helps others in distress</td></tr>
-<tr><td>samba</td><td>sàmbå</td><td>samb-a</td><td>sàmb-å</td><td>n. music composed for dancing the samba<br>n. a lively ballroom dance from Brazil<br>n. a form of canasta using three decks of cards and six jokers</td></tr>
+<tr><td>samba</td><td>sambå</td><td>samb-a</td><td>samb-å</td><td>n. music composed for dancing the samba<br>n. a lively ballroom dance from Brazil<br>n. a form of canasta using three decks of cards and six jokers</td></tr>
 <tr><td>sambal</td><td>sambål</td><td>samb-al</td><td>samb-ål</td><td>n. a spicy condiment or relish of Southeast Asian origin</td></tr>
-<tr><td>sambar</td><td>sambår</td><td>samb-ar</td><td>samb-år</td><td>n. a deer of southern Asia with antlers that have three tines</td></tr>
+<tr><td>sambar</td><td>sambàr</td><td>samb-ar</td><td>samb-àr</td><td>n. a deer of southern Asia with antlers that have three tines</td></tr>
 <tr><td>sambo</td><td>sambō</td><td>samb-o</td><td>samb-ō</td><td>n. an offensive term for a person of mixed African and Native American ancestry</td></tr>
 <tr><td>same</td><td>sāme</td><td>same</td><td>sāme</td><td>a. identical; not different; unchanged<br>pron. the same thing or person</td></tr>
 <tr><td>sameness</td><td>sām𝕖nėss</td><td>same-ness</td><td>sām𝕖-nėss</td><td>n. the quality of being alike</td></tr>
-<tr><td>samizdat</td><td>såmīzdat</td><td>samizdat</td><td>såmīzdat</td><td>n. a system of clandestine printing and distribution of dissident or banned literature</td></tr>
+<tr><td>samizdat</td><td>samizdat</td><td>samizdat</td><td>samizdat</td><td>n. a system of clandestine printing and distribution of dissident or banned literature</td></tr>
 <tr><td>samovar</td><td>samōvàr</td><td>samo-var</td><td>samō-vàr</td><td>n. a metal urn with a spigot at the base; used in Russia to boil water for tea</td></tr>
-<tr><td>samoan</td><td>såmōan</td><td>samoan</td><td>såmōan</td><td>n. a native or inhabitant of the Samoan Islands<br>a. of or relating to Samoa or its people or language or culture</td></tr>
+<tr><td>samoan</td><td>såmōån</td><td>samoan</td><td>såmōån</td><td>n. a native or inhabitant of the Samoan Islands<br>a. of or relating to Samoa or its people or language or culture</td></tr>
 <tr><td>samosa</td><td>såmōså</td><td>samosa</td><td>såmōså</td><td>n. small turnover of Indian origin filled with vegetables or meat and fried and served hot</td></tr>
 <tr><td>sampan</td><td>sampan</td><td>sampan</td><td>sampan</td><td>n. an Asian skiff usually propelled by two oars</td></tr>
 <tr><td>sample</td><td>sample</td><td>sample</td><td>sample</td><td>n. a small part or example of something, intended to show what the whole is like<br>v. take a sample of</td></tr>
@@ -250,36 +250,36 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sampler</td><td>sample̊r</td><td>sampl-er</td><td>sampl-e̊r</td><td>n. an assortment of various samples<br>n. a piece of embroidery demonstrating skill with various stitches</td></tr>
 <tr><td>sampling</td><td>sampling</td><td>sampl-ing</td><td>sampl-ing</td><td>n. the act or process of selecting a sample for study or testing</td></tr>
 <tr><td>samples</td><td>sampl𝕖ṡ</td><td>sample-s</td><td>sampl𝕖-ṡ</td><td></td></tr>
-<tr><td>subsample</td><td>sûbsàmple</td><td>sub-sample</td><td>sûb-sàmple</td><td>n. a sample taken from a larger sample</td></tr>
+<tr><td>subsample</td><td>sûbsample</td><td>sub-sample</td><td>sûb-sample</td><td>n. a sample taken from a larger sample</td></tr>
 <tr><td>examples</td><td>ėẋampl𝕖ṡ</td><td>ex-ample-s</td><td>ėẋ-ampl𝕖-ṡ</td><td></td></tr>
 <tr><td>example</td><td>ėẋample</td><td>ex-ample</td><td>ėẋ-ample</td><td>n. a thing characteristic of its kind that serves to illustrate a general point</td></tr>
 <tr><td>exemplify</td><td>ėẋemplifȳ</td><td>ex-em-pl-ify</td><td>ėẋ-em-pl-ifȳ</td><td>v. be characteristic of<br>v. clarify by giving an example of</td></tr>
 <tr><td>unexampled</td><td>ûnėẋampl𝕖d</td><td>un-ex-ampl-ed</td><td>ûn-ėẋ-ampl-𝕖d</td><td>a. without previous example</td></tr>
-<tr><td>samsara</td><td>såmsàrå</td><td>samsara</td><td>såmsàrå</td><td>n. the endless cycle of birth, suffering, death and rebirth</td></tr>
+<tr><td>samsara</td><td>samsàrå</td><td>samsara</td><td>samsàrå</td><td>n. the endless cycle of birth, suffering, death and rebirth</td></tr>
 <tr><td>samurai</td><td>samūraī</td><td>samurai</td><td>samūraī</td><td>n. a Japanese warrior who was a member of the feudal military aristocracy<br>n. feudal Japanese military aristocracy</td></tr>
 <tr><td>sane</td><td>sāne</td><td>sane</td><td>sāne</td><td>a. mentally sound; reasonable</td></tr>
 <tr><td>saner</td><td>sāne̊r</td><td>san-er</td><td>sān-e̊r</td><td></td></tr>
 <tr><td>sanest</td><td>sānėst</td><td>san-est</td><td>sān-ėst</td><td></td></tr>
-<tr><td>sanity</td><td>sani̊tẏ</td><td>san-ity</td><td>san-i̊tẏ</td><td>n. the state of having a healthy mind</td></tr>
+<tr><td>sanity</td><td>sanitẏ</td><td>san-ity</td><td>san-itẏ</td><td>n. the state of having a healthy mind</td></tr>
 <tr><td>sanatorium</td><td>sanåtoriům</td><td>sanat-orium</td><td>sanåt-oriům</td><td>n. a hospital for recuperation or for the treatment of chronic diseases</td></tr>
 <tr><td>sanitization</td><td>sanitīzātio̊n</td><td>san-it-iz-at-ion</td><td>san-it-īz-āt-io̊n</td><td>n. making something sanitary (free of germs) as by sterilizing</td></tr>
 <tr><td>insane</td><td>insāne</td><td>in-sane</td><td>in-sāne</td><td>a. extremely unreasonable or mentally ill</td></tr>
 <tr><td>insaner</td><td>insāne̊r</td><td>in-san-er</td><td>in-sān-e̊r</td><td></td></tr>
 <tr><td>insanest</td><td>insānėst</td><td>in-san-est</td><td>in-sān-ėst</td><td></td></tr>
-<tr><td>insanity</td><td>insani̊tẏ</td><td>in-san-ity</td><td>in-san-i̊tẏ</td><td>n. relatively permanent disorder of the mind</td></tr>
+<tr><td>insanity</td><td>insanitẏ</td><td>in-san-ity</td><td>in-san-itẏ</td><td>n. relatively permanent disorder of the mind</td></tr>
 <tr><td>insanely</td><td>insān𝕖lẏ</td><td>in-sane-ly</td><td>in-sān𝕖-lẏ</td><td>adv. in an insane manner</td></tr>
-<tr><td>sanctify</td><td>sancti̊fȳ</td><td>sanct-ify</td><td>sanct-i̊fȳ</td><td>v render holy by means of religious rites<br>v make pure or free from sin or guilt</td></tr>
+<tr><td>sanctify</td><td>sanctifȳ</td><td>sanct-ify</td><td>sanct-ifȳ</td><td>v render holy by means of religious rites<br>v make pure or free from sin or guilt</td></tr>
 <tr><td>sanction</td><td>sanctio̊n</td><td>sanct-ion</td><td>sanct-io̊n</td><td>n. official permission or approval<br>v. to give official permission or approval</td></tr>
 <tr><td>sanctity</td><td>sanctitẏ</td><td>sanct-ity</td><td>sanct-itẏ</td><td>n. the quality of being holy or sacred</td></tr>
 <tr><td>sanctum</td><td>sanctům</td><td>sanct-um</td><td>sanct-ům</td><td>n. a place of inviolable privacy</td></tr>
-<tr><td>sanctuary</td><td>sanctūarẏ</td><td>sanct-u-ary</td><td>sanct-ū-arẏ</td><td>n. a place of safety or refuge<br>n. a holy place</td></tr>
+<tr><td>sanctuary</td><td>sanctūårẏ</td><td>sanct-u-ary</td><td>sanct-ū-årẏ</td><td>n. a place of safety or refuge<br>n. a holy place</td></tr>
 <tr><td>sanctioned</td><td>sanctio̊n𝕖d</td><td>sanct-ion-ed</td><td>sanct-io̊n-𝕖d</td><td>v. give sanction to<br>a. formally approved and invested with legal authority</td></tr>
 <tr><td>sanctioning</td><td>sanctio̊ning</td><td>sanct-ion-ing</td><td>sanct-io̊n-ing</td><td>a. implying sanction or serving to sanction</td></tr>
 <tr><td>sanctified</td><td>sanctifī𝕖d</td><td>sanct-i-fi-ed</td><td>sanct-i-fī-𝕖d</td><td>vt. render holy by means of religious rites<br>a. made or declared or believed to be holy</td></tr>
-<tr><td>sanctimony</td><td>sanctimōnẏ</td><td>sanct-i-mon-y</td><td>sanct-i-mōn-ẏ</td><td>n the quality of being hypocritically devout</td></tr>
-<tr><td>sanctification</td><td>sancti̊fi̊cātio̊n</td><td>sanct-i-fic-at-ion</td><td>sanct-i̊-fi̊c-āt-io̊n</td><td>n. a religious ceremony in which something is made holy</td></tr>
-<tr><td>sanctimonious</td><td>sancti̊mōnio̊us</td><td>sanct-i-mon-i-ous</td><td>sanct-i̊-mōn-i-o̊us</td><td>a. excessively or hypocritically pious</td></tr>
-<tr><td>sanctimoniously</td><td>sanctimonio̊uslẏ</td><td>sanct-i-mon-i-ous-ly</td><td>sanct-i-mon-i-o̊us-lẏ</td><td>adv. in a sanctimonious manner</td></tr>
+<tr><td>sanctimony</td><td>sanctimo̊nẏ</td><td>sanct-i-mon-y</td><td>sanct-i-mo̊n-ẏ</td><td>n the quality of being hypocritically devout</td></tr>
+<tr><td>sanctification</td><td>sanctificātio̊n</td><td>sanct-i-fic-at-ion</td><td>sanct-i-fic-āt-io̊n</td><td>n. a religious ceremony in which something is made holy</td></tr>
+<tr><td>sanctimonious</td><td>sanctimōnio̊us</td><td>sanct-i-mon-i-ous</td><td>sanct-i-mōn-i-o̊us</td><td>a. excessively or hypocritically pious</td></tr>
+<tr><td>sanctimoniously</td><td>sanctimōnio̊uslẏ</td><td>sanct-i-mon-i-ous-ly</td><td>sanct-i-mōn-i-o̊us-lẏ</td><td>adv. in a sanctimonious manner</td></tr>
 <tr><td>unsanctioned</td><td>ûnsanctio̊n𝕖d</td><td>un-sanct-ion-ed</td><td>ûn-sanct-io̊n-𝕖d</td><td>a. without explicit official permission</td></tr>
 <tr><td>sand</td><td>sand</td><td>sand</td><td>sand</td><td>n. a loose material consisting of small grains of rock<br>v. smooth with sandpaper</td></tr>
 <tr><td>Sanders</td><td>Sande̊rṡ</td><td>Sanders</td><td>Sande̊rṡ</td><td>n. a surname</td></tr>
@@ -287,7 +287,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sandbag</td><td>sandbag</td><td>sand-bag</td><td>sand-bag</td><td>n. a bag filled with sand<br>v. to hit or coerce with a sandbag</td></tr>
 <tr><td>sandbank</td><td>sandbank</td><td>sand-bank</td><td>sand-bank</td><td>n. a ridge of sand in water</td></tr>
 <tr><td>sandbar</td><td>sandbàr</td><td>sand-bar</td><td>sand-bàr</td><td>n. a bar of sand formed in a river or sea</td></tr>
-<tr><td>sandblast</td><td>sandblast</td><td>sand-blast</td><td>sand-blast</td><td>n. a blast of wind laden with sand<br>v. grind with a sandblast</td></tr>
+<tr><td>sandblast</td><td>sandblàst</td><td>sand-blast</td><td>sand-blàst</td><td>n. a blast of wind laden with sand<br>v. grind with a sandblast</td></tr>
 <tr><td>sandbox</td><td>sandbox</td><td>sand-box</td><td>sand-box</td><td>n. a box filled with sand for children to play in</td></tr>
 <tr><td>sanded</td><td>sandėd</td><td>sand-ed</td><td>sand-ėd</td><td>v. rub with sandpaper</td></tr>
 <tr><td>sander</td><td>sande̊r</td><td>sand-er</td><td>sand-e̊r</td><td>n. a power tool for sanding wood using a high-speed loop of sandpaper</td></tr>
@@ -295,7 +295,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sanding</td><td>sanding</td><td>sand-ing</td><td>sand-ing</td><td>v rub with sandpaper</td></tr>
 <tr><td>sandinista</td><td>sandinistå</td><td>sandin-ista</td><td>sandin-istå</td><td>n. a member of a Nicaraguan revolutionary movement</td></tr>
 <tr><td>sandlot</td><td>sandlot</td><td>sand-lot</td><td>sand-lot</td><td>n. a vacant lot used by city boys to play games</td></tr>
-<tr><td>sandman</td><td>sandman</td><td>sand-man</td><td>sand-man</td><td>n. an elf in fairy stories who sprinkles sand in children&#x27;s eyes to make them sleepy</td></tr>
+<tr><td>sandman</td><td>sandmån</td><td>sand-man</td><td>sand-mån</td><td>n. an elf in fairy stories who sprinkles sand in children&#x27;s eyes to make them sleepy</td></tr>
 <tr><td>sandpiper</td><td>sandpīpe̊r</td><td>sand-piper</td><td>sand-pīpe̊r</td><td>n. a small wading bird with a slender bill</td></tr>
 <tr><td>sandpit</td><td>sandpit</td><td>sand-pit</td><td>sand-pit</td><td>n. a large pit in sandy ground from which sand is dug</td></tr>
 <tr><td>sands</td><td>sandṡ</td><td>sand-s</td><td>sand-ṡ</td><td></td></tr>
@@ -307,57 +307,57 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sandbagged</td><td>sandbagg𝕖d</td><td>sand-bagg-ed</td><td>sand-bagg-𝕖d</td><td>v. treat harshly or unfairly<br>v. protect or strengthen with sandbags</td></tr>
 <tr><td>sandpaper</td><td>sandpāpe̊r</td><td>sand-pap-er</td><td>sand-pāp-e̊r</td><td>n. stiff paper coated with abrasive material<br>v. to rub with sandpaper</td></tr>
 <tr><td>sandwiches</td><td>sandwichėṡ</td><td>sand-wich-es</td><td>sand-wich-ėṡ</td><td></td></tr>
-<tr><td>sandblasting</td><td>sandblasting</td><td>sand-blast-ing</td><td>sand-blast-ing</td><td>v grind with a sandblast</td></tr>
-<tr><td>sandcastle</td><td>sandcàstle</td><td>sand-cast-le</td><td>sand-càst-le</td><td>n. a structure built of sand, especially by children at the beach</td></tr>
+<tr><td>sandblasting</td><td>sandblàsting</td><td>sand-blast-ing</td><td>sand-blàst-ing</td><td>v grind with a sandblast</td></tr>
+<tr><td>sandcastle</td><td>sandcàs𝕥le</td><td>sand-cast-le</td><td>sand-càs𝕥-le</td><td>n. a structure built of sand, especially by children at the beach</td></tr>
 <tr><td>sandals</td><td>sandålṡ</td><td>sand-al-s</td><td>sand-ål-ṡ</td><td></td></tr>
 <tr><td>sandalwood</td><td>sandålwood</td><td>sand-al-wood</td><td>sand-ål-wood</td><td>n. fragrant yellowish heartwood used for carving, with insect-repelling properties</td></tr>
 <tr><td>sangfroid</td><td>sãn𝕘froi𝕕</td><td>sangfroid</td><td>sãn𝕘froi𝕕</td><td>n. composure in difficult situations</td></tr>
-<tr><td>sangria</td><td>san𝕘riå</td><td>sangria</td><td>san𝕘riå</td><td>n. sweetened red wine and orange or lemon juice with soda water</td></tr>
-<tr><td>sanguine</td><td>sangùine</td><td>sanguine</td><td>sangùine</td><td>a. confidently optimistic and cheerful</td></tr>
-<tr><td>sanguinary</td><td>sangùinårẏ</td><td>sanguin-ary</td><td>sangùin-årẏ</td><td>a. accompanied by bloodshed<br>a. marked by eagerness to resort to violence</td></tr>
-<tr><td>sanguineous</td><td>sangùinėo̊us</td><td>sanguin-e-ous</td><td>sangùin-ė-o̊us</td><td>a. relating to blood</td></tr>
-<tr><td>consanguinity</td><td>consangùinitẏ</td><td>con-sanguin-ity</td><td>con-sangùin-itẏ</td><td>n. (anthropology) related by blood</td></tr>
-<tr><td>sanitarium</td><td>sanitåriům</td><td>sanit-arium</td><td>sanit-åriům</td><td>n. a hospital for recuperation or for the treatment of chronic diseases</td></tr>
-<tr><td>sanitary</td><td>sanitarẏ</td><td>sanit-ary</td><td>sanit-arẏ</td><td>a. free from dirt and germs; clean</td></tr>
+<tr><td>sangria</td><td>sangriå</td><td>sangria</td><td>sangriå</td><td>n. sweetened red wine and orange or lemon juice with soda water</td></tr>
+<tr><td>sanguine</td><td>sanguine</td><td>sanguine</td><td>sanguine</td><td>a. confidently optimistic and cheerful</td></tr>
+<tr><td>sanguinary</td><td>sanguinårẏ</td><td>sanguin-ary</td><td>sanguin-årẏ</td><td>a. accompanied by bloodshed<br>a. marked by eagerness to resort to violence</td></tr>
+<tr><td>sanguineous</td><td>sanguinėo̊us</td><td>sanguin-e-ous</td><td>sanguin-ė-o̊us</td><td>a. relating to blood</td></tr>
+<tr><td>consanguinity</td><td>consånguinitẏ</td><td>con-sanguin-ity</td><td>con-sånguin-itẏ</td><td>n. (anthropology) related by blood</td></tr>
+<tr><td>sanitarium</td><td>sanitāriům</td><td>sanit-arium</td><td>sanit-āriům</td><td>n. a hospital for recuperation or for the treatment of chronic diseases</td></tr>
+<tr><td>sanitary</td><td>sanitårẏ</td><td>sanit-ary</td><td>sanit-årẏ</td><td>a. free from dirt and germs; clean</td></tr>
 <tr><td>sanitize</td><td>sanitīze</td><td>sanit-ize</td><td>sanit-īze</td><td>v. to make sanitary by cleaning or sterilizing</td></tr>
 <tr><td>sanitized</td><td>sanitīz𝕖d</td><td>sanit-iz-ed</td><td>sanit-īz-𝕖d</td><td>a. made sanitary</td></tr>
 <tr><td>sanitizer</td><td>sanitīze̊r</td><td>sanit-iz-er</td><td>sanit-īz-e̊r</td><td>n. a substance used to clean or sanitize</td></tr>
-<tr><td>sanitarian</td><td>sanitåriån</td><td>sanit-ar-ian</td><td>sanit-år-iån</td><td>a. relating to health or sanitation<br>n. a public health expert</td></tr>
-<tr><td>sanitation</td><td>sani̊tātio̊n</td><td>sanit-at-ion</td><td>sani̊t-āt-io̊n</td><td>n. the state of being clean and conducive to health</td></tr>
-<tr><td>sanitizing</td><td>sani̊tīzing</td><td>sanit-iz-ing</td><td>sani̊t-īz-ing</td><td>v make sanitary by cleaning or sterilizing<br>v make less offensive or more acceptable by removing objectionable features</td></tr>
-<tr><td>unsanitary</td><td>ûnsani̊tarẏ</td><td>un-sanit-ary</td><td>ûn-sani̊t-arẏ</td><td>a. not sanitary or healthful</td></tr>
+<tr><td>sanitarian</td><td>sanitāriån</td><td>sanit-ar-ian</td><td>sanit-ār-iån</td><td>a. relating to health or sanitation<br>n. a public health expert</td></tr>
+<tr><td>sanitation</td><td>sanitātio̊n</td><td>sanit-at-ion</td><td>sanit-āt-io̊n</td><td>n. the state of being clean and conducive to health</td></tr>
+<tr><td>sanitizing</td><td>sanitīzing</td><td>sanit-iz-ing</td><td>sanit-īz-ing</td><td>v make sanitary by cleaning or sterilizing<br>v make less offensive or more acceptable by removing objectionable features</td></tr>
+<tr><td>unsanitary</td><td>ûnsanitårẏ</td><td>un-sanit-ary</td><td>ûn-sanit-årẏ</td><td>a. not sanitary or healthful</td></tr>
 <tr><td>Sanskrit</td><td>Sanskrit</td><td>Sanskrit</td><td>Sanskrit</td><td>n. an ancient Indian language</td></tr>
 <tr><td>Santa</td><td>Santå</td><td>Santa</td><td>Santå</td><td>n. Santa Claus</td></tr>
 <tr><td>santolina</td><td>santo̊lĩnå</td><td>santolina</td><td>santo̊lĩnå</td><td>n. genus of Mediterranean subshrubs with rayless flower heads</td></tr>
 <tr><td>sap</td><td>sap</td><td>sap</td><td>sap</td><td>n. the fluid that circulates in the vascular system of a plant<br>vt. to gradually weaken or exhaust</td></tr>
-<tr><td>sapience</td><td>sāpience</td><td>sapi-ence</td><td>sāpi-ence</td><td>n. the quality of being wise</td></tr>
-<tr><td>sapient</td><td>sāpient</td><td>sapi-ent</td><td>sāpi-ent</td><td>a. acutely insightful and wise</td></tr>
+<tr><td>sapience</td><td>sāpie̊nce</td><td>sapi-ence</td><td>sāpi-e̊nce</td><td>n. the quality of being wise</td></tr>
+<tr><td>sapient</td><td>sāpie̊nt</td><td>sapi-ent</td><td>sāpi-e̊nt</td><td>a. acutely insightful and wise</td></tr>
 <tr><td>sapper</td><td>sappe̊r</td><td>sapp-er</td><td>sapp-e̊r</td><td>n. a military engineer who lays or detects and disarms mines<br>n. a military engineer who does sapping (digging trenches or undermining fortifications)</td></tr>
 <tr><td>sapid</td><td>sapid</td><td>sap-id</td><td>sap-id</td><td>a. having a pleasant taste</td></tr>
 <tr><td>sapless</td><td>saplėss</td><td>sap-less</td><td>sap-lėss</td><td>a. lacking juice or vigor</td></tr>
 <tr><td>sapling</td><td>sapling</td><td>sap-ling</td><td>sap-ling</td><td>n. young tree</td></tr>
 <tr><td>sapwood</td><td>sapwood</td><td>sap-wood</td><td>sap-wood</td><td>n. newly formed outer wood of a tree; usually light colored</td></tr>
 <tr><td>sappy</td><td>sappẏ</td><td>sapp-y</td><td>sapp-ẏ</td><td>a. abounding in sap</td></tr>
-<tr><td>sapiens</td><td>sāpiēnṡ</td><td>sap-i-ens</td><td>sāp-i-ēnṡ</td><td>a. relating to modern humans</td></tr>
+<tr><td>sapiens</td><td>sāpie̊nṡ</td><td>sap-i-ens</td><td>sāp-i-e̊nṡ</td><td>a. relating to modern humans</td></tr>
 <tr><td>sapiential</td><td>sāpientiål</td><td>sapi-ent-ial</td><td>sāpi-ent-iål</td><td>a. characterized by wisdom, especially the wisdom of God</td></tr>
 <tr><td>saponin</td><td>sapo̊nin</td><td>sapon-in</td><td>sapo̊n-in</td><td>n. a plant glucoside that forms soapy lathers when mixed with water</td></tr>
 <tr><td>saponaceous</td><td>sapo̊nāceo̊us</td><td>sapon-ace-ous</td><td>sapo̊n-āce-o̊us</td><td>a. like soap, slippery</td></tr>
 <tr><td>sapphire</td><td>sapphīre</td><td>sapphire</td><td>sapphīre</td><td>n. a precious transparent stone of rich blue corundum valued as a gemstone</td></tr>
 <tr><td>sarsaparilla</td><td>sàrsåpårillå</td><td>sar-sapar-ill-a</td><td>sàr-såpår-ill-å</td><td>n. any of various prickly climbing plants of tropical America<br>n. carbonated drink flavored with sarsaparilla root</td></tr>
-<tr><td>saracen</td><td>saråc𝕖n</td><td>saracen</td><td>saråc𝕖n</td><td>n. a member of the nomadic people of the Syrian and Arabian deserts in ancient times<br>n. a Muslim who opposed the Crusades</td></tr>
+<tr><td>saracen</td><td>saråce̊n</td><td>saracen</td><td>saråce̊n</td><td>n. a member of the nomadic people of the Syrian and Arabian deserts in ancient times<br>n. a Muslim who opposed the Crusades</td></tr>
 <tr><td>sarcasm</td><td>sàrcaṡm</td><td>sarc-asm</td><td>sàrc-aṡm</td><td>n. witty language used to convey insults or scorn</td></tr>
 <tr><td>sarcastic</td><td>sàrcastic</td><td>sarc-ast-ic</td><td>sàrc-ast-ic</td><td>a. expressing or expressive of ridicule that wounds</td></tr>
 <tr><td>sarcoidosis</td><td>sàrcoidōsis</td><td>sarc-oid-osis</td><td>sàrc-oid-ōsis</td><td>n. a chronic disease marked by the formation of nodules in the lungs and lymph glands</td></tr>
 <tr><td>sarcasms</td><td>sàrcaṡmṡ</td><td>sarc-asm-s</td><td>sàrc-aṡm-ṡ</td><td></td></tr>
 <tr><td>sarcophagus</td><td>sàrcophågůs</td><td>sarc-o-phag-us</td><td>sàrc-o-phåg-ůs</td><td>n. a stone coffin (usually bearing sculpture or inscriptions)</td></tr>
 <tr><td>sarcastically</td><td>sàrcasticållẏ</td><td>sarc-ast-ic-al-ly</td><td>sàrc-ast-ic-ål-lẏ</td><td>adv. in a sarcastic manner</td></tr>
-<tr><td>angiosarcoma</td><td>angio̊sàrco̊må</td><td>angi-o-sarcom-a</td><td>angi-o̊-sàrco̊m-å</td><td>n. a rare malignant neoplasm arising from vascular tissue</td></tr>
+<tr><td>angiosarcoma</td><td>angiosàrcōmå</td><td>angi-o-sarcom-a</td><td>angi-o-sàrcōm-å</td><td>n. a rare malignant neoplasm arising from vascular tissue</td></tr>
 <tr><td>sarcoma</td><td>sàrcōmå</td><td>sarcom-a</td><td>sàrcōm-å</td><td>n. a usually malignant tumor arising from connective tissue</td></tr>
-<tr><td>chondrosarcoma</td><td>c𝕙ondrōsàrcōmå</td><td>chondr-o-sarcom-a</td><td>c𝕙ondr-ō-sàrcōm-å</td><td>n. a malignant neoplasm of cartilage cells</td></tr>
-<tr><td>osteosarcoma</td><td>ostėōsarcōmå</td><td>oste-o-sarcom-a</td><td>ostė-ō-sarcōm-å</td><td>n. malignant bone tumor most common in children and young adults</td></tr>
+<tr><td>chondrosarcoma</td><td>c𝕙ondro̊sàrcōmå</td><td>chondr-o-sarcom-a</td><td>c𝕙ondr-o̊-sàrcōm-å</td><td>n. a malignant neoplasm of cartilage cells</td></tr>
+<tr><td>osteosarcoma</td><td>ostėosàrcōmå</td><td>oste-o-sarcom-a</td><td>ostė-o-sàrcōm-å</td><td>n. malignant bone tumor most common in children and young adults</td></tr>
 <tr><td>rhabdomyosarcoma</td><td>r𝕙abdōmȳōsàrcōmå</td><td>rhab-domyo-sarcom-a</td><td>r𝕙ab-dōmȳō-sàrcōm-å</td><td>n. a highly malignant tumor derived from striated muscle</td></tr>
 <tr><td>sardine</td><td>sàrdĩne</td><td>sard-ine</td><td>sàrd-ĩne</td><td>n. small fatty fish usually canned<br>n. any of various small edible herring or related food fishes frequently canned</td></tr>
-<tr><td>sardar</td><td>sårdàr</td><td>sardar</td><td>sårdàr</td><td>n. a chief or commander</td></tr>
+<tr><td>sardar</td><td>sàrdàr</td><td>sardar</td><td>sàrdàr</td><td>n. a chief or commander</td></tr>
 <tr><td>sardinian</td><td>sàrdiniån</td><td>sardin-ian</td><td>sàrdin-iån</td><td>a. of or relating to Sardinia or its people<br>n. a native or inhabitant of Sardinia</td></tr>
 <tr><td>sardonic</td><td>sàrdonic</td><td>sardon-ic</td><td>sàrdon-ic</td><td>a. disdainfully or ironically humorous</td></tr>
 <tr><td>sardonically</td><td>sàrdonicållẏ</td><td>sardon-ic-al-ly</td><td>sàrdon-ic-ål-lẏ</td><td>adv. in a sarcastic manner</td></tr>
@@ -365,7 +365,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sargassum</td><td>sàrgassům</td><td>sargassum</td><td>sàrgassům</td><td>n. a genus of brown seaweed</td></tr>
 <tr><td>sarge</td><td>sàrge</td><td>sarge</td><td>sàrge</td><td>n. informal term for a sergeant</td></tr>
 <tr><td>sargeant</td><td>sàrge̊ant</td><td>sarge-ant</td><td>sàrge̊-ant</td><td>n. a surname</td></tr>
-<tr><td>sari</td><td>sàrĩ</td><td>sari</td><td>sàrĩ</td><td>n. a dress worn by Hindu women consisting of draped material</td></tr>
+<tr><td>sari</td><td>sàri</td><td>sari</td><td>sàri</td><td>n. a dress worn by Hindu women consisting of draped material</td></tr>
 <tr><td>sarin</td><td>sàrin</td><td>sarin</td><td>sàrin</td><td>n. a highly toxic chemical nerve agent</td></tr>
 <tr><td>sarong</td><td>sårong</td><td>sarong</td><td>sårong</td><td>n. a loose skirt of colorful fabric wrapped around the body; worn in the Pacific islands</td></tr>
 <tr><td>SARS</td><td>SÀRṠ</td><td>SARS</td><td>SÀRṠ</td><td>abbr. Severe Acute Respiratory Syndrome</td></tr>
@@ -377,15 +377,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sasquatch</td><td>sasquatch</td><td>sasquatch</td><td>sasquatch</td><td>n. a large hairy humanoid creature said to live in the wilderness of North America</td></tr>
 <tr><td>sass</td><td>sass</td><td>sass</td><td>sass</td><td>n. an impudent or insolent rejoinder<br>v. answer back in an impudent or insolent manner</td></tr>
 <tr><td>sassy</td><td>sassẏ</td><td>sass-y</td><td>sass-ẏ</td><td>a. improperly forward or bold; lively</td></tr>
-<tr><td>assassin</td><td>åssassi̊n</td><td>as-sass-in</td><td>ås-sass-i̊n</td><td>n. a murderer who kills a prominent person by surprise attack</td></tr>
+<tr><td>assassin</td><td>åssassin</td><td>as-sass-in</td><td>ås-sass-in</td><td>n. a murderer who kills a prominent person by surprise attack</td></tr>
 <tr><td>assassinate</td><td>åssassināte</td><td>as-sass-in-ate</td><td>ås-sass-in-āte</td><td>v. murder; especially of socially prominent persons</td></tr>
-<tr><td>assassinated</td><td>åssassi̊nāt𝕖d</td><td>as-sass-in-at-ed</td><td>ås-sass-i̊n-āt-𝕖d</td><td>a. murdered by surprise attack for political reasons</td></tr>
-<tr><td>assassination</td><td>åssassi̊nātio̊n</td><td>as-sass-in-at-ion</td><td>ås-sass-i̊n-āt-io̊n</td><td>n. the murder of an important person for political reasons</td></tr>
+<tr><td>assassinated</td><td>åssassinātėd</td><td>as-sass-in-at-ed</td><td>ås-sass-in-āt-ėd</td><td>a. murdered by surprise attack for political reasons</td></tr>
+<tr><td>assassination</td><td>åssassinātio̊n</td><td>as-sass-in-at-ion</td><td>ås-sass-in-āt-io̊n</td><td>n. the murder of an important person for political reasons</td></tr>
 <tr><td>sassafras</td><td>sassåfras</td><td>sassafras</td><td>sassåfras</td><td>n. an aromatic tree of eastern North America</td></tr>
 <tr><td>Satan</td><td>Sātån</td><td>Satan</td><td>Sātån</td><td>n. the chief evil spirit</td></tr>
 <tr><td>satanic</td><td>såtanic</td><td>satan-ic</td><td>såtan-ic</td><td>a. relating to Satan; evil</td></tr>
 <tr><td>polyunsaturated</td><td>polẏûnsatůrātėd</td><td>poly-un-sat-ur-at-ed</td><td>polẏ-ûn-sat-ůr-āt-ėd</td><td>a. (of fats or oils) having many unsaturated chemical bonds</td></tr>
-<tr><td>satay</td><td>sàtāy</td><td>satay</td><td>sàtāy</td><td>n. a dish of marinated meat skewered and grilled, served with a spicy peanut sauce</td></tr>
+<tr><td>satay</td><td>satāy</td><td>satay</td><td>satāy</td><td>n. a dish of marinated meat skewered and grilled, served with a spicy peanut sauce</td></tr>
 <tr><td>satchel</td><td>satche̊l</td><td>satchel</td><td>satche̊l</td><td>n. luggage consisting of a small case with a flat bottom and (usually) a shoulder strap</td></tr>
 <tr><td>sate</td><td>sāte</td><td>sate</td><td>sāte</td><td>vt. to fill to satisfaction</td></tr>
 <tr><td>sated</td><td>sātėd</td><td>sat-ed</td><td>sāt-ėd</td><td>v fill to satisfaction</td></tr>
@@ -393,23 +393,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>satellite</td><td>sate̊llīte</td><td>sat-el-lite</td><td>sat-e̊l-līte</td><td>n. man-made equipment that orbits around the earth or the moon<br>n. any celestial body orbiting around a planet or star</td></tr>
 <tr><td>satellites</td><td>sate̊llīt𝕖s</td><td>sat-el-lite-s</td><td>sat-e̊l-līt𝕖-s</td><td></td></tr>
 <tr><td>satiate</td><td>sātiāte</td><td>sati-ate</td><td>sāti-āte</td><td>v. fill to satisfaction<br>a. supplied (especially fed) to satisfaction</td></tr>
-<tr><td>satiety</td><td>såtīetẏ</td><td>sati-ety</td><td>såtī-etẏ</td><td>n. the state of being fully satisfied, especially with food</td></tr>
+<tr><td>satiety</td><td>såtīe̊tẏ</td><td>sati-ety</td><td>såtī-e̊tẏ</td><td>n. the state of being fully satisfied, especially with food</td></tr>
 <tr><td>satiated</td><td>sātiātėd</td><td>sati-at-ed</td><td>sāti-āt-ėd</td><td>v. fill to satisfaction<br>a. supplied (especially fed) to satisfaction</td></tr>
 <tr><td>satiation</td><td>sātiātio̊n</td><td>sati-at-ion</td><td>sāti-āt-io̊n</td><td>n. the act of achieving full gratification</td></tr>
-<tr><td>insatiable</td><td>insāṫi̊åble</td><td>in-sati-able</td><td>in-sāṫi̊-åble</td><td>a impossible to satisfy</td></tr>
-<tr><td>insatiably</td><td>insāṫi̊åblẏ</td><td>in-sati-ab-ly</td><td>in-sāṫi̊-åb-lẏ</td><td>adv. to an insatiable degree</td></tr>
-<tr><td>satin</td><td>sati̊n</td><td>satin</td><td>sati̊n</td><td>n. a smooth, glossy fabric</td></tr>
+<tr><td>insatiable</td><td>insātiåble</td><td>in-sati-able</td><td>in-sāti-åble</td><td>a impossible to satisfy</td></tr>
+<tr><td>insatiably</td><td>insātiåblẏ</td><td>in-sati-ab-ly</td><td>in-sāti-åb-lẏ</td><td>adv. to an insatiable degree</td></tr>
+<tr><td>satin</td><td>satin</td><td>satin</td><td>satin</td><td>n. a smooth, glossy fabric</td></tr>
 <tr><td>satinwood</td><td>satinwood</td><td>satin-wood</td><td>satin-wood</td><td>n. hard yellowish wood of a satinwood tree having a satiny luster</td></tr>
 <tr><td>satiny</td><td>satinẏ</td><td>satin-y</td><td>satin-ẏ</td><td>a. having a smooth, gleaming surface reflecting light</td></tr>
 <tr><td>satire</td><td>satīre</td><td>satire</td><td>satīre</td><td>n. the use of humor, irony, or exaggeration to criticize or mock</td></tr>
 <tr><td>satiric</td><td>såtiric</td><td>satir-ic</td><td>såtir-ic</td><td>a. exposing human folly to ridicule</td></tr>
-<tr><td>satirise</td><td>sati̊rīṡe</td><td>satir-ise</td><td>sati̊r-īṡe</td><td>vt. to mock or ridicule</td></tr>
-<tr><td>satirist</td><td>sati̊ri̊st</td><td>satir-ist</td><td>sati̊r-i̊st</td><td>n. a humorist who uses ridicule and irony and sarcasm</td></tr>
-<tr><td>satirize</td><td>sati̊rīze</td><td>satir-ize</td><td>sati̊r-īze</td><td>v. ridicule with satire</td></tr>
-<tr><td>satirical</td><td>såtiri̊cål</td><td>satir-ic-al</td><td>såtir-i̊c-ål</td><td>a. exposing human folly to ridicule</td></tr>
+<tr><td>satirise</td><td>satirīṡe</td><td>satir-ise</td><td>satir-īṡe</td><td>vt. to mock or ridicule</td></tr>
+<tr><td>satirist</td><td>satirist</td><td>satir-ist</td><td>satir-ist</td><td>n. a humorist who uses ridicule and irony and sarcasm</td></tr>
+<tr><td>satirize</td><td>satirīze</td><td>satir-ize</td><td>satir-īze</td><td>v. ridicule with satire</td></tr>
+<tr><td>satirical</td><td>såtiricål</td><td>satir-ic-al</td><td>såtir-ic-ål</td><td>a. exposing human folly to ridicule</td></tr>
 <tr><td>satirically</td><td>såtiricållẏ</td><td>satir-ic-al-ly</td><td>såtir-ic-ål-lẏ</td><td>adv. in a satirical manner</td></tr>
 <tr><td>satisfy</td><td>satisfȳ</td><td>satis-fy</td><td>satis-fȳ</td><td>v. meet the requirements or expectations of<br>v. make happy or satisfied</td></tr>
-<tr><td>satisfied</td><td>sati̊sfī𝕖d</td><td>satis-fi-ed</td><td>sati̊s-fī-𝕖d</td><td>a. contented; pleased with what has happened</td></tr>
+<tr><td>satisfied</td><td>satisfī𝕖d</td><td>satis-fi-ed</td><td>satis-fī-𝕖d</td><td>a. contented; pleased with what has happened</td></tr>
 <tr><td>satisfaction</td><td>satisfactio̊n</td><td>satis-fact-ion</td><td>satis-fact-io̊n</td><td>n. the contentment one feels when one has fulfilled a desire, need, or expectation<br>n. act of fulfilling a desire or need or appetite</td></tr>
 <tr><td>satisfies</td><td>satisfī𝕖ṡ</td><td>satis-f-ies</td><td>satis-f-ī𝕖ṡ</td><td></td></tr>
 <tr><td>satisfying</td><td>satisfȳing</td><td>satis-fy-ing</td><td>satis-fȳ-ing</td><td>a. giving pleasure or contentment</td></tr>
@@ -418,20 +418,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>satisfactorily</td><td>satisfacto̊rilẏ</td><td>satis-fact-ori-ly</td><td>satis-fact-o̊ri-lẏ</td><td>adv. in a satisfactory manner</td></tr>
 <tr><td>satisfactions</td><td>satisfactio̊nṡ</td><td>satis-fact-ion-s</td><td>satis-fact-io̊n-ṡ</td><td></td></tr>
 <tr><td>dissatisfy</td><td>dissatisfȳ</td><td>dis-satis-fy</td><td>dis-satis-fȳ</td><td>vt. to fail to satisfy; to disappoint</td></tr>
-<tr><td>dissatisfied</td><td>dissati̊sfī𝕖d</td><td>dis-satis-fi-ed</td><td>dis-sati̊s-fī-𝕖d</td><td>a. in a state of sulky dissatisfaction</td></tr>
+<tr><td>dissatisfied</td><td>dissatisfī𝕖d</td><td>dis-satis-fi-ed</td><td>dis-satis-fī-𝕖d</td><td>a. in a state of sulky dissatisfaction</td></tr>
 <tr><td>dissatisfaction</td><td>dissatisfactio̊n</td><td>dis-satis-fact-ion</td><td>dis-satis-fact-io̊n</td><td>n. the feeling of being displeased and discontent</td></tr>
 <tr><td>unsatisfied</td><td>ûnsatisfī𝕖d</td><td>un-satis-fi-ed</td><td>ûn-satis-fī-𝕖d</td><td>a. not having been satisfied<br>a. worried and uneasy</td></tr>
 <tr><td>unsatisfying</td><td>ûnsatisfȳing</td><td>un-satis-fy-ing</td><td>ûn-satis-fȳ-ing</td><td>a. not up to expectations</td></tr>
 <tr><td>unsatisfactory</td><td>ûnsatisfacto̊rẏ</td><td>un-satis-fact-ory</td><td>ûn-satis-fact-o̊rẏ</td><td>a. not satisfactory; not good enough</td></tr>
 <tr><td>Sato</td><td>Sàtō</td><td>Sato</td><td>Sàtō</td><td>n. a Japanese surname</td></tr>
 <tr><td>satori</td><td>såtori</td><td>satori</td><td>såtori</td><td>n. (Zen Buddhism) a state of sudden spiritual enlightenment</td></tr>
-<tr><td>satrap</td><td>satråp</td><td>satrap</td><td>satråp</td><td>n. a governor of a province in ancient Persia</td></tr>
-<tr><td>saturate</td><td>saturāte</td><td>satur-ate</td><td>satur-āte</td><td>v. to make something completely wet or full of another substance</td></tr>
+<tr><td>satrap</td><td>satrap</td><td>satrap</td><td>satrap</td><td>n. a governor of a province in ancient Persia</td></tr>
+<tr><td>saturate</td><td>satůrāte</td><td>satur-ate</td><td>satůr-āte</td><td>v. to make something completely wet or full of another substance</td></tr>
 <tr><td>saturated</td><td>satůrātėd</td><td>satur-at-ed</td><td>satůr-āt-ėd</td><td>a. completely wet; holding as much as possible<br>a. unable to dissolve any more of a substance</td></tr>
 <tr><td>saturation</td><td>satůrātio̊n</td><td>satur-at-ion</td><td>satůr-āt-io̊n</td><td>n. the state of being completely full or soaked</td></tr>
-<tr><td>desaturation</td><td>dēsatūrātio̊n</td><td>de-satur-at-ion</td><td>dē-satūr-āt-io̊n</td><td>n. the process of reducing saturation</td></tr>
+<tr><td>desaturation</td><td>dėsatůrātio̊n</td><td>de-satur-at-ion</td><td>dė-satůr-āt-io̊n</td><td>n. the process of reducing saturation</td></tr>
 <tr><td>unsaturated</td><td>ûnsatůrātėd</td><td>un-satur-at-ed</td><td>ûn-satůr-āt-ėd</td><td>a. not saturated; capable of dissolving more of a substance</td></tr>
-<tr><td>monounsaturated</td><td>mono̊ûnsatůrāted</td><td>mono-un-satur-at-ed</td><td>mono̊-ûn-satůr-āt-ed</td><td>a. (of fats) having one carbon-carbon double bond in the molecule</td></tr>
+<tr><td>monounsaturated</td><td>monōûnsåtůrātėd</td><td>mono-un-satur-at-ed</td><td>monō-ûn-såtůr-āt-ėd</td><td>a. (of fats) having one carbon-carbon double bond in the molecule</td></tr>
 <tr><td>saturday</td><td>satůrdāy</td><td></td><td></td><td>n. the day after Friday</td></tr>
 <tr><td>Saturn</td><td>Satůrn</td><td>Saturn</td><td>Satůrn</td><td>n. the sixth planet from the sun</td></tr>
 <tr><td>saturnian</td><td>satůrniån</td><td>saturn-ian</td><td>satůrn-iån</td><td>a. of or relating to the planet Saturn</td></tr>
@@ -441,11 +441,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>satyr</td><td>satẙr</td><td>satyr</td><td>satẙr</td><td>n. man with strong sexual desires<br>n. one of a class of woodland deities; attendant on Bacchus; identified with Roman fauns</td></tr>
 <tr><td>sauce</td><td>sãuce</td><td>sauce</td><td>sãuce</td><td>n. a liquid served with food to add flavor</td></tr>
 <tr><td>saucer</td><td>sãuce̊r</td><td>sauc-er</td><td>sãuc-e̊r</td><td>n. a small shallow dish for holding a cup</td></tr>
-<tr><td>saucepan</td><td>sãuc𝕖pan</td><td>sauce-pan</td><td>sãuc𝕖-pan</td><td>n. a deep cooking pan with a handle</td></tr>
+<tr><td>saucepan</td><td>sãuc𝕖pån</td><td>sauce-pan</td><td>sãuc𝕖-pån</td><td>n. a deep cooking pan with a handle</td></tr>
 <tr><td>saucepot</td><td>sãuc𝕖pot</td><td>sauce-pot</td><td>sãuc𝕖-pot</td><td>n. a cooking pot with handles on either side and a tight fitting lid</td></tr>
 <tr><td>sauces</td><td>sãucėṡ</td><td>sauce-s</td><td>sãucė-ṡ</td><td></td></tr>
 <tr><td>saucy</td><td>sãucẏ</td><td>sauc-y</td><td>sãuc-ẏ</td><td>a. characterized by a lightly pert and exuberant quality<br>a. improperly forward or bold</td></tr>
-<tr><td>saudi</td><td>sãudĩ</td><td>saudi</td><td>sãudĩ</td><td>n. a native or inhabitant of Saudi Arabia<br>a. of or relating to Saudi Arabia</td></tr>
+<tr><td>saudi</td><td>saudi</td><td>saudi</td><td>saudi</td><td>n. a native or inhabitant of Saudi Arabia<br>a. of or relating to Saudi Arabia</td></tr>
 <tr><td>sauerkraut</td><td>saue̊rkraut</td><td>sauer-kraut</td><td>saue̊r-kraut</td><td>n. shredded cabbage fermented in brine</td></tr>
 <tr><td>assault</td><td>åssãult</td><td>as-sault</td><td>ås-sãult</td><td>n. close fighting during the culmination of a military attack<br>n. a threatened or attempted physical attack by someone who appears able to cause harm<br>v. attack someone physically or emotionally</td></tr>
 <tr><td>assaulted</td><td>åssãultėd</td><td>as-sault-ed</td><td>ås-sãult-ėd</td><td>v. attack someone physically or emotionally</td></tr>
@@ -457,22 +457,22 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>dinosaur</td><td>dīno̊sãur</td><td>dino-saur</td><td>dīno̊-sãur</td><td>n. a large extinct reptile that lived in the Mesozoic era</td></tr>
 <tr><td>dinosaurs</td><td>dīno̊sãurṡ</td><td>dino-saur-s</td><td>dīno̊-sãur-ṡ</td><td></td></tr>
 <tr><td>hadrosaur</td><td>hadro̊sãur</td><td>hadro-saur</td><td>hadro̊-sãur</td><td>n. any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill</td></tr>
-<tr><td>plesiosaur</td><td>plēsio̊sãur</td><td>plesio-saur</td><td>plēsio̊-sãur</td><td>n. an extinct marine reptile with a small head, long neck and paddle-shaped limbs</td></tr>
-<tr><td>apatosaurus</td><td>åpato̊sãurůs</td><td>apat-o-saur-us</td><td>åpat-o̊-sãur-ůs</td><td>n. huge quadrupedal herbivorous dinosaur common in North America in the late Jurassic</td></tr>
+<tr><td>plesiosaur</td><td>plēṡiosãur</td><td>plesio-saur</td><td>plēṡio-sãur</td><td>n. an extinct marine reptile with a small head, long neck and paddle-shaped limbs</td></tr>
+<tr><td>apatosaurus</td><td>apåto̊sãurůs</td><td>apat-o-saur-us</td><td>apåt-o̊-sãur-ůs</td><td>n. huge quadrupedal herbivorous dinosaur common in North America in the late Jurassic</td></tr>
 <tr><td>brontosaur</td><td>bronto̊sãur</td><td>bront-o-saur</td><td>bront-o̊-sãur</td><td>n. huge quadrupedal herbivorous dinosaur common in North America in the late Jurassic</td></tr>
 <tr><td>brontosaurus</td><td>bronto̊sãurůs</td><td>bront-o-saur-us</td><td>bront-o̊-sãur-ůs</td><td>n. huge quadrupedal herbivorous dinosaur common in North America in the late Jurassic</td></tr>
-<tr><td>ichthyosaur</td><td>ic𝕙thẏo̊sãur</td><td>ichthy-o-saur</td><td>ic𝕙thẏ-o̊-sãur</td><td>n. an extinct marine reptile of the Mesozoic era with a body like a porpoise</td></tr>
+<tr><td>ichthyosaur</td><td>ic𝕙thẏosãur</td><td>ichthy-o-saur</td><td>ic𝕙thẏ-o-sãur</td><td>n. an extinct marine reptile of the Mesozoic era with a body like a porpoise</td></tr>
 <tr><td>pterosaur</td><td>𝕡tero̊sãur</td><td>pter-o-saur</td><td>𝕡ter-o̊-sãur</td><td>n. an extinct flying reptile with membranous wings</td></tr>
 <tr><td>stegosaur</td><td>stego̊sãur</td><td>steg-o-saur</td><td>steg-o̊-sãur</td><td>n. a large herbivorous dinosaur with bony plates along its back</td></tr>
 <tr><td>tyrannosaur</td><td>tẏranno̊sãur</td><td>tyrann-o-saur</td><td>tẏrann-o̊-sãur</td><td>n. a large carnivorous dinosaur of the late Cretaceous period</td></tr>
-<tr><td>tyrannosaurus</td><td>tẏranno̊sãurůs</td><td>tyrann-o-saur-us</td><td>tẏrann-o̊-sãur-ůs</td><td>n. a large carnivorous bipedal dinosaur</td></tr>
+<tr><td>tyrannosaurus</td><td>tẏrånno̊sãurůs</td><td>tyrann-o-saur-us</td><td>tẏrånn-o̊-sãur-ůs</td><td>n. a large carnivorous bipedal dinosaur</td></tr>
 <tr><td>sausage</td><td>sãusȧge</td><td>saus-age</td><td>sãus-ȧge</td><td>n. a tube-shaped case of skin filled with seasoned minced meat</td></tr>
 <tr><td>sausages</td><td>sãusȧgėṡ</td><td>saus-age-s</td><td>sãus-ȧgė-ṡ</td><td></td></tr>
 <tr><td>sauté</td><td>sãuté</td><td>sauté</td><td>sãuté</td><td>v. cook quickly in a small amount of fat<br>a. fried quickly in a little fat</td></tr>
-<tr><td>sauted</td><td>sautèd</td><td>saut-ed</td><td>saut-èd</td><td>v. fry briefly over high heat</td></tr>
-<tr><td>savage</td><td>savåge</td><td>sav-age</td><td>sav-åge</td><td>a. fierce, violent, and uncontrolled<br>n. a member of an uncivilized people<br>v. attack brutally and fiercely</td></tr>
-<tr><td>savant</td><td>såvànt</td><td>sav-ant</td><td>såv-ànt</td><td>n. someone who has been admitted to membership in a scholarly field</td></tr>
-<tr><td>savagery</td><td>savȧgèrẏ</td><td>savag-ery</td><td>savȧg-èrẏ</td><td>n. the trait of extreme cruelty<br>n. a brutal savage act</td></tr>
+<tr><td>sauted</td><td>sãutèd</td><td>saut-ed</td><td>sãut-èd</td><td>v. fry briefly over high heat</td></tr>
+<tr><td>savage</td><td>savȧge</td><td>sav-age</td><td>sav-ȧge</td><td>a. fierce, violent, and uncontrolled<br>n. a member of an uncivilized people<br>v. attack brutally and fiercely</td></tr>
+<tr><td>savant</td><td>savånt</td><td>sav-ant</td><td>sav-ånt</td><td>n. someone who has been admitted to membership in a scholarly field</td></tr>
+<tr><td>savagery</td><td>savȧg𝕖rẏ</td><td>savag-ery</td><td>savȧg-𝕖rẏ</td><td>n. the trait of extreme cruelty<br>n. a brutal savage act</td></tr>
 <tr><td>savior</td><td>sāvio̊r</td><td>savi-or</td><td>sāvi-o̊r</td><td>n. a person who rescues you from harm or danger</td></tr>
 <tr><td>saviour</td><td>sāvio̊ur</td><td>savi-our</td><td>sāvi-o̊ur</td><td>n. one who saves from danger</td></tr>
 <tr><td>savor</td><td>sāvo̊r</td><td>sav-or</td><td>sāv-o̊r</td><td>v. taste appreciatively<br>n. the taste experience when a savoury condiment is taken into the mouth</td></tr>
@@ -497,7 +497,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>savvier</td><td>savvie̊r</td><td>savv-i-er</td><td>savv-i-e̊r</td><td>a. comparative of savvy; more shrewd or astute</td></tr>
 <tr><td>saw</td><td>sãw</td><td>saw</td><td>sãw</td><td>n. a hand tool for cutting<br>v. cut with a saw</td></tr>
 <tr><td>sawn</td><td>sãwn</td><td>sawn</td><td>sãwn</td><td>v cut with a saw</td></tr>
-<tr><td>sawbones</td><td>sãwbōneṡ</td><td>saw-bones</td><td>sãw-bōneṡ</td><td>n. a physician who specializes in surgery</td></tr>
+<tr><td>sawbones</td><td>sãwbōn𝕖ṡ</td><td>saw-bones</td><td>sãw-bōn𝕖ṡ</td><td>n. a physician who specializes in surgery</td></tr>
 <tr><td>sawbuck</td><td>sãwbûck</td><td>saw-buck</td><td>sãw-bûck</td><td>n a framework for holding wood that is being sawed</td></tr>
 <tr><td>sawdust</td><td>sãwdûst</td><td>saw-dust</td><td>sãw-dûst</td><td>n. fine particles of wood made by sawing</td></tr>
 <tr><td>sawed</td><td>sãw𝕖d</td><td>saw-ed</td><td>sãw-𝕖d</td><td>v. cut with a saw</td></tr>
@@ -523,19 +523,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unsaid</td><td>ûnsaid</td><td>un-said</td><td>ûn-said</td><td>a. not made explicit</td></tr>
 <tr><td>unsay</td><td>ûnsāy</td><td>un-say</td><td>ûn-sāy</td><td>v. to take back what one has said</td></tr>
 <tr><td>unsayable</td><td>ûnsāyåble</td><td>un-say-able</td><td>ûn-sāy-åble</td><td>a. not capable of being expressed in words</td></tr>
-<tr><td>sayonara</td><td>sàyonàrà</td><td>sayonara</td><td>sàyonàrà</td><td>n. a farewell remark</td></tr>
+<tr><td>sayonara</td><td>saȳo̊nàrå</td><td>sayonara</td><td>saȳo̊nàrå</td><td>n. a farewell remark</td></tr>
 <tr><td>asbestos</td><td>asbesto̊s</td><td>a-sbestos</td><td>a-sbesto̊s</td><td>n. a fibrous mineral resistant to fire, used in building materials</td></tr>
-<tr><td>asbestosis</td><td>asbestōsis</td><td>a-sbest-osis</td><td>a-sbest-ōsis</td><td>n. lung disease caused by inhaling asbestos particles</td></tr>
+<tr><td>asbestosis</td><td>åsbėstōsis</td><td>a-sbest-osis</td><td>å-sbėst-ōsis</td><td>n. lung disease caused by inhaling asbestos particles</td></tr>
 <tr><td>scab</td><td>scab</td><td>scab</td><td>scab</td><td>n. someone who works (or provides workers) during a strike<br>n. the crustlike surface of a healing skin lesion<br>v. form a scab</td></tr>
 <tr><td>scabbard</td><td>scabbård</td><td>scab-bard</td><td>scab-bård</td><td>n. a sheath for a sword or dagger or bayonet</td></tr>
 <tr><td>scabby</td><td>scabbẏ</td><td>scabb-y</td><td>scabb-ẏ</td><td>a. covered with scabs</td></tr>
-<tr><td>scabies</td><td>scabi𝕖s</td><td>scabies</td><td>scabi𝕖s</td><td>n. a contagious skin infection caused by the itch mite</td></tr>
-<tr><td>scabrous</td><td>scābro̊us</td><td>scabr-ous</td><td>scābr-o̊us</td><td>a. dealing with salacious or indecent material<br>a. rough to the touch; covered with scales or scurf</td></tr>
+<tr><td>scabies</td><td>scābi𝕖ṡ</td><td>scabies</td><td>scābi𝕖ṡ</td><td>n. a contagious skin infection caused by the itch mite</td></tr>
+<tr><td>scabrous</td><td>scabro̊us</td><td>scabr-ous</td><td>scabr-o̊us</td><td>a. dealing with salacious or indecent material<br>a. rough to the touch; covered with scales or scurf</td></tr>
 <tr><td>scad</td><td>scad</td><td>scad</td><td>scad</td><td>n. any of a number of fishes of the family Carangidae</td></tr>
 <tr><td>scads</td><td>scadṡ</td><td>scad-s</td><td>scad-ṡ</td><td>n. a large amount (informal)</td></tr>
-<tr><td>scaffold</td><td>scaffo̊ld</td><td>scaffold</td><td>scaffo̊ld</td><td>n. a temporary platform for workers<br>n. a platform for executions</td></tr>
+<tr><td>scaffold</td><td>scaffōld</td><td>scaffold</td><td>scaffōld</td><td>n. a temporary platform for workers<br>n. a platform for executions</td></tr>
 <tr><td>scaffolded</td><td>scaffōldėd</td><td>scaffold-ed</td><td>scaffōld-ėd</td><td>v provide with a scaffold for support</td></tr>
-<tr><td>scaffolding</td><td>scaffo̊lding</td><td>scaffold-ing</td><td>scaffo̊ld-ing</td><td>n. a temporary framework of poles and boards supporting workers during construction</td></tr>
+<tr><td>scaffolding</td><td>scaffōlding</td><td>scaffold-ing</td><td>scaffōld-ing</td><td>n. a temporary framework of poles and boards supporting workers during construction</td></tr>
 <tr><td>scale</td><td>scāle</td><td>scale</td><td>scāle</td><td>n. a system of ordered marks used as a reference in measuring<br>n. the ratio between the size of something and a representation of it<br>n. a device for weighing<br>vt. to climb up</td></tr>
 <tr><td>scalable</td><td>scālåble</td><td>scal-able</td><td>scāl-åble</td><td>a. capable of being scaled; possible to scale</td></tr>
 <tr><td>scaled</td><td>scāl𝕖d</td><td>scal-ed</td><td>scāl-𝕖d</td><td>a. (used of armor) having overlapping metal plates attached to a leather backing</td></tr>
@@ -557,7 +557,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scallions</td><td>scallio̊nṡ</td><td>scallion-s</td><td>scallio̊n-ṡ</td><td>n. a young onion with a slender white bulb, eaten in salads</td></tr>
 <tr><td>rapscallion</td><td>rapscallio̊n</td><td>rap-scallion</td><td>rap-scallio̊n</td><td>n. a mischievous or dishonest person</td></tr>
 <tr><td>scallop</td><td>scallo̊p</td><td>scallop</td><td>scallo̊p</td><td>n. an edible marine bivalve with a fan-shaped shell<br>v. decorate an edge with scallops</td></tr>
-<tr><td>scalloped</td><td>scàllo̊p𝕖ḋ</td><td>scallop-ed</td><td>scàllo̊p-𝕖ḋ</td><td>a. having a margin with rounded scallops</td></tr>
+<tr><td>scalloped</td><td>scallo̊p𝕖ḋ</td><td>scallop-ed</td><td>scallo̊p-𝕖ḋ</td><td>a. having a margin with rounded scallops</td></tr>
 <tr><td>scalp</td><td>scalp</td><td>scalp</td><td>scalp</td><td>n. the skin that covers the top of the head<br>v. remove the scalp of</td></tr>
 <tr><td>scalper</td><td>scalpe̊r</td><td>scalp-er</td><td>scalp-e̊r</td><td>n. someone who buys something and resells it at a price far above the initial cost</td></tr>
 <tr><td>scalpel</td><td>scalpe̊l</td><td>scalpel</td><td>scalpe̊l</td><td>n. a thin straight surgical knife used in dissection and surgery</td></tr>
@@ -583,7 +583,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scant</td><td>scant</td><td>scant</td><td>scant</td><td>a. barely sufficient<br>vt. to provide with less than needed</td></tr>
 <tr><td>scantling</td><td>scantling</td><td>scant-ling</td><td>scant-ling</td><td>n. a small amount or size</td></tr>
 <tr><td>scanty</td><td>scantẏ</td><td>scant-y</td><td>scant-ẏ</td><td>a. lacking in amplitude or quantity</td></tr>
-<tr><td>scantily</td><td>scanti̊lẏ</td><td>scant-i-ly</td><td>scant-i̊-lẏ</td><td>adv. in a sparse or scanty way</td></tr>
+<tr><td>scantily</td><td>scantilẏ</td><td>scant-i-ly</td><td>scant-i-lẏ</td><td>adv. in a sparse or scanty way</td></tr>
 <tr><td>scape</td><td>scāpe</td><td>scape</td><td>scāpe</td><td>n. erect leafless flower stalk growing directly from the ground as in a tulip</td></tr>
 <tr><td>scapegoat</td><td>scāp𝕖gōat</td><td>scape-goat</td><td>scāp𝕖-gōat</td><td>n. someone who is punished for the errors of others</td></tr>
 <tr><td>scapegoating</td><td>scāp𝕖gōating</td><td>scape-goat-ing</td><td>scāp𝕖-gōat-ing</td><td>v. blame or punish someone for the faults of others</td></tr>
@@ -592,7 +592,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scar</td><td>scàr</td><td>scar</td><td>scàr</td><td>n. a mark left on the skin after a wound has healed<br>v. to mark with a scar</td></tr>
 <tr><td>scare</td><td>scāre</td><td>scare</td><td>scāre</td><td>vt. to cause sudden fear in someone<br>n. a sudden feeling of fear</td></tr>
 <tr><td>scarecrow</td><td>scār𝕖crōw</td><td>scare-crow</td><td>scār𝕖-crōw</td><td>n. an effigy to frighten birds away from seeds</td></tr>
-<tr><td>scared</td><td>scar𝕖d</td><td>scar-ed</td><td>scar-𝕖d</td><td>a. made afraid<br>a. suffering from fear</td></tr>
+<tr><td>scared</td><td>scār𝕖d</td><td>scar-ed</td><td>scār-𝕖d</td><td>a. made afraid<br>a. suffering from fear</td></tr>
 <tr><td>scarred</td><td>scàrr𝕖d</td><td>scarr-ed</td><td>scàrr-𝕖d</td><td>a. marked by scars</td></tr>
 <tr><td>scarify</td><td>scarifȳ</td><td>scar-ify</td><td>scar-ifȳ</td><td>v. scratch the surface of<br>v. puncture and scar the skin</td></tr>
 <tr><td>scaring</td><td>scāring</td><td>scar-ing</td><td>scār-ing</td><td></td></tr>
@@ -600,12 +600,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scarlet</td><td>scàrlėt</td><td>scar-let</td><td>scàr-lėt</td><td>n. a vivid red color<br>a. of a vivid red color</td></tr>
 <tr><td>scares</td><td>scār𝕖ṡ</td><td>scare-s</td><td>scār𝕖-ṡ</td><td></td></tr>
 <tr><td>scars</td><td>scàrṡ</td><td>scar-s</td><td>scàr-ṡ</td><td></td></tr>
-<tr><td>scary</td><td>scarẏ</td><td>scar-y</td><td>scar-ẏ</td><td>a. causing fear or alarm</td></tr>
+<tr><td>scary</td><td>scārẏ</td><td>scar-y</td><td>scār-ẏ</td><td>a. causing fear or alarm</td></tr>
 <tr><td>scarier</td><td>scārie̊r</td><td>scar-i-er</td><td>scār-i-e̊r</td><td></td></tr>
 <tr><td>scariest</td><td>scāriėst</td><td>scar-i-est</td><td>scār-i-ėst</td><td></td></tr>
-<tr><td>scaremonger</td><td>scāremônge̊r</td><td>scare-mong-er</td><td>scāre-mông-e̊r</td><td>n. one who spreads alarming rumors</td></tr>
-<tr><td>scarily</td><td>scarĩlẏ</td><td>scar-i-ly</td><td>scar-ĩ-lẏ</td><td>adv. in an alarming manner</td></tr>
-<tr><td>scariness</td><td>scarine̊ss</td><td>scar-i-ness</td><td>scar-i-ne̊ss</td><td>n. the quality of being scary</td></tr>
+<tr><td>scaremonger</td><td>scār𝕖mônge̊r</td><td>scare-mong-er</td><td>scār𝕖-mông-e̊r</td><td>n. one who spreads alarming rumors</td></tr>
+<tr><td>scarily</td><td>scārilẏ</td><td>scar-i-ly</td><td>scār-i-lẏ</td><td>adv. in an alarming manner</td></tr>
+<tr><td>scariness</td><td>scārinėss</td><td>scar-i-ness</td><td>scār-i-nėss</td><td>n. the quality of being scary</td></tr>
 <tr><td>scarification</td><td>scarificātio̊n</td><td>scar-i-fic-at-ion</td><td>scar-i-fic-āt-io̊n</td><td>n. the act of making scratches</td></tr>
 <tr><td>unscarred</td><td>ûnscàrr𝕖d</td><td>un-scarr-ed</td><td>ûn-scàrr-𝕖d</td><td>a. not scarred or blemished</td></tr>
 <tr><td>scarab</td><td>scaråb</td><td>scarab</td><td>scaråb</td><td>n. scarabaeid beetle considered divine by ancient Egyptians</td></tr>
@@ -621,7 +621,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scathing</td><td>scāṫhing</td><td>scath-ing</td><td>scāṫh-ing</td><td>a. marked by harshly abusive criticism</td></tr>
 <tr><td>scathingly</td><td>scāṫhinglẏ</td><td>scath-ing-ly</td><td>scāṫh-ing-lẏ</td><td>adv. in a scathing and unsparing manner</td></tr>
 <tr><td>unscathed</td><td>ûnscāṫh𝕖d</td><td>un-scath-ed</td><td>ûn-scāṫh-𝕖d</td><td>a. not injured or harmed</td></tr>
-<tr><td>scatological</td><td>scato̊logi̊cål</td><td>scat-o-log-ic-al</td><td>scat-o̊-log-i̊c-ål</td><td>a. dealing pruriently with excrement and excretory functions</td></tr>
+<tr><td>scatological</td><td>scato̊logicål</td><td>scat-o-log-ic-al</td><td>scat-o̊-log-ic-ål</td><td>a. dealing pruriently with excrement and excretory functions</td></tr>
 <tr><td>scatter</td><td>scatte̊r</td><td>scatt-er</td><td>scatt-e̊r</td><td>v. to throw things in different directions randomly<br>v. to separate and go in different directions</td></tr>
 <tr><td>scatterbrain</td><td>scatte̊rbrāin</td><td>scatt-er-brain</td><td>scatt-e̊r-brāin</td><td>n. a forgetful or inattentive person</td></tr>
 <tr><td>scattered</td><td>scatte̊r𝕖d</td><td>scatt-er-ed</td><td>scatt-e̊r-𝕖d</td><td>a. occurring or distributed over widely spaced and irregular intervals in time or space</td></tr>
@@ -629,10 +629,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scatterbrained</td><td>scatte̊rbrāin𝕖d</td><td>scatt-er-brain-ed</td><td>scatt-e̊r-brāin-𝕖d</td><td>a. lacking sense or discretion</td></tr>
 <tr><td>backscattered</td><td>backscatte̊r𝕖d</td><td>back-scatt-er-ed</td><td>back-scatt-e̊r-𝕖d</td><td>v. scatter (radiation) by the atoms of the medium through which it passes</td></tr>
 <tr><td>scaup</td><td>scãup</td><td>scaup</td><td>scãup</td><td>n. diving ducks of North America having a bluish-grey bill</td></tr>
-<tr><td>scavenge</td><td>scave̊nge</td><td>scavenge</td><td>scave̊nge</td><td>v. to search through waste for useful items<br>v. to clean up refuse</td></tr>
-<tr><td>scavenger</td><td>scave̊nge̊r</td><td>scaveng-er</td><td>scave̊ng-e̊r</td><td>n. an animal that feeds on refuse; a person who cleans up</td></tr>
-<tr><td>scavenging</td><td>scave̊nging</td><td>scaveng-ing</td><td>scave̊ng-ing</td><td>v. present participle of scavenge</td></tr>
-<tr><td>scenario</td><td>scėnariō</td><td>scenario</td><td>scėnariō</td><td>n. an outline or synopsis of a play<br>n. a postulated sequence of possible events</td></tr>
+<tr><td>scavenge</td><td>scavėnge</td><td>scavenge</td><td>scavėnge</td><td>v. to search through waste for useful items<br>v. to clean up refuse</td></tr>
+<tr><td>scavenger</td><td>scavėnge̊r</td><td>scaveng-er</td><td>scavėng-e̊r</td><td>n. an animal that feeds on refuse; a person who cleans up</td></tr>
+<tr><td>scavenging</td><td>scavėnging</td><td>scaveng-ing</td><td>scavėng-ing</td><td>v. present participle of scavenge</td></tr>
+<tr><td>scenario</td><td>sce̊nàriō</td><td>scenario</td><td>sce̊nàriō</td><td>n. an outline or synopsis of a play<br>n. a postulated sequence of possible events</td></tr>
 <tr><td>scenarios</td><td>scėnariōṡ</td><td>scenario-s</td><td>scėnariō-ṡ</td><td></td></tr>
 <tr><td>ascend</td><td>åscend</td><td>a-scend</td><td>å-scend</td><td>v. to go up or climb</td></tr>
 <tr><td>ascent</td><td>åscent</td><td>a-scent</td><td>å-scent</td><td>n. the act of rising or climbing upward<br>n. an upward slope or grade</td></tr>
@@ -650,7 +650,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>descending</td><td>dėscending</td><td>de-scend-ing</td><td>dė-scend-ing</td><td>a. coming down or moving downward</td></tr>
 <tr><td>condescend</td><td>condėscend</td><td>con-de-scend</td><td>con-dė-scend</td><td>v. behave in a patronizing manner<br>v. do something considered beneath one&#x27;s dignity</td></tr>
 <tr><td>condescending</td><td>condėscending</td><td>con-de-scend-ing</td><td>con-dė-scend-ing</td><td>a. showing a feeling of patronizing superiority</td></tr>
-<tr><td>condescension</td><td>conde̊scensio̊n</td><td>con-de-scens-ion</td><td>con-de̊-scens-io̊n</td><td>n. the trait of displaying arrogance by patronizing those considered inferior</td></tr>
+<tr><td>condescension</td><td>condėscensio̊n</td><td>con-de-scens-ion</td><td>con-dė-scens-io̊n</td><td>n. the trait of displaying arrogance by patronizing those considered inferior</td></tr>
 <tr><td>condescendingly</td><td>condėscendinglẏ</td><td>con-de-scend-ing-ly</td><td>con-dė-scend-ing-lẏ</td><td>adv. with condescension; in a patronizing manner</td></tr>
 <tr><td>undescended</td><td>ûndėscendėd</td><td>un-de-scend-ed</td><td>ûn-dė-scend-ėd</td><td>a. (of the testis) remaining in the abdomen instead of descending into the scrotum</td></tr>
 <tr><td>scene</td><td>scēne</td><td>scene</td><td>scēne</td><td>n. the place where an incident occurs or has occurred<br>n. a view or landscape</td></tr>
@@ -658,9 +658,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scenes</td><td>scēn𝕖ṡ</td><td>scene-s</td><td>scēn𝕖-ṡ</td><td></td></tr>
 <tr><td>scenery</td><td>scēne̊rẏ</td><td>scen-er-y</td><td>scēn-e̊r-ẏ</td><td>n. the painted structures of a stage set that suggest a particular locale<br>n. the appearance of a place</td></tr>
 <tr><td>obscene</td><td>obscēne</td><td>ob-scene</td><td>ob-scēne</td><td>a. offensive or disgusting by accepted standards of morality and decency</td></tr>
-<tr><td>obscenity</td><td>o̊bscenitẏ</td><td>ob-scen-ity</td><td>o̊b-scen-itẏ</td><td>n. an offensive or indecent word or act</td></tr>
-<tr><td>obscenely</td><td>obscēne̊lẏ</td><td>ob-scene-ly</td><td>ob-scēne̊-lẏ</td><td>adv. to an obscene degree</td></tr>
-<tr><td>proscenium</td><td>prōscēniům</td><td>pro-scenium</td><td>prō-scēniům</td><td>n. the part of a theater stage between the curtain and the orchestra</td></tr>
+<tr><td>obscenity</td><td>obscenitẏ</td><td>ob-scen-ity</td><td>ob-scen-itẏ</td><td>n. an offensive or indecent word or act</td></tr>
+<tr><td>obscenely</td><td>obscēn𝕖lẏ</td><td>ob-scene-ly</td><td>ob-scēn𝕖-lẏ</td><td>adv. to an obscene degree</td></tr>
+<tr><td>proscenium</td><td>pro̊scēniům</td><td>pro-scenium</td><td>pro̊-scēniům</td><td>n. the part of a theater stage between the curtain and the orchestra</td></tr>
 <tr><td>scent</td><td>scent</td><td>scent</td><td>scent</td><td>n. a pleasant smell<br>vt. detect by smell</td></tr>
 <tr><td>scented</td><td>scentėd</td><td>scent-ed</td><td>scent-ėd</td><td>a. having the sense of smell<br>a. having the odor of</td></tr>
 <tr><td>scents</td><td>scents</td><td>scent-s</td><td>scent-s</td><td></td></tr>
@@ -671,37 +671,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sceptre</td><td>sceptre̊</td><td>scept-re</td><td>scept-re̊</td><td>n. a ceremonial staff held by a ruler as a symbol of authority</td></tr>
 <tr><td>sceptical</td><td>scepticål</td><td>scept-ic-al</td><td>scept-ic-ål</td><td>a. marked by or given to doubt</td></tr>
 <tr><td>scepticism</td><td>scepticiṡm</td><td>scept-ic-ism</td><td>scept-ic-iṡm</td><td>n. the disbelief in any claims of ultimate knowledge</td></tr>
-<tr><td>schadenfreude</td><td>schadėnfreude</td><td>schaden-freude</td><td>schadėn-freude</td><td>n. delight in another person&#x27;s misfortune</td></tr>
+<tr><td>schadenfreude</td><td>schàde̊nfreude̊</td><td>schaden-freude</td><td>schàde̊n-freude̊</td><td>n. delight in another person&#x27;s misfortune</td></tr>
 <tr><td>schedule</td><td>schedūle</td><td>sched-ule</td><td>sched-ūle</td><td>n. a plan for carrying out activities in a set time<br>v. arrange for a certain time</td></tr>
-<tr><td>scheduled</td><td>schedùled</td><td>sched-ul-ed</td><td>sched-ùl-ed</td><td>a. planned for a certain time</td></tr>
-<tr><td>scheduler</td><td>schedùle̊r</td><td>sched-ul-er</td><td>sched-ùl-e̊r</td><td>n. a person or device that schedules</td></tr>
+<tr><td>scheduled</td><td>schedūl𝕖d</td><td>sched-ul-ed</td><td>sched-ūl-𝕖d</td><td>a. planned for a certain time</td></tr>
+<tr><td>scheduler</td><td>schedūle̊r</td><td>sched-ul-er</td><td>sched-ūl-e̊r</td><td>n. a person or device that schedules</td></tr>
 <tr><td>scheduling</td><td>schedūling</td><td>sched-ul-ing</td><td>sched-ūl-ing</td><td>n. setting an order and time for planned events</td></tr>
 <tr><td>schedules</td><td>schedūl𝕖ṡ</td><td>sched-ule-s</td><td>sched-ūl𝕖-ṡ</td><td></td></tr>
 <tr><td>reschedule</td><td>rėschedūle</td><td>re-sched-ule</td><td>rė-sched-ūle</td><td>v. assign a new time and place for an event</td></tr>
 <tr><td>rescheduling</td><td>rēschedūling</td><td>re-sched-ul-ing</td><td>rē-sched-ūl-ing</td><td>v assign a new time and place for an event</td></tr>
-<tr><td>unscheduled</td><td>unschedūled</td><td>un-sched-ul-ed</td><td>un-sched-ūl-ed</td><td>a. not scheduled or not on a regular schedule</td></tr>
+<tr><td>unscheduled</td><td>ûnschedūl𝕖d</td><td>un-sched-ul-ed</td><td>ûn-sched-ūl-𝕖d</td><td>a. not scheduled or not on a regular schedule</td></tr>
 <tr><td>scheme</td><td>schēme</td><td>scheme</td><td>schēme</td><td>n. an elaborate and systematic plan of action<br>v. form intrigues (for) in an underhand manner<br>v. devise a system or form a scheme for</td></tr>
 <tr><td>schema</td><td>schēmå</td><td>schem-a</td><td>schēm-å</td><td>n. a structured framework or outline of a plan or concept</td></tr>
 <tr><td>schemer</td><td>schēme̊r</td><td>schem-er</td><td>schēm-e̊r</td><td>n. a planner who draws up a personal scheme of action</td></tr>
-<tr><td>schematic</td><td>schėmatic</td><td>schemat-ic</td><td>schėmat-ic</td><td>n. diagram of an electrical or mechanical system</td></tr>
+<tr><td>schematic</td><td>schēmatic</td><td>schemat-ic</td><td>schēmat-ic</td><td>n. diagram of an electrical or mechanical system</td></tr>
 <tr><td>schematize</td><td>schēmåtīze</td><td>schemat-ize</td><td>schēmåt-īze</td><td>v. formulate in regular order; to reduce to a scheme or formula<br>v. give conventional form to</td></tr>
 <tr><td>scheming</td><td>schēming</td><td>schem-ing</td><td>schēm-ing</td><td>a. concealing crafty designs for advancing your own interest<br>v. form intrigues in an underhand manner</td></tr>
 <tr><td>schemes</td><td>sc𝕙ēm𝕖ṡ</td><td>scheme-s</td><td>sc𝕙ēm𝕖-ṡ</td><td></td></tr>
-<tr><td>schematics</td><td>schėmatics</td><td>schemat-ic-s</td><td>schėmat-ic-s</td><td>n. a diagram of an electrical or mechanical system</td></tr>
-<tr><td>schematically</td><td>schėmaticållẏ</td><td>schemat-ic-al-ly</td><td>schėmat-ic-ål-lẏ</td><td>adv. in a schematic manner</td></tr>
+<tr><td>schematics</td><td>schēmatics</td><td>schemat-ic-s</td><td>schēmat-ic-s</td><td>n. a diagram of an electrical or mechanical system</td></tr>
+<tr><td>schematically</td><td>schēmaticållẏ</td><td>schemat-ic-al-ly</td><td>schēmat-ic-ål-lẏ</td><td>adv. in a schematic manner</td></tr>
 <tr><td>scherzo</td><td>scherzō</td><td>scherzo</td><td>scherzō</td><td>n. a fast movement (usually in triple time)</td></tr>
-<tr><td>eschew</td><td>eschew̄</td><td>e-schew</td><td>e-schew̄</td><td>v. to avoid and stay away from deliberately</td></tr>
-<tr><td>schism</td><td>schiṡm</td><td>schism</td><td>schiṡm</td><td>n. division of a group into opposing factions</td></tr>
-<tr><td>schismatic</td><td>sc𝕙iṡmatic</td><td>schism-at-ic</td><td>sc𝕙iṡm-at-ic</td><td>a. of or relating to a schism<br>n. a person who promotes schism in a church</td></tr>
+<tr><td>eschew</td><td>ėschew̄</td><td>e-schew</td><td>ė-schew̄</td><td>v. to avoid and stay away from deliberately</td></tr>
+<tr><td>schism</td><td>sc𝕙iṡm</td><td>schism</td><td>sc𝕙iṡm</td><td>n. division of a group into opposing factions</td></tr>
+<tr><td>schismatic</td><td>sc𝕙ismatic</td><td>schism-at-ic</td><td>sc𝕙ism-at-ic</td><td>a. of or relating to a schism<br>n. a person who promotes schism in a church</td></tr>
 <tr><td>schist</td><td>schist</td><td>schist</td><td>schist</td><td>n. any metamorphic rock that can be split into thin layers</td></tr>
 <tr><td>schizoid</td><td>schizoid</td><td>schiz-oid</td><td>schiz-oid</td><td>a. of or relating to schizophrenia<br>a. marked by withdrawal and inability to form close relationships</td></tr>
 <tr><td>schizophrenia</td><td>schizo̊phrēniå</td><td>schiz-o-phren-ia</td><td>schiz-o̊-phrēn-iå</td><td>n. a mental disorder characterized by distortions of reality</td></tr>
-<tr><td>schizophrenic</td><td>schizo̊phrenic</td><td>schiz-o-phren-ic</td><td>schiz-o̊-phren-ic</td><td>a. suffering from schizophrenia<br>n. someone afflicted with schizophrenia</td></tr>
+<tr><td>schizophrenic</td><td>sc𝕙izo̊phrenic</td><td>schiz-o-phren-ic</td><td>sc𝕙iz-o̊-phren-ic</td><td>a. suffering from schizophrenia<br>n. someone afflicted with schizophrenia</td></tr>
 <tr><td>schlep</td><td>schlep</td><td>schlep</td><td>schlep</td><td>n. a tedious or difficult journey<br>v. drag or haul with effort</td></tr>
 <tr><td>schlemiel</td><td>schle̊miēl</td><td>schlemiel</td><td>schle̊miēl</td><td>n. (Yiddish) a dolt who is a habitual bungler</td></tr>
 <tr><td>schlock</td><td>schlock</td><td>schlock</td><td>schlock</td><td>n. merchandise that is shoddy or inferior</td></tr>
 <tr><td>schlocky</td><td>schlockẏ</td><td>schlock-y</td><td>schlock-ẏ</td><td>a. of inferior quality; trashy</td></tr>
-<tr><td>schmaltz</td><td>schmàltz</td><td>schmaltz</td><td>schmàltz</td><td>n. (Yiddish) excessive sentimentality in art or music</td></tr>
+<tr><td>schmaltz</td><td>schmaltz</td><td>schmaltz</td><td>schmaltz</td><td>n. (Yiddish) excessive sentimentality in art or music</td></tr>
 <tr><td>schmaltzy</td><td>schmaltzẏ</td><td>schmaltz-y</td><td>schmaltz-ẏ</td><td>a. effusively or insincerely emotional</td></tr>
 <tr><td>schmo</td><td>schmō</td><td>schmo</td><td>schmō</td><td>n. (Yiddish) a jerk</td></tr>
 <tr><td>schmooze</td><td>schmooze</td><td>schmooze</td><td>schmooze</td><td>n an informal conversation<br>v talk idly or casually and in a friendly way</td></tr>
@@ -720,12 +720,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scholasticism</td><td>scho̊lasticiṡm</td><td>schol-ast-ic-ism</td><td>scho̊l-ast-ic-iṡm</td><td>n. the system of medieval European philosophy based on Aristotle and the Church Fathers</td></tr>
 <tr><td>scholastics</td><td>scho̊lastics</td><td>schol-ast-ic-s</td><td>scho̊l-ast-ic-s</td><td>n. a Scholastic philosopher or theologian</td></tr>
 <tr><td>scholarships</td><td>scholårships</td><td>schol-ar-ship-s</td><td>schol-år-ship-s</td><td></td></tr>
-<tr><td>interscholastic</td><td>inte̊rscho̊lastic</td><td>inter-schol-ast-ic</td><td>inte̊r-scho̊l-ast-ic</td><td>a. used of competition or cooperation between secondary schools</td></tr>
+<tr><td>interscholastic</td><td>inte̊rsc𝕙o̊lastic</td><td>inter-schol-ast-ic</td><td>inte̊r-sc𝕙o̊l-ast-ic</td><td>a. used of competition or cooperation between secondary schools</td></tr>
 <tr><td>school</td><td>school</td><td>school</td><td>school</td><td>n. an educational institution; a group of persons with common principles<br>vt. to educate or train</td></tr>
 <tr><td>schoolbag</td><td>schoolbag</td><td>school-bag</td><td>school-bag</td><td>n. a bag for carrying schoolbooks</td></tr>
 <tr><td>schoolbook</td><td>schoolbook</td><td>school-book</td><td>school-book</td><td>n. a book prepared for use in schools or colleges</td></tr>
 <tr><td>schoolboy</td><td>schoolboẏ</td><td>school-boy</td><td>school-boẏ</td><td>n. a boy attending school</td></tr>
-<tr><td>schoolbus</td><td>schoolbůs</td><td>school-bus</td><td>school-bůs</td><td>n. a bus used to transport children to and from school</td></tr>
+<tr><td>schoolbus</td><td>schoolbûs</td><td>school-bus</td><td>school-bûs</td><td>n. a bus used to transport children to and from school</td></tr>
 <tr><td>schoolchild</td><td>schoolchīld</td><td>school-child</td><td>school-chīld</td><td>n. a child attending school</td></tr>
 <tr><td>schooled</td><td>school𝕖d</td><td>school-ed</td><td>school-𝕖d</td><td>v. educate or train<br>a. educated, trained</td></tr>
 <tr><td>schoolgirl</td><td>schoolgi̊rl</td><td>school-girl</td><td>school-gi̊rl</td><td>n. a girl attending school</td></tr>
@@ -743,55 +743,55 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>schoolteacher</td><td>schooltēache̊r</td><td>school-teach-er</td><td>school-tēach-e̊r</td><td>n. a teacher in a school below the college level</td></tr>
 <tr><td>after-school</td><td>àfte̊r-sc𝕙ool</td><td>after-school</td><td>àfte̊r-sc𝕙ool</td><td>a. taking place after the school day ends</td></tr>
 <tr><td>B-school</td><td></td><td>B-school</td><td></td><td>n. a business school</td></tr>
-<tr><td>preschool</td><td>prėschool</td><td>pre-school</td><td>prė-school</td><td>n. an educational institution for young children before elementary school<br>a. relating to preschool education</td></tr>
-<tr><td>preschooler</td><td>prēschoole̊r</td><td>pre-school-er</td><td>prē-school-e̊r</td><td>n. a child who is not yet old enough for school</td></tr>
-<tr><td>unschooled</td><td>unschool𝕖d</td><td>un-school-ed</td><td>un-school-𝕖d</td><td>a. lacking in schooling</td></tr>
-<tr><td>schooner</td><td>schoone̊r</td><td>schoon-er</td><td>schoon-e̊r</td><td>n. a sailing ship with two or more masts</td></tr>
+<tr><td>preschool</td><td>prēschool</td><td>pre-school</td><td>prē-school</td><td>n. an educational institution for young children before elementary school<br>a. relating to preschool education</td></tr>
+<tr><td>preschooler</td><td>prēsc𝕙oole̊r</td><td>pre-school-er</td><td>prē-sc𝕙ool-e̊r</td><td>n. a child who is not yet old enough for school</td></tr>
+<tr><td>unschooled</td><td>ûnschool𝕖d</td><td>un-school-ed</td><td>ûn-school-𝕖d</td><td>a. lacking in schooling</td></tr>
+<tr><td>schooner</td><td>sc𝕙oone̊r</td><td>schoon-er</td><td>sc𝕙oon-e̊r</td><td>n. a sailing ship with two or more masts</td></tr>
 <tr><td>festschrift</td><td>festschrift</td><td>fest-schrift</td><td>fest-schrift</td><td>n. a collection of writings published in honor of a scholar</td></tr>
 <tr><td>schtick</td><td>schtick</td><td>schtick</td><td>schtick</td><td>n. a contrived and often used bit of business that a performer uses to steal attention<br>n. a devious trick</td></tr>
-<tr><td>sciatic</td><td>scīatic</td><td>sci-atic</td><td>scī-atic</td><td>a. relating to or caused by or afflicted with sciatica<br>a. of or relating to the ischium (or the part of the hipbone containing it)</td></tr>
+<tr><td>sciatic</td><td>scīåtic</td><td>sci-atic</td><td>scī-åtic</td><td>a. relating to or caused by or afflicted with sciatica<br>a. of or relating to the ischium (or the part of the hipbone containing it)</td></tr>
 <tr><td>science</td><td>scīe̊nce</td><td>sci-ence</td><td>scī-e̊nce</td><td>n. the systematic study of the natural world through observation and experiment</td></tr>
 <tr><td>sciatica</td><td>scīaticå</td><td>sci-at-ica</td><td>scī-at-icå</td><td>n. neuralgia along the sciatic nerve</td></tr>
-<tr><td>scientism</td><td>scīentiṡm</td><td>sci-ent-ism</td><td>scī-ent-iṡm</td><td>n. the belief that the methods of natural science should apply to all fields of inquiry</td></tr>
+<tr><td>scientism</td><td>scīe̊ntiṡm</td><td>sci-ent-ism</td><td>scī-e̊nt-iṡm</td><td>n. the belief that the methods of natural science should apply to all fields of inquiry</td></tr>
 <tr><td>scientist</td><td>scīe̊ntist</td><td>sci-ent-ist</td><td>scī-e̊nt-ist</td><td>n. a person with advanced knowledge of one or more sciences</td></tr>
-<tr><td>sciolism</td><td>scīo̊liṡm</td><td>sci-ol-ism</td><td>scī-o̊l-iṡm</td><td>n. superficial knowledge</td></tr>
+<tr><td>sciolism</td><td>scīōliṡm</td><td>sci-ol-ism</td><td>scī-ōl-iṡm</td><td>n. superficial knowledge</td></tr>
 <tr><td>sciences</td><td>scīe̊ncėṡ</td><td>sci-ence-s</td><td>scī-e̊ncė-ṡ</td><td></td></tr>
 <tr><td>scientific</td><td>scīe̊ntific</td><td>sci-ent-if-ic</td><td>scī-e̊nt-if-ic</td><td>a. relating to or based on science</td></tr>
-<tr><td>scientistic</td><td>scīentistic</td><td>sci-ent-ist-ic</td><td>scī-ent-ist-ic</td><td>a. of or relating to scientism</td></tr>
+<tr><td>scientistic</td><td>scīe̊ntistic</td><td>sci-ent-ist-ic</td><td>scī-e̊nt-ist-ic</td><td>a. of or relating to scientism</td></tr>
 <tr><td>scientists</td><td>scīe̊ntists</td><td>sci-ent-ist-s</td><td>scī-e̊nt-ist-s</td><td></td></tr>
-<tr><td>scientifically</td><td>scīentificållẏ</td><td>sci-ent-if-ic-al-ly</td><td>scī-ent-if-ic-ål-lẏ</td><td>adv. with respect to science; in a scientific way</td></tr>
+<tr><td>scientifically</td><td>scīe̊ntificållẏ</td><td>sci-ent-if-ic-al-ly</td><td>scī-e̊nt-if-ic-ål-lẏ</td><td>adv. with respect to science; in a scientific way</td></tr>
 <tr><td>agro-scientific</td><td></td><td>agro-sci-ent-if-ic</td><td></td><td></td></tr>
-<tr><td>bioscience</td><td>bīōscīence</td><td>bio-sci-ence</td><td>bīō-scī-ence</td><td>n. any branch of natural science dealing with the structure and behavior of living things</td></tr>
+<tr><td>bioscience</td><td>bīōscīe̊nce</td><td>bio-sci-ence</td><td>bīō-scī-e̊nce</td><td>n. any branch of natural science dealing with the structure and behavior of living things</td></tr>
 <tr><td>conscience</td><td>conscie̊nce</td><td>con-sci-ence</td><td>con-sci-e̊nce</td><td>n. an inner feeling or voice acting as a guide to the rightness of one behavior</td></tr>
 <tr><td>conscious</td><td>conscio̊us</td><td>con-sci-ous</td><td>con-sci-o̊us</td><td>a. aware of and responding to one&#x27;s surroundings and thoughts</td></tr>
 <tr><td>conscientious</td><td>conscientio̊us</td><td>con-sci-ent-ious</td><td>con-sci-ent-io̊us</td><td>a. characterized by great care and effort; guided by conscience</td></tr>
-<tr><td>conscienceless</td><td>conscie̊ncelėss</td><td>con-sci-ence-less</td><td>con-sci-e̊nce-lėss</td><td>a. lacking a conscience</td></tr>
+<tr><td>conscienceless</td><td>conscie̊nc𝕖lėss</td><td>con-sci-ence-less</td><td>con-sci-e̊nc𝕖-lėss</td><td>a. lacking a conscience</td></tr>
 <tr><td>consciously</td><td>conscio̊uslẏ</td><td>con-sci-ous-ly</td><td>con-sci-o̊us-lẏ</td><td>adv. with awareness</td></tr>
 <tr><td>consciousness</td><td>conscio̊usnėss</td><td>con-sci-ous-ness</td><td>con-sci-o̊us-nėss</td><td>n. the state of being aware of one&#x27;s surroundings, thoughts, and feelings</td></tr>
 <tr><td>consciences</td><td>conscie̊ncėṡ</td><td>con-sci-ence-s</td><td>con-sci-e̊ncė-ṡ</td><td></td></tr>
 <tr><td>conscientiously</td><td>conscientio̊uslẏ</td><td>con-sci-ent-ious-ly</td><td>con-sci-ent-io̊us-lẏ</td><td>adv. with extreme conscientiousness</td></tr>
 <tr><td>conscientiousness</td><td>conscientio̊usnėss</td><td>con-sci-ent-ious-ness</td><td>con-sci-ent-io̊us-nėss</td><td>n. the quality of being thorough and careful</td></tr>
-<tr><td>nanoscience</td><td>nànōscīence</td><td>nano-sci-ence</td><td>nànō-scī-ence</td><td>n. the study of structures and materials on the nanometer scale</td></tr>
+<tr><td>nanoscience</td><td>nanōscīe̊nce</td><td>nano-sci-ence</td><td>nanō-scī-e̊nce</td><td>n. the study of structures and materials on the nanometer scale</td></tr>
 <tr><td>nescient</td><td>nescie̊nt</td><td>ne-sci-ent</td><td>ne-sci-e̊nt</td><td>a. lacking knowledge; ignorant</td></tr>
-<tr><td>nonscientific</td><td>nonscīentific</td><td>non-sci-ent-if-ic</td><td>non-scī-ent-if-ic</td><td>a. not scientific</td></tr>
+<tr><td>nonscientific</td><td>nonscīe̊ntific</td><td>non-sci-ent-if-ic</td><td>non-scī-e̊nt-if-ic</td><td>a. not scientific</td></tr>
 <tr><td>omniscience</td><td>omniscie̊nce</td><td>omni-sci-ence</td><td>omni-sci-e̊nce</td><td>n. the state of being omniscient; having infinite knowledge</td></tr>
 <tr><td>omniscient</td><td>omniscie̊nt</td><td>omni-sci-ent</td><td>omni-sci-e̊nt</td><td>a. infinitely wise</td></tr>
-<tr><td>prescience</td><td>prėscie̊nce</td><td>pre-sci-ence</td><td>prė-sci-e̊nce</td><td>n. the power to foresee the future</td></tr>
-<tr><td>prescient</td><td>presciēnt</td><td>pre-sci-ent</td><td>pre-sci-ēnt</td><td>a. having knowledge of events before they occur</td></tr>
+<tr><td>prescience</td><td>prēscie̊nce</td><td>pre-sci-ence</td><td>prē-sci-e̊nce</td><td>n. the power to foresee the future</td></tr>
+<tr><td>prescient</td><td>prēscie̊nt</td><td>pre-sci-ent</td><td>prē-sci-e̊nt</td><td>a. having knowledge of events before they occur</td></tr>
 <tr><td>pseudoscience</td><td>𝕡seūdōscīe̊nce</td><td>pseudo-sci-ence</td><td>𝕡seūdō-scī-e̊nce</td><td>n. an activity resembling science but based on fallacious assumptions</td></tr>
-<tr><td>presciently</td><td>presciēntlẏ</td><td>pre-sci-ent-ly</td><td>pre-sci-ēnt-lẏ</td><td>adv. with foresight</td></tr>
-<tr><td>unscientific</td><td>ûnscīentific</td><td>un-sci-ent-if-ic</td><td>ûn-scī-ent-if-ic</td><td>a. not consistent with the methods or principles of science</td></tr>
-<tr><td>neuroscience</td><td>neūrōscīence</td><td>neur-o-science</td><td>neūr-ō-scīence</td><td>n. the scientific study of the nervous system</td></tr>
-<tr><td>neuroscientist</td><td>neūrōscīentist</td><td>neur-o-scientist</td><td>neūr-ō-scīentist</td><td>n. a neurobiologist who specializes in the study of the brain</td></tr>
+<tr><td>presciently</td><td>prēscie̊ntlẏ</td><td>pre-sci-ent-ly</td><td>prē-sci-e̊nt-lẏ</td><td>adv. with foresight</td></tr>
+<tr><td>unscientific</td><td>ûnscīe̊ntific</td><td>un-sci-ent-if-ic</td><td>ûn-scī-e̊nt-if-ic</td><td>a. not consistent with the methods or principles of science</td></tr>
+<tr><td>neuroscience</td><td>neūro̊scīe̊nce</td><td>neur-o-science</td><td>neūr-o̊-scīe̊nce</td><td>n. the scientific study of the nervous system</td></tr>
+<tr><td>neuroscientist</td><td>neūro̊scīe̊ntist</td><td>neur-o-scientist</td><td>neūr-o̊-scīe̊ntist</td><td>n. a neurobiologist who specializes in the study of the brain</td></tr>
 <tr><td>semiconscious</td><td>semiconscio̊us</td><td>semi-con-sci-ous</td><td>semi-con-sci-o̊us</td><td>a. partially conscious</td></tr>
 <tr><td>subconscious</td><td>sûbconscio̊us</td><td>sub-con-sci-ous</td><td>sûb-con-sci-o̊us</td><td>a. just below the level of consciousness</td></tr>
-<tr><td>subconsciously</td><td>sůbconscio̊uslẏ</td><td>sub-con-sci-ous-ly</td><td>sůb-con-sci-o̊us-lẏ</td><td>adv. from the subconscious mind</td></tr>
+<tr><td>subconsciously</td><td>sûbconscio̊uslẏ</td><td>sub-con-sci-ous-ly</td><td>sûb-con-sci-o̊us-lẏ</td><td>adv. from the subconscious mind</td></tr>
 <tr><td>unconscious</td><td>ûnconscio̊us</td><td>un-con-sci-ous</td><td>ûn-con-sci-o̊us</td><td>a. not conscious; unaware<br>a. done without conscious thought</td></tr>
-<tr><td>unconscionable</td><td>unconscio̊nåble</td><td>un-con-sci-on-able</td><td>un-con-sci-o̊n-åble</td><td>a. greatly exceeding bounds of reason or moderation</td></tr>
+<tr><td>unconscionable</td><td>ûnconscio̊nåble</td><td>un-con-sci-on-able</td><td>ûn-con-sci-o̊n-åble</td><td>a. greatly exceeding bounds of reason or moderation</td></tr>
 <tr><td>unconsciously</td><td>ûnconscio̊uslẏ</td><td>un-con-sci-ous-ly</td><td>ûn-con-sci-o̊us-lẏ</td><td>adv. without awareness</td></tr>
 <tr><td>unconsciousness</td><td>ûnconscio̊usnėss</td><td>un-con-sci-ous-ness</td><td>ûn-con-sci-o̊us-nėss</td><td>n. a state lacking normal awareness of the self or environment</td></tr>
-<tr><td>unconscionably</td><td>unconscio̊nåblẏ</td><td>un-con-sci-on-ab-ly</td><td>un-con-sci-o̊n-åb-lẏ</td><td>adv. unreasonably or excessively</td></tr>
-<tr><td>unselfconsciously</td><td>unselfconscio̊uslẏ</td><td>un-self-con-sci-ous-ly</td><td>un-self-con-sci-o̊us-lẏ</td><td>adv. in a comfortable unselfconscious manner</td></tr>
+<tr><td>unconscionably</td><td>ûnconscio̊nåblẏ</td><td>un-con-sci-on-ab-ly</td><td>ûn-con-sci-o̊n-åb-lẏ</td><td>adv. unreasonably or excessively</td></tr>
+<tr><td>unselfconsciously</td><td>ûnselfconscio̊uslẏ</td><td>un-self-con-sci-ous-ly</td><td>ûn-self-con-sci-o̊us-lẏ</td><td>adv. in a comfortable unselfconscious manner</td></tr>
 <tr><td>scimitar</td><td>scimitår</td><td>scimitar</td><td>scimitår</td><td>n. a curved oriental saber; the edge is on the convex side of the blade</td></tr>
 <tr><td>rescind</td><td>rėscind</td><td>re-scind</td><td>rė-scind</td><td>v cancel officially</td></tr>
 <tr><td>scintilla</td><td>scintillå</td><td>scintill-a</td><td>scintill-å</td><td>n. a sparkling glittering particle</td></tr>
@@ -802,26 +802,26 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scission</td><td>scissio̊n</td><td>sciss-ion</td><td>sciss-io̊n</td><td>n. the act of cutting or dividing</td></tr>
 <tr><td>scissor</td><td>scisṡo̊r</td><td>sciss-or</td><td>scisṡ-o̊r</td><td>v. cut with or as if with scissors</td></tr>
 <tr><td>scissors</td><td>scisṡo̊rṡ</td><td>sciss-or-s</td><td>scisṡ-o̊r-ṡ</td><td>n. a cutting instrument with two blades</td></tr>
-<tr><td>abscissa</td><td>abscisså</td><td>ab-sciss-a</td><td>ab-sciss-å</td><td>n. the x-coordinate in a Cartesian coordinate system</td></tr>
-<tr><td>abscission</td><td>abscissio̊n</td><td>ab-sciss-ion</td><td>ab-sciss-io̊n</td><td>n. the act of cutting off; the natural shedding of a plant part</td></tr>
+<tr><td>abscissa</td><td>åbscisså</td><td>ab-sciss-a</td><td>åb-sciss-å</td><td>n. the x-coordinate in a Cartesian coordinate system</td></tr>
+<tr><td>abscission</td><td>åbscissio̊n</td><td>ab-sciss-ion</td><td>åb-sciss-io̊n</td><td>n. the act of cutting off; the natural shedding of a plant part</td></tr>
 <tr><td>rescission</td><td>rėscissio̊n</td><td>re-sciss-ion</td><td>rė-sciss-io̊n</td><td>n. the act of rescinding; the cancellation of a contract</td></tr>
-<tr><td>sclerosis</td><td>scle̊rōsi̊s</td><td>scler-osis</td><td>scle̊r-ōsi̊s</td><td>n. a pathological hardening or thickening of tissue</td></tr>
-<tr><td>scleroderma</td><td>sclēro̊de̊rmå</td><td>scler-o-derma</td><td>sclēr-o̊-de̊rmå</td><td>n. an autoimmune disease that affects the blood vessels and connective tissue</td></tr>
-<tr><td>arteriosclerosis</td><td>àrtēriōscle̊rōsi̊s</td><td>arterio-scler-osis</td><td>àrtēriō-scle̊r-ōsi̊s</td><td>n. sclerosis of the arterial walls</td></tr>
-<tr><td>atherosclerosis</td><td>athe̊rōscle̊rōsis</td><td>athero-scler-osis</td><td>athe̊rō-scle̊r-ōsis</td><td>n. a disease in which fatty deposits narrow the arteries</td></tr>
-<tr><td>otosclerosis</td><td>ōtōscle̊rōsis</td><td>oto-scler-osis</td><td>ōtō-scle̊r-ōsis</td><td>n. hereditary ossification of the inner ear causing tinnitus and eventual deafness</td></tr>
+<tr><td>sclerosis</td><td>scle̊rōsis</td><td>scler-osis</td><td>scle̊r-ōsis</td><td>n. a pathological hardening or thickening of tissue</td></tr>
+<tr><td>scleroderma</td><td>sclerōde̊rmå</td><td>scler-o-derma</td><td>scler-ō-de̊rmå</td><td>n. an autoimmune disease that affects the blood vessels and connective tissue</td></tr>
+<tr><td>arteriosclerosis</td><td>àrtērioscle̊rōsis</td><td>arterio-scler-osis</td><td>àrtērio-scle̊r-ōsis</td><td>n. sclerosis of the arterial walls</td></tr>
+<tr><td>atherosclerosis</td><td>athe̊roscle̊rōsis</td><td>athero-scler-osis</td><td>athe̊ro-scle̊r-ōsis</td><td>n. a disease in which fatty deposits narrow the arteries</td></tr>
+<tr><td>otosclerosis</td><td>oto̊scle̊rōsis</td><td>oto-scler-osis</td><td>oto̊-scle̊r-ōsis</td><td>n. hereditary ossification of the inner ear causing tinnitus and eventual deafness</td></tr>
 <tr><td>sclerotic</td><td>scle̊rotic</td><td>sclerot-ic</td><td>scle̊rot-ic</td><td>a. relating to or having sclerosis; hardened<br>a. of or relating to the sclera of the eyeball</td></tr>
-<tr><td>atherosclerotic</td><td>athe̊rōscle̊rotic</td><td>ather-o-sclerot-ic</td><td>athe̊r-ō-scle̊rot-ic</td><td>a. of or relating to atherosclerosis</td></tr>
+<tr><td>atherosclerotic</td><td>athe̊roscle̊rotic</td><td>ather-o-sclerot-ic</td><td>athe̊r-o-scle̊rot-ic</td><td>a. of or relating to atherosclerosis</td></tr>
 <tr><td>scoff</td><td>scoff</td><td>scoff</td><td>scoff</td><td>v. to laugh at or mock<br>v. to eat greedily</td></tr>
 <tr><td>scoffer</td><td>scoffe̊r</td><td>scoff-er</td><td>scoff-e̊r</td><td>n. someone who eats food rapidly and greedily<br>n. someone who jeers or mocks or treats something with contempt or calls out in derision</td></tr>
 <tr><td>scofflaw</td><td>scofflãw</td><td>scoff-law</td><td>scoff-lãw</td><td>n. one who habitually ignores the law and does not answer court summonses</td></tr>
 <tr><td>scold</td><td>scōld</td><td>scold</td><td>scōld</td><td>v. scold or blame angrily</td></tr>
 <tr><td>scolding</td><td>scōlding</td><td>scold-ing</td><td>scōld-ing</td><td>n. rebuking a person harshly<br>v. censure severely or angrily</td></tr>
-<tr><td>scoliosis</td><td>scoliōsis</td><td>scoli-osis</td><td>scoli-ōsis</td><td>n. an abnormal lateral curve to the vertebral column</td></tr>
-<tr><td>ensconce</td><td>ėnsconce</td><td>en-sconce</td><td>ėn-sconce</td><td>vt. to establish or settle comfortably</td></tr>
-<tr><td>ensconced</td><td>ėnsconc𝕖ḋ</td><td>en-sconc-ed</td><td>ėn-sconc-𝕖ḋ</td><td>a. settled comfortably or securely</td></tr>
+<tr><td>scoliosis</td><td>scōliōsis</td><td>scoli-osis</td><td>scōli-ōsis</td><td>n. an abnormal lateral curve to the vertebral column</td></tr>
+<tr><td>ensconce</td><td>ensconce</td><td>en-sconce</td><td>en-sconce</td><td>vt. to establish or settle comfortably</td></tr>
+<tr><td>ensconced</td><td>ensconc𝕖ḋ</td><td>en-sconc-ed</td><td>en-sconc-𝕖ḋ</td><td>a. settled comfortably or securely</td></tr>
 <tr><td>sconce</td><td>sconce</td><td>sconce</td><td>sconce</td><td>n. a bracket fixed to a wall for holding candles or lights</td></tr>
-<tr><td>abscond</td><td>abscond</td><td>ab-scond</td><td>ab-scond</td><td>v. run away; usually includes taking something or somebody along</td></tr>
+<tr><td>abscond</td><td>åbscond</td><td>ab-scond</td><td>åb-scond</td><td>v. run away; usually includes taking something or somebody along</td></tr>
 <tr><td>scone</td><td>scōne</td><td>scone</td><td>scōne</td><td>n. a small biscuit rich with cream and eggs</td></tr>
 <tr><td>scoop</td><td>scoop</td><td>scoop</td><td>scoop</td><td>n. a tool with a curved blade for lifting substances<br>n. a piece of news published before rivals<br>v. to pick up with a scoop</td></tr>
 <tr><td>scooped</td><td>scoop𝕖ḋ</td><td>scoop-ed</td><td>scoop-𝕖ḋ</td><td>v. take out or up with or as if with a scoop<br>v. get the better of</td></tr>
@@ -836,11 +836,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scopic</td><td>scopic</td><td>scop-ic</td><td>scop-ic</td><td>a. of or relating to viewing or observation</td></tr>
 <tr><td>endoscope</td><td>endōscōpe</td><td>endo-scope</td><td>endō-scōpe</td><td>n. a long slender medical instrument for examining the interior of a bodily organ</td></tr>
 <tr><td>episcopal</td><td>ėpisco̊pål</td><td>epi-scop-al</td><td>ėpi-sco̊p-ål</td><td>a. relating to a bishop or bishops</td></tr>
-<tr><td>episcopate</td><td>ėpisco̊pȧte</td><td>epi-scop-ate</td><td>ėpi-sco̊p-ȧte</td><td>n. the term of office of a bishop</td></tr>
+<tr><td>episcopate</td><td>ėpisco̊pāte</td><td>epi-scop-ate</td><td>ėpi-sco̊p-āte</td><td>n. the term of office of a bishop</td></tr>
 <tr><td>endoscopic</td><td>endōscopic</td><td>endo-scop-ic</td><td>endō-scop-ic</td><td>a. of or relating to endoscopy</td></tr>
-<tr><td>endoscopy</td><td>endoscopẏ</td><td>endo-scop-y</td><td>endo-scop-ẏ</td><td>n. visual examination of the interior of a hollow body organ by use of an endoscope</td></tr>
+<tr><td>endoscopy</td><td>endōsco̊pẏ</td><td>endo-scop-y</td><td>endō-sco̊p-ẏ</td><td>n. visual examination of the interior of a hollow body organ by use of an endoscope</td></tr>
 <tr><td>episcopalian</td><td>ėpisco̊pāliån</td><td>epi-scop-al-ian</td><td>ėpi-sco̊p-āl-iån</td><td>n. a member of the Episcopal church</td></tr>
-<tr><td>endoscopically</td><td>endōscōpicållẏ</td><td>endo-scop-ic-al-ly</td><td>endō-scōp-ic-ål-lẏ</td><td>adv. by means of an endoscope</td></tr>
+<tr><td>endoscopically</td><td>endōscopicållẏ</td><td>endo-scop-ic-al-ly</td><td>endō-scop-ic-ål-lẏ</td><td>adv. by means of an endoscope</td></tr>
 <tr><td>gyroscope</td><td>gȳro̊scōpe</td><td>gyro-scope</td><td>gȳro̊-scōpe</td><td>n. a spinning wheel mechanism that resists turns in any direction</td></tr>
 <tr><td>gyroscopic</td><td>gȳro̊scopic</td><td>gyro-scop-ic</td><td>gȳro̊-scop-ic</td><td>a. having the characteristics of a gyroscope</td></tr>
 <tr><td>horoscope</td><td>horo̊scōpe</td><td>horo-scope</td><td>horo̊-scōpe</td><td>n. a prediction of someone&#x27;s future based on the relative positions of the planets</td></tr>
@@ -848,34 +848,34 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>kinescope</td><td>kīnėscōpe</td><td>kine-scope</td><td>kīnė-scōpe</td><td>n. a cathode-ray tube in a television receiver that translates the signal into a picture</td></tr>
 <tr><td>microscope</td><td>mīcro̊scōpe</td><td>micro-scope</td><td>mīcro̊-scōpe</td><td>n. magnifier of the image of small objects</td></tr>
 <tr><td>mutoscope</td><td>mūto̊scōpe</td><td>muto-scope</td><td>mūto̊-scōpe</td><td>n. an early motion picture device</td></tr>
-<tr><td>macroscopic</td><td>macrōscopic</td><td>macro-scop-ic</td><td>macrō-scop-ic</td><td>a. visible to the naked eye<br>a. large enough to be visible with the naked eye</td></tr>
+<tr><td>macroscopic</td><td>macro̊scopic</td><td>macro-scop-ic</td><td>macro̊-scop-ic</td><td>a. visible to the naked eye<br>a. large enough to be visible with the naked eye</td></tr>
 <tr><td>microscopic</td><td>mīcro̊scopic</td><td>micro-scop-ic</td><td>mīcro̊-scop-ic</td><td>a. extremely small<br>a. relating to or used in microscopy</td></tr>
-<tr><td>microscopist</td><td>mīcrosco̊pist</td><td>micro-scop-ist</td><td>mīcro-sco̊p-ist</td><td>n. a scientist who specializes in research with the use of microscopes</td></tr>
-<tr><td>microscopy</td><td>mīcro̊sco̊pẏ</td><td>micro-scop-y</td><td>mīcro̊-sco̊p-ẏ</td><td>n. research with the use of microscopes</td></tr>
-<tr><td>macroscopically</td><td>macrōscopicållẏ</td><td>macro-scop-ic-al-ly</td><td>macrō-scop-ic-ål-lẏ</td><td>adv. without using a microscope</td></tr>
+<tr><td>microscopist</td><td>mīcro̊scopist</td><td>micro-scop-ist</td><td>mīcro̊-scop-ist</td><td>n. a scientist who specializes in research with the use of microscopes</td></tr>
+<tr><td>microscopy</td><td>mīcrosco̊pẏ</td><td>micro-scop-y</td><td>mīcro-sco̊p-ẏ</td><td>n. research with the use of microscopes</td></tr>
+<tr><td>macroscopically</td><td>macro̊scopicållẏ</td><td>macro-scop-ic-al-ly</td><td>macro̊-scop-ic-ål-lẏ</td><td>adv. without using a microscope</td></tr>
 <tr><td>microscopically</td><td>mīcro̊scopicållẏ</td><td>micro-scop-ic-al-ly</td><td>mīcro̊-scop-ic-ål-lẏ</td><td>adv. by using a microscope<br>adv. in minute detail</td></tr>
 <tr><td>oscilloscope</td><td>oscillo̊scōpe</td><td>oscillo-scope</td><td>oscillo̊-scōpe</td><td>n. electronic equipment that provides visual images of varying electrical quantities</td></tr>
-<tr><td>periscope</td><td>pèri̊scōpe</td><td>peri-scope</td><td>pèri̊-scōpe</td><td>n. an optical instrument that provides a view of an otherwise obstructed field</td></tr>
+<tr><td>periscope</td><td>periscōpe</td><td>peri-scope</td><td>peri-scōpe</td><td>n. an optical instrument that provides a view of an otherwise obstructed field</td></tr>
 <tr><td>stethoscope</td><td>stetho̊scōpe</td><td>stetho-scope</td><td>stetho̊-scōpe</td><td>n. a medical instrument for listening to sounds inside the body</td></tr>
 <tr><td>telescope</td><td>telėscōpe</td><td>tele-scope</td><td>telė-scōpe</td><td>n. a magnifier of images of distant objects<br>v. crush together or collapse<br>v. make smaller or shorter</td></tr>
-<tr><td>telescopic</td><td>tele̊scopic</td><td>tele-scop-ic</td><td>tele̊-scop-ic</td><td>a. having parts that slide one within another<br>a. visible only with a telescope</td></tr>
+<tr><td>telescopic</td><td>telėscopic</td><td>tele-scop-ic</td><td>telė-scop-ic</td><td>a. having parts that slide one within another<br>a. visible only with a telescope</td></tr>
 <tr><td>telescoping</td><td>telėscōping</td><td>tele-scop-ing</td><td>telė-scōp-ing</td><td>v. crush together or collapse<br>v. make smaller or shorter by sliding sections together</td></tr>
 <tr><td>telescopically</td><td>telėscopicållẏ</td><td>tele-scop-ic-al-ly</td><td>telė-scop-ic-ål-lẏ</td><td>adv. in a telescopic manner</td></tr>
 <tr><td>arthroscopy</td><td>àrthrosco̊pẏ</td><td>arthr-o-scop-y</td><td>àrthr-o-sco̊p-ẏ</td><td>n. a minimally invasive surgical examination of a joint</td></tr>
-<tr><td>colonoscopy</td><td>co̊lo̊nosco̊pẏ</td><td>colon-o-scop-y</td><td>co̊lo̊n-o-sco̊p-ẏ</td><td>n. visual examination of the colon with a colonoscope</td></tr>
+<tr><td>colonoscopy</td><td>cōlo̊nosco̊pẏ</td><td>colon-o-scop-y</td><td>cōlo̊n-o-sco̊p-ẏ</td><td>n. visual examination of the colon with a colonoscope</td></tr>
 <tr><td>hygroscopic</td><td>hȳgro̊scopic</td><td>hygr-o-scop-ic</td><td>hȳgr-o̊-scop-ic</td><td>a. absorbing moisture (as from the air)</td></tr>
 <tr><td>kinetoscope</td><td>kīnēto̊scōpe</td><td>kinet-o-scope</td><td>kīnēt-o̊-scōpe</td><td>n. an early motion picture device</td></tr>
-<tr><td>laparoscope</td><td>lapåro̊sco̊pe</td><td>lapar-o-scope</td><td>lapår-o̊-sco̊pe</td><td>n. a slender endoscope inserted through the abdominal wall for examination or surgery</td></tr>
-<tr><td>laryngoscope</td><td>làrẏngo̊scōpe</td><td>laryng-o-scope</td><td>làrẏng-o̊-scōpe</td><td>n. a medical instrument for examining the larynx</td></tr>
-<tr><td>laparoscopic</td><td>lapårosco̊pic</td><td>lapar-o-scop-ic</td><td>lapår-o-sco̊p-ic</td><td>a. relating to laparoscopy</td></tr>
+<tr><td>laparoscope</td><td>lapåro̊scōpe</td><td>lapar-o-scope</td><td>lapår-o̊-scōpe</td><td>n. a slender endoscope inserted through the abdominal wall for examination or surgery</td></tr>
+<tr><td>laryngoscope</td><td>larẏngoscōpe</td><td>laryng-o-scope</td><td>larẏng-o-scōpe</td><td>n. a medical instrument for examining the larynx</td></tr>
+<tr><td>laparoscopic</td><td>lapåro̊scopic</td><td>lapar-o-scop-ic</td><td>lapår-o̊-scop-ic</td><td>a. relating to laparoscopy</td></tr>
 <tr><td>laparoscopy</td><td>lapårosco̊pẏ</td><td>lapar-o-scop-y</td><td>lapår-o-sco̊p-ẏ</td><td>n. a surgical procedure using a laparoscope to examine the abdominal cavity</td></tr>
-<tr><td>laryngoscopy</td><td>làrẏngoscōpẏ</td><td>laryng-o-scop-y</td><td>làrẏng-o-scōp-ẏ</td><td>n. examination of the larynx using a laryngoscope</td></tr>
-<tr><td>mesoscopic</td><td>mèso̊scopic</td><td>mes-o-scop-ic</td><td>mès-o̊-scop-ic</td><td>a. relating to a scale intermediate between macroscopic and microscopic</td></tr>
-<tr><td>otoscope</td><td>ōto̊scōpe</td><td>ot-o-scope</td><td>ōt-o̊-scōpe</td><td>n. a medical instrument with magnifying lens and light for examining the ear</td></tr>
+<tr><td>laryngoscopy</td><td>larẏngosco̊pẏ</td><td>laryng-o-scop-y</td><td>larẏng-o-sco̊p-ẏ</td><td>n. examination of the larynx using a laryngoscope</td></tr>
+<tr><td>mesoscopic</td><td>meso̊scopic</td><td>mes-o-scop-ic</td><td>mes-o̊-scop-ic</td><td>a. relating to a scale intermediate between macroscopic and microscopic</td></tr>
+<tr><td>otoscope</td><td>oto̊scōpe</td><td>ot-o-scope</td><td>ot-o̊-scōpe</td><td>n. a medical instrument with magnifying lens and light for examining the ear</td></tr>
 <tr><td>submicroscopic</td><td>sůbmīcro̊scopic</td><td>sub-micro-scop-ic</td><td>sůb-mīcro̊-scop-ic</td><td>a. too small to be seen with an ordinary microscope</td></tr>
 <tr><td>spectroscope</td><td>spectro̊scōpe</td><td>spectr-o-scope</td><td>spectr-o̊-scōpe</td><td>n. an optical instrument for spectrographic analysis</td></tr>
 <tr><td>spectroscopic</td><td>spectro̊scopic</td><td>spectr-o-scop-ic</td><td>spectr-o̊-scop-ic</td><td>a. of or relating to or involving spectroscopy</td></tr>
-<tr><td>spectroscopist</td><td>spectro̊scōpist</td><td>spectr-o-scop-ist</td><td>spectr-o̊-scōp-ist</td><td>n. one skilled in the use of the spectroscope</td></tr>
+<tr><td>spectroscopist</td><td>spectro̊scopist</td><td>spectr-o-scop-ist</td><td>spectr-o̊-scop-ist</td><td>n. one skilled in the use of the spectroscope</td></tr>
 <tr><td>stroboscopic</td><td>strobo̊scopic</td><td>strob-o-scop-ic</td><td>strob-o̊-scop-ic</td><td>a. relating to or using a stroboscope</td></tr>
 <tr><td>sigmoidoscopy</td><td>sigmoidosco̊pẏ</td><td>sigmoid-o-scop-y</td><td>sigmoid-o-sco̊p-ẏ</td><td>n. visual examination of the lower third of the colon in search for polyps</td></tr>
 <tr><td>scoring</td><td>scoring</td><td>scor-ing</td><td>scor-ing</td><td>n. the act of gaining points or evaluating performance</td></tr>
@@ -890,7 +890,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scored</td><td>scor𝕖d</td><td>scor-ed</td><td>scor-𝕖d</td><td></td></tr>
 <tr><td>scorer</td><td>score̊r</td><td>scor-er</td><td>scor-e̊r</td><td>n. a player who makes a score in a game or contest</td></tr>
 <tr><td>scoreless</td><td>scor𝕖lėss</td><td>score-less</td><td>scor𝕖-lėss</td><td>a. having no points scores</td></tr>
-<tr><td>scorekeeper</td><td>scorekēepe̊r</td><td>score-keep-er</td><td>score-kēep-e̊r</td><td>n. an official who records the score during the progress of a game</td></tr>
+<tr><td>scorekeeper</td><td>scor𝕖kēepe̊r</td><td>score-keep-er</td><td>scor𝕖-kēep-e̊r</td><td>n. an official who records the score during the progress of a game</td></tr>
 <tr><td>subscore</td><td>sûbscore</td><td>sub-score</td><td>sûb-score</td><td>n. a score that contributes to a total score but is kept separate</td></tr>
 <tr><td>underscore</td><td>ûnde̊rscore</td><td>under-score</td><td>ûnde̊r-score</td><td>v. to emphasize or draw attention to something<br>n. a line drawn under a word or phrase</td></tr>
 <tr><td>scorn</td><td>scorn</td><td>scorn</td><td>scorn</td><td>n. a feeling of contempt<br>v. to feel or express contempt</td></tr>
@@ -901,7 +901,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>escort</td><td>escort</td><td>e-scort</td><td>e-scort</td><td>n. a person or group accompanying another for protection or guidance<br>v. to accompany as an escort</td></tr>
 <tr><td>escorted</td><td>escortėd</td><td>e-scort-ed</td><td>e-scort-ėd</td><td>v. accompany as an escort</td></tr>
 <tr><td>Scotland</td><td>Scotlånd</td><td>Scot-land</td><td>Scot-lånd</td><td>n. a country in the northern part of Britain</td></tr>
-<tr><td>scotoma</td><td>scōtōmå</td><td>scot-oma</td><td>scōt-ōmå</td><td>n. an isolated area of diminished vision within the visual field</td></tr>
+<tr><td>scotoma</td><td>sco̊tōmå</td><td>scot-oma</td><td>sco̊t-ōmå</td><td>n. an isolated area of diminished vision within the visual field</td></tr>
 <tr><td>scots</td><td>scots</td><td>scot-s</td><td>scot-s</td><td>n. the dialect of English used in Scotland</td></tr>
 <tr><td>Scotsman</td><td>Scotsmån</td><td>Scot-s-man</td><td>Scot-s-mån</td><td>n. a man from Scotland</td></tr>
 <tr><td>Scotswoman</td><td>Scotswõmån</td><td>Scot-s-wo-man</td><td>Scot-s-wõ-mån</td><td>n. a woman from Scotland</td></tr>
@@ -909,14 +909,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scotches</td><td>scotchėṡ</td><td>scotch-es</td><td>scotch-ėṡ</td><td></td></tr>
 <tr><td>scottish</td><td>scottish</td><td>scott-ish</td><td>scott-ish</td><td>a. of or relating to Scotland<br>n. the Scots language</td></tr>
 <tr><td>scoundrel</td><td>scòundre̊l</td><td>scoundrel</td><td>scòundre̊l</td><td>n. a wicked or evil person</td></tr>
-<tr><td>scour</td><td>sco̊ur</td><td>scour</td><td>sco̊ur</td><td>v. to clean by rubbing hard; to search thoroughly</td></tr>
-<tr><td>scoured</td><td>sco̊ur𝕖d</td><td>scour-ed</td><td>sco̊ur-𝕖d</td><td>v. clean with hard rubbing<br>v. examine minutely</td></tr>
-<tr><td>scouring</td><td>sco̊uring</td><td>scour-ing</td><td>sco̊ur-ing</td><td>n. moving over territory to search for something<br>n. the act of cleaning a surface by rubbing</td></tr>
+<tr><td>scour</td><td>scòur</td><td>scour</td><td>scòur</td><td>v. to clean by rubbing hard; to search thoroughly</td></tr>
+<tr><td>scoured</td><td>scòur𝕖d</td><td>scour-ed</td><td>scòur-𝕖d</td><td>v. clean with hard rubbing<br>v. examine minutely</td></tr>
+<tr><td>scouring</td><td>scòuring</td><td>scour-ing</td><td>scòur-ing</td><td>n. moving over territory to search for something<br>n. the act of cleaning a surface by rubbing</td></tr>
 <tr><td>scourge</td><td>sco̊urge</td><td>scourge</td><td>sco̊urge</td><td>n. a person or thing that causes great suffering<br>vt. to punish severely</td></tr>
 <tr><td>scout</td><td>scòut</td><td>scout</td><td>scòut</td><td>n. a person sent ahead to gather information<br>v. to explore an area to gather information</td></tr>
 <tr><td>scouting</td><td>scòuting</td><td>scout-ing</td><td>scòut-ing</td><td>n. exploring in order to gain information</td></tr>
 <tr><td>scouts</td><td>scòuts</td><td>scout-s</td><td>scòut-s</td><td></td></tr>
-<tr><td>scoutmaster</td><td>scòutmaste̊r</td><td>scout-mast-er</td><td>scòut-mast-e̊r</td><td>n. the leader of a troop of Scouts</td></tr>
+<tr><td>scoutmaster</td><td>scòutmàste̊r</td><td>scout-mast-er</td><td>scòut-màst-e̊r</td><td>n. the leader of a troop of Scouts</td></tr>
 <tr><td>scow</td><td>scòw</td><td>scow</td><td>scòw</td><td>n. any of various flat-bottomed boats with sloping ends<br>n. a barge carrying bulk materials in an open hold</td></tr>
 <tr><td>scowl</td><td>scòwl</td><td>scowl</td><td>scòwl</td><td>v. to frown angrily<br>n. an angry frown</td></tr>
 <tr><td>scowling</td><td>scòwling</td><td>scowl-ing</td><td>scòwl-ing</td><td>a. sullen or unfriendly in appearance</td></tr>
@@ -944,7 +944,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scrapes</td><td>scrāp𝕖s</td><td>scrape-s</td><td>scrāp𝕖-s</td><td></td></tr>
 <tr><td>scrappy</td><td>scrappẏ</td><td>scrapp-y</td><td>scrapp-ẏ</td><td>a. full of fighting spirit; consisting of fragments</td></tr>
 <tr><td>scrapyard</td><td>scrapyàrd</td><td>scrap-yard</td><td>scrap-yàrd</td><td>n. a place where scrap is collected and stored</td></tr>
-<tr><td>scrapie</td><td>scrapie</td><td>scrapie</td><td>scrapie</td><td>n. a fatal disease of sheep with chronic itching and progressive CNS degeneration</td></tr>
+<tr><td>scrapie</td><td>scrāpie</td><td>scrapie</td><td>scrāpie</td><td>n. a fatal disease of sheep with chronic itching and progressive CNS degeneration</td></tr>
 <tr><td>scrapple</td><td>scrapple</td><td>scrapple</td><td>scrapple</td><td>n. scraps of meat boiled with cornmeal and shaped into loaves for slicing and frying</td></tr>
 <tr><td>scratch</td><td>scratch</td><td>scratch</td><td>scratch</td><td>v. rub the skin with the fingernails to relieve itching; score or mark the surface of<br>n. a mark or slight cut on a surface</td></tr>
 <tr><td>scratchboard</td><td>scratchbōard</td><td>scratch-board</td><td>scratch-bōard</td><td>n. a board coated with a layer of white clay over which India ink is applied</td></tr>
@@ -973,7 +973,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>screening</td><td>scrēening</td><td>screen-ing</td><td>scrēen-ing</td><td>n. the showing of a film or television program<br>n. the evaluation or testing of people to identify those with particular characteristics</td></tr>
 <tr><td>screenplay</td><td>scrēenplāy</td><td>screen-play</td><td>scrēen-plāy</td><td>n. the script of a film</td></tr>
 <tr><td>screens</td><td>scrēenṡ</td><td>screen-s</td><td>scrēen-ṡ</td><td></td></tr>
-<tr><td>screensaver</td><td>scrėensāve̊r</td><td>screen-sav-er</td><td>scrėen-sāv-e̊r</td><td>n. a program that displays images on a screen when the computer is idle</td></tr>
+<tr><td>screensaver</td><td>scrēensāve̊r</td><td>screen-sav-er</td><td>scrēen-sāv-e̊r</td><td>n. a program that displays images on a screen when the computer is idle</td></tr>
 <tr><td>screenwriter</td><td>scrēen𝕨rīte̊r</td><td>screen-writ-er</td><td>scrēen-𝕨rīt-e̊r</td><td>n. someone who writes screenplays</td></tr>
 <tr><td>screenwriting</td><td>scrēen𝕨rīting</td><td>screen-writ-ing</td><td>scrēen-𝕨rīt-ing</td><td>n. the art or practice of writing screenplays</td></tr>
 <tr><td>telescreen</td><td>telėscrēen</td><td>tele-screen</td><td>telė-scrēen</td><td>n. a television screen; a device that both broadcasts and monitors (as in Orwell&#x27;s 1984)</td></tr>
@@ -1004,9 +1004,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>circumscribe</td><td>ci̊rcůmscrībe</td><td>circum-scribe</td><td>ci̊rcům-scrībe</td><td>v. draw a line around<br>v. draw a geometric figure around another so they touch but do not intersect</td></tr>
 <tr><td>conscript</td><td>conscript</td><td>con-script</td><td>con-script</td><td>n. a person who is enrolled compulsorily into military service<br>v. to enroll into service compulsorily</td></tr>
 <tr><td>circumscribed</td><td>ci̊rcůmscrīb𝕖d</td><td>circum-scrib-ed</td><td>ci̊rcům-scrīb-𝕖d</td><td>a. subject to limits or subjected to limits</td></tr>
-<tr><td>conscripted</td><td>co̊nscriptėd</td><td>con-script-ed</td><td>co̊n-script-ėd</td><td>v enroll into service compulsorily</td></tr>
+<tr><td>conscripted</td><td>conscriptėd</td><td>con-script-ed</td><td>con-script-ėd</td><td>v enroll into service compulsorily</td></tr>
 <tr><td>circumscription</td><td>ci̊rcůmscriptio̊n</td><td>circum-script-ion</td><td>ci̊rcům-script-io̊n</td><td>n. the act of circumscribing</td></tr>
-<tr><td>conscription</td><td>co̊nscriptio̊n</td><td>con-script-ion</td><td>co̊n-script-io̊n</td><td>n. compulsory military service</td></tr>
+<tr><td>conscription</td><td>conscriptio̊n</td><td>con-script-ion</td><td>con-script-io̊n</td><td>n. compulsory military service</td></tr>
 <tr><td>describe</td><td>dėscrībe</td><td>de-scribe</td><td>dė-scrībe</td><td>vt. to give a detailed account of something in words</td></tr>
 <tr><td>describable</td><td>dėscrībåble</td><td>de-scrib-able</td><td>dė-scrīb-åble</td><td>a. capable of being described</td></tr>
 <tr><td>described</td><td>dėscrīb𝕖d</td><td>de-scrib-ed</td><td>dė-scrīb-𝕖d</td><td>v. represented in words especially with sharpness and detail</td></tr>
@@ -1023,16 +1023,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>manuscript</td><td>manūscript</td><td>manu-script</td><td>manū-script</td><td>n. a handwritten or typed document before it is published</td></tr>
 <tr><td>prescribe</td><td>prėscrībe</td><td>pre-scribe</td><td>prė-scrībe</td><td>v. to advise or order the use of a medicine or treatment<br>v. to set down as a rule or direction</td></tr>
 <tr><td>prescript</td><td>prēscript</td><td>pre-script</td><td>prē-script</td><td>n. a prescribed rule or direction</td></tr>
-<tr><td>proscribe</td><td>prōscrībe</td><td>pro-scribe</td><td>prō-scrībe</td><td>vt. to forbid as harmful or unlawful</td></tr>
-<tr><td>prescribed</td><td>prēscrīb𝕖d</td><td>pre-scrib-ed</td><td>prē-scrīb-𝕖d</td><td>a. set down as a rule or guide; officially recommended</td></tr>
-<tr><td>proscribed</td><td>prōscrīb𝕖d</td><td>pro-scrib-ed</td><td>prō-scrīb-𝕖d</td><td>v. command against<br>a. excluded from use or mention</td></tr>
-<tr><td>prescribing</td><td>prēscrībing</td><td>pre-scrib-ing</td><td>prē-scrīb-ing</td><td>v. advise and authorize the use of a medicine or treatment</td></tr>
+<tr><td>proscribe</td><td>pro̊scrībe</td><td>pro-scribe</td><td>pro̊-scrībe</td><td>vt. to forbid as harmful or unlawful</td></tr>
+<tr><td>prescribed</td><td>prėscrīb𝕖d</td><td>pre-scrib-ed</td><td>prė-scrīb-𝕖d</td><td>a. set down as a rule or guide; officially recommended</td></tr>
+<tr><td>proscribed</td><td>pro̊scrīb𝕖d</td><td>pro-scrib-ed</td><td>pro̊-scrīb-𝕖d</td><td>v. command against<br>a. excluded from use or mention</td></tr>
+<tr><td>prescribing</td><td>prėscrībing</td><td>pre-scrib-ing</td><td>prė-scrīb-ing</td><td>v. advise and authorize the use of a medicine or treatment</td></tr>
 <tr><td>prescription</td><td>prėscriptio̊n</td><td>pre-script-ion</td><td>prė-script-io̊n</td><td>n. a doctor&#x27;s written instruction for the preparation and use of a medicine</td></tr>
 <tr><td>prescriptive</td><td>prėscriptive</td><td>pre-script-ive</td><td>prė-script-ive</td><td>a. pertaining to giving directives or rules</td></tr>
-<tr><td>proscription</td><td>prōscriptio̊n</td><td>pro-script-ion</td><td>prō-script-io̊n</td><td>n. a decree that prohibits something<br>n. rejection by means of an act of banishing or proscribing someone</td></tr>
-<tr><td>proscriptive</td><td>prōscriptive</td><td>pro-script-ive</td><td>prō-script-ive</td><td>a. relating to or involving proscription</td></tr>
+<tr><td>proscription</td><td>pro̊scriptio̊n</td><td>pro-script-ion</td><td>pro̊-script-io̊n</td><td>n. a decree that prohibits something<br>n. rejection by means of an act of banishing or proscribing someone</td></tr>
+<tr><td>proscriptive</td><td>pro̊scriptive</td><td>pro-script-ive</td><td>pro̊-script-ive</td><td>a. relating to or involving proscription</td></tr>
 <tr><td>prescriptions</td><td>prėscriptio̊nṡ</td><td>pre-script-ion-s</td><td>prė-script-io̊n-ṡ</td><td></td></tr>
-<tr><td>rescript</td><td>rēscript</td><td>re-script</td><td>rē-script</td><td>n. an official order or reply</td></tr>
+<tr><td>rescript</td><td>rėscript</td><td>re-script</td><td>rė-script</td><td>n. an official order or reply</td></tr>
 <tr><td>subscribe</td><td>sůbscrībe</td><td>sub-scribe</td><td>sůb-scrībe</td><td>v. receive or obtain regularly<br>v. adopt as a belief</td></tr>
 <tr><td>subscript</td><td>sûbscript</td><td>sub-script</td><td>sûb-script</td><td>n. a character printed below and to the side of another character</td></tr>
 <tr><td>superscript</td><td>sūpe̊rscript</td><td>super-script</td><td>sūpe̊r-script</td><td>n. a character set above and to the side of another character</td></tr>
@@ -1066,7 +1066,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scriptorium</td><td>scriptoriům</td><td>script-orium</td><td>script-oriům</td><td>n. a room in a monastery that is set aside for writing or copying manuscripts</td></tr>
 <tr><td>scripts</td><td>scripts</td><td>script-s</td><td>script-s</td><td></td></tr>
 <tr><td>scriptwriter</td><td>script𝕨rīte̊r</td><td>script-writ-er</td><td>script-𝕨rīt-e̊r</td><td>n. someone who writes scripts for plays or movies</td></tr>
-<tr><td>scrivener</td><td>scriv𝕖ne̊r</td><td>scriven-er</td><td>scriv𝕖n-e̊r</td><td>n. someone employed to make written copies of documents and manuscripts</td></tr>
+<tr><td>scrivener</td><td>scrive̊ne̊r</td><td>scriven-er</td><td>scrive̊n-e̊r</td><td>n. someone employed to make written copies of documents and manuscripts</td></tr>
 <tr><td>scrod</td><td>scrod</td><td>scrod</td><td>scrod</td><td>n. young Atlantic cod or haddock especially one split and boned for cooking</td></tr>
 <tr><td>scrofula</td><td>scrofūlå</td><td>scrofula</td><td>scrofūlå</td><td>n. a form of tuberculosis characterized by swellings of the lymphatic glands</td></tr>
 <tr><td>scroll</td><td>scrōll</td><td>scroll</td><td>scrōll</td><td>n. a roll of paper or parchment with writing on it<br>v. to move text or images on a screen up or down</td></tr>
@@ -1085,17 +1085,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scrubbed</td><td>scrûbb𝕖d</td><td>scrubb-ed</td><td>scrûbb-𝕖d</td><td>a. made clean by scrubbing</td></tr>
 <tr><td>scrubber</td><td>scrûbbe̊r</td><td>scrubb-er</td><td>scrûbb-e̊r</td><td>n. a worker who uses a scrub brush to clean a surface<br>n. a purifier that removes impurities from a gas</td></tr>
 <tr><td>scrubbing</td><td>scrûbbing</td><td>scrubb-ing</td><td>scrûbb-ing</td><td>n. the act of cleaning a surface by rubbing</td></tr>
-<tr><td>scrubland</td><td>scrûbland</td><td>scrub-land</td><td>scrûb-land</td><td>n. an uncultivated region covered with scrub vegetation</td></tr>
+<tr><td>scrubland</td><td>scrûblånd</td><td>scrub-land</td><td>scrûb-lånd</td><td>n. an uncultivated region covered with scrub vegetation</td></tr>
 <tr><td>scrubs</td><td>scrûbṡ</td><td>scrub-s</td><td>scrûb-ṡ</td><td></td></tr>
 <tr><td>scrubby</td><td>scrûbbẏ</td><td>scrubb-y</td><td>scrûbb-ẏ</td><td>a. sparsely covered with stunted trees or vegetation<br>a. inferior in size or quality</td></tr>
-<tr><td>scrubbiness</td><td>scrûbbine̊ss</td><td>scrubb-i-ness</td><td>scrûbb-i-ne̊ss</td><td>n. the state of being scrubby</td></tr>
+<tr><td>scrubbiness</td><td>scrûbbinėss</td><td>scrubb-i-ness</td><td>scrûbb-i-nėss</td><td>n. the state of being scrubby</td></tr>
 <tr><td>scruff</td><td>scrûff</td><td>scruff</td><td>scrûff</td><td>n. the back side of the neck</td></tr>
 <tr><td>scruffy</td><td>scrûffẏ</td><td>scruff-y</td><td>scrûff-ẏ</td><td>a. shabby and untidy</td></tr>
 <tr><td>scrum</td><td>scrûm</td><td>scrum</td><td>scrûm</td><td>n. a method of beginning play in rugby in which the two sides compete for possession</td></tr>
 <tr><td>scrummage</td><td>scrûmmȧge</td><td>scrumm-age</td><td>scrûmm-ȧge</td><td>n. a rugby scrimmage</td></tr>
 <tr><td>scrumptious</td><td>scrûmptio̊us</td><td>scrumpt-ious</td><td>scrûmpt-io̊us</td><td>a. extremely pleasing to the sense of taste</td></tr>
 <tr><td>scrunch</td><td>scrûnch</td><td>scrunch</td><td>scrûnch</td><td>n. a crunching noise<br>v. to crush or squeeze</td></tr>
-<tr><td>scrunchie</td><td>scrûnchiē</td><td>scrunch-ie</td><td>scrûnch-iē</td><td>n. an elastic band covered with fabric, used to tie back hair</td></tr>
+<tr><td>scrunchie</td><td>scrûnchie</td><td>scrunch-ie</td><td>scrûnch-ie</td><td>n. an elastic band covered with fabric, used to tie back hair</td></tr>
 <tr><td>scruple</td><td>scrūple</td><td>scrup-le</td><td>scrūp-le</td><td>n. a feeling of doubt or hesitation with regard to morality or propriety</td></tr>
 <tr><td>unscrupulous</td><td>ûnscrūpūlo̊us</td><td>un-scrupul-ous</td><td>ûn-scrūpūl-o̊us</td><td>a. without scruples or principles</td></tr>
 <tr><td>unscrupulousness</td><td>ûnscrūpūlo̊usnėss</td><td>un-scrupul-ous-ness</td><td>ûn-scrūpūl-o̊us-nėss</td><td>n. the quality of being unprincipled</td></tr>
@@ -1103,9 +1103,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scrupulously</td><td>scrūpūlo̊uslẏ</td><td>scrupul-ous-ly</td><td>scrūpūl-o̊us-lẏ</td><td>adv. with extreme conscientiousness</td></tr>
 <tr><td>scrutable</td><td>scrūtåble</td><td>scrut-able</td><td>scrūt-åble</td><td>a. capable of being understood</td></tr>
 <tr><td>scrutinise</td><td>scrūtinīṡe</td><td>scrutin-ise</td><td>scrūtin-īṡe</td><td>vt. to examine closely and carefully</td></tr>
-<tr><td>scrutinize</td><td>scrūti̊nīze</td><td>scrutin-ize</td><td>scrūti̊n-īze</td><td>v. examine carefully for accuracy</td></tr>
-<tr><td>scrutiny</td><td>scrūti̊nẏ</td><td>scrutin-y</td><td>scrūti̊n-ẏ</td><td>n. critical observation or examination</td></tr>
-<tr><td>scrutinized</td><td>scrūti̊nīz𝕖d</td><td>scrutin-iz-ed</td><td>scrūti̊n-īz-𝕖d</td><td>v. to look at critically or in minute detail<br>v. examine carefully for accuracy</td></tr>
+<tr><td>scrutinize</td><td>scrūtinīze</td><td>scrutin-ize</td><td>scrūtin-īze</td><td>v. examine carefully for accuracy</td></tr>
+<tr><td>scrutiny</td><td>scrūtinẏ</td><td>scrutin-y</td><td>scrūtin-ẏ</td><td>n. critical observation or examination</td></tr>
+<tr><td>scrutinized</td><td>scrūtinīz𝕖d</td><td>scrutin-iz-ed</td><td>scrūtin-īz-𝕖d</td><td>v. to look at critically or in minute detail<br>v. examine carefully for accuracy</td></tr>
 <tr><td>inscrutable</td><td>inscrūtåble</td><td>in-scrut-able</td><td>in-scrūt-åble</td><td>a. of an obscure nature; hard to understand</td></tr>
 <tr><td>inscrutability</td><td>inscrūtåbilitẏ</td><td>in-scrut-abil-ity</td><td>in-scrūt-åbil-itẏ</td><td>n. the quality of being impossible to investigate</td></tr>
 <tr><td>scrying</td><td>scrȳing</td><td>scry-ing</td><td>scrȳ-ing</td><td>v. divine by gazing into crystals</td></tr>
@@ -1132,7 +1132,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sculptor</td><td>scûlpto̊r</td><td>sculpt-or</td><td>scûlpt-o̊r</td><td>n. an artist who creates sculptures</td></tr>
 <tr><td>sculpture</td><td>scûlptůre</td><td>sculpt-ure</td><td>scûlpt-ůre</td><td>n. the art of making three-dimensional forms, especially by carving or modeling<br>v. to create a sculpture</td></tr>
 <tr><td>sculptural</td><td>scûlptůrål</td><td>sculpt-ur-al</td><td>scûlpt-ůr-ål</td><td>a. relating to or consisting of sculpture</td></tr>
-<tr><td>sculptress</td><td>scûlptrėss</td><td>sculpt-r-ess</td><td>scûlpt-r-ėss</td><td>n. a woman sculptor</td></tr>
+<tr><td>sculptress</td><td>scûlptre̊ss</td><td>sculpt-r-ess</td><td>scûlpt-r-e̊ss</td><td>n. a woman sculptor</td></tr>
 <tr><td>sculptured</td><td>scûlptůr𝕖d</td><td>sculpt-ur-ed</td><td>scûlpt-ůr-𝕖d</td><td>v. create by shaping stone or wood or any other hard material<br>a. cut into a desired shape<br>a. resembling sculpture</td></tr>
 <tr><td>scum</td><td>scûm</td><td>scum</td><td>scûm</td><td>n. a film of impurities or vegetation that can form on the surface of a liquid<br>v. remove the scum from</td></tr>
 <tr><td>scumbag</td><td>scûmbag</td><td>scum-bag</td><td>scûm-bag</td><td>n. a person who is deemed to be despicable or contemptible</td></tr>
@@ -1143,14 +1143,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>obscure</td><td>o̊bscūre</td><td>ob-scure</td><td>o̊b-scūre</td><td>a. not known or seen clearly; hard to understand<br>v. to hide or make something unclear</td></tr>
 <tr><td>obscured</td><td>o̊bscūr𝕖d</td><td>ob-scur-ed</td><td>o̊b-scūr-𝕖d</td><td>v. make less visible or unclear<br>v. make undecipherable or imperceptible by obscuring or concealing</td></tr>
 <tr><td>obscuring</td><td>o̊bscūring</td><td>ob-scur-ing</td><td>o̊b-scūr-ing</td><td>v. make less visible or unclear</td></tr>
-<tr><td>obscurity</td><td>o̊bscūri̊tẏ</td><td>ob-scur-ity</td><td>o̊b-scūr-i̊tẏ</td><td>n. the state of being indistinct or not well known</td></tr>
-<tr><td>obscurely</td><td>o̊bscūrelẏ</td><td>ob-scure-ly</td><td>o̊b-scūre-lẏ</td><td>adv. in an obscure manner</td></tr>
-<tr><td>obscurantism</td><td>o̊bscūråntiṡm</td><td>ob-scur-ant-ism</td><td>o̊b-scūr-ånt-iṡm</td><td>n. a policy of opposition to enlightenment or the spread of knowledge<br>n. a deliberate act intended to make something obscure</td></tr>
+<tr><td>obscurity</td><td>o̊bscūritẏ</td><td>ob-scur-ity</td><td>o̊b-scūr-itẏ</td><td>n. the state of being indistinct or not well known</td></tr>
+<tr><td>obscurely</td><td>o̊bscūr𝕖lẏ</td><td>ob-scure-ly</td><td>o̊b-scūr𝕖-lẏ</td><td>adv. in an obscure manner</td></tr>
+<tr><td>obscurantism</td><td>obscūråntiṡm</td><td>ob-scur-ant-ism</td><td>ob-scūr-ånt-iṡm</td><td>n. a policy of opposition to enlightenment or the spread of knowledge<br>n. a deliberate act intended to make something obscure</td></tr>
 <tr><td>obscurantist</td><td>obscūrantist</td><td>ob-scur-ant-ist</td><td>ob-scūr-ant-ist</td><td>n. a person who is deliberately vague</td></tr>
 <tr><td>scurf</td><td>scůrf</td><td>scurf</td><td>scůrf</td><td>n. flakes of dead skin</td></tr>
-<tr><td>scurry</td><td>scurrẏ</td><td>scurr-y</td><td>scurr-ẏ</td><td>v. to move hurriedly with short quick steps<br>n. a short, hurried movement</td></tr>
-<tr><td>scurrying</td><td>scurrẏing</td><td>scurr-y-ing</td><td>scurr-ẏ-ing</td><td>v. to move about or proceed hurriedly<br>a. moving with great haste (scurry的现在分词)</td></tr>
-<tr><td>scurrilous</td><td>scurri̊lo̊us</td><td>scurril-ous</td><td>scurri̊l-o̊us</td><td>a. expressing offensive reproach</td></tr>
+<tr><td>scurry</td><td>scûrrẏ</td><td>scurr-y</td><td>scûrr-ẏ</td><td>v. to move hurriedly with short quick steps<br>n. a short, hurried movement</td></tr>
+<tr><td>scurrying</td><td>scûrrẏing</td><td>scurr-y-ing</td><td>scûrr-ẏ-ing</td><td>v. to move about or proceed hurriedly<br>a. moving with great haste (scurry的现在分词)</td></tr>
+<tr><td>scurrilous</td><td>scûrrilo̊us</td><td>scurril-ous</td><td>scûrril-o̊us</td><td>a. expressing offensive reproach</td></tr>
 <tr><td>scurvy</td><td>scůrvẏ</td><td>scurv-y</td><td>scůrv-ẏ</td><td>n. a condition caused by deficiency of ascorbic acid (vitamin C)</td></tr>
 <tr><td>scut</td><td>scût</td><td>scut</td><td>scût</td><td>n. a short erect tail</td></tr>
 <tr><td>scutum</td><td>scūtům</td><td>scut-um</td><td>scūt-ům</td><td>n. an oblong shield carried by Roman heavy infantry</td></tr>
@@ -1158,10 +1158,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>scuttle</td><td>scûttle</td><td>scutt-le</td><td>scûtt-le</td><td>n. a container for coal; a small opening<br>v. sink deliberately; run hurriedly</td></tr>
 <tr><td>scuttling</td><td>scûttling</td><td>scutt-ling</td><td>scûtt-ling</td><td>v. to move about or proceed hurriedly</td></tr>
 <tr><td>scuzzy</td><td>scûzzẏ</td><td>scuzz-y</td><td>scûzz-ẏ</td><td>a. dirty, shabby, or repellent</td></tr>
-<tr><td>scythian</td><td>scẏthiån</td><td>scyth-ian</td><td>scẏth-iån</td><td>a. of or relating to ancient Scythia or its people<br>n. a member of an ancient nomadic people of Scythia</td></tr>
-<tr><td>scythe</td><td>scẏthe</td><td>scythe</td><td>scẏthe</td><td>n. a tool with a long curved blade used for cutting grass or grain<br>v. to cut with a scythe</td></tr>
+<tr><td>scythian</td><td>scȳthiån</td><td>scyth-ian</td><td>scȳth-iån</td><td>a. of or relating to ancient Scythia or its people<br>n. a member of an ancient nomadic people of Scythia</td></tr>
+<tr><td>scythe</td><td>scȳṫhe</td><td>scythe</td><td>scȳṫhe</td><td>n. a tool with a long curved blade used for cutting grass or grain<br>v. to cut with a scythe</td></tr>
 <tr><td>sea</td><td>sēa</td><td>sea</td><td>sēa</td><td>n. the large body of salt water that covers most of the earth<br>n. a large area of something</td></tr>
-<tr><td>seabed</td><td>sēab𝕖d</td><td>sea-bed</td><td>sēa-b𝕖d</td><td>n. the bottom of a sea or ocean</td></tr>
+<tr><td>seabed</td><td>sēabed</td><td>sea-bed</td><td>sēa-bed</td><td>n. the bottom of a sea or ocean</td></tr>
 <tr><td>seabird</td><td>sēabi̊rd</td><td>sea-bird</td><td>sēa-bi̊rd</td><td>n. a bird that frequents coastal waters and the open ocean</td></tr>
 <tr><td>seaboard</td><td>sēabōard</td><td>sea-board</td><td>sēa-bōard</td><td>n. the shore of a sea or ocean regarded as a resort</td></tr>
 <tr><td>seaborne</td><td>sēaborne</td><td>sea-borne</td><td>sēa-borne</td><td>a. conveyed by sea</td></tr>
@@ -1169,7 +1169,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>seafloor</td><td>sēaflōor</td><td>sea-floor</td><td>sēa-flōor</td><td>n. the bottom of the ocean</td></tr>
 <tr><td>seafood</td><td>sēafood</td><td>sea-food</td><td>sēa-food</td><td>n. edible fish and shellfish from the sea</td></tr>
 <tr><td>seafront</td><td>sēafrônt</td><td>sea-front</td><td>sēa-frônt</td><td>n. the waterfront of a seaside town</td></tr>
-<tr><td>seagrass</td><td>sēagrass</td><td>sea-grass</td><td>sēa-grass</td><td>n. any of various grass-like plants that grow underwater in shallow beds</td></tr>
+<tr><td>seagrass</td><td>sēagràss</td><td>sea-grass</td><td>sēa-gràss</td><td>n. any of various grass-like plants that grow underwater in shallow beds</td></tr>
 <tr><td>seagull</td><td>sēagûll</td><td>sea-gull</td><td>sēa-gûll</td><td>n. a mostly white aquatic bird with long pointed wings</td></tr>
 <tr><td>seahorse</td><td>sēahorse</td><td>sea-horse</td><td>sēa-horse</td><td>n. small fish with a horse-like head and curled tail; swims upright</td></tr>
 <tr><td>sealift</td><td>sēalift</td><td>sea-lift</td><td>sēa-lift</td><td>n. the transportation of supplies by ship, especially in an emergency</td></tr>
@@ -1187,16 +1187,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>seaside</td><td>sēasīde</td><td>sea-side</td><td>sēa-sīde</td><td>n. the shore of a sea or ocean regarded as a resort</td></tr>
 <tr><td>seawall</td><td>sēawãll</td><td>sea-wall</td><td>sēa-wãll</td><td>n. a protective structure of stone or concrete that extends from shore into the water</td></tr>
 <tr><td>seaward</td><td>sēawård</td><td>sea-ward</td><td>sēa-wård</td><td>n. the direction toward the sea<br>a. directed toward the sea</td></tr>
-<tr><td>seawater</td><td>sēawàte̊r</td><td>sea-water</td><td>sēa-wàte̊r</td><td>n. salt water from the sea</td></tr>
+<tr><td>seawater</td><td>sēawãte̊r</td><td>sea-water</td><td>sēa-wãte̊r</td><td>n. salt water from the sea</td></tr>
 <tr><td>seaway</td><td>sēawāy</td><td>sea-way</td><td>sēa-wāy</td><td>n. a lane at sea that is a regularly used route for vessels</td></tr>
 <tr><td>seaweed</td><td>sēawēed</td><td>sea-weed</td><td>sēa-wēed</td><td>n. plant growing in the sea, especially marine algae</td></tr>
-<tr><td>seafarer</td><td>sēafare̊r</td><td>sea-far-er</td><td>sēa-far-e̊r</td><td>n. a man who serves as a sailor</td></tr>
-<tr><td>seafaring</td><td>sēafåring</td><td>sea-far-ing</td><td>sēa-får-ing</td><td>n. the work of a sailor</td></tr>
+<tr><td>seafarer</td><td>sēafāre̊r</td><td>sea-far-er</td><td>sēa-fār-e̊r</td><td>n. a man who serves as a sailor</td></tr>
+<tr><td>seafaring</td><td>sēafāring</td><td>sea-far-ing</td><td>sēa-fār-ing</td><td>n. the work of a sailor</td></tr>
 <tr><td>seagoing</td><td>sēagōing</td><td>sea-go-ing</td><td>sēa-gō-ing</td><td>a. used on the high seas</td></tr>
 <tr><td>seasickness</td><td>sēasicknėss</td><td>sea-sick-ness</td><td>sēa-sick-nėss</td><td>n. motion sickness experienced while traveling on water</td></tr>
 <tr><td>seamanship</td><td>sēamånship</td><td>sea-man-ship</td><td>sēa-mån-ship</td><td>n. skill in sailing</td></tr>
-<tr><td>seaworthy</td><td>sēaworṫhẏ</td><td>sea-worth-y</td><td>sēa-worṫh-ẏ</td><td>a. fit for a sea voyage</td></tr>
-<tr><td>seaworthiness</td><td>sēawo̊rthinėss</td><td>sea-worth-i-ness</td><td>sēa-wo̊rth-i-nėss</td><td>n. fitness to traverse the seas</td></tr>
+<tr><td>seaworthy</td><td>sēawo̊rṫhẏ</td><td>sea-worth-y</td><td>sēa-wo̊rṫh-ẏ</td><td>a. fit for a sea voyage</td></tr>
+<tr><td>seaworthiness</td><td>sēawo̊rṫhinėss</td><td>sea-worth-i-ness</td><td>sēa-wo̊rṫh-i-nėss</td><td>n. fitness to traverse the seas</td></tr>
 <tr><td>oversea</td><td>ōve̊rsēa</td><td>over-sea</td><td>ōve̊r-sēa</td><td>a. beyond or across the sea</td></tr>
 <tr><td>subsea</td><td>sûbsēa</td><td>sub-sea</td><td>sûb-sēa</td><td>a. situated or occurring beneath the sea</td></tr>
 <tr><td>undersea</td><td>ûnde̊rsēa</td><td>under-sea</td><td>ûnde̊r-sēa</td><td>a. beneath the surface of the sea</td></tr>
@@ -1208,19 +1208,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sealing</td><td>sēaling</td><td>seal-ing</td><td>sēal-ing</td><td>n. the act of treating something to make it repel water<br>v. make tight; secure against leakage</td></tr>
 <tr><td>seals</td><td>sēalṡ</td><td>seal-s</td><td>sēal-ṡ</td><td>n. plural of seal</td></tr>
 <tr><td>sealskin</td><td>sēalskin</td><td>seal-skin</td><td>sēal-skin</td><td>n. a garment (as a jacket or coat or robe) made of sealskin</td></tr>
-<tr><td>reseal</td><td>rēsēal</td><td>re-seal</td><td>rē-sēal</td><td>v. seal again</td></tr>
-<tr><td>resealable</td><td>rēsēalåble</td><td>re-seal-able</td><td>rē-sēal-åble</td><td>a. able to be sealed again after opening</td></tr>
+<tr><td>reseal</td><td>rėsēal</td><td>re-seal</td><td>rė-sēal</td><td>v. seal again</td></tr>
+<tr><td>resealable</td><td>rėsēalåble</td><td>re-seal-able</td><td>rė-sēal-åble</td><td>a. able to be sealed again after opening</td></tr>
 <tr><td>unseal</td><td>ûnsēal</td><td>un-seal</td><td>ûn-sēal</td><td>v. break the seal of</td></tr>
 <tr><td>unsealed</td><td>ûnsēal𝕖d</td><td>un-seal-ed</td><td>ûn-sēal-𝕖d</td><td>a. not closed or secured with a seal</td></tr>
 <tr><td>seam</td><td>sēam</td><td>seam</td><td>sēam</td><td>n. joint consisting of a line formed by joining two pieces<br>n. a stratum of ore or coal thick enough to be mined</td></tr>
 <tr><td>seamed</td><td>sēam𝕖d</td><td>seam-ed</td><td>sēam-𝕖d</td><td>a. having or joined by a seam or seams</td></tr>
-<tr><td>seamless</td><td>sēamle̊ss</td><td>seam-less</td><td>sēam-le̊ss</td><td>a. having no seams; perfectly consistent</td></tr>
-<tr><td>seamstress</td><td>sēamstrėss</td><td>seam-stress</td><td>sēam-strėss</td><td>n. a woman who makes or mends clothes</td></tr>
+<tr><td>seamless</td><td>sēamlėss</td><td>seam-less</td><td>sēam-lėss</td><td>a. having no seams; perfectly consistent</td></tr>
+<tr><td>seamstress</td><td>sēamstre̊ss</td><td>seam-stress</td><td>sēam-stre̊ss</td><td>n. a woman who makes or mends clothes</td></tr>
 <tr><td>seamy</td><td>sēamẏ</td><td>seam-y</td><td>sēam-ẏ</td><td>a. showing a seam<br>a. morally degraded</td></tr>
-<tr><td>seamlessly</td><td>sēamle̊sslẏ</td><td>seam-less-ly</td><td>sēam-le̊ss-lẏ</td><td>adv. without any gaps or breaks</td></tr>
-<tr><td>seamlessness</td><td>sēamle̊ssne̊ss</td><td>seam-less-ness</td><td>sēam-le̊ss-ne̊ss</td><td>n. the quality of being seamless</td></tr>
+<tr><td>seamlessly</td><td>sēamlėsslẏ</td><td>seam-less-ly</td><td>sēam-lėss-lẏ</td><td>adv. without any gaps or breaks</td></tr>
+<tr><td>seamlessness</td><td>sēamlėssnėss</td><td>seam-less-ness</td><td>sēam-lėss-nėss</td><td>n. the quality of being seamless</td></tr>
 <tr><td>inseam</td><td>insēam</td><td>in-seam</td><td>in-sēam</td><td>n. the seam in a garment running along the inside of the leg</td></tr>
-<tr><td>seance</td><td>seānce</td><td>seance</td><td>seānce</td><td>n. a meeting of spiritualists</td></tr>
+<tr><td>seance</td><td>sèànce</td><td>seance</td><td>sèànce</td><td>n. a meeting of spiritualists</td></tr>
 <tr><td>sear</td><td>sēar</td><td>sear</td><td>sēar</td><td>vt. to burn or scorch the surface of something</td></tr>
 <tr><td>seared</td><td>sēar𝕖d</td><td>sear-ed</td><td>sēar-𝕖d</td><td>a. having the surface burned quickly with intense heat</td></tr>
 <tr><td>searing</td><td>sēaring</td><td>sear-ing</td><td>sēar-ing</td><td>a. extremely hot or burning<br>a. intensely critical</td></tr>
@@ -1243,24 +1243,24 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>seasonality</td><td>sēaṡo̊nalitẏ</td><td>sea-son-al-ity</td><td>sēa-ṡo̊n-al-itẏ</td><td>n. the characteristic of being seasonal</td></tr>
 <tr><td>seasonally</td><td>sēaṡo̊nållẏ</td><td>sea-son-al-ly</td><td>sēa-ṡo̊n-ål-lẏ</td><td>adv. depending on the season</td></tr>
 <tr><td>off-season</td><td></td><td>off-season</td><td></td><td>a. outside the main season<br>n. a time of low activity</td></tr>
-<tr><td>preseason</td><td>prēsēaṡo̊n</td><td>pre-sea-son</td><td>prē-sēa-ṡo̊n</td><td>n. a period of training before the regular season<br>a. occurring before the main season</td></tr>
+<tr><td>preseason</td><td>prėsēaṡo̊n</td><td>pre-sea-son</td><td>prė-sēa-ṡo̊n</td><td>n. a period of training before the regular season<br>a. occurring before the main season</td></tr>
 <tr><td>unseasonable</td><td>ûnsēaṡo̊nåble</td><td>un-sea-son-able</td><td>ûn-sēa-ṡo̊n-åble</td><td>a. not in keeping with the season</td></tr>
 <tr><td>unseasonal</td><td>ûnsēaṡo̊nål</td><td>un-sea-son-al</td><td>ûn-sēa-ṡo̊n-ål</td><td>a. not occurring at the right season</td></tr>
 <tr><td>unseasoned</td><td>ûnsēaṡo̊n𝕖d</td><td>un-sea-son-ed</td><td>ûn-sēa-ṡo̊n-𝕖d</td><td>a. not aged or processed<br>a. not tried or tested by experience</td></tr>
 <tr><td>unseasonably</td><td>ûnsēaṡo̊nåblẏ</td><td>un-sea-son-ab-ly</td><td>ûn-sēa-ṡo̊n-åb-lẏ</td><td>adv. not in accordance with the season</td></tr>
 <tr><td>seat</td><td>sēat</td><td>seat</td><td>sēat</td><td>n. a place to sit<br>n. the center of authority or power<br>vt. to cause or help to sit</td></tr>
 <tr><td>seatbelt</td><td>sēatbelt</td><td>seat-belt</td><td>sēat-belt</td><td>n. a belt fastening a passenger in a seat</td></tr>
-<tr><td>seated</td><td>sēat𝕖d</td><td>seat-ed</td><td>sēat-𝕖d</td><td>a. sitting down</td></tr>
+<tr><td>seated</td><td>sēatėd</td><td>seat-ed</td><td>sēat-ėd</td><td>a. sitting down</td></tr>
 <tr><td>seating</td><td>sēating</td><td>seat-ing</td><td>sēat-ing</td><td>n. an area that includes places where several people can sit<br>n. the service of ushering people to their seats</td></tr>
 <tr><td>seatmate</td><td>sēatmāte</td><td>seat-mate</td><td>sēat-māte</td><td>n. a person sitting next to another, especially on public transport</td></tr>
 <tr><td>seats</td><td>sēats</td><td>seat-s</td><td>sēat-s</td><td></td></tr>
 <tr><td>seatwork</td><td>sēatwo̊rk</td><td>seat-work</td><td>sēat-wo̊rk</td><td>n. schoolwork done at a student&#x27;s desk during class</td></tr>
-<tr><td>reseat</td><td>rēsēat</td><td>re-seat</td><td>rē-sēat</td><td>v. show to a different seat</td></tr>
+<tr><td>reseat</td><td>rėsēat</td><td>re-seat</td><td>rė-sēat</td><td>v. show to a different seat</td></tr>
 <tr><td>unseat</td><td>ûnsēat</td><td>un-seat</td><td>ûn-sēat</td><td>v. to remove from a seat or position</td></tr>
 <tr><td>Seattle</td><td>Sēattle</td><td>Seattle</td><td>Sēattle</td><td>n. a city in Washington state, US</td></tr>
 <tr><td>sebum</td><td>sēbům</td><td>sebum</td><td>sēbům</td><td>n. the oily secretion of the sebaceous glands</td></tr>
 <tr><td>sebaceous</td><td>se̊bāceo̊us</td><td>sebac-e-ous</td><td>se̊bāc-e-o̊us</td><td>a. containing an unusual amount of grease or oil</td></tr>
-<tr><td>secateurs</td><td>sècåte̊urṡ</td><td>secateurs</td><td>sècåte̊urṡ</td><td>n. pruning shears</td></tr>
+<tr><td>secateurs</td><td>secåte̊urṡ</td><td>secateurs</td><td>secåte̊urṡ</td><td>n. pruning shears</td></tr>
 <tr><td>secant</td><td>sēcånt</td><td>sec-ant</td><td>sēc-ånt</td><td>n. a line intersecting a curve</td></tr>
 <tr><td>second</td><td>seco̊nd</td><td>second</td><td>seco̊nd</td><td>num. coming next after the first in order<br>n. a unit of time equal to one sixtieth of a minute<br>n. an assistant or supporter</td></tr>
 <tr><td>secondary</td><td>seco̊ndårẏ</td><td>second-ary</td><td>seco̊nd-årẏ</td><td>a. less important than something else; coming after something else<br>n. something that is secondary</td></tr>
@@ -1269,35 +1269,35 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>secondly</td><td>seco̊ndlẏ</td><td>second-ly</td><td>seco̊nd-lẏ</td><td>adv. in the second place</td></tr>
 <tr><td>second-rate</td><td></td><td>second-rate</td><td></td><td>a. of poor or inferior quality</td></tr>
 <tr><td>seconds</td><td>seco̊ndṡ</td><td>second-s</td><td>seco̊nd-ṡ</td><td>n. a second helping of food<br>n. merchandise that has minor imperfections</td></tr>
-<tr><td>secondarily</td><td>seco̊ndari̊lẏ</td><td>second-ari-ly</td><td>seco̊nd-ari̊-lẏ</td><td>adv. of secondary import</td></tr>
+<tr><td>secondarily</td><td>seco̊ndārilẏ</td><td>second-ari-ly</td><td>seco̊nd-āri-lẏ</td><td>adv. of secondary import</td></tr>
 <tr><td>arcsecond</td><td>àrcseco̊nd</td><td>arc-second</td><td>àrc-seco̊nd</td><td>n. a unit of angular distance equal to a 60th of a minute of arc</td></tr>
-<tr><td>attosecond</td><td>atto̊seco̊nd</td><td>atto-second</td><td>atto̊-seco̊nd</td><td>n. a unit of time equal to 10^-18 seconds</td></tr>
+<tr><td>attosecond</td><td>attōseco̊nd</td><td>atto-second</td><td>attō-seco̊nd</td><td>n. a unit of time equal to 10^-18 seconds</td></tr>
 <tr><td>femtosecond</td><td>femtōseco̊nd</td><td>femto-second</td><td>femtō-seco̊nd</td><td>n. one quadrillionth (10^-15) of a second; one thousandth of a picosecond</td></tr>
-<tr><td>microsecond</td><td>mīcro̊seco̊nd</td><td>micro-second</td><td>mīcro̊-seco̊nd</td><td>n. one millionth of a second</td></tr>
+<tr><td>microsecond</td><td>mīcrōseco̊nd</td><td>micro-second</td><td>mīcrō-seco̊nd</td><td>n. one millionth of a second</td></tr>
 <tr><td>millisecond</td><td>milliseco̊nd</td><td>milli-second</td><td>milli-seco̊nd</td><td>n. one thousandth of a second</td></tr>
 <tr><td>nanosecond</td><td>nanōseco̊nd</td><td>nano-second</td><td>nanō-seco̊nd</td><td>n. one billionth of a second</td></tr>
-<tr><td>picosecond</td><td>pīco̊seco̊nd</td><td>pico-second</td><td>pīco̊-seco̊nd</td><td>n. one trillionth of a second</td></tr>
-<tr><td>consecrate</td><td>conse̊crāte</td><td>con-secr-ate</td><td>con-se̊cr-āte</td><td>v. render holy by means of religious rites</td></tr>
-<tr><td>consecrated</td><td>conse̊crāt𝕖d</td><td>con-secr-at-ed</td><td>con-se̊cr-āt-𝕖d</td><td>a. solemnly dedicated to or set apart for a high purpose</td></tr>
-<tr><td>consecration</td><td>conse̊crātio̊n</td><td>con-secr-at-ion</td><td>con-se̊cr-āt-io̊n</td><td>n. a solemn commitment of your life or your time to some cherished purpose<br>n. sanctification of something by setting it apart as dedicated to God</td></tr>
-<tr><td>desecrate</td><td>deṡe̊crāte</td><td>de-secr-ate</td><td>de-ṡe̊cr-āte</td><td>v. violate the sacred character of a place or language<br>v. remove the consecration from a person or an object</td></tr>
-<tr><td>desecrated</td><td>deṡe̊crātėd</td><td>de-secr-at-ed</td><td>de-ṡe̊cr-āt-ėd</td><td>a. treated with contempt</td></tr>
-<tr><td>desecration</td><td>dese̊crātio̊n</td><td>de-secr-at-ion</td><td>de-se̊cr-āt-io̊n</td><td>n. the act of depriving something of its sacred character</td></tr>
+<tr><td>picosecond</td><td>pĩcōseco̊nd</td><td>pico-second</td><td>pĩcō-seco̊nd</td><td>n. one trillionth of a second</td></tr>
+<tr><td>consecrate</td><td>consėcrāte</td><td>con-secr-ate</td><td>con-sėcr-āte</td><td>v. render holy by means of religious rites</td></tr>
+<tr><td>consecrated</td><td>consėcrātėd</td><td>con-secr-at-ed</td><td>con-sėcr-āt-ėd</td><td>a. solemnly dedicated to or set apart for a high purpose</td></tr>
+<tr><td>consecration</td><td>consėcrātio̊n</td><td>con-secr-at-ion</td><td>con-sėcr-āt-io̊n</td><td>n. a solemn commitment of your life or your time to some cherished purpose<br>n. sanctification of something by setting it apart as dedicated to God</td></tr>
+<tr><td>desecrate</td><td>desėcrāte</td><td>de-secr-ate</td><td>de-sėcr-āte</td><td>v. violate the sacred character of a place or language<br>v. remove the consecration from a person or an object</td></tr>
+<tr><td>desecrated</td><td>desėcrātėd</td><td>de-secr-at-ed</td><td>de-sėcr-āt-ėd</td><td>a. treated with contempt</td></tr>
+<tr><td>desecration</td><td>desėcrātio̊n</td><td>de-secr-at-ion</td><td>de-sėcr-āt-io̊n</td><td>n. the act of depriving something of its sacred character</td></tr>
 <tr><td>sect</td><td>sect</td><td>sect</td><td>sect</td><td>n. a subdivision of a larger religious group</td></tr>
 <tr><td>section</td><td>sectio̊n</td><td>sect-ion</td><td>sect-io̊n</td><td>n. a part of a larger thing or group; a distinct area<br>vt. to divide something into sections</td></tr>
 <tr><td>sector</td><td>secto̊r</td><td>sect-or</td><td>sect-o̊r</td><td>n. a distinct part of an economy or society<br>n. a portion of a circle bounded by two radii</td></tr>
 <tr><td>sectional</td><td>sectio̊nål</td><td>sect-ion-al</td><td>sect-io̊n-ål</td><td>a. of or relating to a section; divided into sections</td></tr>
 <tr><td>sectoral</td><td>secto̊rål</td><td>sect-or-al</td><td>sect-o̊r-ål</td><td>a. relating to a particular sector of the economy or society</td></tr>
 <tr><td>sectioned</td><td>sectio̊n𝕖d</td><td>sect-ion-ed</td><td>sect-io̊n-𝕖d</td><td>v. divide into segments<br>a. consisting of or divided into sections</td></tr>
-<tr><td>sectarian</td><td>sectariån</td><td>sect-ar-ian</td><td>sect-ar-iån</td><td>a. of or relating to a sect<br>n. a member of a sect</td></tr>
+<tr><td>sectarian</td><td>sectāriån</td><td>sect-ar-ian</td><td>sect-ār-iån</td><td>a. of or relating to a sect<br>n. a member of a sect</td></tr>
 <tr><td>sections</td><td>sectio̊nṡ</td><td>sect-ion-s</td><td>sect-io̊n-ṡ</td><td></td></tr>
 <tr><td>sectors</td><td>secto̊rṡ</td><td>sect-or-s</td><td>sect-o̊r-ṡ</td><td></td></tr>
 <tr><td>sectionalism</td><td>sectio̊nåliṡm</td><td>sect-ion-al-ism</td><td>sect-io̊n-ål-iṡm</td><td>n. a partiality for some particular place</td></tr>
-<tr><td>sectarianism</td><td>sectariåniṡm</td><td>sect-ar-ian-ism</td><td>sect-ar-iån-iṡm</td><td>n. a narrow-minded adherence to a particular sect or party or denomination</td></tr>
+<tr><td>sectarianism</td><td>sectāriåniṡm</td><td>sect-ar-ian-ism</td><td>sect-ār-iån-iṡm</td><td>n. a narrow-minded adherence to a particular sect or party or denomination</td></tr>
 <tr><td>bisect</td><td>bīsect</td><td>bi-sect</td><td>bī-sect</td><td>v. cut in half or cut in two</td></tr>
 <tr><td>bisector</td><td>bīsecto̊r</td><td>bi-sect-or</td><td>bī-sect-o̊r</td><td>n. a line that divides something into two equal parts</td></tr>
 <tr><td>dissect</td><td>dīssect</td><td>dis-sect</td><td>dīs-sect</td><td>v. to cut open in order to examine; to analyze in detail</td></tr>
-<tr><td>dissected</td><td>dīssect𝕖d</td><td>dis-sect-ed</td><td>dīs-sect-𝕖d</td><td>v. cut open or cut apart<br>v. make a mathematical, chemical, or grammatical analysis of<br>a. having one or more incisions reaching nearly to the midrib</td></tr>
+<tr><td>dissected</td><td>dīssectėd</td><td>dis-sect-ed</td><td>dīs-sect-ėd</td><td>v. cut open or cut apart<br>v. make a mathematical, chemical, or grammatical analysis of<br>a. having one or more incisions reaching nearly to the midrib</td></tr>
 <tr><td>dissecting</td><td>dīssecting</td><td>dis-sect-ing</td><td>dīs-sect-ing</td><td>v. cut open or cut apart for examination<br>v. analyze in detail</td></tr>
 <tr><td>dissection</td><td>dīssectio̊n</td><td>dis-sect-ion</td><td>dīs-sect-io̊n</td><td>n. the act of cutting apart for study</td></tr>
 <tr><td>insect</td><td>insect</td><td>in-sect</td><td>in-sect</td><td>n. a small animal with six legs and a body divided into three parts</td></tr>
@@ -1305,7 +1305,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>insectile</td><td>insectīle</td><td>in-sect-ile</td><td>in-sect-īle</td><td>a. pertaining to, or having the nature of, insects</td></tr>
 <tr><td>intersecting</td><td>inte̊rsecting</td><td>inter-sect-ing</td><td>inte̊r-sect-ing</td><td>a. crossed or meeting at a point</td></tr>
 <tr><td>intersection</td><td>inte̊rsectio̊n</td><td>inter-sect-ion</td><td>inte̊r-sect-io̊n</td><td>n. a place where two roads or lines cross each other</td></tr>
-<tr><td>insecticide</td><td>insecti̊cīde</td><td>in-sect-i-cide</td><td>in-sect-i̊-cīde</td><td>n. a chemical substance used to kill insects</td></tr>
+<tr><td>insecticide</td><td>insecticīde</td><td>in-sect-i-cide</td><td>in-sect-i-cīde</td><td>n. a chemical substance used to kill insects</td></tr>
 <tr><td>insectivorous</td><td>insectivo̊ro̊us</td><td>in-sect-ivor-ous</td><td>in-sect-ivo̊r-o̊us</td><td>a. feeding on insects</td></tr>
 <tr><td>midsection</td><td>midsectio̊n</td><td>mid-sect-ion</td><td>mid-sect-io̊n</td><td>n. the middle area of the human torso</td></tr>
 <tr><td>resect</td><td>rėsect</td><td>re-sect</td><td>rė-sect</td><td>v. surgically remove a part of a structure or an organ</td></tr>
@@ -1325,28 +1325,28 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>secularization</td><td>secūlårīzātio̊n</td><td>secul-ar-iz-at-ion</td><td>secūl-år-īz-āt-io̊n</td><td>n. removing something from the control or influence of religion</td></tr>
 <tr><td>consecutive</td><td>co̊nsecūtive</td><td>con-secut-ive</td><td>co̊n-secūt-ive</td><td>a. following each other continuously</td></tr>
 <tr><td>consecutively</td><td>co̊nsecūtiv𝕖lẏ</td><td>con-secut-ive-ly</td><td>co̊n-secūt-iv𝕖-lẏ</td><td>adv. in a consecutive manner</td></tr>
-<tr><td>prosecute</td><td>prose̊cūte</td><td>pro-secute</td><td>pro-se̊cūte</td><td>v. to institute legal proceedings against someone<br>v. to continue with a course of action</td></tr>
+<tr><td>prosecute</td><td>prosėcūte</td><td>pro-secute</td><td>pro-sėcūte</td><td>v. to institute legal proceedings against someone<br>v. to continue with a course of action</td></tr>
 <tr><td>prosecutable</td><td>prosėcūtåble</td><td>pro-secut-able</td><td>pro-sėcūt-åble</td><td>a. capable of being prosecuted; liable to prosecution</td></tr>
 <tr><td>prosecuting</td><td>prosėcūting</td><td>pro-secut-ing</td><td>pro-sėcūt-ing</td><td>v. conduct a prosecution in a court of law<br>v. bring a criminal action against (in a trial)</td></tr>
-<tr><td>prosecution</td><td>prose̊cūtio̊n</td><td>pro-secut-ion</td><td>pro-se̊cūt-io̊n</td><td>n. the institution and conduct of legal proceedings against someone<br>n. the lawyers acting for the state in a criminal case</td></tr>
+<tr><td>prosecution</td><td>prosėcūtio̊n</td><td>pro-secut-ion</td><td>pro-sėcūt-io̊n</td><td>n. the institution and conduct of legal proceedings against someone<br>n. the lawyers acting for the state in a criminal case</td></tr>
 <tr><td>prosecutor</td><td>prosėcūto̊r</td><td>pro-secut-or</td><td>pro-sėcūt-o̊r</td><td>n. a person who conducts legal proceedings against someone</td></tr>
 <tr><td>prosecutorial</td><td>prosėcūtoriål</td><td>pro-secut-or-i-al</td><td>pro-sėcūt-or-i-ål</td><td>a. relating to a prosecutor or prosecution</td></tr>
 <tr><td>sedate</td><td>sėdāte</td><td>sed-ate</td><td>sėd-āte</td><td>a. characterized by dignity and propriety<br>v. to cause to be calm by administering a sedative</td></tr>
-<tr><td>sedulity</td><td>sėdūlitẏ</td><td>sedul-ity</td><td>sėdūl-itẏ</td><td>n. the quality of being diligent</td></tr>
+<tr><td>sedulity</td><td>sedūlitẏ</td><td>sedul-ity</td><td>sedūl-itẏ</td><td>n. the quality of being diligent</td></tr>
 <tr><td>sedulous</td><td>sedūlo̊us</td><td>sedul-ous</td><td>sedūl-o̊us</td><td>a. diligent and hardworking</td></tr>
-<tr><td>sedentary</td><td>sede̊ntarẏ</td><td>sed-ent-ary</td><td>sed-e̊nt-arẏ</td><td>a. requiring or involving much sitting<br>a. not migratory; settled</td></tr>
+<tr><td>sedentary</td><td>sede̊ntårẏ</td><td>sed-ent-ary</td><td>sed-e̊nt-årẏ</td><td>a. requiring or involving much sitting<br>a. not migratory; settled</td></tr>
 <tr><td>sedated</td><td>sėdātėd</td><td>sed-at-ed</td><td>sėd-āt-ėd</td><td>v. cause to be calm or quiet as by administering a sedative</td></tr>
-<tr><td>sedating</td><td>se̊dāting</td><td>sed-at-ing</td><td>se̊d-āt-ing</td><td>v. cause to be calm or quiet as by administering a sedative to</td></tr>
-<tr><td>sedation</td><td>se̊dātio̊n</td><td>sed-at-ion</td><td>se̊d-āt-io̊n</td><td>n. a state of reduced excitement or anxiety induced by a sedative agent</td></tr>
+<tr><td>sedating</td><td>sėdāting</td><td>sed-at-ing</td><td>sėd-āt-ing</td><td>v. cause to be calm or quiet as by administering a sedative to</td></tr>
+<tr><td>sedation</td><td>sedātio̊n</td><td>sed-at-ion</td><td>sed-āt-io̊n</td><td>n. a state of reduced excitement or anxiety induced by a sedative agent</td></tr>
 <tr><td>sedative</td><td>sedåtive</td><td>sed-at-ive</td><td>sed-åt-ive</td><td>n. a drug that reduces excitability and calms<br>a. tending to calm or soothe</td></tr>
 <tr><td>sedition</td><td>sėditio̊n</td><td>sed-it-ion</td><td>sėd-it-io̊n</td><td>n. an illegal action inciting resistance to lawful authority</td></tr>
 <tr><td>sedately</td><td>sėdāt𝕖lẏ</td><td>sed-ate-ly</td><td>sėd-āt𝕖-lẏ</td><td>adv. in a sedate manner</td></tr>
 <tr><td>supersede</td><td>sūpe̊rsēde</td><td>super-sede</td><td>sūpe̊r-sēde</td><td>vt. to take the place of something previously established</td></tr>
-<tr><td>sedan</td><td>se̊dan</td><td>sedan</td><td>se̊dan</td><td>n. a car with a closed body and front and rear seats</td></tr>
+<tr><td>sedan</td><td>sėdan</td><td>sedan</td><td>sėdan</td><td>n. a car with a closed body and front and rear seats</td></tr>
 <tr><td>sedge</td><td>sedge</td><td>sedge</td><td>sedge</td><td>n. a grasslike plant growing in wet places</td></tr>
-<tr><td>sediment</td><td>sedi̊me̊nt</td><td>sedi-ment</td><td>sedi̊-me̊nt</td><td>n. matter that has been deposited by some natural process</td></tr>
-<tr><td>sedimentary</td><td>sedi̊mentårẏ</td><td>sedi-ment-ary</td><td>sedi̊-ment-årẏ</td><td>a. resembling or containing or formed by the accumulation of sediment</td></tr>
-<tr><td>sedimentation</td><td>sedi̊me̊ntātio̊n</td><td>sedi-ment-at-ion</td><td>sedi̊-me̊nt-āt-io̊n</td><td>n. the phenomenon of sediment or gravel accumulating</td></tr>
+<tr><td>sediment</td><td>sedime̊nt</td><td>sedi-ment</td><td>sedi-me̊nt</td><td>n. matter that has been deposited by some natural process</td></tr>
+<tr><td>sedimentary</td><td>sedimentårẏ</td><td>sedi-ment-ary</td><td>sedi-ment-årẏ</td><td>a. resembling or containing or formed by the accumulation of sediment</td></tr>
+<tr><td>sedimentation</td><td>sedime̊ntātio̊n</td><td>sedi-ment-at-ion</td><td>sedi-me̊nt-āt-io̊n</td><td>n. the phenomenon of sediment or gravel accumulating</td></tr>
 <tr><td>seditious</td><td>sėditio̊us</td><td>sedit-ious</td><td>sėdit-io̊us</td><td>a. arousing to action or rebellion against authority</td></tr>
 <tr><td>sedum</td><td>sedům</td><td>sedum</td><td>sedům</td><td>n. any of various plants of the genus Sedum</td></tr>
 <tr><td>see</td><td>sēe</td><td>see</td><td>sēe</td><td>v. to perceive with the eyes; to understand; to meet or visit</td></tr>
@@ -1356,19 +1356,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>seesaw</td><td>sēesãw</td><td>see-saw</td><td>sēe-sãw</td><td>n. a board balanced on a fulcrum, ridden up and down by children at either end<br>v. to move up and down as if on a seesaw</td></tr>
 <tr><td>foreseeable</td><td>for𝕖sēeåble</td><td>fore-see-able</td><td>for𝕖-sēe-åble</td><td>a. capable of being anticipated</td></tr>
 <tr><td>foreseeability</td><td>for𝕖sēeåbilitẏ</td><td>fore-see-abil-ity</td><td>for𝕖-sēe-åbil-itẏ</td><td>n. the capability of being foreseen or anticipated</td></tr>
-<tr><td>foreseeably</td><td>for𝕖sēeāblẏ</td><td>fore-see-ab-ly</td><td>for𝕖-sēe-āb-lẏ</td><td>adv. in a manner that can be foreseen</td></tr>
+<tr><td>foreseeably</td><td>for𝕖sēeåblẏ</td><td>fore-see-ab-ly</td><td>for𝕖-sēe-åb-lẏ</td><td>adv. in a manner that can be foreseen</td></tr>
 <tr><td>oversee</td><td>ōve̊rsēe</td><td>over-see</td><td>ōve̊r-sēe</td><td>vt. supervise; watch over and direct</td></tr>
 <tr><td>overseer</td><td>ōve̊rsēer</td><td>over-seer</td><td>ōve̊r-sēer</td><td>n. a person who directs and manages an organization</td></tr>
 <tr><td>unseen</td><td>ûnsēen</td><td>un-seen</td><td>ûn-sēen</td><td>a. not observed</td></tr>
 <tr><td>unseeable</td><td>ûnsēeåble</td><td>un-see-able</td><td>ûn-sēe-åble</td><td>a. impossible or nearly impossible to see; imperceptible by the eye</td></tr>
 <tr><td>unseeing</td><td>ûnsēeing</td><td>un-see-ing</td><td>ûn-sēe-ing</td><td>a. not consciously observing; lacking sight</td></tr>
 <tr><td>unforeseen</td><td>ûnfor𝕖sēen</td><td>un-fore-seen</td><td>ûn-for𝕖-sēen</td><td>a. not anticipated or predicted</td></tr>
-<tr><td>unforeseeable</td><td>unfor𝕖sēeåble</td><td>un-fore-see-able</td><td>un-for𝕖-sēe-åble</td><td>a. incapable of being anticipated</td></tr>
-<tr><td>beseech</td><td>bēsēech</td><td>be-seech</td><td>bē-sēech</td><td>v. ask for or request earnestly</td></tr>
-<tr><td>beseeching</td><td>bēsēeching</td><td>be-seech-ing</td><td>bē-sēech-ing</td><td>a. begging</td></tr>
+<tr><td>unforeseeable</td><td>ûnfor𝕖sēeåble</td><td>un-fore-see-able</td><td>ûn-for𝕖-sēe-åble</td><td>a. incapable of being anticipated</td></tr>
+<tr><td>beseech</td><td>bėsēech</td><td>be-seech</td><td>bė-sēech</td><td>v. ask for or request earnestly</td></tr>
+<tr><td>beseeching</td><td>bėsēeching</td><td>be-seech-ing</td><td>bė-sēech-ing</td><td>a. begging</td></tr>
 <tr><td>beseechingly</td><td>bėsēechinglẏ</td><td>be-seech-ing-ly</td><td>bė-sēech-ing-lẏ</td><td>adv. in a beseeching manner</td></tr>
 <tr><td>seed</td><td>sēed</td><td>seed</td><td>sēed</td><td>n. a small hard part produced by a plant from which a new plant can grow<br>v. plant seeds</td></tr>
-<tr><td>seedbed</td><td>sēedb𝕖d</td><td>seed-bed</td><td>sēed-b𝕖d</td><td>n. a bed where seedlings are grown before transplanting</td></tr>
+<tr><td>seedbed</td><td>sēedbed</td><td>seed-bed</td><td>sēed-bed</td><td>n. a bed where seedlings are grown before transplanting</td></tr>
 <tr><td>seeded</td><td>sēedėd</td><td>seed-ed</td><td>sēed-ėd</td><td>a. having the seeds extracted<br>a. having seeds as specified</td></tr>
 <tr><td>seedhead</td><td>sēedhèad</td><td>seed-head</td><td>sēed-hèad</td><td>n. the seed-bearing part of a plant</td></tr>
 <tr><td>seeding</td><td>sēeding</td><td>seed-ing</td><td>sēed-ing</td><td>v. place seeds in the ground for future growth<br>v. distribute players so outstanding ones will not meet in early rounds</td></tr>
@@ -1377,17 +1377,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>seedpod</td><td>sēedpod</td><td>seed-pod</td><td>sēed-pod</td><td>n. a several-seeded dehiscent fruit as e.g. of a leguminous plant</td></tr>
 <tr><td>seeds</td><td>sēedṡ</td><td>seed-s</td><td>sēed-ṡ</td><td></td></tr>
 <tr><td>seedy</td><td>sēedẏ</td><td>seed-y</td><td>sēed-ẏ</td><td>a. full of seeds</td></tr>
-<tr><td>seediness</td><td>sėedinėss</td><td>seed-i-ness</td><td>sėed-i-nėss</td><td>n. a lack of elegance as a consequence of wearing threadbare or dirty clothing</td></tr>
+<tr><td>seediness</td><td>sēedinėss</td><td>seed-i-ness</td><td>sēed-i-nėss</td><td>n. a lack of elegance as a consequence of wearing threadbare or dirty clothing</td></tr>
 <tr><td>rapeseed</td><td>rāp𝕖sēed</td><td>rape-seed</td><td>rāp𝕖-sēed</td><td>n. seed of rape plants; source of an edible oil</td></tr>
-<tr><td>reseed</td><td>rēsēed</td><td>re-seed</td><td>rē-sēed</td><td>v. seed again or anew</td></tr>
+<tr><td>reseed</td><td>rėsēed</td><td>re-seed</td><td>rė-sēed</td><td>v. seed again or anew</td></tr>
 <tr><td>unseeded</td><td>ûnsēedėd</td><td>un-seed-ed</td><td>ûn-sēed-ėd</td><td>a. not seeded; used of players of lesser skill<br>a. (of a piece of ground) not having a crop sown on it</td></tr>
 <tr><td>cottonseed</td><td>cotto̊nsēed</td><td>cott-on-seed</td><td>cott-o̊n-sēed</td><td>n. seed of cotton plants; source of cottonseed oil</td></tr>
 <tr><td>seek</td><td>sēek</td><td>seek</td><td>sēek</td><td>v. to attempt to find something; to look for</td></tr>
 <tr><td>seeker</td><td>sēeke̊r</td><td>seek-er</td><td>sēek-e̊r</td><td>n. a person who is looking for something</td></tr>
 <tr><td>seeking</td><td>sēeking</td><td>seek-ing</td><td>sēek-ing</td><td>n. an attempt to acquire or gain something</td></tr>
 <tr><td>seeks</td><td>sēeks</td><td>seek-s</td><td>sēek-s</td><td></td></tr>
-<tr><td>sought</td><td>sought</td><td>sought</td><td>sought</td><td>a. that is looked for</td></tr>
-<tr><td>unsought</td><td>unsōught</td><td>un-sought</td><td>un-sōught</td><td>a. not desired or looked for</td></tr>
+<tr><td>sought</td><td>sōu𝕘𝕙t</td><td>sought</td><td>sōu𝕘𝕙t</td><td>a. that is looked for</td></tr>
+<tr><td>unsought</td><td>ûnsōu𝕘𝕙t</td><td>un-sought</td><td>ûn-sōu𝕘𝕙t</td><td>a. not desired or looked for</td></tr>
 <tr><td>seem</td><td>sēem</td><td>seem</td><td>sēem</td><td>vi. to appear to exist; to appear to one&#x27;s own mind or opinion</td></tr>
 <tr><td>seemed</td><td>sēem𝕖d</td><td>seem-ed</td><td>sēem-𝕖d</td><td></td></tr>
 <tr><td>seeming</td><td>sēeming</td><td>seem-ing</td><td>sēem-ing</td><td>a. appearing as such but not necessarily so</td></tr>
@@ -1402,39 +1402,39 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>seething</td><td>sēeṫhing</td><td>seeth-ing</td><td>sēeṫh-ing</td><td>a. in constant agitation</td></tr>
 <tr><td>segment</td><td>segme̊nt</td><td>seg-ment</td><td>seg-me̊nt</td><td>n. one of the parts into which something naturally divides<br>v. divide into segments</td></tr>
 <tr><td>segmental</td><td>segmentål</td><td>seg-ment-al</td><td>seg-ment-ål</td><td>a. divided or organized into segments</td></tr>
-<tr><td>segmentary</td><td>segme̊ntårẏ</td><td>seg-ment-ary</td><td>seg-me̊nt-årẏ</td><td>a. relating to or divided into segments</td></tr>
+<tr><td>segmentary</td><td>segmentårẏ</td><td>seg-ment-ary</td><td>seg-ment-årẏ</td><td>a. relating to or divided into segments</td></tr>
 <tr><td>segmented</td><td>segmentėd</td><td>seg-ment-ed</td><td>seg-ment-ėd</td><td>a. divided into segments<br>v. to divide into segments</td></tr>
 <tr><td>segmentation</td><td>segme̊ntātio̊n</td><td>seg-ment-at-ion</td><td>seg-me̊nt-āt-io̊n</td><td>n. the act of dividing into segments</td></tr>
 <tr><td>resegregation</td><td>rėsegrėgātio̊n</td><td>re-segreg-at-ion</td><td>rė-segrėg-āt-io̊n</td><td>n. the act of segregating again after integration</td></tr>
-<tr><td>segregate</td><td>segre̊gāte</td><td>se-greg-ate</td><td>se-gre̊g-āte</td><td>v. separate by race, religion, or other category; divide from the main body</td></tr>
-<tr><td>segregated</td><td>segre̊gātėd</td><td>se-greg-at-ed</td><td>se-gre̊g-āt-ėd</td><td>a. separated or isolated from others</td></tr>
-<tr><td>segregation</td><td>segre̊gātio̊n</td><td>se-greg-at-ion</td><td>se-gre̊g-āt-io̊n</td><td>n. the act of separating people by race or group</td></tr>
-<tr><td>segregationist</td><td>segre̊gātio̊nist</td><td>se-greg-at-ion-ist</td><td>se-gre̊g-āt-io̊n-ist</td><td>n. someone who believes the races should be kept apart</td></tr>
-<tr><td>desegregate</td><td>dėsegre̊gāte</td><td>de-segreg-ate</td><td>dė-segre̊g-āte</td><td>v. to open a place to members of all races and ethnic groups</td></tr>
-<tr><td>desegregated</td><td>dėsegrėgātėd</td><td>de-segreg-at-ed</td><td>dė-segrėg-āt-ėd</td><td>v. open (a place) to members of all races and ethnic groups</td></tr>
-<tr><td>desegregation</td><td>dėsegre̊gātio̊n</td><td>de-segreg-at-ion</td><td>dė-segre̊g-āt-io̊n</td><td>n. the action of ending racial segregation</td></tr>
-<tr><td>segue</td><td>seg𝕦e</td><td>segue</td><td>seg𝕦e</td><td>n. the act of changing smoothly from one state or situation to another<br>v. proceed without interruption</td></tr>
-<tr><td>abseil</td><td>àbṡeīl</td><td>ab-seil</td><td>àb-ṡeīl</td><td>n. a descent down a vertical surface using a rope<br>vi. to descend by rope</td></tr>
+<tr><td>segregate</td><td>segrėgāte</td><td>se-greg-ate</td><td>se-grėg-āte</td><td>v. separate by race, religion, or other category; divide from the main body</td></tr>
+<tr><td>segregated</td><td>segrėgātėd</td><td>se-greg-at-ed</td><td>se-grėg-āt-ėd</td><td>a. separated or isolated from others</td></tr>
+<tr><td>segregation</td><td>segrėgātio̊n</td><td>se-greg-at-ion</td><td>se-grėg-āt-io̊n</td><td>n. the act of separating people by race or group</td></tr>
+<tr><td>segregationist</td><td>segrėgātio̊nist</td><td>se-greg-at-ion-ist</td><td>se-grėg-āt-io̊n-ist</td><td>n. someone who believes the races should be kept apart</td></tr>
+<tr><td>desegregate</td><td>dēsegrėgāte</td><td>de-segreg-ate</td><td>dē-segrėg-āte</td><td>v. to open a place to members of all races and ethnic groups</td></tr>
+<tr><td>desegregated</td><td>dēsegrėgātėd</td><td>de-segreg-at-ed</td><td>dē-segrėg-āt-ėd</td><td>v. open (a place) to members of all races and ethnic groups</td></tr>
+<tr><td>desegregation</td><td>dēsegrėgātio̊n</td><td>de-segreg-at-ion</td><td>dē-segrėg-āt-io̊n</td><td>n. the action of ending racial segregation</td></tr>
+<tr><td>segue</td><td>seguè</td><td>segue</td><td>seguè</td><td>n. the act of changing smoothly from one state or situation to another<br>v. proceed without interruption</td></tr>
+<tr><td>abseil</td><td>absèil</td><td>ab-seil</td><td>ab-sèil</td><td>n. a descent down a vertical surface using a rope<br>vi. to descend by rope</td></tr>
 <tr><td>seine</td><td>sèine</td><td>seine</td><td>sèine</td><td>n. a large fishnet that hangs vertically, with floats at the top and weights at the bottom<br>v. fish with a seine; catch fish with a seine</td></tr>
 <tr><td>seismic</td><td>seīṡmic</td><td>seism-ic</td><td>seīṡm-ic</td><td>a. relating to earthquakes or earth vibrations</td></tr>
 <tr><td>seismicity</td><td>seīṡmicitẏ</td><td>seism-ic-ity</td><td>seīṡm-ic-itẏ</td><td>n. the occurrence or frequency of earthquakes in a region</td></tr>
-<tr><td>seismologist</td><td>seīṡmologist</td><td>seism-o-log-ist</td><td>seīṡm-o-log-ist</td><td>n. a geophysicist who studies earthquakes and the mechanical characteristics of the Earth</td></tr>
+<tr><td>seismologist</td><td>seīṡmolo̊gist</td><td>seism-o-log-ist</td><td>seīṡm-o-lo̊g-ist</td><td>n. a geophysicist who studies earthquakes and the mechanical characteristics of the Earth</td></tr>
 <tr><td>seismology</td><td>seīṡmolo̊gẏ</td><td>seism-o-log-y</td><td>seīṡm-o-lo̊g-ẏ</td><td>n. the branch of geology that studies earthquakes</td></tr>
-<tr><td>seismological</td><td>seīṡmo̊logi̊cål</td><td>seism-o-log-ic-al</td><td>seīṡm-o̊-log-i̊c-ål</td><td>a. of or concerned with seismology</td></tr>
-<tr><td>helioseismology</td><td>hēliōseīṡmo̊lo̊gẏ</td><td>helio-seism-o-log-y</td><td>hēliō-seīṡm-o̊-lo̊g-ẏ</td><td>n. the study of the interior of the sun by observing its oscillations</td></tr>
+<tr><td>seismological</td><td>seīṡmo̊logicål</td><td>seism-o-log-ic-al</td><td>seīṡm-o̊-log-ic-ål</td><td>a. of or concerned with seismology</td></tr>
+<tr><td>helioseismology</td><td>hēliōseīṡmolo̊gẏ</td><td>helio-seism-o-log-y</td><td>hēliō-seīṡm-o-lo̊g-ẏ</td><td>n. the study of the interior of the sun by observing its oscillations</td></tr>
 <tr><td>seize</td><td>sēize</td><td>seize</td><td>sēize</td><td>v. to take hold of something suddenly and forcefully<br>v. to take control of something by force</td></tr>
 <tr><td>seized</td><td>sēiz𝕖d</td><td>seiz-ed</td><td>sēiz-𝕖d</td><td>v. take hold of; grab<br>v. take possession of by force</td></tr>
 <tr><td>seizing</td><td>sēizing</td><td>seiz-ing</td><td>sēiz-ing</td><td>n. small stuff that is used for lashing two or more ropes together</td></tr>
 <tr><td>seizes</td><td>sēizėṡ</td><td>seize-s</td><td>sēizė-ṡ</td><td></td></tr>
 <tr><td>seizure</td><td>sēizůre</td><td>seiz-ure</td><td>sēiz-ůre</td><td>n. a sudden attack of illness<br>n. the act of taking possession by legal process</td></tr>
 <tr><td>seldom</td><td>seldo̊m</td><td>seld-om</td><td>seld-o̊m</td><td>adv. not often; rarely</td></tr>
-<tr><td>selenium</td><td>se̊lēniům</td><td>selen-ium</td><td>se̊lēn-iům</td><td>n. a toxic nonmetallic element used in photocells</td></tr>
+<tr><td>selenium</td><td>selēniům</td><td>selen-ium</td><td>selēn-iům</td><td>n. a toxic nonmetallic element used in photocells</td></tr>
 <tr><td>self</td><td>self</td><td>self</td><td>self</td><td>n. a person&#x27;s essential being<br>a. relating to oneself</td></tr>
 <tr><td>self-doubt</td><td>self-dòu𝕓t</td><td>self-doubt</td><td>self-dòu𝕓t</td><td>n. lack of confidence in oneself</td></tr>
 <tr><td>selves</td><td>selv𝕖ṡ</td><td>selv-es</td><td>selv-𝕖ṡ</td><td></td></tr>
 <tr><td>selfhood</td><td>selfhood</td><td>self-hood</td><td>self-hood</td><td>n. the quality that constitutes one&#x27;s individuality</td></tr>
 <tr><td>selfish</td><td>selfish</td><td>self-ish</td><td>self-ish</td><td>a. concerned chiefly with one&#x27;s own advantage</td></tr>
-<tr><td>selfless</td><td>selfle̊ss</td><td>self-less</td><td>self-le̊ss</td><td>a showing unselfish concern for the welfare of others</td></tr>
+<tr><td>selfless</td><td>selflėss</td><td>self-less</td><td>self-lėss</td><td>a showing unselfish concern for the welfare of others</td></tr>
 <tr><td>self-made</td><td>self-māde</td><td>self-made</td><td>self-māde</td><td>a. having become successful by one&#x27;s own efforts</td></tr>
 <tr><td>self-pity</td><td>self-pitẏ</td><td>self-pity</td><td>self-pitẏ</td><td>n. excessive self-pity</td></tr>
 <tr><td>selfsame</td><td>selfsāme</td><td>self-same</td><td>self-sāme</td><td>a. being the exact same one; not any other</td></tr>
@@ -1443,10 +1443,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>self-willed</td><td>self-will𝕖d</td><td>self-will-ed</td><td>self-will-𝕖d</td><td>a. determined to have one&#x27;s own way</td></tr>
 <tr><td>self-service</td><td>self-se̊rvice</td><td>self-serv-ice</td><td>self-se̊rv-ice</td><td>n. serving oneself without help</td></tr>
 <tr><td>selfishly</td><td>selfishlẏ</td><td>self-ish-ly</td><td>self-ish-lẏ</td><td>adv. in an egotistical manner</td></tr>
-<tr><td>selflessly</td><td>selfle̊sslẏ</td><td>self-less-ly</td><td>self-le̊ss-lẏ</td><td>adv. in an altruistic manner</td></tr>
-<tr><td>selfishness</td><td>selfishne̊ss</td><td>self-ish-ness</td><td>self-ish-ne̊ss</td><td>n. the quality of being concerned only with oneself</td></tr>
-<tr><td>selflessness</td><td>selfle̊ssnėss</td><td>self-less-ness</td><td>self-le̊ss-nėss</td><td>n. acting with less concern for yourself than for the success of the joint activity</td></tr>
-<tr><td>self-esteem</td><td>self-ėstēem</td><td>self-e-steem</td><td>self-ė-stēem</td><td>n. confidence in one&#x27;s own worth</td></tr>
+<tr><td>selflessly</td><td>selflėsslẏ</td><td>self-less-ly</td><td>self-lėss-lẏ</td><td>adv. in an altruistic manner</td></tr>
+<tr><td>selfishness</td><td>selfishnėss</td><td>self-ish-ness</td><td>self-ish-nėss</td><td>n. the quality of being concerned only with oneself</td></tr>
+<tr><td>selflessness</td><td>selflėssnėss</td><td>self-less-ness</td><td>self-lėss-nėss</td><td>n. acting with less concern for yourself than for the success of the joint activity</td></tr>
+<tr><td>self-esteem</td><td>self-estēem</td><td>self-e-steem</td><td>self-e-stēem</td><td>n. confidence in one&#x27;s own worth</td></tr>
 <tr><td>self-respect</td><td>self-rėspect</td><td>self-re-spect</td><td>self-rė-spect</td><td>n. pride and confidence in oneself</td></tr>
 <tr><td>self-restraint</td><td>self-rėstrāint</td><td>self-re-straint</td><td>self-rė-strāint</td><td>n. restraint exercised by oneself</td></tr>
 <tr><td>self-control</td><td>self-co̊ntrōl</td><td>self-con-trol</td><td>self-co̊n-trōl</td><td>n. the ability to control oneself</td></tr>
@@ -1456,7 +1456,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>self-confident</td><td>self-confide̊nt</td><td>self-con-fid-ent</td><td>self-con-fid-e̊nt</td><td>a. having confidence in oneself</td></tr>
 <tr><td>self-employed</td><td>self-ėmploẏ𝕖d</td><td>self-em-ploy-ed</td><td>self-ėm-ploẏ-𝕖d</td><td>a. working for oneself</td></tr>
 <tr><td>self-absorbed</td><td>self-åbsorb𝕖d</td><td>self-ab-sorb-ed</td><td>self-åb-sorb-𝕖d</td><td>a. preoccupied with oneself</td></tr>
-<tr><td>self-assured</td><td>self-åssūred</td><td>self-as-sur-ed</td><td>self-ås-sūr-ed</td><td>a. confident in one&#x27;s own abilities</td></tr>
+<tr><td>self-assured</td><td>self-åssūr𝕖d</td><td>self-as-sur-ed</td><td>self-ås-sūr-𝕖d</td><td>a. confident in one&#x27;s own abilities</td></tr>
 <tr><td>self-contained</td><td>self-co̊ntāin𝕖d</td><td>self-con-tain-ed</td><td>self-co̊n-tāin-𝕖d</td><td>a. independent, not needing others</td></tr>
 <tr><td>self-interest</td><td>self-inte̊rėst</td><td>self-in-ter-est</td><td>self-in-te̊r-ėst</td><td>n. one&#x27;s own personal advantage</td></tr>
 <tr><td>self-evident</td><td>self-evide̊nt</td><td>self-e-vid-ent</td><td>self-e-vid-e̊nt</td><td>a. clear without needing proof</td></tr>
@@ -1468,20 +1468,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>self-assertion</td><td>self-åsse̊rtio̊n</td><td>self-as-sert-ion</td><td>self-ås-se̊rt-io̊n</td><td>n. the act of asserting oneself</td></tr>
 <tr><td>self-analysis</td><td>self-ånalẏsis</td><td>self-an-a-lysis</td><td>self-ån-a-lẏsis</td><td>n. the analysis of one&#x27;s own behavior</td></tr>
 <tr><td>self-abasement</td><td>self-åbās𝕖me̊nt</td><td>self-a-base-ment</td><td>self-å-bās𝕖-me̊nt</td><td>n. humbling or degrading oneself</td></tr>
-<tr><td>self-government</td><td>self-gôvernme̊nt</td><td>self-gov-ern-ment</td><td>self-gôv-ern-me̊nt</td><td>n. self-rule, autonomy</td></tr>
-<tr><td>self-effacement</td><td>self-ėffāceme̊nt</td><td>self-ef-face-ment</td><td>self-ėf-fāce-me̊nt</td><td>n. the act of keeping oneself in the background</td></tr>
-<tr><td>self-improvement</td><td>self-improv𝕖me̊nt</td><td>self-im-prove-ment</td><td>self-im-prov𝕖-me̊nt</td><td>n. the improvement of oneself</td></tr>
+<tr><td>self-government</td><td>self-gôve̊rnme̊nt</td><td>self-gov-ern-ment</td><td>self-gôv-e̊rn-me̊nt</td><td>n. self-rule, autonomy</td></tr>
+<tr><td>self-effacement</td><td>self-ėffāc𝕖me̊nt</td><td>self-ef-face-ment</td><td>self-ėf-fāc𝕖-me̊nt</td><td>n. the act of keeping oneself in the background</td></tr>
+<tr><td>self-improvement</td><td>self-imprõv𝕖me̊nt</td><td>self-im-prove-ment</td><td>self-im-prõv𝕖-me̊nt</td><td>n. the improvement of oneself</td></tr>
 <tr><td>self-assessment</td><td>self-åssessme̊nt</td><td>self-as-sess-ment</td><td>self-ås-sess-me̊nt</td><td>n. evaluation of one&#x27;s own performance</td></tr>
-<tr><td>self-righteousness</td><td>self-rī𝕘𝕙teousnėss</td><td>self-right-eous-ness</td><td>self-rī𝕘𝕙t-eous-nėss</td><td>n. the quality of being smugly moral</td></tr>
+<tr><td>self-righteousness</td><td>self-rī𝕘𝕙t𝕖o̊usnėss</td><td>self-right-eous-ness</td><td>self-rī𝕘𝕙t-𝕖o̊us-nėss</td><td>n. the quality of being smugly moral</td></tr>
 <tr><td>self-contradictory</td><td>self-contrådicto̊rẏ</td><td>self-contra-dict-ory</td><td>self-contrå-dict-o̊rẏ</td><td>a. containing contradictory elements</td></tr>
 <tr><td>self-conscious</td><td>self-conscio̊us</td><td>self-con-sci-ous</td><td>self-con-sci-o̊us</td><td>a. feeling undue awareness of oneself</td></tr>
 <tr><td>self-sufficient</td><td>self-sůfficie̊nt</td><td>self-suf-fic-i-ent</td><td>self-sůf-fic-i-e̊nt</td><td>a. needing no outside help</td></tr>
 <tr><td>self-education</td><td></td><td>self-e-duc-at-ion</td><td></td><td>n. education by one&#x27;s own efforts</td></tr>
-<tr><td>self-realization</td><td>self-rėålīzātio̊n</td><td>self-real-iz-at-ion</td><td>self-rėål-īz-āt-io̊n</td><td>n. the fulfillment of one&#x27;s potential</td></tr>
+<tr><td>self-realization</td><td>self-rēalīzātio̊n</td><td>self-real-iz-at-ion</td><td>self-rēal-īz-āt-io̊n</td><td>n. the fulfillment of one&#x27;s potential</td></tr>
 <tr><td>self-annihilation</td><td>self-ånnī𝕙i̊lātio̊n</td><td>self-an-nihil-at-ion</td><td>self-ån-nī𝕙i̊l-āt-io̊n</td><td>n. the destruction of oneself</td></tr>
 <tr><td>self-deprecating</td><td>self-deprėcāting</td><td>self-de-prec-at-ing</td><td>self-de-prėc-āt-ing</td><td>a. modestly understating one&#x27;s importance</td></tr>
 <tr><td>self-deprecation</td><td></td><td>self-de-prec-at-ion</td><td></td><td>n. the act of belittling oneself</td></tr>
-<tr><td>self-preservation</td><td>self-prese̊rvātio̊n</td><td>self-pre-serv-at-ion</td><td>self-pre-se̊rv-āt-io̊n</td><td>n. the instinct to protect oneself</td></tr>
+<tr><td>self-preservation</td><td>self-preṡe̊rvātio̊n</td><td>self-pre-serv-at-ion</td><td>self-pre-ṡe̊rv-āt-io̊n</td><td>n. the instinct to protect oneself</td></tr>
 <tr><td>self-adulation</td><td></td><td>self-ad-ul-at-ion</td><td></td><td>n. excessive admiration of oneself</td></tr>
 <tr><td>self-opinionated</td><td>self-o̊pinio̊nātėd</td><td>self-op-in-ion-at-ed</td><td>self-o̊p-in-io̊n-āt-ėd</td><td>a. conceited and stubborn</td></tr>
 <tr><td>self-determination</td><td>self-dėte̊rminātio̊n</td><td>self-de-term-in-at-ion</td><td>self-dė-te̊rm-in-āt-io̊n</td><td>n. the right to decide one&#x27;s own fate</td></tr>
@@ -1493,7 +1493,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>oneself</td><td>ôn𝕖self</td><td>one-self</td><td>ôn𝕖-self</td><td>pron. a reflexive form of the indefinite pronoun one</td></tr>
 <tr><td>unselfish</td><td>ûnselfish</td><td>un-self-ish</td><td>ûn-self-ish</td><td>a. disregarding your own advantages and welfare over those of others</td></tr>
 <tr><td>unselfishly</td><td>ûnselfishlẏ</td><td>un-self-ish-ly</td><td>ûn-self-ish-lẏ</td><td>adv. in an unselfish manner</td></tr>
-<tr><td>unselfishness</td><td>ûnselfishne̊ss</td><td>un-self-ish-ness</td><td>ûn-self-ish-ne̊ss</td><td>n. the quality of being willing to give your time, money or effort for others</td></tr>
+<tr><td>unselfishness</td><td>ûnselfishnėss</td><td>un-self-ish-ness</td><td>ûn-self-ish-nėss</td><td>n. the quality of being willing to give your time, money or effort for others</td></tr>
 <tr><td>yourself</td><td>yōurself</td><td>your-self</td><td>yōur-self</td><td>pron. used to refer to the person being addressed as the object of a verb or preposition</td></tr>
 <tr><td>do-it-yourself</td><td>dõ-it-yōurself</td><td>do-it-your-self</td><td>dõ-it-yōur-self</td><td>a. made or repaired by oneself rather than by a professional</td></tr>
 <tr><td>sell</td><td>sell</td><td>sell</td><td>sell</td><td>v. to exchange goods or services for money<br>v. to persuade someone to accept something</td></tr>
@@ -1510,28 +1510,28 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>undersell</td><td>ûnde̊rsell</td><td>under-sell</td><td>ûnde̊r-sell</td><td>v. sell cheaper than one&#x27;s competition</td></tr>
 <tr><td>sold</td><td>sōld</td><td>sold</td><td>sōld</td><td>a. disposed of to a purchaser</td></tr>
 <tr><td>unsold</td><td>ûnsōld</td><td>un-sold</td><td>ûn-sōld</td><td>a. not disposed of by purchase</td></tr>
-<tr><td>sellotape</td><td>sello̊tape</td><td>sello-tape</td><td>sello̊-tape</td><td>n. transparent adhesive tape</td></tr>
+<tr><td>sellotape</td><td>sello̊tāpe</td><td>sello-tape</td><td>sello̊-tāpe</td><td>n. transparent adhesive tape</td></tr>
 <tr><td>seltzer</td><td>seltze̊r</td><td>seltz-er</td><td>seltz-e̊r</td><td>n. naturally effervescent mineral water</td></tr>
-<tr><td>selva</td><td>sèlvå</td><td>selva</td><td>sèlvå</td><td>n. a rain forest in a tropical area</td></tr>
-<tr><td>proselytism</td><td>prosėlẏtiṡm</td><td>pro-selyt-ism</td><td>pro-sėlẏt-iṡm</td><td>n. the practice of proselytizing<br>n. spiritual rebirth resulting from crusading advocacy of the gospel</td></tr>
-<tr><td>proselytize</td><td>prose̊lẙtīze</td><td>pro-selyt-ize</td><td>pro-se̊lẙt-īze</td><td>v. to convert to another faith or religion</td></tr>
-<tr><td>proselytizer</td><td>prose̊lẙtīze̊r</td><td>pro-selyt-iz-er</td><td>pro-se̊lẙt-īz-e̊r</td><td>n. one who proselytizes; someone who tries to convert others to a religion or belief</td></tr>
-<tr><td>proselytizing</td><td>prose̊lẙtīzing</td><td>pro-selyt-iz-ing</td><td>pro-se̊lẙt-īz-ing</td><td>v. convert to another faith or religion</td></tr>
-<tr><td>proselytization</td><td>pros𝕖lȳtīzātio̊n</td><td>pro-selyt-iz-at-ion</td><td>pro-s𝕖lȳt-īz-āt-io̊n</td><td>n. the act of converting someone to a religion or belief</td></tr>
+<tr><td>selva</td><td>selvå</td><td>selva</td><td>selvå</td><td>n. a rain forest in a tropical area</td></tr>
+<tr><td>proselytism</td><td>pros𝕖lȳtiṡm</td><td>pro-selyt-ism</td><td>pro-s𝕖lȳt-iṡm</td><td>n. the practice of proselytizing<br>n. spiritual rebirth resulting from crusading advocacy of the gospel</td></tr>
+<tr><td>proselytize</td><td>prose̊lẏtīze</td><td>pro-selyt-ize</td><td>pro-se̊lẏt-īze</td><td>v. to convert to another faith or religion</td></tr>
+<tr><td>proselytizer</td><td>pros𝕖lẏtīze̊r</td><td>pro-selyt-iz-er</td><td>pro-s𝕖lẏt-īz-e̊r</td><td>n. one who proselytizes; someone who tries to convert others to a religion or belief</td></tr>
+<tr><td>proselytizing</td><td>prose̊lẏtīzing</td><td>pro-selyt-iz-ing</td><td>pro-se̊lẏt-īz-ing</td><td>v. convert to another faith or religion</td></tr>
+<tr><td>proselytization</td><td>pros𝕖lẏtīzātio̊n</td><td>pro-selyt-iz-at-ion</td><td>pro-s𝕖lẏt-īz-āt-io̊n</td><td>n. the act of converting someone to a religion or belief</td></tr>
 <tr><td>proselyte</td><td>pros𝕖lȳte</td><td>pro-selyte</td><td>pro-s𝕖lȳte</td><td>n. a person who has changed religion</td></tr>
 <tr><td>semester</td><td>sėmeste̊r</td><td>sem-est-er</td><td>sėm-est-e̊r</td><td>n. a half-year term in a school or college</td></tr>
 <tr><td>semesters</td><td>se̊meste̊rṡ</td><td>sem-est-er-s</td><td>se̊m-est-e̊r-ṡ</td><td></td></tr>
 <tr><td>semiology</td><td>semiolo̊gẏ</td><td>semi-o-log-y</td><td>semi-o-lo̊g-ẏ</td><td>n. (philosophy) a philosophical theory of the functions of signs and symbols</td></tr>
 <tr><td>semiological</td><td>semio̊logicål</td><td>semi-o-log-ic-al</td><td>semi-o̊-log-ic-ål</td><td>a. of or relating to semiotics or semiology</td></tr>
 <tr><td>dissemble</td><td>dissemble</td><td>dis-semble</td><td>dis-semble</td><td>v. hide under a false appearance<br>v. behave unnaturally or affectedly</td></tr>
-<tr><td>polysemy</td><td>polẏsēmẏ</td><td>poly-semy</td><td>polẏ-sēmẏ</td><td>n. the ambiguity of a word that can express two or more different meanings</td></tr>
-<tr><td>polysemous</td><td>polẏsēmo̊us</td><td>poly-sem-ous</td><td>polẏ-sēm-o̊us</td><td>a. having many meanings</td></tr>
-<tr><td>semantic</td><td>sėmantic</td><td>semant-ic</td><td>sėmant-ic</td><td>a. of or relating to meaning or the study of meaning</td></tr>
-<tr><td>semantics</td><td>sėmantics</td><td>semant-ic-s</td><td>sėmant-ic-s</td><td>n. the study of meaning in language</td></tr>
-<tr><td>semantically</td><td>sėmanticållẏ</td><td>semant-ic-al-ly</td><td>sėmant-ic-ål-lẏ</td><td>adv. with regard to meaning</td></tr>
+<tr><td>polysemy</td><td>polẏse̊mẏ</td><td>poly-semy</td><td>polẏ-se̊mẏ</td><td>n. the ambiguity of a word that can express two or more different meanings</td></tr>
+<tr><td>polysemous</td><td>polẏsemo̊us</td><td>poly-sem-ous</td><td>polẏ-sem-o̊us</td><td>a. having many meanings</td></tr>
+<tr><td>semantic</td><td>se̊mantic</td><td>semant-ic</td><td>se̊mant-ic</td><td>a. of or relating to meaning or the study of meaning</td></tr>
+<tr><td>semantics</td><td>se̊mantics</td><td>semant-ic-s</td><td>se̊mant-ic-s</td><td>n. the study of meaning in language</td></tr>
+<tr><td>semantically</td><td>se̊manticållẏ</td><td>semant-ic-al-ly</td><td>se̊mant-ic-ål-lẏ</td><td>adv. with regard to meaning</td></tr>
 <tr><td>semblance</td><td>semblånce</td><td>sembl-ance</td><td>sembl-ånce</td><td>n. an outward or token appearance or form that is deliberately misleading</td></tr>
 <tr><td>assemble</td><td>åssemble</td><td>as-semble</td><td>ås-semble</td><td>v. to bring people or things together for a particular purpose<br>vt. to put parts together to make something</td></tr>
-<tr><td>assemblage</td><td>åssemblåge</td><td>as-sembl-age</td><td>ås-sembl-åge</td><td>n. a group of things or people gathered together</td></tr>
+<tr><td>assemblage</td><td>åssemblȧge</td><td>as-sembl-age</td><td>ås-sembl-ȧge</td><td>n. a group of things or people gathered together</td></tr>
 <tr><td>assembled</td><td>åssembl𝕖d</td><td>as-sembl-ed</td><td>ås-sembl-𝕖d</td><td>a. brought together into a whole</td></tr>
 <tr><td>assembler</td><td>åssemble̊r</td><td>as-sembl-er</td><td>ås-sembl-e̊r</td><td>n. a program to convert assembly language into machine language</td></tr>
 <tr><td>assembling</td><td>åssembling</td><td>as-sembl-ing</td><td>ås-sembl-ing</td><td>v. create by putting components or members together<br>v. collect in one place</td></tr>
@@ -1545,33 +1545,33 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>disassemble</td><td>disåssemble</td><td>dis-as-semble</td><td>dis-ås-semble</td><td>v. to take apart into its constituent pieces</td></tr>
 <tr><td>disassembled</td><td>disåssembl𝕖d</td><td>dis-as-sembl-ed</td><td>dis-ås-sembl-𝕖d</td><td>v. take apart into its constituent pieces</td></tr>
 <tr><td>disassembly</td><td>disåssemblẏ</td><td>dis-as-semb-ly</td><td>dis-ås-semb-lẏ</td><td>n. the act of taking something apart</td></tr>
-<tr><td>reassemble</td><td>rēassemble</td><td>re-as-semble</td><td>rē-as-semble</td><td>v. assemble once again, after taking something apart</td></tr>
-<tr><td>reassembly</td><td>rēassemblẏ</td><td>re-as-semb-ly</td><td>rē-as-semb-lẏ</td><td>n. assembling again</td></tr>
+<tr><td>reassemble</td><td>rēåssemble</td><td>re-as-semble</td><td>rē-ås-semble</td><td>v. assemble once again, after taking something apart</td></tr>
+<tr><td>reassembly</td><td>rēåssemblẏ</td><td>re-as-semb-ly</td><td>rē-ås-semb-lẏ</td><td>n. assembling again</td></tr>
 <tr><td>subassembly</td><td>sûbåssemblẏ</td><td>sub-as-semb-ly</td><td>sûb-ås-semb-lẏ</td><td>n. a unit assembled separately but designed to fit with other units in a finished product</td></tr>
 <tr><td>unassembled</td><td>ûnåssembl𝕖d</td><td>un-as-sembl-ed</td><td>ûn-ås-sembl-𝕖d</td><td>a. not assembled or put together</td></tr>
 <tr><td>semen</td><td>sēme̊n</td><td>semen</td><td>sēme̊n</td><td>n. the thick white fluid containing sperm, ejaculated by males</td></tr>
-<tr><td>semi</td><td>semĩ</td><td>semi</td><td>semĩ</td><td>n. a semi-detached house; a semi-trailer truck</td></tr>
-<tr><td>seminal</td><td>semi̊nål</td><td>semin-al</td><td>semi̊n-ål</td><td>a. relating to semen or seed; highly original and influential</td></tr>
-<tr><td>seminar</td><td>semi̊nàr</td><td>semin-ar</td><td>semi̊n-àr</td><td>n. a conference or meeting for discussion or training<br>n. a class at a university for a small group of advanced students</td></tr>
-<tr><td>seminary</td><td>semi̊narẏ</td><td>semin-ary</td><td>semi̊n-arẏ</td><td>n. a private place of education for the young<br>n. a theological school for training ministers or priests</td></tr>
-<tr><td>seminarian</td><td>semi̊nariån</td><td>semin-ar-ian</td><td>semi̊n-ar-iån</td><td>n. a student at a seminary (especially a Roman Catholic seminary)</td></tr>
+<tr><td>semi</td><td>semi</td><td>semi</td><td>semi</td><td>n. a semi-detached house; a semi-trailer truck</td></tr>
+<tr><td>seminal</td><td>seminål</td><td>semin-al</td><td>semin-ål</td><td>a. relating to semen or seed; highly original and influential</td></tr>
+<tr><td>seminar</td><td>seminàr</td><td>semin-ar</td><td>semin-àr</td><td>n. a conference or meeting for discussion or training<br>n. a class at a university for a small group of advanced students</td></tr>
+<tr><td>seminary</td><td>seminårẏ</td><td>semin-ary</td><td>semin-årẏ</td><td>n. a private place of education for the young<br>n. a theological school for training ministers or priests</td></tr>
+<tr><td>seminarian</td><td>semināriån</td><td>semin-ar-ian</td><td>semin-ār-iån</td><td>n. a student at a seminary (especially a Roman Catholic seminary)</td></tr>
 <tr><td>seminars</td><td>seminàrṡ</td><td>semin-ar-s</td><td>semin-àr-ṡ</td><td></td></tr>
-<tr><td>disseminate</td><td>dissemi̊nāte</td><td>dis-semin-ate</td><td>dis-semi̊n-āte</td><td>v. cause to become widely known</td></tr>
-<tr><td>disseminated</td><td>dissemi̊nāt𝕖d</td><td>dis-semin-at-ed</td><td>dis-semi̊n-āt-𝕖d</td><td>v cause to become widely known</td></tr>
-<tr><td>dissemination</td><td>dissemi̊nātio̊n</td><td>dis-semin-at-ion</td><td>dis-semi̊n-āt-io̊n</td><td>n. the act of spreading information widely</td></tr>
-<tr><td>disseminator</td><td>dissemi̊nāto̊r</td><td>dis-semin-at-or</td><td>dis-semi̊n-āt-o̊r</td><td>n. someone who spreads the news</td></tr>
-<tr><td>inseminate</td><td>insemi̊nāte</td><td>in-semin-ate</td><td>in-semi̊n-āte</td><td>v. place seeds in or on the ground<br>v. introduce semen into a female</td></tr>
-<tr><td>insemination</td><td>insemi̊nātio̊n</td><td>in-semin-at-ion</td><td>in-semi̊n-āt-io̊n</td><td>n. the introduction of semen into the genital tract of a female</td></tr>
+<tr><td>disseminate</td><td>dissemināte</td><td>dis-semin-ate</td><td>dis-semin-āte</td><td>v. cause to become widely known</td></tr>
+<tr><td>disseminated</td><td>disseminātėd</td><td>dis-semin-at-ed</td><td>dis-semin-āt-ėd</td><td>v cause to become widely known</td></tr>
+<tr><td>dissemination</td><td>disseminātio̊n</td><td>dis-semin-at-ion</td><td>dis-semin-āt-io̊n</td><td>n. the act of spreading information widely</td></tr>
+<tr><td>disseminator</td><td>dissemināto̊r</td><td>dis-semin-at-or</td><td>dis-semin-āt-o̊r</td><td>n. someone who spreads the news</td></tr>
+<tr><td>inseminate</td><td>insemināte</td><td>in-semin-ate</td><td>in-semin-āte</td><td>v. place seeds in or on the ground<br>v. introduce semen into a female</td></tr>
+<tr><td>insemination</td><td>inseminātio̊n</td><td>in-semin-at-ion</td><td>in-semin-āt-io̊n</td><td>n. the introduction of semen into the genital tract of a female</td></tr>
 <tr><td>semiotic</td><td>semiotic</td><td>semiot-ic</td><td>semiot-ic</td><td>a. of or relating to semiotics</td></tr>
 <tr><td>semiotician</td><td>semioticiån</td><td>semiot-ic-ian</td><td>semiot-ic-iån</td><td>n. a specialist in the study of meaning</td></tr>
 <tr><td>semiotics</td><td>semiotics</td><td>semiot-ic-s</td><td>semiot-ic-s</td><td>n. a philosophical theory of the functions of signs and symbols</td></tr>
-<tr><td>semitic</td><td>se̊mitic</td><td>semit-ic</td><td>se̊mit-ic</td><td>a. of or relating to or characteristic of Semites<br>n. a major branch of the Afro-Asiatic language family</td></tr>
+<tr><td>semitic</td><td>semitic</td><td>semit-ic</td><td>semit-ic</td><td>a. of or relating to or characteristic of Semites<br>n. a major branch of the Afro-Asiatic language family</td></tr>
 <tr><td>semolina</td><td>semo̊lĩnå</td><td>semolina</td><td>semo̊lĩnå</td><td>n. milled product of durum wheat (or other hard wheat) used in pasta</td></tr>
 <tr><td>sen</td><td>sen</td><td>sen</td><td>sen</td><td>n. a fractional monetary unit of Japan and Indonesia and Cambodia and Malaysia</td></tr>
 <tr><td>senate</td><td>senȧte</td><td>sen-ate</td><td>sen-ȧte</td><td>n. an assembly possessing high legislative powers</td></tr>
 <tr><td>senile</td><td>sēnīle</td><td>sen-ile</td><td>sēn-īle</td><td>a. mentally or physically infirm with age</td></tr>
 <tr><td>senior</td><td>sēnio̊r</td><td>seni-or</td><td>sēni-o̊r</td><td>n. a person who is older or higher in rank<br>a. older or higher in rank<br>a. in the final year of study</td></tr>
-<tr><td>senility</td><td>se̊nili̊tẏ</td><td>sen-il-ity</td><td>se̊n-il-i̊tẏ</td><td>n. the state of being senile</td></tr>
+<tr><td>senility</td><td>sēnilitẏ</td><td>sen-il-ity</td><td>sēn-il-itẏ</td><td>n. the state of being senile</td></tr>
 <tr><td>seniority</td><td>sēnioritẏ</td><td>seni-or-ity</td><td>sēni-or-itẏ</td><td>n. the fact of being older or having higher rank</td></tr>
 <tr><td>senator</td><td>senåto̊r</td><td>sen-at-or</td><td>sen-åt-o̊r</td><td>n. a member of a senate</td></tr>
 <tr><td>seniors</td><td>sēnio̊rṡ</td><td>seni-or-s</td><td>sēni-o̊r-ṡ</td><td></td></tr>
@@ -1582,9 +1582,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sender</td><td>sende̊r</td><td>send-er</td><td>send-e̊r</td><td>n. someone who transmits a message</td></tr>
 <tr><td>sending</td><td>sending</td><td>send-ing</td><td>send-ing</td><td>n. the act of causing something to go (especially messages)</td></tr>
 <tr><td>sends</td><td>sendṡ</td><td>send-s</td><td>send-ṡ</td><td></td></tr>
-<tr><td>senegalese</td><td>sene̊gålēṡe</td><td>senegal-ese</td><td>sene̊gål-ēṡe</td><td>n. a native or inhabitant of Senegal<br>a. of or relating to Senegal or its people</td></tr>
-<tr><td>senescence</td><td>se̊nesce̊nce</td><td>senesc-ence</td><td>se̊nesc-e̊nce</td><td>n. the organic process of growing older and showing the effects of increasing age</td></tr>
-<tr><td>senescent</td><td>sėnesc𝕖nt</td><td>senesc-ent</td><td>sėnesc-𝕖nt</td><td>a. growing old, aging</td></tr>
+<tr><td>senegalese</td><td>senėgālēṡe</td><td>senegal-ese</td><td>senėgāl-ēṡe</td><td>n. a native or inhabitant of Senegal<br>a. of or relating to Senegal or its people</td></tr>
+<tr><td>senescence</td><td>senesce̊nce</td><td>senesc-ence</td><td>senesc-e̊nce</td><td>n. the organic process of growing older and showing the effects of increasing age</td></tr>
+<tr><td>senescent</td><td>senesce̊nt</td><td>senesc-ent</td><td>senesc-e̊nt</td><td>a. growing old, aging</td></tr>
 <tr><td>seneschal</td><td>senėschål</td><td>seneschal</td><td>senėschål</td><td>n. a steward or major-domo</td></tr>
 <tr><td>sense</td><td>sense</td><td>sense</td><td>sense</td><td>n. a faculty by which the body perceives external stimuli<br>n. a feeling or understanding produced by a stimulus<br>vt. to perceive or detect something</td></tr>
 <tr><td>sensate</td><td>sensāte</td><td>sens-ate</td><td>sens-āte</td><td>a. having physical sensation</td></tr>
@@ -1596,70 +1596,70 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>senses</td><td>sensėṡ</td><td>sense-s</td><td>sensė-ṡ</td><td></td></tr>
 <tr><td>sensual</td><td>sensūål</td><td>sens-u-al</td><td>sens-ū-ål</td><td>a. relating to or affecting the senses; sexually arousing</td></tr>
 <tr><td>sensation</td><td>sensātio̊n</td><td>sens-at-ion</td><td>sens-āt-io̊n</td><td>n. a physical feeling<br>n. widespread excitement or interest</td></tr>
-<tr><td>sensibility</td><td>sensibilitẏ</td><td>sens-ibil-ity</td><td>sens-ibil-itẏ</td><td>n. the ability to feel or perceive things<br>n. refined emotional sensitivity</td></tr>
+<tr><td>sensibility</td><td>sensi̊bilitẏ</td><td>sens-ibil-ity</td><td>sens-i̊bil-itẏ</td><td>n. the ability to feel or perceive things<br>n. refined emotional sensitivity</td></tr>
 <tr><td>sensitive</td><td>sensitive</td><td>sens-it-ive</td><td>sens-it-ive</td><td>a. responsive to physical stimuli<br>a. being susceptible to the attitudes, feelings, or circumstances of others</td></tr>
-<tr><td>sensitize</td><td>sensi̊tīze</td><td>sens-it-ize</td><td>sens-i̊t-īze</td><td>v. to make sensitive or aware</td></tr>
+<tr><td>sensitize</td><td>sensitīze</td><td>sens-it-ize</td><td>sens-it-īze</td><td>v. to make sensitive or aware</td></tr>
 <tr><td>sensorial</td><td>sensoriål</td><td>sens-or-ial</td><td>sens-or-iål</td><td>a. involving or derived from the senses</td></tr>
 <tr><td>sensorium</td><td>sensoriům</td><td>sens-or-ium</td><td>sens-or-iům</td><td>n. brain areas processing sensory information, making conscious awareness possible</td></tr>
-<tr><td>sensibly</td><td>sensi̊blẏ</td><td>sens-ib-ly</td><td>sens-i̊b-lẏ</td><td>adv. with good sense or in a reasonable manner</td></tr>
+<tr><td>sensibly</td><td>sensiblẏ</td><td>sens-ib-ly</td><td>sens-ib-lẏ</td><td>adv. with good sense or in a reasonable manner</td></tr>
 <tr><td>senselessly</td><td>sens𝕖lėsslẏ</td><td>sense-less-ly</td><td>sens𝕖-lėss-lẏ</td><td>adv. in a meaningless and purposeless manner</td></tr>
 <tr><td>senselessness</td><td>sens𝕖lėssnėss</td><td>sense-less-ness</td><td>sens𝕖-lėss-nėss</td><td>n. total lack of meaning or ideas</td></tr>
-<tr><td>sensuous</td><td>sensuo̊us</td><td>sens-u-ous</td><td>sens-u-o̊us</td><td>a. taking delight in beauty; relating to the senses</td></tr>
+<tr><td>sensuous</td><td>sensūo̊us</td><td>sens-u-ous</td><td>sens-ū-o̊us</td><td>a. taking delight in beauty; relating to the senses</td></tr>
 <tr><td>sensory</td><td>senso̊rẏ</td><td>sens-or-y</td><td>sens-o̊r-ẏ</td><td>a. involving or derived from the senses</td></tr>
 <tr><td>sensational</td><td>sensātio̊nål</td><td>sens-at-ion-al</td><td>sens-āt-io̊n-ål</td><td>a. causing intense interest, curiosity, or emotion</td></tr>
-<tr><td>sensitized</td><td>sensi̊tīz𝕖d</td><td>sens-it-iz-ed</td><td>sens-i̊t-īz-𝕖d</td><td>v. make sensitive or aware<br>a. having an allergy or excessive susceptibility</td></tr>
-<tr><td>sensualist</td><td>sensuålist</td><td>sens-u-al-ist</td><td>sens-u-ål-ist</td><td>n. a person who enjoys sensuality</td></tr>
-<tr><td>sensuality</td><td>sensūali̊tẏ</td><td>sens-u-al-ity</td><td>sens-ū-al-i̊tẏ</td><td>n. desire for sensual pleasures</td></tr>
+<tr><td>sensitized</td><td>sensitīz𝕖d</td><td>sens-it-iz-ed</td><td>sens-it-īz-𝕖d</td><td>v. make sensitive or aware<br>a. having an allergy or excessive susceptibility</td></tr>
+<tr><td>sensualist</td><td>sensūålist</td><td>sens-u-al-ist</td><td>sens-ū-ål-ist</td><td>n. a person who enjoys sensuality</td></tr>
+<tr><td>sensuality</td><td>sensūalitẏ</td><td>sens-u-al-ity</td><td>sens-ū-al-itẏ</td><td>n. desire for sensual pleasures</td></tr>
 <tr><td>sensitivity</td><td>sensitivitẏ</td><td>sens-it-iv-ity</td><td>sens-it-iv-itẏ</td><td>n. the quality of being sensitive<br>n. the ability to detect small changes</td></tr>
-<tr><td>sensually</td><td>sensùållẏ</td><td>sens-u-al-ly</td><td>sens-ù-ål-lẏ</td><td>adv. in a sultry and sensual manner</td></tr>
+<tr><td>sensually</td><td>sensūållẏ</td><td>sens-u-al-ly</td><td>sens-ū-ål-lẏ</td><td>adv. in a sultry and sensual manner</td></tr>
 <tr><td>sensitively</td><td>sensitiv𝕖lẏ</td><td>sens-it-ive-ly</td><td>sens-it-iv𝕖-lẏ</td><td>adv. in a sensitive manner</td></tr>
-<tr><td>sensuously</td><td>sensùo̊uslẏ</td><td>sens-u-ous-ly</td><td>sens-ù-o̊us-lẏ</td><td>adv. with aesthetic gratification or delight</td></tr>
-<tr><td>sensuousness</td><td>sensùo̊usnėss</td><td>sens-u-ous-ness</td><td>sens-ù-o̊us-nėss</td><td>n. a sensuous feeling or quality</td></tr>
+<tr><td>sensuously</td><td>sensūo̊uslẏ</td><td>sens-u-ous-ly</td><td>sens-ū-o̊us-lẏ</td><td>adv. with aesthetic gratification or delight</td></tr>
+<tr><td>sensuousness</td><td>sensūo̊usnėss</td><td>sens-u-ous-ness</td><td>sens-ū-o̊us-nėss</td><td>n. a sensuous feeling or quality</td></tr>
 <tr><td>sensations</td><td>sensātio̊nṡ</td><td>sens-at-ion-s</td><td>sens-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>sensationalism</td><td>sensātio̊nåliṡm</td><td>sens-at-ion-al-ism</td><td>sens-āt-io̊n-ål-iṡm</td><td>n. the use of exciting or shocking stories at the expense of accuracy</td></tr>
 <tr><td>sensationalist</td><td>sensātio̊nålist</td><td>sens-at-ion-al-ist</td><td>sens-āt-io̊n-ål-ist</td><td>n. someone who uses exaggerated or lurid material in order to gain public attention</td></tr>
 <tr><td>sensationalize</td><td>sensātio̊nålīze</td><td>sens-at-ion-al-ize</td><td>sens-āt-io̊n-ål-īze</td><td>v. cause to appear more sensational than it really is</td></tr>
 <tr><td>sensitization</td><td>sensitīzātio̊n</td><td>sens-it-iz-at-ion</td><td>sens-it-īz-āt-io̊n</td><td>n. the state of being sensitive (as to an antigen)<br>n. the process of becoming highly sensitive to specific events or situations</td></tr>
-<tr><td>sensationally</td><td>senṡātio̊nållẏ</td><td>sens-at-ion-al-ly</td><td>senṡ-āt-io̊n-ål-lẏ</td><td>adv. in a sensational manner</td></tr>
+<tr><td>sensationally</td><td>sensātio̊nållẏ</td><td>sens-at-ion-al-ly</td><td>sens-āt-io̊n-ål-lẏ</td><td>adv. in a sensational manner</td></tr>
 <tr><td>sensationalized</td><td>sensātio̊nålīz𝕖d</td><td>sens-at-ion-al-iz-ed</td><td>sens-āt-io̊n-ål-īz-𝕖d</td><td>v. present in a sensational manner</td></tr>
 <tr><td>sensationalistic</td><td>sensātio̊nålistic</td><td>sens-at-ion-al-ist-ic</td><td>sens-āt-io̊n-ål-ist-ic</td><td>a. typical of tabloids</td></tr>
 <tr><td>biosensor</td><td>bīōsenso̊r</td><td>bio-sens-or</td><td>bīō-sens-o̊r</td><td>n. a device that uses a biological component to detect the presence of chemicals</td></tr>
 <tr><td>consensus</td><td>co̊nsensůs</td><td>con-sens-us</td><td>co̊n-sens-ůs</td><td>n. general agreement among a group</td></tr>
 <tr><td>consensual</td><td>co̊nsensūål</td><td>con-sens-u-al</td><td>co̊n-sens-ū-ål</td><td>a. existing by consent</td></tr>
-<tr><td>consensually</td><td>co̊nsensùållẏ</td><td>con-sens-u-al-ly</td><td>co̊n-sens-ù-ål-lẏ</td><td>adv. by mutual consent</td></tr>
+<tr><td>consensually</td><td>co̊nsensūållẏ</td><td>con-sens-u-al-ly</td><td>co̊n-sens-ū-ål-lẏ</td><td>adv. by mutual consent</td></tr>
 <tr><td>dissension</td><td>dissensio̊n</td><td>dis-sens-ion</td><td>dis-sens-io̊n</td><td>n. disagreement among those expected to cooperate</td></tr>
-<tr><td>desensitize</td><td>dėsensi̊tīze</td><td>de-sens-it-ize</td><td>dė-sens-i̊t-īze</td><td>v. cause not to be sensitive</td></tr>
-<tr><td>desensitized</td><td>dėsensi̊tīz𝕖d</td><td>de-sens-it-iz-ed</td><td>dė-sens-i̊t-īz-𝕖d</td><td>v. cause to lose sensitivity<br>a. made less sensitive</td></tr>
-<tr><td>desensitization</td><td>dėsensi̊tīzātio̊n</td><td>de-sens-it-iz-at-ion</td><td>dė-sens-i̊t-īz-āt-io̊n</td><td>n. the process of reducing sensitivity</td></tr>
+<tr><td>desensitize</td><td>dēsensitīze</td><td>de-sens-it-ize</td><td>dē-sens-it-īze</td><td>v. cause not to be sensitive</td></tr>
+<tr><td>desensitized</td><td>dēsensitīz𝕖d</td><td>de-sens-it-iz-ed</td><td>dē-sens-it-īz-𝕖d</td><td>v. cause to lose sensitivity<br>a. made less sensitive</td></tr>
+<tr><td>desensitization</td><td>dēsensitīzātio̊n</td><td>de-sens-it-iz-at-ion</td><td>dē-sens-it-īz-āt-io̊n</td><td>n. the process of reducing sensitivity</td></tr>
 <tr><td>extrasensory</td><td>extråsenso̊rẏ</td><td>extra-sens-ory</td><td>extrå-sens-o̊rẏ</td><td>a. seemingly outside normal sensory channels</td></tr>
 <tr><td>hypersensitive</td><td>hȳpe̊rsensitive</td><td>hyper-sens-it-ive</td><td>hȳpe̊r-sens-it-ive</td><td>a. having an allergy or excessive susceptibility, especially to a specific factor</td></tr>
 <tr><td>hypersensitivity</td><td>hȳpe̊rsensitivitẏ</td><td>hyper-sens-it-iv-ity</td><td>hȳpe̊r-sens-it-iv-itẏ</td><td>n. extreme sensitivity to a particular substance or stimulus</td></tr>
 <tr><td>insensate</td><td>insensāte</td><td>in-sens-ate</td><td>in-sens-āte</td><td>a. devoid of feeling and consciousness<br>a. without compunction or human feeling</td></tr>
-<tr><td>insensible</td><td>insensi̊ble</td><td>in-sens-ible</td><td>in-sens-i̊ble</td><td>a. incapable of physical sensation<br>a. unaware of or indifferent to</td></tr>
+<tr><td>insensible</td><td>insensible</td><td>in-sens-ible</td><td>in-sens-ible</td><td>a. incapable of physical sensation<br>a. unaware of or indifferent to</td></tr>
 <tr><td>insensibility</td><td>insensi̊bilitẏ</td><td>in-sens-ibil-ity</td><td>in-sens-i̊bil-itẏ</td><td>n. a lack of sensibility</td></tr>
-<tr><td>insensitive</td><td>insensi̊tive</td><td>in-sens-it-ive</td><td>in-sens-i̊t-ive</td><td>a. not responsive to physical or emotional stimuli</td></tr>
-<tr><td>insensibly</td><td>insensi̊blẏ</td><td>in-sens-ib-ly</td><td>in-sens-i̊b-lẏ</td><td>adv. in a numb manner; without feeling</td></tr>
-<tr><td>insensitivity</td><td>insensi̊tivi̊tẏ</td><td>in-sens-it-iv-ity</td><td>in-sens-i̊t-iv-i̊tẏ</td><td>n. the inability to respond to affective changes in your interpersonal environment</td></tr>
+<tr><td>insensitive</td><td>insensitive</td><td>in-sens-it-ive</td><td>in-sens-it-ive</td><td>a. not responsive to physical or emotional stimuli</td></tr>
+<tr><td>insensibly</td><td>insensiblẏ</td><td>in-sens-ib-ly</td><td>in-sens-ib-lẏ</td><td>adv. in a numb manner; without feeling</td></tr>
+<tr><td>insensitivity</td><td>insensitivitẏ</td><td>in-sens-it-iv-ity</td><td>in-sens-it-iv-itẏ</td><td>n. the inability to respond to affective changes in your interpersonal environment</td></tr>
 <tr><td>multisensory</td><td>mûltisenso̊rẏ</td><td>multi-sens-or-y</td><td>mûlti-sens-o̊r-ẏ</td><td>a. relating to or involving several physiological senses</td></tr>
 <tr><td>nonsensical</td><td>nonsensicål</td><td>non-sens-ic-al</td><td>non-sens-ic-ål</td><td>a. incongruous; having no intelligible meaning</td></tr>
-<tr><td>oversensitive</td><td>ōve̊rsensi̊tive</td><td>over-sens-it-ive</td><td>ōve̊r-sens-i̊t-ive</td><td>a. unduly sensitive or thin-skinned</td></tr>
+<tr><td>oversensitive</td><td>ōve̊rsensitive</td><td>over-sens-it-ive</td><td>ōve̊r-sens-it-ive</td><td>a. unduly sensitive or thin-skinned</td></tr>
 <tr><td>supersensitive</td><td>sūpe̊rsensitive</td><td>super-sens-it-ive</td><td>sūpe̊r-sens-it-ive</td><td>a. having an allergy or excessive susceptibility</td></tr>
 <tr><td>commonsensical</td><td>commo̊nsensicål</td><td>com-mon-sens-ic-al</td><td>com-mo̊n-sens-ic-ål</td><td>a. exhibiting native good judgment</td></tr>
 <tr><td>photosensitive</td><td>phōtōsensitive</td><td>phot-o-sens-it-ive</td><td>phōt-ō-sens-it-ive</td><td>a. sensitive to visible light</td></tr>
 <tr><td>nonsense</td><td>nonsense</td><td>non-sense</td><td>non-sense</td><td>n. spoken or written words that have no meaning or make no sense</td></tr>
 <tr><td>commonsense</td><td>commo̊nsense</td><td>com-mon-sense</td><td>com-mo̊n-sense</td><td>a. exhibiting native good judgment</td></tr>
-<tr><td>sentinel</td><td>senti̊ne̊l</td><td>sentinel</td><td>senti̊ne̊l</td><td>n. a person employed to keep watch</td></tr>
+<tr><td>sentinel</td><td>sentine̊l</td><td>sentinel</td><td>sentine̊l</td><td>n. a person employed to keep watch</td></tr>
 <tr><td>sentry</td><td>sentrẏ</td><td>sentry</td><td>sentrẏ</td><td>n. a person employed to keep watch</td></tr>
 <tr><td>sentence</td><td>sente̊nce</td><td>sent-ence</td><td>sent-e̊nce</td><td>n. a set of words forming a complete statement<br>v. declare the punishment for a crime</td></tr>
 <tr><td>sentience</td><td>sentie̊nce</td><td>senti-ence</td><td>senti-e̊nce</td><td>n. the readiness to perceive sensations; elementary consciousness</td></tr>
 <tr><td>sentient</td><td>sentie̊nt</td><td>senti-ent</td><td>senti-e̊nt</td><td>a. endowed with feeling and unstructured consciousness<br>a. consciously perceiving</td></tr>
 <tr><td>sentiment</td><td>sentime̊nt</td><td>senti-ment</td><td>senti-me̊nt</td><td>n. a feeling or emotion; an opinion</td></tr>
-<tr><td>sentimental</td><td>senti̊mentål</td><td>senti-ment-al</td><td>senti̊-ment-ål</td><td>a. given to or marked by sentiment or sentimentality</td></tr>
+<tr><td>sentimental</td><td>sentimentål</td><td>senti-ment-al</td><td>senti-ment-ål</td><td>a. given to or marked by sentiment or sentimentality</td></tr>
 <tr><td>sentencing</td><td>sente̊ncing</td><td>sent-enc-ing</td><td>sent-e̊nc-ing</td><td>n. the act of pronouncing a sentence in a court of law</td></tr>
 <tr><td>sentences</td><td>sente̊ncėṡ</td><td>sent-ence-s</td><td>sent-e̊ncė-ṡ</td><td></td></tr>
 <tr><td>sentimentalism</td><td>sentimentåliṡm</td><td>senti-ment-al-ism</td><td>senti-ment-ål-iṡm</td><td>n. the excessive expression of tender feelings, nostalgia, or sadness in any form<br>n. a predilection for sentimentality</td></tr>
 <tr><td>sentimentalist</td><td>sentimentålist</td><td>senti-ment-al-ist</td><td>senti-ment-ål-ist</td><td>n. someone who indulges in excessive sentimentality</td></tr>
-<tr><td>sentimentality</td><td>senti̊mentalitẏ</td><td>senti-ment-al-ity</td><td>senti̊-ment-al-itẏ</td><td>n. extravagant or affected feeling or emotion</td></tr>
+<tr><td>sentimentality</td><td>sentimentalitẏ</td><td>senti-ment-al-ity</td><td>senti-ment-al-itẏ</td><td>n. extravagant or affected feeling or emotion</td></tr>
 <tr><td>sentimentalize</td><td>sentimentålīze</td><td>senti-ment-al-ize</td><td>senti-ment-ål-īze</td><td>v. look at with sentimentality or turn into an object of sentiment<br>v. make (someone or something) sentimental or imbue with sentimental qualities</td></tr>
 <tr><td>sentimentally</td><td>sentimentållẏ</td><td>senti-ment-al-ly</td><td>senti-ment-ål-lẏ</td><td>adv. in a sentimental manner</td></tr>
 <tr><td>sentimentalized</td><td>sentimentålīz𝕖d</td><td>senti-ment-al-iz-ed</td><td>senti-ment-ål-īz-𝕖d</td><td>vt. to view in a sentimental way</td></tr>
@@ -1675,36 +1675,36 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>dissent</td><td>dissent</td><td>dis-sent</td><td>dis-sent</td><td>n. a difference of opinion<br>v. withhold assent</td></tr>
 <tr><td>dissenter</td><td>dissente̊r</td><td>dis-sent-er</td><td>dis-sent-e̊r</td><td>n. a person who dissents from some established policy</td></tr>
 <tr><td>dissenting</td><td>dissenting</td><td>dis-sent-ing</td><td>dis-sent-ing</td><td>a. disagreeing, especially with a majority</td></tr>
-<tr><td>dissention</td><td>dissentīo̊n</td><td>dis-sent-ion</td><td>dis-sent-īo̊n</td><td>n. a disagreement or difference of opinion</td></tr>
+<tr><td>dissention</td><td>dissentio̊n</td><td>dis-sent-ion</td><td>dis-sent-io̊n</td><td>n. a disagreement or difference of opinion</td></tr>
 <tr><td>dissentious</td><td>dissentio̊us</td><td>dis-sent-ious</td><td>dis-sent-io̊us</td><td>a. given to arguing; contentious</td></tr>
 <tr><td>essence</td><td>esse̊nce</td><td>es-sence</td><td>es-se̊nce</td><td>n. the most important quality or feature of something<br>n. an extract or concentrate</td></tr>
 <tr><td>essential</td><td>ėssentiål</td><td>es-senti-al</td><td>ės-senti-ål</td><td>a. absolutely necessary; vital<br>n. a basic and necessary thing</td></tr>
 <tr><td>essences</td><td>esse̊ncėṡ</td><td>es-sence-s</td><td>es-se̊ncė-ṡ</td><td></td></tr>
-<tr><td>essentialism</td><td>ėssentiåliṡm</td><td>es-senti-al-ism</td><td>ės-senti-ål-iṡm</td><td>n. a philosophical theory ascribing ultimate reality to essence embodied in a thing</td></tr>
-<tr><td>essentialist</td><td>ėssentiålist</td><td>es-senti-al-ist</td><td>ės-senti-ål-ist</td><td>n. a person who believes in the theory of essentialism<br>a. of or relating to essentialism</td></tr>
-<tr><td>essentiality</td><td>ėssentiȧlitẏ</td><td>es-senti-al-ity</td><td>ės-senti-ȧl-itẏ</td><td>n. basic importance</td></tr>
-<tr><td>essentially</td><td>essentiållẏ</td><td>es-senti-al-ly</td><td>es-senti-ål-lẏ</td><td>adv. at bottom or by one&#x27;s very nature</td></tr>
+<tr><td>essentialism</td><td>essentiåliṡm</td><td>es-senti-al-ism</td><td>es-senti-ål-iṡm</td><td>n. a philosophical theory ascribing ultimate reality to essence embodied in a thing</td></tr>
+<tr><td>essentialist</td><td>essentiålist</td><td>es-senti-al-ist</td><td>es-senti-ål-ist</td><td>n. a person who believes in the theory of essentialism<br>a. of or relating to essentialism</td></tr>
+<tr><td>essentiality</td><td>essentialitẏ</td><td>es-senti-al-ity</td><td>es-senti-al-itẏ</td><td>n. basic importance</td></tr>
+<tr><td>essentially</td><td>ėssentiållẏ</td><td>es-senti-al-ly</td><td>ės-senti-ål-lẏ</td><td>adv. at bottom or by one&#x27;s very nature</td></tr>
 <tr><td>essentialized</td><td>ėssentiålīz𝕖d</td><td>es-senti-al-iz-ed</td><td>ės-senti-ål-īz-𝕖d</td><td>v. conceive of or represent in its most basic form</td></tr>
 <tr><td>insentient</td><td>insentie̊nt</td><td>in-sent-i-ent</td><td>in-sent-i-e̊nt</td><td>a. lacking consciousness or feeling</td></tr>
 <tr><td>presence</td><td>preṡe̊nce</td><td>pre-sence</td><td>pre-ṡe̊nce</td><td>n. the state of being present<br>n. an impressive appearance or manner</td></tr>
 <tr><td>present</td><td>prėṡent</td><td>pre-sent</td><td>prė-ṡent</td><td>a. existing or occurring at this time; current<br>n. the period of time now occurring<br>vt. to give something to someone; to show or offer something for others to consider</td></tr>
-<tr><td>presentable</td><td>pre̊ṡentåble</td><td>pre-sent-able</td><td>pre̊-ṡent-åble</td><td>a. fit to be seen</td></tr>
+<tr><td>presentable</td><td>prėṡentåble</td><td>pre-sent-able</td><td>prė-ṡent-åble</td><td>a. fit to be seen</td></tr>
 <tr><td>present-day</td><td></td><td>pre-sent-day</td><td></td><td>a. of the present time</td></tr>
-<tr><td>presented</td><td>prēṡent𝕖d</td><td>pre-sent-ed</td><td>prē-ṡent-𝕖d</td><td>v. give an exhibition of to an interested audience<br>v. bring forward and present to the mind<br>v. give as a present; make a gift of</td></tr>
-<tr><td>presenter</td><td>preṡe̊nte̊r</td><td>pre-sent-er</td><td>pre-ṡe̊nt-e̊r</td><td>n. someone who presents something to an audience</td></tr>
-<tr><td>presentient</td><td>prėsentiėnt</td><td>pre-senti-ent</td><td>prė-senti-ėnt</td><td>a. having a feeling of what will happen</td></tr>
+<tr><td>presented</td><td>prėṡentėd</td><td>pre-sent-ed</td><td>prė-ṡent-ėd</td><td>v. give an exhibition of to an interested audience<br>v. bring forward and present to the mind<br>v. give as a present; make a gift of</td></tr>
+<tr><td>presenter</td><td>prėṡente̊r</td><td>pre-sent-er</td><td>prė-ṡent-e̊r</td><td>n. someone who presents something to an audience</td></tr>
+<tr><td>presentient</td><td>prėṡentie̊nt</td><td>pre-senti-ent</td><td>prė-ṡenti-e̊nt</td><td>a. having a feeling of what will happen</td></tr>
 <tr><td>presenting</td><td>prėṡenting</td><td>pre-sent-ing</td><td>prė-ṡent-ing</td><td></td></tr>
 <tr><td>presently</td><td>preṡe̊ntlẏ</td><td>pre-sent-ly</td><td>pre-ṡe̊nt-lẏ</td><td>adv. at this time or period; now</td></tr>
 <tr><td>presentiment</td><td>prėṡentime̊nt</td><td>pre-senti-ment</td><td>prė-ṡenti-me̊nt</td><td>n. a feeling of evil to come</td></tr>
-<tr><td>presentment</td><td>prēṡentme̊nt</td><td>pre-sent-ment</td><td>prē-ṡent-me̊nt</td><td>n. an accusation of crime made by a grand jury on its own initiative</td></tr>
-<tr><td>presentness</td><td>preṡe̊ntnėss</td><td>pre-sent-ness</td><td>pre-ṡe̊nt-nėss</td><td>n. the quality of being the present</td></tr>
+<tr><td>presentment</td><td>prėṡentme̊nt</td><td>pre-sent-ment</td><td>prė-ṡent-me̊nt</td><td>n. an accusation of crime made by a grand jury on its own initiative</td></tr>
+<tr><td>presentness</td><td>prėṡentnėss</td><td>pre-sent-ness</td><td>prė-ṡent-nėss</td><td>n. the quality of being the present</td></tr>
 <tr><td>presences</td><td>preṡe̊ncėṡ</td><td>pre-sence-s</td><td>pre-ṡe̊ncė-ṡ</td><td></td></tr>
 <tr><td>presents</td><td>preṡe̊nts</td><td>pre-sent-s</td><td>pre-ṡe̊nt-s</td><td></td></tr>
 <tr><td>presentation</td><td>preṡentātio̊n</td><td>pre-sent-at-ion</td><td>pre-ṡent-āt-io̊n</td><td>n. the activity of formally presenting something (as a prize or reward)<br>n. a show or display; the act of presenting something to sight or view<br>n. the act of presenting a proposal</td></tr>
 <tr><td>presentational</td><td>preṡe̊ntātio̊nål</td><td>pre-sent-at-ion-al</td><td>pre-ṡe̊nt-āt-io̊n-ål</td><td>a. of or relating to a presentation</td></tr>
 <tr><td>presentations</td><td>preṡe̊ntātio̊nṡ</td><td>pre-sent-at-ion-s</td><td>pre-ṡe̊nt-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>resent</td><td>rėṡent</td><td>re-sent</td><td>rė-ṡent</td><td>v. to feel bitter or angry about something</td></tr>
-<tr><td>resented</td><td>rėṡent𝕖d</td><td>re-sent-ed</td><td>rė-ṡent-𝕖d</td><td>v. feel bitter or indignant about</td></tr>
+<tr><td>resented</td><td>rėṡentėd</td><td>re-sent-ed</td><td>rė-ṡent-ėd</td><td>v. feel bitter or indignant about</td></tr>
 <tr><td>resentful</td><td>rėṡentfůl</td><td>re-sent-ful</td><td>rė-ṡent-fůl</td><td>a. feeling or expressing resentment or bitterness</td></tr>
 <tr><td>resenting</td><td>rėṡenting</td><td>re-sent-ing</td><td>rė-ṡent-ing</td><td></td></tr>
 <tr><td>resentment</td><td>rėṡentme̊nt</td><td>re-sent-ment</td><td>rė-ṡent-me̊nt</td><td>n. a feeling of deep and bitter anger and ill-will</td></tr>
@@ -1713,7 +1713,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unsentimental</td><td>ûnsentimentål</td><td>un-senti-ment-al</td><td>ûn-senti-ment-ål</td><td>a. facing facts or difficulties realistically and with determination</td></tr>
 <tr><td>inessential</td><td>inėssentiål</td><td>in-es-senti-al</td><td>in-ės-senti-ål</td><td>n. anything that is not essential<br>a. not absolutely necessary</td></tr>
 <tr><td>nonessential</td><td>nonėssentiål</td><td>non-es-senti-al</td><td>non-ės-senti-ål</td><td>a. not absolutely necessary</td></tr>
-<tr><td>omnipresence</td><td>omni̊preṡe̊nce</td><td>omni-pre-sence</td><td>omni̊-pre-ṡe̊nce</td><td>n the state of being everywhere at once (or seeming to be everywhere at once)</td></tr>
+<tr><td>omnipresence</td><td>omnipreṡe̊nce</td><td>omni-pre-sence</td><td>omni-pre-ṡe̊nce</td><td>n the state of being everywhere at once (or seeming to be everywhere at once)</td></tr>
 <tr><td>omnipresent</td><td>omnipreṡe̊nt</td><td>omni-pre-sent</td><td>omni-pre-ṡe̊nt</td><td>a. being present everywhere at once</td></tr>
 <tr><td>represent</td><td>reprėṡent</td><td>re-pre-sent</td><td>re-prė-ṡent</td><td>vt. to act or speak on behalf of someone or something<br>vt. to depict or portray something</td></tr>
 <tr><td>representable</td><td>reprėṡentåble</td><td>re-pre-sent-able</td><td>re-prė-ṡent-åble</td><td>a. expressible in symbolic form</td></tr>
@@ -1722,10 +1722,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>represents</td><td>reprėṡents</td><td>re-pre-sent-s</td><td>re-prė-ṡent-s</td><td></td></tr>
 <tr><td>representation</td><td>reprėṡentātio̊n</td><td>re-pre-sent-at-ion</td><td>re-prė-ṡent-āt-io̊n</td><td>n. a creation that is a visual or tangible rendering of someone or something<br>n. the act of representing; standing in for someone or some group<br>n. a presentation to the mind in the form of an idea or image</td></tr>
 <tr><td>representative</td><td>reprėṡentåtive</td><td>re-pre-sent-at-ive</td><td>re-prė-ṡent-åt-ive</td><td>n. a person chosen to act on behalf of others<br>a. typical of a particular group</td></tr>
-<tr><td>representational</td><td>repre̊ṡe̊ntātio̊nål</td><td>re-pre-sent-at-ion-al</td><td>re-pre̊-ṡe̊nt-āt-io̊n-ål</td><td>a. depicting objects, figures, or scenes as they appear</td></tr>
+<tr><td>representational</td><td>reprėṡentātio̊nål</td><td>re-pre-sent-at-ion-al</td><td>re-prė-ṡent-āt-io̊n-ål</td><td>a. depicting objects, figures, or scenes as they appear</td></tr>
 <tr><td>representativeness</td><td>reprėṡentåtiv𝕖nėss</td><td>re-pre-sent-at-ive-ness</td><td>re-prė-ṡent-åt-iv𝕖-nėss</td><td>n. the quality or state of being representative</td></tr>
 <tr><td>telepresence</td><td>telėpreṡe̊nce</td><td>tele-pre-sence</td><td>telė-pre-ṡe̊nce</td><td>n. the use of technology to give the experience of being present at a remote location</td></tr>
-<tr><td>misrepresent</td><td>misrepre̊ṡent</td><td>mis-re-pre-sent</td><td>mis-re-pre̊-ṡent</td><td>v. represent falsely</td></tr>
+<tr><td>misrepresent</td><td>misreprėṡent</td><td>mis-re-pre-sent</td><td>mis-re-prė-ṡent</td><td>v. represent falsely</td></tr>
 <tr><td>misrepresentation</td><td>misreprėṡentātio̊n</td><td>mis-re-pre-sent-at-ion</td><td>mis-re-prė-ṡent-āt-io̊n</td><td>n. a misleading falsehood</td></tr>
 <tr><td>nonrepresentational</td><td>nonreprėṡentātio̊nål</td><td>non-re-pre-sent-at-ion-al</td><td>non-re-prė-ṡent-āt-io̊n-ål</td><td>a. of a style of art in which objects do not resemble those in physical nature</td></tr>
 <tr><td>overrepresentation</td><td>ōve̊rreprėṡentātio̊n</td><td>over-re-pre-sent-at-ion</td><td>ōve̊r-re-prė-ṡent-āt-io̊n</td><td>n. representation in excess of the proper proportion</td></tr>
@@ -1735,97 +1735,97 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unrepresentative</td><td>ûnreprėṡentåtive</td><td>un-re-pre-sent-at-ive</td><td>ûn-re-prė-ṡent-åt-ive</td><td>a. not exemplifying a class</td></tr>
 <tr><td>sentential</td><td>sententiål</td><td>sentent-ial</td><td>sentent-iål</td><td>a. of or relating to a sentence</td></tr>
 <tr><td>sententious</td><td>sententio̊us</td><td>sentent-ious</td><td>sentent-io̊us</td><td>a. given to moralizing in a pompous way</td></tr>
-<tr><td>sepal</td><td>sēpål</td><td>sep-al</td><td>sēp-ål</td><td>n. one of the green parts that form the calyx of a flower</td></tr>
+<tr><td>sepal</td><td>sepål</td><td>sep-al</td><td>sep-ål</td><td>n. one of the green parts that form the calyx of a flower</td></tr>
 <tr><td>sepsis</td><td>sepsis</td><td>sep-sis</td><td>sep-sis</td><td>n. the presence of pus-forming bacteria or their toxins in the blood or tissues</td></tr>
 <tr><td>inseparability</td><td>insepåråbilitẏ</td><td>in-separ-abil-ity</td><td>in-sepår-åbil-itẏ</td><td>n. the quality or state of being inseparable</td></tr>
-<tr><td>sephardic</td><td>se̊phàrdic</td><td>sephard-ic</td><td>se̊phàrd-ic</td><td>a. of or relating to Sephardim or their culture</td></tr>
+<tr><td>sephardic</td><td>sephàrdic</td><td>sephard-ic</td><td>sephàrd-ic</td><td>a. of or relating to Sephardim or their culture</td></tr>
 <tr><td>sepia</td><td>sēpiå</td><td>sepia</td><td>sēpiå</td><td>n. a rich brown pigment prepared from the ink of cuttlefishes<br>a. of a dark brown color</td></tr>
 <tr><td>sepoy</td><td>sēpoẏ</td><td>sepoy</td><td>sēpoẏ</td><td>n. a native of India employed as a soldier in the service of a European power</td></tr>
 <tr><td>septal</td><td>septål</td><td>sept-al</td><td>sept-ål</td><td>a. of or relating to a septum</td></tr>
 <tr><td>septet</td><td>septet</td><td>sept-et</td><td>sept-et</td><td>n. seven performers or singers who perform together</td></tr>
 <tr><td>septic</td><td>septic</td><td>sept-ic</td><td>sept-ic</td><td>a. infected with bacteria causing putrefaction</td></tr>
-<tr><td>septuagenarian</td><td>septūåge̊nariån</td><td>septuagen-ar-ian</td><td>septūåge̊n-ar-iån</td><td>n. someone whose age is in the seventies<br>a. being from seventy to seventy-nine years old</td></tr>
+<tr><td>septuagenarian</td><td>septūåge̊nāriån</td><td>septuagen-ar-ian</td><td>septūåge̊n-ār-iån</td><td>n. someone whose age is in the seventies<br>a. being from seventy to seventy-nine years old</td></tr>
 <tr><td>septuplet</td><td>septūplėt</td><td>sept-u-pl-et</td><td>sept-ū-pl-ėt</td><td>n. one of seven babies born at the same time to the same mother</td></tr>
 <tr><td>septicemia</td><td>septicēmiå</td><td>sept-ic-em-ia</td><td>sept-ic-ēm-iå</td><td>n invasion of the bloodstream by virulent microorganisms from a focus of infection</td></tr>
-<tr><td>antiseptic</td><td>anti̊septic</td><td>anti-sept-ic</td><td>anti̊-sept-ic</td><td>n. a substance that prevents infection<br>a. preventing infection</td></tr>
+<tr><td>antiseptic</td><td>antiseptic</td><td>anti-sept-ic</td><td>anti-sept-ic</td><td>n. a substance that prevents infection<br>a. preventing infection</td></tr>
 <tr><td>aseptic</td><td>aseptic</td><td>a-sept-ic</td><td>a-sept-ic</td><td>a. free of pathogenic microorganisms</td></tr>
 <tr><td>aseptically</td><td>asepticållẏ</td><td>a-sept-ic-al-ly</td><td>a-sept-ic-ål-lẏ</td><td>adv. in an aseptic manner</td></tr>
 <tr><td>transept</td><td>transept</td><td>tran-sept</td><td>tran-sept</td><td>n. the transverse part of a cruciform church, crossing the nave at right angles</td></tr>
 <tr><td>septa</td><td>septå</td><td>septa</td><td>septå</td><td>n. (anatomy) a dividing partition between two tissues or cavities</td></tr>
 <tr><td>september</td><td>septembe̊r</td><td></td><td></td><td>n. the ninth month of the year</td></tr>
 <tr><td>septum</td><td>septům</td><td>septum</td><td>septům</td><td>n. a dividing partition between two tissues or cavities</td></tr>
-<tr><td>sepulcher</td><td>sep𝕦lc𝕙e̊r</td><td>sepulcher</td><td>sep𝕦lc𝕙e̊r</td><td>n a chamber that is used as a grave</td></tr>
-<tr><td>sepulchral</td><td>sėp𝕦lc𝕙rål</td><td>sepulchr-al</td><td>sėp𝕦lc𝕙r-ål</td><td>a. of or relating to a sepulchre</td></tr>
-<tr><td>sepulchre</td><td>sepůlc𝕙re̊</td><td>sepulchre</td><td>sepůlc𝕙re̊</td><td>n. a chamber that is used as a grave</td></tr>
-<tr><td>sequela</td><td>sėquēlå</td><td>sequel-a</td><td>sėquēl-å</td><td>n. a condition resulting from a disease</td></tr>
-<tr><td>sequestrate</td><td>sėquestrāte</td><td>sequestr-ate</td><td>sėquestr-āte</td><td>vt. to seize by legal authority</td></tr>
+<tr><td>sepulcher</td><td>sepûlche̊r</td><td>sepulcher</td><td>sepûlche̊r</td><td>n a chamber that is used as a grave</td></tr>
+<tr><td>sepulchral</td><td>sepûlc𝕙rål</td><td>sepulchr-al</td><td>sepûlc𝕙r-ål</td><td>a. of or relating to a sepulchre</td></tr>
+<tr><td>sepulchre</td><td>sepûlc𝕙re̊</td><td>sepulchre</td><td>sepûlc𝕙re̊</td><td>n. a chamber that is used as a grave</td></tr>
+<tr><td>sequela</td><td>sēquelå</td><td>sequel-a</td><td>sēquel-å</td><td>n. a condition resulting from a disease</td></tr>
+<tr><td>sequestrate</td><td>sēquėstrāte</td><td>sequestr-ate</td><td>sēquėstr-āte</td><td>vt. to seize by legal authority</td></tr>
 <tr><td>sequence</td><td>sēque̊nce</td><td>sequ-ence</td><td>sēqu-e̊nce</td><td>n. serial arrangement in which things follow in logical order or a recurrent pattern<br>n. a following of one thing after another in time<br>v. arrange in a sequence</td></tr>
 <tr><td>sequencer</td><td>sēque̊nce̊r</td><td>sequenc-er</td><td>sēque̊nc-e̊r</td><td>n. an apparatus that determines the sequence of monomers in a polymer</td></tr>
 <tr><td>sequent</td><td>sēque̊nt</td><td>sequ-ent</td><td>sēqu-e̊nt</td><td>a. following in order</td></tr>
-<tr><td>sequester</td><td>sėqueste̊r</td><td>sequest-er</td><td>sėquest-e̊r</td><td>v. to isolate or hide away</td></tr>
-<tr><td>sequenced</td><td>sēque̊nc𝕖d</td><td>sequ-enc-ed</td><td>sēqu-e̊nc-𝕖d</td><td>v. arrange in a sequence<br>v. determine the order of constituents in</td></tr>
-<tr><td>sequestered</td><td>sėqueste̊r𝕖d</td><td>sequest-er-ed</td><td>sėquest-e̊r-𝕖d</td><td>a. kept separate and secluded</td></tr>
-<tr><td>sequacious</td><td>sėquācio̊us</td><td>sequ-ac-ious</td><td>sėqu-āc-io̊us</td><td>a. readily following others</td></tr>
-<tr><td>sequestration</td><td>seque̊strātio̊n</td><td>sequestr-at-ion</td><td>seque̊str-āt-io̊n</td><td>n. seizing and holding property until profits pay the demand<br>n. the act of isolating something</td></tr>
+<tr><td>sequester</td><td>sēqueste̊r</td><td>sequest-er</td><td>sēquest-e̊r</td><td>v. to isolate or hide away</td></tr>
+<tr><td>sequenced</td><td>sēque̊nc𝕖ḋ</td><td>sequ-enc-ed</td><td>sēqu-e̊nc-𝕖ḋ</td><td>v. arrange in a sequence<br>v. determine the order of constituents in</td></tr>
+<tr><td>sequestered</td><td>sēqueste̊r𝕖d</td><td>sequest-er-ed</td><td>sēquest-e̊r-𝕖d</td><td>a. kept separate and secluded</td></tr>
+<tr><td>sequacious</td><td>sequācio̊us</td><td>sequ-ac-ious</td><td>sequ-āc-io̊us</td><td>a. readily following others</td></tr>
+<tr><td>sequestration</td><td>sēquėstrātio̊n</td><td>sequestr-at-ion</td><td>sēquėstr-āt-io̊n</td><td>n. seizing and holding property until profits pay the demand<br>n. the act of isolating something</td></tr>
 <tr><td>sequencing</td><td>sēque̊ncing</td><td>sequ-enc-ing</td><td>sēqu-e̊nc-ing</td><td>n. the process of arranging in a particular order</td></tr>
-<tr><td>sequential</td><td>se̊quentiål</td><td>sequ-ent-ial</td><td>se̊qu-ent-iål</td><td>a. in regular succession without gaps</td></tr>
-<tr><td>sequentially</td><td>se̊quentiållẏ</td><td>sequ-ent-ial-ly</td><td>se̊qu-ent-iål-lẏ</td><td>adv. in a consecutive manner</td></tr>
+<tr><td>sequential</td><td>sēquentiål</td><td>sequ-ent-ial</td><td>sēqu-ent-iål</td><td>a. in regular succession without gaps</td></tr>
+<tr><td>sequentially</td><td>sēquentiållẏ</td><td>sequ-ent-ial-ly</td><td>sēqu-ent-iål-lẏ</td><td>adv. in a consecutive manner</td></tr>
 <tr><td>consequence</td><td>consėque̊nce</td><td>con-sequ-ence</td><td>con-sėqu-e̊nce</td><td>n. a result or effect of an action or condition<br>n. importance or relevance</td></tr>
 <tr><td>consequent</td><td>consėque̊nt</td><td>con-sequ-ent</td><td>con-sėqu-e̊nt</td><td>a. following as a result or effect<br>n. the second part of a conditional proposition</td></tr>
-<tr><td>consequential</td><td>conse̊quentiål</td><td>con-sequ-ent-ial</td><td>con-se̊qu-ent-iål</td><td>a. having important issues or results</td></tr>
+<tr><td>consequential</td><td>consėquentiål</td><td>con-sequ-ent-ial</td><td>con-sėqu-ent-iål</td><td>a. having important issues or results</td></tr>
 <tr><td>consequently</td><td>consėque̊ntlẏ</td><td>con-sequ-ent-ly</td><td>con-sėqu-e̊nt-lẏ</td><td>adv. as a result; therefore</td></tr>
 <tr><td>consequences</td><td>consėque̊ncėṡ</td><td>con-sequ-ence-s</td><td>con-sėqu-e̊ncė-ṡ</td><td></td></tr>
-<tr><td>obsequies</td><td>obsėqui𝕖ṡ</td><td>ob-sequ-ies</td><td>ob-sėqu-i𝕖ṡ</td><td>n. a funeral ceremony</td></tr>
+<tr><td>obsequies</td><td>obsequi𝕖ṡ</td><td>ob-sequ-ies</td><td>ob-sequ-i𝕖ṡ</td><td>n. a funeral ceremony</td></tr>
 <tr><td>obsequious</td><td>o̊bsēquio̊us</td><td>ob-sequ-i-ous</td><td>o̊b-sēqu-i-o̊us</td><td>a. attentive in an ingratiating or servile manner</td></tr>
 <tr><td>obsequiously</td><td>o̊bsēquio̊uslẏ</td><td>ob-sequ-i-ous-ly</td><td>o̊b-sēqu-i-o̊us-lẏ</td><td>adv. in an obsequious manner</td></tr>
-<tr><td>obsequiousness</td><td>o̊bsēquio̊usne̊ss</td><td>ob-sequ-i-ous-ness</td><td>o̊b-sēqu-i-o̊us-ne̊ss</td><td>n. abject or cringing submissiveness</td></tr>
+<tr><td>obsequiousness</td><td>o̊bsēquio̊usnėss</td><td>ob-sequ-i-ous-ness</td><td>o̊b-sēqu-i-o̊us-nėss</td><td>n. abject or cringing submissiveness</td></tr>
 <tr><td>subsequent</td><td>sûbsėque̊nt</td><td>sub-sequ-ent</td><td>sûb-sėqu-e̊nt</td><td>a. following in time or order</td></tr>
 <tr><td>subsequently</td><td>sûbsėque̊ntlẏ</td><td>sub-sequ-ent-ly</td><td>sûb-sėqu-e̊nt-lẏ</td><td>adv. after a particular thing has happened; afterward</td></tr>
-<tr><td>inconsequential</td><td>inconse̊quentiål</td><td>in-con-sequ-ent-ial</td><td>in-con-se̊qu-ent-iål</td><td>a. lacking importance; not following logically</td></tr>
+<tr><td>inconsequential</td><td>inconsėquentiål</td><td>in-con-sequ-ent-ial</td><td>in-con-sėqu-ent-iål</td><td>a. lacking importance; not following logically</td></tr>
 <tr><td>sequel</td><td>sēque̊l</td><td>sequel</td><td>sēque̊l</td><td>n. something that follows; a continuation of a story</td></tr>
-<tr><td>sequin</td><td>sēqui̊n</td><td>sequin</td><td>sēqui̊n</td><td>n. a small shiny ornament used to decorate clothing</td></tr>
-<tr><td>sequined</td><td>sēqui̊n𝕖d</td><td>sequin-ed</td><td>sēqui̊n-𝕖d</td><td>a. covered with beads or jewels or sequins</td></tr>
-<tr><td>sequoia</td><td>sėquoiå</td><td>sequoia</td><td>sėquoiå</td><td>n. either of two huge coniferous California trees that reach a height of 300 feet</td></tr>
-<tr><td>serotonin</td><td>se̊ro̊tōnin</td><td>serotonin</td><td>se̊ro̊tōnin</td><td>n. a neurotransmitter involved in e.g. sleep and depression and memory</td></tr>
+<tr><td>sequin</td><td>sēquin</td><td>sequin</td><td>sēquin</td><td>n. a small shiny ornament used to decorate clothing</td></tr>
+<tr><td>sequined</td><td>sēquin𝕖d</td><td>sequin-ed</td><td>sēquin-𝕖d</td><td>a. covered with beads or jewels or sequins</td></tr>
+<tr><td>sequoia</td><td>sequoiå</td><td>sequoia</td><td>sequoiå</td><td>n. either of two huge coniferous California trees that reach a height of 300 feet</td></tr>
+<tr><td>serotonin</td><td>sero̊tōnin</td><td>serotonin</td><td>sero̊tōnin</td><td>n. a neurotransmitter involved in e.g. sleep and depression and memory</td></tr>
 <tr><td>serial</td><td>sēriål</td><td>seri-al</td><td>sēri-ål</td><td>a. happening in a series<br>n. a story broadcast in parts</td></tr>
 <tr><td>serious</td><td>sērio̊us</td><td>seri-ous</td><td>sēri-o̊us</td><td>a. demanding or characterized by careful consideration or application; solemn</td></tr>
-<tr><td>serous</td><td>se̊ro̊us</td><td>ser-ous</td><td>se̊r-o̊us</td><td>a. of or producing or containing serum</td></tr>
-<tr><td>serialism</td><td>se̊riåliṡm</td><td>seri-al-ism</td><td>se̊ri-ål-iṡm</td><td>n. 20th century music using a definite order of notes as a thematic basis</td></tr>
+<tr><td>serous</td><td>sero̊us</td><td>ser-ous</td><td>ser-o̊us</td><td>a. of or producing or containing serum</td></tr>
+<tr><td>serialism</td><td>sēriåliṡm</td><td>seri-al-ism</td><td>sēri-ål-iṡm</td><td>n. 20th century music using a definite order of notes as a thematic basis</td></tr>
 <tr><td>serialize</td><td>sēriålīze</td><td>seri-al-ize</td><td>sēri-ål-īze</td><td>v. arrange serially</td></tr>
 <tr><td>serially</td><td>sēriållẏ</td><td>seri-al-ly</td><td>sēri-ål-lẏ</td><td>adv. in a serial manner</td></tr>
 <tr><td>seriously</td><td>sērio̊uslẏ</td><td>seri-ous-ly</td><td>sēri-o̊us-lẏ</td><td>adv. in a serious manner</td></tr>
-<tr><td>seriousness</td><td>sērio̊usne̊ss</td><td>seri-ous-ness</td><td>sēri-o̊us-ne̊ss</td><td>n. the trait of being serious<br>n. the quality of arousing fear or distress</td></tr>
-<tr><td>serotype</td><td>se̊ro̊tȳpe</td><td>ser-o-type</td><td>se̊r-o̊-tȳpe</td><td>n. a group of organisms that share a characteristic serological reaction</td></tr>
+<tr><td>seriousness</td><td>sērio̊usnėss</td><td>seri-ous-ness</td><td>sēri-o̊us-nėss</td><td>n. the trait of being serious<br>n. the quality of arousing fear or distress</td></tr>
+<tr><td>serotype</td><td>sero̊tȳpe</td><td>ser-o-type</td><td>ser-o̊-tȳpe</td><td>n. a group of organisms that share a characteristic serological reaction</td></tr>
 <tr><td>serialized</td><td>sēriålīz𝕖d</td><td>seri-al-iz-ed</td><td>sēri-ål-īz-𝕖d</td><td>v arrange serially</td></tr>
-<tr><td>serology</td><td>sèrolo̊gẏ</td><td>ser-o-log-y</td><td>sèr-o-lo̊g-ẏ</td><td>n. the branch of medical science that deals with serums</td></tr>
-<tr><td>serological</td><td>sèro̊logicål</td><td>ser-o-log-ic-al</td><td>sèr-o̊-log-ic-ål</td><td>a of or relating to serology</td></tr>
-<tr><td>serialization</td><td>se̊riålīzātio̊n</td><td>seri-al-iz-at-ion</td><td>se̊ri-ål-īz-āt-io̊n</td><td>n. publication in serial form</td></tr>
-<tr><td>seropositive</td><td>sėrōpoṡitive</td><td>ser-o-pos-it-ive</td><td>sėr-ō-poṡ-it-ive</td><td>a. having a positive serological test result (indicating presence of antibodies)</td></tr>
+<tr><td>serology</td><td>se̊rolo̊gẏ</td><td>ser-o-log-y</td><td>se̊r-o-lo̊g-ẏ</td><td>n. the branch of medical science that deals with serums</td></tr>
+<tr><td>serological</td><td>sero̊logicål</td><td>ser-o-log-ic-al</td><td>ser-o̊-log-ic-ål</td><td>a of or relating to serology</td></tr>
+<tr><td>serialization</td><td>sēriålīzātio̊n</td><td>seri-al-iz-at-ion</td><td>sēri-ål-īz-āt-io̊n</td><td>n. publication in serial form</td></tr>
+<tr><td>seropositive</td><td>sero̊poṡitive</td><td>ser-o-pos-it-ive</td><td>ser-o̊-poṡ-it-ive</td><td>a. having a positive serological test result (indicating presence of antibodies)</td></tr>
 <tr><td>biserial</td><td>bīsēriål</td><td>bi-ser-i-al</td><td>bī-sēr-i-ål</td><td>a. arranged in two rows or series</td></tr>
 <tr><td>nonserious</td><td>nonsērio̊us</td><td>non-seri-ous</td><td>non-sēri-o̊us</td><td>a. not serious</td></tr>
-<tr><td>unserious</td><td>ûnse̊rio̊us</td><td>un-seri-ous</td><td>ûn-se̊ri-o̊us</td><td>a. not serious; lacking seriousness</td></tr>
-<tr><td>seraglio</td><td>serà𝕘liō</td><td>seraglio</td><td>serà𝕘liō</td><td>n. living quarters reserved for wives and concubines in a Muslim household</td></tr>
-<tr><td>serape</td><td>sèràpė</td><td>serape</td><td>sèràpė</td><td>n. a long brightly colored shawl; worn mainly by Mexican men</td></tr>
-<tr><td>seraph</td><td>sèråph</td><td>seraph</td><td>sèråph</td><td>n. an angel of the first order; usually portrayed as the winged head of a child</td></tr>
+<tr><td>unserious</td><td>ûnsērio̊us</td><td>un-seri-ous</td><td>ûn-sēri-o̊us</td><td>a. not serious; lacking seriousness</td></tr>
+<tr><td>seraglio</td><td>se̊rà𝕘liō</td><td>seraglio</td><td>se̊rà𝕘liō</td><td>n. living quarters reserved for wives and concubines in a Muslim household</td></tr>
+<tr><td>serape</td><td>se̊ràpè</td><td>serape</td><td>se̊ràpè</td><td>n. a long brightly colored shawl; worn mainly by Mexican men</td></tr>
+<tr><td>seraph</td><td>seråph</td><td>seraph</td><td>seråph</td><td>n. an angel of the first order; usually portrayed as the winged head of a child</td></tr>
 <tr><td>seraphic</td><td>se̊raphic</td><td>seraph-ic</td><td>se̊raph-ic</td><td>a. of or relating to an angel of the first order</td></tr>
 <tr><td>serbian</td><td>se̊rbiån</td><td>serb-ian</td><td>se̊rb-iån</td><td>a. relating to Serbia or its people<br>n. a native of Serbia</td></tr>
 <tr><td>sere</td><td>sēre</td><td>sere</td><td>sēre</td><td>a. (used especially of vegetation) having lost all moisture</td></tr>
 <tr><td>Serena</td><td>Se̊rēnå</td><td>Serena</td><td>Se̊rēnå</td><td>n. a female given name</td></tr>
-<tr><td>serenade</td><td>sère̊nāde</td><td>seren-ade</td><td>sère̊n-āde</td><td>n. a song characteristically played outside the house of a woman<br>v. sing and play for somebody</td></tr>
-<tr><td>serenity</td><td>se̊reni̊tẏ</td><td>seren-ity</td><td>se̊ren-i̊tẏ</td><td>n. the absence of mental stress or anxiety; calmness</td></tr>
-<tr><td>serendipity</td><td>sère̊ndipitẏ</td><td>serendip-ity</td><td>sère̊ndip-itẏ</td><td>n. good luck in making unexpected and fortunate discoveries</td></tr>
-<tr><td>serendipitous</td><td>sère̊ndipito̊us</td><td>serendip-it-ous</td><td>sère̊ndip-it-o̊us</td><td>a. lucky in making unexpected and fortunate discoveries</td></tr>
+<tr><td>serenade</td><td>sere̊nāde</td><td>seren-ade</td><td>sere̊n-āde</td><td>n. a song characteristically played outside the house of a woman<br>v. sing and play for somebody</td></tr>
+<tr><td>serenity</td><td>se̊renitẏ</td><td>seren-ity</td><td>se̊ren-itẏ</td><td>n. the absence of mental stress or anxiety; calmness</td></tr>
+<tr><td>serendipity</td><td>sere̊ndipitẏ</td><td>serendip-ity</td><td>sere̊ndip-itẏ</td><td>n. good luck in making unexpected and fortunate discoveries</td></tr>
+<tr><td>serendipitous</td><td>sere̊ndipito̊us</td><td>serendip-it-ous</td><td>sere̊ndip-it-o̊us</td><td>a. lucky in making unexpected and fortunate discoveries</td></tr>
 <tr><td>serene</td><td>se̊rēne</td><td>serene</td><td>se̊rēne</td><td>a. calm and peaceful; completely clear and fine</td></tr>
-<tr><td>serenely</td><td>se̊rēne̊lẏ</td><td>serene-ly</td><td>se̊rēne̊-lẏ</td><td>adv. in a peacefully serene manner</td></tr>
+<tr><td>serenely</td><td>se̊rēn𝕖lẏ</td><td>serene-ly</td><td>se̊rēn𝕖-lẏ</td><td>adv. in a peacefully serene manner</td></tr>
 <tr><td>serf</td><td>se̊rf</td><td>serf</td><td>se̊rf</td><td>n. (Middle Ages) a person who is bound to the land and owned by the feudal lord</td></tr>
 <tr><td>serfdom</td><td>se̊rfdo̊m</td><td>serf-dom</td><td>se̊rf-do̊m</td><td>n. the state of being a serf; forced labor</td></tr>
 <tr><td>serge</td><td>se̊rge</td><td>serge</td><td>se̊rge</td><td>n. a twilled woolen fabric</td></tr>
 <tr><td>sergeant</td><td>serge̊ant</td><td>serge-ant</td><td>serge̊-ant</td><td>n. a noncommissioned officer ranking above a corporal</td></tr>
 <tr><td>sergeants</td><td>serge̊ants</td><td>serge-ant-s</td><td>serge̊-ant-s</td><td></td></tr>
 <tr><td>series</td><td>sēriēṡ</td><td>series</td><td>sēriēṡ</td><td>n. a number of things or events of the same class coming one after another<br>n. a set of related television or radio programs</td></tr>
-<tr><td>miniseries</td><td>minisèriēṡ</td><td>mini-series</td><td>mini-sèriēṡ</td><td>n. a television drama shown in a limited number of episodes</td></tr>
-<tr><td>serif</td><td>sèrif</td><td>serif</td><td>sèrif</td><td>n. a short line at the end of the main strokes of a character in some typefaces</td></tr>
-<tr><td>serine</td><td>sèrĩnė</td><td>serine</td><td>sèrĩnė</td><td>n. a sweetish crystalline amino acid involved in the synthesis by the body of cysteine</td></tr>
+<tr><td>miniseries</td><td>minisēriēṡ</td><td>mini-series</td><td>mini-sēriēṡ</td><td>n. a television drama shown in a limited number of episodes</td></tr>
+<tr><td>serif</td><td>serif</td><td>serif</td><td>serif</td><td>n. a short line at the end of the main strokes of a character in some typefaces</td></tr>
+<tr><td>serine</td><td>serĩne</td><td>serine</td><td>serĩne</td><td>n. a sweetish crystalline amino acid involved in the synthesis by the body of cysteine</td></tr>
 <tr><td>berserker</td><td>be̊rse̊rke̊r</td><td>ber-serk-er</td><td>be̊r-se̊rk-e̊r</td><td>n. one who fights with reckless fury</td></tr>
 <tr><td>sermon</td><td>se̊rmo̊n</td><td>serm-on</td><td>se̊rm-o̊n</td><td>n. a religious talk given as part of a church service</td></tr>
 <tr><td>sermonize</td><td>se̊rmo̊nīze</td><td>serm-on-ize</td><td>se̊rm-o̊n-īze</td><td>v. speak as if delivering a sermon; express moral judgements</td></tr>
@@ -1835,7 +1835,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>serrated</td><td>serrātėd</td><td>serr-at-ed</td><td>serr-āt-ėd</td><td>a. notched like a saw with teeth pointing toward the apex</td></tr>
 <tr><td>serried</td><td>serri𝕖d</td><td>serri-ed</td><td>serri-𝕖d</td><td>a. pressed together, especially in rows</td></tr>
 <tr><td>assert</td><td>åsse̊rt</td><td>as-sert</td><td>ås-se̊rt</td><td>v. state categorically<br>v. insist on having one&#x27;s opinions and rights recognized<br>v. to declare or affirm solemnly and formally as true</td></tr>
-<tr><td>asserted</td><td>åsse̊rt𝕖d</td><td>as-sert-ed</td><td>ås-se̊rt-𝕖d</td><td>a. confidently declared to be so</td></tr>
+<tr><td>asserted</td><td>åsse̊rtėd</td><td>as-sert-ed</td><td>ås-se̊rt-ėd</td><td>a. confidently declared to be so</td></tr>
 <tr><td>assertion</td><td>åsse̊rtio̊n</td><td>as-sert-ion</td><td>ås-se̊rt-io̊n</td><td>n. a confident statement of fact or belief</td></tr>
 <tr><td>assertive</td><td>åsse̊rtive</td><td>as-sert-ive</td><td>ås-se̊rt-ive</td><td>a. having a confident and forceful personality</td></tr>
 <tr><td>assertively</td><td>åsse̊rtiv𝕖lẏ</td><td>as-sert-ive-ly</td><td>ås-se̊rt-iv𝕖-lẏ</td><td>adv. in an assertive manner</td></tr>
@@ -1843,40 +1843,40 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>desert</td><td>deṡe̊rt</td><td>de-sert</td><td>de-ṡe̊rt</td><td>n. a dry barren area of land<br>v. abandon</td></tr>
 <tr><td>dessert</td><td>dėsṡe̊rt</td><td>des-sert</td><td>dės-ṡe̊rt</td><td>n. sweet food eaten after the main meal</td></tr>
 <tr><td>deserted</td><td>dėṡe̊rtėd</td><td>de-sert-ed</td><td>dė-ṡe̊rt-ėd</td><td>a. forsaken by owner or inhabitants</td></tr>
-<tr><td>deserter</td><td>deṡe̊rte̊r</td><td>de-sert-er</td><td>de-ṡe̊rt-e̊r</td><td>n. a person who abandons their duty or cause</td></tr>
+<tr><td>deserter</td><td>dėṡe̊rte̊r</td><td>de-sert-er</td><td>dė-ṡe̊rt-e̊r</td><td>n. a person who abandons their duty or cause</td></tr>
 <tr><td>desertion</td><td>dėṡe̊rtio̊n</td><td>de-sert-ion</td><td>dė-ṡe̊rt-io̊n</td><td>n. withdrawing support or help despite allegiance or responsibility</td></tr>
 <tr><td>deserts</td><td>deṡe̊rts</td><td>de-sert-s</td><td>de-ṡe̊rt-s</td><td></td></tr>
 <tr><td>desserts</td><td>dėsṡe̊rts</td><td>des-sert-s</td><td>dės-ṡe̊rt-s</td><td></td></tr>
 <tr><td>dissertation</td><td>disse̊rtātio̊n</td><td>dis-sert-at-ion</td><td>dis-se̊rt-āt-io̊n</td><td>n. a long essay on a particular subject, especially for a degree</td></tr>
-<tr><td>desertification</td><td>deṡe̊rtificātio̊n</td><td>de-sert-i-fic-at-ion</td><td>de-ṡe̊rt-i-fic-āt-io̊n</td><td>n. the gradual transformation of habitable land into desert</td></tr>
+<tr><td>desertification</td><td>dėṡe̊rtificātio̊n</td><td>de-sert-i-fic-at-ion</td><td>dė-ṡe̊rt-i-fic-āt-io̊n</td><td>n. the gradual transformation of habitable land into desert</td></tr>
 <tr><td>insert</td><td>inse̊rt</td><td>in-sert</td><td>in-se̊rt</td><td>vt. put something into something else<br>n. something inserted</td></tr>
-<tr><td>inserted</td><td>inse̊rt𝕖d</td><td>in-sert-ed</td><td>in-se̊rt-𝕖d</td><td>v. put or introduce into something</td></tr>
+<tr><td>inserted</td><td>inse̊rtėd</td><td>in-sert-ed</td><td>in-se̊rt-ėd</td><td>v. put or introduce into something</td></tr>
 <tr><td>insertion</td><td>inse̊rtio̊n</td><td>in-sert-ion</td><td>in-se̊rt-io̊n</td><td>n. the act of putting one thing into another</td></tr>
-<tr><td>reassert</td><td>rēasse̊rt</td><td>re-as-sert</td><td>rē-as-se̊rt</td><td>vt. to state again with emphasis or conviction</td></tr>
-<tr><td>reassertion</td><td>rēasse̊rtio̊n</td><td>re-as-sert-ion</td><td>rē-as-se̊rt-io̊n</td><td>n. renewed affirmation</td></tr>
-<tr><td>reinsert</td><td>rėinse̊rt</td><td>re-in-sert</td><td>rė-in-se̊rt</td><td>vt. to insert again</td></tr>
-<tr><td>reinsertion</td><td>rėinse̊rtio̊n</td><td>re-in-sert-ion</td><td>rė-in-se̊rt-io̊n</td><td>n. the act of inserting again</td></tr>
+<tr><td>reassert</td><td>rēåsse̊rt</td><td>re-as-sert</td><td>rē-ås-se̊rt</td><td>vt. to state again with emphasis or conviction</td></tr>
+<tr><td>reassertion</td><td>rēåsse̊rtio̊n</td><td>re-as-sert-ion</td><td>rē-ås-se̊rt-io̊n</td><td>n. renewed affirmation</td></tr>
+<tr><td>reinsert</td><td>rēinse̊rt</td><td>re-in-sert</td><td>rē-in-se̊rt</td><td>vt. to insert again</td></tr>
+<tr><td>reinsertion</td><td>rēinse̊rtio̊n</td><td>re-in-sert-ion</td><td>rē-in-se̊rt-io̊n</td><td>n. the act of inserting again</td></tr>
 <tr><td>unassertive</td><td>ûnåsse̊rtive</td><td>un-as-sert-ive</td><td>ûn-ås-se̊rt-ive</td><td>a. inclined to timidity or lack of self-confidence</td></tr>
 <tr><td>serum</td><td>sērům</td><td>serum</td><td>sērům</td><td>n. an amber, watery fluid, rich in proteins, that separates out when blood coagulates</td></tr>
-<tr><td>antiserum</td><td>antise̊rům</td><td>anti-serum</td><td>anti-se̊rům</td><td>n. blood serum containing antibodies against specific antigens; provides immunity</td></tr>
+<tr><td>antiserum</td><td>antisērům</td><td>anti-serum</td><td>anti-sērům</td><td>n. blood serum containing antibodies against specific antigens; provides immunity</td></tr>
 <tr><td>serve</td><td>se̊rve</td><td>serve</td><td>se̊rve</td><td>v. to perform duties or services for someone<br>v. to provide food or drink to someone<br>n. the act of putting a ball into play in sports</td></tr>
 <tr><td>servant</td><td>se̊rvånt</td><td>serv-ant</td><td>se̊rv-ånt</td><td>n. a person who works in another household performing duties such as cooking and cleaning</td></tr>
 <tr><td>served</td><td>se̊rv𝕖d</td><td>serv-ed</td><td>se̊rv-𝕖d</td><td></td></tr>
 <tr><td>server</td><td>se̊rve̊r</td><td>serv-er</td><td>se̊rv-e̊r</td><td>n. a computer that provides data to other computers<br>n. a person who serves food or drinks</td></tr>
 <tr><td>service</td><td>se̊rvice</td><td>serv-ice</td><td>se̊rv-ice</td><td>n. work done for others; a facility; maintenance; a religious ceremony<br>vt. to maintain or repair</td></tr>
-<tr><td>servile</td><td>se̊rvi̊le</td><td>serv-ile</td><td>se̊rv-i̊le</td><td>a. submissive or fawning in attitude or behavior<br>a. relating to or involving slaves or appropriate for slaves or servants</td></tr>
+<tr><td>servile</td><td>se̊rvīle</td><td>serv-ile</td><td>se̊rv-īle</td><td>a. submissive or fawning in attitude or behavior<br>a. relating to or involving slaves or appropriate for slaves or servants</td></tr>
 <tr><td>serving</td><td>se̊rving</td><td>serv-ing</td><td>se̊rv-ing</td><td>n. an individual portion of food<br>n. the act of providing food or drink to others</td></tr>
-<tr><td>servitude</td><td>se̊rvi̊tūde</td><td>serv-itude</td><td>se̊rv-i̊tūde</td><td>n. state of subjection to an owner or forced labor</td></tr>
+<tr><td>servitude</td><td>se̊rvitūde</td><td>serv-itude</td><td>se̊rv-itūde</td><td>n. state of subjection to an owner or forced labor</td></tr>
 <tr><td>serves</td><td>se̊rv𝕖ṡ</td><td>serve-s</td><td>se̊rv𝕖-ṡ</td><td></td></tr>
-<tr><td>serviceable</td><td>se̊rvi̊ce̊able</td><td>serv-ice-able</td><td>se̊rv-i̊ce̊-able</td><td>a. ready for service; capable of being put to good use</td></tr>
+<tr><td>serviceable</td><td>se̊rvic𝕖åble</td><td>serv-ice-able</td><td>se̊rv-ic𝕖-åble</td><td>a. ready for service; capable of being put to good use</td></tr>
 <tr><td>servicer</td><td>se̊rvice̊r</td><td>serv-ic-er</td><td>se̊rv-ic-e̊r</td><td>n. a person or company that provides a service</td></tr>
 <tr><td>servicing</td><td>se̊rvicing</td><td>serv-ic-ing</td><td>se̊rv-ic-ing</td><td>n. the act of maintaining or repairing something</td></tr>
 <tr><td>servility</td><td>se̊rvilitẏ</td><td>serv-il-ity</td><td>se̊rv-il-itẏ</td><td>n. abject or cringing submissiveness</td></tr>
-<tr><td>serviceman</td><td>se̊rvi̊c𝕖mån</td><td>serv-ice-man</td><td>se̊rv-i̊c𝕖-mån</td><td>n. a member of the armed forces; a person who repairs equipment</td></tr>
+<tr><td>serviceman</td><td>se̊rvic𝕖mån</td><td>serv-ice-man</td><td>se̊rv-ic𝕖-mån</td><td>n. a member of the armed forces; a person who repairs equipment</td></tr>
 <tr><td>servants</td><td>se̊rvånts</td><td>serv-ant-s</td><td>se̊rv-ånt-s</td><td></td></tr>
 <tr><td>services</td><td>se̊rvicėṡ</td><td>serv-ice-s</td><td>se̊rv-icė-ṡ</td><td></td></tr>
 <tr><td>servicemember</td><td>se̊rvic𝕖membe̊r</td><td>serv-ice-memb-er</td><td>se̊rv-ic𝕖-memb-e̊r</td><td>n. a person who serves in the armed forces</td></tr>
-<tr><td>serviceability</td><td>se̊rvice̊åbilitẏ</td><td>serv-ice-abil-ity</td><td>se̊rv-ice̊-åbil-itẏ</td><td>n. the quality of being able to provide good service</td></tr>
+<tr><td>serviceability</td><td>se̊rvic𝕖åbilitẏ</td><td>serv-ice-abil-ity</td><td>se̊rv-ic𝕖-åbil-itẏ</td><td>n. the quality of being able to provide good service</td></tr>
 <tr><td>servicewoman</td><td>se̊rvic𝕖wõmån</td><td>serv-ice-wo-man</td><td>se̊rv-ic𝕖-wõ-mån</td><td>n. a woman who is a member of the armed forces</td></tr>
 <tr><td>conserve</td><td>co̊nse̊rve</td><td>con-serve</td><td>co̊n-se̊rve</td><td>v. protect from harm or destruction<br>n. fruit preserved with sugar</td></tr>
 <tr><td>conservancy</td><td>co̊nse̊rvåncẏ</td><td>con-serv-ancy</td><td>co̊n-se̊rv-åncẏ</td><td>n. the official conservation of natural resources</td></tr>
@@ -1885,8 +1885,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>conservation</td><td>conse̊rvātio̊n</td><td>con-serv-at-ion</td><td>con-se̊rv-āt-io̊n</td><td>n. the preservation and careful management of the environment and of natural resources<br>n. an occurrence of improvement by virtue of preventing loss or injury or other change</td></tr>
 <tr><td>conservatism</td><td>co̊nse̊rvåtiṡm</td><td>con-serv-at-ism</td><td>co̊n-se̊rv-åt-iṡm</td><td>n. the holding of conservative views</td></tr>
 <tr><td>conservative</td><td>co̊nse̊rvātive</td><td>con-serv-at-ive</td><td>co̊n-se̊rv-āt-ive</td><td>a. holding to traditional attitudes and values; cautious about change<br>n. a person who is conservative in attitudes or views</td></tr>
-<tr><td>conservator</td><td>co̊nse̊rvåto̊r</td><td>con-serv-at-or</td><td>co̊n-se̊rv-åt-o̊r</td><td>n. someone appointed by a court to assume responsibility for the interests of a minor</td></tr>
-<tr><td>conservatory</td><td>co̊nse̊rvåtorẏ</td><td>con-serv-at-ory</td><td>co̊n-se̊rv-åt-orẏ</td><td>n. a school specializing in one of the fine arts<br>n. a greenhouse</td></tr>
+<tr><td>conservator</td><td>co̊nse̊rvāto̊r</td><td>con-serv-at-or</td><td>co̊n-se̊rv-āt-o̊r</td><td>n. someone appointed by a court to assume responsibility for the interests of a minor</td></tr>
+<tr><td>conservatory</td><td>co̊nse̊rvåto̊rẏ</td><td>con-serv-at-ory</td><td>co̊n-se̊rv-åt-o̊rẏ</td><td>n. a school specializing in one of the fine arts<br>n. a greenhouse</td></tr>
 <tr><td>conservationist</td><td>conse̊rvātio̊nist</td><td>con-serv-at-ion-ist</td><td>con-se̊rv-āt-io̊n-ist</td><td>n. someone who works to protect the environment</td></tr>
 <tr><td>conservativism</td><td>co̊nse̊rvåtiviṡm</td><td>con-serv-at-iv-ism</td><td>co̊n-se̊rv-åt-iv-iṡm</td><td>n. a political orientation advocating preservation of the best in society</td></tr>
 <tr><td>conservatively</td><td>co̊nse̊rvåtiv𝕖lẏ</td><td>con-serv-at-ive-ly</td><td>co̊n-se̊rv-åt-iv𝕖-lẏ</td><td>adv. in a conservative manner</td></tr>
@@ -1894,9 +1894,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>disserve</td><td>disse̊rve</td><td>dis-serve</td><td>dis-se̊rve</td><td>vt. to act against the interests of; to harm</td></tr>
 <tr><td>deserved</td><td>dėṡe̊rv𝕖d</td><td>de-serv-ed</td><td>dė-ṡe̊rv-𝕖d</td><td>a. properly deserved</td></tr>
 <tr><td>deserving</td><td>dėṡe̊rving</td><td>de-serv-ing</td><td>dė-ṡe̊rv-ing</td><td>a. worthy of being treated in a particular way</td></tr>
-<tr><td>disservice</td><td>disse̊rvi̊ce</td><td>dis-serv-ice</td><td>dis-se̊rv-i̊ce</td><td>n. an act intended to help that turns out badly</td></tr>
+<tr><td>disservice</td><td>disse̊rvice</td><td>dis-serv-ice</td><td>dis-se̊rv-ice</td><td>n. an act intended to help that turns out badly</td></tr>
 <tr><td>deserves</td><td>dėṡe̊rv𝕖ṡ</td><td>de-serve-s</td><td>dė-ṡe̊rv𝕖-ṡ</td><td></td></tr>
-<tr><td>deservedly</td><td>dėṡe̊rve̊dlẏ</td><td>de-serv-ed-ly</td><td>dė-ṡe̊rv-e̊d-lẏ</td><td>adv. as deserved</td></tr>
+<tr><td>deservedly</td><td>dėṡe̊rvėdlẏ</td><td>de-serv-ed-ly</td><td>dė-ṡe̊rv-ėd-lẏ</td><td>adv. as deserved</td></tr>
 <tr><td>interservice</td><td>inte̊rse̊rvice</td><td>inter-serv-ice</td><td>inte̊r-se̊rv-ice</td><td>a. relating to different branches of the armed forces</td></tr>
 <tr><td>maidservant</td><td>māidse̊rvånt</td><td>maid-serv-ant</td><td>māid-se̊rv-ånt</td><td>n a female domestic</td></tr>
 <tr><td>observe</td><td>o̊bṡe̊rve</td><td>ob-serve</td><td>o̊b-ṡe̊rve</td><td>v. watch carefully or notice something<br>v. follow or obey a rule, law, or custom</td></tr>
@@ -1908,17 +1908,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>observing</td><td>o̊bṡe̊rving</td><td>ob-serv-ing</td><td>o̊b-ṡe̊rv-ing</td><td></td></tr>
 <tr><td>observes</td><td>o̊bṡe̊rv𝕖ṡ</td><td>ob-serve-s</td><td>o̊b-ṡe̊rv𝕖-ṡ</td><td></td></tr>
 <tr><td>observation</td><td>obṡe̊rvātio̊n</td><td>ob-serv-at-ion</td><td>ob-ṡe̊rv-āt-io̊n</td><td>n. the action of watching something carefully<br>n. a remark based on something one has seen</td></tr>
-<tr><td>observatory</td><td>o̊bṡe̊rvåtorẏ</td><td>ob-serv-at-ory</td><td>o̊b-ṡe̊rv-åt-orẏ</td><td>n. a building designed and equipped to observe astronomical phenomena</td></tr>
+<tr><td>observatory</td><td>o̊bṡe̊rvåto̊rẏ</td><td>ob-serv-at-ory</td><td>o̊b-ṡe̊rv-åt-o̊rẏ</td><td>n. a building designed and equipped to observe astronomical phenomena</td></tr>
 <tr><td>observational</td><td>obṡe̊rvātio̊nål</td><td>ob-serv-at-ion-al</td><td>ob-ṡe̊rv-āt-io̊n-ål</td><td>a. relying on observation or experiment</td></tr>
 <tr><td>observations</td><td>obṡe̊rvātio̊nṡ</td><td>ob-serv-at-ion-s</td><td>ob-ṡe̊rv-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>preserve</td><td>prėṡe̊rve</td><td>pre-serve</td><td>prė-ṡe̊rve</td><td>v. maintain something in its original state<br>v. prevent food from decaying<br>n. food preserved for storage</td></tr>
-<tr><td>preserved</td><td>pre̊ṡe̊rv𝕖d</td><td>pre-serv-ed</td><td>pre̊-ṡe̊rv-𝕖d</td><td>a. prevented from decaying and prepared for future use</td></tr>
-<tr><td>preserver</td><td>prēṡe̊rve̊r</td><td>pre-serv-er</td><td>prē-ṡe̊rv-e̊r</td><td>n. someone who keeps safe from harm or danger</td></tr>
-<tr><td>preserving</td><td>pre̊ṡe̊rving</td><td>pre-serv-ing</td><td>pre̊-ṡe̊rv-ing</td><td>a. maintaining in unaltered condition</td></tr>
+<tr><td>preserved</td><td>prėṡe̊rv𝕖d</td><td>pre-serv-ed</td><td>prė-ṡe̊rv-𝕖d</td><td>a. prevented from decaying and prepared for future use</td></tr>
+<tr><td>preserver</td><td>prėṡe̊rve̊r</td><td>pre-serv-er</td><td>prė-ṡe̊rv-e̊r</td><td>n. someone who keeps safe from harm or danger</td></tr>
+<tr><td>preserving</td><td>prėṡe̊rving</td><td>pre-serv-ing</td><td>prė-ṡe̊rv-ing</td><td>a. maintaining in unaltered condition</td></tr>
 <tr><td>preserves</td><td>prėṡe̊rv𝕖ṡ</td><td>pre-serve-s</td><td>prė-ṡe̊rv𝕖-ṡ</td><td></td></tr>
 <tr><td>preservation</td><td>preṡe̊rvātio̊n</td><td>pre-serv-at-ion</td><td>pre-ṡe̊rv-āt-io̊n</td><td>n. the act of keeping something in its original state or in good condition</td></tr>
-<tr><td>preservative</td><td>prēṡe̊rvåtive</td><td>pre-serv-at-ive</td><td>prē-ṡe̊rv-åt-ive</td><td>n. a chemical compound added to protect against decay<br>a. tending or having the power to preserve</td></tr>
-<tr><td>preservationist</td><td>preṡe̊rvātio̊nist</td><td>pre-serv-at-ion-ist</td><td>pre-ṡe̊rv-āt-io̊n-ist</td><td>n. someone who advocates preservation of historical sites or natural areas</td></tr>
+<tr><td>preservative</td><td>prėṡe̊rvåtive</td><td>pre-serv-at-ive</td><td>prė-ṡe̊rv-åt-ive</td><td>n. a chemical compound added to protect against decay<br>a. tending or having the power to preserve</td></tr>
+<tr><td>preservationist</td><td>prėṡe̊rvātio̊nist</td><td>pre-serv-at-ion-ist</td><td>prė-ṡe̊rv-āt-io̊n-ist</td><td>n. someone who advocates preservation of historical sites or natural areas</td></tr>
 <tr><td>reserve</td><td>rėṡe̊rve</td><td>re-serve</td><td>rė-ṡe̊rve</td><td>n. something kept for future use<br>n. a piece of land set aside for a particular purpose<br>vt. to keep something for future use</td></tr>
 <tr><td>reserved</td><td>rėṡe̊rv𝕖d</td><td>re-serv-ed</td><td>rė-ṡe̊rv-𝕖d</td><td>a. set aside for the use of a particular person or party<br>a. marked by self-restraint and reticence</td></tr>
 <tr><td>reserving</td><td>rėṡe̊rving</td><td>re-serv-ing</td><td>rė-ṡe̊rv-ing</td><td></td></tr>
@@ -1926,28 +1926,28 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>reservoir</td><td>reṡe̊rvoir</td><td>re-serv-oir</td><td>re-ṡe̊rv-oir</td><td>n. a large supply of something<br>n. a lake used to store water for community use</td></tr>
 <tr><td>reserves</td><td>rėṡe̊rv𝕖ṡ</td><td>re-serve-s</td><td>rė-ṡe̊rv𝕖-ṡ</td><td></td></tr>
 <tr><td>reservation</td><td>reṡe̊rvātio̊n</td><td>re-serv-at-ion</td><td>re-ṡe̊rv-āt-io̊n</td><td>n. a district that is reserved for particular purpose<br>n. a statement that limits or restricts some claim<br>n. a written record or promise securing accommodations in advance<br>n. something reserved in advance</td></tr>
-<tr><td>reservationist</td><td>reṡe̊rvātio̊nist</td><td>re-serv-at-ion-ist</td><td>re-ṡe̊rv-āt-io̊n-ist</td><td>n. a person who makes a reservation or who has reservations about something</td></tr>
+<tr><td>reservationist</td><td>rėṡe̊rvātio̊nist</td><td>re-serv-at-ion-ist</td><td>rė-ṡe̊rv-āt-io̊n-ist</td><td>n. a person who makes a reservation or who has reservations about something</td></tr>
 <tr><td>reservations</td><td>reṡe̊rvātio̊nṡ</td><td>re-serv-at-ion-s</td><td>re-ṡe̊rv-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>subserve</td><td>sûbse̊rve</td><td>sub-serve</td><td>sûb-se̊rve</td><td>v. be helpful or useful</td></tr>
 <tr><td>underserved</td><td>ûnde̊rse̊rv𝕖d</td><td>under-serv-ed</td><td>ûnde̊r-se̊rv-𝕖d</td><td>a. not provided with adequate services</td></tr>
-<tr><td>neoconservative</td><td>nēōco̊nse̊rvåtive</td><td>neo-con-serv-at-ive</td><td>nēō-co̊n-se̊rv-åt-ive</td><td>n. a conservative who subscribes to neoconservatism</td></tr>
-<tr><td>nonobservance</td><td>nono̊bṡe̊rvånce</td><td>non-ob-serv-ance</td><td>non-o̊b-ṡe̊rv-ånce</td><td>n. failure to observe a rule or custom</td></tr>
+<tr><td>neoconservative</td><td>nēōconse̊rvåtive</td><td>neo-con-serv-at-ive</td><td>nēō-con-se̊rv-åt-ive</td><td>n. a conservative who subscribes to neoconservatism</td></tr>
+<tr><td>nonobservance</td><td>nonobṡe̊rvånce</td><td>non-ob-serv-ance</td><td>non-ob-ṡe̊rv-ånce</td><td>n. failure to observe a rule or custom</td></tr>
 <tr><td>ultraconservative</td><td>ûltråco̊nse̊rvåtive</td><td>ultra-con-serv-at-ive</td><td>ûltrå-co̊n-se̊rv-åt-ive</td><td>a. extremely conservative</td></tr>
 <tr><td>undeserved</td><td>ûndėṡe̊rv𝕖d</td><td>un-de-serv-ed</td><td>ûn-dė-ṡe̊rv-𝕖d</td><td>a. not deserved or earned</td></tr>
 <tr><td>undeserving</td><td>ûndėṡe̊rving</td><td>un-de-serv-ing</td><td>ûn-dė-ṡe̊rv-ing</td><td>a. not deserving</td></tr>
-<tr><td>undeservedly</td><td>ûndėṡe̊rv𝕖dlẏ</td><td>un-de-serv-ed-ly</td><td>ûn-dė-ṡe̊rv-𝕖d-lẏ</td><td>adv. in an unmerited manner</td></tr>
-<tr><td>unobservable</td><td>ûno̊bṡe̊rvåble</td><td>un-ob-serv-able</td><td>ûn-o̊b-ṡe̊rv-åble</td><td>a. not accessible to direct observation</td></tr>
-<tr><td>unobservant</td><td>ûno̊bṡe̊rvånt</td><td>un-ob-serv-ant</td><td>ûn-o̊b-ṡe̊rv-ånt</td><td>a. not consciously observing</td></tr>
-<tr><td>unobserved</td><td>ûno̊bse̊rv𝕖d</td><td>un-ob-serv-ed</td><td>ûn-o̊b-se̊rv-𝕖d</td><td>a. not observed</td></tr>
+<tr><td>undeservedly</td><td>ûndėṡe̊rvėdlẏ</td><td>un-de-serv-ed-ly</td><td>ûn-dė-ṡe̊rv-ėd-lẏ</td><td>adv. in an unmerited manner</td></tr>
+<tr><td>unobservable</td><td>ûnobṡe̊rvåble</td><td>un-ob-serv-able</td><td>ûn-ob-ṡe̊rv-åble</td><td>a. not accessible to direct observation</td></tr>
+<tr><td>unobservant</td><td>ûnobṡe̊rvånt</td><td>un-ob-serv-ant</td><td>ûn-ob-ṡe̊rv-ånt</td><td>a. not consciously observing</td></tr>
+<tr><td>unobserved</td><td>ûnobṡe̊rv𝕖d</td><td>un-ob-serv-ed</td><td>ûn-ob-ṡe̊rv-𝕖d</td><td>a. not observed</td></tr>
 <tr><td>unreserved</td><td>ûnrėṡe̊rv𝕖d</td><td>un-re-serv-ed</td><td>ûn-rė-ṡe̊rv-𝕖d</td><td>a. not reserved<br>a. not cautious or reticent</td></tr>
 <tr><td>unreservedly</td><td>ûnrėṡe̊rvėdlẏ</td><td>un-re-serv-ed-ly</td><td>ûn-rė-ṡe̊rv-ėd-lẏ</td><td>adv. without reservation</td></tr>
-<tr><td>well-deserved</td><td>well-dėṡe̊rved</td><td>well-de-serv-ed</td><td>well-dė-ṡe̊rv-ed</td><td>a. fully deserved</td></tr>
+<tr><td>well-deserved</td><td>well-dėṡe̊rv𝕖d</td><td>well-de-serv-ed</td><td>well-dė-ṡe̊rv-𝕖d</td><td>a. fully deserved</td></tr>
 <tr><td>cryopreservation</td><td>crȳōpreṡe̊rvātio̊n</td><td>cry-o-pre-serv-at-ion</td><td>crȳ-ō-pre-ṡe̊rv-āt-io̊n</td><td>n. the preservation of biological materials at very low temperatures</td></tr>
-<tr><td>subservience</td><td>sûbse̊rviēnce</td><td>sub-servi-ence</td><td>sûb-se̊rvi-ēnce</td><td>n. the condition of being useful for reaching an end<br>n. in a subservient state</td></tr>
-<tr><td>subservient</td><td>sûbse̊rviēnt</td><td>sub-servi-ent</td><td>sûb-se̊rvi-ēnt</td><td>a. compliant and obedient to authority<br>a. abjectly submissive; characteristic of a slave or servant</td></tr>
+<tr><td>subservience</td><td>sûbse̊rvie̊nce</td><td>sub-servi-ence</td><td>sûb-se̊rvi-e̊nce</td><td>n. the condition of being useful for reaching an end<br>n. in a subservient state</td></tr>
+<tr><td>subservient</td><td>sûbse̊rvie̊nt</td><td>sub-servi-ent</td><td>sûb-se̊rvi-e̊nt</td><td>a. compliant and obedient to authority<br>a. abjectly submissive; characteristic of a slave or servant</td></tr>
 <tr><td>servo</td><td>se̊rvō</td><td>servo</td><td>se̊rvō</td><td>n. a control system converting small motion into one requiring much greater power</td></tr>
-<tr><td>servomotor</td><td>se̊rvōmōto̊r</td><td>servo-mot-or</td><td>se̊rvō-mōt-o̊r</td><td>n. a motor that controls a mechanism indirectly</td></tr>
-<tr><td>sesame</td><td>sesåmē</td><td>sesame</td><td>sesåmē</td><td>n. a plant cultivated for its edible seeds</td></tr>
+<tr><td>servomotor</td><td>se̊rvo̊mōto̊r</td><td>servo-mot-or</td><td>se̊rvo̊-mōt-o̊r</td><td>n. a motor that controls a mechanism indirectly</td></tr>
+<tr><td>sesame</td><td>sesåmė</td><td>sesame</td><td>sesåmė</td><td>n. a plant cultivated for its edible seeds</td></tr>
 <tr><td>sessile</td><td>sessīle</td><td>sess-ile</td><td>sess-īle</td><td>a. permanently attached to a substrate; not free to move about<br>a. attached directly by the base; not having an intervening stalk</td></tr>
 <tr><td>session</td><td>sessio̊n</td><td>sess-ion</td><td>sess-io̊n</td><td>n. a meeting or period of time devoted to a particular activity<br>n. a period during which a court or parliament sits</td></tr>
 <tr><td>sessions</td><td>sessio̊nṡ</td><td>sess-ion-s</td><td>sess-io̊n-ṡ</td><td></td></tr>
@@ -1958,23 +1958,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>assessment</td><td>åssessme̊nt</td><td>as-sess-ment</td><td>ås-sess-me̊nt</td><td>n. the process of evaluating or judging the quality or importance of something</td></tr>
 <tr><td>assessor</td><td>åssesso̊r</td><td>as-sess-or</td><td>ås-sess-o̊r</td><td>n. an official who evaluates property for the purpose of taxing it</td></tr>
 <tr><td>intersession</td><td>inte̊rsessio̊n</td><td>inter-sess-ion</td><td>inte̊r-sess-io̊n</td><td>n. a short vacation between academic sessions</td></tr>
-<tr><td>obsess</td><td>o̊bsess</td><td>ob-sess</td><td>o̊b-sess</td><td>v. be preoccupied with something</td></tr>
-<tr><td>obsessed</td><td>o̊bsess𝕖ḋ</td><td>ob-sess-ed</td><td>o̊b-sess-𝕖ḋ</td><td>a. unable to stop thinking about something</td></tr>
+<tr><td>obsess</td><td>obsess</td><td>ob-sess</td><td>ob-sess</td><td>v. be preoccupied with something</td></tr>
+<tr><td>obsessed</td><td>obsess𝕖ḋ</td><td>ob-sess-ed</td><td>ob-sess-𝕖ḋ</td><td>a. unable to stop thinking about something</td></tr>
 <tr><td>obsesses</td><td>obsessėṡ</td><td>ob-sess-es</td><td>ob-sess-ėṡ</td><td></td></tr>
 <tr><td>obsessing</td><td>obsessing</td><td>ob-sess-ing</td><td>ob-sess-ing</td><td></td></tr>
-<tr><td>obsession</td><td>o̊bsessio̊n</td><td>ob-sess-ion</td><td>o̊b-sess-io̊n</td><td>n. the state of being obsessed with someone or something</td></tr>
-<tr><td>obsessive</td><td>o̊bsessive</td><td>ob-sess-ive</td><td>o̊b-sess-ive</td><td>a. preoccupying or filling the mind to the exclusion of other things</td></tr>
-<tr><td>obsessional</td><td>o̊bsessio̊nål</td><td>ob-sess-ion-al</td><td>o̊b-sess-io̊n-ål</td><td>a. characterized by or constituting an obsession</td></tr>
+<tr><td>obsession</td><td>obsessio̊n</td><td>ob-sess-ion</td><td>ob-sess-io̊n</td><td>n. the state of being obsessed with someone or something</td></tr>
+<tr><td>obsessive</td><td>obsessive</td><td>ob-sess-ive</td><td>ob-sess-ive</td><td>a. preoccupying or filling the mind to the exclusion of other things</td></tr>
+<tr><td>obsessional</td><td>obsessio̊nål</td><td>ob-sess-ion-al</td><td>ob-sess-io̊n-ål</td><td>a. characterized by or constituting an obsession</td></tr>
 <tr><td>obsessively</td><td>obsessiv𝕖lẏ</td><td>ob-sess-ive-ly</td><td>ob-sess-iv𝕖-lẏ</td><td>adv. in a compulsive manner</td></tr>
-<tr><td>obsessiveness</td><td>o̊bsessiv𝕖nėss</td><td>ob-sess-ive-ness</td><td>o̊b-sess-iv𝕖-nėss</td><td>n. extreme compulsiveness</td></tr>
+<tr><td>obsessiveness</td><td>obsessiv𝕖nėss</td><td>ob-sess-ive-ness</td><td>ob-sess-iv𝕖-nėss</td><td>n. extreme compulsiveness</td></tr>
 <tr><td>obsessions</td><td>o̊bsessio̊nṡ</td><td>ob-sess-ion-s</td><td>o̊b-sess-io̊n-ṡ</td><td></td></tr>
-<tr><td>preassessment</td><td>prēassessme̊nt</td><td>pre-as-sess-ment</td><td>prē-as-sess-me̊nt</td><td>n. an assessment made before the main assessment</td></tr>
-<tr><td>prepossessing</td><td>prēpo̊sṡessing</td><td>pre-pos-sess-ing</td><td>prē-po̊s-ṡess-ing</td><td>a. creating a favorable impression</td></tr>
-<tr><td>reassess</td><td>rēassess</td><td>re-as-sess</td><td>rē-as-sess</td><td>vt. to evaluate or assess something again</td></tr>
-<tr><td>reassessment</td><td>rēassessme̊nt</td><td>re-as-sess-ment</td><td>rē-as-sess-me̊nt</td><td>n. a new appraisal or evaluation</td></tr>
+<tr><td>preassessment</td><td>prēåssessme̊nt</td><td>pre-as-sess-ment</td><td>prē-ås-sess-me̊nt</td><td>n. an assessment made before the main assessment</td></tr>
+<tr><td>prepossessing</td><td>prėpo̊sṡessing</td><td>pre-pos-sess-ing</td><td>prė-po̊s-ṡess-ing</td><td>a. creating a favorable impression</td></tr>
+<tr><td>reassess</td><td>rēåssess</td><td>re-as-sess</td><td>rē-ås-sess</td><td>vt. to evaluate or assess something again</td></tr>
+<tr><td>reassessment</td><td>rēåssessme̊nt</td><td>re-as-sess-ment</td><td>rē-ås-sess-me̊nt</td><td>n. a new appraisal or evaluation</td></tr>
 <tr><td>repossess</td><td>rėpo̊sṡess</td><td>re-pos-sess</td><td>rė-po̊s-ṡess</td><td>v. claim back<br>v. regain possession of something</td></tr>
 <tr><td>repossession</td><td>rėpo̊sṡessio̊n</td><td>re-pos-sess-ion</td><td>rė-po̊s-ṡess-io̊n</td><td>n. regaining possession, especially seizure of collateral securing a defaulted loan</td></tr>
-<tr><td>unprepossessing</td><td>unprēpo̊sṡessing</td><td>un-pre-pos-sess-ing</td><td>un-prē-po̊s-ṡess-ing</td><td>a. creating an unfavorable or neutral first impression</td></tr>
+<tr><td>unprepossessing</td><td>ûnprėpo̊sṡessing</td><td>un-pre-pos-sess-ing</td><td>ûn-prė-po̊s-ṡess-ing</td><td>a. creating an unfavorable or neutral first impression</td></tr>
 <tr><td>sestina</td><td>sestĩnå</td><td>sest-ina</td><td>sest-ĩnå</td><td>n. a type of poem with six stanzas of six lines each</td></tr>
 <tr><td>set</td><td>set</td><td>set</td><td>set</td><td>n. a group of things; a collection; an apparatus<br>vt. to put in position; to establish; to adjust<br>vi. to go below the horizon; to become firm<br>a. fixed; arranged; ready</td></tr>
 <tr><td>setback</td><td>setback</td><td>set-back</td><td>set-back</td><td>n. an unfortunate happening that hinders progress</td></tr>
@@ -1999,9 +1999,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>offset</td><td>offset</td><td>off-set</td><td>off-set</td><td>v. to balance or compensate for something<br>n. something that balances something else</td></tr>
 <tr><td>onset</td><td>onset</td><td>on-set</td><td>on-set</td><td>n. the beginning of something</td></tr>
 <tr><td>preset</td><td>prēset</td><td>pre-set</td><td>prē-set</td><td>a. set in advance<br>vt. to set beforehand</td></tr>
-<tr><td>reset</td><td>rēset</td><td>re-set</td><td>rē-set</td><td>n. device for resetting instruments or controls<br>v. set anew or set to zero</td></tr>
-<tr><td>resettle</td><td>rēsettle</td><td>re-sett-le</td><td>rē-sett-le</td><td>v. settle in a new place</td></tr>
-<tr><td>resettlement</td><td>rēsettleme̊nt</td><td>re-sett-le-ment</td><td>rē-sett-le-me̊nt</td><td>n. the transportation of people to a new settlement after an upheaval</td></tr>
+<tr><td>reset</td><td>rėset</td><td>re-set</td><td>rė-set</td><td>n. device for resetting instruments or controls<br>v. set anew or set to zero</td></tr>
+<tr><td>resettle</td><td>rėsettle</td><td>re-sett-le</td><td>rė-sett-le</td><td>v. settle in a new place</td></tr>
+<tr><td>resettlement</td><td>rėsettl𝕖me̊nt</td><td>re-sett-le-ment</td><td>rė-sett-l𝕖-me̊nt</td><td>n. the transportation of people to a new settlement after an upheaval</td></tr>
 <tr><td>subset</td><td>sûbset</td><td>sub-set</td><td>sûb-set</td><td>n. a set contained within another set</td></tr>
 <tr><td>superset</td><td>sūpe̊rset</td><td>super-set</td><td>sūpe̊r-set</td><td>n. a set that includes all the elements of another set</td></tr>
 <tr><td>unsettled</td><td>ûnsettl𝕖d</td><td>un-settl-ed</td><td>ûn-settl-𝕖d</td><td>a. not yet resolved; unstable</td></tr>
@@ -2022,12 +2022,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>seventeens</td><td>seve̊ntēenṡ</td><td>sev-en-teen-s</td><td>sev-e̊n-tēen-ṡ</td><td></td></tr>
 <tr><td>sevenths</td><td>seve̊nths</td><td>sev-en-th-s</td><td>sev-e̊n-th-s</td><td></td></tr>
 <tr><td>seventeenth</td><td>seve̊ntēenth</td><td>sev-en-teen-th</td><td>sev-e̊n-tēen-th</td><td>num. coming next after the sixteenth in position</td></tr>
-<tr><td>seventieth</td><td>seve̊ntiēth</td><td>sev-en-t-i-eth</td><td>sev-e̊n-t-i-ēth</td><td>a. the ordinal number of seventy in counting order<br>n. position 70 in a countable series of things</td></tr>
+<tr><td>seventieth</td><td>seve̊ntie̊th</td><td>sev-en-t-i-eth</td><td>sev-e̊n-t-i-e̊th</td><td>a. the ordinal number of seventy in counting order<br>n. position 70 in a countable series of things</td></tr>
 <tr><td>dissever</td><td>disseve̊r</td><td>dis-sev-er</td><td>dis-sev-e̊r</td><td>vt. to divide or separate forcibly</td></tr>
 <tr><td>asseverate</td><td>åsseve̊rāte</td><td>as-sever-ate</td><td>ås-seve̊r-āte</td><td>vt. to make a solemn declaration or assertion</td></tr>
 <tr><td>sew</td><td>sew</td><td>sew</td><td>sew</td><td>v. to join pieces of cloth with stitches</td></tr>
 <tr><td>sewn</td><td>sewn</td><td>sewn</td><td>sewn</td><td></td></tr>
-<tr><td>sewage</td><td>sew̄åge</td><td>sew-age</td><td>sew̄-åge</td><td>n. waste matter carried away in sewers or drains</td></tr>
+<tr><td>sewage</td><td>sew̄ȧge</td><td>sew-age</td><td>sew̄-ȧge</td><td>n. waste matter carried away in sewers or drains</td></tr>
 <tr><td>sewed</td><td>sew𝕖d</td><td>sew-ed</td><td>sew-𝕖d</td><td></td></tr>
 <tr><td>sewer</td><td>sew̄e̊r</td><td>sew-er</td><td>sew̄-e̊r</td><td>n. an underground pipe for carrying waste water</td></tr>
 <tr><td>sewing</td><td>sewing</td><td>sew-ing</td><td>sew-ing</td><td>n. the act of joining or repairing fabric with stitches</td></tr>
@@ -2044,37 +2044,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sexual</td><td>sexūål</td><td>sex-u-al</td><td>sex-ū-ål</td><td>a. relating to sex or the sexes</td></tr>
 <tr><td>sexier</td><td>sexie̊r</td><td>sex-i-er</td><td>sex-i-e̊r</td><td></td></tr>
 <tr><td>sexiest</td><td>sexiėst</td><td>sex-i-est</td><td>sex-i-ėst</td><td></td></tr>
-<tr><td>sexiness</td><td>sexine̊ss</td><td>sex-i-ness</td><td>sex-i-ne̊ss</td><td>n. the arousal of feelings of sexual desire</td></tr>
+<tr><td>sexiness</td><td>sexinėss</td><td>sex-i-ness</td><td>sex-i-nėss</td><td>n. the arousal of feelings of sexual desire</td></tr>
 <tr><td>sexuality</td><td>sexūalitẏ</td><td>sex-u-al-ity</td><td>sex-ū-al-itẏ</td><td>n. a person&#x27;s sexual identity in relation to whom they are attracted</td></tr>
-<tr><td>sexualize</td><td>sexùålīze</td><td>sex-u-al-ize</td><td>sex-ù-ål-īze</td><td>v. make sexual, endow with sex, attribute sex to</td></tr>
+<tr><td>sexualize</td><td>sexūålīze</td><td>sex-u-al-ize</td><td>sex-ū-ål-īze</td><td>v. make sexual, endow with sex, attribute sex to</td></tr>
 <tr><td>sexologist</td><td>sexolo̊gist</td><td>sex-o-log-ist</td><td>sex-o-lo̊g-ist</td><td>n. a person who studies human sexual behavior</td></tr>
 <tr><td>sexually</td><td>sexūållẏ</td><td>sex-u-al-ly</td><td>sex-ū-ål-lẏ</td><td>adv. with regard to sexuality</td></tr>
 <tr><td>sexology</td><td>sexolo̊gẏ</td><td>sex-o-log-y</td><td>sex-o-lo̊g-ẏ</td><td>n. the study of sexual behavior</td></tr>
 <tr><td>sexualized</td><td>sexūålīz𝕖d</td><td>sex-u-al-iz-ed</td><td>sex-ū-ål-īz-𝕖d</td><td>v make sexual, endow with sex, attribute sex to</td></tr>
-<tr><td>sexualization</td><td>sexùålīzatio̊n</td><td>sex-u-al-iz-at-ion</td><td>sex-ù-ål-īz-at-io̊n</td><td>n. the process of becoming sexual in nature or character</td></tr>
+<tr><td>sexualization</td><td>sexūålīzātio̊n</td><td>sex-u-al-iz-at-ion</td><td>sex-ū-ål-īz-āt-io̊n</td><td>n. the process of becoming sexual in nature or character</td></tr>
 <tr><td>asexual</td><td>āsexūål</td><td>a-sex-u-al</td><td>ā-sex-ū-ål</td><td>a. not having or involving sex</td></tr>
 <tr><td>asexually</td><td>āsexūållẏ</td><td>a-sex-u-al-ly</td><td>ā-sex-ū-ål-lẏ</td><td>adv. in an asexual manner</td></tr>
 <tr><td>bisexual</td><td>bīsexūål</td><td>bi-sex-u-al</td><td>bī-sex-ū-ål</td><td>a. sexually attracted to both sexes<br>n. a person who is sexually attracted to both sexes</td></tr>
-<tr><td>bisexuality</td><td>bīsexūali̊tẏ</td><td>bi-sex-u-al-ity</td><td>bī-sex-ū-al-i̊tẏ</td><td>n. sexual activity with both men and women</td></tr>
+<tr><td>bisexuality</td><td>bīsexūalitẏ</td><td>bi-sex-u-al-ity</td><td>bī-sex-ū-al-itẏ</td><td>n. sexual activity with both men and women</td></tr>
 <tr><td>heterosexism</td><td>hete̊ro̊sexiṡm</td><td>hetero-sex-ism</td><td>hete̊ro̊-sex-iṡm</td><td>n. discrimination in favor of heterosexual and against homosexual people</td></tr>
 <tr><td>heterosexual</td><td>hete̊rōsexūål</td><td>hetero-sex-u-al</td><td>hete̊rō-sex-ū-ål</td><td>n. a person having a sexual orientation to persons of the opposite sex<br>a. sexually attracted to members of the opposite sex</td></tr>
 <tr><td>homosexual</td><td>hōmōsexūål</td><td>homo-sex-u-al</td><td>hōmō-sex-ū-ål</td><td>a. sexually attracted to members of one&#x27;s own sex<br>n. a person who is homosexual</td></tr>
 <tr><td>heterosexuality</td><td>hete̊rōsexūalitẏ</td><td>hetero-sex-u-al-ity</td><td>hete̊rō-sex-ū-al-itẏ</td><td>n. a sexual attraction to persons of the opposite sex</td></tr>
-<tr><td>homosexuality</td><td>hōmōsexūali̊tẏ</td><td>homo-sex-u-al-ity</td><td>hōmō-sex-ū-al-i̊tẏ</td><td>n. a sexual attraction to persons of the same sex</td></tr>
+<tr><td>homosexuality</td><td>hōmōsexūalitẏ</td><td>homo-sex-u-al-ity</td><td>hōmō-sex-ū-al-itẏ</td><td>n. a sexual attraction to persons of the same sex</td></tr>
 <tr><td>homosexuals</td><td>hōmōsexūålṡ</td><td>homo-sex-u-al-s</td><td>hōmō-sex-ū-ål-ṡ</td><td></td></tr>
 <tr><td>intersex</td><td>inte̊rsex</td><td>inter-sex</td><td>inte̊r-sex</td><td>n. one having both male and female sexual characteristics and organs</td></tr>
 <tr><td>intersexual</td><td>inte̊rsexūål</td><td>inter-sex-u-al</td><td>inte̊r-sex-ū-ål</td><td>a. having sexual characteristics intermediate between male and female</td></tr>
-<tr><td>metrosexual</td><td>metro̊sexūål</td><td>metro-sex-u-al</td><td>metro̊-sex-ū-ål</td><td>n. a heterosexual man who is interested in fashion, grooming, and culture</td></tr>
+<tr><td>metrosexual</td><td>metrōsexūål</td><td>metro-sex-u-al</td><td>metrō-sex-ū-ål</td><td>n. a heterosexual man who is interested in fashion, grooming, and culture</td></tr>
 <tr><td>nonsexual</td><td>nonsexūål</td><td>non-sex-u-al</td><td>non-sex-ū-ål</td><td>a. not having or involving sex</td></tr>
 <tr><td>oversexed</td><td>ōve̊rsex𝕖ḋ</td><td>over-sex-ed</td><td>ōve̊r-sex-𝕖ḋ</td><td>a. having excessive sexual desire or appeal</td></tr>
-<tr><td>psychosexual</td><td>𝕡sȳc𝕙ōsexùål</td><td>psycho-sex-u-al</td><td>𝕡sȳc𝕙ō-sex-ù-ål</td><td>a. of or relating to the mental or emotional attitudes about sexuality</td></tr>
+<tr><td>psychosexual</td><td>𝕡sȳc𝕙ōsexūål</td><td>psycho-sex-u-al</td><td>𝕡sȳc𝕙ō-sex-ū-ål</td><td>a. of or relating to the mental or emotional attitudes about sexuality</td></tr>
 <tr><td>supersexy</td><td>sūpe̊rsexẏ</td><td>super-sex-y</td><td>sūpe̊r-sex-ẏ</td><td>a. extremely sexually attractive</td></tr>
 <tr><td>transsexual</td><td>transsexūål</td><td>trans-sex-u-al</td><td>trans-sex-ū-ål</td><td>n. a person whose sexual identification is entirely with the opposite sex<br>a. overwhelmingly desirous of being, or completely identifying with, the opposite sex</td></tr>
 <tr><td>unisex</td><td>ūnisex</td><td>uni-sex</td><td>ūni-sex</td><td>a. suitable for both sexes</td></tr>
 <tr><td>unsexy</td><td>ûnsexẏ</td><td>un-sex-y</td><td>ûn-sex-ẏ</td><td>a. not sexually attractive or appealing</td></tr>
 <tr><td>sextant</td><td>sextånt</td><td>sext-ant</td><td>sext-ånt</td><td>n. a unit of angular distance equal to 60 degrees<br>n. a measuring instrument for the angular distance between celestial objects</td></tr>
 <tr><td>sextet</td><td>sextet</td><td>sext-et</td><td>sext-et</td><td>n. a musical composition written for six performers<br>n. six performers or singers who perform together</td></tr>
-<tr><td>sextuplet</td><td>sextūplet</td><td>sext-u-pl-et</td><td>sext-ū-pl-et</td><td>n the cardinal number that is the sum of five and one</td></tr>
+<tr><td>sextuplet</td><td>sextūplėt</td><td>sext-u-pl-et</td><td>sext-ū-pl-ėt</td><td>n the cardinal number that is the sum of five and one</td></tr>
 <tr><td>sexton</td><td>sexto̊n</td><td>sexton</td><td>sexto̊n</td><td>n. a church officer in charge of the church building and grounds</td></tr>
 <tr><td>sgraffito</td><td>sgraffĩtō</td><td>sgraffito</td><td>sgraffĩtō</td><td>n. a decoration made by scratching off a surface layer to reveal the ground</td></tr>
 <tr><td>sh</td><td>sh</td><td>sh</td><td>sh</td><td>int. be quiet!</td></tr>
@@ -2112,7 +2112,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shah</td><td>shà𝕙</td><td>shah</td><td>shà𝕙</td><td>n. title for the former hereditary monarch of Iran</td></tr>
 <tr><td>shahid</td><td>shàhid</td><td>shahid</td><td>shàhid</td><td>n. an Islamic martyr</td></tr>
 <tr><td>shake</td><td>shāke</td><td>shake</td><td>shāke</td><td>n. the act of moving back and forth<br>vt. to move back and forth or up and down<br>vi. to tremble or quiver</td></tr>
-<tr><td>Shakespeare</td><td>Shākespēare</td><td>Shakespeare</td><td>Shākespēare</td><td>n. an English playwright and poet</td></tr>
+<tr><td>Shakespeare</td><td>Shāk𝕖spēare</td><td>Shakespeare</td><td>Shāk𝕖spēare</td><td>n. an English playwright and poet</td></tr>
 <tr><td>shook</td><td>shook</td><td>shook</td><td>shook</td><td></td></tr>
 <tr><td>shakedown</td><td>shāk𝕖dòwn</td><td>shake-down</td><td>shāk𝕖-dòwn</td><td>n. a thorough search; a period of testing or adjustment</td></tr>
 <tr><td>shaken</td><td>shāke̊n</td><td>shak-en</td><td>shāk-e̊n</td><td>a. disturbed psychologically as if by a physical jolt or shock<br>v. move or cause to move back and forth</td></tr>
@@ -2122,44 +2122,44 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shakes</td><td>shāk𝕖s</td><td>shake-s</td><td>shāk𝕖-s</td><td></td></tr>
 <tr><td>shaky</td><td>shākẏ</td><td>shak-y</td><td>shāk-ẏ</td><td>a. shaking or trembling</td></tr>
 <tr><td>shakily</td><td>shākilẏ</td><td>shak-i-ly</td><td>shāk-i-lẏ</td><td>adv. in a shaky or trembling manner</td></tr>
-<tr><td>shakiness</td><td>shākine̊ss</td><td>shak-i-ness</td><td>shāk-i-ne̊ss</td><td>n. the quality of being unstable and insecure</td></tr>
+<tr><td>shakiness</td><td>shākinėss</td><td>shak-i-ness</td><td>shāk-i-nėss</td><td>n. the quality of being unstable and insecure</td></tr>
 <tr><td>milkshake</td><td>milkshāke</td><td>milk-shake</td><td>milk-shāke</td><td>n. frothy drink of milk and flavoring and sometimes fruit or ice cream</td></tr>
 <tr><td>milkshakes</td><td>milkshāk𝕖s</td><td>milk-shake-s</td><td>milk-shāk𝕖-s</td><td></td></tr>
 <tr><td>unshakable</td><td>ûnshākåble</td><td>un-shak-able</td><td>ûn-shāk-åble</td><td>a. marked by firm determination; not shakable</td></tr>
-<tr><td>unshakeable</td><td>ûnshāke̊able</td><td>un-shake-able</td><td>ûn-shāke̊-able</td><td>a. not subject to change or variation</td></tr>
+<tr><td>unshakeable</td><td>ûnshāk𝕖åble</td><td>un-shake-able</td><td>ûn-shāk𝕖-åble</td><td>a. not subject to change or variation</td></tr>
 <tr><td>unshaken</td><td>ûnshāke̊n</td><td>un-shak-en</td><td>ûn-shāk-e̊n</td><td>a. unshaken in purpose</td></tr>
 <tr><td>unshakably</td><td>ûnshākåblẏ</td><td>un-shakab-ly</td><td>ûn-shākåb-lẏ</td><td>adv. with determination; in a determined manner</td></tr>
-<tr><td>shakespearian</td><td>shākespēariån</td><td>shake-spear-ian</td><td>shāke-spēar-iån</td><td>a. of or relating to William Shakespeare or his works<br>n. a scholar who specializes in Shakespeare studies</td></tr>
-<tr><td>shakespearean</td><td>shākespēarēan</td><td>shake-spear-e-an</td><td>shāke-spēar-ē-an</td><td>a. of or relating to William Shakespeare or his works</td></tr>
+<tr><td>shakespearian</td><td>shāk𝕖spēariån</td><td>shake-spear-ian</td><td>shāk𝕖-spēar-iån</td><td>a. of or relating to William Shakespeare or his works<br>n. a scholar who specializes in Shakespeare studies</td></tr>
+<tr><td>shakespearean</td><td>shāk𝕖spēarėån</td><td>shake-spear-e-an</td><td>shāk𝕖-spēar-ė-ån</td><td>a. of or relating to William Shakespeare or his works</td></tr>
 <tr><td>shale</td><td>shāle</td><td>shale</td><td>shāle</td><td>n. a sedimentary rock formed by the deposition of successive layers of clay</td></tr>
 <tr><td>shall</td><td>shall</td><td>shall</td><td>shall</td><td>aux. indicating future tense or obligation</td></tr>
 <tr><td>shallow</td><td>shallōw</td><td>shall-ow</td><td>shall-ōw</td><td>a. not deep; having only a short distance from top to bottom<br>a. not showing serious thought</td></tr>
 <tr><td>shallower</td><td>shallōwe̊r</td><td>shall-ow-er</td><td>shall-ōw-e̊r</td><td></td></tr>
 <tr><td>shallowest</td><td>shallōwėst</td><td>shall-ow-est</td><td>shall-ōw-ėst</td><td></td></tr>
 <tr><td>shallowly</td><td>shallōwlẏ</td><td>shall-ow-ly</td><td>shall-ōw-lẏ</td><td>adv. in a shallow manner</td></tr>
-<tr><td>shallowness</td><td>shallōwne̊ss</td><td>shall-ow-ness</td><td>shall-ōw-ne̊ss</td><td>n. the quality of lacking physical or intellectual depth</td></tr>
+<tr><td>shallowness</td><td>shallōwnėss</td><td>shall-ow-ness</td><td>shall-ōw-nėss</td><td>n. the quality of lacking physical or intellectual depth</td></tr>
 <tr><td>shallop</td><td>shallo̊p</td><td>shallop</td><td>shallo̊p</td><td>n. a small boat used for coastal navigation, usually with a sail or oars</td></tr>
 <tr><td>shallot</td><td>shållot</td><td>shallot</td><td>shållot</td><td>n. a small mild-flavored onion used for seasoning</td></tr>
 <tr><td>sham</td><td>sham</td><td>sham</td><td>sham</td><td>n. something that is a counterfeit; a person who makes deceitful pretenses<br>v. make believe with the intent to deceive<br>a. adopted in order to deceive</td></tr>
-<tr><td>shaman</td><td>shāmån</td><td>shaman</td><td>shāmån</td><td>n. a person regarded as having access to the spirit world</td></tr>
+<tr><td>shaman</td><td>shamån</td><td>shaman</td><td>shamån</td><td>n. a person regarded as having access to the spirit world</td></tr>
 <tr><td>shame</td><td>shāme</td><td>shame</td><td>shāme</td><td>n. a feeling of guilt or embarrassment caused by doing something wrong<br>vt. to cause someone to feel shame</td></tr>
 <tr><td>shamed</td><td>shām𝕖d</td><td>sham-ed</td><td>shām-𝕖d</td><td>a. showing a sense of guilt<br>v. bring shame upon</td></tr>
 <tr><td>shammer</td><td>shamme̊r</td><td>shamm-er</td><td>shamm-e̊r</td><td>n. one who shams or pretends</td></tr>
 <tr><td>shameful</td><td>shām𝕖fůl</td><td>shame-ful</td><td>shām𝕖-fůl</td><td>a. deserving or bringing disgrace</td></tr>
-<tr><td>shamanism</td><td>shāmåniṡm</td><td>shaman-ism</td><td>shāmån-iṡm</td><td>n. animistic religion of northern Asia; shamans bridge the physical and spirit worlds</td></tr>
+<tr><td>shamanism</td><td>shamåniṡm</td><td>shaman-ism</td><td>shamån-iṡm</td><td>n. animistic religion of northern Asia; shamans bridge the physical and spirit worlds</td></tr>
 <tr><td>shambling</td><td>shambling</td><td>shambl-ing</td><td>shambl-ing</td><td>v. walk by dragging one&#x27;s feet<br>a. walking with a slow dragging motion</td></tr>
 <tr><td>shaming</td><td>shāming</td><td>sham-ing</td><td>shām-ing</td><td>n. the act of causing someone to feel shame</td></tr>
 <tr><td>shameless</td><td>shām𝕖lėss</td><td>shame-less</td><td>shām𝕖-lėss</td><td>a. feeling no shame</td></tr>
 <tr><td>shamrock</td><td>shamrock</td><td>sham-rock</td><td>sham-rock</td><td>n. a small plant with three leaves, the national symbol of Ireland</td></tr>
 <tr><td>shames</td><td>shām𝕖ṡ</td><td>shame-s</td><td>shām𝕖-ṡ</td><td></td></tr>
-<tr><td>shamefaced</td><td>shāmefāced</td><td>shame-fac-ed</td><td>shāme-fāc-ed</td><td>a. showing a sense of shame<br>a. extremely modest or shy</td></tr>
-<tr><td>shamefully</td><td>shāmefůlly</td><td>shame-ful-ly</td><td>shāme-fůl-ly</td><td>adv. in a dishonorable manner</td></tr>
+<tr><td>shamefaced</td><td>shām𝕖fāc𝕖ḋ</td><td>shame-fac-ed</td><td>shām𝕖-fāc-𝕖ḋ</td><td>a. showing a sense of shame<br>a. extremely modest or shy</td></tr>
+<tr><td>shamefully</td><td>shām𝕖fůllẏ</td><td>shame-ful-ly</td><td>shām𝕖-fůl-lẏ</td><td>adv. in a dishonorable manner</td></tr>
 <tr><td>shamelessly</td><td>shām𝕖lėsslẏ</td><td>shame-less-ly</td><td>shām𝕖-lėss-lẏ</td><td>adv. without shame</td></tr>
 <tr><td>shamelessness</td><td>shām𝕖lėssnėss</td><td>shame-less-ness</td><td>shām𝕖-lėss-nėss</td><td>n. behavior marked by a bold defiance of the proprieties and lack of shame</td></tr>
 <tr><td>ashamed</td><td>åshām𝕖d</td><td>a-sham-ed</td><td>å-shām-𝕖d</td><td>a. feeling guilty or embarrassed about something</td></tr>
 <tr><td>unashamed</td><td>ûnåshām𝕖d</td><td>un-a-sham-ed</td><td>ûn-å-shām-𝕖d</td><td>a. feeling no shame</td></tr>
-<tr><td>unashamedly</td><td>ûnåshāme̊dlẏ</td><td>un-a-sham-ed-ly</td><td>ûn-å-shām-e̊d-lẏ</td><td>adv. without shame</td></tr>
-<tr><td>shamanic</td><td>shāmånic</td><td>shaman-ic</td><td>shāmån-ic</td><td>a. of or pertaining to shamanism</td></tr>
+<tr><td>unashamedly</td><td>ûnåshāmėdlẏ</td><td>un-a-sham-ed-ly</td><td>ûn-å-shām-ėd-lẏ</td><td>adv. without shame</td></tr>
+<tr><td>shamanic</td><td>shāmanic</td><td>shaman-ic</td><td>shāman-ic</td><td>a. of or pertaining to shamanism</td></tr>
 <tr><td>shamanistic</td><td>shamånistic</td><td>shaman-ist-ic</td><td>shamån-ist-ic</td><td>a. of or relating to shamanism</td></tr>
 <tr><td>shamble</td><td>shamble</td><td>shamble</td><td>shamble</td><td>n. walking with a slow dragging motion without lifting your feet</td></tr>
 <tr><td>shambles</td><td>shambl𝕖ṡ</td><td>shamble-s</td><td>shambl𝕖-ṡ</td><td>n. a condition of great disorder</td></tr>
@@ -2167,7 +2167,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shampoos</td><td>shampooṡ</td><td>sham-poo-s</td><td>sham-poo-ṡ</td><td></td></tr>
 <tr><td>shanty</td><td>shantẏ</td><td>shan-ty</td><td>shan-tẏ</td><td>n. a small crude shelter</td></tr>
 <tr><td>shantytown</td><td>shantẏtòwn</td><td>shan-ty-town</td><td>shan-tẏ-tòwn</td><td>n. a city district inhabited by people living in huts and shanties</td></tr>
-<tr><td>shanghai</td><td>shanghāi</td><td>shanghai</td><td>shanghāi</td><td>v. coerce or trick someone into a place or position<br>n. the largest city of China</td></tr>
+<tr><td>shanghai</td><td>shanghaī</td><td>shanghai</td><td>shanghaī</td><td>v. coerce or trick someone into a place or position<br>n. the largest city of China</td></tr>
 <tr><td>shank</td><td>shank</td><td>shank</td><td>shank</td><td>n. the part of the human leg between knee and ankle; a long narrow part</td></tr>
 <tr><td>shape</td><td>shāpe</td><td>shape</td><td>shāpe</td><td>n. the external form or appearance of something<br>vt. to give a particular form to<br>vi. to develop into a particular form</td></tr>
 <tr><td>shaped</td><td>shāp𝕖ḋ</td><td>shap-ed</td><td>shāp-𝕖ḋ</td><td>a. having a particular shape</td></tr>
@@ -2177,16 +2177,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shapely</td><td>shāp𝕖lẏ</td><td>shape-ly</td><td>shāp𝕖-lẏ</td><td>a. having a well-proportioned and pleasing shape</td></tr>
 <tr><td>shapes</td><td>shāp𝕖s</td><td>shape-s</td><td>shāp𝕖-s</td><td></td></tr>
 <tr><td>misshapen</td><td>misshāpe̊n</td><td>mis-shap-en</td><td>mis-shāp-e̊n</td><td>a. so badly formed or out of shape as to be ugly</td></tr>
-<tr><td>reshape</td><td>rēshāpe</td><td>re-shape</td><td>rē-shāpe</td><td>vt. to shape again or differently</td></tr>
-<tr><td>reshaped</td><td>rēshāp𝕖ḋ</td><td>re-shap-ed</td><td>rē-shāp-𝕖ḋ</td><td>v. shape anew or differently</td></tr>
-<tr><td>reshaping</td><td>rēshāping</td><td>re-shap-ing</td><td>rē-shāp-ing</td><td>vt. shape anew or differently</td></tr>
+<tr><td>reshape</td><td>rėshāpe</td><td>re-shape</td><td>rė-shāpe</td><td>vt. to shape again or differently</td></tr>
+<tr><td>reshaped</td><td>rėshāp𝕖ḋ</td><td>re-shap-ed</td><td>rė-shāp-𝕖ḋ</td><td>v. shape anew or differently</td></tr>
+<tr><td>reshaping</td><td>rėshāping</td><td>re-shap-ing</td><td>rė-shāp-ing</td><td>vt. shape anew or differently</td></tr>
 <tr><td>unshaped</td><td>ûnshāp𝕖ḋ</td><td>un-shap-ed</td><td>ûn-shāp-𝕖ḋ</td><td>a. incompletely or imperfectly shaped</td></tr>
 <tr><td>share</td><td>shāre</td><td>share</td><td>shāre</td><td>v. to give a portion of something to others<br>n. a portion of a larger amount that is divided among people</td></tr>
-<tr><td>shared</td><td>shar𝕖d</td><td>shar-ed</td><td>shar-𝕖d</td><td>a. held or experienced in common</td></tr>
-<tr><td>sharer</td><td>share̊r</td><td>shar-er</td><td>shar-e̊r</td><td>n. someone who shares or participates in something</td></tr>
-<tr><td>sharing</td><td>sharing</td><td>shar-ing</td><td>shar-ing</td><td>n. using or enjoying something jointly with others</td></tr>
+<tr><td>shared</td><td>shār𝕖d</td><td>shar-ed</td><td>shār-𝕖d</td><td>a. held or experienced in common</td></tr>
+<tr><td>sharer</td><td>shāre̊r</td><td>shar-er</td><td>shār-e̊r</td><td>n. someone who shares or participates in something</td></tr>
+<tr><td>sharing</td><td>shāring</td><td>shar-ing</td><td>shār-ing</td><td>n. using or enjoying something jointly with others</td></tr>
 <tr><td>shares</td><td>shār𝕖ṡ</td><td>share-s</td><td>shār𝕖-ṡ</td><td></td></tr>
-<tr><td>shareware</td><td>shareware</td><td>share-ware</td><td>share-ware</td><td>n. software available free for evaluation, with a fee for additional features</td></tr>
+<tr><td>shareware</td><td>shār𝕖wāre</td><td>share-ware</td><td>shār𝕖-wāre</td><td>n. software available free for evaluation, with a fee for additional features</td></tr>
 <tr><td>sharecropper</td><td>shār𝕖croppe̊r</td><td>share-cropp-er</td><td>shār𝕖-cropp-e̊r</td><td>n. a farmer who works land owned by someone else</td></tr>
 <tr><td>shareholder</td><td>shār𝕖hōlde̊r</td><td>share-hold-er</td><td>shār𝕖-hōld-e̊r</td><td>n. someone who holds shares of stock in a corporation</td></tr>
 <tr><td>shareowner</td><td>shār𝕖ōwne̊r</td><td>share-own-er</td><td>shār𝕖-ōwn-e̊r</td><td>n. someone who holds shares of stock in a corporation</td></tr>
@@ -2194,7 +2194,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shareholding</td><td>shār𝕖hōlding</td><td>share-hold-ing</td><td>shār𝕖-hōld-ing</td><td>n. a holding in the form of shares of corporations</td></tr>
 <tr><td>unshared</td><td>ûnshār𝕖d</td><td>un-shar-ed</td><td>ûn-shār-𝕖d</td><td>a. not shared</td></tr>
 <tr><td>shard</td><td>shàrd</td><td>shard</td><td>shàrd</td><td>n. a broken piece of a brittle object</td></tr>
-<tr><td>sharia</td><td>shàriå</td><td>sharia</td><td>shàriå</td><td>n. the code of law derived from the Koran and the teachings of Mohammed</td></tr>
+<tr><td>sharia</td><td>shårĩå</td><td>sharia</td><td>shårĩå</td><td>n. the code of law derived from the Koran and the teachings of Mohammed</td></tr>
 <tr><td>shark</td><td>shàrk</td><td>shark</td><td>shàrk</td><td>n. a large sea fish with sharp teeth<br>n. a dishonest person</td></tr>
 <tr><td>sharks</td><td>shàrks</td><td>shark-s</td><td>shàrk-s</td><td></td></tr>
 <tr><td>sharkskin</td><td>shàrkskin</td><td>shark-skin</td><td>shàrk-skin</td><td>n. a smooth crisp fabric</td></tr>
@@ -2202,9 +2202,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sharpen</td><td>shàrpe̊n</td><td>sharp-en</td><td>shàrp-e̊n</td><td>v. make sharp or sharper<br>v. become sharp or sharper</td></tr>
 <tr><td>sharper</td><td>shàrpe̊r</td><td>sharp-er</td><td>shàrp-e̊r</td><td>n. a cheat or swindler</td></tr>
 <tr><td>sharpest</td><td>shàrpėst</td><td>sharp-est</td><td>shàrp-ėst</td><td></td></tr>
-<tr><td>sharpie</td><td>shàrpiē</td><td>sharp-ie</td><td>shàrp-iē</td><td>n. a pen with indelible ink<br>n. a very alert and clever person</td></tr>
+<tr><td>sharpie</td><td>shàrpie</td><td>sharp-ie</td><td>shàrp-ie</td><td>n. a pen with indelible ink<br>n. a very alert and clever person</td></tr>
 <tr><td>sharply</td><td>shàrplẏ</td><td>sharp-ly</td><td>shàrp-lẏ</td><td>adv. in a sharp, sudden, or severe manner</td></tr>
-<tr><td>sharpness</td><td>shàrpne̊ss</td><td>sharp-ness</td><td>shàrp-ne̊ss</td><td>n. the quality of being keenly and painfully felt<br>n. thinness of edge or fineness of point</td></tr>
+<tr><td>sharpness</td><td>shàrpnėss</td><td>sharp-ness</td><td>shàrp-nėss</td><td>n. the quality of being keenly and painfully felt<br>n. thinness of edge or fineness of point</td></tr>
 <tr><td>sharpened</td><td>shàrpe̊n𝕖d</td><td>sharp-en-ed</td><td>shàrp-e̊n-𝕖d</td><td>a. made sharp or sharper</td></tr>
 <tr><td>sharpener</td><td>shàrpe̊ne̊r</td><td>sharp-en-er</td><td>shàrp-e̊n-e̊r</td><td>n. any implement that is used to make something sharper</td></tr>
 <tr><td>sharpshooter</td><td>shàrpshoote̊r</td><td>sharp-shoot-er</td><td>shàrp-shoot-e̊r</td><td>n. a person who shoots with great accuracy</td></tr>
@@ -2243,8 +2243,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shebang</td><td>shėbang</td><td>shebang</td><td>shėbang</td><td>n. the whole thing; an entire system</td></tr>
 <tr><td>shed</td><td>shed</td><td>shed</td><td>shed</td><td>n. a small building for storage<br>v. lose or drop; get rid of</td></tr>
 <tr><td>shedding</td><td>shedding</td><td>shedd-ing</td><td>shedd-ing</td><td>n. the process whereby something is shed</td></tr>
-<tr><td>cowshed</td><td>còwsh𝕖d</td><td>cow-shed</td><td>còw-sh𝕖d</td><td>n. a barn for cows</td></tr>
-<tr><td>unshed</td><td>ûnsh𝕖d</td><td>un-shed</td><td>ûn-sh𝕖d</td><td>a. not shed or released</td></tr>
+<tr><td>cowshed</td><td>còwshed</td><td>cow-shed</td><td>còw-shed</td><td>n. a barn for cows</td></tr>
+<tr><td>unshed</td><td>ûnshed</td><td>un-shed</td><td>ûn-shed</td><td>a. not shed or released</td></tr>
 <tr><td>sheet</td><td>shēet</td><td>sheet</td><td>shēet</td><td>n. a large rectangular piece of cotton or other fabric used on a bed<br>n. a broad flat piece of material</td></tr>
 <tr><td>sheeting</td><td>shēeting</td><td>sheet-ing</td><td>shēet-ing</td><td>n. fabric from which bed sheets are made</td></tr>
 <tr><td>sheetrock</td><td>shēetrock</td><td>sheet-rock</td><td>shēet-rock</td><td>n. a kind of plasterboard</td></tr>
@@ -2255,14 +2255,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sheepfold</td><td>shēepfōld</td><td>sheep-fold</td><td>shēep-fōld</td><td>n. a pen for sheep</td></tr>
 <tr><td>sheepish</td><td>shēepish</td><td>sheep-ish</td><td>shēep-ish</td><td>a. showing a sense of shame</td></tr>
 <tr><td>sheepskin</td><td>shēepskin</td><td>sheep-skin</td><td>shēep-skin</td><td>n. the skin of a sheep with the fleece left on</td></tr>
-<tr><td>sheepherder</td><td>sheephe̊rde̊r</td><td>sheep-herd-er</td><td>sheep-he̊rd-e̊r</td><td>n. a person who herds and tends sheep</td></tr>
+<tr><td>sheepherder</td><td>shēephe̊rde̊r</td><td>sheep-herd-er</td><td>shēep-he̊rd-e̊r</td><td>n. a person who herds and tends sheep</td></tr>
 <tr><td>sheepshead</td><td>shēepshèad</td><td>sheep-s-head</td><td>shēep-s-hèad</td><td>n. large (up to 20 lbs) food fish of the eastern coast of the United States and Mexico</td></tr>
 <tr><td>sheepishly</td><td>shēepishlẏ</td><td>sheep-ish-ly</td><td>shēep-ish-lẏ</td><td>adv. in a sheepish manner</td></tr>
 <tr><td>sheer</td><td>shēer</td><td>sheer</td><td>shēer</td><td>a. nothing other than; pure<br>a. very steep<br>adv. completely</td></tr>
 <tr><td>sheerly</td><td>shēerlẏ</td><td>sheer-ly</td><td>shēer-lẏ</td><td>adv. absolutely; completely</td></tr>
-<tr><td>sheik</td><td>shēik</td><td>sheik</td><td>shēik</td><td>n. the leader of an Arab village or family</td></tr>
-<tr><td>sheikdom</td><td>shēikdo̊m</td><td>sheik-dom</td><td>shēik-do̊m</td><td>n. the domain ruled by a sheik</td></tr>
-<tr><td>sheikh</td><td>shēik𝕙</td><td>sheikh</td><td>shēik𝕙</td><td>n. the leader of an Arab village or family; a Muslim religious leader</td></tr>
+<tr><td>sheik</td><td>shèik</td><td>sheik</td><td>shèik</td><td>n. the leader of an Arab village or family</td></tr>
+<tr><td>sheikdom</td><td>shèikdo̊m</td><td>sheik-dom</td><td>shèik-do̊m</td><td>n. the domain ruled by a sheik</td></tr>
+<tr><td>sheikh</td><td>shèik𝕙</td><td>sheikh</td><td>shèik𝕙</td><td>n. the leader of an Arab village or family; a Muslim religious leader</td></tr>
 <tr><td>shekel</td><td>sheke̊l</td><td>shekel</td><td>sheke̊l</td><td>n. the basic unit of money in Israel</td></tr>
 <tr><td>shelf</td><td>shelf</td><td>shelf</td><td>shelf</td><td>n. a support that consists of a horizontal surface for holding objects</td></tr>
 <tr><td>shelves</td><td>shelv𝕖ṡ</td><td>shelv-es</td><td>shelv-𝕖ṡ</td><td></td></tr>
@@ -2274,10 +2274,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shellfish</td><td>shellfish</td><td>shell-fish</td><td>shell-fish</td><td>n. an aquatic animal with a shell, such as a mollusk or crustacean</td></tr>
 <tr><td>shelling</td><td>shelling</td><td>shell-ing</td><td>shell-ing</td><td>n. the heavy fire of artillery to saturate an area</td></tr>
 <tr><td>shells</td><td>shellṡ</td><td>shell-s</td><td>shell-ṡ</td><td></td></tr>
-<tr><td>shellacked</td><td>shellack𝕖d</td><td>shell-ack-ed</td><td>shell-ack-𝕖d</td><td>v cover with shellac</td></tr>
+<tr><td>shellacked</td><td>shellack𝕖ḋ</td><td>shell-ack-ed</td><td>shell-ack-𝕖ḋ</td><td>v cover with shellac</td></tr>
 <tr><td>eggshell</td><td>eggshell</td><td>egg-shell</td><td>egg-shell</td><td>n. the exterior covering of a bird&#x27;s egg</td></tr>
 <tr><td>unshelled</td><td>ûnshell𝕖d</td><td>un-shell-ed</td><td>ûn-shell-𝕖d</td><td>a. having no shell</td></tr>
-<tr><td>tortoiseshell</td><td>torto̊ise̊shell</td><td>tort-o-ise-shell</td><td>tort-o̊-ise̊-shell</td><td>n. the mottled horny substance of the shell of some turtles</td></tr>
+<tr><td>tortoiseshell</td><td>torto̊is𝕖shell</td><td>tort-o-ise-shell</td><td>tort-o̊-is𝕖-shell</td><td>n. the mottled horny substance of the shell of some turtles</td></tr>
 <tr><td>shelter</td><td>shelte̊r</td><td>shelt-er</td><td>shelt-e̊r</td><td>n. a structure that provides privacy and protection from danger<br>n. temporary housing for homeless or displaced persons<br>v. provide shelter for</td></tr>
 <tr><td>sheltered</td><td>shelte̊r𝕖d</td><td>shelt-er-ed</td><td>shelt-e̊r-𝕖d</td><td>a. protected from danger or bad weather</td></tr>
 <tr><td>sheltering</td><td>shelte̊ring</td><td>shelt-er-ing</td><td>shelt-e̊r-ing</td><td>n. the act of providing shelter</td></tr>
@@ -2286,25 +2286,25 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shelving</td><td>shelving</td><td>shelv-ing</td><td>shelv-ing</td><td>n. shelves collectively; material for making shelves</td></tr>
 <tr><td>shelve</td><td>shelve</td><td>shelve</td><td>shelve</td><td>v. place on a shelf</td></tr>
 <tr><td>shenanigan</td><td>shėnanigån</td><td>shenanig-an</td><td>shėnanig-ån</td><td></td></tr>
-<tr><td>shenanigans</td><td>she̊nanigånṡ</td><td>shenanigan-s</td><td>she̊nanigån-ṡ</td><td>n. reckless or malicious behavior; the use of tricks to deceive someone</td></tr>
+<tr><td>shenanigans</td><td>shėnanigånṡ</td><td>shenanigan-s</td><td>shėnanigån-ṡ</td><td>n. reckless or malicious behavior; the use of tricks to deceive someone</td></tr>
 <tr><td>sheng</td><td>sheng</td><td>sheng</td><td>sheng</td><td>n. a Chinese musical instrument consisting of vertical reed pipes</td></tr>
 <tr><td>sheriff</td><td>sheriff</td><td>sheriff</td><td>sheriff</td><td>n. the chief law enforcement officer of a county</td></tr>
 <tr><td>sheriffs</td><td>sheriffs</td><td>sheriff-s</td><td>sheriff-s</td><td></td></tr>
-<tr><td>sherbet</td><td>she̊rbe̊t</td><td>sherbet</td><td>she̊rbe̊t</td><td>n. a frozen dessert made primarily of fruit juice and sugar</td></tr>
+<tr><td>sherbet</td><td>she̊rbėt</td><td>sherbet</td><td>she̊rbėt</td><td>n. a frozen dessert made primarily of fruit juice and sugar</td></tr>
 <tr><td>sherd</td><td>she̊rd</td><td>sherd</td><td>she̊rd</td><td>n. a broken piece of a brittle artifact</td></tr>
 <tr><td>sherpa</td><td>she̊rpå</td><td>sherpa</td><td>she̊rpå</td><td>n. a Himalayan people living in Nepal and Tibet, famous for their skill as mountaineers</td></tr>
 <tr><td>sherry</td><td>sherrẏ</td><td>sherr-y</td><td>sherr-ẏ</td><td>n. a fortified wine from southern Spain</td></tr>
-<tr><td>shew</td><td>shew̄</td><td>shew</td><td>shew̄</td><td>v. establish the validity of something</td></tr>
+<tr><td>shew</td><td>shew</td><td>shew</td><td>shew</td><td>v. establish the validity of something</td></tr>
 <tr><td>shh</td><td>shh</td><td>shh</td><td>shh</td><td>int. used to urge silence</td></tr>
 <tr><td>shhh</td><td>shhh</td><td>shhh</td><td>shhh</td><td></td></tr>
-<tr><td>shiatsu</td><td>shiatsū</td><td>shiatsu</td><td>shiatsū</td><td>n. treatment by applying pressure with the fingers to specific points on the body</td></tr>
+<tr><td>shiatsu</td><td>shīåtsū</td><td>shiatsu</td><td>shīåtsū</td><td>n. treatment by applying pressure with the fingers to specific points on the body</td></tr>
 <tr><td>shibboleth</td><td>shibbo̊leth</td><td>shibboleth</td><td>shibbo̊leth</td><td>n. a manner of speaking distinctive of a particular group<br>n. a custom or usage regarded as a badge of membership</td></tr>
 <tr><td>shield</td><td>shiēld</td><td>shield</td><td>shiēld</td><td>n. a piece of armor carried to protect the body<br>v. to protect from harm or danger</td></tr>
 <tr><td>shielded</td><td>shiēldėd</td><td>shield-ed</td><td>shiēld-ėd</td><td>a. protected by a shield</td></tr>
 <tr><td>shielding</td><td>shiēlding</td><td>shield-ing</td><td>shiēld-ing</td><td>n. the act of protecting from harm<br>n. a barrier against radiation or interference</td></tr>
-<tr><td>unshielded</td><td>ùnshiēldėd</td><td>un-shield-ed</td><td>ùn-shiēld-ėd</td><td>a. not protected by a shield</td></tr>
+<tr><td>unshielded</td><td>ûnshiēldėd</td><td>un-shield-ed</td><td>ûn-shiēld-ėd</td><td>a. not protected by a shield</td></tr>
 <tr><td>shift</td><td>shift</td><td>shift</td><td>shift</td><td>v. move or cause to move from one place to another<br>n. a change in position or direction<br>n. a period of time worked by a group of workers</td></tr>
-<tr><td>shifted</td><td>shift𝕖d</td><td>shift-ed</td><td>shift-𝕖d</td><td>v. move from one place to another<br>v. change in quality or nature</td></tr>
+<tr><td>shifted</td><td>shiftėd</td><td>shift-ed</td><td>shift-ėd</td><td>v. move from one place to another<br>v. change in quality or nature</td></tr>
 <tr><td>shifter</td><td>shifte̊r</td><td>shift-er</td><td>shift-e̊r</td><td>n. a mechanical device for shifting gears</td></tr>
 <tr><td>shifting</td><td>shifting</td><td>shift-ing</td><td>shift-ing</td><td>a. changing position or direction continuously</td></tr>
 <tr><td>shiftless</td><td>shiftlėss</td><td>shift-less</td><td>shift-lėss</td><td>a. lacking ambition or initiative; lazy</td></tr>
@@ -2317,7 +2317,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>redshifted</td><td>redshiftėd</td><td>red-shift-ed</td><td>red-shift-ėd</td><td>v. shifted toward the red end of the spectrum</td></tr>
 <tr><td>shigellosis</td><td>shige̊llōsis</td><td>shigell-osis</td><td>shige̊ll-ōsis</td><td>n. an acute intestinal infection by shigella with diarrhea, fever and abdominal pain</td></tr>
 <tr><td>shigella</td><td>shigellå</td><td>shigella</td><td>shigellå</td><td>n. a genus of bacteria that causes dysentery</td></tr>
-<tr><td>shiitake</td><td>shĩitàkē</td><td>shiitake</td><td>shĩitàkē</td><td>n. an edible mushroom native to East Asia</td></tr>
+<tr><td>shiitake</td><td>shĩitàkè</td><td>shiitake</td><td>shĩitàkè</td><td>n. an edible mushroom native to East Asia</td></tr>
 <tr><td>shiite</td><td>shĩīte</td><td>shiite</td><td>shĩīte</td><td>n. a member of the Shia branch of Islam</td></tr>
 <tr><td>shiksa</td><td>shikså</td><td>shiksa</td><td>shikså</td><td>n. a derogatory term used by Jews to refer to non-Jewish women</td></tr>
 <tr><td>shill</td><td>shill</td><td>shill</td><td>shill</td><td>n. a decoy who acts as an enthusiastic customer to stimulate the participation of others</td></tr>
@@ -2348,7 +2348,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shingle</td><td>shingle</td><td>shingle</td><td>shingle</td><td>n. a flat piece of material used for roofing or siding<br>n. a small signboard outside a business</td></tr>
 <tr><td>shingled</td><td>shingl𝕖d</td><td>shingl-ed</td><td>shingl-𝕖d</td><td>a. covered with shingles</td></tr>
 <tr><td>ship</td><td>ship</td><td>ship</td><td>ship</td><td>n. a large boat for carrying people or goods by sea<br>vt. to send by ship or other means<br>vi. to travel by ship</td></tr>
-<tr><td>Shipley</td><td>Shiplēy</td><td>Shipley</td><td>Shiplēy</td><td>n. a surname</td></tr>
+<tr><td>Shipley</td><td>Shiplėy</td><td>Shipley</td><td>Shiplėy</td><td>n. a surname</td></tr>
 <tr><td>shipboard</td><td>shipbōard</td><td>ship-board</td><td>ship-bōard</td><td>n. the side of a ship</td></tr>
 <tr><td>shipped</td><td>shipp𝕖ḋ</td><td>shipp-ed</td><td>shipp-𝕖ḋ</td><td></td></tr>
 <tr><td>shipper</td><td>shippe̊r</td><td>shipp-er</td><td>shipp-e̊r</td><td>n. someone who ships goods<br>n. a company in the business of shipping freight</td></tr>
@@ -2362,7 +2362,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shipwreck</td><td>ship𝕨reck</td><td>ship-wreck</td><td>ship-𝕨reck</td><td>n. a wrecked ship (or a part of one)<br>n. an irretrievable loss<br>n. an accident that destroys a ship at sea</td></tr>
 <tr><td>shipwright</td><td>ship𝕨rī𝕘𝕙t</td><td>ship-wright</td><td>ship-𝕨rī𝕘𝕙t</td><td>n. a carpenter who helps build and launch wooden vessels</td></tr>
 <tr><td>shipyard</td><td>shipyàrd</td><td>ship-yard</td><td>ship-yàrd</td><td>n. a workplace where ships are built or repaired</td></tr>
-<tr><td>shipbuilder</td><td>shipbuilde̊r</td><td>ship-build-er</td><td>ship-build-e̊r</td><td>n. a person who builds ships as a business</td></tr>
+<tr><td>shipbuilder</td><td>shipb𝕦ilde̊r</td><td>ship-build-er</td><td>ship-b𝕦ild-e̊r</td><td>n. a person who builds ships as a business</td></tr>
 <tr><td>shipmaster</td><td>shipmàste̊r</td><td>ship-mast-er</td><td>ship-màst-e̊r</td><td>n. the captain, master, or commander of a ship</td></tr>
 <tr><td>shipowner</td><td>shipōwne̊r</td><td>ship-own-er</td><td>ship-ōwn-e̊r</td><td>n. someone who owns a ship or a share in a ship</td></tr>
 <tr><td>shipwrecked</td><td>ship𝕨reck𝕖ḋ</td><td>ship-wreck-ed</td><td>ship-𝕨reck-𝕖ḋ</td><td>v. suffer shipwreck; destroy a ship</td></tr>
@@ -2374,7 +2374,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shirt</td><td>shi̊rt</td><td>shirt</td><td>shi̊rt</td><td>n. a garment for the upper body</td></tr>
 <tr><td>shirtdress</td><td>shi̊rtdress</td><td>shirt-dress</td><td>shi̊rt-dress</td><td>n. a dress that is tailored like a shirt and has buttons all the way down the front</td></tr>
 <tr><td>shirtfront</td><td>shi̊rtfrônt</td><td>shirt-front</td><td>shi̊rt-frônt</td><td>n. the front of a shirt (usually the part not covered by a jacket)</td></tr>
-<tr><td>shirtless</td><td>shi̊rtle̊ss</td><td>shirt-less</td><td>shi̊rt-le̊ss</td><td>a. not having or wearing a shirt</td></tr>
+<tr><td>shirtless</td><td>shi̊rtlėss</td><td>shirt-less</td><td>shi̊rt-lėss</td><td>a. not having or wearing a shirt</td></tr>
 <tr><td>shirts</td><td>shi̊rts</td><td>shirt-s</td><td>shi̊rt-s</td><td></td></tr>
 <tr><td>shirtsleeve</td><td>shi̊rtslēeve</td><td>shirt-sleeve</td><td>shi̊rt-slēeve</td><td>n. the sleeve of a shirt</td></tr>
 <tr><td>shirttail</td><td>shi̊rttāil</td><td>shirt-tail</td><td>shi̊rt-tāil</td><td>n. fabric forming the tail of a shirt<br>n. a brief addendum at the end of a newspaper article</td></tr>
@@ -2421,18 +2421,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shoddy</td><td>shoddẏ</td><td>shodd-y</td><td>shodd-ẏ</td><td>a. of inferior workmanship and materials</td></tr>
 <tr><td>shoddily</td><td>shoddilẏ</td><td>shodd-i-ly</td><td>shodd-i-lẏ</td><td>adv. in a shoddy manner</td></tr>
 <tr><td>shoe</td><td>shõe</td><td>shoe</td><td>shõe</td><td>n. a covering for the foot, typically made of leather<br>v. fit a horse with a horseshoe</td></tr>
-<tr><td>shoebox</td><td>shõebox</td><td>shoe-box</td><td>shõe-box</td><td>n. a rectangular box for holding shoes</td></tr>
-<tr><td>shoehorn</td><td>shõehorn</td><td>shoe-horn</td><td>shõe-horn</td><td>n. a device used for easing the foot into a shoe<br>v. fit for a specific purpose even when not well suited</td></tr>
-<tr><td>shoelace</td><td>shõelāce</td><td>shoe-lace</td><td>shõe-lāce</td><td>n. a lace used for fastening shoes</td></tr>
-<tr><td>shoeless</td><td>shõelėss</td><td>shoe-less</td><td>shõe-lėss</td><td>a. without shoes</td></tr>
+<tr><td>shoebox</td><td>shõ𝕖box</td><td>shoe-box</td><td>shõ𝕖-box</td><td>n. a rectangular box for holding shoes</td></tr>
+<tr><td>shoehorn</td><td>shõ𝕖horn</td><td>shoe-horn</td><td>shõ𝕖-horn</td><td>n. a device used for easing the foot into a shoe<br>v. fit for a specific purpose even when not well suited</td></tr>
+<tr><td>shoelace</td><td>shõ𝕖lāce</td><td>shoe-lace</td><td>shõ𝕖-lāce</td><td>n. a lace used for fastening shoes</td></tr>
+<tr><td>shoeless</td><td>shõ𝕖lėss</td><td>shoe-less</td><td>shõ𝕖-lėss</td><td>a. without shoes</td></tr>
 <tr><td>shoes</td><td>shõ𝕖ṡ</td><td>shoe-s</td><td>shõ𝕖-ṡ</td><td></td></tr>
-<tr><td>shoeshine</td><td>shõeshīne</td><td>shoe-shine</td><td>shõe-shīne</td><td>n. a shiny finish put on shoes with polish and buffing<br>n. the act of shining shoes</td></tr>
-<tr><td>shoemaker</td><td>shõemāke̊r</td><td>shoe-mak-er</td><td>shõe-māk-e̊r</td><td>n. a person who makes or repairs shoes</td></tr>
-<tr><td>shoestring</td><td>shõestring</td><td>shoe-str-ing</td><td>shõe-str-ing</td><td>n. a small amount of money</td></tr>
+<tr><td>shoeshine</td><td>shõ𝕖shīne</td><td>shoe-shine</td><td>shõ𝕖-shīne</td><td>n. a shiny finish put on shoes with polish and buffing<br>n. the act of shining shoes</td></tr>
+<tr><td>shoemaker</td><td>shõ𝕖māke̊r</td><td>shoe-mak-er</td><td>shõ𝕖-māk-e̊r</td><td>n. a person who makes or repairs shoes</td></tr>
+<tr><td>shoestring</td><td>shõ𝕖string</td><td>shoe-str-ing</td><td>shõ𝕖-str-ing</td><td>n. a small amount of money</td></tr>
 <tr><td>overshoe</td><td>ōve̊rshõe</td><td>over-shoe</td><td>ōve̊r-shõe</td><td>n. footwear that protects your shoes from water or snow or cold</td></tr>
 <tr><td>shofar</td><td>shōfàr</td><td>shofar</td><td>shōfàr</td><td>n. an ancient musical horn made from the horn of a ram</td></tr>
 <tr><td>shogun</td><td>shōgůn</td><td>shogun</td><td>shōgůn</td><td>n. a hereditary military dictator of Japan until the revolution of 1867-68</td></tr>
-<tr><td>shoji</td><td>shōjĩ</td><td>shoji</td><td>shōjĩ</td><td>n. a translucent screen made of a wooden frame covered with rice paper</td></tr>
+<tr><td>shoji</td><td>shōji</td><td>shoji</td><td>shōji</td><td>n. a translucent screen made of a wooden frame covered with rice paper</td></tr>
 <tr><td>shoo</td><td>shoo</td><td>shoo</td><td>shoo</td><td>int. used to drive away animals or people<br>vt. to drive away by crying &#x27;shoo!&#x27;</td></tr>
 <tr><td>shoot</td><td>shoot</td><td>shoot</td><td>shoot</td><td>v. to fire a bullet or other missile from a weapon<br>v. to take a photograph or film<br>n. a new growth from a plant</td></tr>
 <tr><td>shooter</td><td>shoote̊r</td><td>shoot-er</td><td>shoot-e̊r</td><td>n. a person who shoots a gun or ball</td></tr>
@@ -2442,7 +2442,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shootaround</td><td>shootåròund</td><td>shoot-a-round</td><td>shoot-å-ròund</td><td>n. an informal basketball practice session focused on shooting</td></tr>
 <tr><td>crapshoot</td><td>crapshoot</td><td>crap-shoot</td><td>crap-shoot</td><td>n. a risky and uncertain venture</td></tr>
 <tr><td>overshoot</td><td>ōve̊rshoot</td><td>over-shoot</td><td>ōve̊r-shoot</td><td>v. shoot beyond or over (a target)<br>v. aim too high</td></tr>
-<tr><td>reshoot</td><td>rēshoot</td><td>re-shoot</td><td>rē-shoot</td><td>v. shoot again, especially a film or scene</td></tr>
+<tr><td>reshoot</td><td>rėshoot</td><td>re-shoot</td><td>rė-shoot</td><td>v. shoot again, especially a film or scene</td></tr>
 <tr><td>shop</td><td>shop</td><td>shop</td><td>shop</td><td>n. a building or part of a building where goods are sold<br>v. visit shops to buy goods</td></tr>
 <tr><td>shopaholic</td><td>shopåholic</td><td>shop-aholic</td><td>shop-åholic</td><td>n. a compulsive shopper</td></tr>
 <tr><td>shopped</td><td>shopp𝕖ḋ</td><td>shopp-ed</td><td>shopp-𝕖ḋ</td><td></td></tr>
@@ -2460,13 +2460,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>barbershop</td><td>bàrbe̊rshop</td><td>barb-er-shop</td><td>bàrb-e̊r-shop</td><td>n. a shop where men can get their hair cut</td></tr>
 <tr><td>shore</td><td>shore</td><td>shore</td><td>shore</td><td>n. the land along the edge of a body of water</td></tr>
 <tr><td>shorebird</td><td>shor𝕖bi̊rd</td><td>shore-bird</td><td>shor𝕖-bi̊rd</td><td>n. any of numerous wading birds that frequent seashores and estuaries</td></tr>
-<tr><td>shorefront</td><td>shorefrônt</td><td>shore-front</td><td>shore-frônt</td><td>n. land along a shore</td></tr>
+<tr><td>shorefront</td><td>shor𝕖frônt</td><td>shore-front</td><td>shor𝕖-frônt</td><td>n. land along a shore</td></tr>
 <tr><td>shoreline</td><td>shor𝕖līne</td><td>shore-line</td><td>shor𝕖-līne</td><td>n. the boundary between land and water</td></tr>
-<tr><td>shoreward</td><td>shorewård</td><td>shore-ward</td><td>shore-wård</td><td>adv. toward the shore<br>a. directed toward the shore</td></tr>
+<tr><td>shoreward</td><td>shor𝕖wård</td><td>shore-ward</td><td>shor𝕖-wård</td><td>adv. toward the shore<br>a. directed toward the shore</td></tr>
 <tr><td>ashore</td><td>åshore</td><td>a-shore</td><td>å-shore</td><td>adv. toward or onto the shore from the water</td></tr>
 <tr><td>foreshore</td><td>for𝕖shore</td><td>fore-shore</td><td>for𝕖-shore</td><td>n. the part of the seashore between the highwater mark and the low-water mark</td></tr>
 <tr><td>inshore</td><td>inshore</td><td>in-shore</td><td>in-shore</td><td>a. close to a shore<br>adv. toward the shore</td></tr>
-<tr><td>lakeshore</td><td>lākeshore</td><td>lake-shore</td><td>lāke-shore</td><td>n. the shore of a lake</td></tr>
+<tr><td>lakeshore</td><td>lāk𝕖shore</td><td>lake-shore</td><td>lāk𝕖-shore</td><td>n. the shore of a lake</td></tr>
 <tr><td>longshore</td><td>longshore</td><td>long-shore</td><td>long-shore</td><td>a. belonging to or situated on the seashore</td></tr>
 <tr><td>onshore</td><td>onshore</td><td>on-shore</td><td>on-shore</td><td>a. on the edge of the land<br>adv. on or toward the land</td></tr>
 <tr><td>short</td><td>short</td><td>short</td><td>short</td><td>a. measuring a small distance from end to end; not long<br>a. lasting or taking a small amount of time</td></tr>
@@ -2479,12 +2479,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shorter</td><td>shorte̊r</td><td>short-er</td><td>short-e̊r</td><td>a. comparative of short</td></tr>
 <tr><td>shortest</td><td>shortėst</td><td>short-est</td><td>short-ėst</td><td></td></tr>
 <tr><td>shortfall</td><td>shortfãll</td><td>short-fall</td><td>short-fãll</td><td>n. a deficit of something required or expected</td></tr>
-<tr><td>shortgrass</td><td>shortgrass</td><td>short-grass</td><td>short-grass</td><td>n. any of various grasses that are short and can tolerate drought conditions</td></tr>
+<tr><td>shortgrass</td><td>shortgràss</td><td>short-grass</td><td>short-gràss</td><td>n. any of various grasses that are short and can tolerate drought conditions</td></tr>
 <tr><td>shorthand</td><td>shorthand</td><td>short-hand</td><td>short-hand</td><td>n. a method of rapid writing using abbreviations and symbols</td></tr>
 <tr><td>shortish</td><td>shortish</td><td>short-ish</td><td>short-ish</td><td>a. somewhat short</td></tr>
 <tr><td>shortlist</td><td>shortlist</td><td>short-list</td><td>short-list</td><td>v. put someone or something on a short list</td></tr>
 <tr><td>shortly</td><td>shortlẏ</td><td>short-ly</td><td>short-lẏ</td><td>adv. for a short time<br>adv. in the near future<br>adv. at a short distance</td></tr>
-<tr><td>shortness</td><td>shortne̊ss</td><td>short-ness</td><td>short-ne̊ss</td><td>n. the property of being of short spatial extent</td></tr>
+<tr><td>shortness</td><td>shortnėss</td><td>short-ness</td><td>short-nėss</td><td>n. the property of being of short spatial extent</td></tr>
 <tr><td>shortrange</td><td>shortrānge</td><td>short-range</td><td>short-rānge</td><td>a. covering a short distance</td></tr>
 <tr><td>shorts</td><td>shorts</td><td>short-s</td><td>short-s</td><td>n. short trousers that end at or above the knee<br>n. underpants</td></tr>
 <tr><td>shortstop</td><td>shortstop</td><td>short-stop</td><td>short-stop</td><td>n. the baseball player positioned between second and third base</td></tr>
@@ -2500,14 +2500,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shortsightedness</td><td>shortsī𝕘𝕙tėdnėss</td><td>short-sight-ed-ness</td><td>short-sī𝕘𝕙t-ėd-nėss</td><td>n. the condition of seeing distant objects as blurred<br>n. a lack of prudence in management</td></tr>
 <tr><td>foreshorten</td><td>for𝕖shorte̊n</td><td>fore-short-en</td><td>for𝕖-short-e̊n</td><td>v. shorten lines in a drawing so as to create an illusion of depth</td></tr>
 <tr><td>foreshortened</td><td>for𝕖shorte̊n𝕖d</td><td>fore-short-en-ed</td><td>for𝕖-short-e̊n-𝕖d</td><td>v. shorten lines in a drawing so as to create an illusion of depth</td></tr>
-<tr><td>Shoshone</td><td>Shōshōnē</td><td>Shoshone</td><td>Shōshōnē</td><td>n. a Native American people</td></tr>
+<tr><td>Shoshone</td><td>Shōshōnė</td><td>Shoshone</td><td>Shōshōnė</td><td>n. a Native American people</td></tr>
 <tr><td>shot</td><td>shot</td><td>shot</td><td>shot</td><td>n. the act of firing a gun<br>n. an attempt to do something<br>n. an injection of a drug<br>n. a photograph or piece of film</td></tr>
 <tr><td>shotgun</td><td>shotgûn</td><td>shot-gun</td><td>shot-gûn</td><td>n. a gun that fires a number of small pellets</td></tr>
 <tr><td>shots</td><td>shots</td><td>shot-s</td><td>shot-s</td><td></td></tr>
 <tr><td>shotshell</td><td>shotshell</td><td>shot-shell</td><td>shot-shell</td><td>n. a cartridge containing shot for a shotgun</td></tr>
 <tr><td>shotguns</td><td>shotgûnṡ</td><td>shot-gun-s</td><td>shot-gûn-ṡ</td><td></td></tr>
 <tr><td>earshot</td><td>ēarshot</td><td>ear-shot</td><td>ēar-shot</td><td>n. the range within which a voice can be heard</td></tr>
-<tr><td>longshot</td><td>lon𝕘shot</td><td>long-shot</td><td>lon𝕘-shot</td><td>n. something that has a very small chance of succeeding</td></tr>
+<tr><td>longshot</td><td>longshot</td><td>long-shot</td><td>long-shot</td><td>n. something that has a very small chance of succeeding</td></tr>
 <tr><td>mugshot</td><td>mûgshot</td><td>mug-shot</td><td>mûg-shot</td><td>n. a photograph of someone&#x27;s face (especially one made for police records)</td></tr>
 <tr><td>upshot</td><td>ûpshot</td><td>up-shot</td><td>ûp-shot</td><td>n a phenomenon that follows and is caused by some previous phenomenon</td></tr>
 <tr><td>should</td><td>shoū𝕝d</td><td>should</td><td>shoū𝕝d</td><td>aux. used to express obligation or duty; would; used to express a supposition</td></tr>
@@ -2517,7 +2517,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shouldered</td><td>shōulde̊r𝕖d</td><td>should-er-ed</td><td>shōuld-e̊r-𝕖d</td><td>a. having shoulders or shoulders as specified; usually used as a combining form</td></tr>
 <tr><td>shoulders</td><td>shōulde̊rṡ</td><td>should-er-s</td><td>shōuld-e̊r-ṡ</td><td></td></tr>
 <tr><td>shout</td><td>shòut</td><td>shout</td><td>shòut</td><td>v. speak loudly<br>n. a loud cry</td></tr>
-<tr><td>shouted</td><td>shòut𝕖d</td><td>shout-ed</td><td>shòut-𝕖d</td><td>a. expressed in a vehement outcry</td></tr>
+<tr><td>shouted</td><td>shòutėd</td><td>shout-ed</td><td>shòut-ėd</td><td>a. expressed in a vehement outcry</td></tr>
 <tr><td>shouter</td><td>shòute̊r</td><td>shout-er</td><td>shòut-e̊r</td><td>n someone who communicates vocally in a very loud voice</td></tr>
 <tr><td>shouting</td><td>shòuting</td><td>shout-ing</td><td>shòut-ing</td><td>n. the act of uttering a loud cry</td></tr>
 <tr><td>shouts</td><td>shòuts</td><td>shout-s</td><td>shòut-s</td><td></td></tr>
@@ -2549,7 +2549,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>showy</td><td>shōwẏ</td><td>show-y</td><td>shōw-ẏ</td><td>a. making a brilliant display</td></tr>
 <tr><td>showered</td><td>shòwe̊r𝕖d</td><td>show-er-ed</td><td>shòw-e̊r-𝕖d</td><td></td></tr>
 <tr><td>showier</td><td>shōwie̊r</td><td>show-i-er</td><td>shōw-i-e̊r</td><td>a. more showy; marked by conspicuous display</td></tr>
-<tr><td>showiest</td><td>shōwiēst</td><td>show-i-est</td><td>shōw-i-ēst</td><td>s marked by ostentation but often tasteless<br>s displaying brilliance and virtuosity<br>s (used especially of clothes) marked by conspicuous display<br>s superficially attractive and stylish; suggesting wealth or expense</td></tr>
+<tr><td>showiest</td><td>shōwiėst</td><td>show-i-est</td><td>shōw-i-ėst</td><td>s marked by ostentation but often tasteless<br>s displaying brilliance and virtuosity<br>s (used especially of clothes) marked by conspicuous display<br>s superficially attractive and stylish; suggesting wealth or expense</td></tr>
 <tr><td>showstopper</td><td>shōwstoppe̊r</td><td>show-stopp-er</td><td>shōw-stopp-e̊r</td><td>n. an act so striking the show pauses until the audience quiets</td></tr>
 <tr><td>showerhead</td><td>shòwe̊rhèad</td><td>show-er-head</td><td>shòw-e̊r-hèad</td><td>n. a perforated nozzle that showers water on a bather</td></tr>
 <tr><td>showboating</td><td>shōwbōating</td><td>show-boat-ing</td><td>shōw-bōat-ing</td><td>v. to show off or perform ostentatiously</td></tr>
@@ -2557,23 +2557,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>showers</td><td>shòwe̊rṡ</td><td>show-er-s</td><td>shòw-e̊r-ṡ</td><td></td></tr>
 <tr><td>showmanship</td><td>shōwmånship</td><td>show-man-ship</td><td>shōw-mån-ship</td><td>n. the ability to present something in an attractive manner</td></tr>
 <tr><td>shrapnel</td><td>shrapne̊l</td><td>shrapnel</td><td>shrapne̊l</td><td>n. shell fragments that scatter when a shell explodes</td></tr>
-<tr><td>shred</td><td>shr𝕖d</td><td>shred</td><td>shr𝕖d</td><td>n. a tiny or scarcely detectable amount<br>v. tear into shreds</td></tr>
+<tr><td>shred</td><td>shred</td><td>shred</td><td>shred</td><td>n. a tiny or scarcely detectable amount<br>v. tear into shreds</td></tr>
 <tr><td>shredding</td><td>shredding</td><td>shredd-ing</td><td>shredd-ing</td><td>v. tear into shreds</td></tr>
 <tr><td>shreds</td><td>shredṡ</td><td>shred-s</td><td>shred-ṡ</td><td></td></tr>
-<tr><td>shredded</td><td>shredd𝕖d</td><td>shredd-ed</td><td>shredd-𝕖d</td><td>a. torn or cut into small pieces</td></tr>
+<tr><td>shredded</td><td>shreddėd</td><td>shredd-ed</td><td>shredd-ėd</td><td>a. torn or cut into small pieces</td></tr>
 <tr><td>shredder</td><td>shredde̊r</td><td>shredd-er</td><td>shredd-e̊r</td><td>n. a device that shreds documents to prevent unauthorized reading</td></tr>
 <tr><td>shrew</td><td>shrew̄</td><td>shrew</td><td>shrew̄</td><td>n. a scolding nagging bad-tempered woman<br>n. small mouselike mammal with a long snout; related to moles</td></tr>
 <tr><td>shrewish</td><td>shrew̄ish</td><td>shrew-ish</td><td>shrew̄-ish</td><td>a. continually complaining or faultfinding</td></tr>
 <tr><td>beshrew</td><td>bėshrew̄</td><td>be-shrew</td><td>bė-shrew̄</td><td>vt. to curse or wish evil upon</td></tr>
 <tr><td>shrewd</td><td>shrew̄d</td><td>shrewd</td><td>shrew̄d</td><td>a. having sharp powers of judgment</td></tr>
 <tr><td>shrewdly</td><td>shrew̄dlẏ</td><td>shrewd-ly</td><td>shrew̄d-lẏ</td><td>adv. in a shrewd manner</td></tr>
-<tr><td>shrewdness</td><td>shrew̄dne̊ss</td><td>shrewd-ness</td><td>shrew̄d-ne̊ss</td><td>n. intelligence manifested by being astute</td></tr>
+<tr><td>shrewdness</td><td>shrew̄dnėss</td><td>shrewd-ness</td><td>shrew̄d-nėss</td><td>n. intelligence manifested by being astute</td></tr>
 <tr><td>shriek</td><td>shriēk</td><td>shriek</td><td>shriēk</td><td>n. a high-pitched cry<br>v. to utter a shrill cry</td></tr>
 <tr><td>shrieking</td><td>shriēking</td><td>shriek-ing</td><td>shriēk-ing</td><td>n. sharp piercing cry<br>n. a high-pitched noise resembling a human cry<br>v. utter a shrill cry</td></tr>
 <tr><td>shrift</td><td>shrift</td><td>shrift</td><td>shrift</td><td>n. the act of being shriven; confession</td></tr>
 <tr><td>shrike</td><td>shrīke</td><td>shrike</td><td>shrīke</td><td>n. any of numerous Old World birds with a strong hooked bill feeding on smaller animals</td></tr>
 <tr><td>shrill</td><td>shrill</td><td>shrill</td><td>shrill</td><td>a. having a high-pitched and sharp tone</td></tr>
-<tr><td>shrillness</td><td>shrillne̊ss</td><td>shrill-ness</td><td>shrill-ne̊ss</td><td>n. the quality of being sharp or harsh to the senses<br>n. having the timbre of a loud high-pitched sound</td></tr>
+<tr><td>shrillness</td><td>shrillnėss</td><td>shrill-ness</td><td>shrill-nėss</td><td>n. the quality of being sharp or harsh to the senses<br>n. having the timbre of a loud high-pitched sound</td></tr>
 <tr><td>shrilly</td><td>shrillẏ</td><td>shrill-y</td><td>shrill-ẏ</td><td>adv. in a shrill voice</td></tr>
 <tr><td>shrimp</td><td>shrimp</td><td>shrimp</td><td>shrimp</td><td>n. a small shellfish with a long tail</td></tr>
 <tr><td>shrimper</td><td>shrimpe̊r</td><td>shrimp-er</td><td>shrimp-e̊r</td><td>n. a vessel engaged in shrimping<br>n. a person who catches shrimp</td></tr>
@@ -2593,7 +2593,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shriveled</td><td>shrive̊l𝕖d</td><td>shrivel-ed</td><td>shrive̊l-𝕖d</td><td>a. lean and wrinkled by shrinkage as from age or illness</td></tr>
 <tr><td>shroud</td><td>shròud</td><td>shroud</td><td>shròud</td><td>n. a cloth or sheet in which a dead person is wrapped<br>v. to cover or conceal</td></tr>
 <tr><td>shrouded</td><td>shròudėd</td><td>shroud-ed</td><td>shròud-ėd</td><td>v. cover or conceal as if with a shroud</td></tr>
-<tr><td>enshroud</td><td>ėnshròud</td><td>en-shroud</td><td>ėn-shròud</td><td>v cover as if with a shroud</td></tr>
+<tr><td>enshroud</td><td>enshròud</td><td>en-shroud</td><td>en-shròud</td><td>v cover as if with a shroud</td></tr>
 <tr><td>shrub</td><td>shrûb</td><td>shrub</td><td>shrûb</td><td>n. a low woody plant with several stems</td></tr>
 <tr><td>shrubby</td><td>shrûbbẏ</td><td>shrubb-y</td><td>shrûbb-ẏ</td><td>a. of or relating to or resembling a shrub</td></tr>
 <tr><td>shrubbery</td><td>shrûbbe̊rẏ</td><td>shrubb-er-y</td><td>shrûbb-e̊r-ẏ</td><td>n. an area where a number of shrubs are planted</td></tr>
@@ -2609,8 +2609,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shuffling</td><td>shûffling</td><td>shuff-ling</td><td>shûff-ling</td><td>a. moving in a slow dragging manner</td></tr>
 <tr><td>shuffleboard</td><td>shûffl𝕖bōard</td><td>shuff-le-board</td><td>shûff-l𝕖-bōard</td><td>n. a game in which players use long sticks to shove disks onto a scoring area</td></tr>
 <tr><td>shuffled</td><td>shûffl𝕖d</td><td>shuffl-ed</td><td>shûffl-𝕖d</td><td>v. walk by dragging one&#x27;s feet</td></tr>
-<tr><td>reshuffling</td><td>rēshûffling</td><td>re-shuffl-ing</td><td>rē-shûffl-ing</td><td>n. the act of reorganizing and assigning posts to different people</td></tr>
-<tr><td>reshuffle</td><td>rēshûffle</td><td>re-shuff-le</td><td>rē-shûff-le</td><td>v. reorganize and assign posts to different people</td></tr>
+<tr><td>reshuffling</td><td>rėshûffling</td><td>re-shuffl-ing</td><td>rė-shûffl-ing</td><td>n. the act of reorganizing and assigning posts to different people</td></tr>
+<tr><td>reshuffle</td><td>rėshûffle</td><td>re-shuff-le</td><td>rė-shûff-le</td><td>v. reorganize and assign posts to different people</td></tr>
 <tr><td>shul</td><td>shūl</td><td>shul</td><td>shūl</td><td>n. a Jewish synagogue or temple (Yiddish)</td></tr>
 <tr><td>shun</td><td>shûn</td><td>shun</td><td>shûn</td><td>vt. to keep away from deliberately</td></tr>
 <tr><td>shunned</td><td>shûnn𝕖d</td><td>shunn-ed</td><td>shûnn-𝕖d</td><td>v. avoid and stay away from deliberately</td></tr>
@@ -2635,7 +2635,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>shyer</td><td>shȳe̊r</td><td>shy-er</td><td>shȳ-e̊r</td><td></td></tr>
 <tr><td>shyest</td><td>shȳėst</td><td>shy-est</td><td>shȳ-ėst</td><td></td></tr>
 <tr><td>shyly</td><td>shȳlẏ</td><td>shy-ly</td><td>shȳ-lẏ</td><td>adv. in a shy or timid manner</td></tr>
-<tr><td>shyness</td><td>shȳne̊ss</td><td>shy-ness</td><td>shȳ-ne̊ss</td><td>n. the feeling of being nervous or embarrassed in the company of others</td></tr>
+<tr><td>shyness</td><td>shȳnėss</td><td>shy-ness</td><td>shȳ-nėss</td><td>n. the feeling of being nervous or embarrassed in the company of others</td></tr>
 <tr><td>shylock</td><td>shȳlock</td><td>shy-lock</td><td>shȳ-lock</td><td>n. a merciless usurer in a play by Shakespeare</td></tr>
 <tr><td>shyster</td><td>shȳste̊r</td><td>shyst-er</td><td>shȳst-e̊r</td><td>n. a person (especially a lawyer or politician) who uses unscrupulous or unethical methods</td></tr>
 <tr><td>siamese</td><td>sīåmēṡe</td><td>siam-ese</td><td>sīåm-ēṡe</td><td>n. a native or inhabitant of Siam<br>a. of or relating to Siam or its people</td></tr>
@@ -2643,35 +2643,35 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sibling</td><td>sibling</td><td>sib-ling</td><td>sib-ling</td><td>n. a brother or sister</td></tr>
 <tr><td>siberian</td><td>sībēriån</td><td>siber-ian</td><td>sībēr-iån</td><td>n. a native or inhabitant of Siberia<br>a. of or relating to or characteristic of Siberia or the Siberians</td></tr>
 <tr><td>sibilant</td><td>sibilånt</td><td>sibil-ant</td><td>sibil-ånt</td><td>n. a consonant characterized by a hissing sound (like s or sh)</td></tr>
-<tr><td>sibyl</td><td>sibẙl</td><td>sibyl</td><td>sibẙl</td><td>n. a woman regarded as a prophetess</td></tr>
-<tr><td>sibylline</td><td>sibẏllĩne</td><td>sibyll-ine</td><td>sibẏll-ĩne</td><td>a. relating to prophecy</td></tr>
+<tr><td>sibyl</td><td>sibẏl</td><td>sibyl</td><td>sibẏl</td><td>n. a woman regarded as a prophetess</td></tr>
+<tr><td>sibylline</td><td>sibẏllīne</td><td>sibyll-ine</td><td>sibẏll-īne</td><td>a. relating to prophecy</td></tr>
 <tr><td>sic</td><td>sic</td><td>sic</td><td>sic</td><td>v. urge to attack someone<br>adv. intentionally so written (used after a quoted word)</td></tr>
 <tr><td>desiccant</td><td>desiccånt</td><td>de-sicc-ant</td><td>de-sicc-ånt</td><td>n. a substance that absorbs moisture</td></tr>
-<tr><td>desiccate</td><td>desi̊ccāte</td><td>de-sicc-ate</td><td>de-si̊cc-āte</td><td>vt. to remove moisture from; to dry out completely</td></tr>
-<tr><td>desiccated</td><td>desi̊ccāt𝕖d</td><td>de-sicc-at-ed</td><td>de-si̊cc-āt-𝕖d</td><td>a. thoroughly dried out</td></tr>
-<tr><td>desiccation</td><td>desi̊ccātio̊n</td><td>de-sicc-at-ion</td><td>de-si̊cc-āt-io̊n</td><td>n. the process of extracting moisture; dryness</td></tr>
-<tr><td>sichuan</td><td>sichùàn</td><td>si-chuan</td><td>si-chùàn</td><td>n. a province in southwestern China, noted for its spicy cuisine</td></tr>
-<tr><td>Sicily</td><td>Sici̊lẏ</td><td>Sicily</td><td>Sici̊lẏ</td><td>n. an island off southern Italy</td></tr>
+<tr><td>desiccate</td><td>desiccāte</td><td>de-sicc-ate</td><td>de-sicc-āte</td><td>vt. to remove moisture from; to dry out completely</td></tr>
+<tr><td>desiccated</td><td>desiccātėd</td><td>de-sicc-at-ed</td><td>de-sicc-āt-ėd</td><td>a. thoroughly dried out</td></tr>
+<tr><td>desiccation</td><td>desiccātio̊n</td><td>de-sicc-at-ion</td><td>de-sicc-āt-io̊n</td><td>n. the process of extracting moisture; dryness</td></tr>
+<tr><td>sichuan</td><td>sichūån</td><td>si-chuan</td><td>si-chūån</td><td>n. a province in southwestern China, noted for its spicy cuisine</td></tr>
+<tr><td>Sicily</td><td>Sicilẏ</td><td>Sicily</td><td>Sicilẏ</td><td>n. an island off southern Italy</td></tr>
 <tr><td>sicilian</td><td>siciliån</td><td>sicil-ian</td><td>sicil-iån</td><td>n. a resident of Sicily<br>a. of or relating to Sicily</td></tr>
 <tr><td>sick</td><td>sick</td><td>sick</td><td>sick</td><td>a. affected by physical or mental illness<br>a. feeling nauseous or inclined to vomit</td></tr>
 <tr><td>sickbay</td><td>sickbāy</td><td>sick-bay</td><td>sick-bāy</td><td>n. (nautical) a room for the treatment of the sick or injured (as on a ship)</td></tr>
-<tr><td>sickbed</td><td>sickb𝕖d</td><td>sick-bed</td><td>sick-b𝕖d</td><td>n. the bed on which a sick person lies</td></tr>
+<tr><td>sickbed</td><td>sickbed</td><td>sick-bed</td><td>sick-bed</td><td>n. the bed on which a sick person lies</td></tr>
 <tr><td>sicken</td><td>sicke̊n</td><td>sick-en</td><td>sick-e̊n</td><td>v. to become or make sick</td></tr>
 <tr><td>sicker</td><td>sicke̊r</td><td>sick-er</td><td>sick-e̊r</td><td></td></tr>
 <tr><td>sickest</td><td>sickėst</td><td>sick-est</td><td>sick-ėst</td><td></td></tr>
 <tr><td>sickle</td><td>sickle</td><td>sick-le</td><td>sick-le</td><td>n. an edge tool for cutting grass or crops; has a curved blade and a short handle</td></tr>
 <tr><td>sickly</td><td>sicklẏ</td><td>sick-ly</td><td>sick-lẏ</td><td>a. often ill; looking unhealthy</td></tr>
 <tr><td>sickness</td><td>sicknėss</td><td>sick-ness</td><td>sick-nėss</td><td>n. the state of being ill</td></tr>
-<tr><td>sicko</td><td>sicko̊</td><td>sick-o</td><td>sick-o̊</td><td>n. a person who is mentally disturbed or morally degenerate</td></tr>
+<tr><td>sicko</td><td>sickō</td><td>sick-o</td><td>sick-ō</td><td>n. a person who is mentally disturbed or morally degenerate</td></tr>
 <tr><td>sickroom</td><td>sickroom</td><td>sick-room</td><td>sick-room</td><td>n. a room to which a sick person is confined</td></tr>
 <tr><td>sickened</td><td>sicke̊n𝕖d</td><td>sick-en-ed</td><td>sick-e̊n-𝕖d</td><td>v. cause aversion in; offend the moral sense of<br>v. get sick</td></tr>
 <tr><td>sickening</td><td>sicke̊ning</td><td>sick-en-ing</td><td>sick-e̊n-ing</td><td>a. causing a feeling of disgust or nausea</td></tr>
 <tr><td>sickeningly</td><td>sicke̊ninglẏ</td><td>sick-en-ing-ly</td><td>sick-e̊n-ing-lẏ</td><td>adv. in a disgusting manner or to a disgusting degree</td></tr>
 <tr><td>carsick</td><td>càrsick</td><td>car-sick</td><td>càr-sick</td><td>a. experiencing motion sickness</td></tr>
 <tr><td>lovesick</td><td>lôv𝕖sick</td><td>love-sick</td><td>lôv𝕖-sick</td><td>a. languishing because of love</td></tr>
-<tr><td>assiduity</td><td>assidūitẏ</td><td>as-sid-u-ity</td><td>as-sid-ū-itẏ</td><td>n. constant and earnest effort; diligence</td></tr>
-<tr><td>assiduous</td><td>åssidùo̊us</td><td>as-sid-u-ous</td><td>ås-sid-ù-o̊us</td><td>a. marked by care and persistent effort</td></tr>
-<tr><td>assiduously</td><td>åssidùo̊uslẏ</td><td>as-sid-u-ous-ly</td><td>ås-sid-ù-o̊us-lẏ</td><td>adv. with care and persistence</td></tr>
+<tr><td>assiduity</td><td>åssidūitẏ</td><td>as-sid-u-ity</td><td>ås-sid-ū-itẏ</td><td>n. constant and earnest effort; diligence</td></tr>
+<tr><td>assiduous</td><td>åssidūo̊us</td><td>as-sid-u-ous</td><td>ås-sid-ū-o̊us</td><td>a. marked by care and persistent effort</td></tr>
+<tr><td>assiduously</td><td>åssidūo̊uslẏ</td><td>as-sid-u-ous-ly</td><td>ås-sid-ū-o̊us-lẏ</td><td>adv. with care and persistence</td></tr>
 <tr><td>consider</td><td>co̊nside̊r</td><td>con-sid-er</td><td>co̊n-sid-e̊r</td><td>v. to think carefully about something before making a decision<br>v. to regard someone or something in a particular way</td></tr>
 <tr><td>considerable</td><td>co̊nside̊råble</td><td>con-sid-er-able</td><td>co̊n-sid-e̊r-åble</td><td>a. large or relatively large in number or amount or extent or degree</td></tr>
 <tr><td>considerate</td><td>co̊nside̊rāte</td><td>con-sid-er-ate</td><td>co̊n-sid-e̊r-āte</td><td>a. showing concern for the rights and feelings of others</td></tr>
@@ -2681,8 +2681,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>consideration</td><td>co̊nside̊rātio̊n</td><td>con-sid-er-at-ion</td><td>co̊n-sid-e̊r-āt-io̊n</td><td>n. the process of giving careful thought to something<br>n. kind and considerate regard for others</td></tr>
 <tr><td>considerably</td><td>co̊nside̊råblẏ</td><td>con-sid-er-ab-ly</td><td>co̊n-sid-e̊r-åb-lẏ</td><td>adv. to a great extent or degree</td></tr>
 <tr><td>considerately</td><td>co̊nside̊råt𝕖lẏ</td><td>con-sid-er-ate-ly</td><td>co̊n-sid-e̊r-åt𝕖-lẏ</td><td>adv. in a considerate manner</td></tr>
-<tr><td>dissidence</td><td>dissi̊dėnce</td><td>dis-sid-ence</td><td>dis-si̊d-ėnce</td><td>n. disagreement; especially disagreement with the government</td></tr>
-<tr><td>dissident</td><td>dissi̊dėnt</td><td>dis-sid-ent</td><td>dis-si̊d-ėnt</td><td>n. a person who opposes official policy<br>a. dissenting</td></tr>
+<tr><td>dissidence</td><td>disside̊nce</td><td>dis-sid-ence</td><td>dis-sid-e̊nce</td><td>n. disagreement; especially disagreement with the government</td></tr>
+<tr><td>dissident</td><td>disside̊nt</td><td>dis-sid-ent</td><td>dis-sid-e̊nt</td><td>n. a person who opposes official policy<br>a. dissenting</td></tr>
 <tr><td>insidious</td><td>insidio̊us</td><td>in-sid-ious</td><td>in-sid-io̊us</td><td>a. proceeding in a gradual, subtle way, but with harmful effects</td></tr>
 <tr><td>insidiously</td><td>insidio̊uslẏ</td><td>in-sid-ious-ly</td><td>in-sid-io̊us-lẏ</td><td>adv. in a harmfully insidious manner</td></tr>
 <tr><td>preside</td><td>prėṡīde</td><td>pre-side</td><td>prė-ṡīde</td><td>v. to be in charge of a meeting or event</td></tr>
@@ -2697,7 +2697,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>residence</td><td>reṡide̊nce</td><td>re-sid-ence</td><td>re-ṡid-e̊nce</td><td>n. a place where someone lives; a home</td></tr>
 <tr><td>residency</td><td>reṡide̊ncẏ</td><td>re-sid-ency</td><td>re-ṡid-e̊ncẏ</td><td>n. the period during which a doctor receives specialized training in a hospital</td></tr>
 <tr><td>resident</td><td>reṡide̊nt</td><td>re-sid-ent</td><td>re-ṡid-e̊nt</td><td>n. a person who lives in a particular place<br>a. living in a particular place</td></tr>
-<tr><td>residue</td><td>reṡi̊dūe</td><td>re-sid-ue</td><td>re-ṡi̊d-ūe</td><td>n. matter that remains after something has been removed</td></tr>
+<tr><td>residue</td><td>reṡidūe</td><td>re-sid-ue</td><td>re-ṡid-ūe</td><td>n. matter that remains after something has been removed</td></tr>
 <tr><td>residuum</td><td>rėṡidūům</td><td>re-sid-uum</td><td>rė-ṡid-ūům</td><td>n. something left after other parts have been taken away</td></tr>
 <tr><td>residual</td><td>rėṡidūål</td><td>re-sid-u-al</td><td>rė-ṡid-ū-ål</td><td>a. relating to a remainder<br>n. what remains after a process</td></tr>
 <tr><td>residential</td><td>reṡidentiål</td><td>re-sid-ent-ial</td><td>re-ṡid-ent-iål</td><td>a. containing or suitable for private homes</td></tr>
@@ -2705,7 +2705,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>residents</td><td>reṡide̊nts</td><td>re-sid-ent-s</td><td>re-ṡid-e̊nt-s</td><td></td></tr>
 <tr><td>residentially</td><td>reṡidentiållẏ</td><td>re-sid-ent-ial-ly</td><td>re-ṡid-ent-iål-lẏ</td><td>adv. used as a residence</td></tr>
 <tr><td>residuals</td><td>rėṡidūålṡ</td><td>re-sid-u-al-s</td><td>rė-ṡid-ū-ål-ṡ</td><td>n. something left after other parts have been taken away</td></tr>
-<tr><td>subsidence</td><td>sûbsīde̊nce</td><td>sub-sid-ence</td><td>sûb-sīd-e̊nce</td><td>n. a gradual sinking to a lower level</td></tr>
+<tr><td>subsidence</td><td>sûbside̊nce</td><td>sub-sid-ence</td><td>sûb-sid-e̊nce</td><td>n. a gradual sinking to a lower level</td></tr>
 <tr><td>subsiding</td><td>sûbsīding</td><td>sub-sid-ing</td><td>sûb-sīd-ing</td><td>v. sink to a lower level or form a depression<br>v. wear off or die down</td></tr>
 <tr><td>subsidise</td><td>sûbsidīṡe</td><td>sub-sid-ise</td><td>sûb-sid-īṡe</td><td>vt. to support with money</td></tr>
 <tr><td>subsidize</td><td>sûbsidīze</td><td>sub-sid-ize</td><td>sûb-sid-īze</td><td>v. to support with money from the government</td></tr>
@@ -2714,10 +2714,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>subsidized</td><td>sûbsidīz𝕖d</td><td>sub-sid-iz-ed</td><td>sûb-sid-īz-𝕖d</td><td>a. having partial financial support from public funds</td></tr>
 <tr><td>subsidizing</td><td>sûbsidīzing</td><td>sub-sid-iz-ing</td><td>sûb-sid-īz-ing</td><td>v. support through subsidies</td></tr>
 <tr><td>subsidiarity</td><td>sûbsidiaritẏ</td><td>sub-sid-i-ar-ity</td><td>sûb-sid-i-ar-itẏ</td><td>n. the principle that decisions should be made at the lowest appropriate level</td></tr>
-<tr><td>subsidization</td><td>sûbsidizātio̊n</td><td>sub-sid-iz-at-ion</td><td>sûb-sid-iz-āt-io̊n</td><td>n. money (or other benefits) obtained as a subsidy</td></tr>
+<tr><td>subsidization</td><td>sûbsidīzātio̊n</td><td>sub-sid-iz-at-ion</td><td>sûb-sid-īz-āt-io̊n</td><td>n. money (or other benefits) obtained as a subsidy</td></tr>
 <tr><td>inconsiderable</td><td>inco̊nside̊råble</td><td>in-con-sid-er-able</td><td>in-co̊n-sid-e̊r-åble</td><td>a. too small or unimportant to merit attention</td></tr>
 <tr><td>inconsiderate</td><td>inco̊nside̊råte</td><td>in-con-sid-er-ate</td><td>in-co̊n-sid-e̊r-åte</td><td>a. lacking regard for the rights or feelings of others<br>a. without proper consideration or reflection</td></tr>
-<tr><td>nonresidential</td><td>nonreṡi̊dentiål</td><td>non-re-sid-ent-ial</td><td>non-re-ṡi̊d-ent-iål</td><td>a. not residential</td></tr>
+<tr><td>nonresidential</td><td>nonreṡidentiål</td><td>non-re-sid-ent-ial</td><td>non-re-ṡid-ent-iål</td><td>a. not residential</td></tr>
 <tr><td>reconsider</td><td>rēco̊nside̊r</td><td>re-con-sid-er</td><td>rē-co̊n-sid-e̊r</td><td>v. consider again; give new consideration to</td></tr>
 <tr><td>reconsidered</td><td>rēco̊nside̊r𝕖d</td><td>re-con-sid-er-ed</td><td>rē-co̊n-sid-e̊r-𝕖d</td><td></td></tr>
 <tr><td>reconsidering</td><td>rēco̊nside̊ring</td><td>re-con-sid-er-ing</td><td>rē-co̊n-sid-e̊r-ing</td><td></td></tr>
@@ -2725,25 +2725,25 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>reconsideration</td><td>rēco̊nside̊rātio̊n</td><td>re-con-sid-er-at-ion</td><td>rē-co̊n-sid-e̊r-āt-io̊n</td><td>n. a consideration with a view to changing an earlier decision</td></tr>
 <tr><td>unconsidered</td><td>ûnco̊nside̊r𝕖d</td><td>un-con-sid-er-ed</td><td>ûn-co̊n-sid-e̊r-𝕖d</td><td>a. without proper consideration or reflection</td></tr>
 <tr><td>unpresidential</td><td>ûnpreṡidentiål</td><td>un-pre-sid-ent-ial</td><td>ûn-pre-ṡid-ent-iål</td><td>a. not befitting a president</td></tr>
-<tr><td>unsubsidized</td><td>ûnsûbsi̊dīz𝕖d</td><td>un-sub-sid-iz-ed</td><td>ûn-sûb-si̊d-īz-𝕖d</td><td>a. not supported or assisted financially by a subsidy</td></tr>
+<tr><td>unsubsidized</td><td>ûnsûbsidīz𝕖d</td><td>un-sub-sid-iz-ed</td><td>ûn-sûb-sid-īz-𝕖d</td><td>a. not supported or assisted financially by a subsidy</td></tr>
 <tr><td>side</td><td>sīde</td><td>side</td><td>sīde</td><td>n. a position to the left or right; one of two opposing groups; a surface<br>vt. to support or agree with</td></tr>
 <tr><td>sideband</td><td>sīd𝕖band</td><td>side-band</td><td>sīd𝕖-band</td><td>n. a band of frequencies on either side of a carrier frequency</td></tr>
 <tr><td>sidebar</td><td>sīd𝕖bàr</td><td>side-bar</td><td>sīd𝕖-bàr</td><td>n. a short additional news article<br>n. a panel on the side of a webpage</td></tr>
-<tr><td>sideboard</td><td>sīdebōard</td><td>side-board</td><td>sīde-bōard</td><td>n. a piece of furniture used for displaying dishes</td></tr>
+<tr><td>sideboard</td><td>sīd𝕖bōard</td><td>side-board</td><td>sīd𝕖-bōard</td><td>n. a piece of furniture used for displaying dishes</td></tr>
 <tr><td>sideburn</td><td>sīd𝕖bůrn</td><td>side-burn</td><td>sīd𝕖-bůrn</td><td>n. facial hair that has grown down the side of a man&#x27;s face in front of the ears</td></tr>
-<tr><td>sidecar</td><td>sīdecàr</td><td>side-car</td><td>sīde-càr</td><td>n. a cocktail made of orange liqueur with lemon juice and brandy<br>n. conveyance consisting of a small carrier attached to the side of a motorcycle</td></tr>
-<tr><td>sidecut</td><td>sīdecût</td><td>side-cut</td><td>sīde-cût</td><td>n. a cut or indentation on the side of something</td></tr>
+<tr><td>sidecar</td><td>sīd𝕖càr</td><td>side-car</td><td>sīd𝕖-càr</td><td>n. a cocktail made of orange liqueur with lemon juice and brandy<br>n. conveyance consisting of a small carrier attached to the side of a motorcycle</td></tr>
+<tr><td>sidecut</td><td>sīd𝕖cût</td><td>side-cut</td><td>sīd𝕖-cût</td><td>n. a cut or indentation on the side of something</td></tr>
 <tr><td>sidedeck</td><td>sīd𝕖deck</td><td>side-deck</td><td>sīd𝕖-deck</td><td>n. a deck or platform attached to one side</td></tr>
 <tr><td>sidehill</td><td>sīd𝕖hill</td><td>side-hill</td><td>sīd𝕖-hill</td><td>n. The side or slope of a hill; sloping ground; a descent.</td></tr>
 <tr><td>siding</td><td>sīding</td><td>sid-ing</td><td>sīd-ing</td><td>n. a short stretch of railroad track used to store rolling stock<br>n. material applied to the outside of a building</td></tr>
 <tr><td>sidekick</td><td>sīd𝕖kick</td><td>side-kick</td><td>sīd𝕖-kick</td><td>n a close friend who accompanies his buddies in their activities</td></tr>
-<tr><td>sidelight</td><td>sīdelī𝕘𝕙t</td><td>side-light</td><td>sīde-lī𝕘𝕙t</td><td>n. a boat light indicating direction; red on port bow, green on starboard at night</td></tr>
+<tr><td>sidelight</td><td>sīd𝕖lī𝕘𝕙t</td><td>side-light</td><td>sīd𝕖-lī𝕘𝕙t</td><td>n. a boat light indicating direction; red on port bow, green on starboard at night</td></tr>
 <tr><td>sideline</td><td>sīd𝕖līne</td><td>side-line</td><td>sīd𝕖-līne</td><td>n. a line marking the side boundary of a playing field<br>n. an auxiliary activity or business</td></tr>
 <tr><td>sidelock</td><td>sīd𝕖lock</td><td>side-lock</td><td>sīd𝕖-lock</td><td>n. a lock of hair worn at the side of the head</td></tr>
 <tr><td>sidelong</td><td>sīd𝕖long</td><td>side-long</td><td>sīd𝕖-long</td><td>a. inclining or directed to one side<br>adv. on the side or with the side toward someone</td></tr>
 <tr><td>sidle</td><td>sīdle</td><td>sid-le</td><td>sīd-le</td><td>v. to move sideways in a quiet or furtive manner</td></tr>
 <tr><td>sideman</td><td>sīd𝕖mån</td><td>side-man</td><td>sīd𝕖-mån</td><td>n. a musician who plays in a band alongside the lead performer</td></tr>
-<tr><td>sideroad</td><td>sīde̊rōad</td><td>side-road</td><td>sīde̊-rōad</td><td>n. a side road</td></tr>
+<tr><td>sideroad</td><td>sīd𝕖rōad</td><td>side-road</td><td>sīd𝕖-rōad</td><td>n. a side road</td></tr>
 <tr><td>sides</td><td>sīd𝕖ṡ</td><td>side-s</td><td>sīd𝕖-ṡ</td><td></td></tr>
 <tr><td>sideshow</td><td>sīd𝕖shōw</td><td>side-show</td><td>sīd𝕖-shōw</td><td>n. a subordinate incident of little importance relative to the main event<br>n. a minor show that is part of a larger one (as at the circus)</td></tr>
 <tr><td>sideslip</td><td>sīd𝕖slip</td><td>side-slip</td><td>sīd𝕖-slip</td><td>n an unexpected slide<br>n a flight maneuver; aircraft slides sideways in the air</td></tr>
@@ -2751,11 +2751,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sideswipe</td><td>sīd𝕖swīpe</td><td>side-swipe</td><td>sīd𝕖-swīpe</td><td>n. a glancing blow from or on the side of something (especially motor vehicles)<br>v. strike from the side</td></tr>
 <tr><td>sidetrack</td><td>sīd𝕖track</td><td>side-track</td><td>sīd𝕖-track</td><td>v. to divert from a main subject or course<br>n. a siding on a railway</td></tr>
 <tr><td>sidewalk</td><td>sīd𝕖wãlk</td><td>side-walk</td><td>sīd𝕖-wãlk</td><td>n. a paved path for pedestrians at the side of a road</td></tr>
-<tr><td>sidewall</td><td>sīdewãll</td><td>side-wall</td><td>sīde-wãll</td><td>n. a wall that forms the side of a structure<br>n. the side of an automobile tire</td></tr>
-<tr><td>sideway</td><td>sīdewāy</td><td>side-way</td><td>sīde-wāy</td><td>adv. toward one side</td></tr>
-<tr><td>sidewise</td><td>sīdewīṡe</td><td>side-wise</td><td>sīde-wīṡe</td><td>adv. toward one side<br>adv. from the side; obliquely</td></tr>
+<tr><td>sidewall</td><td>sīd𝕖wãll</td><td>side-wall</td><td>sīd𝕖-wãll</td><td>n. a wall that forms the side of a structure<br>n. the side of an automobile tire</td></tr>
+<tr><td>sideway</td><td>sīd𝕖wāy</td><td>side-way</td><td>sīd𝕖-wāy</td><td>adv. toward one side</td></tr>
+<tr><td>sidewise</td><td>sīd𝕖wīṡe</td><td>side-wise</td><td>sīd𝕖-wīṡe</td><td>adv. toward one side<br>adv. from the side; obliquely</td></tr>
 <tr><td>sidetracked</td><td>sīd𝕖track𝕖ḋ</td><td>side-track-ed</td><td>sīd𝕖-track-𝕖ḋ</td><td>v. wander from a direct or straight course</td></tr>
-<tr><td>sidewinder</td><td>sīdewīnde̊r</td><td>side-wind-er</td><td>sīde-wīnd-e̊r</td><td>n. a small desert rattlesnake that moves sideways</td></tr>
+<tr><td>sidewinder</td><td>sīd𝕖wīnde̊r</td><td>side-wind-er</td><td>sīd𝕖-wīnd-e̊r</td><td>n. a small desert rattlesnake that moves sideways</td></tr>
 <tr><td>sidesplitting</td><td>sīd𝕖splitting</td><td>side-splitt-ing</td><td>sīd𝕖-splitt-ing</td><td>a. extremely funny</td></tr>
 <tr><td>sidesaddle</td><td>sīd𝕖saddle</td><td>side-sadd-le</td><td>sīd𝕖-sadd-le</td><td>n. a saddle for a woman; rider sits with both feet on the same side of the horse<br>adv. on or as if on a sidesaddle</td></tr>
 <tr><td>sidekicks</td><td>sīd𝕖kicks</td><td>side-kick-s</td><td>sīd𝕖-kick-s</td><td></td></tr>
@@ -2768,8 +2768,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>inside</td><td>insīde</td><td>in-side</td><td>in-sīde</td><td>n. the inner part of something<br>a. on or relating to the inside<br>adv. within or into a building or container<br>prep. within</td></tr>
 <tr><td>insider</td><td>insīde̊r</td><td>in-side-r</td><td>in-sīde̊-r</td><td>n. a person who has special knowledge of an organization</td></tr>
 <tr><td>insides</td><td>insīd𝕖ṡ</td><td>in-side-s</td><td>in-sīd𝕖-ṡ</td><td></td></tr>
-<tr><td>lakeside</td><td>lākesīde</td><td>lake-side</td><td>lāke-sīde</td><td>n. the shore of a lake</td></tr>
-<tr><td>quayside</td><td>q𝕦aysīde</td><td>quay-side</td><td>q𝕦ay-sīde</td><td>n. the area around a quay</td></tr>
+<tr><td>lakeside</td><td>lāk𝕖sīde</td><td>lake-side</td><td>lāk𝕖-sīde</td><td>n. the shore of a lake</td></tr>
+<tr><td>quayside</td><td>quaysīde</td><td>quay-side</td><td>quay-sīde</td><td>n. the area around a quay</td></tr>
 <tr><td>subside</td><td>sûbsīde</td><td>sub-side</td><td>sûb-sīde</td><td>v. wear off or die down<br>v. sink to a lower level or form a depression</td></tr>
 <tr><td>subsided</td><td>sûbsīdėd</td><td>sub-sid-ed</td><td>sûb-sīd-ėd</td><td>v. wear off or die down<br>v. sink to a lower level</td></tr>
 <tr><td>topside</td><td>topsīde</td><td>top-side</td><td>top-sīde</td><td>n. (usually plural) weather deck; the part of a ship&#x27;s hull that is above the waterline</td></tr>
@@ -2777,14 +2777,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>upside</td><td>ûpsīde</td><td>up-side</td><td>ûp-sīde</td><td>n. the highest or uppermost side of anything; an advantageous aspect</td></tr>
 <tr><td>upsides</td><td>ûpsīd𝕖ṡ</td><td>up-side-s</td><td>ûp-sīd𝕖-ṡ</td><td></td></tr>
 <tr><td>wayside</td><td>wāysīde</td><td>way-side</td><td>wāy-sīde</td><td>n. edge of a way or road or path</td></tr>
-<tr><td>mountainside</td><td>mòuntåinsīde</td><td>moun-tain-side</td><td>mòun-tåin-sīde</td><td>n. the side or slope of a mountain</td></tr>
-<tr><td>sidereal</td><td>sīdėre̊ȧl</td><td>sidereal</td><td>sīdėre̊ȧl</td><td>a. of or relating to the stars or constellations</td></tr>
-<tr><td>desideratum</td><td>dėṡide̊rātům</td><td>de-sider-atum</td><td>dė-ṡide̊r-ātům</td><td>n. something desired as a necessity</td></tr>
+<tr><td>mountainside</td><td>mòuntainsīde</td><td>moun-tain-side</td><td>mòun-tain-sīde</td><td>n. the side or slope of a mountain</td></tr>
+<tr><td>sidereal</td><td>sīdērėål</td><td>sidereal</td><td>sīdērėål</td><td>a. of or relating to the stars or constellations</td></tr>
+<tr><td>desideratum</td><td>dėṡide̊ràtům</td><td>de-sider-atum</td><td>dė-ṡide̊r-àtům</td><td>n. something desired as a necessity</td></tr>
 <tr><td>besieger</td><td>bėsiēge̊r</td><td>be-sieg-er</td><td>bė-siēg-e̊r</td><td>n. an enemy who lays siege to your position</td></tr>
 <tr><td>siege</td><td>siēge</td><td>siege</td><td>siēge</td><td>n. a military operation surrounding a place to force its surrender<br>v. to lay siege to</td></tr>
 <tr><td>besiege</td><td>bėsiēge</td><td>be-siege</td><td>bė-siēge</td><td>vt. to surround with armed forces; to overwhelm with requests</td></tr>
 <tr><td>besieged</td><td>bėsiēg𝕖d</td><td>be-sieg-ed</td><td>bė-siēg-𝕖d</td><td>a. surrounded by hostile forces</td></tr>
-<tr><td>sienna</td><td>siēnnå</td><td>sienna</td><td>siēnnå</td><td>n. an earth color containing ferric oxides; used as a pigment</td></tr>
+<tr><td>sienna</td><td>siennå</td><td>sienna</td><td>siennå</td><td>n. an earth color containing ferric oxides; used as a pigment</td></tr>
 <tr><td>sierra</td><td>sierrå</td><td>sierra</td><td>sierrå</td><td>n. a range of mountains with jagged peaks</td></tr>
 <tr><td>siesta</td><td>siestå</td><td>siesta</td><td>siestå</td><td>n. a nap in the early afternoon</td></tr>
 <tr><td>sieve</td><td>sieve</td><td>sieve</td><td>sieve</td><td>n. a utensil with a mesh bottom for separating solids from liquids<br>v. to separate with a sieve</td></tr>
@@ -2823,12 +2823,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>signify</td><td>si𝕘nifȳ</td><td>sign-ify</td><td>si𝕘n-ifȳ</td><td>v. to convey or indicate a meaning<br>v. to make known by a sign</td></tr>
 <tr><td>signing</td><td>sī𝕘ning</td><td>sign-ing</td><td>sī𝕘n-ing</td><td>n. the act of writing one&#x27;s signature<br>n. communication using sign language</td></tr>
 <tr><td>sign-off</td><td>sī𝕘n-off</td><td>sign-off</td><td>sī𝕘n-off</td><td>n. the closing of a broadcast</td></tr>
-<tr><td>signora</td><td>sĩgnorå</td><td>sign-ora</td><td>sĩgn-orå</td><td>n. an Italian title or form of address for a married woman</td></tr>
+<tr><td>signora</td><td>signorå</td><td>sign-ora</td><td>sign-orå</td><td>n. an Italian title or form of address for a married woman</td></tr>
 <tr><td>signpost</td><td>sī𝕘npōst</td><td>sign-post</td><td>sī𝕘n-pōst</td><td>n. a post bearing a sign that gives directions or shows the way<br>v. mark with a signpost, as of a path</td></tr>
 <tr><td>signs</td><td>sī𝕘nṡ</td><td>sign-s</td><td>sī𝕘n-ṡ</td><td></td></tr>
-<tr><td>signaler</td><td>si𝕘nåle̊r</td><td>sign-al-er</td><td>si𝕘n-ål-e̊r</td><td>n. one who sends signals</td></tr>
+<tr><td>signaler</td><td>signåle̊r</td><td>sign-al-er</td><td>sign-ål-e̊r</td><td>n. one who sends signals</td></tr>
 <tr><td>signaling</td><td>signåling</td><td>sign-al-ing</td><td>sign-ål-ing</td><td>n. any nonverbal action or gesture that encodes a message</td></tr>
-<tr><td>signatory</td><td>signåtorẏ</td><td>sign-at-ory</td><td>sign-åt-orẏ</td><td>n someone who signs and is bound by a document</td></tr>
+<tr><td>signatory</td><td>signåto̊rẏ</td><td>sign-at-ory</td><td>sign-åt-o̊rẏ</td><td>n someone who signs and is bound by a document</td></tr>
 <tr><td>signals</td><td>si𝕘nålṡ</td><td>sign-al-s</td><td>si𝕘n-ål-ṡ</td><td></td></tr>
 <tr><td>signature</td><td>si𝕘nåtůre</td><td>sign-at-ure</td><td>si𝕘n-åt-ůre</td><td>n. a person&#x27;s name written in their own handwriting</td></tr>
 <tr><td>significance</td><td>si𝕘nificånce</td><td>sign-i-fic-ance</td><td>si𝕘n-i-fic-ånce</td><td>n. the quality of being significant<br>n. a meaning that is not expressly stated but can be inferred</td></tr>
@@ -2839,11 +2839,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>significantly</td><td>significåntlẏ</td><td>sign-i-fic-ant-ly</td><td>sign-i-fic-ånt-lẏ</td><td>adv. in a sufficiently great or important way as to be worthy of attention</td></tr>
 <tr><td>assign</td><td>åssī𝕘n</td><td>as-sign</td><td>ås-sī𝕘n</td><td>v. give out or allot<br>v. select something or someone for a specific purpose<br>v. decide as to where something belongs in a scheme</td></tr>
 <tr><td>assigned</td><td>åssī𝕘n𝕖d</td><td>as-sign-ed</td><td>ås-sī𝕘n-𝕖d</td><td>a. appointed to a post or duty</td></tr>
-<tr><td>assignee</td><td>assi𝕘nēe</td><td>as-sign-ee</td><td>as-si𝕘n-ēe</td><td>n. a person to whom a right or property is assigned</td></tr>
+<tr><td>assignee</td><td>åssī𝕘nēe</td><td>as-sign-ee</td><td>ås-sī𝕘n-ēe</td><td>n. a person to whom a right or property is assigned</td></tr>
 <tr><td>assigning</td><td>åssī𝕘ning</td><td>as-sign-ing</td><td>ås-sī𝕘n-ing</td><td></td></tr>
 <tr><td>assignment</td><td>åssī𝕘nme̊nt</td><td>as-sign-ment</td><td>ås-sī𝕘n-me̊nt</td><td>n. a duty that you are assigned to perform<br>n. the act of distributing something to designated places or persons<br>n. an undertaking that you have been assigned to do (as by an instructor)</td></tr>
 <tr><td>assigns</td><td>åssī𝕘nṡ</td><td>as-sign-s</td><td>ås-sī𝕘n-ṡ</td><td></td></tr>
-<tr><td>assignation</td><td>assi𝕘nātio̊n</td><td>as-sign-at-ion</td><td>as-si𝕘n-āt-io̊n</td><td>n. a secret rendezvous (especially between lovers)</td></tr>
+<tr><td>assignation</td><td>åssignātio̊n</td><td>as-sign-at-ion</td><td>ås-sign-āt-io̊n</td><td>n. a secret rendezvous (especially between lovers)</td></tr>
 <tr><td>assignments</td><td>åssī𝕘nme̊nts</td><td>as-sign-ment-s</td><td>ås-sī𝕘n-me̊nt-s</td><td></td></tr>
 <tr><td>consign</td><td>co̊nsī𝕘n</td><td>con-sign</td><td>co̊n-sī𝕘n</td><td>v. commit forever; commit irrevocably<br>v. give over to another for care or safekeeping<br>v. send to an address</td></tr>
 <tr><td>consignment</td><td>co̊nsī𝕘nme̊nt</td><td>con-sign-ment</td><td>co̊n-sī𝕘n-me̊nt</td><td>n. the delivery of goods for sale or disposal</td></tr>
@@ -2851,14 +2851,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>design</td><td>dėṡī𝕘n</td><td>de-sign</td><td>dė-ṡī𝕘n</td><td>n. a plan or drawing produced to show the look and function of something before it is made<br>v. to plan and make decisions about something</td></tr>
 <tr><td>designate</td><td>deṡi𝕘nāte</td><td>de-sign-ate</td><td>de-ṡi𝕘n-āte</td><td>v. to indicate or specify; to appoint to a position<br>a. appointed but not yet installed in office</td></tr>
 <tr><td>designed</td><td>dėṡī𝕘n𝕖d</td><td>de-sign-ed</td><td>dė-ṡī𝕘n-𝕖d</td><td>a. done or made or performed with purpose and intent</td></tr>
-<tr><td>designee</td><td>deṡignēe</td><td>de-sign-ee</td><td>de-ṡign-ēe</td><td>n. a person who has been designated</td></tr>
+<tr><td>designee</td><td>dėṡī𝕘nēe</td><td>de-sign-ee</td><td>dė-ṡī𝕘n-ēe</td><td>n. a person who has been designated</td></tr>
 <tr><td>designer</td><td>dėṡī𝕘ne̊r</td><td>de-sign-er</td><td>dė-ṡī𝕘n-e̊r</td><td>n. a person who devises or designs something<br>a. created by a designer</td></tr>
 <tr><td>designing</td><td>dėṡī𝕘ning</td><td>de-sign-ing</td><td>dė-ṡī𝕘n-ing</td><td>a. concealing crafty designs for advancing your own interest</td></tr>
 <tr><td>designs</td><td>dėṡī𝕘nṡ</td><td>de-sign-s</td><td>dė-ṡī𝕘n-ṡ</td><td></td></tr>
 <tr><td>designated</td><td>deṡignātėd</td><td>de-sign-at-ed</td><td>de-ṡign-āt-ėd</td><td>a. appointed to a particular purpose</td></tr>
-<tr><td>designation</td><td>deṡi̊gnātio̊n</td><td>de-sign-at-ion</td><td>de-ṡi̊gn-āt-io̊n</td><td>n. the act of designating or identifying something</td></tr>
+<tr><td>designation</td><td>deṡignātio̊n</td><td>de-sign-at-ion</td><td>de-ṡign-āt-io̊n</td><td>n. the act of designating or identifying something</td></tr>
 <tr><td>designers</td><td>dėṡī𝕘ne̊rṡ</td><td>de-sign-er-s</td><td>dė-ṡī𝕘n-e̊r-ṡ</td><td></td></tr>
-<tr><td>ensign</td><td>ensi̊𝕘n</td><td>en-sign</td><td>en-si̊𝕘n</td><td>n. a person who holds a commissioned rank in the United States Navy<br>n. colors flown by a ship to show its nationality</td></tr>
+<tr><td>ensign</td><td>ensī𝕘n</td><td>en-sign</td><td>en-sī𝕘n</td><td>n. a person who holds a commissioned rank in the United States Navy<br>n. colors flown by a ship to show its nationality</td></tr>
 <tr><td>insignia</td><td>insigniå</td><td>in-sign-ia</td><td>in-sign-iå</td><td>n. a badge worn to show official position</td></tr>
 <tr><td>insignificance</td><td>insignificånce</td><td>in-sign-i-fic-ance</td><td>in-sign-i-fic-ånce</td><td>n. the quality of having little or no significance</td></tr>
 <tr><td>insignificant</td><td>insi𝕘nificånt</td><td>in-sign-if-ic-ant</td><td>in-si𝕘n-if-ic-ånt</td><td>a. too small or unimportant to be worth consideration</td></tr>
@@ -2867,7 +2867,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>resign</td><td>rėṡī𝕘n</td><td>re-sign</td><td>rė-ṡī𝕘n</td><td>v. to give up a position or job voluntarily</td></tr>
 <tr><td>resigned</td><td>rėṡī𝕘n𝕖d</td><td>re-sign-ed</td><td>rė-ṡī𝕘n-𝕖d</td><td>a. having accepted something undesirable as inevitable</td></tr>
 <tr><td>resignation</td><td>rėṡi𝕘nātio̊n</td><td>re-sign-at-ion</td><td>rė-ṡi𝕘n-āt-io̊n</td><td>n. the act of giving up a job or position<br>n. patient acceptance of something bad</td></tr>
-<tr><td>resignedly</td><td>rėṡī𝕘n𝕖dlẏ</td><td>re-sign-ed-ly</td><td>rė-ṡī𝕘n-𝕖d-lẏ</td><td>adv. with resignation and acceptance; in a resigned manner</td></tr>
+<tr><td>resignedly</td><td>rėṡī𝕘nėdlẏ</td><td>re-sign-ed-ly</td><td>rė-ṡī𝕘n-ėd-lẏ</td><td>adv. with resignation and acceptance; in a resigned manner</td></tr>
 <tr><td>undersigned</td><td>ûnde̊rsī𝕘n𝕖d</td><td>under-sign-ed</td><td>ûnde̊r-sī𝕘n-𝕖d</td><td>a. having signed one&#x27;s name at the bottom of a document</td></tr>
 <tr><td>unsigned</td><td>ûnsī𝕘n𝕖d</td><td>un-sign-ed</td><td>ûn-sī𝕘n-𝕖d</td><td>a. lacking a signature</td></tr>
 <tr><td>reassign</td><td>rēåssī𝕘n</td><td>re-as-sign</td><td>rē-ås-sī𝕘n</td><td>v. transfer somebody to a different position or location of work</td></tr>
@@ -2876,29 +2876,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>redesigned</td><td>rēdėṡī𝕘n𝕖d</td><td>re-de-sign-ed</td><td>rē-dė-ṡī𝕘n-𝕖d</td><td>v. design anew, make a new design for</td></tr>
 <tr><td>unassigned</td><td>ûnåssī𝕘n𝕖d</td><td>un-as-sign-ed</td><td>ûn-ås-sī𝕘n-𝕖d</td><td>a. not assigned</td></tr>
 <tr><td>undesignated</td><td>ûndeṡignātėd</td><td>un-de-sign-at-ed</td><td>ûn-de-ṡign-āt-ėd</td><td>a. not designated or specified</td></tr>
-<tr><td>signorina</td><td>sĩ𝕘no̊rĩnå</td><td>signor-ina</td><td>sĩ𝕘no̊r-ĩnå</td><td>n. an Italian title or form of address for an unmarried woman</td></tr>
+<tr><td>signorina</td><td>sĩgno̊rĩnå</td><td>signor-ina</td><td>sĩgno̊r-ĩnå</td><td>n. an Italian title or form of address for an unmarried woman</td></tr>
 <tr><td>sika</td><td>sĩkå</td><td>sika</td><td>sĩkå</td><td>n. small deer of Japan with slightly forked antlers</td></tr>
-<tr><td>sikh</td><td>sik𝕙</td><td>sikh</td><td>sik𝕙</td><td>n. an adherent of Sikhism<br>a. of or relating to the Sikhs or their religious beliefs and customs</td></tr>
+<tr><td>sikh</td><td>sĩk𝕙</td><td>sikh</td><td>sĩk𝕙</td><td>n. an adherent of Sikhism<br>a. of or relating to the Sikhs or their religious beliefs and customs</td></tr>
 <tr><td>silage</td><td>sīlȧge</td><td>sil-age</td><td>sīl-ȧge</td><td>n. fodder harvested while green and kept succulent by partial fermentation as in a silo</td></tr>
 <tr><td>silence</td><td>sīle̊nce</td><td>sil-ence</td><td>sīl-e̊nce</td><td>n. complete absence of sound<br>v. cause to become silent</td></tr>
 <tr><td>silent</td><td>sīle̊nt</td><td>sil-ent</td><td>sīl-e̊nt</td><td>a. not making any sound</td></tr>
-<tr><td>silica</td><td>sili̊cå</td><td>sil-ica</td><td>sil-i̊cå</td><td>n. a white insoluble solid occurring widely in the earth&#x27;s crust</td></tr>
+<tr><td>silica</td><td>silicå</td><td>sil-ica</td><td>sil-icå</td><td>n. a white insoluble solid occurring widely in the earth&#x27;s crust</td></tr>
 <tr><td>silenced</td><td>sīle̊nc𝕖ḋ</td><td>sil-enc-ed</td><td>sīl-e̊nc-𝕖ḋ</td><td>a. reduced to silence</td></tr>
 <tr><td>silenter</td><td>sīle̊nte̊r</td><td>sil-ent-er</td><td>sīl-e̊nt-e̊r</td><td></td></tr>
 <tr><td>silentest</td><td>sīle̊ntėst</td><td>sil-ent-est</td><td>sīl-e̊nt-ėst</td><td></td></tr>
 <tr><td>silencing</td><td>sīle̊ncing</td><td>sil-enc-ing</td><td>sīl-e̊nc-ing</td><td>v. cause to be quiet; keep from expression</td></tr>
 <tr><td>silently</td><td>sīle̊ntlẏ</td><td>sil-ent-ly</td><td>sīl-e̊nt-lẏ</td><td>adv. without speaking</td></tr>
 <tr><td>silicon</td><td>silico̊n</td><td>sil-ic-on</td><td>sil-ic-o̊n</td><td>n. a nonmetallic element used as a semiconductor in electronics</td></tr>
-<tr><td>silicone</td><td>sili̊cōne</td><td>sil-ic-one</td><td>sil-i̊c-ōne</td><td>n. any of a class of siloxanes unusually stable over a wide range of temperatures</td></tr>
+<tr><td>silicone</td><td>silicōne</td><td>sil-ic-one</td><td>sil-ic-ōne</td><td>n. any of a class of siloxanes unusually stable over a wide range of temperatures</td></tr>
 <tr><td>silencer</td><td>sīle̊nce̊r</td><td>sil-ence-r</td><td>sīl-e̊nce̊-r</td><td>n. a device on the exhaust to reduce noise; a device on a gun to deaden firing sound</td></tr>
 <tr><td>silences</td><td>sīle̊ncėṡ</td><td>sil-ence-s</td><td>sīl-e̊ncė-ṡ</td><td></td></tr>
 <tr><td>resilience</td><td>rėṡilie̊nce</td><td>re-sili-ence</td><td>rė-ṡili-e̊nce</td><td>n. the ability to recover quickly from difficulties<br>n. the ability to spring back into shape</td></tr>
 <tr><td>resiliency</td><td>rėṡilie̊ncẏ</td><td>re-sili-ency</td><td>rė-ṡili-e̊ncẏ</td><td>n. the physical property of returning to original shape after deformation</td></tr>
-<tr><td>resilient</td><td>rėṡilient</td><td>re-sili-ent</td><td>rė-ṡili-ent</td><td>a. able to recover quickly from difficulties<br>a. able to spring back into shape</td></tr>
-<tr><td>silesian</td><td>sīl𝕖sĩàn</td><td>siles-ian</td><td>sīl𝕖s-ĩàn</td><td>a. of or relating to Silesia or its people<br>n. a native or inhabitant of Silesia</td></tr>
+<tr><td>resilient</td><td>rėṡilie̊nt</td><td>re-sili-ent</td><td>rė-ṡili-e̊nt</td><td>a. able to recover quickly from difficulties<br>a. able to spring back into shape</td></tr>
+<tr><td>silesian</td><td>sīlēṡiån</td><td>siles-ian</td><td>sīlēṡ-iån</td><td>a. of or relating to Silesia or its people<br>n. a native or inhabitant of Silesia</td></tr>
 <tr><td>silhouetted</td><td>sil𝕙oūettėd</td><td>silhouett-ed</td><td>sil𝕙oūett-ėd</td><td>v. project on a background like a silhouette</td></tr>
 <tr><td>silhouette</td><td>sil𝕙oūette</td><td>sil-houette</td><td>sil-𝕙oūette</td><td>n. a dark outline of something against a lighter background<br>v. show as a silhouette</td></tr>
-<tr><td>silicate</td><td>sili̊cåte</td><td>silic-ate</td><td>sili̊c-åte</td><td>n. a salt or ester derived from silicic acid</td></tr>
+<tr><td>silicate</td><td>silicāte</td><td>silic-ate</td><td>silic-āte</td><td>n. a salt or ester derived from silicic acid</td></tr>
 <tr><td>silicosis</td><td>silicōsis</td><td>silic-osis</td><td>silic-ōsis</td><td>n. a lung disease caused by inhaling particles of silica or quartz</td></tr>
 <tr><td>siliceous</td><td>siliceo̊us</td><td>silic-e-ous</td><td>silic-e-o̊us</td><td>a. containing silica</td></tr>
 <tr><td>silk</td><td>silk</td><td>silk</td><td>silk</td><td>n. a fine, soft fiber produced by silkworms, woven into cloth</td></tr>
@@ -2910,13 +2910,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>silly</td><td>sillẏ</td><td>sill-y</td><td>sill-ẏ</td><td>a. lacking common sense or judgment; foolish</td></tr>
 <tr><td>sillier</td><td>sillie̊r</td><td>sill-i-er</td><td>sill-i-e̊r</td><td></td></tr>
 <tr><td>silliest</td><td>silliėst</td><td>sill-i-est</td><td>sill-i-ėst</td><td></td></tr>
-<tr><td>silliness</td><td>silline̊ss</td><td>sill-i-ness</td><td>sill-i-ne̊ss</td><td>n. a ludicrous folly; an impulsive scatterbrained manner</td></tr>
+<tr><td>silliness</td><td>sillinėss</td><td>sill-i-ness</td><td>sill-i-nėss</td><td>n. a ludicrous folly; an impulsive scatterbrained manner</td></tr>
 <tr><td>silo</td><td>sīlō</td><td>silo</td><td>sīlō</td><td>n. a cylindrical tower used for storing silage</td></tr>
 <tr><td>silt</td><td>silt</td><td>silt</td><td>silt</td><td>n. mud or clay or small rocks deposited by a river or lake</td></tr>
 <tr><td>silting</td><td>silting</td><td>silt-ing</td><td>silt-ing</td><td>v. become choked with silt</td></tr>
 <tr><td>silty</td><td>siltẏ</td><td>silt-y</td><td>silt-ẏ</td><td>a. full of silt</td></tr>
 <tr><td>siltation</td><td>siltātio̊n</td><td>silt-at-ion</td><td>silt-āt-io̊n</td><td>n. the process of becoming filled with silt</td></tr>
-<tr><td>silurian</td><td>sīlůriån</td><td>silur-ian</td><td>sīlůr-iån</td><td>a. relating to a geological period</td></tr>
+<tr><td>silurian</td><td>silūriån</td><td>silur-ian</td><td>silūr-iån</td><td>a. relating to a geological period</td></tr>
 <tr><td>silva</td><td>silvå</td><td>silva</td><td>silvå</td><td>n. the trees of a forest</td></tr>
 <tr><td>silver</td><td>silve̊r</td><td>silv-er</td><td>silv-e̊r</td><td>n. a soft white precious metal with the highest electrical and thermal conductivity<br>n. coins made of silver<br>v. coat with a layer of silver</td></tr>
 <tr><td>silverback</td><td>silve̊rback</td><td>silv-er-back</td><td>silv-e̊r-back</td><td>n. an adult male gorilla with grey hairs across the back</td></tr>
@@ -2924,7 +2924,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>silverfish</td><td>silve̊rfish</td><td>silv-er-fish</td><td>silv-e̊r-fish</td><td>n. a silver-grey wingless insect feeding on book bindings and starched clothing</td></tr>
 <tr><td>silvers</td><td>silve̊rṡ</td><td>silv-er-s</td><td>silv-e̊r-ṡ</td><td></td></tr>
 <tr><td>silversmith</td><td>silve̊rsmith</td><td>silv-er-smith</td><td>silv-e̊r-smith</td><td>n. someone who makes or repairs articles of silver</td></tr>
-<tr><td>silverware</td><td>silve̊rware</td><td>silv-er-ware</td><td>silv-e̊r-ware</td><td>n. tableware made of silver or silver plate or pewter or stainless steel</td></tr>
+<tr><td>silverware</td><td>silve̊rwāre</td><td>silv-er-ware</td><td>silv-e̊r-wāre</td><td>n. tableware made of silver or silver plate or pewter or stainless steel</td></tr>
 <tr><td>silvery</td><td>silve̊rẏ</td><td>silv-er-y</td><td>silv-e̊r-ẏ</td><td>a. having the lustrous sheen of silver</td></tr>
 <tr><td>silversides</td><td>silve̊rsīd𝕖ṡ</td><td>silv-er-side-s</td><td>silv-e̊r-sīd𝕖-ṡ</td><td>n. small fishes with a silver stripe along each side; abundant along the US Atlantic coast</td></tr>
 <tr><td>simonize</td><td>sīmo̊nīze</td><td>simon-ize</td><td>sīmo̊n-īze</td><td>vt. to polish with wax</td></tr>
@@ -2934,37 +2934,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>similitude</td><td>similitūde</td><td>simil-itude</td><td>simil-itūde</td><td>n similarity in appearance or character or nature between persons or things<br>n a duplicate copy</td></tr>
 <tr><td>similarity</td><td>similaritẏ</td><td>simil-ar-ity</td><td>simil-ar-itẏ</td><td>n. the quality or state of being similar</td></tr>
 <tr><td>similarly</td><td>similårlẏ</td><td>simil-ar-ly</td><td>simil-år-lẏ</td><td>adv. in like or similar manner</td></tr>
-<tr><td>assimilate</td><td>åssimi̊lāte</td><td>as-simil-ate</td><td>ås-simi̊l-āte</td><td>v. to absorb and integrate into a wider culture or group; to digest</td></tr>
-<tr><td>assimilated</td><td>åssimi̊lātėd</td><td>as-simil-at-ed</td><td>ås-simi̊l-āt-ėd</td><td>v. take up mentally<br>v. become similar to one&#x27;s environment</td></tr>
-<tr><td>assimilation</td><td>åssimi̊lātio̊n</td><td>as-simil-at-ion</td><td>ås-simi̊l-āt-io̊n</td><td>n. the process of absorbing or being absorbed</td></tr>
+<tr><td>assimilate</td><td>åssimilāte</td><td>as-simil-ate</td><td>ås-simil-āte</td><td>v. to absorb and integrate into a wider culture or group; to digest</td></tr>
+<tr><td>assimilated</td><td>åssimilātėd</td><td>as-simil-at-ed</td><td>ås-simil-āt-ėd</td><td>v. take up mentally<br>v. become similar to one&#x27;s environment</td></tr>
+<tr><td>assimilation</td><td>åssimilātio̊n</td><td>as-simil-at-ion</td><td>ås-simil-āt-io̊n</td><td>n. the process of absorbing or being absorbed</td></tr>
 <tr><td>assimilative</td><td>åssimilåtive</td><td>as-simil-at-ive</td><td>ås-simil-åt-ive</td><td>a. capable of mentally absorbing</td></tr>
-<tr><td>dissimilar</td><td>dissimi̊lår</td><td>dis-simil-ar</td><td>dis-simi̊l-år</td><td>a. not similar</td></tr>
-<tr><td>dissimilarity</td><td>dissimi̊lari̊tẏ</td><td>dis-simil-ar-ity</td><td>dis-simi̊l-ar-i̊tẏ</td><td>n. the quality of being dissimilar</td></tr>
-<tr><td>facsimile</td><td>facsimi̊lē</td><td>fac-simile</td><td>fac-simi̊lē</td><td>n. an exact copy or reproduction</td></tr>
+<tr><td>dissimilar</td><td>dissimilår</td><td>dis-simil-ar</td><td>dis-simil-år</td><td>a. not similar</td></tr>
+<tr><td>dissimilarity</td><td>dissimilaritẏ</td><td>dis-simil-ar-ity</td><td>dis-simil-ar-itẏ</td><td>n. the quality of being dissimilar</td></tr>
+<tr><td>facsimile</td><td>facsimilė</td><td>fac-simile</td><td>fac-similė</td><td>n. an exact copy or reproduction</td></tr>
 <tr><td>simmer</td><td>simme̊r</td><td>simm-er</td><td>simm-e̊r</td><td>v. to cook gently at a temperature just below boiling</td></tr>
 <tr><td>simmering</td><td>simme̊ring</td><td>simm-er-ing</td><td>simm-e̊r-ing</td><td>a. cooking in a liquid at a gentle boil; about to break out</td></tr>
-<tr><td>simony</td><td>sīmo̊nẏ</td><td>simon-y</td><td>sīmo̊n-ẏ</td><td>n. traffic in ecclesiastical offices or preferments</td></tr>
+<tr><td>simony</td><td>simo̊nẏ</td><td>simon-y</td><td>simo̊n-ẏ</td><td>n. traffic in ecclesiastical offices or preferments</td></tr>
 <tr><td>simper</td><td>simpe̊r</td><td>simp-er</td><td>simp-e̊r</td><td>n. a silly self-conscious smile</td></tr>
 <tr><td>simpering</td><td>simpe̊ring</td><td>simp-er-ing</td><td>simp-e̊r-ing</td><td>a. smiling affectedly or in a silly way</td></tr>
-<tr><td>simpatico</td><td>simpàticō</td><td>simpatico</td><td>simpàticō</td><td>a. likable, agreeable</td></tr>
+<tr><td>simpatico</td><td>simpaticō</td><td>simpatico</td><td>simpaticō</td><td>a. likable, agreeable</td></tr>
 <tr><td>simplify</td><td>simplifȳ</td><td>simpl-ify</td><td>simpl-ifȳ</td><td>v. make simpler or easier or reduce in complexity or extent</td></tr>
 <tr><td>simple</td><td>simple</td><td>simp-le</td><td>simp-le</td><td>a. easily understood or done; not complicated<br>a. plain and basic; not ornate</td></tr>
 <tr><td>simply</td><td>simplẏ</td><td>simpl-y</td><td>simpl-ẏ</td><td>adv. in a simple or straightforward way; merely; just</td></tr>
 <tr><td>simpler</td><td>simple̊r</td><td>simp-l-er</td><td>simp-l-e̊r</td><td></td></tr>
 <tr><td>simplest</td><td>simplėst</td><td>simp-l-est</td><td>simp-l-ėst</td><td></td></tr>
 <tr><td>simplicity</td><td>simplicitẏ</td><td>simpl-ic-ity</td><td>simpl-ic-itẏ</td><td>n. the quality of being easy to understand or do<br>n. the state of being plain or natural</td></tr>
-<tr><td>simplifying</td><td>simpli̊fȳing</td><td>simpl-ify-ing</td><td>simpl-i̊fȳ-ing</td><td>v. make simpler or easier or reduce in complexity or extent</td></tr>
+<tr><td>simplifying</td><td>simplifȳing</td><td>simpl-ify-ing</td><td>simpl-ifȳ-ing</td><td>v. make simpler or easier or reduce in complexity or extent</td></tr>
 <tr><td>simplistic</td><td>simplistic</td><td>simpl-ist-ic</td><td>simpl-ist-ic</td><td>a. treating complex issues as if they were simpler than they are</td></tr>
 <tr><td>simpleton</td><td>simpl𝕖to̊n</td><td>simp-le-ton</td><td>simp-l𝕖-to̊n</td><td>n. a person lacking intelligence or common sense</td></tr>
 <tr><td>simplex</td><td>simplex</td><td>simp-le-x</td><td>simp-le-x</td><td>a. allowing communication in only one direction at a time<br>a. having only one part or element</td></tr>
-<tr><td>simplified</td><td>simpli̊fī𝕖d</td><td>simpl-i-fi-ed</td><td>simpl-i̊-fī-𝕖d</td><td>a. made easy or uncomplicated</td></tr>
-<tr><td>simplification</td><td>simpli̊ficātio̊n</td><td>simpl-i-fic-at-ion</td><td>simpl-i̊-fic-āt-io̊n</td><td>n. elimination of superfluous details</td></tr>
+<tr><td>simplified</td><td>simplifī𝕖d</td><td>simpl-i-fi-ed</td><td>simpl-i-fī-𝕖d</td><td>a. made easy or uncomplicated</td></tr>
+<tr><td>simplification</td><td>simplificātio̊n</td><td>simpl-i-fic-at-ion</td><td>simpl-i-fic-āt-io̊n</td><td>n. elimination of superfluous details</td></tr>
 <tr><td>simplistically</td><td>simplisticållẏ</td><td>simpl-ist-ic-al-ly</td><td>simpl-ist-ic-ål-lẏ</td><td>adv. in an oversimplified manner</td></tr>
 <tr><td>oversimplify</td><td>ōve̊rsimplifȳ</td><td>over-simpl-ify</td><td>ōve̊r-simpl-ifȳ</td><td>v. to simplify to an excessive degree</td></tr>
 <tr><td>oversimplified</td><td>ōve̊rsimplifī𝕖d</td><td>over-simpl-i-fi-ed</td><td>ōve̊r-simpl-i-fī-𝕖d</td><td>a. made too simple; reduced to a level that loses important details</td></tr>
 <tr><td>oversimplification</td><td>ōve̊rsimplificātio̊n</td><td>over-simpl-i-fic-at-ion</td><td>ōve̊r-simpl-i-fic-āt-io̊n</td><td>n. the act of making something seem simpler than it really is</td></tr>
-<tr><td>simulate</td><td>simūlåte</td><td>simul-ate</td><td>simūl-åte</td><td>v. make a pretence of</td></tr>
-<tr><td>simulcast</td><td>sīmūlcast</td><td>simul-cast</td><td>sīmūl-cast</td><td>n. a broadcast carried simultaneously by radio and television</td></tr>
+<tr><td>simulate</td><td>simūlāte</td><td>simul-ate</td><td>simūl-āte</td><td>v. make a pretence of</td></tr>
+<tr><td>simulcast</td><td>simůlcàst</td><td>simul-cast</td><td>simůl-càst</td><td>n. a broadcast carried simultaneously by radio and television</td></tr>
 <tr><td>simulated</td><td>simūlātėd</td><td>simul-at-ed</td><td>simūl-āt-ėd</td><td>a. not real but made to look real</td></tr>
 <tr><td>simulating</td><td>simūlāting</td><td>simul-at-ing</td><td>simūl-āt-ing</td><td></td></tr>
 <tr><td>simulation</td><td>simūlātio̊n</td><td>simul-at-ion</td><td>simūl-āt-io̊n</td><td>n. the imitation of the operation of a real-world process or system</td></tr>
@@ -2973,11 +2973,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>simulations</td><td>simūlātio̊nṡ</td><td>simul-at-ion-s</td><td>simūl-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>dissimulate</td><td>dissimūlāte</td><td>dis-simul-ate</td><td>dis-simūl-āte</td><td>v. hide (feelings) from other people</td></tr>
 <tr><td>dissimulation</td><td>dissimūlātio̊n</td><td>dis-simul-at-ion</td><td>dis-simūl-āt-io̊n</td><td>n. the act of deceiving</td></tr>
-<tr><td>simulacrum</td><td>simùlācrům</td><td>simulacrum</td><td>simùlācrům</td><td>n. an insubstantial or vague semblance</td></tr>
+<tr><td>simulacrum</td><td>simūlācrům</td><td>simulacrum</td><td>simūlācrům</td><td>n. an insubstantial or vague semblance</td></tr>
 <tr><td>simultaneous</td><td>simůltānėo̊us</td><td>simult-ane-ous</td><td>simůlt-ānė-o̊us</td><td>a. occurring or operating at the same time</td></tr>
 <tr><td>simultaneity</td><td>simůltånēitẏ</td><td>simult-an-e-ity</td><td>simůlt-ån-ē-itẏ</td><td>n. happening or existing or done at the same time</td></tr>
-<tr><td>simultaneously</td><td>sīmůltānēo̊uslẏ</td><td>simult-ane-ous-ly</td><td>sīmůlt-ānē-o̊us-lẏ</td><td>adv. at the same time</td></tr>
-<tr><td>simvastatin</td><td>simvàstātin</td><td>simvastatin</td><td>simvàstātin</td><td>n. a drug used to lower cholesterol levels</td></tr>
+<tr><td>simultaneously</td><td>simůltānėo̊uslẏ</td><td>simult-ane-ous-ly</td><td>simůlt-ānė-o̊us-lẏ</td><td>adv. at the same time</td></tr>
+<tr><td>simvastatin</td><td>simvastatin</td><td>simvastatin</td><td>simvastatin</td><td>n. a drug used to lower cholesterol levels</td></tr>
 <tr><td>sin</td><td>sin</td><td>sin</td><td>sin</td><td>n. an act that breaks a moral or religious law<br>v. to commit a sin</td></tr>
 <tr><td>sinner</td><td>sinne̊r</td><td>sinn-er</td><td>sinn-e̊r</td><td>n. a person who sins without repenting</td></tr>
 <tr><td>sinful</td><td>sinfůl</td><td>sin-ful</td><td>sin-fůl</td><td>a. having committed unrighteous acts</td></tr>
@@ -2993,7 +2993,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sincerity</td><td>sinceritẏ</td><td>sinc-er-ity</td><td>sinc-er-itẏ</td><td>n. the quality of being honest and genuine</td></tr>
 <tr><td>sincerely</td><td>sincēr𝕖lẏ</td><td>sinc-ere-ly</td><td>sinc-ēr𝕖-lẏ</td><td>adv. with sincerity; without pretense</td></tr>
 <tr><td>insincere</td><td>insincēre</td><td>in-sinc-ere</td><td>in-sinc-ēre</td><td>a. lacking sincerity; not expressing genuine feelings</td></tr>
-<tr><td>insincerity</td><td>insincèritẏ</td><td>in-sinc-er-ity</td><td>in-sinc-èr-itẏ</td><td>n. the quality of not being open or truthful; deceitful or hypocritical</td></tr>
+<tr><td>insincerity</td><td>insinceritẏ</td><td>in-sinc-er-ity</td><td>in-sinc-er-itẏ</td><td>n. the quality of not being open or truthful; deceitful or hypocritical</td></tr>
 <tr><td>insincerely</td><td>insincēr𝕖lẏ</td><td>in-sinc-ere-ly</td><td>in-sinc-ēr𝕖-lẏ</td><td>adv. without sincerity</td></tr>
 <tr><td>sine</td><td>sīne</td><td>sine</td><td>sīne</td><td>n. the ratio of the opposite side to the hypotenuse in a right-angled triangle</td></tr>
 <tr><td>sinew</td><td>sinew̄</td><td>sinew</td><td>sinew̄</td><td>n. a tendon; a source of strength or power</td></tr>
@@ -3010,7 +3010,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sung</td><td>sûng</td><td>sung</td><td>sûng</td><td>v. past participle of sing</td></tr>
 <tr><td>unsung</td><td>ûnsûng</td><td>un-sung</td><td>ûn-sûng</td><td>a. not famous or acclaimed</td></tr>
 <tr><td>Singapore</td><td>Singåpore</td><td>Singapore</td><td>Singåpore</td><td>n. a country in Southeast Asia</td></tr>
-<tr><td>singaporean</td><td>singåporēan</td><td>singapore-an</td><td>singåporē-an</td><td>n. a native or inhabitant of Singapore<br>a. of or relating to Singapore</td></tr>
+<tr><td>singaporean</td><td>singåporėån</td><td>singapore-an</td><td>singåporė-ån</td><td>n. a native or inhabitant of Singapore<br>a. of or relating to Singapore</td></tr>
 <tr><td>singe</td><td>singe</td><td>singe</td><td>singe</td><td>v. burn superficially or lightly</td></tr>
 <tr><td>singed</td><td>sing𝕖d</td><td>sing-ed</td><td>sing-𝕖d</td><td>v. burn superficially or lightly</td></tr>
 <tr><td>single</td><td>single</td><td>single</td><td>single</td><td>a. only one; not one of several<br>n. a single record or song</td></tr>
@@ -3023,7 +3023,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>singular</td><td>singūlår</td><td>sing-ul-ar</td><td>sing-ūl-år</td><td>n. the form of a word denoting one thing<br>a. single; remarkable or exceptional</td></tr>
 <tr><td>singularity</td><td>singūlaritẏ</td><td>sing-ul-ar-ity</td><td>sing-ūl-ar-itẏ</td><td>n. the quality of being one of a kind<br>n. strangeness by virtue of being remarkable or unusual</td></tr>
 <tr><td>singularly</td><td>singūlårlẏ</td><td>sing-ul-ar-ly</td><td>sing-ūl-år-lẏ</td><td>adv. in a remarkable or notable manner</td></tr>
-<tr><td>sinhalese</td><td>sin𝕙ålēṡe</td><td>sinhal-ese</td><td>sin𝕙ål-ēṡe</td><td>n. a native or inhabitant of Sri Lanka<br>a. of or relating to Sri Lanka or its people or language</td></tr>
+<tr><td>sinhalese</td><td>sinhålēṡe</td><td>sinhal-ese</td><td>sinhål-ēṡe</td><td>n. a native or inhabitant of Sri Lanka<br>a. of or relating to Sri Lanka or its people or language</td></tr>
 <tr><td>Sinis</td><td></td><td>Sinis</td><td></td><td>n. a robber in Greek mythology</td></tr>
 <tr><td>sink</td><td>sink</td><td>sink</td><td>sink</td><td>n. a plumbing fixture consisting of a water basin with a drainpipe<br>v. fall or descend to a lower place or level<br>v. cause to sink</td></tr>
 <tr><td>sinker</td><td>sinke̊r</td><td>sink-er</td><td>sink-e̊r</td><td>n. a weight used to sink fishing lines or nets; a pitch that curves downward</td></tr>
@@ -3034,28 +3034,28 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sank</td><td>sank</td><td>sank</td><td>sank</td><td></td></tr>
 <tr><td>sunk</td><td>sûnk</td><td>sunk</td><td>sûnk</td><td>v. past participle of sink<br>a. doomed or destroyed</td></tr>
 <tr><td>sunken</td><td>sûnke̊n</td><td>sunk-en</td><td>sûnk-e̊n</td><td>a. having a sunken area; submerged</td></tr>
-<tr><td>absinth</td><td>absinth</td><td>ab-sinth</td><td>ab-sinth</td><td>n. a strong green alcoholic drink made with wormwood</td></tr>
+<tr><td>absinth</td><td>åbsinth</td><td>ab-sinth</td><td>åb-sinth</td><td>n. a strong green alcoholic drink made with wormwood</td></tr>
 <tr><td>absinthe</td><td>absinthe</td><td>ab-sinthe</td><td>ab-sinthe</td><td>n. a strong green liqueur flavored with wormwood and anise</td></tr>
 <tr><td>sinuate</td><td>sinūāte</td><td>sinu-ate</td><td>sinū-āte</td><td>a. having a wavy margin</td></tr>
-<tr><td>sinuous</td><td>sinùo̊us</td><td>sinu-ous</td><td>sinù-o̊us</td><td>a. curved or curving in and out</td></tr>
+<tr><td>sinuous</td><td>sinūo̊us</td><td>sinu-ous</td><td>sinū-o̊us</td><td>a. curved or curving in and out</td></tr>
 <tr><td>sinuously</td><td>sinūo̊uslẏ</td><td>sinu-ous-ly</td><td>sinū-o̊us-lẏ</td><td>adv. in a sinuous manner</td></tr>
 <tr><td>insinuate</td><td>insinūāte</td><td>in-sinu-ate</td><td>in-sinū-āte</td><td>v. introduce or insert (oneself) in a subtle manner</td></tr>
 <tr><td>insinuating</td><td>insinūāting</td><td>in-sinu-at-ing</td><td>in-sinū-āt-ing</td><td>v. introduce or insert (oneself) in a subtle manner<br>v. give to understand<br>a. calculated to please or gain favor (insinuate的现在分词)</td></tr>
 <tr><td>insinuation</td><td>insinūātio̊n</td><td>in-sinu-at-ion</td><td>in-sinū-āt-io̊n</td><td>n. an indirect (and usually malicious) implication</td></tr>
 <tr><td>sinus</td><td>sīnůs</td><td>sinus</td><td>sīnůs</td><td>n. a cavity in a bone or other tissue</td></tr>
 <tr><td>sinusitis</td><td>sīnūsītis</td><td>sinus-itis</td><td>sīnūs-ītis</td><td>n. inflammation of one of the paranasal sinuses</td></tr>
-<tr><td>sinusoid</td><td>sīnūsoid</td><td>sinus-oid</td><td>sīnūs-oid</td><td>n. tiny endothelium-lined passages for blood in the tissue of an organ</td></tr>
-<tr><td>sinusoidal</td><td>sīnūsoidål</td><td>sinus-oid-al</td><td>sīnūs-oid-ål</td><td>a. having a succession of waves or curves</td></tr>
+<tr><td>sinusoid</td><td>sīnůsoid</td><td>sinus-oid</td><td>sīnůs-oid</td><td>n. tiny endothelium-lined passages for blood in the tissue of an organ</td></tr>
+<tr><td>sinusoidal</td><td>sīnůsoidål</td><td>sinus-oid-al</td><td>sīnůs-oid-ål</td><td>a. having a succession of waves or curves</td></tr>
 <tr><td>sioux</td><td>s𝕚oū𝕩</td><td>sioux</td><td>s𝕚oū𝕩</td><td>n. a member of a group of North American Indian peoples</td></tr>
 <tr><td>sip</td><td>sip</td><td>sip</td><td>sip</td><td>n. a small amount drunk at one time<br>v. to drink slowly, taking small mouthfuls</td></tr>
 <tr><td>sipper</td><td>sippe̊r</td><td>sipp-er</td><td>sipp-e̊r</td><td>n. a drinker who sips</td></tr>
 <tr><td>sips</td><td>sips</td><td>sip-s</td><td>sip-s</td><td></td></tr>
 <tr><td>sippy</td><td>sippẏ</td><td>sipp-y</td><td>sipp-ẏ</td><td>a. designed for young children to drink from without spilling</td></tr>
 <tr><td>dissipate</td><td>dissipāte</td><td>dis-sip-ate</td><td>dis-sip-āte</td><td>v. scatter or disperse; drive away<br>v. spend wastefully</td></tr>
-<tr><td>dissipated</td><td>dissi̊pātėd</td><td>dis-sip-at-ed</td><td>dis-si̊p-āt-ėd</td><td>a. preoccupied with the pursuit of pleasure and especially games of chance</td></tr>
+<tr><td>dissipated</td><td>dissipātėd</td><td>dis-sip-at-ed</td><td>dis-sip-āt-ėd</td><td>a. preoccupied with the pursuit of pleasure and especially games of chance</td></tr>
 <tr><td>dissipation</td><td>dissipātio̊n</td><td>dis-sip-at-ion</td><td>dis-sip-āt-io̊n</td><td>n. breaking up and scattering by dispersion</td></tr>
-<tr><td>dissipative</td><td>dissi̊pātive</td><td>dis-sip-at-ive</td><td>dis-si̊p-āt-ive</td><td>a. tending to dissipate or waste energy</td></tr>
-<tr><td>insipid</td><td>insipi̊d</td><td>in-sip-id</td><td>in-sip-i̊d</td><td>a. lacking interest or significance or impact</td></tr>
+<tr><td>dissipative</td><td>dissipåtive</td><td>dis-sip-at-ive</td><td>dis-sip-åt-ive</td><td>a. tending to dissipate or waste energy</td></tr>
+<tr><td>insipid</td><td>insipid</td><td>in-sip-id</td><td>in-sip-id</td><td>a. lacking interest or significance or impact</td></tr>
 <tr><td>siphon</td><td>sīpho̊n</td><td>siphon</td><td>sīpho̊n</td><td>n. a tube used to draw liquid upward<br>v. to draw off through a siphon</td></tr>
 <tr><td>sir</td><td>si̊r</td><td>sir</td><td>si̊r</td><td>n. term of address for a man<br>n. a title used before the name of knight or baronet</td></tr>
 <tr><td>siren</td><td>sīre̊n</td><td>sir-en</td><td>sīr-e̊n</td><td>n. a device that makes a loud warning sound<br>n. a woman considered to be alluring</td></tr>
@@ -3071,12 +3071,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>desires</td><td>dėṡīr𝕖ṡ</td><td>de-sire-s</td><td>dė-ṡīr𝕖-ṡ</td><td></td></tr>
 <tr><td>desirability</td><td>dėṡīråbilitẏ</td><td>de-sir-abil-ity</td><td>dė-ṡīr-åbil-itẏ</td><td>n. the quality of being worthy of desire</td></tr>
 <tr><td>undesirable</td><td>ûndėsīråble</td><td>un-de-sir-able</td><td>ûn-dė-sīr-åble</td><td>a. not wanted or desirable</td></tr>
-<tr><td>undesired</td><td>ûndėṡīre̊d</td><td>un-de-sir-ed</td><td>ûn-dė-ṡīr-e̊d</td><td>a. not desired</td></tr>
+<tr><td>undesired</td><td>ûndėṡīr𝕖d</td><td>un-de-sir-ed</td><td>ûn-dė-ṡīr-𝕖d</td><td>a. not desired</td></tr>
 <tr><td>undesirability</td><td>ûndėṡīråbilitẏ</td><td>un-de-sir-abil-ity</td><td>ûn-dė-ṡīr-åbil-itẏ</td><td>n. the quality possessed by something that should be avoided</td></tr>
 <tr><td>sire</td><td>sīre</td><td>sire</td><td>sīre</td><td>n. a title of address formerly used for a man of rank and authority<br>n. male parent of an animal especially a domestic animal</td></tr>
 <tr><td>sis</td><td>sis</td><td>sis</td><td>sis</td><td>n. a female person who has the same parents as another person</td></tr>
 <tr><td>sissy</td><td>sissẏ</td><td>siss-y</td><td>siss-ẏ</td><td>n. a timid man or boy considered childish or unassertive</td></tr>
-<tr><td>sisal</td><td>sisål</td><td>sisal</td><td>sisål</td><td>n. a stiff fiber used for making rope, obtained from the leaves of a tropical plant</td></tr>
+<tr><td>sisal</td><td>sīṡål</td><td>sisal</td><td>sīṡål</td><td>n. a stiff fiber used for making rope, obtained from the leaves of a tropical plant</td></tr>
 <tr><td>sister</td><td>siste̊r</td><td>sist-er</td><td>sist-e̊r</td><td>n. a woman or girl in relation to other children of the same parents</td></tr>
 <tr><td>sisterhood</td><td>siste̊rhood</td><td>sist-er-hood</td><td>sist-e̊r-hood</td><td>n. the bond between sisters<br>n. an association of women united by a common interest</td></tr>
 <tr><td>sisterly</td><td>siste̊rlẏ</td><td>sist-er-ly</td><td>sist-e̊r-lẏ</td><td>a. like or characteristic of or befitting a sister</td></tr>
@@ -3084,7 +3084,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>assist</td><td>åssist</td><td>as-sist</td><td>ås-sist</td><td>n. the act of enabling another player to make a good play<br>v. act as an assistant in a subordinate or supportive function</td></tr>
 <tr><td>assistance</td><td>åssistånce</td><td>as-sist-ance</td><td>ås-sist-ånce</td><td>n. the action of helping someone</td></tr>
 <tr><td>assistant</td><td>åssistånt</td><td>as-sist-ant</td><td>ås-sist-ånt</td><td>n. a person who contributes to fulfilling a need or furthering a purpose</td></tr>
-<tr><td>assisted</td><td>åssist𝕖d</td><td>as-sist-ed</td><td>ås-sist-𝕖d</td><td>a. having help; often used as a combining form</td></tr>
+<tr><td>assisted</td><td>åssistėd</td><td>as-sist-ed</td><td>ås-sist-ėd</td><td>a. having help; often used as a combining form</td></tr>
 <tr><td>assisting</td><td>åssisting</td><td>as-sist-ing</td><td>ås-sist-ing</td><td>v. give help or assistance; be of service</td></tr>
 <tr><td>assistive</td><td>åssistive</td><td>as-sist-ive</td><td>ås-sist-ive</td><td>a. giving assistance</td></tr>
 <tr><td>assists</td><td>åssists</td><td>as-sist-s</td><td>ås-sist-s</td><td></td></tr>
@@ -3121,11 +3121,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>inconsistency</td><td>inco̊nsiste̊ncẏ</td><td>in-con-sist-ency</td><td>in-co̊n-sist-e̊ncẏ</td><td>n. the state of being inconsistent</td></tr>
 <tr><td>inconsistent</td><td>inco̊nsiste̊nt</td><td>in-con-sist-ent</td><td>in-co̊n-sist-e̊nt</td><td>a. not staying the same; not compatible with something else</td></tr>
 <tr><td>inconsistently</td><td>inco̊nsiste̊ntlẏ</td><td>in-con-sist-ent-ly</td><td>in-co̊n-sist-e̊nt-lẏ</td><td>adv. without showing consistency</td></tr>
-<tr><td>irresistible</td><td>irrėṡisti̊ble</td><td>ir-re-sist-ible</td><td>ir-rė-ṡist-i̊ble</td><td>a. too attractive or compelling to be resisted</td></tr>
-<tr><td>irresistibly</td><td>irrėṡisti̊blẏ</td><td>ir-re-sist-ib-ly</td><td>ir-rė-ṡist-i̊b-lẏ</td><td>adv. in a manner that cannot be resisted</td></tr>
+<tr><td>irresistible</td><td>irrėṡistible</td><td>ir-re-sist-ible</td><td>ir-rė-ṡist-ible</td><td>a. too attractive or compelling to be resisted</td></tr>
+<tr><td>irresistibly</td><td>irrėṡistiblẏ</td><td>ir-re-sist-ib-ly</td><td>ir-rė-ṡist-ib-lẏ</td><td>adv. in a manner that cannot be resisted</td></tr>
 <tr><td>unassisted</td><td>ûnåssistėd</td><td>un-as-sist-ed</td><td>ûn-ås-sist-ėd</td><td>a. lacking help</td></tr>
 <tr><td>sistine</td><td>sistĩne</td><td>sistine</td><td>sistĩne</td><td>a. of or pertaining to Pope Sixtus</td></tr>
-<tr><td>sisyphean</td><td>sisẏphėån</td><td>sisyph-ean</td><td>sisẏph-ėån</td><td>a. of or relating to Sisyphus; requiring endless and futile effort</td></tr>
+<tr><td>sisyphean</td><td>sisẏphēån</td><td>sisyph-ean</td><td>sisẏph-ēån</td><td>a. of or relating to Sisyphus; requiring endless and futile effort</td></tr>
 <tr><td>sit</td><td>sit</td><td>sit</td><td>sit</td><td>v. to rest on one&#x27;s buttocks; to be located; to be in session</td></tr>
 <tr><td>site</td><td>sīte</td><td>site</td><td>sīte</td><td>n. an area of ground on which something is built or occurs<br>vt. to fix in a certain place</td></tr>
 <tr><td>sitcom</td><td>sitcom</td><td>sit-com</td><td>sit-com</td><td>n. a humorous television program based on everyday situations</td></tr>
@@ -3151,11 +3151,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>babysitters</td><td>bābẏsitte̊rṡ</td><td>baby-sitt-er-s</td><td>bābẏ-sitt-e̊r-ṡ</td><td></td></tr>
 <tr><td>parasite</td><td>paråsīte</td><td>para-site</td><td>parå-sīte</td><td>n. an animal or plant that lives in or on a host</td></tr>
 <tr><td>parasitic</td><td>paråsitic</td><td>para-sit-ic</td><td>parå-sit-ic</td><td>a. relating to parasites; living off another</td></tr>
-<tr><td>parasitism</td><td>paråsītiṡm</td><td>para-sit-ism</td><td>parå-sīt-iṡm</td><td>n. a relationship between organisms where one benefits by causing damage to the other</td></tr>
-<tr><td>parasitize</td><td>paråsītīze</td><td>para-sit-ize</td><td>parå-sīt-īze</td><td>v. live in or on (a host) as a parasite</td></tr>
-<tr><td>parasitoid</td><td>paråsītoid</td><td>para-sit-oid</td><td>parå-sīt-oid</td><td>n. an insect whose larvae parasitize and eventually kill other insects</td></tr>
+<tr><td>parasitism</td><td>paråsitiṡm</td><td>para-sit-ism</td><td>parå-sit-iṡm</td><td>n. a relationship between organisms where one benefits by causing damage to the other</td></tr>
+<tr><td>parasitize</td><td>paråsitīze</td><td>para-sit-ize</td><td>parå-sit-īze</td><td>v. live in or on (a host) as a parasite</td></tr>
+<tr><td>parasitoid</td><td>paråsitoid</td><td>para-sit-oid</td><td>parå-sit-oid</td><td>n. an insect whose larvae parasitize and eventually kill other insects</td></tr>
 <tr><td>parasitical</td><td>paråsiticål</td><td>para-sit-ic-al</td><td>parå-sit-ic-ål</td><td>a. relating to or caused by parasites<br>a. having the nature or habits of a parasite</td></tr>
-<tr><td>resit</td><td>rēsit</td><td>re-sit</td><td>rē-sit</td><td>v. to take an exam again</td></tr>
+<tr><td>resit</td><td>rėsit</td><td>re-sit</td><td>rė-sit</td><td>v. to take an exam again</td></tr>
 <tr><td>sat</td><td>sat</td><td>sat</td><td>sat</td><td></td></tr>
 <tr><td>sitar</td><td>sitàr</td><td>sitar</td><td>sitàr</td><td>n. a stringed instrument of India with a long neck, movable frets and metal strings</td></tr>
 <tr><td>six</td><td>six</td><td>six</td><td>six</td><td>num. the number equivalent to the sum of five and one; 6</td></tr>
@@ -3169,10 +3169,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sixteens</td><td>sixtēenṡ</td><td>six-teen-s</td><td>six-tēen-ṡ</td><td></td></tr>
 <tr><td>sixths</td><td>sixths</td><td>six-th-s</td><td>six-th-s</td><td></td></tr>
 <tr><td>sixteenth</td><td>sixtēenth</td><td>six-teen-th</td><td>six-tēen-th</td><td>num. coming next after the fifteenth in position</td></tr>
-<tr><td>sixtieth</td><td>sixtiēth</td><td>six-t-i-eth</td><td>six-t-i-ēth</td><td>num. the ordinal number of sixty in counting order</td></tr>
+<tr><td>sixtieth</td><td>sixtie̊th</td><td>six-t-i-eth</td><td>six-t-i-e̊th</td><td>num. the ordinal number of sixty in counting order</td></tr>
 <tr><td>size</td><td>sīze</td><td>size</td><td>sīze</td><td>n. the relative extent of something; how big something is<br>vt. to arrange according to size</td></tr>
 <tr><td>sizable</td><td>sīzåble</td><td>siz-able</td><td>sīz-åble</td><td>a. fairly large</td></tr>
-<tr><td>sizeable</td><td>sīze̊able</td><td>size-able</td><td>sīze̊-able</td><td>a. fairly large</td></tr>
+<tr><td>sizeable</td><td>sīz𝕖åble</td><td>size-able</td><td>sīz𝕖-åble</td><td>a. fairly large</td></tr>
 <tr><td>sized</td><td>sīz𝕖d</td><td>siz-ed</td><td>sīz-𝕖d</td><td>a. having a specified size</td></tr>
 <tr><td>sizing</td><td>sīzing</td><td>siz-ing</td><td>sīz-ing</td><td>n. any glutinous material used to fill pores in surfaces or to stiffen fabrics</td></tr>
 <tr><td>sizes</td><td>sīzėṡ</td><td>size-s</td><td>sīzė-ṡ</td><td></td></tr>
@@ -3180,7 +3180,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>capsize</td><td>capsīze</td><td>cap-size</td><td>cap-sīze</td><td>v. overturn accidentally</td></tr>
 <tr><td>oversize</td><td>ōve̊rsīze</td><td>over-size</td><td>ōve̊r-sīze</td><td>a. larger than normal for its kind</td></tr>
 <tr><td>oversized</td><td>ōve̊rsīz𝕖d</td><td>over-siz-ed</td><td>ōve̊r-sīz-𝕖d</td><td>a. larger than normal size</td></tr>
-<tr><td>resize</td><td>rèṡīze</td><td>re-size</td><td>rè-ṡīze</td><td>v. to change the size of something</td></tr>
+<tr><td>resize</td><td>rėsīze</td><td>re-size</td><td>rė-sīze</td><td>v. to change the size of something</td></tr>
 <tr><td>supersize</td><td>sūpe̊rsīze</td><td>super-size</td><td>sūpe̊r-sīze</td><td>v. make extremely large<br>n. an extra large portion of food</td></tr>
 <tr><td>undersize</td><td>ûnde̊rsīze</td><td>under-size</td><td>ûnde̊r-sīze</td><td>a. smaller than normal for its kind</td></tr>
 <tr><td>undersized</td><td>ûnde̊rsīz𝕖d</td><td>under-siz-ed</td><td>ûnde̊r-sīz-𝕖d</td><td>a. smaller than normal for its kind</td></tr>
@@ -3188,7 +3188,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sizzle</td><td>sizzle</td><td>sizz-le</td><td>sizz-le</td><td>n. a sizzling noise<br>v. make a sound like frying fat<br>v. seethe with deep anger or resentment<br>v. burn or sear with a sizzling sound</td></tr>
 <tr><td>sizzling</td><td>sizzling</td><td>sizz-ling</td><td>sizz-ling</td><td>a. hot enough to burn with a hissing sound</td></tr>
 <tr><td>ska</td><td>skà</td><td>ska</td><td>skà</td><td>n. a style of Jamaican popular music combining elements of Caribbean calypso and jazz</td></tr>
-<tr><td>skald</td><td>skãld</td><td>skald</td><td>skãld</td><td>n. a Scandinavian poet of the Middle Ages</td></tr>
+<tr><td>skald</td><td>skald</td><td>skald</td><td>skald</td><td>n. a Scandinavian poet of the Middle Ages</td></tr>
 <tr><td>skank</td><td>skank</td><td>skank</td><td>skank</td><td>n. a rhythmic dance to reggae music<br>n. (slang) an unattractive or unpleasant person</td></tr>
 <tr><td>skanks</td><td>skanks</td><td>skank-s</td><td>skank-s</td><td></td></tr>
 <tr><td>skanky</td><td>skankẏ</td><td>skank-y</td><td>skank-ẏ</td><td>a. highly offensive; arousing aversion or disgust</td></tr>
@@ -3198,22 +3198,22 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>skater</td><td>skāte̊r</td><td>skat-er</td><td>skāt-e̊r</td><td>n. someone who skates</td></tr>
 <tr><td>skating</td><td>skāting</td><td>skat-ing</td><td>skāt-ing</td><td>n. the sport or activity of gliding on skates</td></tr>
 <tr><td>skates</td><td>skāt𝕖s</td><td>skate-s</td><td>skāt𝕖-s</td><td></td></tr>
-<tr><td>skateboarder</td><td>skātebōarde̊r</td><td>skate-board-er</td><td>skāte-bōard-e̊r</td><td>n. someone who skates on a skateboard</td></tr>
+<tr><td>skateboarder</td><td>skāt𝕖bōarde̊r</td><td>skate-board-er</td><td>skāt𝕖-bōard-e̊r</td><td>n. someone who skates on a skateboard</td></tr>
 <tr><td>skateboarding</td><td>skāt𝕖bōarding</td><td>skate-board-ing</td><td>skāt𝕖-bōard-ing</td><td>n. the sport of skating on a skateboard</td></tr>
-<tr><td>skedaddle</td><td>skėdaddle</td><td>skedaddle</td><td>skėdaddle</td><td>n. a hasty flight<br>v. run away, as if in a panic</td></tr>
+<tr><td>skedaddle</td><td>skedaddle</td><td>skedaddle</td><td>skedaddle</td><td>n. a hasty flight<br>v. run away, as if in a panic</td></tr>
 <tr><td>skeet</td><td>skēet</td><td>skeet</td><td>skēet</td><td>n. the sport of shooting at clay pigeons simulating bird flight</td></tr>
 <tr><td>skeeter</td><td>skēete̊r</td><td>skeet-er</td><td>skēet-e̊r</td><td>n. informal term for a mosquito</td></tr>
 <tr><td>skein</td><td>skèin</td><td>skein</td><td>skèin</td><td>n. a length of yarn or thread wound in a coil</td></tr>
-<tr><td>skeletal</td><td>skele̊tål</td><td>skel-et-al</td><td>skel-e̊t-ål</td><td>a. of or relating to a skeleton; very thin</td></tr>
+<tr><td>skeletal</td><td>skelėtål</td><td>skel-et-al</td><td>skel-ėt-ål</td><td>a. of or relating to a skeleton; very thin</td></tr>
 <tr><td>skeleton</td><td>skelėto̊n</td><td>skel-et-on</td><td>skel-ėt-o̊n</td><td>n. the bones that support the body<br>n. the basic structure of something</td></tr>
 <tr><td>skeletally</td><td>skelėtållẏ</td><td>skel-et-al-ly</td><td>skel-ėt-ål-lẏ</td><td>adv. in a skeletal manner</td></tr>
 <tr><td>skeletons</td><td>skelėto̊nṡ</td><td>skel-et-on-s</td><td>skel-ėt-o̊n-ṡ</td><td></td></tr>
 <tr><td>exoskeletal</td><td>exōskelėtål</td><td>exo-skel-et-al</td><td>exō-skel-ėt-ål</td><td>a. of or relating to an exoskeleton</td></tr>
-<tr><td>endoskeleton</td><td>endo̊skelėto̊n</td><td>endo-skel-et-on</td><td>endo̊-skel-ėt-o̊n</td><td>n. the internal skeleton; bony and cartilaginous structure (especially of vertebrates)</td></tr>
-<tr><td>exoskeleton</td><td>exōskele̊to̊n</td><td>exo-skel-et-on</td><td>exō-skel-e̊t-o̊n</td><td>n. the external protective shell of many animals, especially invertebrates</td></tr>
-<tr><td>musculoskeletal</td><td>mûscūlōskelėtål</td><td>muscul-o-skel-et-al</td><td>mûscūl-ō-skel-ėt-ål</td><td>a. relating to muscles and skeleton</td></tr>
+<tr><td>endoskeleton</td><td>endōskelėto̊n</td><td>endo-skel-et-on</td><td>endō-skel-ėt-o̊n</td><td>n. the internal skeleton; bony and cartilaginous structure (especially of vertebrates)</td></tr>
+<tr><td>exoskeleton</td><td>exōskelėto̊n</td><td>exo-skel-et-on</td><td>exō-skel-ėt-o̊n</td><td>n. the external protective shell of many animals, especially invertebrates</td></tr>
+<tr><td>musculoskeletal</td><td>mûscūloskėlėtål</td><td>muscul-o-skel-et-al</td><td>mûscūl-o-skėl-ėt-ål</td><td>a. relating to muscles and skeleton</td></tr>
 <tr><td>skeptic</td><td>skeptic</td><td>skept-ic</td><td>skept-ic</td><td>n. someone who habitually doubts accepted beliefs</td></tr>
-<tr><td>skeptical</td><td>skepti̊cål</td><td>skept-ic-al</td><td>skept-i̊c-ål</td><td>a. not easily convinced; having doubts or reservations</td></tr>
+<tr><td>skeptical</td><td>skepticål</td><td>skept-ic-al</td><td>skept-ic-ål</td><td>a. not easily convinced; having doubts or reservations</td></tr>
 <tr><td>skepticism</td><td>skepticiṡm</td><td>skept-ic-ism</td><td>skept-ic-iṡm</td><td>n. a skeptical attitude; doubt</td></tr>
 <tr><td>skeptically</td><td>skepticållẏ</td><td>skept-ic-al-ly</td><td>skept-ic-ål-lẏ</td><td>adv. with scepticism; in a sceptical manner</td></tr>
 <tr><td>sketch</td><td>sketch</td><td>sketch</td><td>sketch</td><td>n. a rough or unfinished drawing<br>v. to make a rough drawing of</td></tr>
@@ -3228,7 +3228,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>skewed</td><td>skew̄𝕖d</td><td>skew-ed</td><td>skew̄-𝕖d</td><td>a. having an oblique or slanting direction</td></tr>
 <tr><td>skewer</td><td>skew̄e̊r</td><td>skew-er</td><td>skew̄-e̊r</td><td>n. a long pin for holding meat in position while it is being roasted<br>v. drive a skewer through</td></tr>
 <tr><td>skewing</td><td>skew̄ing</td><td>skew-ing</td><td>skew̄-ing</td><td>v. turn or place at an angle</td></tr>
-<tr><td>skewness</td><td>skew̄ne̊ss</td><td>skew-ness</td><td>skew̄-ne̊ss</td><td>n. an oblique or slanting asymmetry</td></tr>
+<tr><td>skewness</td><td>skew̄nėss</td><td>skew-ness</td><td>skew̄-nėss</td><td>n. an oblique or slanting asymmetry</td></tr>
 <tr><td>skewered</td><td>skew̄e̊r𝕖d</td><td>skew-er-ed</td><td>skew̄-e̊r-𝕖d</td><td>v. drive a skewer through</td></tr>
 <tr><td>askew</td><td>åskew̄</td><td>a-skew</td><td>å-skew̄</td><td>a. turned or twisted to one side<br>adv. to one side</td></tr>
 <tr><td>ski</td><td>skĩ</td><td>ski</td><td>skĩ</td><td>n. narrow wood or metal or plastic runners used in pairs for gliding over snow<br>v. move along on skis</td></tr>
@@ -3236,16 +3236,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>skier</td><td>skĩe̊r</td><td>ski-er</td><td>skĩ-e̊r</td><td>n. someone who skis</td></tr>
 <tr><td>skiing</td><td>skĩing</td><td>ski-ing</td><td>skĩ-ing</td><td>n. the sport or activity of gliding on skis</td></tr>
 <tr><td>skis</td><td>skĩṡ</td><td>ski-s</td><td>skĩ-ṡ</td><td></td></tr>
-<tr><td>skiwear</td><td>skĩwe̊ar</td><td>ski-wear</td><td>skĩ-we̊ar</td><td>n. clothing and equipment designed for skiing</td></tr>
+<tr><td>skiwear</td><td>skĩweār</td><td>ski-wear</td><td>skĩ-weār</td><td>n. clothing and equipment designed for skiing</td></tr>
 <tr><td>skid</td><td>skid</td><td>skid</td><td>skid</td><td>v. slide without control<br>n. an unexpected slide</td></tr>
 <tr><td>skidding</td><td>skidding</td><td>skidd-ing</td><td>skidd-ing</td><td>v. slide without control</td></tr>
 <tr><td>nonskid</td><td>nonskid</td><td>non-skid</td><td>non-skid</td><td>a. designed to reduce or prevent skidding</td></tr>
 <tr><td>skiff</td><td>skiff</td><td>skiff</td><td>skiff</td><td>n. any of various small boats propelled by oars or by sails or by a motor</td></tr>
-<tr><td>skilful</td><td>skilfùl</td><td>skil-ful</td><td>skil-fùl</td><td>a. having or showing knowledge and skill and aptitude</td></tr>
-<tr><td>skilfully</td><td>skilfùllẏ</td><td>skil-ful-ly</td><td>skil-fùl-lẏ</td><td>adv. in a skillful manner</td></tr>
+<tr><td>skilful</td><td>skilfůl</td><td>skil-ful</td><td>skil-fůl</td><td>a. having or showing knowledge and skill and aptitude</td></tr>
+<tr><td>skilfully</td><td>skilfůllẏ</td><td>skil-ful-ly</td><td>skil-fůl-lẏ</td><td>adv. in a skillful manner</td></tr>
 <tr><td>skill</td><td>skill</td><td>skill</td><td>skill</td><td>n. the ability to do something well; expertise</td></tr>
 <tr><td>skilled</td><td>skill𝕖d</td><td>skill-ed</td><td>skill-𝕖d</td><td>a. having or showing skill</td></tr>
-<tr><td>skillet</td><td>skille̊t</td><td>skill-et</td><td>skill-e̊t</td><td>n. a frying pan</td></tr>
+<tr><td>skillet</td><td>skillėt</td><td>skill-et</td><td>skill-ėt</td><td>n. a frying pan</td></tr>
 <tr><td>skillful</td><td>skillfůl</td><td>skill-ful</td><td>skill-fůl</td><td>a. having or showing knowledge and skill; done with delicacy and skill</td></tr>
 <tr><td>skills</td><td>skillṡ</td><td>skill-s</td><td>skill-ṡ</td><td></td></tr>
 <tr><td>skillfully</td><td>skillfůllẏ</td><td>skill-ful-ly</td><td>skill-fůl-lẏ</td><td>adv. with skill</td></tr>
@@ -3265,7 +3265,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>skinflint</td><td>skinflint</td><td>skin-flint</td><td>skin-flint</td><td>n a selfish person who is unwilling to give or spend</td></tr>
 <tr><td>skinhead</td><td>skinhèad</td><td>skin-head</td><td>skin-hèad</td><td>n. a young person who belongs to a group that shave their heads</td></tr>
 <tr><td>skinning</td><td>skinning</td><td>skinn-ing</td><td>skinn-ing</td><td>v. strip the skin off</td></tr>
-<tr><td>skinless</td><td>skinle̊ss</td><td>skin-less</td><td>skin-le̊ss</td><td>a. having no skin</td></tr>
+<tr><td>skinless</td><td>skinlėss</td><td>skin-less</td><td>skin-lėss</td><td>a. having no skin</td></tr>
 <tr><td>skins</td><td>skinṡ</td><td>skin-s</td><td>skin-ṡ</td><td></td></tr>
 <tr><td>skinny</td><td>skinnẏ</td><td>skinn-y</td><td>skinn-ẏ</td><td>a. very thin</td></tr>
 <tr><td>skinnier</td><td>skinnie̊r</td><td>skinn-i-er</td><td>skinn-i-e̊r</td><td></td></tr>
@@ -3275,7 +3275,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>doeskin</td><td>dō𝕖skin</td><td>doe-skin</td><td>dō𝕖-skin</td><td>n. soft leather from deerskin or lambskin</td></tr>
 <tr><td>foreskin</td><td>for𝕖skin</td><td>fore-skin</td><td>for𝕖-skin</td><td>n. a fold of skin covering the tip of the penis</td></tr>
 <tr><td>kidskin</td><td>kidskin</td><td>kid-skin</td><td>kid-skin</td><td>n. soft smooth leather from the hide of a young goat</td></tr>
-<tr><td>moleskin</td><td>mōleskin</td><td>mole-skin</td><td>mōle-skin</td><td>n. a durable cotton fabric with a velvety nap</td></tr>
+<tr><td>moleskin</td><td>mōl𝕖skin</td><td>mole-skin</td><td>mōl𝕖-skin</td><td>n. a durable cotton fabric with a velvety nap</td></tr>
 <tr><td>skink</td><td>skink</td><td>skink</td><td>skink</td><td>n. a lizard with reduced limbs and an elongated body covered with shiny scales</td></tr>
 <tr><td>skip</td><td>skip</td><td>skip</td><td>skip</td><td>v. move with light steps and jumps<br>vt. miss or omit</td></tr>
 <tr><td>skipped</td><td>skipp𝕖ḋ</td><td>skipp-ed</td><td>skipp-𝕖ḋ</td><td></td></tr>
@@ -3291,13 +3291,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>skirted</td><td>ski̊rtėd</td><td>skirt-ed</td><td>ski̊rt-ėd</td><td>v. go around or along the edge of<br>v. avoid discussing or dealing with</td></tr>
 <tr><td>skirting</td><td>ski̊rting</td><td>skirt-ing</td><td>ski̊rt-ing</td><td>v. avoid or try to avoid fulfilling<br>v. form the edge of</td></tr>
 <tr><td>skirts</td><td>ski̊rts</td><td>skirt-s</td><td>ski̊rt-s</td><td></td></tr>
-<tr><td>miniskirt</td><td>minĩski̊rt</td><td>mini-skirt</td><td>minĩ-ski̊rt</td><td>n. a very short skirt</td></tr>
+<tr><td>miniskirt</td><td>miniski̊rt</td><td>mini-skirt</td><td>mini-ski̊rt</td><td>n. a very short skirt</td></tr>
 <tr><td>underskirt</td><td>ûnde̊rski̊rt</td><td>under-skirt</td><td>ûnde̊r-ski̊rt</td><td>n. undergarment worn under a skirt</td></tr>
 <tr><td>skit</td><td>skit</td><td>skit</td><td>skit</td><td>n. a short theatrical episode</td></tr>
 <tr><td>skitter</td><td>skitte̊r</td><td>skitt-er</td><td>skitt-e̊r</td><td>v. glide easily along a surface<br>v. twitch the hook of a fishing line through or along the surface of water</td></tr>
 <tr><td>skittish</td><td>skittish</td><td>skitt-ish</td><td>skitt-ish</td><td>a. unpredictably excitable; easily frightened</td></tr>
 <tr><td>skittle</td><td>skittle</td><td>skitt-le</td><td>skitt-le</td><td>v. play skittles</td></tr>
-<tr><td>skittishness</td><td>skittishne̊ss</td><td>skitt-ish-ness</td><td>skitt-ish-ne̊ss</td><td>n. characterized by nervousness and quickness to take fright</td></tr>
+<tr><td>skittishness</td><td>skittishnėss</td><td>skitt-ish-ness</td><td>skitt-ish-nėss</td><td>n. characterized by nervousness and quickness to take fright</td></tr>
 <tr><td>skivvy</td><td>skivvẏ</td><td>skivvy</td><td>skivvẏ</td><td>n. a female domestic servant who does all kinds of menial work</td></tr>
 <tr><td>skulduggery</td><td>skûldûgge̊rẏ</td><td>skuldugg-ery</td><td>skûldûgg-e̊rẏ</td><td>n verbal misrepresentation intended to take advantage of you in some way</td></tr>
 <tr><td>skulk</td><td>skûlk</td><td>skulk</td><td>skûlk</td><td>v. to move stealthily</td></tr>
@@ -3330,7 +3330,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slack</td><td>slack</td><td>slack</td><td>slack</td><td>a. not taut or tight; loose<br>n. the part of a rope that is loose<br>v. to reduce in intensity</td></tr>
 <tr><td>slacken</td><td>slacke̊n</td><td>slack-en</td><td>slack-e̊n</td><td>v. become looser or slack<br>v. make slack as by lessening tension or firmness</td></tr>
 <tr><td>slacker</td><td>slacke̊r</td><td>slack-er</td><td>slack-e̊r</td><td>n. a person who shirks his work or duty</td></tr>
-<tr><td>slackness</td><td>slackne̊ss</td><td>slack-ness</td><td>slack-ne̊ss</td><td>n. weakness characterized by a lack of vitality or energy<br>n. the quality of being lax and neglectful</td></tr>
+<tr><td>slackness</td><td>slacknėss</td><td>slack-ness</td><td>slack-nėss</td><td>n. weakness characterized by a lack of vitality or energy<br>n. the quality of being lax and neglectful</td></tr>
 <tr><td>slacks</td><td>slacks</td><td>slack-s</td><td>slack-s</td><td>n. casual trousers</td></tr>
 <tr><td>slackened</td><td>slacke̊n𝕖d</td><td>slack-en-ed</td><td>slack-e̊n-𝕖d</td><td>v. become slow or slower<br>v. make less active or fast</td></tr>
 <tr><td>slackening</td><td>slacke̊ning</td><td>slack-en-ing</td><td>slack-e̊n-ing</td><td>n. the process of becoming slower or less active<br>v. become slow or slower</td></tr>
@@ -3344,11 +3344,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slamming</td><td>slamming</td><td>slamm-ing</td><td>slamm-ing</td><td>v. close violently<br>v. strike violently</td></tr>
 <tr><td>slams</td><td>slamṡ</td><td>slam-s</td><td>slam-ṡ</td><td></td></tr>
 <tr><td>slander</td><td>slànde̊r</td><td>sland-er</td><td>slànd-e̊r</td><td>n. words falsely spoken that damage the reputation of another</td></tr>
-<tr><td>slanderous</td><td>slande̊ro̊us</td><td>sland-er-ous</td><td>sland-e̊r-o̊us</td><td>a. (of statements) harmful and often untrue; defamatory</td></tr>
+<tr><td>slanderous</td><td>slànde̊ro̊us</td><td>sland-er-ous</td><td>slànd-e̊r-o̊us</td><td>a. (of statements) harmful and often untrue; defamatory</td></tr>
 <tr><td>slang</td><td>slang</td><td>slang</td><td>slang</td><td>n. very informal language used by particular groups of people<br>v. to use slang expressions</td></tr>
 <tr><td>slangy</td><td>slangẏ</td><td>slang-y</td><td>slang-ẏ</td><td>a. constituting or expressed in slang</td></tr>
 <tr><td>slant</td><td>slant</td><td>slant</td><td>slant</td><td>n. a biased way of looking at or presenting something<br>v. present with a bias</td></tr>
-<tr><td>slanted</td><td>slant𝕖d</td><td>slant-ed</td><td>slant-𝕖d</td><td>a. having an oblique direction<br>a. favoring one side over another</td></tr>
+<tr><td>slanted</td><td>slantėd</td><td>slant-ed</td><td>slant-ėd</td><td>a. having an oblique direction<br>a. favoring one side over another</td></tr>
 <tr><td>slanting</td><td>slanting</td><td>slant-ing</td><td>slant-ing</td><td>v. lie obliquely<br>v. present with a bias<br>a. having an oblique or slanted direction</td></tr>
 <tr><td>slantwise</td><td>slantwīṡe</td><td>slant-wise</td><td>slant-wīṡe</td><td>adv. at a slant</td></tr>
 <tr><td>aslant</td><td>åslant</td><td>a-slant</td><td>å-slant</td><td>a. having an oblique or slanted direction<br>adv. over or across in a slanting direction</td></tr>
@@ -3369,29 +3369,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slattern</td><td>slatte̊rn</td><td>slatt-ern</td><td>slatt-e̊rn</td><td>n. a woman who is habitually untidy</td></tr>
 <tr><td>slather</td><td>slaṫhe̊r</td><td>slath-er</td><td>slaṫh-e̊r</td><td>v. spread thickly</td></tr>
 <tr><td>slaughter</td><td>slãu𝕘𝕙te̊r</td><td>slaught-er</td><td>slãu𝕘𝕙t-e̊r</td><td>n. the killing of animals (as for food)<br>n. the savage and excessive killing of many people</td></tr>
-<tr><td>slaughtered</td><td>slãughte̊r𝕖d</td><td>slaught-er-ed</td><td>slãught-e̊r-𝕖d</td><td>v. kill animals usually for food consumption<br>v. kill a large number of people indiscriminately</td></tr>
-<tr><td>slaughterer</td><td>slãughte̊re̊r</td><td>slaught-er-er</td><td>slãught-e̊r-e̊r</td><td>n. a person who slaughters or dresses meat for market</td></tr>
+<tr><td>slaughtered</td><td>slãu𝕘𝕙te̊r𝕖d</td><td>slaught-er-ed</td><td>slãu𝕘𝕙t-e̊r-𝕖d</td><td>v. kill animals usually for food consumption<br>v. kill a large number of people indiscriminately</td></tr>
+<tr><td>slaughterer</td><td>slãu𝕘𝕙te̊re̊r</td><td>slaught-er-er</td><td>slãu𝕘𝕙t-e̊r-e̊r</td><td>n. a person who slaughters or dresses meat for market</td></tr>
 <tr><td>slaughterhouse</td><td>slãu𝕘𝕙te̊rhòuse</td><td>slaught-er-house</td><td>slãu𝕘𝕙t-e̊r-hòuse</td><td>n a building where animals are butchered</td></tr>
-<tr><td>slaughtering</td><td>slãughte̊ring</td><td>slaught-er-ing</td><td>slãught-e̊r-ing</td><td>v. kill animals usually for food consumption<br>v. kill a large number of people indiscriminately</td></tr>
+<tr><td>slaughtering</td><td>slãu𝕘𝕙te̊ring</td><td>slaught-er-ing</td><td>slãu𝕘𝕙t-e̊r-ing</td><td>v. kill animals usually for food consumption<br>v. kill a large number of people indiscriminately</td></tr>
 <tr><td>slaughters</td><td>slãu𝕘𝕙te̊rṡ</td><td>slaught-er-s</td><td>slãu𝕘𝕙t-e̊r-ṡ</td><td></td></tr>
 <tr><td>manslaughter</td><td>manslãu𝕘𝕙te̊r</td><td>man-slaught-er</td><td>man-slãu𝕘𝕙t-e̊r</td><td>n. homicide without malice aforethought</td></tr>
 <tr><td>onslaught</td><td>onslãu𝕘𝕙t</td><td>on-slaught</td><td>on-slãu𝕘𝕙t</td><td>n. a fierce attack</td></tr>
-<tr><td>slav</td><td>slàv</td><td>slav</td><td>slàv</td><td>n. a member of the Slavic peoples<br>a. of or relating to the Slavic peoples</td></tr>
+<tr><td>slav</td><td>slav</td><td>slav</td><td>slav</td><td>n. a member of the Slavic peoples<br>a. of or relating to the Slavic peoples</td></tr>
 <tr><td>slave</td><td>slāve</td><td>slave</td><td>slāve</td><td>n. a person who is owned by someone<br>n. someone entirely dominated by some influence or person<br>v. work very hard, like a slave</td></tr>
 <tr><td>slaver</td><td>slāve̊r</td><td>slav-er</td><td>slāv-e̊r</td><td>n. a person engaged in slave trade</td></tr>
 <tr><td>slavic</td><td>slàvic</td><td>slav-ic</td><td>slàv-ic</td><td>a. of or relating to the Slavic peoples or languages</td></tr>
 <tr><td>slavish</td><td>slāvish</td><td>slav-ish</td><td>slāv-ish</td><td>a. blindly imitative<br>a. abjectly submissive</td></tr>
 <tr><td>slaves</td><td>slāv𝕖ṡ</td><td>slave-s</td><td>slāv𝕖-ṡ</td><td></td></tr>
-<tr><td>slaveholder</td><td>slāvehōlde̊r</td><td>slave-hold-er</td><td>slāve-hōld-e̊r</td><td>n. someone who holds slaves</td></tr>
+<tr><td>slaveholder</td><td>slāv𝕖hōlde̊r</td><td>slave-hold-er</td><td>slāv𝕖-hōld-e̊r</td><td>n. someone who holds slaves</td></tr>
 <tr><td>slavering</td><td>slave̊ring</td><td>slav-er-ing</td><td>slav-e̊r-ing</td><td>v let saliva drivel from the mouth</td></tr>
 <tr><td>slavonic</td><td>slåvonic</td><td>slav-on-ic</td><td>slåv-on-ic</td><td>a. of or relating to the Slavic peoples or languages</td></tr>
-<tr><td>slavishly</td><td>slavishlẏ</td><td>slav-ish-ly</td><td>slav-ish-lẏ</td><td>adv. in a slavish manner</td></tr>
+<tr><td>slavishly</td><td>slāvishlẏ</td><td>slav-ish-ly</td><td>slāv-ish-lẏ</td><td>adv. in a slavish manner</td></tr>
 <tr><td>slavery</td><td>slāve̊rẏ</td><td>slav-er-y</td><td>slāv-e̊r-ẏ</td><td>n. the practice of owning people as property</td></tr>
 <tr><td>enslave</td><td>enslāve</td><td>en-slave</td><td>en-slāve</td><td>vt. to make someone a slave; to dominate completely</td></tr>
 <tr><td>enslaved</td><td>enslāv𝕖d</td><td>en-slav-ed</td><td>en-slāv-𝕖d</td><td>v. make a slave of; bring into servitude</td></tr>
 <tr><td>enslavement</td><td>enslāv𝕖me̊nt</td><td>en-slave-ment</td><td>en-slāv𝕖-me̊nt</td><td>n. the act of making someone a slave</td></tr>
-<tr><td>yugoslav</td><td>yūgōslàv</td><td>yugo-slav</td><td>yūgō-slàv</td><td>a. of or relating to Yugoslavia<br>n. a native or inhabitant of Yugoslavia</td></tr>
-<tr><td>yugoslavian</td><td>yūgōslàviån</td><td>yugo-slav-ian</td><td>yūgō-slàv-iån</td><td>n. a native or inhabitant of Yugoslavia<br>a. of or relating to the former Yugoslavia or its people</td></tr>
+<tr><td>yugoslav</td><td>yūgo̊slav</td><td>yugo-slav</td><td>yūgo̊-slav</td><td>a. of or relating to Yugoslavia<br>n. a native or inhabitant of Yugoslavia</td></tr>
+<tr><td>yugoslavian</td><td>yūgo̊slàviån</td><td>yugo-slav-ian</td><td>yūgo̊-slàv-iån</td><td>n. a native or inhabitant of Yugoslavia<br>a. of or relating to the former Yugoslavia or its people</td></tr>
 <tr><td>slaw</td><td>slãw</td><td>slaw</td><td>slãw</td><td>n. basically shredded cabbage</td></tr>
 <tr><td>slain</td><td>slāin</td><td>slain</td><td>slāin</td><td>a. killed violently</td></tr>
 <tr><td>slay</td><td>slāy</td><td>slay</td><td>slāy</td><td>v. to kill intentionally</td></tr>
@@ -3400,7 +3400,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sleave</td><td>slēave</td><td>sleave</td><td>slēave</td><td>n. a fine silk thread</td></tr>
 <tr><td>sleaze</td><td>slēaze</td><td>sleaze</td><td>slēaze</td><td>n. tastelessness by virtue of being cheap and vulgar</td></tr>
 <tr><td>sleazy</td><td>slēazẏ</td><td>sleaz-y</td><td>slēaz-ẏ</td><td>a. cheap and inferior; sordid</td></tr>
-<tr><td>sled</td><td>sl𝕖d</td><td>sled</td><td>sl𝕖d</td><td>n. a vehicle mounted on runners for traveling over snow<br>v. to ride on a sled</td></tr>
+<tr><td>sled</td><td>sled</td><td>sled</td><td>sled</td><td>n. a vehicle mounted on runners for traveling over snow<br>v. to ride on a sled</td></tr>
 <tr><td>sledding</td><td>sledding</td><td>sledd-ing</td><td>sledd-ing</td><td>n. the sport of riding on a sled or sleigh</td></tr>
 <tr><td>sledge</td><td>sledge</td><td>sledge</td><td>sledge</td><td>n. a vehicle mounted on runners for transportation over snow<br>v. transport in a sledge</td></tr>
 <tr><td>sledgehammer</td><td>sledg𝕖hamme̊r</td><td>sledge-hamm-er</td><td>sledg𝕖-hamm-e̊r</td><td>n. a heavy hammer<br>v. to beat with a sledgehammer</td></tr>
@@ -3411,7 +3411,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slept</td><td>slept</td><td>slept</td><td>slept</td><td>v. past tense of sleep</td></tr>
 <tr><td>sleeper</td><td>slēepe̊r</td><td>sleep-er</td><td>slēep-e̊r</td><td>n. a sleeping person<br>n. a railroad tie</td></tr>
 <tr><td>sleeping</td><td>slēeping</td><td>sleep-ing</td><td>slēep-ing</td><td>n. the state of being asleep<br>a. lying down to sleep</td></tr>
-<tr><td>sleepless</td><td>slēeple̊ss</td><td>sleep-less</td><td>slēep-le̊ss</td><td>a. unable to sleep; without sleep</td></tr>
+<tr><td>sleepless</td><td>slēeplėss</td><td>sleep-less</td><td>slēep-lėss</td><td>a. unable to sleep; without sleep</td></tr>
 <tr><td>sleepover</td><td>slēepōve̊r</td><td>sleep-over</td><td>slēep-ōve̊r</td><td>n. an occasion of spending a night away from home or having a guest spend the night</td></tr>
 <tr><td>sleeps</td><td>slēeps</td><td>sleep-s</td><td>slēep-s</td><td></td></tr>
 <tr><td>sleepwalk</td><td>slēepwãlk</td><td>sleep-walk</td><td>slēep-wãlk</td><td>v. to walk in one&#x27;s sleep</td></tr>
@@ -3422,9 +3422,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sleepwalker</td><td>slēepwãlke̊r</td><td>sleep-walk-er</td><td>slēep-wãlk-e̊r</td><td>n. someone who walks about in their sleep</td></tr>
 <tr><td>sleepyhead</td><td>slēepẏhèad</td><td>sleep-y-head</td><td>slēep-ẏ-hèad</td><td>n. a sleepy person</td></tr>
 <tr><td>sleepwalking</td><td>slēepwãlking</td><td>sleep-walk-ing</td><td>slēep-wãlk-ing</td><td>n. walking by a person who is asleep</td></tr>
-<tr><td>sleepily</td><td>slēepi̊lẏ</td><td>sleep-i-ly</td><td>slēep-i̊-lẏ</td><td>adv. in a sleepy manner</td></tr>
-<tr><td>sleepiness</td><td>slēepine̊ss</td><td>sleep-i-ness</td><td>slēep-i-ne̊ss</td><td>n. a very sleepy state</td></tr>
-<tr><td>sleeplessness</td><td>slēeple̊ssne̊ss</td><td>sleep-less-ness</td><td>slēep-le̊ss-ne̊ss</td><td>n. a temporary state in which you are unable to sleep</td></tr>
+<tr><td>sleepily</td><td>slēepilẏ</td><td>sleep-i-ly</td><td>slēep-i-lẏ</td><td>adv. in a sleepy manner</td></tr>
+<tr><td>sleepiness</td><td>slēepinėss</td><td>sleep-i-ness</td><td>slēep-i-nėss</td><td>n. a very sleepy state</td></tr>
+<tr><td>sleeplessness</td><td>slēeplėssnėss</td><td>sleep-less-ness</td><td>slēep-lėss-nėss</td><td>n. a temporary state in which you are unable to sleep</td></tr>
 <tr><td>asleep</td><td>åslēep</td><td>a-sleep</td><td>å-slēep</td><td>a. in a state of sleep<br>a. lacking sensation<br>adv. into a sleeping state</td></tr>
 <tr><td>oversleep</td><td>ōve̊rslēep</td><td>over-sleep</td><td>ōve̊r-slēep</td><td>v. sleep longer than intended</td></tr>
 <tr><td>sleet</td><td>slēet</td><td>sleet</td><td>slēet</td><td>n. partially melted snow<br>v. precipitate as a mixture of rain and snow</td></tr>
@@ -3434,7 +3434,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sleeves</td><td>slēev𝕖ṡ</td><td>sleeve-s</td><td>slēev𝕖-ṡ</td><td></td></tr>
 <tr><td>sleigh</td><td>slèi𝕘𝕙</td><td>sleigh</td><td>slèi𝕘𝕙</td><td>n a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow<br>v ride (on) a sled</td></tr>
 <tr><td>sleighs</td><td>slèi𝕘𝕙ṡ</td><td>sleigh-s</td><td>slèi𝕘𝕙-ṡ</td><td></td></tr>
-<tr><td>sleight</td><td>sl𝕖ī𝕘𝕙t</td><td>sleight</td><td>sl𝕖ī𝕘𝕙t</td><td>n. adroitness in using the hands</td></tr>
+<tr><td>sleight</td><td>sleī𝕘𝕙t</td><td>sleight</td><td>sleī𝕘𝕙t</td><td>n. adroitness in using the hands</td></tr>
 <tr><td>slender</td><td>slende̊r</td><td>slend-er</td><td>slend-e̊r</td><td>a. gracefully thin<br>a. small in amount or size</td></tr>
 <tr><td>slenderness</td><td>slende̊rnėss</td><td>slend-er-ness</td><td>slend-e̊r-nėss</td><td>n. the property of an attractively thin person<br>n. the quality of being slight or inadequate</td></tr>
 <tr><td>sleuth</td><td>sleūth</td><td>sleuth</td><td>sleūth</td><td>n. a detective who follows a trail</td></tr>
@@ -3455,7 +3455,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slider</td><td>slīde̊r</td><td>slid-er</td><td>slīd-e̊r</td><td>n. something that slides; a type of pitch in baseball</td></tr>
 <tr><td>sliding</td><td>slīding</td><td>slid-ing</td><td>slīd-ing</td><td>a. being a smooth continuous motion</td></tr>
 <tr><td>slides</td><td>slīd𝕖ṡ</td><td>slide-s</td><td>slīd𝕖-ṡ</td><td></td></tr>
-<tr><td>slideshow</td><td>slīdeshōw</td><td>slide-show</td><td>slīde-shōw</td><td>n. a presentation of a series of slides displayed on a screen or projection</td></tr>
+<tr><td>slideshow</td><td>slīd𝕖shōw</td><td>slide-show</td><td>slīd𝕖-shōw</td><td>n. a presentation of a series of slides displayed on a screen or projection</td></tr>
 <tr><td>slidewalk</td><td>slīd𝕖wãlk</td><td>slide-walk</td><td>slīd𝕖-wãlk</td><td>n. a moving walkway or conveyor belt for pedestrians</td></tr>
 <tr><td>backslide</td><td>backslīde</td><td>back-slide</td><td>back-slīde</td><td>v. drop to a lower level, as in one&#x27;s morals or standards</td></tr>
 <tr><td>backsliding</td><td>backslīding</td><td>back-slid-ing</td><td>back-slīd-ing</td><td>n. a failure to maintain a higher state</td></tr>
@@ -3498,7 +3498,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slipcovered</td><td>slipcôve̊r𝕖d</td><td>slip-cov-er-ed</td><td>slip-côv-e̊r-𝕖d</td><td>a. fitted with a removable cloth cover</td></tr>
 <tr><td>slipperier</td><td>slippe̊rie̊r</td><td>slipp-er-i-er</td><td>slipp-e̊r-i-e̊r</td><td></td></tr>
 <tr><td>slipperiest</td><td>slippe̊riėst</td><td>slipp-er-i-est</td><td>slipp-e̊r-i-ėst</td><td></td></tr>
-<tr><td>slipperiness</td><td>slippe̊rine̊ss</td><td>slipp-er-i-ness</td><td>slipp-e̊r-i-ne̊ss</td><td>n a slippery smoothness<br>n the quality of being a slippery rascal</td></tr>
+<tr><td>slipperiness</td><td>slippe̊rinėss</td><td>slipp-er-i-ness</td><td>slipp-e̊r-i-nėss</td><td>n a slippery smoothness<br>n the quality of being a slippery rascal</td></tr>
 <tr><td>slit</td><td>slit</td><td>slit</td><td>slit</td><td>n. a long narrow opening<br>v. to make a long narrow cut in</td></tr>
 <tr><td>slitted</td><td>slittėd</td><td>slitt-ed</td><td>slitt-ėd</td><td>a. having a long narrow cut or opening</td></tr>
 <tr><td>slither</td><td>sliṫhe̊r</td><td>slith-er</td><td>sliṫh-e̊r</td><td>v. to slide smoothly and slippingly</td></tr>
@@ -3513,39 +3513,39 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sloe</td><td>slōe</td><td>sloe</td><td>slōe</td><td>n. small sour dark purple fruit of especially the Allegheny plum bush</td></tr>
 <tr><td>slog</td><td>slog</td><td>slog</td><td>slog</td><td>v. walk heavily and firmly, as when weary, or through mud</td></tr>
 <tr><td>slogan</td><td>slōgån</td><td>slog-an</td><td>slōg-ån</td><td>n. a short and striking phrase used in advertising or by a group</td></tr>
-<tr><td>sloganeer</td><td>slōgånėe̊r</td><td>slogan-eer</td><td>slōgån-ėe̊r</td><td>n. someone who coins and uses slogans to promote a cause<br>v. coin new slogans</td></tr>
-<tr><td>sloganeering</td><td>slōgånėe̊ring</td><td>slogan-eer-ing</td><td>slōgån-ėe̊r-ing</td><td>n. persuasion by means of empty slogans</td></tr>
+<tr><td>sloganeer</td><td>slōgånēer</td><td>slogan-eer</td><td>slōgån-ēer</td><td>n. someone who coins and uses slogans to promote a cause<br>v. coin new slogans</td></tr>
+<tr><td>sloganeering</td><td>slōgånēering</td><td>slogan-eer-ing</td><td>slōgån-ēer-ing</td><td>n. persuasion by means of empty slogans</td></tr>
 <tr><td>sloop</td><td>sloop</td><td>sloop</td><td>sloop</td><td>n. a sailing vessel with a single mast</td></tr>
 <tr><td>slop</td><td>slop</td><td>slop</td><td>slop</td><td>n. waste water from a kitchen or bathroom<br>v. to spill or overflow</td></tr>
 <tr><td>slope</td><td>slōpe</td><td>slope</td><td>slōpe</td><td>n. a surface that is at an angle<br>v. to be at an angle</td></tr>
-<tr><td>sloped</td><td>slop𝕖d</td><td>slop-ed</td><td>slop-𝕖d</td><td>a. having an oblique or slanted direction</td></tr>
+<tr><td>sloped</td><td>slōp𝕖ḋ</td><td>slop-ed</td><td>slōp-𝕖ḋ</td><td>a. having an oblique or slanted direction</td></tr>
 <tr><td>sloping</td><td>slōping</td><td>slop-ing</td><td>slōp-ing</td><td>a. having a slanting form or direction</td></tr>
 <tr><td>sloppy</td><td>sloppẏ</td><td>slopp-y</td><td>slopp-ẏ</td><td>a. careless and untidy; wet and muddy</td></tr>
 <tr><td>sloppier</td><td>sloppie̊r</td><td>slopp-i-er</td><td>slopp-i-e̊r</td><td></td></tr>
 <tr><td>sloppiest</td><td>sloppiėst</td><td>slopp-i-est</td><td>slopp-i-ėst</td><td></td></tr>
-<tr><td>sloppily</td><td>sloppi̊lẏ</td><td>slopp-i-ly</td><td>slopp-i̊-lẏ</td><td>adv. in a sloppy manner</td></tr>
-<tr><td>sloppiness</td><td>sloppine̊ss</td><td>slopp-i-ness</td><td>slopp-i-ne̊ss</td><td>n. a lack of order and tidiness; not cared for</td></tr>
+<tr><td>sloppily</td><td>sloppilẏ</td><td>slopp-i-ly</td><td>slopp-i-lẏ</td><td>adv. in a sloppy manner</td></tr>
+<tr><td>sloppiness</td><td>sloppinėss</td><td>slopp-i-ness</td><td>slopp-i-nėss</td><td>n. a lack of order and tidiness; not cared for</td></tr>
 <tr><td>downslope</td><td>dòwnslōpe</td><td>down-slope</td><td>dòwn-slōpe</td><td>n. a downward slope or bend</td></tr>
 <tr><td>upslope</td><td>ûpslōpe</td><td>up-slope</td><td>ûp-slōpe</td><td>n. an upward slope or incline<br>adv. toward a higher place on a slope</td></tr>
 <tr><td>slosh</td><td>slosh</td><td>slosh</td><td>slosh</td><td>v. spill or splash copiously or clumsily</td></tr>
-<tr><td>sloshed</td><td>slosh𝕖d</td><td>slosh-ed</td><td>slosh-𝕖d</td><td>a. very drunk (informal)</td></tr>
+<tr><td>sloshed</td><td>slosh𝕖ḋ</td><td>slosh-ed</td><td>slosh-𝕖ḋ</td><td>a. very drunk (informal)</td></tr>
 <tr><td>sloshing</td><td>sloshing</td><td>slosh-ing</td><td>slosh-ing</td><td>v. make a splashing sound<br>v. walk through mud or mire</td></tr>
 <tr><td>slot</td><td>slot</td><td>slot</td><td>slot</td><td>n. a long, narrow aperture or slit<br>n. a position in a schedule or sequence<br>v. to place something into a slot</td></tr>
 <tr><td>slots</td><td>slots</td><td>slot-s</td><td>slot-s</td><td></td></tr>
-<tr><td>sloth</td><td>slōth</td><td>sloth</td><td>slōth</td><td>n. a disinclination to work or exert yourself<br>n. a slow-moving arboreal mammal</td></tr>
-<tr><td>slothful</td><td>slōthfùl</td><td>sloth-ful</td><td>slōth-fùl</td><td>a. disinclined to work or exertion</td></tr>
+<tr><td>sloth</td><td>sloth</td><td>sloth</td><td>sloth</td><td>n. a disinclination to work or exert yourself<br>n. a slow-moving arboreal mammal</td></tr>
+<tr><td>slothful</td><td>slothfůl</td><td>sloth-ful</td><td>sloth-fůl</td><td>a. disinclined to work or exertion</td></tr>
 <tr><td>slouch</td><td>slòuch</td><td>slouch</td><td>slòuch</td><td>v. to stand, move, or sit with a drooping posture<br>n. a lazy or incompetent person</td></tr>
 <tr><td>slouched</td><td>slòuch𝕖ḋ</td><td>slouch-ed</td><td>slòuch-𝕖ḋ</td><td>v. sit or stand with drooping shoulders</td></tr>
 <tr><td>slouching</td><td>slòuching</td><td>slouch-ing</td><td>slòuch-ing</td><td>v. assume a drooping posture or carriage<br>v. walk slovenly</td></tr>
 <tr><td>slouchy</td><td>slòuchẏ</td><td>slouch-y</td><td>slòuch-ẏ</td><td>a. lacking stiffness in form or posture</td></tr>
-<tr><td>slough</td><td>slo̊ugh</td><td>slough</td><td>slo̊ugh</td><td>n. a hollow filled with mud<br>n. any outer covering that can be shed or cast off (such as the cast-off skin of a snake)<br>v. cast off</td></tr>
-<tr><td>sloven</td><td>slôv𝕖n</td><td>sloven</td><td>slôv𝕖n</td><td>n. a person who is habitually untidy</td></tr>
+<tr><td>slough</td><td>slòu𝕘𝕙</td><td>slough</td><td>slòu𝕘𝕙</td><td>n. a hollow filled with mud<br>n. any outer covering that can be shed or cast off (such as the cast-off skin of a snake)<br>v. cast off</td></tr>
+<tr><td>sloven</td><td>slôve̊n</td><td>sloven</td><td>slôve̊n</td><td>n. a person who is habitually untidy</td></tr>
 <tr><td>Slovenia</td><td>Slōvēniå</td><td>Slovenia</td><td>Slōvēniå</td><td>n. a country in central Europe</td></tr>
-<tr><td>slovak</td><td>slōvàk</td><td>slovak</td><td>slōvàk</td><td>n. a native or inhabitant of Slovakia<br>a. of or relating to Slovakia or its people</td></tr>
-<tr><td>slovakian</td><td>slōvàkiån</td><td>slovakian</td><td>slōvàkiån</td><td>a. of or relating to Slovakia or its people<br>n. a native or inhabitant of Slovakia</td></tr>
+<tr><td>slovak</td><td>slōvak</td><td>slovak</td><td>slōvak</td><td>n. a native or inhabitant of Slovakia<br>a. of or relating to Slovakia or its people</td></tr>
+<tr><td>slovakian</td><td>slōvakiån</td><td>slovakian</td><td>slōvakiån</td><td>a. of or relating to Slovakia or its people<br>n. a native or inhabitant of Slovakia</td></tr>
 <tr><td>slovenian</td><td>slōvēniån</td><td>slovenian</td><td>slōvēniån</td><td>a. of or relating to Slovenia or its people<br>n. a native or inhabitant of Slovenia</td></tr>
 <tr><td>slovenly</td><td>slôve̊nlẏ</td><td>sloven-ly</td><td>slôve̊n-lẏ</td><td>a. negligent of neatness especially in dress and person</td></tr>
-<tr><td>slovenliness</td><td>slôve̊nline̊ss</td><td>slovenl-i-ness</td><td>slôve̊nl-i-ne̊ss</td><td>n. habitual uncleanliness</td></tr>
+<tr><td>slovenliness</td><td>slôve̊nlinėss</td><td>slovenl-i-ness</td><td>slôve̊nl-i-nėss</td><td>n. habitual uncleanliness</td></tr>
 <tr><td>slow</td><td>slōw</td><td>slow</td><td>slōw</td><td>a. moving or operating at a low speed<br>v. reduce one&#x27;s speed or the speed of something</td></tr>
 <tr><td>slowdown</td><td>slōwdòwn</td><td>slow-down</td><td>slōw-dòwn</td><td>n. the act of slowing down or falling behind</td></tr>
 <tr><td>slowed</td><td>slōw𝕖d</td><td>slow-ed</td><td>slōw-𝕖d</td><td></td></tr>
@@ -3553,7 +3553,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slowest</td><td>slōwėst</td><td>slow-est</td><td>slōw-ėst</td><td></td></tr>
 <tr><td>slowing</td><td>slōwing</td><td>slow-ing</td><td>slōw-ing</td><td>n. a decrease in rate of change<br>v. lose velocity; move more slowly</td></tr>
 <tr><td>slowly</td><td>slōwlẏ</td><td>slow-ly</td><td>slōw-lẏ</td><td>adv. at a slow speed; not quickly</td></tr>
-<tr><td>slowness</td><td>slōwne̊ss</td><td>slow-ness</td><td>slōw-ne̊ss</td><td>n. a rate demonstrating an absence of haste or hurry</td></tr>
+<tr><td>slowness</td><td>slōwnėss</td><td>slow-ness</td><td>slōw-nėss</td><td>n. a rate demonstrating an absence of haste or hurry</td></tr>
 <tr><td>slowpoke</td><td>slōwpōke</td><td>slow-poke</td><td>slōw-pōke</td><td>n. someone who moves slowly</td></tr>
 <tr><td>slows</td><td>slōwṡ</td><td>slow-s</td><td>slōw-ṡ</td><td></td></tr>
 <tr><td>slowlier</td><td>slōwlie̊r</td><td>slow-li-er</td><td>slōw-li-e̊r</td><td></td></tr>
@@ -3568,7 +3568,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slugging</td><td>slûgging</td><td>slugg-ing</td><td>slûgg-ing</td><td>v. strike heavily, especially with the fist</td></tr>
 <tr><td>sluggish</td><td>slûggish</td><td>slugg-ish</td><td>slûgg-ish</td><td>a. moving slowly; lacking energy or alertness</td></tr>
 <tr><td>sluggishly</td><td>slûggishlẏ</td><td>slugg-ish-ly</td><td>slûgg-ish-lẏ</td><td>adv. in a sluggish manner</td></tr>
-<tr><td>sluggishness</td><td>slûggishne̊ss</td><td>slugg-ish-ness</td><td>slûgg-ish-ne̊ss</td><td>n. the pace of things that move relatively slowly</td></tr>
+<tr><td>sluggishness</td><td>slûggishnėss</td><td>slugg-ish-ness</td><td>slûgg-ish-nėss</td><td>n. the pace of things that move relatively slowly</td></tr>
 <tr><td>sluice</td><td>slūice</td><td>sluice</td><td>slūice</td><td>n. conduit that carries a rapid flow of water controlled by a sluicegate<br>v. pour as if from a sluice</td></tr>
 <tr><td>slum</td><td>slûm</td><td>slum</td><td>slûm</td><td>n. a poor and crowded area of a city</td></tr>
 <tr><td>slumlord</td><td>slûmlord</td><td>slum-lord</td><td>slûm-lord</td><td>n. a landlord who makes little effort to maintain properties in good condition</td></tr>
@@ -3578,9 +3578,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>slump</td><td>slûmp</td><td>slump</td><td>slûmp</td><td>n. a sudden decline in performance or value<br>v. to sit or fall heavily</td></tr>
 <tr><td>slumping</td><td>slûmping</td><td>slump-ing</td><td>slûmp-ing</td><td>v. fall or sink heavily<br>v. decline markedly</td></tr>
 <tr><td>slur</td><td>slůr</td><td>slur</td><td>slůr</td><td>v. to speak indistinctly or disparagingly<br>n. an insulting remark</td></tr>
-<tr><td>slurred</td><td>slurr𝕖d</td><td>slurr-ed</td><td>slurr-𝕖d</td><td>v. speak indistinctly, as if with a thick tongue</td></tr>
-<tr><td>slurring</td><td>slurring</td><td>slurr-ing</td><td>slurr-ing</td><td>v. speak disparagingly or utter indistinctly</td></tr>
-<tr><td>slurry</td><td>slurrẏ</td><td>slurr-y</td><td>slurr-ẏ</td><td>n. a suspension of insoluble particles usually in water</td></tr>
+<tr><td>slurred</td><td>slůrr𝕖d</td><td>slurr-ed</td><td>slůrr-𝕖d</td><td>v. speak indistinctly, as if with a thick tongue</td></tr>
+<tr><td>slurring</td><td>slůrring</td><td>slurr-ing</td><td>slůrr-ing</td><td>v. speak disparagingly or utter indistinctly</td></tr>
+<tr><td>slurry</td><td>slûrrẏ</td><td>slurr-y</td><td>slûrr-ẏ</td><td>n. a suspension of insoluble particles usually in water</td></tr>
 <tr><td>slurp</td><td>slůrp</td><td>slurp</td><td>slůrp</td><td>v. to eat or drink noisily</td></tr>
 <tr><td>slurpee</td><td>slůrpēe</td><td>slurp-ee</td><td>slůrp-ēe</td><td>n. a type of slushy soft drink sold at convenience stores</td></tr>
 <tr><td>slurping</td><td>slůrping</td><td>slurp-ing</td><td>slůrp-ing</td><td>v. eat or drink noisily</td></tr>
@@ -3595,7 +3595,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sluttiest</td><td>slûttiėst</td><td>slutt-i-est</td><td>slûtt-i-ėst</td><td></td></tr>
 <tr><td>sly</td><td>slȳ</td><td>sly</td><td>slȳ</td><td>a. marked by skill in deception; cunning</td></tr>
 <tr><td>slyly</td><td>slȳlẏ</td><td>sly-ly</td><td>slȳ-lẏ</td><td>adv. in an artful manner</td></tr>
-<tr><td>slyness</td><td>slȳne̊ss</td><td>sly-ness</td><td>slȳ-ne̊ss</td><td>n. shrewdness as demonstrated by being skilled in deception</td></tr>
+<tr><td>slyness</td><td>slȳnėss</td><td>sly-ness</td><td>slȳ-nėss</td><td>n. shrewdness as demonstrated by being skilled in deception</td></tr>
 <tr><td>smack</td><td>smack</td><td>smack</td><td>smack</td><td>v. to hit with a sharp blow<br>n. a sharp slap or blow</td></tr>
 <tr><td>smacked</td><td>smack𝕖ḋ</td><td>smack-ed</td><td>smack-𝕖ḋ</td><td></td></tr>
 <tr><td>smacker</td><td>smacke̊r</td><td>smack-er</td><td>smack-e̊r</td><td>n. a loud kiss<br>n. a very powerful blow with the fist</td></tr>
@@ -3606,7 +3606,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>smallest</td><td>smãllėst</td><td>small-est</td><td>smãll-ėst</td><td></td></tr>
 <tr><td>smallish</td><td>smãllish</td><td>small-ish</td><td>smãll-ish</td><td>a. rather small</td></tr>
 <tr><td>smallmouth</td><td>smãllmòuth</td><td>small-mouth</td><td>smãll-mòuth</td><td>n. a variety of black bass</td></tr>
-<tr><td>smallness</td><td>smãllne̊ss</td><td>small-ness</td><td>smãll-ne̊ss</td><td>n. the property of having a relatively small size</td></tr>
+<tr><td>smallness</td><td>smãllnėss</td><td>small-ness</td><td>smãll-nėss</td><td>n. the property of having a relatively small size</td></tr>
 <tr><td>smallpox</td><td>smãllpox</td><td>small-pox</td><td>smãll-pox</td><td>n. a highly contagious viral disease with skin eruptions</td></tr>
 <tr><td>smallholder</td><td>smãllhōlde̊r</td><td>small-hold-er</td><td>smãll-hōld-e̊r</td><td>n. a person owning or renting a smallholding</td></tr>
 <tr><td>smarmy</td><td>smàrmẏ</td><td>smarm-y</td><td>smàrm-ẏ</td><td>a. unpleasantly and excessively suave or ingratiating</td></tr>
@@ -3628,7 +3628,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>smear</td><td>smēar</td><td>smear</td><td>smēar</td><td>n. slanderous defamation<br>v. stain by smearing or daubing with a dirty substance</td></tr>
 <tr><td>smeared</td><td>smēar𝕖d</td><td>smear-ed</td><td>smēar-𝕖d</td><td>v. stain by smearing or daubing with a dirty substance<br>v. cover a surface by smearing a substance over it</td></tr>
 <tr><td>smearing</td><td>smēaring</td><td>smear-ing</td><td>smēar-ing</td><td>v. cover a surface by smearing a substance over it<br>v. attack the good name of someone</td></tr>
-<tr><td>smeary</td><td>sme̊arẏ</td><td>smear-y</td><td>sme̊ar-ẏ</td><td>a. tending to smear or soil; adhesive; viscous</td></tr>
+<tr><td>smeary</td><td>smēarẏ</td><td>smear-y</td><td>smēar-ẏ</td><td>a. tending to smear or soil; adhesive; viscous</td></tr>
 <tr><td>besmear</td><td>bėsmēar</td><td>be-smear</td><td>bė-smēar</td><td>vt. to smear or dirty with something</td></tr>
 <tr><td>smell</td><td>smell</td><td>smell</td><td>smell</td><td>n. the sensation that results when olfactory receptors in the nose are stimulated<br>n. the faculty that enables us to distinguish scents<br>v. inhale the odor of; perceive by the olfactory sense</td></tr>
 <tr><td>smelled</td><td>smell𝕖d</td><td>smell-ed</td><td>smell-𝕖d</td><td></td></tr>
@@ -3647,7 +3647,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>smiler</td><td>smīle̊r</td><td>smil-er</td><td>smīl-e̊r</td><td>n. a person who smiles</td></tr>
 <tr><td>smiling</td><td>smīling</td><td>smil-ing</td><td>smīl-ing</td><td>a. having a smile on the face</td></tr>
 <tr><td>smiles</td><td>smīl𝕖ṡ</td><td>smile-s</td><td>smīl𝕖-ṡ</td><td></td></tr>
-<tr><td>smiley</td><td>smīlēy</td><td>smile-y</td><td>smīlē-y</td><td>n. an emoticon of a smiling face</td></tr>
+<tr><td>smiley</td><td>smīlėy</td><td>smile-y</td><td>smīlė-y</td><td>n. an emoticon of a smiling face</td></tr>
 <tr><td>smilies</td><td>smīli𝕖ṡ</td><td>smil-i-es</td><td>smīl-i-𝕖ṡ</td><td></td></tr>
 <tr><td>smilingly</td><td>smīlinglẏ</td><td>smil-ing-ly</td><td>smīl-ing-lẏ</td><td>adv. with smiles; in a smiling manner</td></tr>
 <tr><td>smileys</td><td>smīlėyṡ</td><td>smil-ey-s</td><td>smīl-ėy-ṡ</td><td></td></tr>
@@ -3670,12 +3670,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>smoke</td><td>smōke</td><td>smoke</td><td>smōke</td><td>n. a cloud of fine particles suspended in a gas<br>n. a hot vapor containing fine particles of carbon being produced by combustion<br>v. inhale and exhale smoke from tobacco</td></tr>
 <tr><td>smoked</td><td>smōk𝕖ḋ</td><td>smok-ed</td><td>smōk-𝕖ḋ</td><td>a. dried and cured by hanging in wood smoke</td></tr>
 <tr><td>smoker</td><td>smōke̊r</td><td>smok-er</td><td>smōk-e̊r</td><td>n. a person who smokes tobacco</td></tr>
-<tr><td>smokehouse</td><td>smōkehòuse</td><td>smoke-house</td><td>smōke-hòuse</td><td>n. a small house where smoke is used to cure meat or fish</td></tr>
+<tr><td>smokehouse</td><td>smōk𝕖hòuse</td><td>smoke-house</td><td>smōk𝕖-hòuse</td><td>n. a small house where smoke is used to cure meat or fish</td></tr>
 <tr><td>smoking</td><td>smōking</td><td>smok-ing</td><td>smōk-ing</td><td>n. the action or habit of inhaling and exhaling the smoke of tobacco</td></tr>
 <tr><td>smokeless</td><td>smōk𝕖lėss</td><td>smoke-less</td><td>smōk𝕖-lėss</td><td>a. emitting or containing little or no smoke</td></tr>
 <tr><td>smokes</td><td>smōk𝕖s</td><td>smoke-s</td><td>smōk𝕖-s</td><td></td></tr>
-<tr><td>smokescreen</td><td>smōkescrēen</td><td>smoke-screen</td><td>smōke-scrēen</td><td>n. a cloud of smoke that obscures movements<br>n. an action intended to conceal one&#x27;s true intentions</td></tr>
-<tr><td>smokestack</td><td>smōkestack</td><td>smoke-stack</td><td>smōke-stack</td><td>n. a large tall chimney for smoke</td></tr>
+<tr><td>smokescreen</td><td>smōk𝕖scrēen</td><td>smoke-screen</td><td>smōk𝕖-scrēen</td><td>n. a cloud of smoke that obscures movements<br>n. an action intended to conceal one&#x27;s true intentions</td></tr>
+<tr><td>smokestack</td><td>smōk𝕖stack</td><td>smoke-stack</td><td>smōk𝕖-stack</td><td>n. a large tall chimney for smoke</td></tr>
 <tr><td>smoky</td><td>smōkẏ</td><td>smok-y</td><td>smōk-ẏ</td><td>a. filled with or tasting of smoke</td></tr>
 <tr><td>smokejumper</td><td>smōk𝕖jûmpe̊r</td><td>smoke-jump-er</td><td>smōk𝕖-jûmp-e̊r</td><td>n. a firefighter who parachutes into remote areas to combat wildfires</td></tr>
 <tr><td>smokiness</td><td>smōkinėss</td><td>smok-i-ness</td><td>smōk-i-nėss</td><td>n. the quality or state of being smoky</td></tr>
@@ -3693,7 +3693,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>smoothie</td><td>smooṫhie</td><td>smooth-ie</td><td>smooṫh-ie</td><td>n. a thick smooth drink consisting of fresh fruit pureed with yoghurt or milk</td></tr>
 <tr><td>smoothing</td><td>smooṫhing</td><td>smooth-ing</td><td>smooṫh-ing</td><td>n. the act of making something smooth</td></tr>
 <tr><td>smoothly</td><td>smooṫhlẏ</td><td>smooth-ly</td><td>smooṫh-lẏ</td><td>adv. without problems or difficulties</td></tr>
-<tr><td>smoothness</td><td>smooṫhne̊ss</td><td>smooth-ness</td><td>smooṫh-ne̊ss</td><td>n. the quality of having a smooth surface</td></tr>
+<tr><td>smoothness</td><td>smooṫhnėss</td><td>smooth-ness</td><td>smooṫh-nėss</td><td>n. the quality of having a smooth surface</td></tr>
 <tr><td>smoothy</td><td>smooṫhẏ</td><td>smooth-y</td><td>smooṫh-ẏ</td><td>n. someone with an assured and ingratiating manner</td></tr>
 <tr><td>smorgasbord</td><td>smorgåsbord</td><td>smorgasbord</td><td>smorgåsbord</td><td>n. a buffet meal with a variety of hot and cold dishes</td></tr>
 <tr><td>smother</td><td>smôṫhe̊r</td><td>smoth-er</td><td>smôṫh-e̊r</td><td>v. to suffocate by covering<br>v. to suppress or conceal</td></tr>
@@ -3708,7 +3708,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>smugger</td><td>smûgge̊r</td><td>smugg-er</td><td>smûgg-e̊r</td><td></td></tr>
 <tr><td>smuggest</td><td>smûggėst</td><td>smugg-est</td><td>smûgg-ėst</td><td></td></tr>
 <tr><td>smugly</td><td>smûglẏ</td><td>smug-ly</td><td>smûg-lẏ</td><td>adv. in a smug manner</td></tr>
-<tr><td>smugness</td><td>smûgne̊ss</td><td>smug-ness</td><td>smûg-ne̊ss</td><td>n. an excessive feeling of self-satisfaction</td></tr>
+<tr><td>smugness</td><td>smûgnėss</td><td>smug-ness</td><td>smûg-nėss</td><td>n. an excessive feeling of self-satisfaction</td></tr>
 <tr><td>smuggled</td><td>smûggl𝕖d</td><td>smuggl-ed</td><td>smûggl-𝕖d</td><td>a. imported or exported illegally</td></tr>
 <tr><td>smuggler</td><td>smûggle̊r</td><td>smuggl-er</td><td>smûggl-e̊r</td><td>n. someone who imports or exports goods illegally</td></tr>
 <tr><td>smuggle</td><td>smûggle</td><td>smugg-le</td><td>smûgg-le</td><td>v. import or export without paying customs duties</td></tr>
@@ -3727,9 +3727,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>snakehead</td><td>snāk𝕖hèad</td><td>snake-head</td><td>snāk𝕖-hèad</td><td>n. a perennial marsh plant of North America having waxy leaves and white to purple flowers</td></tr>
 <tr><td>snaking</td><td>snāking</td><td>snak-ing</td><td>snāk-ing</td><td>v. move smoothly and sinuously, like a snake</td></tr>
 <tr><td>snakes</td><td>snāk𝕖s</td><td>snake-s</td><td>snāk𝕖-s</td><td></td></tr>
-<tr><td>snakeskin</td><td>snākeskin</td><td>snake-skin</td><td>snāke-skin</td><td>n. the skin of a snake</td></tr>
+<tr><td>snakeskin</td><td>snāk𝕖skin</td><td>snake-skin</td><td>snāk𝕖-skin</td><td>n. the skin of a snake</td></tr>
 <tr><td>snaky</td><td>snākẏ</td><td>snak-y</td><td>snāk-ẏ</td><td>a. resembling a serpent in form</td></tr>
-<tr><td>rattlesnake</td><td>rattlesnāke</td><td>ratt-le-snake</td><td>ratt-le-snāke</td><td>n. a poisonous American snake with a rattle at the end of its tail</td></tr>
+<tr><td>rattlesnake</td><td>rattl𝕖snāke</td><td>ratt-le-snake</td><td>ratt-l𝕖-snāke</td><td>n. a poisonous American snake with a rattle at the end of its tail</td></tr>
 <tr><td>snap</td><td>snap</td><td>snap</td><td>snap</td><td>n. the noise made by rapidly moving a finger from the tip to the base of the thumb<br>n. a sudden breaking<br>n. a fastener used on clothing; fastens with a snapping sound<br>v. make a sharp explosive noise</td></tr>
 <tr><td>snapdragon</td><td>snapdrago̊n</td><td>snap-dragon</td><td>snap-drago̊n</td><td>n. a garden plant with showy flowers that resemble the face of a dragon</td></tr>
 <tr><td>snapped</td><td>snapp𝕖ḋ</td><td>snapp-ed</td><td>snapp-𝕖ḋ</td><td>v. break suddenly and abruptly<br>v. utter in an angry, sharp, or abrupt tone (snap的过去式和过去分词)</td></tr>
@@ -3740,8 +3740,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>snapshot</td><td>snapshot</td><td>snap-shot</td><td>snap-shot</td><td>n. an informal photograph; usually made with a small hand-held camera</td></tr>
 <tr><td>snappy</td><td>snappẏ</td><td>snapp-y</td><td>snapp-ẏ</td><td>a. smart and fashionable<br>a. quick and energetic</td></tr>
 <tr><td>gingersnap</td><td>ginge̊rsnap</td><td>ging-er-snap</td><td>ging-e̊r-snap</td><td>n. a crisp round cookie flavored with ginger</td></tr>
-<tr><td>snare</td><td>snare</td><td>snare</td><td>snare</td><td>n. a trap for catching animals; a thing that entangles</td></tr>
-<tr><td>ensnare</td><td>ėnsnare</td><td>en-snare</td><td>ėn-snare</td><td>v. take or catch as if in a snare or trap</td></tr>
+<tr><td>snare</td><td>snāre</td><td>snare</td><td>snāre</td><td>n. a trap for catching animals; a thing that entangles</td></tr>
+<tr><td>ensnare</td><td>ensnāre</td><td>en-snare</td><td>en-snāre</td><td>v. take or catch as if in a snare or trap</td></tr>
 <tr><td>snarky</td><td>snàrkẏ</td><td>snark-y</td><td>snàrk-ẏ</td><td>a. rudely sarcastic or disrespectful</td></tr>
 <tr><td>snarl</td><td>snàrl</td><td>snarl</td><td>snàrl</td><td>n. a vicious angry growl; a tangled mass<br>v. make a snarling noise; tangle</td></tr>
 <tr><td>snarled</td><td>snàrl𝕖d</td><td>snarl-ed</td><td>snàrl-𝕖d</td><td>a. tangled in knots or snarls</td></tr>
@@ -3770,7 +3770,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>snick</td><td>snick</td><td>snick</td><td>snick</td><td>n. a glancing contact with the ball off the edge of the cricket bat<br>v. hit a glancing blow with the edge of the bat</td></tr>
 <tr><td>snicker</td><td>snicke̊r</td><td>snick-er</td><td>snick-e̊r</td><td>n. a disrespectful laugh<br>v. to laugh quietly</td></tr>
 <tr><td>snickering</td><td>snicke̊ring</td><td>snick-er-ing</td><td>snick-e̊r-ing</td><td>v. laugh quietly</td></tr>
-<tr><td>persnickety</td><td>pe̊rsnicke̊tẏ</td><td>per-snick-et-y</td><td>pe̊r-snick-e̊t-ẏ</td><td>a. (used colloquially) overly conceited or arrogant<br>a. characterized by excessive precision and attention to trivial details</td></tr>
+<tr><td>persnickety</td><td>pe̊rsnickėtẏ</td><td>per-snick-et-y</td><td>pe̊r-snick-ėt-ẏ</td><td>a. (used colloquially) overly conceited or arrogant<br>a. characterized by excessive precision and attention to trivial details</td></tr>
 <tr><td>snide</td><td>snīde</td><td>snide</td><td>snīde</td><td>a. expressive of contempt<br>a. false or fake</td></tr>
 <tr><td>snidely</td><td>snīd𝕖lẏ</td><td>snide-ly</td><td>snīd𝕖-lẏ</td><td>adv. with a sneer; in a sneering manner</td></tr>
 <tr><td>sniff</td><td>sniff</td><td>sniff</td><td>sniff</td><td>v. to draw air in through the nose to detect a smell<br>n. an act or sound of sniffing</td></tr>
@@ -3784,18 +3784,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>snigger</td><td>snigge̊r</td><td>snigg-er</td><td>snigg-e̊r</td><td>n. a disrespectful laugh<br>v. laugh quietly</td></tr>
 <tr><td>snip</td><td>snip</td><td>snip</td><td>snip</td><td>v. to cut with small quick strokes<br>n. a small cut or piece</td></tr>
 <tr><td>sniper</td><td>snīpe̊r</td><td>snip-er</td><td>snīp-e̊r</td><td>n. a marksman who shoots at people from a concealed place</td></tr>
-<tr><td>snippet</td><td>snippe̊t</td><td>snipp-et</td><td>snipp-e̊t</td><td>n. a small piece of anything</td></tr>
+<tr><td>snippet</td><td>snippėt</td><td>snipp-et</td><td>snipp-ėt</td><td>n. a small piece of anything</td></tr>
 <tr><td>snips</td><td>snips</td><td>snip-s</td><td>snip-s</td><td>n. small cutting shears</td></tr>
 <tr><td>snippy</td><td>snippẏ</td><td>snipp-y</td><td>snipp-ẏ</td><td>a. inclined to be short-tempered and rude</td></tr>
 <tr><td>snipe</td><td>snīpe</td><td>snipe</td><td>snīpe</td><td>n. a type of wading bird<br>v. to shoot from a concealed position</td></tr>
 <tr><td>snit</td><td>snit</td><td>snit</td><td>snit</td><td>n. a state of agitated irritation</td></tr>
 <tr><td>snitch</td><td>snitch</td><td>snitch</td><td>snitch</td><td>n. someone acting as an informer or decoy for the police<br>v. take by theft<br>v. give away information about somebody</td></tr>
-<tr><td>snivel</td><td>snivel</td><td>snivel</td><td>snivel</td><td>n. whining in a tearful manner<br>v. talk in a tearful manner</td></tr>
+<tr><td>snivel</td><td>snive̊l</td><td>snivel</td><td>snive̊l</td><td>n. whining in a tearful manner<br>v. talk in a tearful manner</td></tr>
 <tr><td>sniveling</td><td>snive̊ling</td><td>snivel-ing</td><td>snive̊l-ing</td><td>v. whine in a tearful manner<br>v. cry or whine with snuffling</td></tr>
 <tr><td>snob</td><td>snob</td><td>snob</td><td>snob</td><td>n. a person regarded as arrogant and annoying</td></tr>
 <tr><td>snobbish</td><td>snobbish</td><td>snobb-ish</td><td>snobb-ish</td><td>a. befitting or characteristic of those who incline to social exclusiveness</td></tr>
 <tr><td>snobby</td><td>snobbẏ</td><td>snobb-y</td><td>snobb-ẏ</td><td>a. characteristic of a snob</td></tr>
-<tr><td>snobbishness</td><td>snobbishne̊ss</td><td>snobb-ish-ness</td><td>snobb-ish-ne̊ss</td><td>n. the trait of condescending to those of lower social status</td></tr>
+<tr><td>snobbishness</td><td>snobbishnėss</td><td>snobb-ish-ness</td><td>snobb-ish-nėss</td><td>n. the trait of condescending to those of lower social status</td></tr>
 <tr><td>snobbery</td><td>snobbe̊rẏ</td><td>snobb-er-y</td><td>snobb-e̊r-ẏ</td><td>n. the trait of condescending to those of lower social status</td></tr>
 <tr><td>snooker</td><td>snooke̊r</td><td>snook-er</td><td>snook-e̊r</td><td>n. a form of pool played with 15 red balls and six balls of other colors and a cue ball<br>v. leave one&#x27;s opponent unable to take a direct shot</td></tr>
 <tr><td>snoop</td><td>snoop</td><td>snoop</td><td>snoop</td><td>n. a spy who makes uninvited inquiries into the private affairs of others</td></tr>
@@ -3825,11 +3825,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>snowcat</td><td>snōwcat</td><td>snow-cat</td><td>snōw-cat</td><td>n. a tracked vehicle used for traveling over snow</td></tr>
 <tr><td>snowdrift</td><td>snōwdrift</td><td>snow-drift</td><td>snōw-drift</td><td>n. a mass of snow heaped up by the wind</td></tr>
 <tr><td>snowdrop</td><td>snōwdrop</td><td>snow-drop</td><td>snōw-drop</td><td>n. a common European plant with white bell-shaped flowers that bloom in early spring</td></tr>
-<tr><td>snowfall</td><td>snōwfàll</td><td>snow-fall</td><td>snōw-fàll</td><td>n. the amount of snow that falls in a given period</td></tr>
+<tr><td>snowfall</td><td>snōwfãll</td><td>snow-fall</td><td>snōw-fãll</td><td>n. the amount of snow that falls in a given period</td></tr>
 <tr><td>snowfield</td><td>snōwfiēld</td><td>snow-field</td><td>snōw-fiēld</td><td>n. a permanent wide expanse of snow</td></tr>
 <tr><td>snowflake</td><td>snōwflāke</td><td>snow-flake</td><td>snōw-flāke</td><td>n. a crystal of snow</td></tr>
-<tr><td>snowless</td><td>snōwle̊ss</td><td>snow-less</td><td>snōw-le̊ss</td><td>a. destitute of snow</td></tr>
-<tr><td>snowman</td><td>snōwman</td><td>snow-man</td><td>snōw-man</td><td>n. a figure of a person made of packed snow</td></tr>
+<tr><td>snowless</td><td>snōwlėss</td><td>snow-less</td><td>snōw-lėss</td><td>a. destitute of snow</td></tr>
+<tr><td>snowman</td><td>snōwmån</td><td>snow-man</td><td>snōw-mån</td><td>n. a figure of a person made of packed snow</td></tr>
 <tr><td>snowmelt</td><td>snōwmelt</td><td>snow-melt</td><td>snōw-melt</td><td>n. melted snow</td></tr>
 <tr><td>snowpack</td><td>snōwpack</td><td>snow-pack</td><td>snōw-pack</td><td>n. the accumulated winter snow that persists into summer</td></tr>
 <tr><td>snowplow</td><td>snōwplòw</td><td>snow-plow</td><td>snōw-plòw</td><td>n. a vehicle used to push snow from roads</td></tr>
@@ -3843,7 +3843,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>snowballing</td><td>snōwbãlling</td><td>snow-ball-ing</td><td>snōw-bãll-ing</td><td>v increase or accumulate at a rapidly accelerating rate<br>v throw snowballs at</td></tr>
 <tr><td>snowboarding</td><td>snōwbōarding</td><td>snow-board-ing</td><td>snōw-bōard-ing</td><td>n. the act of sliding down a snow-covered slope while standing on a snowboard</td></tr>
 <tr><td>snowmaking</td><td>snōwmāking</td><td>snow-mak-ing</td><td>snōw-māk-ing</td><td>n. the production of artificial snow</td></tr>
-<tr><td>snowmobile</td><td>snōwmōbĩle</td><td>snow-mob-ile</td><td>snōw-mōb-ĩle</td><td>n. a motor vehicle for travel on snow<br>v. to ride a snowmobile</td></tr>
+<tr><td>snowmobile</td><td>snōwmo̊bĩle</td><td>snow-mob-ile</td><td>snōw-mo̊b-ĩle</td><td>n. a motor vehicle for travel on snow<br>v. to ride a snowmobile</td></tr>
 <tr><td>snub</td><td>snûb</td><td>snub</td><td>snûb</td><td>n. a deliberate act of ignoring someone<br>v. to treat with contempt</td></tr>
 <tr><td>snuff</td><td>snûff</td><td>snuff</td><td>snûff</td><td>n. finely powdered tobacco inhaled through the nose<br>v. to extinguish a candle</td></tr>
 <tr><td>snuffbox</td><td>snûffbox</td><td>snuff-box</td><td>snûff-box</td><td>n. a small ornamental box for carrying snuff in your pocket</td></tr>
@@ -3876,16 +3876,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>soberest</td><td>sōbe̊rėst</td><td>sob-er-est</td><td>sōb-e̊r-ėst</td><td></td></tr>
 <tr><td>sobering</td><td>sōbe̊ring</td><td>sob-er-ing</td><td>sōb-e̊r-ing</td><td>a. tending to make sober or more serious</td></tr>
 <tr><td>soberly</td><td>sōbe̊rlẏ</td><td>sob-er-ly</td><td>sōb-e̊r-lẏ</td><td>adv. in a grave and sober manner</td></tr>
-<tr><td>sobriety</td><td>sōbrīetẏ</td><td>sobri-e-ty</td><td>sōbrī-e-tẏ</td><td>n. moderation in or abstinence from alcohol</td></tr>
+<tr><td>sobriety</td><td>so̊brīe̊tẏ</td><td>sobri-e-ty</td><td>so̊brī-e̊-tẏ</td><td>n. moderation in or abstinence from alcohol</td></tr>
 <tr><td>soba</td><td>sōbå</td><td>soba</td><td>sōbå</td><td>n. a type of thin Japanese noodle made from buckwheat flour</td></tr>
-<tr><td>sobriquet</td><td>sōbri̊què𝕥</td><td>sobriquet</td><td>sōbri̊què𝕥</td><td>n. a familiar name for a person</td></tr>
+<tr><td>sobriquet</td><td>sobriquè𝕥</td><td>sobriquet</td><td>sobriquè𝕥</td><td>n. a familiar name for a person</td></tr>
 <tr><td>socal</td><td>sōcål</td><td>socal</td><td>sōcål</td><td>n. Southern California</td></tr>
 <tr><td>soccer</td><td>socce̊r</td><td>socc-er</td><td>socc-e̊r</td><td>n. a game played by two teams of 11 players trying to kick a ball into the opponent goal</td></tr>
-<tr><td>sociable</td><td>sōċi̊åble</td><td>soci-able</td><td>sōċi̊-åble</td><td>a. inclined to companionship with others; friendly</td></tr>
+<tr><td>sociable</td><td>sōciåble</td><td>soci-able</td><td>sōci-åble</td><td>a. inclined to companionship with others; friendly</td></tr>
 <tr><td>social</td><td>sōciål</td><td>soci-al</td><td>sōci-ål</td><td>a. relating to society; living in communities; relating to high society<br>n. a social gathering</td></tr>
-<tr><td>societal</td><td>so̊cīetål</td><td>societ-al</td><td>so̊cīet-ål</td><td>a. relating to society or its organization</td></tr>
+<tr><td>societal</td><td>so̊cīe̊tål</td><td>societ-al</td><td>so̊cīe̊t-ål</td><td>a. relating to society or its organization</td></tr>
 <tr><td>sociability</td><td>sōciåbilitẏ</td><td>soci-abil-ity</td><td>sōci-åbil-itẏ</td><td>n. the relative tendency or disposition to be sociable or associate with one&#x27;s fellows</td></tr>
-<tr><td>socialise</td><td>so̊ciålīṡe</td><td>soci-al-ise</td><td>so̊ci-ål-īṡe</td><td>vt. to make social</td></tr>
+<tr><td>socialise</td><td>sōciålīṡe</td><td>soci-al-ise</td><td>sōci-ål-īṡe</td><td>vt. to make social</td></tr>
 <tr><td>socialism</td><td>sōciåliṡm</td><td>soci-al-ism</td><td>sōci-ål-iṡm</td><td>n. a political theory advocating state ownership of industry</td></tr>
 <tr><td>socialist</td><td>sōciålist</td><td>soci-al-ist</td><td>sōci-ål-ist</td><td>n. a person who supports socialism<br>a. relating to socialism</td></tr>
 <tr><td>socialite</td><td>sōciålīte</td><td>soci-al-ite</td><td>sōci-ål-īte</td><td>n. a socially prominent person</td></tr>
@@ -3893,7 +3893,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>socialize</td><td>sōciålīze</td><td>soci-al-ize</td><td>sōci-ål-īze</td><td>v. take part in social activities; interact with others<br>v. train for a social environment</td></tr>
 <tr><td>sociably</td><td>sōciåblẏ</td><td>soci-ab-ly</td><td>sōci-åb-lẏ</td><td>adv. in a friendly manner</td></tr>
 <tr><td>socially</td><td>sōciållẏ</td><td>soci-al-ly</td><td>sōci-ål-lẏ</td><td>adv. in a social manner; by society</td></tr>
-<tr><td>sociopath</td><td>sōciōpath</td><td>soci-o-path</td><td>sōci-ō-path</td><td>n. a person with an antisocial personality disorder</td></tr>
+<tr><td>sociopath</td><td>sōcio̊path</td><td>soci-o-path</td><td>sōci-o̊-path</td><td>n. a person with an antisocial personality disorder</td></tr>
 <tr><td>society</td><td>so̊cīe̊tẏ</td><td>soc-ie-ty</td><td>so̊c-īe̊-tẏ</td><td>n. the community of people in a region with shared customs and institutions<br>n. an organization formed for a particular purpose</td></tr>
 <tr><td>socialized</td><td>sōciålīz𝕖d</td><td>soci-al-iz-ed</td><td>sōci-ål-īz-𝕖d</td><td>a. under group or government control; adjusted to social norms</td></tr>
 <tr><td>socialistic</td><td>sōciålistic</td><td>soci-al-ist-ic</td><td>sōci-ål-ist-ic</td><td>a. advocating or following the socialist principles</td></tr>
@@ -3903,43 +3903,43 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>societies</td><td>so̊cīe̊ti𝕖ṡ</td><td>soc-ie-t-ies</td><td>so̊c-īe̊-t-i𝕖ṡ</td><td></td></tr>
 <tr><td>sociology</td><td>sōciolo̊gẏ</td><td>soci-o-log-y</td><td>sōci-o-lo̊g-ẏ</td><td>n. the study and classification of human societies</td></tr>
 <tr><td>sociological</td><td>sōcio̊logicål</td><td>soci-o-log-ic-al</td><td>sōci-o̊-log-ic-ål</td><td>a. of or relating to or determined by sociology</td></tr>
-<tr><td>sociocultural</td><td>sōciōcûltůrål</td><td>soci-o-cult-ur-al</td><td>sōci-ō-cûlt-ůr-ål</td><td>a. relating to both social and cultural matters</td></tr>
-<tr><td>socialization</td><td>sōciålizātio̊n</td><td>soci-al-iz-at-ion</td><td>sōci-ål-iz-āt-io̊n</td><td>n. the process of learning to behave in a way acceptable to society</td></tr>
+<tr><td>sociocultural</td><td>sōcio̊cûltůrål</td><td>soci-o-cult-ur-al</td><td>sōci-o̊-cûlt-ůr-ål</td><td>a. relating to both social and cultural matters</td></tr>
+<tr><td>socialization</td><td>sōciålīzātio̊n</td><td>soci-al-iz-at-ion</td><td>sōci-ål-īz-āt-io̊n</td><td>n. the process of learning to behave in a way acceptable to society</td></tr>
 <tr><td>socioreligious</td><td>sōciōrėligio̊us</td><td>soci-o-re-lig-ious</td><td>sōci-ō-rė-lig-io̊us</td><td>a. involving both social and religious aspects</td></tr>
-<tr><td>sociopolitical</td><td>sōciōpo̊liticål</td><td>soci-o-pol-it-ic-al</td><td>sōci-ō-po̊l-it-ic-ål</td><td>a. relating to social and political issues</td></tr>
-<tr><td>socioemotional</td><td>sōciōemōtio̊nål</td><td>soci-o-e-mot-ion-al</td><td>sōci-ō-e-mōt-io̊n-ål</td><td>a. relating to social and emotional factors</td></tr>
+<tr><td>sociopolitical</td><td>sōciopo̊liticål</td><td>soci-o-pol-it-ic-al</td><td>sōci-o-po̊l-it-ic-ål</td><td>a. relating to social and political issues</td></tr>
+<tr><td>socioemotional</td><td>sōciōėmōtio̊nål</td><td>soci-o-e-mot-ion-al</td><td>sōci-ō-ė-mōt-io̊n-ål</td><td>a. relating to social and emotional factors</td></tr>
 <tr><td>sociodemographic</td><td>sōciōdemo̊graphic</td><td>soci-o-dem-o-graph-ic</td><td>sōci-ō-dem-o̊-graph-ic</td><td>a. relating to social and demographic characteristics</td></tr>
 <tr><td>sociolinguistic</td><td>sōciōlinguistic</td><td>soci-o-ling-u-ist-ic</td><td>sōci-ō-ling-u-ist-ic</td><td>a. of or relating to sociolinguistics</td></tr>
 <tr><td>sociobiologist</td><td>sōciōbīolo̊gist</td><td>soci-o-bi-o-log-ist</td><td>sōci-ō-bī-o-lo̊g-ist</td><td>n. a biologist who studies the biological determinants of social behavior</td></tr>
-<tr><td>socioeconomic</td><td>sōciōeco̊nomic</td><td>soci-o-ec-o-nom-ic</td><td>sōci-ō-ec-o̊-nom-ic</td><td>a. relating to or involving social and economic factors</td></tr>
+<tr><td>socioeconomic</td><td>sōciōēco̊nomic</td><td>soci-o-ec-o-nom-ic</td><td>sōci-ō-ēc-o̊-nom-ic</td><td>a. relating to or involving social and economic factors</td></tr>
 <tr><td>sociologically</td><td>sōcio̊logicållẏ</td><td>soci-o-log-ic-al-ly</td><td>sōci-o̊-log-ic-ål-lẏ</td><td>adv. with regard to sociology</td></tr>
 <tr><td>sociobiology</td><td>sōciōbīolo̊gẏ</td><td>soci-o-bi-o-log-y</td><td>sōci-ō-bī-o-lo̊g-ẏ</td><td>n. the biological study of the social organization of animals</td></tr>
 <tr><td>antisocial</td><td>antisōciål</td><td>anti-soci-al</td><td>anti-sōci-ål</td><td>a. hostile to normal social behavior<br>a. avoiding the company of others</td></tr>
 <tr><td>asocial</td><td>āsōciål</td><td>a-soci-al</td><td>ā-sōci-ål</td><td>a. given to avoiding association with others</td></tr>
 <tr><td>associate</td><td>åssōciāte</td><td>as-soci-ate</td><td>ås-sōci-āte</td><td>n. a partner or companion<br>v. connect in the mind or imagination</td></tr>
-<tr><td>associated</td><td>åssōciāt𝕖d</td><td>as-soci-at-ed</td><td>ås-sōci-āt-𝕖d</td><td>a. connected or related</td></tr>
+<tr><td>associated</td><td>åssōciātėd</td><td>as-soci-at-ed</td><td>ås-sōci-āt-ėd</td><td>a. connected or related</td></tr>
 <tr><td>association</td><td>åssōciātio̊n</td><td>as-soci-at-ion</td><td>ås-sōci-āt-io̊n</td><td>n. a group of people organized for a shared purpose<br>n. a connection between ideas or things</td></tr>
 <tr><td>associative</td><td>åssōciåtive</td><td>as-soci-at-ive</td><td>ås-sōci-åt-ive</td><td>a. characterized by the process of bringing ideas together in memory or imagination</td></tr>
-<tr><td>associational</td><td>åssōciåtio̊nål</td><td>as-soci-at-ion-al</td><td>ås-sōci-åt-io̊n-ål</td><td>a. of or relating to associations or associationism</td></tr>
+<tr><td>associational</td><td>åssōciātio̊nål</td><td>as-soci-at-ion-al</td><td>ås-sōci-āt-io̊n-ål</td><td>a. of or relating to associations or associationism</td></tr>
 <tr><td>associations</td><td>åssōciātio̊nṡ</td><td>as-soci-at-ion-s</td><td>ås-sōci-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>consociational</td><td>co̊nsōciātio̊nål</td><td>con-soci-at-ion-al</td><td>co̊n-sōci-āt-io̊n-ål</td><td>a. of or relating to a consociation or power-sharing arrangement</td></tr>
 <tr><td>dissociate</td><td>dissōciāte</td><td>dis-soci-ate</td><td>dis-sōci-āte</td><td>vt. to separate or disconnect from something</td></tr>
 <tr><td>dissociated</td><td>dissōciātėd</td><td>dis-soci-at-ed</td><td>dis-sōci-āt-ėd</td><td>v. part; cease or break association with<br>v. regard as unconnected</td></tr>
 <tr><td>dissociation</td><td>dissōciātio̊n</td><td>dis-soci-at-ion</td><td>dis-sōci-āt-io̊n</td><td>n. the state of being separated from association</td></tr>
-<tr><td>dissociative</td><td>dissōciātive</td><td>dis-soci-at-ive</td><td>dis-sōci-āt-ive</td><td>a. tending to produce dissociation</td></tr>
-<tr><td>eusocial</td><td>eūso̊ciål</td><td>eu-soci-al</td><td>eū-so̊ci-ål</td><td>a. living in a highly organized social group</td></tr>
+<tr><td>dissociative</td><td>dissōciåtive</td><td>dis-soci-at-ive</td><td>dis-sōci-åt-ive</td><td>a. tending to produce dissociation</td></tr>
+<tr><td>eusocial</td><td>eūsōciål</td><td>eu-soci-al</td><td>eū-sōci-ål</td><td>a. living in a highly organized social group</td></tr>
 <tr><td>homosocial</td><td>hōmōsōciål</td><td>homo-soci-al</td><td>hōmō-sōci-ål</td><td>a. relating to same-sex social relationships that are not romantic or sexual in nature</td></tr>
-<tr><td>prosocial</td><td>pro̊so̊ciål</td><td>pro-soci-al</td><td>pro̊-so̊ci-ål</td><td>a. relating to positive, helpful behavior intended to promote social acceptance</td></tr>
+<tr><td>prosocial</td><td>prosōciål</td><td>pro-soci-al</td><td>pro-sōci-ål</td><td>a. relating to positive, helpful behavior intended to promote social acceptance</td></tr>
 <tr><td>psychosocial</td><td>𝕡sȳc𝕙ōsōciål</td><td>psycho-soci-al</td><td>𝕡sȳc𝕙ō-sōci-ål</td><td>a. relating to the interrelation of social factors and individual thought and behavior</td></tr>
 <tr><td>unsociable</td><td>ûnsōciåble</td><td>un-soci-able</td><td>ûn-sōci-åble</td><td>a. not inclined to society or companionship</td></tr>
-<tr><td>biopsychosocial</td><td>bīopsȳc𝕙o̊so̊ciål</td><td>bio-psycho-soci-al</td><td>bīo-psȳc𝕙o̊-so̊ci-ål</td><td>a. relating to or involving the interplay of biological, psychological, and social factors</td></tr>
-<tr><td>disassociate</td><td>disåssōċiāte</td><td>dis-as-soci-ate</td><td>dis-ås-sōċi-āte</td><td>v. part; cease or break association with</td></tr>
+<tr><td>biopsychosocial</td><td>bīo𝕡sȳc𝕙ōsōciål</td><td>bio-psycho-soci-al</td><td>bīo-𝕡sȳc𝕙ō-sōci-ål</td><td>a. relating to or involving the interplay of biological, psychological, and social factors</td></tr>
+<tr><td>disassociate</td><td>disåssōciāte</td><td>dis-as-soci-ate</td><td>dis-ås-sōci-āte</td><td>v. part; cease or break association with</td></tr>
 <tr><td>disassociation</td><td>disåssōciātio̊n</td><td>dis-as-soci-at-ion</td><td>dis-ås-sōci-āt-io̊n</td><td>n. the state of being unconnected in memory or imagination</td></tr>
 <tr><td>photodissociation</td><td>phōtōdissōciātio̊n</td><td>photo-dis-soci-at-ion</td><td>phōtō-dis-sōci-āt-io̊n</td><td>n. chemical breakdown caused by light</td></tr>
 <tr><td>sock</td><td>sock</td><td>sock</td><td>sock</td><td>n. a piece of clothing worn on the foot<br>vt. hit hard</td></tr>
 <tr><td>sox</td><td>sox</td><td>sox</td><td>sox</td><td></td></tr>
 <tr><td>socked</td><td>sock𝕖ḋ</td><td>sock-ed</td><td>sock-𝕖ḋ</td><td>v. hit hard</td></tr>
-<tr><td>socket</td><td>socke̊t</td><td>sock-et</td><td>sock-e̊t</td><td>n. a bony hollow into which a structure fits<br>n. a receptacle into which an electric device can be inserted</td></tr>
+<tr><td>socket</td><td>sockėt</td><td>sock-et</td><td>sock-ėt</td><td>n. a bony hollow into which a structure fits<br>n. a receptacle into which an electric device can be inserted</td></tr>
 <tr><td>sockeye</td><td>sockeȳe</td><td>sock-eye</td><td>sock-eȳe</td><td>n. a small salmon with red flesh found in the northern Pacific</td></tr>
 <tr><td>socks</td><td>socks</td><td>sock-s</td><td>sock-s</td><td>n. plural of sock</td></tr>
 <tr><td>socle</td><td>socle</td><td>socle</td><td>socle</td><td>n. a plain plinth that supports a wall</td></tr>
@@ -3949,8 +3949,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sodium</td><td>sōdiům</td><td>sod-ium</td><td>sōd-iům</td><td>n. a soft silver-white chemical element, common in salt</td></tr>
 <tr><td>sodality</td><td>sōdalitẏ</td><td>sod-al-ity</td><td>sōd-al-itẏ</td><td>n. people engaged in a particular occupation<br>n. a fellowship or association</td></tr>
 <tr><td>sodas</td><td>sōdåṡ</td><td>sod-a-s</td><td>sōd-å-ṡ</td><td></td></tr>
-<tr><td>episodic</td><td>epi̊sodic</td><td>epi-sod-ic</td><td>epi̊-sod-ic</td><td>a. occurring or appearing at irregular intervals</td></tr>
-<tr><td>episodically</td><td>episōdicållẏ</td><td>epi-sod-ic-al-ly</td><td>epi-sōd-ic-ål-lẏ</td><td>adv. in an episodic manner</td></tr>
+<tr><td>episodic</td><td>episodic</td><td>epi-sod-ic</td><td>epi-sod-ic</td><td>a. occurring or appearing at irregular intervals</td></tr>
+<tr><td>episodically</td><td>episodicållẏ</td><td>epi-sod-ic-al-ly</td><td>epi-sod-ic-ål-lẏ</td><td>adv. in an episodic manner</td></tr>
 <tr><td>sodden</td><td>sodde̊n</td><td>sodden</td><td>sodde̊n</td><td>a. wet through and through; thoroughly wet</td></tr>
 <tr><td>sodomite</td><td>sodo̊mīte</td><td>sodom-ite</td><td>sodo̊m-īte</td><td>n. someone who engages in anal copulation, especially a male with another male</td></tr>
 <tr><td>sodomize</td><td>sodo̊mīze</td><td>sodom-ize</td><td>sodo̊m-īze</td><td>v. practice anal sex upon</td></tr>
@@ -3976,7 +3976,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>softening</td><td>softe̊ning</td><td>soft-en-ing</td><td>soft-e̊n-ing</td><td>n. the process of becoming softer</td></tr>
 <tr><td>softballs</td><td>softbãllṡ</td><td>soft-ball-s</td><td>soft-bãll-ṡ</td><td></td></tr>
 <tr><td>soggy</td><td>soggẏ</td><td>sogg-y</td><td>sogg-ẏ</td><td>a. soft and watery; slow and apathetic</td></tr>
-<tr><td>soigne</td><td>soi𝕘nè</td><td>soigne</td><td>soi𝕘nè</td><td>a. well-groomed, elegant</td></tr>
+<tr><td>soigne</td><td>soignè</td><td>soigne</td><td>soignè</td><td>a. well-groomed, elegant</td></tr>
 <tr><td>soil</td><td>soil</td><td>soil</td><td>soil</td><td>n. the upper layer of earth in which plants grow<br>v. make dirty</td></tr>
 <tr><td>soiled</td><td>soil𝕖d</td><td>soil-ed</td><td>soil-𝕖d</td><td>a. made dirty or filthy</td></tr>
 <tr><td>soiling</td><td>soiling</td><td>soil-ing</td><td>soil-ing</td><td>n. the act of soiling something</td></tr>
@@ -3988,48 +3988,48 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sojourn</td><td>sōjo̊urn</td><td>sojourn</td><td>sōjo̊urn</td><td>n. a temporary stay<br>v. spend a certain length of time; reside temporarily</td></tr>
 <tr><td>sojourner</td><td>sōjo̊urne̊r</td><td>sojourn-er</td><td>sōjo̊urn-e̊r</td><td>n. a temporary resident</td></tr>
 <tr><td>sol</td><td>sol</td><td>sol</td><td>sol</td><td>n. the sun god; a monetary unit</td></tr>
-<tr><td>solace</td><td>solåce</td><td>solace</td><td>solåce</td><td>n. comfort in disappointment or misery<br>v. to comfort</td></tr>
+<tr><td>solace</td><td>solȧce</td><td>solace</td><td>solȧce</td><td>n. comfort in disappointment or misery<br>v. to comfort</td></tr>
 <tr><td>sole</td><td>sōle</td><td>sole</td><td>sōle</td><td>a. being the only one<br>n. the underside of the foot or shoe</td></tr>
 <tr><td>solar</td><td>sōlår</td><td>sol-ar</td><td>sōl-år</td><td>a. relating to or derived from the sun or utilizing the energies of the sun</td></tr>
 <tr><td>soli</td><td>sōli</td><td>sol-i</td><td>sōl-i</td><td></td></tr>
 <tr><td>solid</td><td>solid</td><td>sol-id</td><td>sol-id</td><td>n. a substance that is firm and not a liquid or gas<br>a. firm and stable; reliable</td></tr>
-<tr><td>solitude</td><td>soli̊tūde</td><td>sol-itude</td><td>sol-i̊tūde</td><td>n. the state or situation of being alone</td></tr>
+<tr><td>solitude</td><td>solitūde</td><td>sol-itude</td><td>sol-itūde</td><td>n. the state or situation of being alone</td></tr>
 <tr><td>solely</td><td>sōl𝕖lẏ</td><td>sole-ly</td><td>sōl𝕖-lẏ</td><td>adv. without any others being included or involved</td></tr>
 <tr><td>solo</td><td>sōlō</td><td>sol-o</td><td>sōl-ō</td><td>n. a performance by one person<br>a. done alone<br>v. to perform a solo</td></tr>
 <tr><td>solstice</td><td>solstice</td><td>sol-stice</td><td>sol-stice</td><td>n. either of two times when the sun is at its greatest distance from the equator</td></tr>
-<tr><td>soleus</td><td>sōleus</td><td>sole-us</td><td>sōle-us</td><td>n. a broad flat muscle in the calf of the leg</td></tr>
+<tr><td>soleus</td><td>sōlėůs</td><td>sole-us</td><td>sōlė-ůs</td><td>n. a broad flat muscle in the calf of the leg</td></tr>
 <tr><td>solicit</td><td>so̊licit</td><td>sol-i-cit</td><td>so̊l-i-cit</td><td>v. ask for or request earnestly<br>v. make a solicitation</td></tr>
-<tr><td>solider</td><td>soli̊de̊r</td><td>sol-id-er</td><td>sol-i̊d-e̊r</td><td>n. one who works hard or serves faithfully</td></tr>
-<tr><td>solarium</td><td>sōlåriům</td><td>sol-ar-ium</td><td>sōl-år-iům</td><td>n. a room enclosed largely with glass and affording exposure to the sun</td></tr>
+<tr><td>solider</td><td>solide̊r</td><td>sol-id-er</td><td>sol-id-e̊r</td><td>n. one who works hard or serves faithfully</td></tr>
+<tr><td>solarium</td><td>sōlāriům</td><td>sol-ar-ium</td><td>sōl-ār-iům</td><td>n. a room enclosed largely with glass and affording exposure to the sun</td></tr>
 <tr><td>solidify</td><td>so̊lidifȳ</td><td>sol-id-ify</td><td>so̊l-id-ifȳ</td><td>v. to become solid or make something solid</td></tr>
-<tr><td>solidity</td><td>so̊lidi̊tẏ</td><td>sol-id-ity</td><td>so̊l-id-i̊tẏ</td><td>n. the quality of being solid and reliable</td></tr>
-<tr><td>soloist</td><td>sōloist</td><td>sol-o-ist</td><td>sōl-o-ist</td><td>n. a musician who performs a solo</td></tr>
+<tr><td>solidity</td><td>so̊liditẏ</td><td>sol-id-ity</td><td>so̊l-id-itẏ</td><td>n. the quality of being solid and reliable</td></tr>
+<tr><td>soloist</td><td>sōlōist</td><td>sol-o-ist</td><td>sōl-ō-ist</td><td>n. a musician who performs a solo</td></tr>
 <tr><td>solubility</td><td>solūbilitẏ</td><td>sol-ubil-ity</td><td>sol-ūbil-itẏ</td><td>n. the quality of being soluble and easily dissolved in liquid</td></tr>
-<tr><td>solidly</td><td>soli̊dlẏ</td><td>sol-id-ly</td><td>sol-i̊d-lẏ</td><td>adv. in a solid manner; firmly</td></tr>
+<tr><td>solidly</td><td>solidlẏ</td><td>sol-id-ly</td><td>sol-id-lẏ</td><td>adv. in a solid manner; firmly</td></tr>
 <tr><td>solidness</td><td>solidnėss</td><td>sol-id-ness</td><td>sol-id-nėss</td><td>n. the quality of being solid and reliable</td></tr>
 <tr><td>solos</td><td>sōlōṡ</td><td>sol-o-s</td><td>sōl-ō-ṡ</td><td></td></tr>
 <tr><td>solidus</td><td>solidůs</td><td>sol-id-us</td><td>sol-id-ůs</td><td>n. a punctuation mark (/) used to separate related items of information</td></tr>
 <tr><td>solicited</td><td>so̊licitėd</td><td>sol-i-cit-ed</td><td>so̊l-i-cit-ėd</td><td>v. make a request or entreaty for something<br>v. approach with an offer</td></tr>
 <tr><td>solar-powered</td><td>sōlår-pòwe̊r𝕖d</td><td>sol-ar-power-ed</td><td>sōl-år-pòwe̊r-𝕖d</td><td>a. powered by solar energy</td></tr>
-<tr><td>solicitor</td><td>so̊lici̊to̊r</td><td>sol-i-cit-or</td><td>so̊l-i-ci̊t-o̊r</td><td>n. a British lawyer who gives legal advice and prepares legal documents</td></tr>
-<tr><td>solicitous</td><td>so̊lici̊to̊us</td><td>sol-i-cit-ous</td><td>so̊l-i-ci̊t-o̊us</td><td>a. full of anxiety and concern<br>a. showing hovering attentiveness</td></tr>
+<tr><td>solicitor</td><td>so̊licito̊r</td><td>sol-i-cit-or</td><td>so̊l-i-cit-o̊r</td><td>n. a British lawyer who gives legal advice and prepares legal documents</td></tr>
+<tr><td>solicitous</td><td>so̊licito̊us</td><td>sol-i-cit-ous</td><td>so̊l-i-cit-o̊us</td><td>a. full of anxiety and concern<br>a. showing hovering attentiveness</td></tr>
 <tr><td>solidarity</td><td>solidaritẏ</td><td>sol-id-ari-ty</td><td>sol-id-ari-tẏ</td><td>n. unity and agreement among people with a common interest</td></tr>
 <tr><td>solicitude</td><td>so̊licitūde</td><td>sol-i-cit-ude</td><td>so̊l-i-cit-ūde</td><td>n. a feeling of excessive concern</td></tr>
-<tr><td>solidified</td><td>so̊lidi̊fī𝕖d</td><td>sol-id-i-fi-ed</td><td>so̊l-id-i̊-fī-𝕖d</td><td>v. make solid or more solid; cause to solidify<br>v. become solid<br>a. changed into a solid mass</td></tr>
+<tr><td>solidified</td><td>so̊lidifī𝕖d</td><td>sol-id-i-fi-ed</td><td>so̊l-id-i-fī-𝕖d</td><td>v. make solid or more solid; cause to solidify<br>v. become solid<br>a. changed into a solid mass</td></tr>
 <tr><td>solicitation</td><td>so̊licitātio̊n</td><td>sol-i-cit-at-ion</td><td>so̊l-i-cit-āt-io̊n</td><td>n. an earnest request; the act of enticing</td></tr>
 <tr><td>solarization</td><td>sōlårīzātio̊n</td><td>sol-ar-iz-at-ion</td><td>sōl-år-īz-āt-io̊n</td><td>n. exposure to the rays of the sun</td></tr>
 <tr><td>solicitously</td><td>so̊licito̊uslẏ</td><td>sol-i-cit-ous-ly</td><td>so̊l-i-cit-o̊us-lẏ</td><td>adv. in a concerned and solicitous manner</td></tr>
 <tr><td>solicitousness</td><td>so̊licito̊usnėss</td><td>sol-i-cit-ous-ness</td><td>so̊l-i-cit-o̊us-nėss</td><td>n. the quality of being anxious or concerned</td></tr>
 <tr><td>solidification</td><td>so̊lidificātio̊n</td><td>sol-id-i-fic-at-ion</td><td>so̊l-id-i-fic-āt-io̊n</td><td>n. the process of becoming hard or solid</td></tr>
-<tr><td>biosolids</td><td>biōṡolidṡ</td><td>bio-sol-id-s</td><td>biō-ṡol-id-ṡ</td><td>n. nutrient-rich organic material from wastewater treatment</td></tr>
+<tr><td>biosolids</td><td>bīōsolidṡ</td><td>bio-sol-id-s</td><td>bīō-sol-id-ṡ</td><td>n. nutrient-rich organic material from wastewater treatment</td></tr>
 <tr><td>console</td><td>co̊nsōle</td><td>con-sole</td><td>co̊n-sōle</td><td>vt. to comfort someone in grief<br>n. a panel for controlling a system</td></tr>
-<tr><td>consoler</td><td>console̊r</td><td>con-sol-er</td><td>con-sol-e̊r</td><td>n. one who gives consolation</td></tr>
+<tr><td>consoler</td><td>consōle̊r</td><td>con-sol-er</td><td>con-sōl-e̊r</td><td>n. one who gives consolation</td></tr>
 <tr><td>consoling</td><td>co̊nsōling</td><td>con-sol-ing</td><td>co̊n-sōl-ing</td><td>a. affording comfort or solace</td></tr>
 <tr><td>consolidate</td><td>co̊nsolidāte</td><td>con-sol-id-ate</td><td>co̊n-sol-id-āte</td><td>v. to make something stronger or more solid<br>v. to combine several things into one</td></tr>
 <tr><td>consolation</td><td>conso̊lātio̊n</td><td>con-sol-at-ion</td><td>con-so̊l-āt-io̊n</td><td>n. the comfort you feel when consoled in times of disappointment</td></tr>
-<tr><td>consolingly</td><td>consolinglẏ</td><td>con-sol-ing-ly</td><td>con-sol-ing-lẏ</td><td>adv. in a comforting or consoling manner</td></tr>
-<tr><td>consolidated</td><td>co̊nsoli̊dāt𝕖d</td><td>con-sol-id-at-ed</td><td>co̊n-sol-i̊d-āt-𝕖d</td><td>a. formed into a solid or coherent whole</td></tr>
-<tr><td>consolidation</td><td>co̊nsoli̊dātio̊n</td><td>con-sol-id-at-ion</td><td>co̊n-sol-i̊d-āt-io̊n</td><td>n. the act of combining into an integral whole</td></tr>
+<tr><td>consolingly</td><td>co̊nsōlinglẏ</td><td>con-sol-ing-ly</td><td>co̊n-sōl-ing-lẏ</td><td>adv. in a comforting or consoling manner</td></tr>
+<tr><td>consolidated</td><td>co̊nsolidātėd</td><td>con-sol-id-at-ed</td><td>co̊n-sol-id-āt-ėd</td><td>a. formed into a solid or coherent whole</td></tr>
+<tr><td>consolidation</td><td>co̊nsolidātio̊n</td><td>con-sol-id-at-ion</td><td>co̊n-sol-id-āt-io̊n</td><td>n. the act of combining into an integral whole</td></tr>
 <tr><td>consolidator</td><td>co̊nsolidāto̊r</td><td>con-sol-id-at-or</td><td>co̊n-sol-id-āt-o̊r</td><td>n. something that consolidates</td></tr>
 <tr><td>desolate</td><td>deso̊lāte</td><td>de-sol-ate</td><td>de-so̊l-āte</td><td>a. deserted and barren; crushed by grief</td></tr>
 <tr><td>desolation</td><td>deso̊lātio̊n</td><td>de-sol-at-ion</td><td>de-so̊l-āt-io̊n</td><td>n the state of being decayed or destroyed<br>n a bleak and desolate atmosphere<br>n sadness resulting from being forsaken or abandoned<br>n an event that results in total destruction</td></tr>
@@ -4039,47 +4039,47 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>isolate</td><td>īso̊lāte</td><td>i-sol-ate</td><td>ī-so̊l-āte</td><td>vt. to separate someone or something from others</td></tr>
 <tr><td>insolence</td><td>inso̊le̊nce</td><td>in-sol-ence</td><td>in-so̊l-e̊nce</td><td>n. an offensive disrespectful impudent act</td></tr>
 <tr><td>insolent</td><td>inso̊le̊nt</td><td>in-sol-ent</td><td>in-so̊l-e̊nt</td><td>a. marked by casual disrespect<br>a. unrestrained by convention or propriety</td></tr>
-<tr><td>isolated</td><td>īso̊lāt𝕖d</td><td>i-sol-at-ed</td><td>ī-so̊l-āt-𝕖d</td><td>a. far away from other places or people<br>a. happening only once</td></tr>
+<tr><td>isolated</td><td>īso̊lātėd</td><td>i-sol-at-ed</td><td>ī-so̊l-āt-ėd</td><td>a. far away from other places or people<br>a. happening only once</td></tr>
 <tr><td>insolation</td><td>inso̊lātio̊n</td><td>in-sol-at-ion</td><td>in-so̊l-āt-io̊n</td><td>n. incident solar radiation</td></tr>
 <tr><td>isolating</td><td>īso̊lāting</td><td>i-sol-at-ing</td><td>ī-so̊l-āt-ing</td><td>a. relating to isolation or keeping apart</td></tr>
 <tr><td>isolation</td><td>īso̊lātio̊n</td><td>i-sol-at-ion</td><td>ī-so̊l-āt-io̊n</td><td>n. the state of being separated from others</td></tr>
 <tr><td>insolently</td><td>inso̊le̊ntlẏ</td><td>in-sol-ent-ly</td><td>in-so̊l-e̊nt-lẏ</td><td>adv. in an insolent manner</td></tr>
 <tr><td>isolates</td><td>īso̊lāt𝕖s</td><td>i-sol-ate-s</td><td>ī-so̊l-āt𝕖-s</td><td></td></tr>
 <tr><td>isolationism</td><td>īso̊lātio̊niṡm</td><td>i-sol-at-ion-ism</td><td>ī-so̊l-āt-io̊n-iṡm</td><td>n. a policy of nonparticipation in international economic and political relations</td></tr>
-<tr><td>isolationist</td><td>īso̊lātio̊ni̊st</td><td>i-sol-at-ion-ist</td><td>ī-so̊l-āt-io̊n-i̊st</td><td>n. an advocate of isolationism in international affairs</td></tr>
+<tr><td>isolationist</td><td>īso̊lātio̊nist</td><td>i-sol-at-ion-ist</td><td>ī-so̊l-āt-io̊n-ist</td><td>n. an advocate of isolationism in international affairs</td></tr>
 <tr><td>obsolete</td><td>obso̊lēte</td><td>ob-solete</td><td>ob-so̊lēte</td><td>a. no longer in use; out of date</td></tr>
 <tr><td>parasol</td><td>paråsol</td><td>para-sol</td><td>parå-sol</td><td>n. a handheld collapsible source of shade</td></tr>
 <tr><td>unsolicited</td><td>ûnso̊licitėd</td><td>un-sol-i-cit-ed</td><td>ûn-so̊l-i-cit-ėd</td><td>a. not asked for</td></tr>
-<tr><td>aerosolized</td><td>āerosolīz𝕖d</td><td>aer-o-sol-iz-ed</td><td>āer-o-sol-īz-𝕖d</td><td>a. in the form of ultramicroscopic particles dispersed or suspended in air or gas</td></tr>
+<tr><td>aerosolized</td><td>āero̊solīz𝕖d</td><td>aer-o-sol-iz-ed</td><td>āer-o̊-sol-īz-𝕖d</td><td>a. in the form of ultramicroscopic particles dispersed or suspended in air or gas</td></tr>
 <tr><td>disconsolately</td><td>disconso̊låt𝕖lẏ</td><td>dis-con-sol-ate-ly</td><td>dis-con-so̊l-åt𝕖-lẏ</td><td>adv. in grief-stricken loneliness; without comforting circumstances</td></tr>
 <tr><td>inconsolably</td><td>inco̊nsōlåblẏ</td><td>in-con-sol-ab-ly</td><td>in-co̊n-sōl-åb-lẏ</td><td>adv. in an inconsolable manner</td></tr>
 <tr><td>indissoluble</td><td>indissolūble</td><td>in-dis-sol-uble</td><td>in-dis-sol-ūble</td><td>a. lasting and cannot be undone or dissolved</td></tr>
 <tr><td>indissolubly</td><td>indissolūblẏ</td><td>in-dis-sol-ubl-y</td><td>in-dis-sol-ūbl-ẏ</td><td>adv. in an indissoluble manner</td></tr>
 <tr><td>irresolute</td><td>irreṡo̊lūte</td><td>ir-re-sol-ute</td><td>ir-re-ṡo̊l-ūte</td><td>a. uncertain how to act or proceed</td></tr>
 <tr><td>irresolution</td><td>irreṡo̊lūtio̊n</td><td>ir-re-sol-ut-ion</td><td>ir-re-ṡo̊l-ūt-io̊n</td><td>n. doubt concerning two or more possible alternatives or courses of action</td></tr>
-<tr><td>unconsolidated</td><td>ûnco̊nsoli̊dātėd</td><td>un-con-sol-id-at-ed</td><td>ûn-co̊n-sol-i̊d-āt-ėd</td><td>a. loose and unstratified</td></tr>
+<tr><td>unconsolidated</td><td>ûnco̊nsolidātėd</td><td>un-con-sol-id-at-ed</td><td>ûn-co̊n-sol-id-āt-ėd</td><td>a. loose and unstratified</td></tr>
 <tr><td>soldier</td><td>sōldie̊r</td><td>soldi-er</td><td>sōldi-e̊r</td><td>n. a person who serves in the army<br>v. to serve as a soldier</td></tr>
 <tr><td>soldiering</td><td>sōldie̊ring</td><td>soldi-er-ing</td><td>sōldi-e̊r-ing</td><td>n. skills that are required for the life of soldier</td></tr>
 <tr><td>soldierly</td><td>sōldie̊rlẏ</td><td>soldi-er-ly</td><td>sōldi-e̊r-lẏ</td><td>a. (of persons) befitting a warrior</td></tr>
 <tr><td>soldiers</td><td>sōldie̊rṡ</td><td>soldi-er-s</td><td>sōldi-e̊r-ṡ</td><td></td></tr>
 <tr><td>soldiery</td><td>sōldie̊rẏ</td><td>soldi-er-y</td><td>sōldi-e̊r-ẏ</td><td>n. soldiers collectively</td></tr>
-<tr><td>solder</td><td>so𝕝de̊r</td><td>solder</td><td>so𝕝de̊r</td><td>n. an alloy used when melted to join two metal surfaces<br>v. join or fuse with solder</td></tr>
-<tr><td>soldered</td><td>so𝕝de̊r𝕖d</td><td>solder-ed</td><td>so𝕝de̊r-𝕖d</td><td>v join or fuse with solder</td></tr>
-<tr><td>soldering</td><td>so𝕝de̊ring</td><td>solder-ing</td><td>so𝕝de̊r-ing</td><td>n. fastening firmly together<br>v. join or fuse with solder</td></tr>
+<tr><td>solder</td><td>solde̊r</td><td>solder</td><td>solde̊r</td><td>n. an alloy used when melted to join two metal surfaces<br>v. join or fuse with solder</td></tr>
+<tr><td>soldered</td><td>solde̊r𝕖d</td><td>solder-ed</td><td>solde̊r-𝕖d</td><td>v join or fuse with solder</td></tr>
+<tr><td>soldering</td><td>solde̊ring</td><td>solder-ing</td><td>solde̊r-ing</td><td>n. fastening firmly together<br>v. join or fuse with solder</td></tr>
 <tr><td>solecism</td><td>solėciṡm</td><td>solecism</td><td>solėciṡm</td><td>n. a socially awkward or tactless act</td></tr>
 <tr><td>solemn</td><td>sole̊mn</td><td>solemn</td><td>sole̊mn</td><td>a. formal and dignified; serious</td></tr>
-<tr><td>solemnity</td><td>so̊lemni̊tẏ</td><td>solemn-ity</td><td>so̊lemn-i̊tẏ</td><td>n. a trait of dignified seriousness; a solemn and dignified feeling</td></tr>
-<tr><td>solemnize</td><td>sole̊mnīze</td><td>solemn-ize</td><td>sole̊mn-īze</td><td>v. observe or perform with dignity or gravity<br>v. perform (the wedding ceremony) with proper ceremonies<br>v. make solemn and grave</td></tr>
-<tr><td>solemnly</td><td>sole̊mnlẏ</td><td>solemn-ly</td><td>sole̊mn-lẏ</td><td>adv. in a grave and sedate manner</td></tr>
-<tr><td>solenoid</td><td>sōlėnoid</td><td>solen-oid</td><td>sōlėn-oid</td><td>n. a coil of wire around an iron core; becomes a magnet when current passes through</td></tr>
+<tr><td>solemnity</td><td>solemnitẏ</td><td>solemn-ity</td><td>solemn-itẏ</td><td>n. a trait of dignified seriousness; a solemn and dignified feeling</td></tr>
+<tr><td>solemnize</td><td>solėmnīze</td><td>solemn-ize</td><td>solėmn-īze</td><td>v. observe or perform with dignity or gravity<br>v. perform (the wedding ceremony) with proper ceremonies<br>v. make solemn and grave</td></tr>
+<tr><td>solemnly</td><td>sole̊m𝕟lẏ</td><td>solemn-ly</td><td>sole̊m𝕟-lẏ</td><td>adv. in a grave and sedate manner</td></tr>
+<tr><td>solenoid</td><td>sōle̊noid</td><td>solen-oid</td><td>sōle̊n-oid</td><td>n. a coil of wire around an iron core; becomes a magnet when current passes through</td></tr>
 <tr><td>obsolescence</td><td>obso̊lesce̊nce</td><td>ob-solesc-ence</td><td>ob-so̊lesc-e̊nce</td><td>n. the process of becoming obsolete; falling into disuse or becoming out of date</td></tr>
 <tr><td>obsolescent</td><td>obso̊lesce̊nt</td><td>ob-solesc-ent</td><td>ob-so̊lesc-e̊nt</td><td>a. becoming obsolete</td></tr>
 <tr><td>solipsism</td><td>solipsiṡm</td><td>solips-ism</td><td>solips-iṡm</td><td>n. the philosophical theory that the self is all that you know to exist</td></tr>
 <tr><td>solipsistic</td><td>solipsistic</td><td>solipsist-ic</td><td>solipsist-ic</td><td>a. of or relating to solipsism (the theory that only the self exists)</td></tr>
-<tr><td>solitaire</td><td>soli̊tāire</td><td>solit-aire</td><td>soli̊t-āire</td><td>n. a game played by one person<br>n. a gem set by itself</td></tr>
-<tr><td>solitary</td><td>soli̊tarẏ</td><td>solit-ary</td><td>soli̊t-arẏ</td><td>a. done or existing alone; single<br>n. a person who lives alone</td></tr>
+<tr><td>solitaire</td><td>solitāire</td><td>solit-aire</td><td>solit-āire</td><td>n. a game played by one person<br>n. a gem set by itself</td></tr>
+<tr><td>solitary</td><td>solitårẏ</td><td>solit-ary</td><td>solit-årẏ</td><td>a. done or existing alone; single<br>n. a person who lives alone</td></tr>
 <tr><td>solomonic</td><td>solo̊monic</td><td>solomon-ic</td><td>solo̊mon-ic</td><td>a. exhibiting or requiring great wisdom, like King Solomon</td></tr>
-<tr><td>solon</td><td>sōlo̊n</td><td>solon</td><td>sōlo̊n</td><td>n. a man who is a respected leader in national or international affairs</td></tr>
+<tr><td>solon</td><td>solon</td><td>solon</td><td>solon</td><td>n. a man who is a respected leader in national or international affairs</td></tr>
 <tr><td>solute</td><td>solūte</td><td>solute</td><td>solūte</td><td>n. the dissolved substance in a solution</td></tr>
 <tr><td>solution</td><td>so̊lūtio̊n</td><td>sol-ut-ion</td><td>so̊l-ūt-io̊n</td><td>n. a means of solving a problem<br>n. a liquid mixture in which a substance is dissolved</td></tr>
 <tr><td>solutions</td><td>so̊lūtio̊nṡ</td><td>sol-ut-ion-s</td><td>so̊l-ūt-io̊n-ṡ</td><td></td></tr>
@@ -4094,7 +4094,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>resolute</td><td>reṡo̊lūte</td><td>re-sol-ute</td><td>re-ṡo̊l-ūte</td><td>a. firm in purpose or belief; characterized by firmness and determination</td></tr>
 <tr><td>resolution</td><td>reṡo̊lūtio̊n</td><td>re-sol-ut-ion</td><td>re-ṡo̊l-ūt-io̊n</td><td>n. a firm decision to do or not to do something<br>n. the quality of being determined<br>n. the clarity of an image</td></tr>
 <tr><td>resolutely</td><td>reṡo̊lūt𝕖lẏ</td><td>re-sol-ute-ly</td><td>re-ṡo̊l-ūt𝕖-lẏ</td><td>adv. showing firm determination or purpose</td></tr>
-<tr><td>resoluteness</td><td>reṡo̊lūtenėss</td><td>re-sol-ute-ness</td><td>re-ṡo̊l-ūte-nėss</td><td>n. the trait of being resolute</td></tr>
+<tr><td>resoluteness</td><td>reṡo̊lūt𝕖nėss</td><td>re-sol-ute-ness</td><td>re-ṡo̊l-ūt𝕖-nėss</td><td>n. the trait of being resolute</td></tr>
 <tr><td>resolutions</td><td>reṡo̊lūtio̊nṡ</td><td>re-sol-ut-ion-s</td><td>re-ṡo̊l-ūt-io̊n-ṡ</td><td></td></tr>
 <tr><td>solve</td><td>solve</td><td>solve</td><td>solve</td><td>v. find an answer to a problem or question</td></tr>
 <tr><td>solvable</td><td>solvåble</td><td>solv-able</td><td>solv-åble</td><td>a. capable of being solved</td></tr>
@@ -4114,7 +4114,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>insolvent</td><td>insolve̊nt</td><td>in-solv-ent</td><td>in-solv-e̊nt</td><td>a. unable to meet or discharge financial obligations</td></tr>
 <tr><td>resolve</td><td>rėṡolve</td><td>re-solve</td><td>rė-ṡolve</td><td>v. settle or find a solution<br>v. decide firmly<br>n. firm determination</td></tr>
 <tr><td>resolvable</td><td>rėṡolvåble</td><td>re-solv-able</td><td>rė-ṡolv-åble</td><td>a. capable of being settled or resolved</td></tr>
-<tr><td>resolved</td><td>rēṡolv𝕖d</td><td>re-solv-ed</td><td>rē-ṡolv-𝕖d</td><td>v. bring to an end; settle conclusively<br>a. determined</td></tr>
+<tr><td>resolved</td><td>rėṡolv𝕖d</td><td>re-solv-ed</td><td>rė-ṡolv-𝕖d</td><td>v. bring to an end; settle conclusively<br>a. determined</td></tr>
 <tr><td>resolving</td><td>rėṡolving</td><td>re-solv-ing</td><td>rė-ṡolv-ing</td><td></td></tr>
 <tr><td>resolves</td><td>rėṡolv𝕖ṡ</td><td>re-solve-s</td><td>rė-ṡolv𝕖-ṡ</td><td></td></tr>
 <tr><td>unsolvable</td><td>ûnsolvåble</td><td>un-solv-able</td><td>ûn-solv-åble</td><td>a. not easily solved</td></tr>
@@ -4122,19 +4122,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>irresolvable</td><td>irrėṡolvåble</td><td>ir-re-solv-able</td><td>ir-rė-ṡolv-åble</td><td>a. incapable of being resolved or separated into parts</td></tr>
 <tr><td>unresolvable</td><td>ûnrėṡolvåble</td><td>un-re-solv-able</td><td>ûn-rė-ṡolv-åble</td><td>a. not capable of being resolved</td></tr>
 <tr><td>unresolved</td><td>ûnrėṡolv𝕖d</td><td>un-re-solv-ed</td><td>ûn-rė-ṡolv-𝕖d</td><td>a. not settled or solved</td></tr>
-<tr><td>autosomal</td><td>ãuto̊so̊mål</td><td>aut-o-som-al</td><td>ãut-o̊-so̊m-ål</td><td>a. of or relating to an autosome</td></tr>
-<tr><td>chromosomal</td><td>chrōmo̊sōmål</td><td>chrom-o-som-al</td><td>chrōm-o̊-sōm-ål</td><td>a. of or relating to a chromosome</td></tr>
+<tr><td>autosomal</td><td>ãutōsōmål</td><td>aut-o-som-al</td><td>ãut-ō-sōm-ål</td><td>a. of or relating to an autosome</td></tr>
+<tr><td>chromosomal</td><td>c𝕙rōmo̊somål</td><td>chrom-o-som-al</td><td>c𝕙rōm-o̊-som-ål</td><td>a. of or relating to a chromosome</td></tr>
 <tr><td>ribosomal</td><td>rībo̊sōmål</td><td>rib-o-som-al</td><td>rīb-o̊-sōm-ål</td><td>a. of or relating to ribosomes</td></tr>
 <tr><td>schistosomiasis</td><td>schisto̊sōmīåsis</td><td>schist-o-som-iasis</td><td>schist-o̊-sōm-īåsis</td><td>n. an infection caused by a parasite of the genus Schistosoma</td></tr>
 <tr><td>soma</td><td>sōmå</td><td>soma</td><td>sōmå</td><td>n. an intoxicating drink made from a plant, used in ancient Vedic ritual<br>n. body, as distinct from the mind</td></tr>
-<tr><td>somatic</td><td>sōmatic</td><td>soma-tic</td><td>sōma-tic</td><td>a. relating to the body as opposed to the mind</td></tr>
-<tr><td>somali</td><td>so̊màlĩ</td><td>somali</td><td>so̊màlĩ</td><td>n. a member of a people living in Somalia<br>a. of or relating to Somalia</td></tr>
+<tr><td>somatic</td><td>so̊matic</td><td>soma-tic</td><td>so̊ma-tic</td><td>a. relating to the body as opposed to the mind</td></tr>
+<tr><td>somali</td><td>so̊màli</td><td>somali</td><td>so̊màli</td><td>n. a member of a people living in Somalia<br>a. of or relating to Somalia</td></tr>
 <tr><td>somalian</td><td>so̊màliån</td><td>somali-an</td><td>so̊màli-ån</td><td>a. of or relating to Somalia or its people</td></tr>
 <tr><td>sombre</td><td>sombre̊</td><td>sombre</td><td>sombre̊</td><td>a. lacking brightness or color; dull<br>a. grave or even gloomy in character</td></tr>
 <tr><td>somber</td><td>sombe̊r</td><td>somb-er</td><td>somb-e̊r</td><td>a. dark and gloomy; serious</td></tr>
 <tr><td>somberly</td><td>sombe̊rlẏ</td><td>somb-er-ly</td><td>somb-e̊r-lẏ</td><td>adv. in a somber manner</td></tr>
-<tr><td>somberness</td><td>sombe̊rne̊ss</td><td>somb-er-ness</td><td>somb-e̊r-ne̊ss</td><td>n. a feeling of melancholy apprehension</td></tr>
-<tr><td>sombrero</td><td>sombrèrō</td><td>sombrero</td><td>sombrèrō</td><td>n. a straw hat with a tall crown and broad brim worn in Mexico and American southwest</td></tr>
+<tr><td>somberness</td><td>sombe̊rnėss</td><td>somb-er-ness</td><td>somb-e̊r-nėss</td><td>n. a feeling of melancholy apprehension</td></tr>
+<tr><td>sombrero</td><td>so̊mbrerō</td><td>sombrero</td><td>so̊mbrerō</td><td>n. a straw hat with a tall crown and broad brim worn in Mexico and American southwest</td></tr>
 <tr><td>some</td><td>sôme</td><td>some</td><td>sôme</td><td>a. an unspecified number or quantity of; at least a small amount of<br>pron. an unspecified number or quantity</td></tr>
 <tr><td>somebody</td><td>sôm𝕖bodẏ</td><td>some-body</td><td>sôm𝕖-bodẏ</td><td>pron. an unspecified person<br>n. a person of importance</td></tr>
 <tr><td>someday</td><td>sôm𝕖dāy</td><td>some-day</td><td>sôm𝕖-dāy</td><td>adv. at some time in the future</td></tr>
@@ -4146,11 +4146,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>somewhat</td><td>sôm𝕖whåt</td><td>some-what</td><td>sôm𝕖-whåt</td><td>adv. to some extent; rather</td></tr>
 <tr><td>somewhere</td><td>sôm𝕖whère</td><td>some-where</td><td>sôm𝕖-whère</td><td>adv. in or at some place not known or specified</td></tr>
 <tr><td>sometimes</td><td>sôm𝕖tīm𝕖ṡ</td><td>some-time-s</td><td>sôm𝕖-tīm𝕖-ṡ</td><td>adv. on certain occasions but not always</td></tr>
-<tr><td>somewheres</td><td>sômew𝕙èr𝕖ṡ</td><td>some-where-s</td><td>sôme-w𝕙èr𝕖-ṡ</td><td>adv. in or to some unspecified or unknown place</td></tr>
+<tr><td>somewheres</td><td>sôm𝕖w𝕙èr𝕖ṡ</td><td>some-where-s</td><td>sôm𝕖-w𝕙èr𝕖-ṡ</td><td>adv. in or to some unspecified or unknown place</td></tr>
 <tr><td>somersault</td><td>sôme̊rsãult</td><td>somersault</td><td>sôme̊rsãult</td><td>n. an acrobatic feat in which the feet roll over the head<br>v. to do a somersault</td></tr>
 <tr><td>somersaulting</td><td>sôme̊rsãulting</td><td>somersault-ing</td><td>sôme̊rsãult-ing</td><td>n. the act of performing a somersault</td></tr>
 <tr><td>somerset</td><td>sôme̊rset</td><td>somer-set</td><td>sôme̊r-set</td><td>n. a somersault</td></tr>
-<tr><td>sommelier</td><td>so̊mme̊lie̊r</td><td>sommelier</td><td>so̊mme̊lie̊r</td><td>n. a waiter who manages wine service in a hotel or restaurant</td></tr>
+<tr><td>sommelier</td><td>sommelie̊r</td><td>sommelier</td><td>sommelie̊r</td><td>n. a waiter who manages wine service in a hotel or restaurant</td></tr>
 <tr><td>somnolence</td><td>somno̊le̊nce</td><td>somnol-ence</td><td>somno̊l-e̊nce</td><td>n. a very sleepy state</td></tr>
 <tr><td>somnolent</td><td>somno̊le̊nt</td><td>somnol-ent</td><td>somno̊l-e̊nt</td><td>a. inclined to or marked by drowsiness</td></tr>
 <tr><td>insomnia</td><td>insomniå</td><td>in-somnia</td><td>in-somniå</td><td>n. an inability to sleep; chronic sleeplessness</td></tr>
@@ -4161,10 +4161,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sonnet</td><td>sonnėt</td><td>son-net</td><td>son-nėt</td><td>n. a verse form consisting of 14 lines with a fixed rhyme scheme</td></tr>
 <tr><td>sons</td><td>sônṡ</td><td>son-s</td><td>sôn-ṡ</td><td></td></tr>
 <tr><td>sonogram</td><td>sono̊gram</td><td>son-o-gram</td><td>son-o̊-gram</td><td>n. an image produced by ultrasonography</td></tr>
-<tr><td>sonority</td><td>sōnoritẏ</td><td>son-or-ity</td><td>sōn-or-itẏ</td><td>n. having the character of a loud deep sound; the quality of being resonant</td></tr>
+<tr><td>sonority</td><td>so̊noritẏ</td><td>son-or-ity</td><td>so̊n-or-itẏ</td><td>n. having the character of a loud deep sound; the quality of being resonant</td></tr>
 <tr><td>son-in-law</td><td></td><td>son-in-law</td><td></td><td>n. the husband of one&#x27;s daughter</td></tr>
 <tr><td>sonorous</td><td>sono̊ro̊us</td><td>son-or-ous</td><td>son-o̊r-o̊us</td><td>a. full and loud and deep</td></tr>
-<tr><td>sonically</td><td>so̊nicållẏ</td><td>son-ic-al-ly</td><td>so̊n-ic-ål-lẏ</td><td>adv. in a sonic manner; with respect to sound</td></tr>
+<tr><td>sonically</td><td>sonicållẏ</td><td>son-ic-al-ly</td><td>son-ic-ål-lẏ</td><td>adv. in a sonic manner; with respect to sound</td></tr>
 <tr><td>sonorously</td><td>sono̊ro̊uslẏ</td><td>son-or-ous-ly</td><td>son-o̊r-o̊us-lẏ</td><td>adv. in a sonorous manner</td></tr>
 <tr><td>assonance</td><td>asso̊nånce</td><td>as-son-ance</td><td>as-so̊n-ånce</td><td>n. the repetition of similar vowels in the stressed syllables of successive words</td></tr>
 <tr><td>assonant</td><td>asso̊nånt</td><td>as-son-ant</td><td>as-so̊n-ånt</td><td>a. having similar vowel sounds</td></tr>
@@ -4180,18 +4180,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>personal</td><td>pe̊rso̊nål</td><td>per-son-al</td><td>pe̊r-so̊n-ål</td><td>a. of or relating to a particular person; private<br>a. relating to the personal life of an individual</td></tr>
 <tr><td>personnel</td><td>pe̊rso̊nnel</td><td>per-sonn-el</td><td>pe̊r-so̊nn-el</td><td>n. group of people willing to obey orders<br>n. the department responsible for hiring and training employees</td></tr>
 <tr><td>personhood</td><td>pe̊rso̊nhood</td><td>per-son-hood</td><td>pe̊r-so̊n-hood</td><td>n. being a person</td></tr>
-<tr><td>personify</td><td>pe̊rsoni̊fȳ</td><td>per-son-ify</td><td>pe̊r-son-i̊fȳ</td><td>vt. to represent a quality or concept by a human figure<br>vt. to be a perfect example of</td></tr>
+<tr><td>personify</td><td>pe̊rsonifȳ</td><td>per-son-ify</td><td>pe̊r-son-ifȳ</td><td>vt. to represent a quality or concept by a human figure<br>vt. to be a perfect example of</td></tr>
 <tr><td>persons</td><td>pe̊rso̊nṡ</td><td>per-son-s</td><td>pe̊r-so̊n-ṡ</td><td></td></tr>
-<tr><td>personalism</td><td>pe̊rso̊nålism</td><td>per-son-al-ism</td><td>pe̊r-so̊n-ål-ism</td><td>n. a philosophical approach emphasizing the primary importance of the person</td></tr>
+<tr><td>personalism</td><td>pe̊rso̊nåliṡm</td><td>per-son-al-ism</td><td>pe̊r-so̊n-ål-iṡm</td><td>n. a philosophical approach emphasizing the primary importance of the person</td></tr>
 <tr><td>personality</td><td>pe̊rso̊nalitẏ</td><td>per-son-al-ity</td><td>pe̊r-so̊n-al-itẏ</td><td>n. the combination of characteristics that form an individual&#x27;s character<br>n. a famous person</td></tr>
 <tr><td>personalize</td><td>pe̊rso̊nålīze</td><td>per-son-al-ize</td><td>pe̊r-so̊n-ål-īze</td><td>v. make personal or more personal</td></tr>
 <tr><td>personally</td><td>pe̊rso̊nållẏ</td><td>per-son-al-ly</td><td>pe̊r-so̊n-ål-lẏ</td><td>adv. as yourself<br>adv. in the flesh; without involving anyone else</td></tr>
-<tr><td>personified</td><td>pe̊rsoni̊fī𝕖d</td><td>per-son-i-fi-ed</td><td>pe̊r-son-i̊-fī-𝕖d</td><td>v. attribute human qualities to something<br>v. represent, as of a character on stage</td></tr>
+<tr><td>personified</td><td>pe̊rsonifī𝕖d</td><td>per-son-i-fi-ed</td><td>pe̊r-son-i-fī-𝕖d</td><td>v. attribute human qualities to something<br>v. represent, as of a character on stage</td></tr>
 <tr><td>personalized</td><td>pe̊rso̊nålīz𝕖d</td><td>per-son-al-iz-ed</td><td>pe̊r-so̊n-ål-īz-𝕖d</td><td>a. designed or tailored to an individual</td></tr>
-<tr><td>personalistic</td><td>pe̊rsōnålistic</td><td>per-son-al-ist-ic</td><td>pe̊r-sōn-ål-ist-ic</td><td>a. of or relating to personalism</td></tr>
+<tr><td>personalistic</td><td>pe̊rso̊nålistic</td><td>per-son-al-ist-ic</td><td>pe̊r-so̊n-ål-ist-ic</td><td>a. of or relating to personalism</td></tr>
 <tr><td>personalities</td><td>pe̊rso̊naliti𝕖ṡ</td><td>per-son-al-it-ies</td><td>pe̊r-so̊n-al-it-i𝕖ṡ</td><td></td></tr>
-<tr><td>personification</td><td>pe̊rsoni̊fi̊cātio̊n</td><td>per-son-i-fic-at-ion</td><td>pe̊r-son-i̊-fi̊c-āt-io̊n</td><td>n. a person who represents an abstract quality<br>n. representing an abstract quality or idea as a person or creature<br>n. the act of attributing human characteristics to abstract ideas etc.</td></tr>
-<tr><td>personalization</td><td>pe̊rso̊nåli̊zātio̊n</td><td>per-son-al-iz-at-ion</td><td>pe̊r-so̊n-ål-i̊z-āt-io̊n</td><td>n. the act of making something personal or individual</td></tr>
+<tr><td>personification</td><td>pe̊rsonificātio̊n</td><td>per-son-i-fic-at-ion</td><td>pe̊r-son-i-fic-āt-io̊n</td><td>n. a person who represents an abstract quality<br>n. representing an abstract quality or idea as a person or creature<br>n. the act of attributing human characteristics to abstract ideas etc.</td></tr>
+<tr><td>personalization</td><td>pe̊rso̊nålīzātio̊n</td><td>per-son-al-iz-at-ion</td><td>pe̊r-so̊n-ål-īz-āt-io̊n</td><td>n. the act of making something personal or individual</td></tr>
 <tr><td>resonance</td><td>reṡo̊nånce</td><td>re-son-ance</td><td>re-ṡo̊n-ånce</td><td>n. the quality of being resonant<br>n. a vibration of large amplitude</td></tr>
 <tr><td>resonant</td><td>reṡo̊nånt</td><td>re-son-ant</td><td>re-ṡo̊n-ånt</td><td>a. producing a deep clear sound that continues for a long time</td></tr>
 <tr><td>resonate</td><td>reṡo̊nāte</td><td>re-son-ate</td><td>re-ṡo̊n-āte</td><td>v. sound with resonance<br>v. be received or understood</td></tr>
@@ -4199,11 +4199,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>resonator</td><td>reṡo̊nāto̊r</td><td>re-son-at-or</td><td>re-ṡo̊n-āt-o̊r</td><td>n. a device or system that resonates</td></tr>
 <tr><td>subsonic</td><td>sûbsonic</td><td>sub-sonic</td><td>sûb-sonic</td><td>a. (of speed) less than that of sound in a designated medium</td></tr>
 <tr><td>supersonic</td><td>sūpe̊rsonic</td><td>super-son-ic</td><td>sūpe̊r-son-ic</td><td>a. having speed greater than that of sound in a given medium</td></tr>
-<tr><td>unison</td><td>ūni̊so̊n</td><td>uni-son</td><td>ūni̊-so̊n</td><td>n. simultaneous performance or utterance; harmony</td></tr>
+<tr><td>unison</td><td>ūniso̊n</td><td>uni-son</td><td>ūni-so̊n</td><td>n. simultaneous performance or utterance; harmony</td></tr>
 <tr><td>ultrasonic</td><td>ultråsonic</td><td>ultra-son-ic</td><td>ultrå-son-ic</td><td>a. having frequencies above those of audible sound</td></tr>
-<tr><td>ultrasonography</td><td>ultråso̊nogråphẏ</td><td>ultra-son-o-graph-y</td><td>ultrå-so̊n-o-gråph-ẏ</td><td>n. using reflections of high-frequency sound to construct an image of a body organ</td></tr>
+<tr><td>ultrasonography</td><td>ûltråso̊nogråphẏ</td><td>ultra-son-o-graph-y</td><td>ûltrå-so̊n-o-gråph-ẏ</td><td>n. using reflections of high-frequency sound to construct an image of a body organ</td></tr>
 <tr><td>depersonalize</td><td>dēpe̊rso̊nålīze</td><td>de-per-son-al-ize</td><td>dē-pe̊r-so̊n-ål-īze</td><td>v. make impersonal or present as an object</td></tr>
-<tr><td>depersonalized</td><td>dėpe̊rso̊nålīz𝕖d</td><td>de-per-son-al-iz-ed</td><td>dė-pe̊r-so̊n-ål-īz-𝕖d</td><td>v make impersonal or present as an object</td></tr>
+<tr><td>depersonalized</td><td>dēpe̊rso̊nålīz𝕖d</td><td>de-per-son-al-iz-ed</td><td>dē-pe̊r-so̊n-ål-īz-𝕖d</td><td>v make impersonal or present as an object</td></tr>
 <tr><td>depersonalization</td><td>dēpe̊rso̊nålīzātio̊n</td><td>de-per-son-al-iz-at-ion</td><td>dē-pe̊r-so̊n-ål-īz-āt-io̊n</td><td>n. a loss of personal identity; feeling detached from oneself</td></tr>
 <tr><td>foreperson</td><td>for𝕖pe̊rso̊n</td><td>fore-per-son</td><td>for𝕖-pe̊r-so̊n</td><td>n. the presiding member of the jury and the one who speaks on their behalf</td></tr>
 <tr><td>layperson</td><td>lāype̊rso̊n</td><td>lay-per-son</td><td>lāy-pe̊r-so̊n</td><td>n. someone who is not a clergyman or a professional person</td></tr>
@@ -4214,12 +4214,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>songbook</td><td>songbook</td><td>song-book</td><td>song-book</td><td>n. a book containing a collection of songs</td></tr>
 <tr><td>songs</td><td>songṡ</td><td>song-s</td><td>song-ṡ</td><td></td></tr>
 <tr><td>songster</td><td>songste̊r</td><td>song-ster</td><td>song-ste̊r</td><td>n. a person who sings</td></tr>
-<tr><td>songstress</td><td>songstrėss</td><td>song-stress</td><td>song-strėss</td><td>n. a woman songster (especially of popular songs)</td></tr>
+<tr><td>songstress</td><td>songstre̊ss</td><td>song-stress</td><td>song-stre̊ss</td><td>n. a woman songster (especially of popular songs)</td></tr>
 <tr><td>songwriter</td><td>song𝕨rīte̊r</td><td>song-writ-er</td><td>song-𝕨rīt-e̊r</td><td>n. a person who writes songs</td></tr>
 <tr><td>songwriting</td><td>song𝕨rīting</td><td>song-writ-ing</td><td>song-𝕨rīt-ing</td><td>n. the activity of writing songs</td></tr>
 <tr><td>evensong</td><td>ēve̊nsong</td><td>ev-en-song</td><td>ēv-e̊n-song</td><td>n. a daily evening service with prayers</td></tr>
 <tr><td>soon</td><td>soon</td><td>soon</td><td>soon</td><td>adv. in or after a short time; before long</td></tr>
-<tr><td>soonest</td><td>soone̊st</td><td>soon-est</td><td>soon-e̊st</td><td>adv. with the least delay</td></tr>
+<tr><td>soonest</td><td>soonėst</td><td>soon-est</td><td>soon-ėst</td><td>adv. with the least delay</td></tr>
 <tr><td>soot</td><td>soot</td><td>soot</td><td>soot</td><td>n. a black powder formed by incomplete combustion</td></tr>
 <tr><td>sooty</td><td>sootẏ</td><td>soot-y</td><td>soot-ẏ</td><td>a. covered with or as if with soot</td></tr>
 <tr><td>sooth</td><td>sooth</td><td>sooth</td><td>sooth</td><td>n. truth or reality</td></tr>
@@ -4233,16 +4233,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sop</td><td>sop</td><td>sop</td><td>sop</td><td>n. piece of solid food for dipping in a liquid<br>n. a concession given to mollify or placate</td></tr>
 <tr><td>sopping</td><td>sopping</td><td>sopp-ing</td><td>sopp-ing</td><td>a. extremely wet</td></tr>
 <tr><td>soppy</td><td>soppẏ</td><td>sopp-y</td><td>sopp-ẏ</td><td>s wet through and through; thoroughly wet<br>s effusively or insincerely emotional</td></tr>
-<tr><td>Sophie</td><td>Sōphiē</td><td>Sophie</td><td>Sōphiē</td><td>n. a female given name</td></tr>
+<tr><td>Sophie</td><td>Sōphie</td><td>Sophie</td><td>Sōphie</td><td>n. a female given name</td></tr>
 <tr><td>sophism</td><td>sophiṡm</td><td>soph-ism</td><td>soph-iṡm</td><td>n. a deliberately invalid argument meant to deceive</td></tr>
 <tr><td>sophist</td><td>sophist</td><td>soph-ist</td><td>soph-ist</td><td>n. a Greek philosopher of the 5th century BC who speculated on many subjects</td></tr>
 <tr><td>sophistry</td><td>sophistrẏ</td><td>sophist-ry</td><td>sophist-rẏ</td><td>n. a deliberately invalid argument displaying ingenuity in reasoning</td></tr>
 <tr><td>sophistical</td><td>so̊phisticål</td><td>sophist-ic-al</td><td>so̊phist-ic-ål</td><td>a. using clever but false reasoning</td></tr>
 <tr><td>sophomore</td><td>sopho̊more</td><td>soph-o-more</td><td>soph-o̊-more</td><td>n. a second-year student in high school or college</td></tr>
-<tr><td>sophisticate</td><td>so̊phisti̊cāte</td><td>soph-ist-ic-ate</td><td>so̊ph-ist-i̊c-āte</td><td>n. a worldly-wise person<br>v. make less natural or innocent</td></tr>
-<tr><td>sophomoric</td><td>sophōmòric</td><td>soph-o-mor-ic</td><td>soph-ō-mòr-ic</td><td>a. conceited and overconfident but poorly informed and immature</td></tr>
+<tr><td>sophisticate</td><td>so̊phisticāte</td><td>soph-ist-ic-ate</td><td>so̊ph-ist-ic-āte</td><td>n. a worldly-wise person<br>v. make less natural or innocent</td></tr>
+<tr><td>sophomoric</td><td>sopho̊moric</td><td>soph-o-mor-ic</td><td>soph-o̊-mor-ic</td><td>a. conceited and overconfident but poorly informed and immature</td></tr>
 <tr><td>sophisticated</td><td>so̊phisticātėd</td><td>soph-ist-ic-at-ed</td><td>so̊ph-ist-ic-āt-ėd</td><td>a. having or appealing to those having worldly knowledge and refinement<br>a. intellectually appealing<br>a. ahead in development; complex or intricate</td></tr>
-<tr><td>sophistication</td><td>so̊phisti̊cātio̊n</td><td>soph-ist-ic-at-ion</td><td>so̊ph-ist-i̊c-āt-io̊n</td><td>n. the quality of being sophisticated; worldly wisdom or refinement</td></tr>
+<tr><td>sophistication</td><td>so̊phisticātio̊n</td><td>soph-ist-ic-at-ion</td><td>so̊ph-ist-ic-āt-io̊n</td><td>n. the quality of being sophisticated; worldly wisdom or refinement</td></tr>
 <tr><td>unsophisticated</td><td>ûnso̊phisticātėd</td><td>un-soph-ist-ic-at-ed</td><td>ûn-so̊ph-ist-ic-āt-ėd</td><td>a. not wise in the ways of the world; lacking sophistication</td></tr>
 <tr><td>philosopher</td><td>philoso̊phe̊r</td><td>phil-o-soph-er</td><td>phil-o-so̊ph-e̊r</td><td>n. a person engaged or learned in philosophy</td></tr>
 <tr><td>philosophic</td><td>philo̊sophic</td><td>phil-o-soph-ic</td><td>phil-o̊-soph-ic</td><td>a. of or relating to philosophy</td></tr>
@@ -4250,7 +4250,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>philosophize</td><td>philoso̊phīze</td><td>phil-o-soph-ize</td><td>phil-o-so̊ph-īze</td><td>v. reason philosophically</td></tr>
 <tr><td>philosophy</td><td>philoso̊phẏ</td><td>phil-o-soph-y</td><td>phil-o-so̊ph-ẏ</td><td>n. the study of the fundamental nature of knowledge and existence<br>n. a personal outlook or viewpoint</td></tr>
 <tr><td>philosophical</td><td>philo̊sophicål</td><td>phil-o-soph-ic-al</td><td>phil-o̊-soph-ic-ål</td><td>a. relating or devoted to the study of philosophy<br>a. having a calm attitude toward difficult situations</td></tr>
-<tr><td>philosophizing</td><td>phi̊loso̊phīzing</td><td>phil-o-soph-iz-ing</td><td>phi̊l-o-so̊ph-īz-ing</td><td>n. the exposition (often superficially) of a particular philosophy</td></tr>
+<tr><td>philosophizing</td><td>philoso̊phīzing</td><td>phil-o-soph-iz-ing</td><td>phil-o-so̊ph-īz-ing</td><td>n. the exposition (often superficially) of a particular philosophy</td></tr>
 <tr><td>philosophically</td><td>philo̊sophicållẏ</td><td>phil-o-soph-ic-al-ly</td><td>phil-o̊-soph-ic-ål-lẏ</td><td>adv. in a philosophic manner</td></tr>
 <tr><td>soporific</td><td>sōpo̊rific</td><td>sopor-if-ic</td><td>sōpo̊r-if-ic</td><td>n. a drug that induces sleep<br>a. sleep inducing</td></tr>
 <tr><td>soprano</td><td>so̊prànō</td><td>soprano</td><td>so̊prànō</td><td>n. the highest female singing voice<br>a. having or relating to the soprano range</td></tr>
@@ -4258,33 +4258,33 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sorer</td><td>sore̊r</td><td>sor-er</td><td>sor-e̊r</td><td></td></tr>
 <tr><td>sorest</td><td>sorėst</td><td>sor-est</td><td>sor-ėst</td><td></td></tr>
 <tr><td>sorely</td><td>sor𝕖lẏ</td><td>sore-ly</td><td>sor𝕖-lẏ</td><td>adv. to a great degree; very much</td></tr>
-<tr><td>soreness</td><td>sorenėss</td><td>sore-ness</td><td>sore-nėss</td><td>n a pain that is felt (as when the area is touched)<br>n an uncomfortable feeling of mental painfulness or distress</td></tr>
-<tr><td>sorbitol</td><td>sorbitōl</td><td>sorb-it-ol</td><td>sorb-it-ōl</td><td>n. a sugar alcohol found in various berries and fruits</td></tr>
+<tr><td>soreness</td><td>sor𝕖nėss</td><td>sore-ness</td><td>sor𝕖-nėss</td><td>n a pain that is felt (as when the area is touched)<br>n an uncomfortable feeling of mental painfulness or distress</td></tr>
+<tr><td>sorbitol</td><td>sorbitol</td><td>sorb-it-ol</td><td>sorb-it-ol</td><td>n. a sugar alcohol found in various berries and fruits</td></tr>
 <tr><td>absorb</td><td>åbsorb</td><td>ab-sorb</td><td>åb-sorb</td><td>v. become imbued<br>v. take up mentally<br>v. take in, also metaphorically<br>v. consume all of one&#x27;s attention or time</td></tr>
-<tr><td>adsorb</td><td>adsorb</td><td>ad-sorb</td><td>ad-sorb</td><td>v. accumulate (liquids or gases) on the surface</td></tr>
+<tr><td>adsorb</td><td>ådsorb</td><td>ad-sorb</td><td>åd-sorb</td><td>v. accumulate (liquids or gases) on the surface</td></tr>
 <tr><td>absorbable</td><td>åbsorbåble</td><td>ab-sorb-able</td><td>åb-sorb-åble</td><td>a. capable of being absorbed or taken in through the pores of a surface</td></tr>
 <tr><td>absorbance</td><td>åbsorbånce</td><td>ab-sorb-ance</td><td>åb-sorb-ånce</td><td>n. a measure of the extent to which a substance transmits light</td></tr>
-<tr><td>absorbed</td><td>åbṡorb𝕖d</td><td>ab-sorb-ed</td><td>åb-ṡorb-𝕖d</td><td>a. retained without reflection<br>a. wholly absorbed as in thought</td></tr>
+<tr><td>absorbed</td><td>åbsorb𝕖d</td><td>ab-sorb-ed</td><td>åb-sorb-𝕖d</td><td>a. retained without reflection<br>a. wholly absorbed as in thought</td></tr>
 <tr><td>absorbency</td><td>åbsorbe̊ncẏ</td><td>ab-sorb-ency</td><td>åb-sorb-e̊ncẏ</td><td>n. the property of being absorbent</td></tr>
-<tr><td>absorbent</td><td>åbṡorbe̊nt</td><td>ab-sorb-ent</td><td>åb-ṡorb-e̊nt</td><td>a. having power or capacity or tendency to absorb or soak up something</td></tr>
-<tr><td>absorber</td><td>åbṡorbe̊r</td><td>ab-sorb-er</td><td>åb-ṡorb-e̊r</td><td>n. a material or device that absorbs something</td></tr>
-<tr><td>adsorbed</td><td>adsorb𝕖d</td><td>ad-sorb-ed</td><td>ad-sorb-𝕖d</td><td>v accumulate (liquids or gases) on the surface</td></tr>
-<tr><td>absorbing</td><td>åbṡorbing</td><td>ab-sorb-ing</td><td>åb-ṡorb-ing</td><td>a. holding one&#x27;s attention completely</td></tr>
+<tr><td>absorbent</td><td>åbsorbe̊nt</td><td>ab-sorb-ent</td><td>åb-sorb-e̊nt</td><td>a. having power or capacity or tendency to absorb or soak up something</td></tr>
+<tr><td>absorber</td><td>åbsorbe̊r</td><td>ab-sorb-er</td><td>åb-sorb-e̊r</td><td>n. a material or device that absorbs something</td></tr>
+<tr><td>adsorbed</td><td>ådsorb𝕖d</td><td>ad-sorb-ed</td><td>åd-sorb-𝕖d</td><td>v accumulate (liquids or gases) on the surface</td></tr>
+<tr><td>absorbing</td><td>åbsorbing</td><td>ab-sorb-ing</td><td>åb-sorb-ing</td><td>a. holding one&#x27;s attention completely</td></tr>
 <tr><td>absorption</td><td>åbsorptio̊n</td><td>ab-sorpt-ion</td><td>åb-sorpt-io̊n</td><td>n. the process of absorbing nutrients or knowledge</td></tr>
 <tr><td>absorptive</td><td>åbsorptive</td><td>ab-sorpt-ive</td><td>åb-sorpt-ive</td><td>a. having power or capacity to absorb or soak up something</td></tr>
-<tr><td>adsorption</td><td>adsorptio̊n</td><td>ad-sorpt-ion</td><td>ad-sorpt-io̊n</td><td>n. the accumulation of molecules of a gas to form a thin film on the surface of a solid</td></tr>
+<tr><td>adsorption</td><td>ådsorptio̊n</td><td>ad-sorpt-ion</td><td>åd-sorpt-io̊n</td><td>n. the accumulation of molecules of a gas to form a thin film on the surface of a solid</td></tr>
 <tr><td>desorption</td><td>dėsorptio̊n</td><td>de-sorpt-ion</td><td>dė-sorpt-io̊n</td><td>n. the process of removing an adsorbed substance from a surface</td></tr>
-<tr><td>resorption</td><td>rėsorptio̊n</td><td>re-sorpt-ion</td><td>rė-sorpt-io̊n</td><td>n. the process in which a differentiated structure undergoes lysis and assimilation</td></tr>
-<tr><td>malabsorption</td><td>malabsorptio̊n</td><td>mal-ab-sorpt-ion</td><td>mal-ab-sorpt-io̊n</td><td>n. abnormal absorption of nutrients from the digestive tract</td></tr>
-<tr><td>reabsorb</td><td>rēabṡorb</td><td>re-ab-sorb</td><td>rē-ab-ṡorb</td><td>v. undergo resorption</td></tr>
-<tr><td>reabsorption</td><td>rėåbsorptio̊n</td><td>re-ab-sorpt-ion</td><td>rė-åb-sorpt-io̊n</td><td>n. the process of absorbing again</td></tr>
-<tr><td>sorbet</td><td>sorbèt</td><td>sorbet</td><td>sorbèt</td><td>n. a frozen dessert made from fruit juice</td></tr>
+<tr><td>resorption</td><td>rėṡorptio̊n</td><td>re-sorpt-ion</td><td>rė-ṡorpt-io̊n</td><td>n. the process in which a differentiated structure undergoes lysis and assimilation</td></tr>
+<tr><td>malabsorption</td><td>malåbsorptio̊n</td><td>mal-ab-sorpt-ion</td><td>mal-åb-sorpt-io̊n</td><td>n. abnormal absorption of nutrients from the digestive tract</td></tr>
+<tr><td>reabsorb</td><td>rēåbsorb</td><td>re-ab-sorb</td><td>rē-åb-sorb</td><td>v. undergo resorption</td></tr>
+<tr><td>reabsorption</td><td>rēåbsorptio̊n</td><td>re-ab-sorpt-ion</td><td>rē-åb-sorpt-io̊n</td><td>n. the process of absorbing again</td></tr>
+<tr><td>sorbet</td><td>sorbè𝕥</td><td>sorbet</td><td>sorbè𝕥</td><td>n. a frozen dessert made from fruit juice</td></tr>
 <tr><td>sorcery</td><td>sorce̊rẏ</td><td>sorc-ery</td><td>sorc-e̊rẏ</td><td>n. the belief in magical spells that harness occult forces</td></tr>
 <tr><td>sorcerer</td><td>sorce̊re̊r</td><td>sorcer-er</td><td>sorce̊r-e̊r</td><td>n. one who practices magic or sorcery</td></tr>
-<tr><td>sorceress</td><td>sorce̊rėss</td><td>sorcer-ess</td><td>sorce̊r-ėss</td><td>n. a woman sorcerer</td></tr>
-<tr><td>sordid</td><td>sordi̊d</td><td>sordid</td><td>sordi̊d</td><td>a. meanly avaricious and mercenary</td></tr>
+<tr><td>sorceress</td><td>sorce̊re̊ss</td><td>sorcer-ess</td><td>sorce̊r-e̊ss</td><td>n. a woman sorcerer</td></tr>
+<tr><td>sordid</td><td>sordid</td><td>sordid</td><td>sordid</td><td>a. meanly avaricious and mercenary</td></tr>
 <tr><td>sorghum</td><td>sorg𝕙ům</td><td>sorghum</td><td>sorg𝕙ům</td><td>n. a tropical cereal grass; a sweet syrup made from its juice</td></tr>
-<tr><td>sorority</td><td>so̊rori̊tẏ</td><td>soror-ity</td><td>so̊ror-i̊tẏ</td><td>n. a social club for female undergraduates</td></tr>
+<tr><td>sorority</td><td>sororitẏ</td><td>soror-ity</td><td>soror-itẏ</td><td>n. a social club for female undergraduates</td></tr>
 <tr><td>sorrel</td><td>sorre̊l</td><td>sorrel</td><td>sorre̊l</td><td>n. large sour-tasting arrowhead-shaped leaves used in salads and sauces<br>n. a horse of a brownish orange to light brown color<br>a. of a light brownish color</td></tr>
 <tr><td>sorrow</td><td>sorrōw</td><td>sorr-ow</td><td>sorr-ōw</td><td>n. a feeling of deep sadness</td></tr>
 <tr><td>sorry</td><td>sorrẏ</td><td>sorr-y</td><td>sorr-ẏ</td><td>a. feeling regret or sorrow<br>a. feeling sad or distressed<br>int. used to express apology</td></tr>
@@ -4294,33 +4294,33 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sort</td><td>sort</td><td>sort</td><td>sort</td><td>n. a category of things with common characteristics; a type<br>vt. to arrange things in groups according to type</td></tr>
 <tr><td>sorted</td><td>sortėd</td><td>sort-ed</td><td>sort-ėd</td><td>a. arranged according to size</td></tr>
 <tr><td>sorter</td><td>sorte̊r</td><td>sort-er</td><td>sort-e̊r</td><td>n. a person or machine that sorts things</td></tr>
-<tr><td>sortie</td><td>sortiē</td><td>sort-ie</td><td>sort-iē</td><td>n. a military action in which besieged troops burst forth<br>n. an operational flight by a single aircraft</td></tr>
+<tr><td>sortie</td><td>sortie</td><td>sort-ie</td><td>sort-ie</td><td>n. a military action in which besieged troops burst forth<br>n. an operational flight by a single aircraft</td></tr>
 <tr><td>sorting</td><td>sorting</td><td>sort-ing</td><td>sort-ing</td><td>n. the process of grouping things by class, kind, or size</td></tr>
 <tr><td>sorts</td><td>sorts</td><td>sort-s</td><td>sort-s</td><td></td></tr>
 <tr><td>assort</td><td>åssort</td><td>as-sort</td><td>ås-sort</td><td>vt. to sort or classify into groups</td></tr>
 <tr><td>assorted</td><td>åssortėd</td><td>as-sort-ed</td><td>ås-sort-ėd</td><td>a. of various kinds</td></tr>
 <tr><td>assortment</td><td>åssortme̊nt</td><td>as-sort-ment</td><td>ås-sort-me̊nt</td><td>n. a collection containing a variety of sorts of things</td></tr>
-<tr><td>consort</td><td>co̊nsort</td><td>con-sort</td><td>co̊n-sort</td><td>n. the husband or wife of a reigning monarch<br>v. keep company with; hang out with</td></tr>
-<tr><td>consortium</td><td>co̊nsorṫiům</td><td>con-sort-ium</td><td>co̊n-sorṫ-iům</td><td>n. an association of companies for some definite purpose</td></tr>
+<tr><td>consort</td><td>consort</td><td>con-sort</td><td>con-sort</td><td>n. the husband or wife of a reigning monarch<br>v. keep company with; hang out with</td></tr>
+<tr><td>consortium</td><td>co̊nsortiům</td><td>con-sort-ium</td><td>co̊n-sort-iům</td><td>n. an association of companies for some definite purpose</td></tr>
 <tr><td>resort</td><td>rėṡort</td><td>re-sort</td><td>rė-ṡort</td><td>n. a hotel located in a resort area<br>n. something or someone turned to for assistance<br>v. have recourse to</td></tr>
 <tr><td>unsorted</td><td>ûnsortėd</td><td>un-sort-ed</td><td>ûn-sort-ėd</td><td>a. not arranged according to size</td></tr>
-<tr><td>sos</td><td>sōs</td><td>sos</td><td>sōs</td><td>n. an internationally recognized distress signal</td></tr>
+<tr><td>sos</td><td>sos</td><td>sos</td><td>sos</td><td>n. an internationally recognized distress signal</td></tr>
 <tr><td>sot</td><td>sot</td><td>sot</td><td>sot</td><td>n. a chronic or habitual drunkard</td></tr>
 <tr><td>besot</td><td>bėsot</td><td>be-sot</td><td>bė-sot</td><td>vt. to make stupid or muddled, as with alcohol</td></tr>
 <tr><td>besotted</td><td>bėsottėd</td><td>be-sott-ed</td><td>bė-sott-ėd</td><td>a. very drunk<br>a. (followed by `with&#x27;) deeply devoted to</td></tr>
-<tr><td>soteriological</td><td>sotērio̊logicål</td><td>soter-i-o-log-ic-al</td><td>sotēr-i-o̊-log-ic-ål</td><td>a. of or relating to soteriology (the doctrine of salvation)</td></tr>
-<tr><td>sou</td><td>soù</td><td>sou</td><td>soù</td><td>n. a former French coin of low denomination; often used of any small amount of money</td></tr>
-<tr><td>insouciance</td><td>insoùciånce</td><td>in-souci-ance</td><td>in-soùci-ånce</td><td>n. the cheerful feeling of having nothing to worry about</td></tr>
+<tr><td>soteriological</td><td>sōtērio̊logicål</td><td>soter-i-o-log-ic-al</td><td>sōtēr-i-o̊-log-ic-ål</td><td>a. of or relating to soteriology (the doctrine of salvation)</td></tr>
+<tr><td>sou</td><td>soū</td><td>sou</td><td>soū</td><td>n. a former French coin of low denomination; often used of any small amount of money</td></tr>
+<tr><td>insouciance</td><td>insoūciånce</td><td>in-souci-ance</td><td>in-soūci-ånce</td><td>n. the cheerful feeling of having nothing to worry about</td></tr>
 <tr><td>insouciant</td><td>insoūciånt</td><td>in-souci-ant</td><td>in-soūci-ånt</td><td>a. marked by blithe unconcern</td></tr>
-<tr><td>souffle</td><td>soùfflè</td><td>souff-le</td><td>soùff-lè</td><td>n. a light fluffy dish made with egg yolks and beaten egg whites</td></tr>
-<tr><td>sough</td><td>sòu𝕘𝕙</td><td>sough</td><td>sòu𝕘𝕙</td><td>v. make a murmuring sound</td></tr>
-<tr><td>souk</td><td>soùk</td><td>souk</td><td>soùk</td><td>n. an open-air market in an Arabian city</td></tr>
+<tr><td>souffle</td><td>soūfflè</td><td>souff-le</td><td>soūff-lè</td><td>n. a light fluffy dish made with egg yolks and beaten egg whites</td></tr>
+<tr><td>sough</td><td>sōu𝕘𝕙</td><td>sough</td><td>sōu𝕘𝕙</td><td>v. make a murmuring sound</td></tr>
+<tr><td>souk</td><td>soūk</td><td>souk</td><td>soūk</td><td>n. an open-air market in an Arabian city</td></tr>
 <tr><td>soul</td><td>sōul</td><td>soul</td><td>sōul</td><td>n. the spiritual or immaterial part of a human being regarded as immortal<br>n. emotional or intellectual energy or intensity</td></tr>
 <tr><td>soulful</td><td>sōulfůl</td><td>soul-ful</td><td>sōul-fůl</td><td>a. full of or expressing deep emotion</td></tr>
-<tr><td>soulless</td><td>sōulle̊ss</td><td>soul-less</td><td>sōul-le̊ss</td><td>a. lacking sensitivity or the capacity for deep feeling</td></tr>
+<tr><td>soulless</td><td>sōullėss</td><td>soul-less</td><td>sōul-lėss</td><td>a. lacking sensitivity or the capacity for deep feeling</td></tr>
 <tr><td>souls</td><td>sōulṡ</td><td>soul-s</td><td>sōul-ṡ</td><td></td></tr>
-<tr><td>soulfully</td><td>sōulfùllẏ</td><td>soul-ful-ly</td><td>sōul-fùl-lẏ</td><td>adv. in a soulful manner</td></tr>
-<tr><td>soulfulness</td><td>sōulfùlnėss</td><td>soul-ful-ness</td><td>sōul-fùl-nėss</td><td>n. deep feeling or emotion</td></tr>
+<tr><td>soulfully</td><td>sōulfůllẏ</td><td>soul-ful-ly</td><td>sōul-fůl-lẏ</td><td>adv. in a soulful manner</td></tr>
+<tr><td>soulfulness</td><td>sōulfůlnėss</td><td>soul-ful-ness</td><td>sōul-fůl-nėss</td><td>n. deep feeling or emotion</td></tr>
 <tr><td>soul-destroying</td><td></td><td>soul-destr-oy-ing</td><td></td><td>a. deeply depressing</td></tr>
 <tr><td>sound</td><td>sòund</td><td>sound</td><td>sòund</td><td>n. vibrations that travel through the air and are heard by the ear<br>a. in good condition; healthy; reliable</td></tr>
 <tr><td>soundbite</td><td>sòundbīte</td><td>sound-bite</td><td>sòund-bīte</td><td>n. a short extract from a recorded interview chosen for its impact</td></tr>
@@ -4330,8 +4330,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sounding</td><td>sòunding</td><td>sound-ing</td><td>sòund-ing</td><td>n. a measure of the depth of water<br>a. having volume or deepness</td></tr>
 <tr><td>soundless</td><td>sòundlėss</td><td>sound-less</td><td>sòund-lėss</td><td>a. marked by absence of sound</td></tr>
 <tr><td>soundly</td><td>sòundlẏ</td><td>sound-ly</td><td>sòund-lẏ</td><td>adv. deeply or completely</td></tr>
-<tr><td>soundman</td><td>sòundman</td><td>sound-man</td><td>sòund-man</td><td>n. a technician in charge of sound for a TV, radio or film broadcast</td></tr>
-<tr><td>soundness</td><td>sòundne̊ss</td><td>sound-ness</td><td>sòund-ne̊ss</td><td>n. a state or condition free from damage or decay</td></tr>
+<tr><td>soundman</td><td>sòundmån</td><td>sound-man</td><td>sòund-mån</td><td>n. a technician in charge of sound for a TV, radio or film broadcast</td></tr>
+<tr><td>soundness</td><td>sòundnėss</td><td>sound-ness</td><td>sòund-nėss</td><td>n. a state or condition free from damage or decay</td></tr>
 <tr><td>soundproof</td><td>sòundproof</td><td>sound-proof</td><td>sòund-proof</td><td>a. impervious to sound<br>v. insulate against noise</td></tr>
 <tr><td>sounds</td><td>sòundṡ</td><td>sound-s</td><td>sòund-ṡ</td><td></td></tr>
 <tr><td>soundscape</td><td>sòundscāpe</td><td>sound-scape</td><td>sòund-scāpe</td><td>n. the sounds heard in a particular location, considered as a whole</td></tr>
@@ -4339,34 +4339,34 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>soundtrack</td><td>sòundtrack</td><td>sound-track</td><td>sòund-track</td><td>n. sound recording on a narrow strip of a motion picture film</td></tr>
 <tr><td>soundproofing</td><td>sòundproofing</td><td>sound-proof-ing</td><td>sòund-proof-ing</td><td>v insulate against noise</td></tr>
 <tr><td>soundlessly</td><td>sòundlėsslẏ</td><td>sound-less-ly</td><td>sòund-lėss-lẏ</td><td>adv. without a sound</td></tr>
-<tr><td>resound</td><td>rēsòund</td><td>re-sound</td><td>rē-sòund</td><td>v. to ring or echo with sound</td></tr>
-<tr><td>resounding</td><td>rēsòunding</td><td>re-sound-ing</td><td>rē-sòund-ing</td><td>a. characterized by resonance; emphatic</td></tr>
+<tr><td>resound</td><td>rėṡòund</td><td>re-sound</td><td>rė-ṡòund</td><td>v. to ring or echo with sound</td></tr>
+<tr><td>resounding</td><td>rėṡòunding</td><td>re-sound-ing</td><td>rė-ṡòund-ing</td><td>a. characterized by resonance; emphatic</td></tr>
 <tr><td>resoundingly</td><td>rėṡòundinglẏ</td><td>re-sound-ing-ly</td><td>rė-ṡòund-ing-lẏ</td><td>adv. in a resounding manner</td></tr>
 <tr><td>ultrasound</td><td>ûltråsòund</td><td>ultra-sound</td><td>ûltrå-sòund</td><td>n. very high frequency sound; used in ultrasonography</td></tr>
 <tr><td>unsound</td><td>ûnsòund</td><td>un-sound</td><td>ûn-sòund</td><td>a. not in good condition; damaged or decayed<br>a. not sound financially</td></tr>
 <tr><td>soup</td><td>soūp</td><td>soup</td><td>soūp</td><td>n. liquid food made from meat, fish, or vegetable stock, often with solid pieces</td></tr>
 <tr><td>soups</td><td>soūps</td><td>soup-s</td><td>soūp-s</td><td></td></tr>
-<tr><td>soupy</td><td>soùpẏ</td><td>soup-y</td><td>soùp-ẏ</td><td>a. having the consistency and appearance of soup</td></tr>
-<tr><td>soupcon</td><td>soùpcon</td><td>soupcon</td><td>soùpcon</td><td>n. a slight but appreciable amount</td></tr>
+<tr><td>soupy</td><td>soūpẏ</td><td>soup-y</td><td>soūp-ẏ</td><td>a. having the consistency and appearance of soup</td></tr>
+<tr><td>soupcon</td><td>soūpcon</td><td>soupcon</td><td>soūpcon</td><td>n. a slight but appreciable amount</td></tr>
 <tr><td>sour</td><td>sòur</td><td>sour</td><td>sòur</td><td>a. having an acid taste like lemon or vinegar<br>a. bad-tempered or resentful<br>v. to make or become sour</td></tr>
-<tr><td>sourdough</td><td>sòurdōugh</td><td>sour-dough</td><td>sòur-dōugh</td><td>n. a leaven of dough in which fermentation is active, used for making bread</td></tr>
-<tr><td>soured</td><td>so̊ur𝕖d</td><td>sour-ed</td><td>so̊ur-𝕖d</td><td>a. having turned bad</td></tr>
+<tr><td>sourdough</td><td>sòurdōu𝕘𝕙</td><td>sour-dough</td><td>sòur-dōu𝕘𝕙</td><td>n. a leaven of dough in which fermentation is active, used for making bread</td></tr>
+<tr><td>soured</td><td>sòur𝕖d</td><td>sour-ed</td><td>sòur-𝕖d</td><td>a. having turned bad</td></tr>
 <tr><td>sourer</td><td>sòure̊r</td><td>sour-er</td><td>sòur-e̊r</td><td></td></tr>
 <tr><td>sourest</td><td>sòurėst</td><td>sour-est</td><td>sòur-ėst</td><td></td></tr>
-<tr><td>souring</td><td>so̊uring</td><td>sour-ing</td><td>so̊ur-ing</td><td>n. the process of becoming sour</td></tr>
+<tr><td>souring</td><td>sòuring</td><td>sour-ing</td><td>sòur-ing</td><td>n. the process of becoming sour</td></tr>
 <tr><td>sourly</td><td>sòurlẏ</td><td>sour-ly</td><td>sòur-lẏ</td><td>adv. in a sour manner</td></tr>
 <tr><td>sourness</td><td>sòurnėss</td><td>sour-ness</td><td>sòur-nėss</td><td>n. the property of being acidic</td></tr>
 <tr><td>sourpuss</td><td>sòurpùss</td><td>sour-puss</td><td>sòur-pùss</td><td>n. someone with a habitually sullen or gloomy expression</td></tr>
-<tr><td>sourwood</td><td>so̊urwood</td><td>sour-wood</td><td>so̊ur-wood</td><td>n. a tree of eastern North America with fissured bark and fragrant white flowers</td></tr>
+<tr><td>sourwood</td><td>sòurwood</td><td>sour-wood</td><td>sòur-wood</td><td>n. a tree of eastern North America with fissured bark and fragrant white flowers</td></tr>
 <tr><td>source</td><td>sōurce</td><td>source</td><td>sōurce</td><td>n. a place or thing from which something comes or is obtained<br>n. a person who provides information</td></tr>
 <tr><td>sourcebook</td><td>sōurc𝕖book</td><td>source-book</td><td>sōurc𝕖-book</td><td>n. a collection of original documents or information on a subject</td></tr>
 <tr><td>sourcing</td><td>sōurcing</td><td>sourc-ing</td><td>sōurc-ing</td><td>v. get (a product) from another country or business<br>v. specify the origin of</td></tr>
 <tr><td>sourceless</td><td>sōurc𝕖lėss</td><td>source-less</td><td>sōurc𝕖-lėss</td><td>a. having no source or origin</td></tr>
 <tr><td>sources</td><td>sōurcėṡ</td><td>source-s</td><td>sōurcė-ṡ</td><td></td></tr>
 <tr><td>resource</td><td>rėsōurce</td><td>re-source</td><td>rė-sōurce</td><td>n. a stock or supply of materials, money, or staff that can be drawn upon<br>n. an action or strategy that may be adopted in difficult circumstances</td></tr>
-<tr><td>resourceful</td><td>rėsōurc𝕖fůl</td><td>re-source-ful</td><td>rė-sōurc𝕖-fůl</td><td>a. having the ability to find clever ways to overcome difficulties</td></tr>
+<tr><td>resourceful</td><td>rėṡōurc𝕖fůl</td><td>re-source-ful</td><td>rė-ṡōurc𝕖-fůl</td><td>a. having the ability to find clever ways to overcome difficulties</td></tr>
 <tr><td>resources</td><td>rėsōurcėṡ</td><td>re-source-s</td><td>rė-sōurcė-ṡ</td><td></td></tr>
-<tr><td>resourcefulness</td><td>rėsōurc𝕖fůlnėss</td><td>re-source-ful-ness</td><td>rė-sōurc𝕖-fůl-nėss</td><td>n. the quality of being able to cope with a difficult situation</td></tr>
+<tr><td>resourcefulness</td><td>rėṡōurc𝕖fůlnėss</td><td>re-source-ful-ness</td><td>rė-ṡōurc𝕖-fůl-nėss</td><td>n. the quality of being able to cope with a difficult situation</td></tr>
 <tr><td>souse</td><td>sòuse</td><td>souse</td><td>sòuse</td><td>n. pork trimmings chopped and pickled and jelled<br>v. become drunk or drink excessively<br>v. immerse in liquid</td></tr>
 <tr><td>south</td><td>sòuth</td><td>south</td><td>sòuth</td><td>n. the direction opposite to north<br>a. lying toward or facing the south</td></tr>
 <tr><td>Southerton</td><td></td><td>Southerton</td><td></td><td>n. a surname</td></tr>
@@ -4383,17 +4383,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>southwestern</td><td>sòuthweste̊rn</td><td>south-west-ern</td><td>sòuth-west-e̊rn</td><td>a. situated in or oriented toward the southwest</td></tr>
 <tr><td>southerly</td><td>sôuṫhe̊rlẏ</td><td>south-er-ly</td><td>sôuṫh-e̊r-lẏ</td><td>a. situated in or oriented toward the south<br>a. from the south; used especially of wind<br>adv. toward the south</td></tr>
 <tr><td>southernmost</td><td>sôuṫhe̊rnmōst</td><td>south-ern-most</td><td>sôuṫh-e̊rn-mōst</td><td>a. situated farthest south</td></tr>
-<tr><td>southernness</td><td>sôuṫhe̊rnne̊ss</td><td>south-ern-ness</td><td>sôuṫh-e̊rn-ne̊ss</td><td>n. the quality of being southern</td></tr>
+<tr><td>southernness</td><td>sôuṫhe̊rnnėss</td><td>south-ern-ness</td><td>sôuṫh-e̊rn-nėss</td><td>n. the quality of being southern</td></tr>
 <tr><td>southwards</td><td>sòuthwårdṡ</td><td>south-ward-s</td><td>sòuth-wård-ṡ</td><td>adv. toward the south</td></tr>
 <tr><td>southeastward</td><td>sòuthēastwård</td><td>south-east-ward</td><td>sòuth-ēast-wård</td><td>a. toward the southeast<br>adv. in a southeastward direction</td></tr>
 <tr><td>southeasterly</td><td>sòuthēaste̊rlẏ</td><td>south-east-er-ly</td><td>sòuth-ēast-e̊r-lẏ</td><td>a. coming from the southeast<br>adv. toward the southeast</td></tr>
 <tr><td>southwesterly</td><td>sòuthweste̊rlẏ</td><td>south-west-er-ly</td><td>sòuth-west-e̊r-lẏ</td><td>a. coming from the southwest<br>adv. toward the southwest</td></tr>
 <tr><td>souvenir</td><td>soūve̊nir</td><td>souv-en-ir</td><td>soūv-e̊n-ir</td><td>n. something of sentimental value<br>n. a reminder of past events</td></tr>
-<tr><td>souvenirs</td><td>soùve̊nirṡ</td><td>souv-en-ir-s</td><td>soùv-e̊n-ir-ṡ</td><td>n. mementos (plural of souvenir)</td></tr>
+<tr><td>souvenirs</td><td>soūve̊nirṡ</td><td>souv-en-ir-s</td><td>soūv-e̊n-ir-ṡ</td><td>n. mementos (plural of souvenir)</td></tr>
 <tr><td>sovereign</td><td>sove̊reign</td><td>sovere-ign</td><td>sove̊re-ign</td><td>n. a nation&#x27;s ruler or head of state<br>a. greatest in status or authority</td></tr>
-<tr><td>sovereignty</td><td>sove̊reigntẏ</td><td>sovere-ign-ty</td><td>sove̊re-ign-tẏ</td><td>n. supreme power or authority<br>n. the authority of a state to govern itself</td></tr>
+<tr><td>sovereignty</td><td>sove̊r𝕖i𝕘ntẏ</td><td>sovere-ign-ty</td><td>sove̊r𝕖-i𝕘n-tẏ</td><td>n. supreme power or authority<br>n. the authority of a state to govern itself</td></tr>
 <tr><td>Soviet</td><td>Sōviėt</td><td>Sovi-et</td><td>Sōvi-ėt</td><td>n. an elected council in the former Soviet Union<br>a. relating to the Soviet Union</td></tr>
-<tr><td>soviet</td><td>sōviēt</td><td></td><td></td><td>n. an elected council in the former Soviet Union<br>a. relating to the Soviet Union</td></tr>
+<tr><td>soviet</td><td>sōvie̊t</td><td></td><td></td><td>n. an elected council in the former Soviet Union<br>a. relating to the Soviet Union</td></tr>
 <tr><td>sow</td><td>sōw</td><td>sow</td><td>sōw</td><td>n. an adult female pig<br>v. to plant seeds in the ground</td></tr>
 <tr><td>sower</td><td>sōwe̊r</td><td>sow-er</td><td>sōw-e̊r</td><td>n. someone who sows</td></tr>
 <tr><td>sowing</td><td>sōwing</td><td>sow-ing</td><td>sōw-ing</td><td>v. place seeds in the ground for future growth</td></tr>
@@ -4414,30 +4414,30 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spaceport</td><td>spāc𝕖port</td><td>space-port</td><td>spāc𝕖-port</td><td>n. a launch site for spacecraft</td></tr>
 <tr><td>spaces</td><td>spācėṡ</td><td>space-s</td><td>spācė-ṡ</td><td></td></tr>
 <tr><td>spaceship</td><td>spāc𝕖ship</td><td>space-ship</td><td>spāc𝕖-ship</td><td>n. a spacecraft designed to carry a crew</td></tr>
-<tr><td>spacesuit</td><td>spācesūit</td><td>space-suit</td><td>spāce-sūit</td><td>n. a pressure suit worn by astronauts while in outer space</td></tr>
+<tr><td>spacesuit</td><td>spāc𝕖sūit</td><td>space-suit</td><td>spāc𝕖-sūit</td><td>n. a pressure suit worn by astronauts while in outer space</td></tr>
 <tr><td>spacewalk</td><td>spāc𝕖wãlk</td><td>space-walk</td><td>spāc𝕖-wãlk</td><td>v. move in space outside a space craft</td></tr>
 <tr><td>spacewalker</td><td>spāc𝕖wãlke̊r</td><td>space-walk-er</td><td>spāc𝕖-wãlk-e̊r</td><td>n. an astronaut who is active outside a spacecraft in outer space</td></tr>
-<tr><td>spaciousness</td><td>spācio̊usne̊ss</td><td>spaci-ous-ness</td><td>spāci-o̊us-ne̊ss</td><td>n spatial largeness and extensiveness (especially inside a building)</td></tr>
+<tr><td>spaciousness</td><td>spācio̊usnėss</td><td>spaci-ous-ness</td><td>spāci-o̊us-nėss</td><td>n spatial largeness and extensiveness (especially inside a building)</td></tr>
 <tr><td>spaceships</td><td>spāc𝕖ships</td><td>space-ship-s</td><td>spāc𝕖-ship-s</td><td></td></tr>
 <tr><td>hyperspace</td><td>hȳpe̊rspāce</td><td>hyper-space</td><td>hȳpe̊r-spāce</td><td>n. a space of more than three dimensions</td></tr>
 <tr><td>subspace</td><td>sûbspāce</td><td>sub-space</td><td>sûb-spāce</td><td>n. a space that is contained within another space</td></tr>
 <tr><td>spackle</td><td>spackle</td><td>spackle</td><td>spackle</td><td>n. a paste for filling cracks</td></tr>
 <tr><td>spade</td><td>spāde</td><td>spade</td><td>spāde</td><td>n. a sturdy hand shovel that can be pushed into the earth with the foot<br>v. dig with a spade</td></tr>
-<tr><td>spadefoot</td><td>spādefoot</td><td>spade-foot</td><td>spāde-foot</td><td>n. a burrowing toad with a horny spade-like projection on each hind foot</td></tr>
+<tr><td>spadefoot</td><td>spād𝕖foot</td><td>spade-foot</td><td>spād𝕖-foot</td><td>n. a burrowing toad with a horny spade-like projection on each hind foot</td></tr>
 <tr><td>spading</td><td>spāding</td><td>spad-ing</td><td>spād-ing</td><td>v. dig (up) with a spade</td></tr>
-<tr><td>spaetzle</td><td>spaètzle̊</td><td>spaetzle</td><td>spaètzle̊</td><td>n. a type of small soft egg noodle or dumpling from southern Germany and Austria</td></tr>
-<tr><td>spaghetti</td><td>spåg𝕙ettĩ</td><td>spaghetti</td><td>spåg𝕙ettĩ</td><td>n. pasta made in the form of long, thin strings</td></tr>
-<tr><td>spaghettini</td><td>spag𝕙e̊ttĩni</td><td>spaghettini</td><td>spag𝕙e̊ttĩni</td><td>n. thin spaghetti</td></tr>
+<tr><td>spaetzle</td><td>spaetzle̊</td><td>spaetzle</td><td>spaetzle̊</td><td>n. a type of small soft egg noodle or dumpling from southern Germany and Austria</td></tr>
+<tr><td>spaghetti</td><td>spåg𝕙etti</td><td>spaghetti</td><td>spåg𝕙etti</td><td>n. pasta made in the form of long, thin strings</td></tr>
+<tr><td>spaghettini</td><td>spåg𝕙ėttĩni</td><td>spaghettini</td><td>spåg𝕙ėttĩni</td><td>n. thin spaghetti</td></tr>
 <tr><td>Spain</td><td>Spāin</td><td>Spain</td><td>Spāin</td><td>n. a country in southwestern Europe</td></tr>
 <tr><td>spall</td><td>spãll</td><td>spall</td><td>spãll</td><td>n. a chip or fragment</td></tr>
-<tr><td>spallation</td><td>spãllatio̊n</td><td>spall-at-ion</td><td>spãll-at-io̊n</td><td>n. a nuclear reaction in which a bombarded nucleus breaks up into many particles</td></tr>
+<tr><td>spallation</td><td>spallātio̊n</td><td>spall-at-ion</td><td>spall-āt-io̊n</td><td>n. a nuclear reaction in which a bombarded nucleus breaks up into many particles</td></tr>
 <tr><td>spam</td><td>spam</td><td>spam</td><td>spam</td><td>n. unwanted e-mail sent out in bulk<br>v. send unwanted e-mail</td></tr>
 <tr><td>spammer</td><td>spamme̊r</td><td>spamm-er</td><td>spamm-e̊r</td><td>n. someone who sends unwanted email often in bulk</td></tr>
 <tr><td>span</td><td>span</td><td>span</td><td>span</td><td>n. the full extent of something from end to end<br>n. the length of time over which something extends<br>v. to extend across</td></tr>
-<tr><td>spandex</td><td>spande̊x</td><td>span-dex</td><td>span-de̊x</td><td>n. an elastic synthetic fabric</td></tr>
+<tr><td>spandex</td><td>spandex</td><td>span-dex</td><td>span-dex</td><td>n. an elastic synthetic fabric</td></tr>
 <tr><td>spanner</td><td>spanne̊r</td><td>spann-er</td><td>spann-e̊r</td><td>n. a hand tool that is used to hold or twist a nut or bolt</td></tr>
 <tr><td>Spaniard</td><td>Spaniård</td><td>Span-iard</td><td>Span-iård</td><td>n. a person from Spain</td></tr>
-<tr><td>spaniel</td><td>spaniel</td><td>span-iel</td><td>span-iel</td><td>n. a breed of dog with a long silky coat and long ears</td></tr>
+<tr><td>spaniel</td><td>spanie̊l</td><td>span-iel</td><td>span-ie̊l</td><td>n. a breed of dog with a long silky coat and long ears</td></tr>
 <tr><td>Spanish</td><td>Spanish</td><td>Span-ish</td><td>Span-ish</td><td>a. relating to Spain or its people<br>n. the language of Spain</td></tr>
 <tr><td>spandrel</td><td>spandre̊l</td><td>spandrel</td><td>spandre̊l</td><td>n. the triangular area between two adjacent arches and the horizontal above</td></tr>
 <tr><td>spangled</td><td>spangl𝕖d</td><td>spangl-ed</td><td>spangl-𝕖d</td><td>a. covered with beads or jewels or sequins</td></tr>
@@ -4453,19 +4453,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spared</td><td>spār𝕖d</td><td>spar-ed</td><td>spār-𝕖d</td><td></td></tr>
 <tr><td>sparer</td><td>spāre̊r</td><td>spar-er</td><td>spār-e̊r</td><td></td></tr>
 <tr><td>sparest</td><td>spārėst</td><td>spar-est</td><td>spār-ėst</td><td></td></tr>
-<tr><td>sparing</td><td>sparing</td><td>spar-ing</td><td>spar-ing</td><td>v. use frugally or carefully<br>a. avoiding waste; frugal</td></tr>
+<tr><td>sparing</td><td>spāring</td><td>spar-ing</td><td>spār-ing</td><td>v. use frugally or carefully<br>a. avoiding waste; frugal</td></tr>
 <tr><td>sparring</td><td>spàrring</td><td>sparr-ing</td><td>spàrr-ing</td><td>n. an argument in which the participants are trying to gain some advantage<br>v. engage in a sparring match</td></tr>
 <tr><td>sparely</td><td>spār𝕖lẏ</td><td>spare-ly</td><td>spār𝕖-lẏ</td><td>adv. in a spare manner</td></tr>
 <tr><td>spareness</td><td>spār𝕖nėss</td><td>spare-ness</td><td>spār𝕖-nėss</td><td>n. the property of being scanty or scattered<br>n. the property of having little body fat</td></tr>
 <tr><td>spareribs</td><td>spār𝕖ribṡ</td><td>spare-ribs</td><td>spār𝕖-ribṡ</td><td>n. cut of pork from the rib section with most of the meat trimmed off</td></tr>
 <tr><td>spares</td><td>spār𝕖ṡ</td><td>spare-s</td><td>spār𝕖-ṡ</td><td></td></tr>
-<tr><td>sparingly</td><td>sparinglẏ</td><td>spar-ing-ly</td><td>spar-ing-lẏ</td><td>adv. to a meager degree or in a meager manner</td></tr>
+<tr><td>sparingly</td><td>spāringlẏ</td><td>spar-ing-ly</td><td>spār-ing-lẏ</td><td>adv. to a meager degree or in a meager manner</td></tr>
 <tr><td>asparagus</td><td>åsparågůs</td><td>a-sparag-us</td><td>å-sparåg-ůs</td><td>n. a plant whose young shoots are eaten as a vegetable</td></tr>
 <tr><td>despair</td><td>dėspāir</td><td>de-spair</td><td>dė-spāir</td><td>n. the complete loss or absence of hope<br>v. to lose or be without hope</td></tr>
 <tr><td>despairing</td><td>dėspāiring</td><td>de-spair-ing</td><td>dė-spāir-ing</td><td>a. arising from or marked by despair</td></tr>
 <tr><td>despairingly</td><td>dėspāiringlẏ</td><td>de-spair-ing-ly</td><td>dė-spāir-ing-lẏ</td><td>adv. with desperation</td></tr>
 <tr><td>feldspar</td><td>feldspàr</td><td>feld-spar</td><td>feld-spàr</td><td>n. hard crystalline minerals of aluminum silicates of potassium, sodium or calcium</td></tr>
-<tr><td>unsparing</td><td>ûnsparing</td><td>un-spar-ing</td><td>ûn-spar-ing</td><td>a. not forbearing; ruthless</td></tr>
+<tr><td>unsparing</td><td>ûnspāring</td><td>un-spar-ing</td><td>ûn-spār-ing</td><td>a. not forbearing; ruthless</td></tr>
 <tr><td>spark</td><td>spàrk</td><td>spark</td><td>spàrk</td><td>n. a small fiery particle thrown off from a fire<br>v. to emit sparks<br>v. to cause or set in motion</td></tr>
 <tr><td>sparker</td><td>spàrke̊r</td><td>spark-er</td><td>spàrk-e̊r</td><td>n. a device to stop sparks from an open fireplace or smokestack</td></tr>
 <tr><td>sparkler</td><td>spàrkle̊r</td><td>sparkl-er</td><td>spàrkl-e̊r</td><td>n. a firework that burns slowly and throws out a shower of sparks</td></tr>
@@ -4480,7 +4480,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sparse</td><td>spàrse</td><td>sparse</td><td>spàrse</td><td>a. thinly scattered or distributed</td></tr>
 <tr><td>sparsity</td><td>spàrsitẏ</td><td>spars-ity</td><td>spàrs-itẏ</td><td>n. the property of being scanty or scattered; lacking denseness</td></tr>
 <tr><td>sparsely</td><td>spàrs𝕖lẏ</td><td>sparse-ly</td><td>spàrs𝕖-lẏ</td><td>adv. in a sparse manner; thinly scattered</td></tr>
-<tr><td>sparseness</td><td>spàrsenėss</td><td>sparse-ness</td><td>spàrse-nėss</td><td>n. the property of being scanty or scattered; lacking denseness</td></tr>
+<tr><td>sparseness</td><td>spàrs𝕖nėss</td><td>sparse-ness</td><td>spàrs𝕖-nėss</td><td>n. the property of being scanty or scattered; lacking denseness</td></tr>
 <tr><td>spartan</td><td>spàrtån</td><td>spart-an</td><td>spàrt-ån</td><td>n. a resident of Sparta<br>a. resolute in the face of pain or danger or adversity; avoiding luxury and comfort</td></tr>
 <tr><td>spasm</td><td>spaṡm</td><td>spasm</td><td>spaṡm</td><td>n. a sudden involuntary muscular contraction</td></tr>
 <tr><td>spasmodic</td><td>spaṡmodic</td><td>spasmod-ic</td><td>spaṡmod-ic</td><td>a. affected by sudden involuntary muscular contractions<br>a. occurring in sudden spells</td></tr>
@@ -4492,11 +4492,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spate</td><td>spāte</td><td>spate</td><td>spāte</td><td>n. a sudden large amount of something<br>n. a sudden flood</td></tr>
 <tr><td>spatial</td><td>spātiål</td><td>spati-al</td><td>spāti-ål</td><td>a. relating to or occupying space</td></tr>
 <tr><td>spatter</td><td>spatte̊r</td><td>spatt-er</td><td>spatt-e̊r</td><td>v. to dash a liquid upon a surface<br>n. the act of splashing</td></tr>
-<tr><td>spatiality</td><td>spatiȧlitẏ</td><td>spati-al-ity</td><td>spati-ȧl-itẏ</td><td>n any property relating to or occupying space</td></tr>
+<tr><td>spatiality</td><td>spātialitẏ</td><td>spati-al-ity</td><td>spāti-al-itẏ</td><td>n any property relating to or occupying space</td></tr>
 <tr><td>spattering</td><td>spatte̊ring</td><td>spatt-er-ing</td><td>spatt-e̊r-ing</td><td>n. the act of splashing a liquid substance on a surface<br>v. dash a liquid upon or against</td></tr>
 <tr><td>spatially</td><td>spātiållẏ</td><td>spati-al-ly</td><td>spāti-ål-lẏ</td><td>adv. with regard to space</td></tr>
-<tr><td>visuospatial</td><td>visūōspātiål</td><td>vis-u-o-spat-i-al</td><td>vis-ū-ō-spāt-i-ål</td><td>a. relating to or affecting visual perception of space</td></tr>
-<tr><td>spatula</td><td>spatùlå</td><td>spatula</td><td>spatùlå</td><td>n. a tool with a broad flat blade used for mixing or spreading</td></tr>
+<tr><td>visuospatial</td><td>visūo̊spātiål</td><td>vis-u-o-spat-i-al</td><td>vis-ū-o̊-spāt-i-ål</td><td>a. relating to or affecting visual perception of space</td></tr>
+<tr><td>spatula</td><td>spatūlå</td><td>spatula</td><td>spatūlå</td><td>n. a tool with a broad flat blade used for mixing or spreading</td></tr>
 <tr><td>spawn</td><td>spãwn</td><td>spawn</td><td>spãwn</td><td>n. the eggs of fish or frogs<br>v. to produce or lay eggs; to cause something to happen</td></tr>
 <tr><td>spawner</td><td>spãwne̊r</td><td>spawn-er</td><td>spãwn-e̊r</td><td>n. a fish that has released or is ready to release eggs</td></tr>
 <tr><td>spay</td><td>spāy</td><td>spay</td><td>spāy</td><td>v. remove the ovaries of</td></tr>
@@ -4511,7 +4511,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>speakeasy</td><td>spēakēaṡẏ</td><td>speak-eas-y</td><td>spēak-ēaṡ-ẏ</td><td>n. (during prohibition) an illegal barroom</td></tr>
 <tr><td>bespeak</td><td>bėspēak</td><td>be-speak</td><td>bė-spēak</td><td>v. be a signal for or a symptom of</td></tr>
 <tr><td>misspeak</td><td>misspēak</td><td>mis-speak</td><td>mis-spēak</td><td>v pronounce a word incorrectly</td></tr>
-<tr><td>newspeak</td><td>new̄spēak</td><td>new-speak</td><td>new̄-spēak</td><td>n. deliberately ambiguous and contradictory language used to mislead the public</td></tr>
+<tr><td>newspeak</td><td>new̄ṡpēak</td><td>new-speak</td><td>new̄-ṡpēak</td><td>n. deliberately ambiguous and contradictory language used to mislead the public</td></tr>
 <tr><td>unspoken</td><td>ûnspōke̊n</td><td>un-spoken</td><td>ûn-spōke̊n</td><td>a. not expressed in words<br>a. implied but not stated</td></tr>
 <tr><td>unspeakable</td><td>ûnspēakåble</td><td>un-speak-able</td><td>ûn-spēak-åble</td><td>a. too bad or shocking to be described in words</td></tr>
 <tr><td>unspeakably</td><td>ûnspēakåblẏ</td><td>un-speak-ab-ly</td><td>ûn-spēak-åb-lẏ</td><td>adv. to an inexpressible degree</td></tr>
@@ -4528,7 +4528,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>specious</td><td>spēcio̊us</td><td>spec-ious</td><td>spēc-io̊us</td><td>a. seeming to be right or true but actually wrong</td></tr>
 <tr><td>specimen</td><td>specime̊n</td><td>speci-men</td><td>speci-me̊n</td><td>n. an example regarded as typical of its class<br>n. a small amount taken for testing</td></tr>
 <tr><td>speculate</td><td>specūlāte</td><td>spec-ul-ate</td><td>spec-ūl-āte</td><td>v. to form a theory about something without firm evidence<br>v. to invest in stocks or property with high risk</td></tr>
-<tr><td>spectrometer</td><td>spectrome̊te̊r</td><td>spectro-met-er</td><td>spectro-me̊t-e̊r</td><td>n. an instrument for measuring properties of light over a range of wavelengths</td></tr>
+<tr><td>spectrometer</td><td>spectromėte̊r</td><td>spectro-met-er</td><td>spectro-mėt-e̊r</td><td>n. an instrument for measuring properties of light over a range of wavelengths</td></tr>
 <tr><td>specialise</td><td>speciålīṡe</td><td>speci-al-ise</td><td>speci-ål-īṡe</td><td>vi. to pursue a special area of study</td></tr>
 <tr><td>specialist</td><td>speciålist</td><td>speci-al-ist</td><td>speci-ål-ist</td><td>n. an expert who is devoted to one occupation or branch of learning</td></tr>
 <tr><td>speciality</td><td>specialitẏ</td><td>speci-al-ity</td><td>speci-al-itẏ</td><td>n. an asset of special worth or utility; the special line of work one has adopted</td></tr>
@@ -4537,38 +4537,38 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>speculation</td><td>specūlātio̊n</td><td>specul-at-ion</td><td>specūl-āt-io̊n</td><td>n. a guess based on incomplete information<br>n. investment involving high risk</td></tr>
 <tr><td>speculative</td><td>specūlåtive</td><td>specul-at-ive</td><td>specūl-åt-ive</td><td>a. based on conjecture rather than knowledge<br>a. involving financial risk</td></tr>
 <tr><td>specific</td><td>specific</td><td>spec-if-ic</td><td>spec-if-ic</td><td>a. clearly defined or identified<br>a. relating to one particular thing<br>n. a specific medicine or treatment</td></tr>
-<tr><td>speciosity</td><td>spēċiositẏ</td><td>speci-os-ity</td><td>spēċi-os-itẏ</td><td>n. the quality of being deceptively attractive</td></tr>
+<tr><td>speciosity</td><td>spēciositẏ</td><td>speci-os-ity</td><td>spēci-os-itẏ</td><td>n. the quality of being deceptively attractive</td></tr>
 <tr><td>specially</td><td>speciållẏ</td><td>speci-al-ly</td><td>speci-ål-lẏ</td><td>adv. in a special manner</td></tr>
 <tr><td>spectacularly</td><td>spectacūlårlẏ</td><td>spec-tacular-ly</td><td>spec-tacūlår-lẏ</td><td>adv. in a spectacular manner</td></tr>
 <tr><td>specular</td><td>specūlår</td><td>spec-u-lar</td><td>spec-ū-lår</td><td>a. capable of reflecting light like a mirror</td></tr>
-<tr><td>speculum</td><td>specùlům</td><td>spec-u-lum</td><td>spec-ù-lům</td><td>n. a medical instrument for dilating a bodily passage for examination<br>n. a mirror used in an optical instrument</td></tr>
-<tr><td>specialness</td><td>speciålne̊ss</td><td>speci-al-ness</td><td>speci-ål-ne̊ss</td><td>n. the quality of being special or distinctive</td></tr>
+<tr><td>speculum</td><td>specūlům</td><td>spec-u-lum</td><td>spec-ū-lům</td><td>n. a medical instrument for dilating a bodily passage for examination<br>n. a mirror used in an optical instrument</td></tr>
+<tr><td>specialness</td><td>speciålnėss</td><td>speci-al-ness</td><td>speci-ål-nėss</td><td>n. the quality of being special or distinctive</td></tr>
 <tr><td>speculator</td><td>specūlāto̊r</td><td>specul-at-or</td><td>specūl-āt-o̊r</td><td>n. a person who invests in stocks or property hoping for high profits</td></tr>
 <tr><td>specials</td><td>speciålṡ</td><td>speci-al-s</td><td>speci-ål-ṡ</td><td></td></tr>
 <tr><td>specialty</td><td>speciåltẏ</td><td>speci-al-ty</td><td>speci-ål-tẏ</td><td>n. a particular area of expertise</td></tr>
 <tr><td>spectrometry</td><td>spectrome̊trẏ</td><td>spectro-metr-y</td><td>spectro-me̊tr-ẏ</td><td>n. the use of spectroscopes to analyze spectra</td></tr>
 <tr><td>spectroscopy</td><td>spectrosco̊pẏ</td><td>spectro-scop-y</td><td>spectro-sco̊p-ẏ</td><td>n. the use of spectroscopes to analyze spectra</td></tr>
 <tr><td>specifiable</td><td>specifīåble</td><td>spec-if-i-able</td><td>spec-if-ī-åble</td><td>a. capable of being specified</td></tr>
-<tr><td>specified</td><td>speci̊fī𝕖d</td><td>spec-i-fi-ed</td><td>spec-i̊-fī-𝕖d</td><td>a. clearly and explicitly stated</td></tr>
+<tr><td>specified</td><td>specifī𝕖d</td><td>spec-i-fi-ed</td><td>spec-i-fī-𝕖d</td><td>a. clearly and explicitly stated</td></tr>
 <tr><td>specialised</td><td>speciålīṡ𝕖d</td><td>speci-al-is-ed</td><td>speci-ål-īṡ-𝕖d</td><td>a. developed or designed for a special activity or function<br>v. devote oneself to a special area of work</td></tr>
 <tr><td>specialized</td><td>speciålīz𝕖d</td><td>speci-al-iz-ed</td><td>speci-ål-īz-𝕖d</td><td>a. designed or adapted for a particular purpose or activity</td></tr>
-<tr><td>specificity</td><td>speci̊fici̊tẏ</td><td>spec-if-ic-ity</td><td>spec-i̊f-ic-i̊tẏ</td><td>n. the quality of being specific rather than general</td></tr>
+<tr><td>specificity</td><td>specificitẏ</td><td>spec-if-ic-ity</td><td>spec-if-ic-itẏ</td><td>n. the quality of being specific rather than general</td></tr>
 <tr><td>speculatively</td><td>specūlåtiv𝕖lẏ</td><td>specul-at-ive-ly</td><td>specūl-åt-iv𝕖-lẏ</td><td>adv. with speculation; in a speculative manner</td></tr>
-<tr><td>specifics</td><td>spėcifics</td><td>spec-if-ic-s</td><td>spėc-if-ic-s</td><td>n. exact details</td></tr>
+<tr><td>specifics</td><td>specifics</td><td>spec-if-ic-s</td><td>spec-if-ic-s</td><td>n. exact details</td></tr>
 <tr><td>specification</td><td>specificātio̊n</td><td>spec-i-fic-at-ion</td><td>spec-i-fic-āt-io̊n</td><td>n. a detailed description of design criteria</td></tr>
-<tr><td>specialization</td><td>speciåli̊zātio̊n</td><td>speci-al-iz-at-ion</td><td>speci-ål-i̊z-āt-io̊n</td><td>n. the act of specializing in a particular field</td></tr>
+<tr><td>specialization</td><td>speciålīzātio̊n</td><td>speci-al-iz-at-ion</td><td>speci-ål-īz-āt-io̊n</td><td>n. the act of specializing in a particular field</td></tr>
 <tr><td>specifically</td><td>spe̊cificållẏ</td><td>spec-if-ic-al-ly</td><td>spe̊c-if-ic-ål-lẏ</td><td>adv. in a specific or explicit manner</td></tr>
 <tr><td>conspecific</td><td>conspėcific</td><td>con-spec-if-ic</td><td>con-spėc-if-ic</td><td>n. an organism belonging to the same species as another organism<br>a. belonging to the same species</td></tr>
-<tr><td>especial</td><td>e̊speciål</td><td>e-speci-al</td><td>e̊-speci-ål</td><td>a. surpassing what is common or usual or expected</td></tr>
+<tr><td>especial</td><td>ėspeciål</td><td>e-speci-al</td><td>ė-speci-ål</td><td>a. surpassing what is common or usual or expected</td></tr>
 <tr><td>especially</td><td>ėspeciållẏ</td><td>e-speci-al-ly</td><td>ė-speci-ål-lẏ</td><td>adv. particularly; to a great extent; more than usual</td></tr>
-<tr><td>interspecific</td><td>inte̊rspėcific</td><td>inter-spec-if-ic</td><td>inte̊r-spėc-if-ic</td><td>a. arising or occurring between species</td></tr>
-<tr><td>intraspecific</td><td>intråspe̊cifi̊c</td><td>intra-spec-if-ic</td><td>intrå-spe̊c-if-i̊c</td><td>a. arising or occurring within a species</td></tr>
-<tr><td>subspecies</td><td>sûbspēċĩ𝕖ṡ</td><td>sub-species</td><td>sûb-spēċĩ𝕖ṡ</td><td>n. a taxonomic group that is a division of a species</td></tr>
+<tr><td>interspecific</td><td>inte̊rspe̊cific</td><td>inter-spec-if-ic</td><td>inte̊r-spe̊c-if-ic</td><td>a. arising or occurring between species</td></tr>
+<tr><td>intraspecific</td><td>intråspėcific</td><td>intra-spec-if-ic</td><td>intrå-spėc-if-ic</td><td>a. arising or occurring within a species</td></tr>
+<tr><td>subspecies</td><td>sûbspēciēṡ</td><td>sub-species</td><td>sûb-spēciēṡ</td><td>n. a taxonomic group that is a division of a species</td></tr>
 <tr><td>subspecialty</td><td>sûbspeciåltẏ</td><td>sub-speci-al-ty</td><td>sûb-speci-ål-tẏ</td><td>n. a specialized area within a broader field of study or practice</td></tr>
-<tr><td>unspecific</td><td>ûnspėcific</td><td>un-spec-if-ic</td><td>ûn-spėc-if-ic</td><td>a. not detailed or specific</td></tr>
-<tr><td>unspecified</td><td>ûnspeci̊fī𝕖d</td><td>un-spec-i-fi-ed</td><td>ûn-spec-i̊-fī-𝕖d</td><td>a. not stated explicitly or in detail</td></tr>
+<tr><td>unspecific</td><td>ûnspe̊cific</td><td>un-spec-if-ic</td><td>ûn-spe̊c-if-ic</td><td>a. not detailed or specific</td></tr>
+<tr><td>unspecified</td><td>ûnspecifī𝕖d</td><td>un-spec-i-fi-ed</td><td>ûn-spec-i-fī-𝕖d</td><td>a. not stated explicitly or in detail</td></tr>
 <tr><td>unspecialized</td><td>ûnspeciålīz𝕖d</td><td>un-speci-al-iz-ed</td><td>ûn-speci-ål-īz-𝕖d</td><td>a. not specialized or modified for a particular purpose or function</td></tr>
-<tr><td>specie</td><td>spēċie</td><td>specie</td><td>spēċie</td><td>n coins collectively</td></tr>
+<tr><td>specie</td><td>spēcie</td><td>specie</td><td>spēcie</td><td>n coins collectively</td></tr>
 <tr><td>speck</td><td>speck</td><td>speck</td><td>speck</td><td>n. a very small spot or mark<br>n. a tiny amount</td></tr>
 <tr><td>speckled</td><td>speckl𝕖d</td><td>speckl-ed</td><td>speckl-𝕖d</td><td>a. having a pattern of dots or small spots</td></tr>
 <tr><td>speckle</td><td>speckle</td><td>speck-le</td><td>speck-le</td><td>v. mark with small spots</td></tr>
@@ -4581,7 +4581,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spectator</td><td>spectāto̊r</td><td>spect-at-or</td><td>spect-āt-o̊r</td><td>n. a person who watches a show, game, or other event</td></tr>
 <tr><td>spectacular</td><td>spectacūlår</td><td>spect-ac-ular</td><td>spect-ac-ūlår</td><td>a. impressive or sensational<br>n. a grand public show</td></tr>
 <tr><td>spectrum</td><td>spectrům</td><td>spect-r-um</td><td>spect-r-ům</td><td>n. the range of colors seen in a rainbow<br>n. a wide range or variety of something</td></tr>
-<tr><td>spectatorial</td><td>spectātoriål</td><td>spect-at-or-i-al</td><td>spect-āt-or-i-ål</td><td>a. of or pertaining to a spectator</td></tr>
+<tr><td>spectatorial</td><td>spectåtoriål</td><td>spect-at-or-i-al</td><td>spect-åt-or-i-ål</td><td>a. of or pertaining to a spectator</td></tr>
 <tr><td>aspect</td><td>aspect</td><td>a-spect</td><td>a-spect</td><td>n. a particular part or feature of something<br>n. the appearance or look of something</td></tr>
 <tr><td>bespectacled</td><td>bėspectåcl𝕖d</td><td>be-spect-acl-ed</td><td>bė-spect-åcl-𝕖d</td><td>a. wearing eyeglasses</td></tr>
 <tr><td>circumspect</td><td>ci̊rcůmspect</td><td>circum-spect</td><td>ci̊rcům-spect</td><td>a. heedful of potential consequences</td></tr>
@@ -4601,7 +4601,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>perspective</td><td>pe̊rspective</td><td>per-spect-ive</td><td>pe̊r-spect-ive</td><td>n. a particular attitude toward or way of regarding something<br>n. the art of drawing objects on a flat surface to give the impression of depth</td></tr>
 <tr><td>prospecting</td><td>prospecting</td><td>pro-spect-ing</td><td>pro-spect-ing</td><td>v. explore for useful or valuable things or substances, such as minerals</td></tr>
 <tr><td>prospective</td><td>pro̊spective</td><td>pro-spect-ive</td><td>pro̊-spect-ive</td><td>a. expected or likely to happen or become</td></tr>
-<tr><td>prospector</td><td>prospecto̊r</td><td>pro-spect-or</td><td>pro-spect-o̊r</td><td>n. someone who explores an area for mineral deposits</td></tr>
+<tr><td>prospector</td><td>pro̊specto̊r</td><td>pro-spect-or</td><td>pro̊-spect-o̊r</td><td>n. someone who explores an area for mineral deposits</td></tr>
 <tr><td>prospectus</td><td>pro̊spectůs</td><td>pro-spect-us</td><td>pro̊-spect-ůs</td><td>n. a formal written offer to sell securities<br>n. a statement about the contents of a publication</td></tr>
 <tr><td>perspectival</td><td>pe̊rspectivål</td><td>per-spect-iv-al</td><td>pe̊r-spect-iv-ål</td><td>a. relating to perspective or a particular point of view</td></tr>
 <tr><td>perspectives</td><td>pe̊rspectiv𝕖ṡ</td><td>per-spect-ive-s</td><td>pe̊r-spect-iv𝕖-ṡ</td><td></td></tr>
@@ -4612,18 +4612,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>respected</td><td>rėspectėd</td><td>re-spect-ed</td><td>rė-spect-ėd</td><td>a. treated with deference and admiration</td></tr>
 <tr><td>respecter</td><td>rėspecte̊r</td><td>re-spect-er</td><td>rė-spect-e̊r</td><td>n. a person who respects someone or something; usually used in the negative</td></tr>
 <tr><td>respectful</td><td>rėspectfůl</td><td>re-spect-ful</td><td>rė-spect-fůl</td><td>a. full of or exhibiting respect</td></tr>
-<tr><td>respecting</td><td>rēspecting</td><td>re-spect-ing</td><td>rē-spect-ing</td><td>prep. concerning; with respect to</td></tr>
+<tr><td>respecting</td><td>rėspecting</td><td>re-spect-ing</td><td>rė-spect-ing</td><td>prep. concerning; with respect to</td></tr>
 <tr><td>respective</td><td>rėspective</td><td>re-spect-ive</td><td>rė-spect-ive</td><td>a. belonging or relating to each one separately</td></tr>
-<tr><td>retrospection</td><td>retro̊spectio̊n</td><td>retro-spect-ion</td><td>retro̊-spect-io̊n</td><td>n. reference to things past; memory for past experiences</td></tr>
-<tr><td>retrospective</td><td>retro̊spective</td><td>retro-spect-ive</td><td>retro̊-spect-ive</td><td>a. looking back on or dealing with the past<br>n. an exhibition of an artist&#x27;s work over a period of years</td></tr>
+<tr><td>retrospection</td><td>retrōspectio̊n</td><td>retro-spect-ion</td><td>retrō-spect-io̊n</td><td>n. reference to things past; memory for past experiences</td></tr>
+<tr><td>retrospective</td><td>retrōspective</td><td>retro-spect-ive</td><td>retrō-spect-ive</td><td>a. looking back on or dealing with the past<br>n. an exhibition of an artist&#x27;s work over a period of years</td></tr>
 <tr><td>respects</td><td>rėspects</td><td>re-spect-s</td><td>rė-spect-s</td><td></td></tr>
-<tr><td>respectability</td><td>rēspectåbilitẏ</td><td>re-spect-abil-ity</td><td>rē-spect-åbil-itẏ</td><td>n. the quality of being respectable</td></tr>
-<tr><td>respectably</td><td>rēspectåblẏ</td><td>re-spect-ab-ly</td><td>rē-spect-åb-lẏ</td><td>adv. in a decent and respectable manner</td></tr>
+<tr><td>respectability</td><td>rėspectåbilitẏ</td><td>re-spect-abil-ity</td><td>rė-spect-åbil-itẏ</td><td>n. the quality of being respectable</td></tr>
+<tr><td>respectably</td><td>rėspectåblẏ</td><td>re-spect-ab-ly</td><td>rė-spect-åb-lẏ</td><td>adv. in a decent and respectable manner</td></tr>
 <tr><td>respectfully</td><td>rėspectfůllẏ</td><td>re-spect-ful-ly</td><td>rė-spect-fůl-lẏ</td><td>adv. in a respectful manner</td></tr>
 <tr><td>respectively</td><td>rėspectiv𝕖lẏ</td><td>re-spect-ive-ly</td><td>rė-spect-iv𝕖-lẏ</td><td>adv. separately or in turn, in the order given</td></tr>
 <tr><td>retrospectively</td><td>retrōspectiv𝕖lẏ</td><td>retro-spect-ive-ly</td><td>retrō-spect-iv𝕖-lẏ</td><td>adv. in a manner contemplative of past events</td></tr>
 <tr><td>suspect</td><td>sůspect</td><td>su-spect</td><td>sů-spect</td><td>n. someone who is under suspicion<br>v. imagine to be the case or true or probable<br>v. hold in suspicion; believe to be guilty</td></tr>
-<tr><td>suspected</td><td>sůspect𝕖d</td><td>su-spect-ed</td><td>sů-spect-𝕖d</td><td>a. believed to be likely or probable</td></tr>
+<tr><td>suspected</td><td>sůspectėd</td><td>su-spect-ed</td><td>sů-spect-ėd</td><td>a. believed to be likely or probable</td></tr>
 <tr><td>suspecting</td><td>sůspecting</td><td>su-spect-ing</td><td>sů-spect-ing</td><td></td></tr>
 <tr><td>suspects</td><td>sůspects</td><td>su-spect-s</td><td>sů-spect-s</td><td></td></tr>
 <tr><td>unspectacular</td><td>ûnspectacūlår</td><td>un-spect-ac-ular</td><td>ûn-spect-ac-ūlår</td><td>a. not spectacular</td></tr>
@@ -4634,24 +4634,24 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>disrespectfully</td><td>disrėspectfůllẏ</td><td>dis-re-spect-ful-ly</td><td>dis-rė-spect-fůl-lẏ</td><td>adv. in a disrespectful manner</td></tr>
 <tr><td>expects</td><td>ėxpects</td><td>ex-pect-s</td><td>ėx-pect-s</td><td></td></tr>
 <tr><td>irrespective</td><td>irrėspective</td><td>ir-re-spect-ive</td><td>ir-rė-spect-ive</td><td>a. without regard to something</td></tr>
-<tr><td>unsuspected</td><td>ûnsûspectėd</td><td>un-su-spect-ed</td><td>ûn-sû-spect-ėd</td><td>a. not suspected or believed likely</td></tr>
-<tr><td>unsuspecting</td><td>ûnsûspecting</td><td>un-su-spect-ing</td><td>ûn-sû-spect-ing</td><td>a. not aware of danger or trickery</td></tr>
+<tr><td>unsuspected</td><td>ûnsůspectėd</td><td>un-su-spect-ed</td><td>ûn-sů-spect-ėd</td><td>a. not suspected or believed likely</td></tr>
+<tr><td>unsuspecting</td><td>ûnsůspecting</td><td>un-su-spect-ing</td><td>ûn-sů-spect-ing</td><td>a. not aware of danger or trickery</td></tr>
 <tr><td>expectations</td><td>ėxpectātio̊nṡ</td><td>ex-pect-at-ion-s</td><td>ėx-pect-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>expect</td><td>ėxpect</td><td>ex-pect</td><td>ėx-pect</td><td>v. to regard something as likely to happen<br>v. to look forward to something</td></tr>
-<tr><td>expectable</td><td>ėxpectåble</td><td>ex-pect-able</td><td>ėx-pect-åble</td><td>a. to be expected</td></tr>
-<tr><td>expectancy</td><td>ėxpectåncẏ</td><td>ex-pect-anc-y</td><td>ėx-pect-ånc-ẏ</td><td>n. the state of expecting or hoping</td></tr>
-<tr><td>expectant</td><td>ėxpectånt</td><td>ex-pect-ant</td><td>ėx-pect-ånt</td><td>a. marked by eager anticipation</td></tr>
-<tr><td>expectantly</td><td>ėxpectåntlẏ</td><td>ex-pect-ant-ly</td><td>ėx-pect-ånt-lẏ</td><td>adv. in an expectant manner</td></tr>
+<tr><td>expectable</td><td>expectåble</td><td>ex-pect-able</td><td>ex-pect-åble</td><td>a. to be expected</td></tr>
+<tr><td>expectancy</td><td>expectåncẏ</td><td>ex-pect-anc-y</td><td>ex-pect-ånc-ẏ</td><td>n. the state of expecting or hoping</td></tr>
+<tr><td>expectant</td><td>expectånt</td><td>ex-pect-ant</td><td>ex-pect-ånt</td><td>a. marked by eager anticipation</td></tr>
+<tr><td>expectantly</td><td>expectåntlẏ</td><td>ex-pect-ant-ly</td><td>ex-pect-ånt-lẏ</td><td>adv. in an expectant manner</td></tr>
 <tr><td>expectation</td><td>ėxpectātio̊n</td><td>ex-pect-at-ion</td><td>ėx-pect-āt-io̊n</td><td>n. a strong belief that something will happen<br>n. a belief about what will happen in the future</td></tr>
-<tr><td>expected</td><td>ėxpect𝕖d</td><td>ex-pect-ed</td><td>ėx-pect-𝕖d</td><td>a. considered likely to happen</td></tr>
-<tr><td>expectedly</td><td>ėxpecte̊dlẏ</td><td>ex-pect-ed-ly</td><td>ėx-pect-e̊d-lẏ</td><td>adv. in conformity with expectation</td></tr>
+<tr><td>expected</td><td>expectėd</td><td>ex-pect-ed</td><td>ex-pect-ėd</td><td>a. considered likely to happen</td></tr>
+<tr><td>expectedly</td><td>expectėdlẏ</td><td>ex-pect-ed-ly</td><td>ex-pect-ėd-lẏ</td><td>adv. in conformity with expectation</td></tr>
 <tr><td>expecting</td><td>ėxpecting</td><td>ex-pect-ing</td><td>ėx-pect-ing</td><td></td></tr>
 <tr><td>unexpected</td><td>ûnėxpectėd</td><td>un-ex-pect-ed</td><td>ûn-ėx-pect-ėd</td><td>a. not expected or planned</td></tr>
-<tr><td>unexpectedly</td><td>ûnėxpectėdlẏ</td><td>un-ex-pect-ed-ly</td><td>ûn-ėx-pect-ėd-lẏ</td><td>adv. in a way that was not expected</td></tr>
-<tr><td>unexpectedness</td><td>ûnėxpectėdnėss</td><td>un-ex-pect-ed-ness</td><td>ûn-ėx-pect-ėd-nėss</td><td>n. extraordinariness by virtue of being unexpected</td></tr>
+<tr><td>unexpectedly</td><td>ûnexpectėdlẏ</td><td>un-ex-pect-ed-ly</td><td>ûn-ex-pect-ėd-lẏ</td><td>adv. in a way that was not expected</td></tr>
+<tr><td>unexpectedness</td><td>ûnexpectėdnėss</td><td>un-ex-pect-ed-ness</td><td>ûn-ex-pect-ėd-nėss</td><td>n. extraordinariness by virtue of being unexpected</td></tr>
 <tr><td>speech</td><td>spēech</td><td>speech</td><td>spēech</td><td>n. the ability or act of speaking<br>n. a formal talk given to an audience</td></tr>
 <tr><td>speeches</td><td>spēechėṡ</td><td>speech-es</td><td>spēech-ėṡ</td><td></td></tr>
-<tr><td>speechless</td><td>spēechle̊ss</td><td>speech-less</td><td>spēech-le̊ss</td><td>a. temporarily incapable of speaking</td></tr>
+<tr><td>speechless</td><td>spēechlėss</td><td>speech-less</td><td>spēech-lėss</td><td>a. temporarily incapable of speaking</td></tr>
 <tr><td>speechwriter</td><td>spēech𝕨rīte̊r</td><td>speech-writ-er</td><td>spēech-𝕨rīt-e̊r</td><td>n. a writer who composes speeches for others</td></tr>
 <tr><td>speechlessness</td><td>spēechlėssnėss</td><td>speech-less-ness</td><td>spēech-lėss-nėss</td><td>n. the property of being speechless</td></tr>
 <tr><td>speed</td><td>spēed</td><td>speed</td><td>spēed</td><td>n. the rate at which something moves or happens<br>v. move or happen quickly</td></tr>
@@ -4664,10 +4664,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>speedster</td><td>spēedste̊r</td><td>speed-ster</td><td>spēed-ste̊r</td><td>n. a driver who exceeds the safe speed limit</td></tr>
 <tr><td>speedway</td><td>spēedwāy</td><td>speed-way</td><td>spēed-wāy</td><td>n. a racetrack for racing automobiles or motorcycles<br>n. road where high speed driving is allowed</td></tr>
 <tr><td>speedy</td><td>spēedẏ</td><td>speed-y</td><td>spēed-ẏ</td><td>a. characterized by speed; moving with high speed</td></tr>
-<tr><td>speedily</td><td>spēedi̊lẏ</td><td>speed-i-ly</td><td>spēed-i̊-lẏ</td><td>adv. with rapid movements</td></tr>
-<tr><td>speedometer</td><td>spēedome̊te̊r</td><td>speed-o-met-er</td><td>spēed-o-me̊t-e̊r</td><td>n. a meter fixed to a vehicle that measures and displays its speed</td></tr>
+<tr><td>speedily</td><td>spēedilẏ</td><td>speed-i-ly</td><td>spēed-i-lẏ</td><td>adv. with rapid movements</td></tr>
+<tr><td>speedometer</td><td>spēedomėte̊r</td><td>speed-o-met-er</td><td>spēed-o-mėt-e̊r</td><td>n. a meter fixed to a vehicle that measures and displays its speed</td></tr>
 <tr><td>superspeedway</td><td>sūpe̊rspēedwāy</td><td>super-speed-way</td><td>sūpe̊r-spēed-wāy</td><td>n. a large oval track used for high-speed auto racing</td></tr>
-<tr><td>speleology</td><td>spėlėolo̊gẏ</td><td>spele-o-log-y</td><td>spėlė-o-lo̊g-ẏ</td><td>n. the study of caves</td></tr>
+<tr><td>speleology</td><td>spelėolo̊gẏ</td><td>spele-o-log-y</td><td>spelė-o-lo̊g-ẏ</td><td>n. the study of caves</td></tr>
 <tr><td>spell</td><td>spell</td><td>spell</td><td>spell</td><td>v. write or say the letters of a word<br>n. a period of time; a magic charm</td></tr>
 <tr><td>spelt</td><td>spelt</td><td>spelt</td><td>spelt</td><td></td></tr>
 <tr><td>spellbind</td><td>spellbīnd</td><td>spell-bind</td><td>spell-bīnd</td><td>vt. to hold one&#x27;s attention completely</td></tr>
@@ -4680,8 +4680,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>misspell</td><td>misspell</td><td>mis-spell</td><td>mis-spell</td><td>v. spell incorrectly</td></tr>
 <tr><td>misspelled</td><td>misspell𝕖d</td><td>mis-spell-ed</td><td>mis-spell-𝕖d</td><td>v. spell incorrectly</td></tr>
 <tr><td>misspelling</td><td>misspelling</td><td>mis-spell-ing</td><td>mis-spell-ing</td><td>n. a spelling that is incorrect</td></tr>
-<tr><td>spelunker</td><td>spe̊lûnke̊r</td><td>spelunk-er</td><td>spe̊lûnk-e̊r</td><td>n. a person who explores caves</td></tr>
-<tr><td>spencerian</td><td>spence̊riån</td><td>spencer-ian</td><td>spence̊r-iån</td><td>a. of or relating to the system of handwriting developed by Platt Rogers Spencer</td></tr>
+<tr><td>spelunker</td><td>spelûnke̊r</td><td>spelunk-er</td><td>spelûnk-e̊r</td><td>n. a person who explores caves</td></tr>
+<tr><td>spencerian</td><td>spencēriån</td><td>spencer-ian</td><td>spencēr-iån</td><td>a. of or relating to the system of handwriting developed by Platt Rogers Spencer</td></tr>
 <tr><td>spend</td><td>spend</td><td>spend</td><td>spend</td><td>v. to pay out money for goods or services<br>v. to pass or use time</td></tr>
 <tr><td>spent</td><td>spent</td><td>spent</td><td>spent</td><td>a. exhausted of energy or strength<br>v. past tense of spend</td></tr>
 <tr><td>spender</td><td>spende̊r</td><td>spend-er</td><td>spend-e̊r</td><td>n. someone who spends money to purchase goods or services</td></tr>
@@ -4693,18 +4693,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>overspend</td><td>ōve̊rspend</td><td>over-spend</td><td>ōve̊r-spend</td><td>v. spend more than available of (a budget)<br>v. spend at a high rate</td></tr>
 <tr><td>overspending</td><td>ōve̊rspending</td><td>over-spend-ing</td><td>ōve̊r-spend-ing</td><td>v. spend more than available of (a budget)</td></tr>
 <tr><td>unspent</td><td>ûnspent</td><td>un-spent</td><td>ûn-spent</td><td>a. (of financial resources) not spent</td></tr>
-<tr><td>desperado</td><td>despe̊ràdō</td><td>de-sper-ado</td><td>de-spe̊r-àdō</td><td>n. a bold outlaw especially on the American frontier</td></tr>
+<tr><td>desperado</td><td>dėspe̊ràdō</td><td>de-sper-ado</td><td>dė-spe̊r-àdō</td><td>n. a bold outlaw especially on the American frontier</td></tr>
 <tr><td>desperate</td><td>despe̊rāte</td><td>de-sper-ate</td><td>de-spe̊r-āte</td><td>a. desperately determined<br>a. dangerously reckless or violent as from urgency or despair<br>a. showing extreme courage; especially actions undertaken in desperation as a last resort</td></tr>
 <tr><td>desperation</td><td>despe̊rātio̊n</td><td>de-sper-at-ion</td><td>de-spe̊r-āt-io̊n</td><td>n. desperate recklessness</td></tr>
-<tr><td>desperately</td><td>despe̊rāt𝕖lẏ</td><td>de-sper-ate-ly</td><td>de-spe̊r-āt𝕖-lẏ</td><td>adv. in a way that shows despair; extremely</td></tr>
+<tr><td>desperately</td><td>despe̊råt𝕖lẏ</td><td>de-sper-ate-ly</td><td>de-spe̊r-åt𝕖-lẏ</td><td>adv. in a way that shows despair; extremely</td></tr>
 <tr><td>prosper</td><td>prospe̊r</td><td>pro-sper</td><td>pro-spe̊r</td><td>v. make steady progress; be at the high point in one&#x27;s career</td></tr>
 <tr><td>prosperity</td><td>prosperitẏ</td><td>pro-sper-ity</td><td>pro-sper-itẏ</td><td>n. the state of being prosperous</td></tr>
 <tr><td>prosperous</td><td>prospe̊ro̊us</td><td>pro-sper-ous</td><td>pro-spe̊r-o̊us</td><td>a. successful and rich; flourishing</td></tr>
 <tr><td>sperm</td><td>spe̊rm</td><td>sperm</td><td>spe̊rm</td><td>n. the male reproductive cell</td></tr>
 <tr><td>sperms</td><td>spe̊rmṡ</td><td>sperm-s</td><td>spe̊rm-ṡ</td><td></td></tr>
 <tr><td>aspermous</td><td>åspe̊rmo̊us</td><td>a-sperm-ous</td><td>å-spe̊rm-o̊us</td><td>a. having no seeds</td></tr>
-<tr><td>endosperm</td><td>endo̊spe̊rm</td><td>endo-sperm</td><td>endo̊-spe̊rm</td><td>n. nutritive tissue surrounding the embryo within seeds of flowering plants</td></tr>
-<tr><td>angiosperm</td><td>angio̊spe̊rm</td><td>angi-o-sperm</td><td>angi-o̊-spe̊rm</td><td>n. plants having seeds in a closed ovary</td></tr>
+<tr><td>endosperm</td><td>endōspe̊rm</td><td>endo-sperm</td><td>endō-spe̊rm</td><td>n. nutritive tissue surrounding the embryo within seeds of flowering plants</td></tr>
+<tr><td>angiosperm</td><td>angiospe̊rm</td><td>angi-o-sperm</td><td>angi-o-spe̊rm</td><td>n. plants having seeds in a closed ovary</td></tr>
 <tr><td>asperse</td><td>åspe̊rse</td><td>a-sperse</td><td>å-spe̊rse</td><td>vt. to sprinkle; to slander</td></tr>
 <tr><td>disperse</td><td>dispe̊rse</td><td>di-sperse</td><td>di-spe̊rse</td><td>v. distribute over a wide area<br>v. break up and scatter</td></tr>
 <tr><td>dispersal</td><td>dispe̊rsål</td><td>di-spers-al</td><td>di-spe̊rs-ål</td><td>n the act of dispersing or diffusing something</td></tr>
@@ -4718,37 +4718,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sphenoid</td><td>sphēnoid</td><td>sphen-oid</td><td>sphēn-oid</td><td>n. butterfly-shaped bone at the base of the skull</td></tr>
 <tr><td>sphenopalatine</td><td>sphēnōpalåtīne</td><td>sphen-o-palatine</td><td>sphēn-ō-palåtīne</td><td>a. relating to the sphenoid bone and the palate</td></tr>
 <tr><td>sphere</td><td>sphēre</td><td>sphere</td><td>sphēre</td><td>n. a round solid figure<br>n. a field of activity or influence</td></tr>
-<tr><td>spheric</td><td>sphèric</td><td>spher-ic</td><td>sphèr-ic</td><td>a. having the shape of a sphere or ball</td></tr>
-<tr><td>spheroid</td><td>sphēroid</td><td>spher-oid</td><td>sphēr-oid</td><td>n. a shape generated by rotating an ellipse around one of its axes</td></tr>
+<tr><td>spheric</td><td>spheric</td><td>spher-ic</td><td>spher-ic</td><td>a. having the shape of a sphere or ball</td></tr>
+<tr><td>spheroid</td><td>spheroid</td><td>spher-oid</td><td>spher-oid</td><td>n. a shape generated by rotating an ellipse around one of its axes</td></tr>
 <tr><td>spherical</td><td>sphericål</td><td>spher-ic-al</td><td>spher-ic-ål</td><td>a. having the shape of a sphere</td></tr>
-<tr><td>spheroidal</td><td>sphēroidål</td><td>spher-oid-al</td><td>sphēr-oid-ål</td><td>a. having the nature or shape of an ellipsoid</td></tr>
-<tr><td>sphericity</td><td>sphe̊ricitẏ</td><td>spher-ic-ity</td><td>sphe̊r-ic-itẏ</td><td>n. the roundness of a 3-dimensional object</td></tr>
+<tr><td>spheroidal</td><td>spheroidål</td><td>spher-oid-al</td><td>spher-oid-ål</td><td>a. having the nature or shape of an ellipsoid</td></tr>
+<tr><td>sphericity</td><td>sphericitẏ</td><td>spher-ic-ity</td><td>spher-ic-itẏ</td><td>n. the roundness of a 3-dimensional object</td></tr>
 <tr><td>atmosphere</td><td>atmo̊sphēre</td><td>atmo-sphere</td><td>atmo̊-sphēre</td><td>n. the envelope of gases surrounding the Earth<br>n. the character or mood of a place</td></tr>
 <tr><td>atmospheric</td><td>atmo̊spheric</td><td>atmo-spher-ic</td><td>atmo̊-spher-ic</td><td>a. relating to the atmosphere</td></tr>
 <tr><td>atmospheres</td><td>atmo̊sphēr𝕖ṡ</td><td>atmo-sphere-s</td><td>atmo̊-sphēr𝕖-ṡ</td><td></td></tr>
-<tr><td>atmospherics</td><td>atmo̊sphèrics</td><td>atmo-spher-ic-s</td><td>atmo̊-sphèr-ic-s</td><td>n. a crackling or hissing noise caused by electrical interference</td></tr>
+<tr><td>atmospherics</td><td>atmo̊spherics</td><td>atmo-spher-ic-s</td><td>atmo̊-spher-ic-s</td><td>n. a crackling or hissing noise caused by electrical interference</td></tr>
 <tr><td>biosphere</td><td>bīōsphēre</td><td>bio-sphere</td><td>bīō-sphēre</td><td>n. the regions of the Earth where living organisms exist</td></tr>
 <tr><td>biospherian</td><td>bīōsphēriån</td><td>bio-spher-i-an</td><td>bīō-sphēr-i-ån</td><td>n. a person who lives in or studies a biosphere</td></tr>
 <tr><td>ecosphere</td><td>ēcōsphēre</td><td>eco-sphere</td><td>ēcō-sphēre</td><td>n. the part of the atmosphere in which living organisms can exist</td></tr>
 <tr><td>hemisphere</td><td>hemisphēre</td><td>hemi-sphere</td><td>hemi-sphēre</td><td>n. half of the terrestrial globe<br>n. either half of the cerebrum</td></tr>
-<tr><td>hemispheric</td><td>hemi̊sphēric</td><td>hemi-spher-ic</td><td>hemi̊-sphēr-ic</td><td>a. of or relating to the hemispheres</td></tr>
-<tr><td>hemispherical</td><td>hemisphēricål</td><td>hemi-spher-ic-al</td><td>hemi-sphēr-ic-ål</td><td>a. of or relating to or being a hemisphere</td></tr>
-<tr><td>microsphere</td><td>mīcro̊sphe̊re</td><td>micro-sphere</td><td>mīcro̊-sphe̊re</td><td>n. a very small sphere, especially one used in medical or scientific applications</td></tr>
+<tr><td>hemispheric</td><td>hemispheric</td><td>hemi-spher-ic</td><td>hemi-spher-ic</td><td>a. of or relating to the hemispheres</td></tr>
+<tr><td>hemispherical</td><td>hemisphericål</td><td>hemi-spher-ic-al</td><td>hemi-spher-ic-ål</td><td>a. of or relating to or being a hemisphere</td></tr>
+<tr><td>microsphere</td><td>mīcrōsphēre</td><td>micro-sphere</td><td>mīcrō-sphēre</td><td>n. a very small sphere, especially one used in medical or scientific applications</td></tr>
 <tr><td>nosphere</td><td>nōsphēre</td><td>no-sphere</td><td>nō-sphēre</td><td>n. the sphere of human thought and reason</td></tr>
-<tr><td>chromosphere</td><td>chrōmo̊sphēre</td><td>chrom-o-sphere</td><td>chrōm-o̊-sphēre</td><td>n. a gaseous layer of the sun&#x27;s atmosphere visible during a total eclipse</td></tr>
-<tr><td>ionosphere</td><td>īonosphēre</td><td>ion-o-sphere</td><td>īon-o-sphēre</td><td>n. the outer region of the Earth&#x27;s atmosphere with a high concentration of free electrons</td></tr>
-<tr><td>lithosphere</td><td>lithōsphēre</td><td>lith-o-sphere</td><td>lith-ō-sphēre</td><td>n. the solid part of the earth consisting of the crust and outer mantle</td></tr>
-<tr><td>lithospheric</td><td>lithōspheric</td><td>lith-o-spher-ic</td><td>lith-ō-spher-ic</td><td>a. relating to the lithosphere</td></tr>
-<tr><td>magnetosphere</td><td>magnēto̊sphēre</td><td>magnet-o-sphere</td><td>magnēt-o̊-sphēre</td><td>n. the magnetic field surrounding a planet, governing charged particles within its region</td></tr>
+<tr><td>chromosphere</td><td>c𝕙rōmo̊sphēre</td><td>chrom-o-sphere</td><td>c𝕙rōm-o̊-sphēre</td><td>n. a gaseous layer of the sun&#x27;s atmosphere visible during a total eclipse</td></tr>
+<tr><td>ionosphere</td><td>īo̊nosphēre</td><td>ion-o-sphere</td><td>īo̊n-o-sphēre</td><td>n. the outer region of the Earth&#x27;s atmosphere with a high concentration of free electrons</td></tr>
+<tr><td>lithosphere</td><td>litho̊sphēre</td><td>lith-o-sphere</td><td>lith-o̊-sphēre</td><td>n. the solid part of the earth consisting of the crust and outer mantle</td></tr>
+<tr><td>lithospheric</td><td>litho̊spheric</td><td>lith-o-spher-ic</td><td>lith-o̊-spher-ic</td><td>a. relating to the lithosphere</td></tr>
+<tr><td>magnetosphere</td><td>magnėtosphēre</td><td>magnet-o-sphere</td><td>magnėt-o-sphēre</td><td>n. the magnetic field surrounding a planet, governing charged particles within its region</td></tr>
 <tr><td>planisphere</td><td>planisphēre</td><td>plan-i-sphere</td><td>plan-i-sphēre</td><td>n. a map of the heavens drawn on a flat surface</td></tr>
 <tr><td>photosphere</td><td>phōtōsphēre</td><td>phot-o-sphere</td><td>phōt-ō-sphēre</td><td>n. the intensely luminous surface of a star</td></tr>
 <tr><td>troposphere</td><td>tropo̊sphēre</td><td>trop-o-sphere</td><td>trop-o̊-sphēre</td><td>n. the lowest atmospheric layer; from 4 to 11 miles high</td></tr>
-<tr><td>tropospheric</td><td>tropōspheric</td><td>trop-o-spher-ic</td><td>trop-ō-spher-ic</td><td>a. of or relating to the troposphere</td></tr>
+<tr><td>tropospheric</td><td>tropo̊spheric</td><td>trop-o-spher-ic</td><td>trop-o̊-spher-ic</td><td>a. of or relating to the troposphere</td></tr>
 <tr><td>sphincter</td><td>sphincte̊r</td><td>sphinct-er</td><td>sphinct-e̊r</td><td>n. a ring of muscle that contracts to close an opening</td></tr>
 <tr><td>sphinx</td><td>sphinx</td><td>sphinx</td><td>sphinx</td><td>n. a large stone statue with a lion&#x27;s body and a man&#x27;s head, built by ancient Egyptians</td></tr>
-<tr><td>asphyxiate</td><td>asphẏxiāte</td><td>a-sphyxi-ate</td><td>a-sphẏxi-āte</td><td>v. deprive of oxygen and prevent from breathing</td></tr>
-<tr><td>asphyxia</td><td>asphẏxiå</td><td>a-sphyx-i-a</td><td>a-sphẏx-i-å</td><td>n. a condition in which insufficient oxygen is available for breathing</td></tr>
-<tr><td>asphyxiation</td><td>asphẏxiātio̊n</td><td>a-sphyxi-at-ion</td><td>a-sphẏxi-āt-io̊n</td><td>n. the condition of being deprived of oxygen</td></tr>
+<tr><td>asphyxiate</td><td>åsphẏxiāte</td><td>a-sphyxi-ate</td><td>å-sphẏxi-āte</td><td>v. deprive of oxygen and prevent from breathing</td></tr>
+<tr><td>asphyxia</td><td>åsphẏxiå</td><td>a-sphyx-i-a</td><td>å-sphẏx-i-å</td><td>n. a condition in which insufficient oxygen is available for breathing</td></tr>
+<tr><td>asphyxiation</td><td>åsphẏxiātio̊n</td><td>a-sphyxi-at-ion</td><td>å-sphẏxi-āt-io̊n</td><td>n. the condition of being deprived of oxygen</td></tr>
 <tr><td>spic</td><td>spic</td><td>spic</td><td>spic</td><td>n. (ethnic slur) offensive term for persons of Latin American descent</td></tr>
 <tr><td>spice</td><td>spīce</td><td>spice</td><td>spīce</td><td>n. a substance used to flavor food<br>v. to make more interesting or flavorful</td></tr>
 <tr><td>spiced</td><td>spīc𝕖ḋ</td><td>spic-ed</td><td>spīc-𝕖ḋ</td><td>v. add herbs or spices to<br>v. make more interesting or flavorful</td></tr>
@@ -4762,17 +4762,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>conspicuous</td><td>co̊nspicūo̊us</td><td>con-spic-u-ous</td><td>co̊n-spic-ū-o̊us</td><td>a. standing out so as to be clearly visible</td></tr>
 <tr><td>conspicuously</td><td>co̊nspicūo̊uslẏ</td><td>con-spic-u-ous-ly</td><td>co̊n-spic-ū-o̊us-lẏ</td><td>adv. in a manner tending to attract attention</td></tr>
 <tr><td>despicable</td><td>dėspicåble</td><td>de-spic-able</td><td>dė-spic-åble</td><td>a. morally reprehensible</td></tr>
-<tr><td>perspicacious</td><td>pe̊rspi̊cācio̊us</td><td>per-spic-ac-ious</td><td>pe̊r-spi̊c-āc-io̊us</td><td>a. acutely insightful and wise</td></tr>
-<tr><td>perspicacity</td><td>pe̊rspicaci̊tẏ</td><td>per-spic-ac-ity</td><td>pe̊r-spic-ac-i̊tẏ</td><td>n. the capacity to assess situations shrewdly and to draw sound conclusions</td></tr>
+<tr><td>perspicacious</td><td>pe̊rspicācio̊us</td><td>per-spic-ac-ious</td><td>pe̊r-spic-āc-io̊us</td><td>a. acutely insightful and wise</td></tr>
+<tr><td>perspicacity</td><td>pe̊rspicacitẏ</td><td>per-spic-ac-ity</td><td>pe̊r-spic-ac-itẏ</td><td>n. the capacity to assess situations shrewdly and to draw sound conclusions</td></tr>
 <tr><td>perspicuity</td><td>pe̊rspicūitẏ</td><td>per-spic-u-ity</td><td>pe̊r-spic-ū-itẏ</td><td>n. clearness of expression</td></tr>
 <tr><td>perspicuous</td><td>pe̊rspicūo̊us</td><td>per-spic-u-ous</td><td>pe̊r-spic-ū-o̊us</td><td>a. clearly expressed and easily understood</td></tr>
 <tr><td>suspicion</td><td>sůspicio̊n</td><td>su-spic-ion</td><td>sů-spic-io̊n</td><td>n. a feeling or belief that someone is guilty of something<br>n. a feeling of distrust</td></tr>
 <tr><td>suspicious</td><td>sůspicio̊us</td><td>su-spic-ious</td><td>sů-spic-io̊us</td><td>a. having or showing distrust<br>a. causing suspicion</td></tr>
 <tr><td>suspiciously</td><td>sůspicio̊uslẏ</td><td>su-spic-ious-ly</td><td>sů-spic-io̊us-lẏ</td><td>adv. with suspicion</td></tr>
-<tr><td>suspiciousness</td><td>sůspicio̊usne̊ss</td><td>su-spic-ious-ness</td><td>sů-spic-io̊us-ne̊ss</td><td>n. being of a suspicious nature</td></tr>
-<tr><td>inconspicuous</td><td>inconspicuo̊us</td><td>in-con-spic-u-ous</td><td>in-con-spic-u-o̊us</td><td>a. not prominent or readily noticeable</td></tr>
+<tr><td>suspiciousness</td><td>sůspicio̊usnėss</td><td>su-spic-ious-ness</td><td>sů-spic-io̊us-nėss</td><td>n. being of a suspicious nature</td></tr>
+<tr><td>inconspicuous</td><td>inco̊nspicūo̊us</td><td>in-con-spic-u-ous</td><td>in-co̊n-spic-ū-o̊us</td><td>a. not prominent or readily noticeable</td></tr>
 <tr><td>inconspicuously</td><td>inco̊nspicūo̊uslẏ</td><td>in-con-spic-u-ous-ly</td><td>in-co̊n-spic-ū-o̊us-lẏ</td><td>adv. in a manner intended to avoid attracting attention</td></tr>
-<tr><td>spica</td><td>spicå</td><td>spica</td><td>spicå</td><td>n. the brightest star in Virgo</td></tr>
+<tr><td>spica</td><td>spĩcå</td><td>spica</td><td>spĩcå</td><td>n. the brightest star in Virgo</td></tr>
 <tr><td>spider</td><td>spīde̊r</td><td>spid-er</td><td>spīd-e̊r</td><td>n. a small creature with eight legs that spins webs to catch insects</td></tr>
 <tr><td>spiderlike</td><td>spīde̊rlīke</td><td>spid-er-like</td><td>spīd-e̊r-līke</td><td>a. relating to or resembling a spider</td></tr>
 <tr><td>spiders</td><td>spīde̊rṡ</td><td>spid-er-s</td><td>spīd-e̊r-ṡ</td><td></td></tr>
@@ -4796,7 +4796,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spillway</td><td>spillwāy</td><td>spill-way</td><td>spill-wāy</td><td>n. a channel that carries excess water over or around a dam or other obstruction</td></tr>
 <tr><td>spin</td><td>spin</td><td>spin</td><td>spin</td><td>n. a swift whirling motion<br>n. the act of rotating rapidly<br>v. revolve quickly and repeatedly around one&#x27;s own axis<br>v. form a web by making a thread</td></tr>
 <tr><td>spine</td><td>spīne</td><td>spine</td><td>spīne</td><td>n. the series of bones running down the center of the back<br>n. a stiff, sharp-pointed structure on a plant or animal</td></tr>
-<tr><td>spinney</td><td>spinnēy</td><td>spinney</td><td>spinnēy</td><td>n. a copse that shelters game</td></tr>
+<tr><td>spinney</td><td>spinnėy</td><td>spinney</td><td>spinnėy</td><td>n. a copse that shelters game</td></tr>
 <tr><td>spun</td><td>spûn</td><td>spun</td><td>spûn</td><td>a. formed by spinning</td></tr>
 <tr><td>spinal</td><td>spīnål</td><td>spin-al</td><td>spīn-ål</td><td>a. of or relating to the spine or spinal cord</td></tr>
 <tr><td>spindrift</td><td>spindrift</td><td>spin-drift</td><td>spin-drift</td><td>n. spray blown up from the surface of the sea</td></tr>
@@ -4816,27 +4816,27 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spinneret</td><td>spinne̊ret</td><td>spinn-er-et</td><td>spinn-e̊r-et</td><td>n. an organ on the abdomen of spiders by means of which they spin their webs</td></tr>
 <tr><td>spinmeister</td><td>spinmeīste̊r</td><td>spin-meist-er</td><td>spin-meīst-e̊r</td><td>n. a public relations person who provides a favorable interpretation of events</td></tr>
 <tr><td>spinsterhood</td><td>spinste̊rhood</td><td>spin-ster-hood</td><td>spin-ste̊r-hood</td><td>n. the state of being a spinster (usually an elderly unmarried woman)</td></tr>
-<tr><td>spinosity</td><td>spīnositẏ</td><td>spin-os-ity</td><td>spīn-os-itẏ</td><td>n. the quality of being thorny</td></tr>
-<tr><td>paraspinal</td><td>paràspinål</td><td>para-spin-al</td><td>parà-spin-ål</td><td>a. situated near the spine</td></tr>
+<tr><td>spinosity</td><td>spinositẏ</td><td>spin-os-ity</td><td>spin-os-itẏ</td><td>n. the quality of being thorny</td></tr>
+<tr><td>paraspinal</td><td>paråspīnål</td><td>para-spin-al</td><td>parå-spīn-ål</td><td>a. situated near the spine</td></tr>
 <tr><td>topspin</td><td>topspin</td><td>top-spin</td><td>top-spin</td><td>n. forward spin (usually of a moving ball) that is imparted by an upward stroke</td></tr>
-<tr><td>cerebrospinal</td><td>cerėbrōspīnål</td><td>cerebr-o-spin-al</td><td>cerėbr-ō-spīn-ål</td><td>a. of or relating to the brain and spinal cord</td></tr>
-<tr><td>spinach</td><td>spinåch</td><td>spinach</td><td>spinåch</td><td>n. a plant with dark green edible leaves</td></tr>
+<tr><td>cerebrospinal</td><td>ce̊rēbro̊spīnål</td><td>cerebr-o-spin-al</td><td>ce̊rēbr-o̊-spīn-ål</td><td>a. of or relating to the brain and spinal cord</td></tr>
+<tr><td>spinach</td><td>spinȧch</td><td>spinach</td><td>spinȧch</td><td>n. a plant with dark green edible leaves</td></tr>
 <tr><td>spindle</td><td>spindle</td><td>spind-le</td><td>spind-le</td><td>n. a rod or pin around which something turns</td></tr>
 <tr><td>spindly</td><td>spindlẏ</td><td>spind-ly</td><td>spind-lẏ</td><td>a. long and thin</td></tr>
 <tr><td>spinnaker</td><td>spinnåke̊r</td><td>spinnaker</td><td>spinnåke̊r</td><td>n. a large triangular headsail carried by a yacht when running before the wind</td></tr>
 <tr><td>spiral</td><td>spīrål</td><td>spir-al</td><td>spīr-ål</td><td>n. a curve that winds around a center with increasing distance<br>v. move in a spiral path</td></tr>
 <tr><td>spiralling</td><td>spīrålling</td><td>spirall-ing</td><td>spīråll-ing</td><td>v. to wind or move in a spiral course<br>v. form a spiral</td></tr>
 <tr><td>spirit</td><td>spirit</td><td>spir-it</td><td>spir-it</td><td>n. the nonphysical part of a person<br>n. the general atmosphere or character of something<br>n. strong alcoholic drink</td></tr>
-<tr><td>spirited</td><td>spirit𝕖d</td><td>spir-it-ed</td><td>spir-it-𝕖d</td><td>a. displaying animation, vigor, or liveliness</td></tr>
+<tr><td>spirited</td><td>spiritėd</td><td>spir-it-ed</td><td>spir-it-ėd</td><td>a. displaying animation, vigor, or liveliness</td></tr>
 <tr><td>spiraling</td><td>spīråling</td><td>spir-al-ing</td><td>spīr-ål-ing</td><td>a. in the shape of a spiral<br>v. present participle of spiral</td></tr>
 <tr><td>spiritless</td><td>spiritlėss</td><td>spir-it-less</td><td>spir-it-lėss</td><td>a. lacking ardor or vigor or energy</td></tr>
 <tr><td>spirits</td><td>spirits</td><td>spir-it-s</td><td>spir-it-s</td><td></td></tr>
 <tr><td>spiritual</td><td>spiritūål</td><td>spir-it-u-al</td><td>spir-it-ū-ål</td><td>a. relating to the spirit or soul<br>a. religious or sacred</td></tr>
 <tr><td>spiritedly</td><td>spiritėdlẏ</td><td>spir-it-ed-ly</td><td>spir-it-ėd-lẏ</td><td>adv. in a spirited or lively manner; with animation and vivacity</td></tr>
-<tr><td>spiritedness</td><td>spiritėdne̊ss</td><td>spir-it-ed-ness</td><td>spir-it-ėd-ne̊ss</td><td>n. quality of being active or spirited or alive and vigorous</td></tr>
+<tr><td>spiritedness</td><td>spiritėdnėss</td><td>spir-it-ed-ness</td><td>spir-it-ėd-nėss</td><td>n. quality of being active or spirited or alive and vigorous</td></tr>
 <tr><td>spiritualism</td><td>spiritūåliṡm</td><td>spir-it-u-al-ism</td><td>spir-it-ū-ål-iṡm</td><td>n. the belief that the spirits of dead people can communicate with the living</td></tr>
 <tr><td>spiritualist</td><td>spiritūålist</td><td>spir-it-u-al-ist</td><td>spir-it-ū-ål-ist</td><td>n. someone who serves as an intermediary between the living and the dead</td></tr>
-<tr><td>spirituality</td><td>spiritūali̊tẏ</td><td>spir-it-u-al-ity</td><td>spir-it-ū-al-i̊tẏ</td><td>n. the quality of being concerned with religion or the human spirit</td></tr>
+<tr><td>spirituality</td><td>spiritūalitẏ</td><td>spir-it-u-al-ity</td><td>spir-it-ū-al-itẏ</td><td>n. the quality of being concerned with religion or the human spirit</td></tr>
 <tr><td>spiritually</td><td>spiritūållẏ</td><td>spir-it-u-al-ly</td><td>spir-it-ū-ål-lẏ</td><td>adv. in a spiritual manner</td></tr>
 <tr><td>aspire</td><td>åspīre</td><td>a-spire</td><td>å-spīre</td><td>v. have an ambitious plan or a lofty goal</td></tr>
 <tr><td>aspirant</td><td>aspi̊rånt</td><td>a-spir-ant</td><td>a-spi̊r-ånt</td><td>n. an ambitious and aspiring young person<br>a. desiring or striving for recognition or advancement</td></tr>
@@ -4851,7 +4851,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>conspirator</td><td>co̊nspiråto̊r</td><td>con-spir-at-or</td><td>co̊n-spir-åt-o̊r</td><td>n. a member of a conspiracy</td></tr>
 <tr><td>conspiratorial</td><td>co̊nspiråtoriål</td><td>con-spir-at-or-i-al</td><td>co̊n-spir-åt-or-i-ål</td><td>a. relating to or characteristic of conspiracy</td></tr>
 <tr><td>dispirit</td><td>dispirit</td><td>di-spir-it</td><td>di-spir-it</td><td>vt. to lower someone&#x27;s spirits; make downhearted</td></tr>
-<tr><td>dispirited</td><td>dispiri̊tėd</td><td>di-spir-it-ed</td><td>di-spir-i̊t-ėd</td><td>a. marked by low spirits; showing no enthusiasm</td></tr>
+<tr><td>dispirited</td><td>dispiritėd</td><td>di-spir-it-ed</td><td>di-spir-it-ėd</td><td>a. marked by low spirits; showing no enthusiasm</td></tr>
 <tr><td>dispiriting</td><td>dispiriting</td><td>di-spir-it-ing</td><td>di-spir-it-ing</td><td>a. destructive of morale and self-reliance</td></tr>
 <tr><td>dispiritedly</td><td>dispiritėdlẏ</td><td>di-spir-it-ed-ly</td><td>di-spir-it-ėd-lẏ</td><td>adv. in a dispirited manner without hope</td></tr>
 <tr><td>inspire</td><td>inspīre</td><td>in-spire</td><td>in-spīre</td><td>v. fill someone with the urge to do something<br>v. create a positive feeling</td></tr>
@@ -4860,33 +4860,33 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>inspiring</td><td>inspīring</td><td>in-spir-ing</td><td>in-spīr-ing</td><td>a. stimulating or exalting to the spirit</td></tr>
 <tr><td>inspires</td><td>inspīr𝕖ṡ</td><td>in-spire-s</td><td>in-spīr𝕖-ṡ</td><td></td></tr>
 <tr><td>inspiration</td><td>inspirātio̊n</td><td>in-spir-at-ion</td><td>in-spir-āt-io̊n</td><td>n. a sudden good idea; creative influence<br>n. a feeling of enthusiasm or excitement</td></tr>
-<tr><td>inspiratory</td><td>inspīråto̊rẏ</td><td>in-spir-at-ory</td><td>in-spīr-åt-o̊rẏ</td><td>a. pertaining to the drawing in phase of respiration</td></tr>
+<tr><td>inspiratory</td><td>inspiråto̊rẏ</td><td>in-spir-at-ory</td><td>in-spir-åt-o̊rẏ</td><td>a. pertaining to the drawing in phase of respiration</td></tr>
 <tr><td>inspirational</td><td>inspi̊rātio̊nål</td><td>in-spir-at-ion-al</td><td>in-spi̊r-āt-io̊n-ål</td><td>a. making one feel inspired or uplifted</td></tr>
 <tr><td>inspirations</td><td>inspi̊rātio̊nṡ</td><td>in-spir-at-ion-s</td><td>in-spi̊r-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>perspire</td><td>pe̊rspīre</td><td>per-spire</td><td>pe̊r-spīre</td><td>v excrete perspiration through the pores in the skin</td></tr>
 <tr><td>perspiring</td><td>pe̊rspīring</td><td>per-spir-ing</td><td>pe̊r-spīr-ing</td><td>v. excrete perspiration through the pores in the skin (perspire的现在分词)</td></tr>
 <tr><td>perspiration</td><td>pe̊rspi̊rātio̊n</td><td>per-spir-at-ion</td><td>pe̊r-spi̊r-āt-io̊n</td><td>n. salty fluid secreted by sweat glands<br>n. the act or process of sweating</td></tr>
-<tr><td>respire</td><td>rėspīre̊</td><td>re-spire</td><td>rė-spīre̊</td><td>v. breathe; undergo respiration</td></tr>
+<tr><td>respire</td><td>rėspīre</td><td>re-spire</td><td>rė-spīre</td><td>v. breathe; undergo respiration</td></tr>
 <tr><td>respirable</td><td>respiråble</td><td>re-spir-able</td><td>re-spir-åble</td><td>a. suitable for breathing</td></tr>
-<tr><td>respiration</td><td>respi̊rātio̊n</td><td>re-spir-at-ion</td><td>re-spi̊r-āt-io̊n</td><td>n. a single complete act of breathing in and out</td></tr>
-<tr><td>respirator</td><td>respi̊rāto̊r</td><td>re-spir-at-or</td><td>re-spi̊r-āt-o̊r</td><td>n. a breathing device for administering long-term artificial respiration</td></tr>
-<tr><td>respiratory</td><td>respi̊råtorẏ</td><td>re-spir-at-ory</td><td>re-spi̊r-åt-orẏ</td><td>a. pertaining to respiration</td></tr>
+<tr><td>respiration</td><td>respirātio̊n</td><td>re-spir-at-ion</td><td>re-spir-āt-io̊n</td><td>n. a single complete act of breathing in and out</td></tr>
+<tr><td>respirator</td><td>rėspirāto̊r</td><td>re-spir-at-or</td><td>rė-spir-āt-o̊r</td><td>n. a breathing device for administering long-term artificial respiration</td></tr>
+<tr><td>respiratory</td><td>rėspiråto̊rẏ</td><td>re-spir-at-ory</td><td>rė-spir-åt-o̊rẏ</td><td>a. pertaining to respiration</td></tr>
 <tr><td>transpire</td><td>transpīre</td><td>tran-spire</td><td>tran-spīre</td><td>v. come to light; become known; happen</td></tr>
-<tr><td>antiperspirant</td><td>antipe̊rspirånt</td><td>anti-per-spir-ant</td><td>anti-pe̊r-spir-ånt</td><td>n. a substance applied to the skin to reduce perspiration</td></tr>
-<tr><td>cardiorespiratory</td><td>càrdiōrėspīråto̊rẏ</td><td>cardio-re-spir-at-ory</td><td>càrdiō-rė-spīr-åt-o̊rẏ</td><td>a. relating to the heart and the lungs and their functions</td></tr>
+<tr><td>antiperspirant</td><td>antipe̊rspi̊rånt</td><td>anti-per-spir-ant</td><td>anti-pe̊r-spi̊r-ånt</td><td>n. a substance applied to the skin to reduce perspiration</td></tr>
+<tr><td>cardiorespiratory</td><td>càrdiōrėspiråto̊rẏ</td><td>cardio-re-spir-at-ory</td><td>càrdiō-rė-spir-åt-o̊rẏ</td><td>a. relating to the heart and the lungs and their functions</td></tr>
 <tr><td>expires</td><td>ėxpīr𝕖ṡ</td><td>ex-pire-s</td><td>ėx-pīr𝕖-ṡ</td><td></td></tr>
-<tr><td>leptospirosis</td><td>leptōspīrōsis</td><td>lept-o-spir-osis</td><td>lept-ō-spīr-ōsis</td><td>n. an infectious disease from leptospira in domestic animals; marked by jaundice and fever</td></tr>
+<tr><td>leptospirosis</td><td>lepto̊spirōsis</td><td>lept-o-spir-osis</td><td>lept-o̊-spir-ōsis</td><td>n. an infectious disease from leptospira in domestic animals; marked by jaundice and fever</td></tr>
 <tr><td>photorespiration</td><td>phōtōrespirātio̊n</td><td>photo-re-spir-at-ion</td><td>phōtō-re-spir-āt-io̊n</td><td>n. a process in plant metabolism</td></tr>
 <tr><td>uninspired</td><td>ûninspīr𝕖d</td><td>un-in-spir-ed</td><td>ûn-in-spīr-𝕖d</td><td>a. having no intellectual or emotional excitement; dull</td></tr>
 <tr><td>uninspiring</td><td>ûninspīring</td><td>un-in-spir-ing</td><td>ûn-in-spīr-ing</td><td>a. depressing to the spirit</td></tr>
-<tr><td>evapotranspiration</td><td>ėvapōtranspirātio̊n</td><td>e-vap-o-tran-spir-at-ion</td><td>ė-vap-ō-tran-spir-āt-io̊n</td><td>n. water transfer from land to atmosphere by evaporation and plant transpiration</td></tr>
+<tr><td>evapotranspiration</td><td>ėvapo̊transpi̊rātio̊n</td><td>e-vap-o-tran-spir-at-ion</td><td>ė-vap-o̊-tran-spi̊r-āt-io̊n</td><td>n. water transfer from land to atmosphere by evaporation and plant transpiration</td></tr>
 <tr><td>expire</td><td>ėxpīre</td><td>ex-pire</td><td>ėx-pīre</td><td>v. to come to an end; to become invalid<br>v. to die</td></tr>
-<tr><td>expired</td><td>ėxpīr𝕖d</td><td>ex-pir-ed</td><td>ėx-pīr-𝕖d</td><td>a. having come to an end or become void after passage of a period of time</td></tr>
-<tr><td>expiring</td><td>ėxpīring</td><td>ex-pir-ing</td><td>ėx-pīr-ing</td><td>v. lose validity<br>v. pass from physical life and lose all bodily attributes</td></tr>
+<tr><td>expired</td><td>expīr𝕖d</td><td>ex-pir-ed</td><td>ex-pīr-𝕖d</td><td>a. having come to an end or become void after passage of a period of time</td></tr>
+<tr><td>expiring</td><td>expīring</td><td>ex-pir-ing</td><td>ex-pīr-ing</td><td>v. lose validity<br>v. pass from physical life and lose all bodily attributes</td></tr>
 <tr><td>expiry</td><td>expīrẏ</td><td>ex-pir-y</td><td>ex-pīr-ẏ</td><td>n. a coming to an end of a contract period</td></tr>
-<tr><td>unexpired</td><td>ûnėxpīr𝕖d</td><td>un-ex-pir-ed</td><td>ûn-ėx-pīr-𝕖d</td><td>a. not having come to an end or been terminated</td></tr>
+<tr><td>unexpired</td><td>ûnexpīr𝕖d</td><td>un-ex-pir-ed</td><td>ûn-ex-pīr-𝕖d</td><td>a. not having come to an end or been terminated</td></tr>
 <tr><td>spire</td><td>spīre</td><td>spire</td><td>spīre</td><td>n. a tall tower that tapers to a point at the top</td></tr>
-<tr><td>spirea</td><td>spīrėå</td><td>spirea</td><td>spīrėå</td><td>n. a shrub of the genus Spiraea with sprays of small white or pink flowers</td></tr>
+<tr><td>spirea</td><td>spīrēå</td><td>spirea</td><td>spīrēå</td><td>n. a shrub of the genus Spiraea with sprays of small white or pink flowers</td></tr>
 <tr><td>despise</td><td>dėspīṡe</td><td>de-spise</td><td>dė-spīṡe</td><td>vt. to feel contempt or a deep repugnance for</td></tr>
 <tr><td>despised</td><td>dėspīṡ𝕖d</td><td>de-spis-ed</td><td>dė-spīṡ-𝕖d</td><td>a. treated with contempt<br>v. look down on with disdain</td></tr>
 <tr><td>inspissate</td><td>inspissāte</td><td>in-spiss-ate</td><td>in-spiss-āte</td><td>vt. to make thicker or more concentrated</td></tr>
@@ -4903,7 +4903,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spitefully</td><td>spīt𝕖fůllẏ</td><td>spite-ful-ly</td><td>spīt𝕖-fůl-lẏ</td><td>adv. with spite; in a spiteful manner</td></tr>
 <tr><td>antispit</td><td>antispit</td><td>anti-spit</td><td>anti-spit</td><td>vi. to oppose spitting in public</td></tr>
 <tr><td>despite</td><td>dėspīte</td><td>de-spite</td><td>dė-spīte</td><td>prep. without being affected by; in spite of<br>n. contempt; scorn</td></tr>
-<tr><td>respite</td><td>respite</td><td>re-spite</td><td>re-spite</td><td>n. a short period of rest or relief</td></tr>
+<tr><td>respite</td><td>respīte</td><td>re-spite</td><td>re-spīte</td><td>n. a short period of rest or relief</td></tr>
 <tr><td>splash</td><td>splash</td><td>splash</td><td>splash</td><td>v. to cause liquid to scatter in drops<br>n. the sound or act of splashing</td></tr>
 <tr><td>splashdown</td><td>splashdòwn</td><td>splash-down</td><td>splash-dòwn</td><td>n. a landing of a spacecraft in the sea at the end of a space flight</td></tr>
 <tr><td>splashed</td><td>splash𝕖ḋ</td><td>splash-ed</td><td>splash-𝕖ḋ</td><td>a. (of a fluid) having been propelled about in flying drops or masses</td></tr>
@@ -4917,13 +4917,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>splayed</td><td>splāy𝕖d</td><td>splay-ed</td><td>splāy-𝕖d</td><td>a. spread open or apart; turned outward</td></tr>
 <tr><td>spleen</td><td>splēen</td><td>spleen</td><td>splēen</td><td>n. a large dark-red organ on the left side of the body</td></tr>
 <tr><td>splenic</td><td>splenic</td><td>splen-ic</td><td>splen-ic</td><td>a. of or relating to the spleen</td></tr>
-<tr><td>splenetic</td><td>splėnetic</td><td>splen-et-ic</td><td>splėn-et-ic</td><td>a. bad-tempered, irritable</td></tr>
+<tr><td>splenetic</td><td>splenetic</td><td>splen-et-ic</td><td>splen-et-ic</td><td>a. bad-tempered, irritable</td></tr>
 <tr><td>splendid</td><td>splendid</td><td>splend-id</td><td>splend-id</td><td>a. very impressive or beautiful</td></tr>
 <tr><td>splendor</td><td>splendo̊r</td><td>splend-or</td><td>splend-o̊r</td><td>n. magnificent and splendid appearance</td></tr>
 <tr><td>splendour</td><td>splendo̊ur</td><td>splend-our</td><td>splend-o̊ur</td><td>n. magnificent appearance</td></tr>
-<tr><td>splendidly</td><td>splendi̊dlẏ</td><td>splend-id-ly</td><td>splend-i̊d-lẏ</td><td>adv. extremely well<br>adv. in an impressively beautiful manner</td></tr>
+<tr><td>splendidly</td><td>splendidlẏ</td><td>splend-id-ly</td><td>splend-id-lẏ</td><td>adv. extremely well<br>adv. in an impressively beautiful manner</td></tr>
 <tr><td>resplendence</td><td>rėsplende̊nce</td><td>re-splend-ence</td><td>rė-splend-e̊nce</td><td>n. brilliant splendor</td></tr>
-<tr><td>resplendent</td><td>rēsplende̊nt</td><td>re-splend-ent</td><td>rē-splend-e̊nt</td><td>a. having great beauty and splendor</td></tr>
+<tr><td>resplendent</td><td>rėsplende̊nt</td><td>re-splend-ent</td><td>rė-splend-e̊nt</td><td>a. having great beauty and splendor</td></tr>
 <tr><td>resplendently</td><td>rėsplende̊ntlẏ</td><td>re-splend-ent-ly</td><td>rė-splend-e̊nt-lẏ</td><td>adv. in an impressively beautiful manner</td></tr>
 <tr><td>splice</td><td>splīce</td><td>splice</td><td>splīce</td><td>v. to join together<br>n. a junction where two things have been joined</td></tr>
 <tr><td>splicer</td><td>splīce̊r</td><td>splic-er</td><td>splīc-e̊r</td><td>n. a mechanical device for joining two pieces of paper or film or magnetic tape</td></tr>
@@ -4944,7 +4944,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>splutter</td><td>splûtte̊r</td><td>splutt-er</td><td>splûtt-e̊r</td><td>v. spit up in an explosive manner</td></tr>
 <tr><td>spoil</td><td>spoil</td><td>spoil</td><td>spoil</td><td>v. to ruin or damage something<br>v. to treat someone too well<br>n. goods taken by force</td></tr>
 <tr><td>spoilt</td><td>spoilt</td><td>spoilt</td><td>spoilt</td><td></td></tr>
-<tr><td>spoilage</td><td>spoilåge</td><td>spoil-age</td><td>spoil-åge</td><td>n. the process of becoming spoiled</td></tr>
+<tr><td>spoilage</td><td>spoilȧge</td><td>spoil-age</td><td>spoil-ȧge</td><td>n. the process of becoming spoiled</td></tr>
 <tr><td>spoiled</td><td>spoil𝕖d</td><td>spoil-ed</td><td>spoil-𝕖d</td><td>a. having character harmed by pampering</td></tr>
 <tr><td>spoiler</td><td>spoile̊r</td><td>spoil-er</td><td>spoil-e̊r</td><td>n. a device on a vehicle to reduce lift; a person who spoils something</td></tr>
 <tr><td>spoiling</td><td>spoiling</td><td>spoil-ing</td><td>spoil-ing</td><td>n. the process of becoming spoiled<br>v. make a mess of, destroy or ruin</td></tr>
@@ -4954,10 +4954,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>despoil</td><td>dėspoil</td><td>de-spoil</td><td>dė-spoil</td><td>v. steal goods; take as spoils</td></tr>
 <tr><td>despoiler</td><td>dėspoile̊r</td><td>de-spoil-er</td><td>dė-spoil-e̊r</td><td>n. someone who takes spoils or plunder</td></tr>
 <tr><td>unspoiled</td><td>ûnspoil𝕖d</td><td>un-spoil-ed</td><td>ûn-spoil-𝕖d</td><td>a. not decayed or decomposed; not corrupted</td></tr>
-<tr><td>spokeshave</td><td>spōkeshāve</td><td>spoke-shave</td><td>spōke-shāve</td><td>n. a small plane with handles on each side; used for shaping cylindrical wooden surfaces</td></tr>
+<tr><td>spokeshave</td><td>spōk𝕖shāve</td><td>spoke-shave</td><td>spōk𝕖-shāve</td><td>n. a small plane with handles on each side; used for shaping cylindrical wooden surfaces</td></tr>
 <tr><td>spokesman</td><td>spōk𝕖smån</td><td>spoke-s-man</td><td>spōk𝕖-s-mån</td><td>n. a male spokesperson</td></tr>
-<tr><td>spokesperson</td><td>spōkespe̊rso̊n</td><td>spoke-s-person</td><td>spōke-s-pe̊rso̊n</td><td>n. an advocate who represents someone else&#x27;s policy or purpose</td></tr>
-<tr><td>spokeswoman</td><td>spōkeswõmån</td><td>spoke-s-woman</td><td>spōke-s-wõmån</td><td>n. a female spokesperson</td></tr>
+<tr><td>spokesperson</td><td>spōk𝕖spe̊rso̊n</td><td>spoke-s-person</td><td>spōk𝕖-s-pe̊rso̊n</td><td>n. an advocate who represents someone else&#x27;s policy or purpose</td></tr>
+<tr><td>spokeswoman</td><td>spōk𝕖swõmån</td><td>spoke-s-woman</td><td>spōk𝕖-s-wõmån</td><td>n. a female spokesperson</td></tr>
 <tr><td>bespoke</td><td>bėspōke</td><td>be-spoke</td><td>bė-spōke</td><td>a. made to order; custom-made</td></tr>
 <tr><td>spoke</td><td>spōke</td><td>spoke</td><td>spōke</td><td>n. one of the rods connecting the hub to the rim of a wheel</td></tr>
 <tr><td>spoked</td><td>spōk𝕖ḋ</td><td>spok-ed</td><td>spōk-𝕖ḋ</td><td>a. having spokes (as of a wheel)</td></tr>
@@ -4995,18 +4995,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>responsive</td><td>rėsponsive</td><td>re-spons-ive</td><td>rė-spons-ive</td><td>a. reacting quickly and positively<br>a. relating to a response</td></tr>
 <tr><td>responses</td><td>rėsponsėṡ</td><td>re-sponse-s</td><td>rė-sponsė-ṡ</td><td></td></tr>
 <tr><td>responsibility</td><td>rėsponsi̊bilitẏ</td><td>re-spons-ib-ility</td><td>rė-spons-i̊b-ilitẏ</td><td>n. the state or fact of being responsible<br>n. something that one is responsible for</td></tr>
-<tr><td>responsibly</td><td>rėsponsi̊blẏ</td><td>re-spons-ib-ly</td><td>rė-spons-i̊b-lẏ</td><td>adv. in a responsible manner</td></tr>
+<tr><td>responsibly</td><td>rėsponsiblẏ</td><td>re-spons-ib-ly</td><td>rė-spons-ib-lẏ</td><td>adv. in a responsible manner</td></tr>
 <tr><td>responsively</td><td>rėsponsiv𝕖lẏ</td><td>re-spons-ive-ly</td><td>rė-spons-iv𝕖-lẏ</td><td>adv. in a responsive manner</td></tr>
 <tr><td>responsiveness</td><td>rėsponsiv𝕖nėss</td><td>re-spons-ive-ness</td><td>rė-spons-iv𝕖-nėss</td><td>n. the quality of being responsive; reacting quickly</td></tr>
 <tr><td>responsibilities</td><td>rėsponsi̊bili̊ti𝕖ṡ</td><td>re-spons-ib-ilit-ies</td><td>rė-spons-i̊b-ili̊t-i𝕖ṡ</td><td></td></tr>
-<tr><td>irresponsible</td><td>irre̊sponsi̊ble</td><td>ir-re-spons-ible</td><td>ir-re̊-spons-i̊ble</td><td>a. showing lack of care for consequences</td></tr>
-<tr><td>irresponsibility</td><td>irre̊sponsi̊bili̊tẏ</td><td>ir-re-spons-ib-ility</td><td>ir-re̊-spons-i̊b-ili̊tẏ</td><td>n. the trait of lacking a sense of responsibility</td></tr>
-<tr><td>irresponsibly</td><td>irre̊sponsi̊blẏ</td><td>ir-re-spons-ib-ly</td><td>ir-re̊-spons-i̊b-lẏ</td><td>adv. in an irresponsible manner</td></tr>
-<tr><td>unresponsive</td><td>ûnrēsponsive</td><td>un-re-spons-ive</td><td>ûn-rē-spons-ive</td><td>a. not responding to some influence or stimulus</td></tr>
+<tr><td>irresponsible</td><td>irrėsponsible</td><td>ir-re-spons-ible</td><td>ir-rė-spons-ible</td><td>a. showing lack of care for consequences</td></tr>
+<tr><td>irresponsibility</td><td>irrėsponsi̊bilitẏ</td><td>ir-re-spons-ib-ility</td><td>ir-rė-spons-i̊b-ilitẏ</td><td>n. the trait of lacking a sense of responsibility</td></tr>
+<tr><td>irresponsibly</td><td>irrėsponsiblẏ</td><td>ir-re-spons-ib-ly</td><td>ir-rė-spons-ib-lẏ</td><td>adv. in an irresponsible manner</td></tr>
+<tr><td>unresponsive</td><td>ûnrėsponsive</td><td>un-re-spons-ive</td><td>ûn-rė-spons-ive</td><td>a. not responding to some influence or stimulus</td></tr>
 <tr><td>unresponsiveness</td><td>ûnrėsponsiv𝕖nėss</td><td>un-re-spons-ive-ness</td><td>ûn-rė-spons-iv𝕖-nėss</td><td>n. the quality of being unresponsive</td></tr>
-<tr><td>spontaneity</td><td>spontånēitẏ</td><td>spont-an-e-ity</td><td>spont-ån-ē-itẏ</td><td>n. the quality of being spontaneous and natural</td></tr>
+<tr><td>spontaneity</td><td>spontånèitẏ</td><td>spont-an-e-ity</td><td>spont-ån-è-itẏ</td><td>n. the quality of being spontaneous and natural</td></tr>
 <tr><td>spontaneous</td><td>spontānėo̊us</td><td>spont-an-e-ous</td><td>spont-ān-ė-o̊us</td><td>a. happening naturally without being planned</td></tr>
-<tr><td>spontaneously</td><td>spontānēo̊uslẏ</td><td>spont-an-e-ous-ly</td><td>spont-ān-ē-o̊us-lẏ</td><td>adv. in a spontaneous manner</td></tr>
+<tr><td>spontaneously</td><td>spontānėo̊uslẏ</td><td>spont-an-e-ous-ly</td><td>spont-ān-ė-o̊us-lẏ</td><td>adv. in a spontaneous manner</td></tr>
 <tr><td>spoof</td><td>spoof</td><td>spoof</td><td>spoof</td><td>n. a humorous parody or satire<br>v. make a parody of</td></tr>
 <tr><td>spook</td><td>spook</td><td>spook</td><td>spook</td><td>n. a ghost or specter<br>v. to frighten or scare</td></tr>
 <tr><td>spooked</td><td>spook𝕖ḋ</td><td>spook-ed</td><td>spook-𝕖ḋ</td><td>vt. frighten or scare</td></tr>
@@ -5017,16 +5017,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>spool</td><td>spool</td><td>spool</td><td>spool</td><td>v. wind onto a spool or a reel</td></tr>
 <tr><td>spoon</td><td>spoon</td><td>spoon</td><td>spoon</td><td>n. a utensil for eating or stirring<br>vt. pick up with a spoon</td></tr>
 <tr><td>spoonbill</td><td>spoonbill</td><td>spoon-bill</td><td>spoon-bill</td><td>n. wading birds having a long flat bill with a tip like a spoon</td></tr>
-<tr><td>spoonful</td><td>spoonfùl</td><td>spoon-ful</td><td>spoon-fùl</td><td>n. the amount that a spoon can hold</td></tr>
+<tr><td>spoonful</td><td>spoonfůl</td><td>spoon-ful</td><td>spoon-fůl</td><td>n. the amount that a spoon can hold</td></tr>
 <tr><td>spoons</td><td>spoonṡ</td><td>spoon-s</td><td>spoon-ṡ</td><td></td></tr>
 <tr><td>spoonerism</td><td>spoone̊riṡm</td><td>spoon-er-ism</td><td>spoon-e̊r-iṡm</td><td>n. transposition of initial consonants in a pair of words</td></tr>
-<tr><td>spoor</td><td>spoōr</td><td>spoor</td><td>spoōr</td><td>n. the trail left by a person or an animal; what the hunter follows in pursuing game</td></tr>
+<tr><td>spoor</td><td>spoor</td><td>spoor</td><td>spoor</td><td>n. the trail left by a person or an animal; what the hunter follows in pursuing game</td></tr>
 <tr><td>spore</td><td>spore</td><td>spore</td><td>spore</td><td>n. a reproductive cell capable of developing into a new individual without sexual fusion</td></tr>
 <tr><td>sporophyte</td><td>sporo̊phȳte</td><td>spor-o-phyte</td><td>spor-o̊-phȳte</td><td>n. the spore-producing phase in a plant&#x27;s life cycle with alternation of generations</td></tr>
 <tr><td>cryptosporidiosis</td><td>crẏptōsporidiōsis</td><td>crypt-o-spor-id-i-osis</td><td>crẏpt-ō-spor-id-i-ōsis</td><td>n. an intestinal infection caused by a microscopic parasite</td></tr>
 <tr><td>diaspora</td><td>dīaspo̊rå</td><td>di-a-spora</td><td>dī-a-spo̊rå</td><td>n. the dispersion of a people from their original homeland</td></tr>
 <tr><td>diasporic</td><td>dīåsporic</td><td>di-a-spor-ic</td><td>dī-å-spor-ic</td><td>a. of or relating to a diaspora</td></tr>
-<tr><td>neurospora</td><td>neūrōsporå</td><td>neur-o-spor-a</td><td>neūr-ō-spor-å</td><td>n. a type of mold used in genetic research</td></tr>
+<tr><td>neurospora</td><td>neūro̊sporå</td><td>neur-o-spor-a</td><td>neūr-o̊-spor-å</td><td>n. a type of mold used in genetic research</td></tr>
 <tr><td>sporadic</td><td>spo̊radic</td><td>sporad-ic</td><td>spo̊rad-ic</td><td>a. occurring at irregular intervals; scattered</td></tr>
 <tr><td>sporadically</td><td>spo̊radicållẏ</td><td>sporad-ic-al-ly</td><td>spo̊rad-ic-ål-lẏ</td><td>adv. in a sporadic manner</td></tr>
 <tr><td>sport</td><td>sport</td><td>sport</td><td>sport</td><td>n. an activity involving physical exertion and skill, often competitive</td></tr>
@@ -5039,7 +5039,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sportsperson</td><td>sportspe̊rso̊n</td><td>sport-s-person</td><td>sport-s-pe̊rso̊n</td><td>n. a person who takes part in sports</td></tr>
 <tr><td>sportswear</td><td>sportsweār</td><td>sport-s-wear</td><td>sport-s-weār</td><td>n. attire worn for sport or for casual wear</td></tr>
 <tr><td>sportswoman</td><td>sportswõmån</td><td>sport-s-woman</td><td>sport-s-wõmån</td><td>n. someone who engages in sports</td></tr>
-<tr><td>sportscaster</td><td>sportscaste̊r</td><td>sport-s-cast-er</td><td>sport-s-cast-e̊r</td><td>n. an announcer who describes sporting events</td></tr>
+<tr><td>sportscaster</td><td>sportscàste̊r</td><td>sport-s-cast-er</td><td>sport-s-càst-e̊r</td><td>n. an announcer who describes sporting events</td></tr>
 <tr><td>sportswriter</td><td>sports𝕨rīte̊r</td><td>sport-s-writ-er</td><td>sport-s-𝕨rīt-e̊r</td><td>n a journalist who writes about sports</td></tr>
 <tr><td>sportsmanlike</td><td>sportsmånlīke</td><td>sport-s-man-like</td><td>sport-s-mån-līke</td><td>a. exhibiting or calling for sportsmanship or fair play</td></tr>
 <tr><td>sportfisherman</td><td>sportfishe̊rmån</td><td>sport-fish-er-man</td><td>sport-fish-e̊r-mån</td><td>n. a person who fishes for sport</td></tr>
@@ -5047,10 +5047,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unsportsmanlike</td><td>ûnsportsmånlīke</td><td>un-sport-s-man-like</td><td>ûn-sport-s-mån-līke</td><td>a. violating accepted standards or rules</td></tr>
 <tr><td>motorsport</td><td>mōto̊rsport</td><td>mot-or-sport</td><td>mōt-o̊r-sport</td><td>n. competitive events involving motor vehicles</td></tr>
 <tr><td>spot</td><td>spot</td><td>spot</td><td>spot</td><td>n. a particular place or point<br>n. a small mark or stain<br>vt. to see or notice someone or something</td></tr>
-<tr><td>spotted</td><td>spott𝕖d</td><td>spott-ed</td><td>spott-𝕖d</td><td>a. having spots or patches of contrasting color</td></tr>
+<tr><td>spotted</td><td>spottėd</td><td>spott-ed</td><td>spott-ėd</td><td>a. having spots or patches of contrasting color</td></tr>
 <tr><td>spotter</td><td>spotte̊r</td><td>spott-er</td><td>spott-e̊r</td><td>n. a person employed to watch or observe</td></tr>
 <tr><td>spotting</td><td>spotting</td><td>spott-ing</td><td>spott-ing</td><td></td></tr>
-<tr><td>spotless</td><td>spotle̊ss</td><td>spot-less</td><td>spot-le̊ss</td><td>a. completely neat and clean</td></tr>
+<tr><td>spotless</td><td>spotlėss</td><td>spot-less</td><td>spot-lėss</td><td>a. completely neat and clean</td></tr>
 <tr><td>spotlight</td><td>spotlī𝕘𝕙t</td><td>spot-light</td><td>spot-lī𝕘𝕙t</td><td>n. a lamp that directs a strong beam of light<br>v. to direct attention to</td></tr>
 <tr><td>spotlit</td><td>spotlit</td><td>spot-lit</td><td>spot-lit</td><td>a. illuminated by a spotlight</td></tr>
 <tr><td>spots</td><td>spots</td><td>spot-s</td><td>spot-s</td><td></td></tr>
@@ -5104,21 +5104,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sprite</td><td>sprīte</td><td>sprite</td><td>sprīte</td><td>n. a small being, human in form, playful and having magical powers</td></tr>
 <tr><td>spritz</td><td>spritz</td><td>spritz</td><td>spritz</td><td>n. a quick squirt of some liquid (usually carbonated water)<br>v. eject (a liquid) quickly</td></tr>
 <tr><td>spritzer</td><td>spritze̊r</td><td>spritz-er</td><td>spritz-e̊r</td><td>n. a mixed drink made of wine mixed with a sparkling water</td></tr>
-<tr><td>sprocket</td><td>sprocke̊t</td><td>sprocket</td><td>sprocke̊t</td><td>n. a thin wheel with teeth that engage with a chain</td></tr>
+<tr><td>sprocket</td><td>sprockėt</td><td>sprocket</td><td>sprockėt</td><td>n. a thin wheel with teeth that engage with a chain</td></tr>
 <tr><td>sprout</td><td>spròut</td><td>sprout</td><td>spròut</td><td>n. any new growth of a plant such as a new branch or a bud<br>v. put forth and grow sprouts or shoots</td></tr>
-<tr><td>sprouted</td><td>spròut𝕖d</td><td>sprout-ed</td><td>spròut-𝕖d</td><td>a. having just emerged from the ground</td></tr>
+<tr><td>sprouted</td><td>spròutėd</td><td>sprout-ed</td><td>spròut-ėd</td><td>a. having just emerged from the ground</td></tr>
 <tr><td>sprouting</td><td>spròuting</td><td>sprout-ing</td><td>spròut-ing</td><td>n. the process whereby seeds or spores sprout and begin to grow<br>v. produce buds, branches, or germinate</td></tr>
 <tr><td>spruce</td><td>sprūce</td><td>spruce</td><td>sprūce</td><td>n. any coniferous tree of the genus Picea<br>a. neat and smart in appearance<br>v. make neat and tidy</td></tr>
 <tr><td>spry</td><td>sprȳ</td><td>spry</td><td>sprȳ</td><td>a. moving quickly and lightly; active</td></tr>
 <tr><td>spud</td><td>spûd</td><td>spud</td><td>spûd</td><td>n. a sharp hand shovel for digging out roots and weeds<br>v. initiate drilling operations, as for petroleum</td></tr>
 <tr><td>conspue</td><td>co̊nspūe</td><td>con-spue</td><td>co̊n-spūe</td><td>vt. to express strong disapproval of</td></tr>
 <tr><td>spume</td><td>spūme</td><td>spume</td><td>spūme</td><td>n. foam or froth on the sea</td></tr>
-<tr><td>spumoni</td><td>spůmōni</td><td>spumoni</td><td>spůmōni</td><td>n. a molded Italian dessert made of layers of ice cream</td></tr>
+<tr><td>spumoni</td><td>spūmōni</td><td>spumoni</td><td>spūmōni</td><td>n. a molded Italian dessert made of layers of ice cream</td></tr>
 <tr><td>spunk</td><td>spûnk</td><td>spunk</td><td>spûnk</td><td>n. material for starting a fire<br>n. the courage to carry on</td></tr>
 <tr><td>spunky</td><td>spûnkẏ</td><td>spunk-y</td><td>spûnk-ẏ</td><td>a. showing courage; willing to face danger</td></tr>
 <tr><td>spur</td><td>spůr</td><td>spur</td><td>spůr</td><td>n. a device worn on a rider&#x27;s heel to urge a horse forward<br>v. to encourage someone to do something</td></tr>
 <tr><td>spurious</td><td>spūrio̊us</td><td>spurious</td><td>spūrio̊us</td><td>a. plausible but false; fake</td></tr>
-<tr><td>spuriously</td><td>spůrio̊uslẏ</td><td>spurious-ly</td><td>spůrio̊us-lẏ</td><td>adv. in a false and spurious manner</td></tr>
+<tr><td>spuriously</td><td>spūrio̊uslẏ</td><td>spurious-ly</td><td>spūrio̊us-lẏ</td><td>adv. in a false and spurious manner</td></tr>
 <tr><td>larkspur</td><td>làrkspůr</td><td>lark-spur</td><td>làrk-spůr</td><td>n. any of numerous cultivated plants of the genus Delphinium</td></tr>
 <tr><td>spurge</td><td>spůrge</td><td>spurge</td><td>spůrge</td><td>n. any of numerous plants of the genus Euphorbia; usually having milky poisonous juice</td></tr>
 <tr><td>spurn</td><td>spůrn</td><td>spurn</td><td>spůrn</td><td>v reject with contempt</td></tr>
@@ -5130,37 +5130,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sputum</td><td>spūtům</td><td>sputum</td><td>spūtům</td><td>n. matter expectorated from the respiratory passages</td></tr>
 <tr><td>spy</td><td>spȳ</td><td>spy</td><td>spȳ</td><td>n. a person who secretly collects and reports information<br>v. to watch or observe secretly<br>v. to catch sight of</td></tr>
 <tr><td>spied</td><td>spī𝕖d</td><td>spi-ed</td><td>spī-𝕖d</td><td></td></tr>
-<tr><td>spyglass</td><td>spȳglass</td><td>spy-glass</td><td>spȳ-glass</td><td>n. a small refracting telescope</td></tr>
+<tr><td>spyglass</td><td>spȳglàss</td><td>spy-glass</td><td>spȳ-glàss</td><td>n. a small refracting telescope</td></tr>
 <tr><td>spies</td><td>spī𝕖ṡ</td><td>sp-ies</td><td>sp-ī𝕖ṡ</td><td></td></tr>
 <tr><td>spying</td><td>spȳing</td><td>spy-ing</td><td>spȳ-ing</td><td>n. keeping a secret or furtive watch</td></tr>
-<tr><td>spyware</td><td>spȳware</td><td>spy-ware</td><td>spȳ-ware</td><td>n. software that secretly monitors user activity</td></tr>
+<tr><td>spyware</td><td>spȳwāre</td><td>spy-ware</td><td>spȳ-wāre</td><td>n. software that secretly monitors user activity</td></tr>
 <tr><td>spymaster</td><td>spȳmàste̊r</td><td>spy-mast-er</td><td>spȳ-màst-e̊r</td><td>n. someone who directs clandestine intelligence activities</td></tr>
-<tr><td>espy</td><td>espẏ</td><td>e-spy</td><td>e-spẏ</td><td>v catch sight of</td></tr>
+<tr><td>espy</td><td>espȳ</td><td>e-spy</td><td>e-spȳ</td><td>v catch sight of</td></tr>
 <tr><td>squab</td><td>squãb</td><td>squab</td><td>squãb</td><td>n. a soft padded sofa<br>n. an unfledged pigeon</td></tr>
-<tr><td>squabble</td><td>squàbble</td><td>squab-ble</td><td>squàb-ble</td><td>n a quarrel about petty points<br>v argue over petty things</td></tr>
-<tr><td>squabbling</td><td>squàbbling</td><td>squabbl-ing</td><td>squàbbl-ing</td><td>v. argue over petty things</td></tr>
-<tr><td>squad</td><td>squàd</td><td>squad</td><td>squàd</td><td>n. a small group of people organized for a purpose</td></tr>
-<tr><td>squadron</td><td>squàdro̊n</td><td>squadron</td><td>squàdro̊n</td><td>n. a unit of the air force or navy</td></tr>
+<tr><td>squabble</td><td>squãbble</td><td>squab-ble</td><td>squãb-ble</td><td>n a quarrel about petty points<br>v argue over petty things</td></tr>
+<tr><td>squabbling</td><td>squãbbling</td><td>squabbl-ing</td><td>squãbbl-ing</td><td>v. argue over petty things</td></tr>
+<tr><td>squad</td><td>squãd</td><td>squad</td><td>squãd</td><td>n. a small group of people organized for a purpose</td></tr>
+<tr><td>squadron</td><td>squãdro̊n</td><td>squadron</td><td>squãdro̊n</td><td>n. a unit of the air force or navy</td></tr>
 <tr><td>squads</td><td>squãdṡ</td><td>squad-s</td><td>squãd-ṡ</td><td></td></tr>
-<tr><td>squalid</td><td>squàli̊d</td><td>squal-id</td><td>squàl-i̊d</td><td>a. foul and run-down and repulsive</td></tr>
-<tr><td>squalor</td><td>squàlo̊r</td><td>squal-or</td><td>squàl-o̊r</td><td>n. sordid dirtiness</td></tr>
+<tr><td>squalid</td><td>squãlid</td><td>squal-id</td><td>squãl-id</td><td>a. foul and run-down and repulsive</td></tr>
+<tr><td>squalor</td><td>squãlo̊r</td><td>squal-or</td><td>squãl-o̊r</td><td>n. sordid dirtiness</td></tr>
 <tr><td>squall</td><td>squãll</td><td>squall</td><td>squãll</td><td>n. sudden violent winds<br>v. to make high-pitched noises</td></tr>
 <tr><td>squalling</td><td>squãlling</td><td>squall-ing</td><td>squãll-ing</td><td>v. make high-pitched, whiney noises<br>v. utter a sudden loud cry</td></tr>
-<tr><td>squamous</td><td>squāmo̊us</td><td>squam-ous</td><td>squām-o̊us</td><td>a. covered with or consisting of scales; scaly</td></tr>
-<tr><td>squander</td><td>squànde̊r</td><td>squand-er</td><td>squànd-e̊r</td><td>v. to waste something in a reckless manner</td></tr>
-<tr><td>squandered</td><td>squànde̊r𝕖d</td><td>squand-er-ed</td><td>squànd-e̊r-𝕖d</td><td>a. not used to good advantage</td></tr>
-<tr><td>squandering</td><td>squànde̊ring</td><td>squand-er-ing</td><td>squànd-e̊r-ing</td><td>v. spend resources lavishly and wastefully</td></tr>
+<tr><td>squamous</td><td>squãmo̊us</td><td>squam-ous</td><td>squãm-o̊us</td><td>a. covered with or consisting of scales; scaly</td></tr>
+<tr><td>squander</td><td>squãnde̊r</td><td>squand-er</td><td>squãnd-e̊r</td><td>v. to waste something in a reckless manner</td></tr>
+<tr><td>squandered</td><td>squãnde̊r𝕖d</td><td>squand-er-ed</td><td>squãnd-e̊r-𝕖d</td><td>a. not used to good advantage</td></tr>
+<tr><td>squandering</td><td>squãnde̊ring</td><td>squand-er-ing</td><td>squãnd-e̊r-ing</td><td>v. spend resources lavishly and wastefully</td></tr>
 <tr><td>square</td><td>squāre</td><td>square</td><td>squāre</td><td>n. a plane rectangle with four equal sides and four right angles<br>n. something approximating the shape of a square<br>n. the product of two equal terms<br>v. make square</td></tr>
-<tr><td>squared</td><td>squar𝕖d</td><td>squar-ed</td><td>squar-𝕖d</td><td>a. having been made square</td></tr>
-<tr><td>squarish</td><td>squårish</td><td>squar-ish</td><td>squår-ish</td><td>a. somewhat square in appearance or form</td></tr>
+<tr><td>squared</td><td>squār𝕖d</td><td>squar-ed</td><td>squār-𝕖d</td><td>a. having been made square</td></tr>
+<tr><td>squarish</td><td>squārish</td><td>squar-ish</td><td>squār-ish</td><td>a. somewhat square in appearance or form</td></tr>
 <tr><td>squarely</td><td>squār𝕖lẏ</td><td>square-ly</td><td>squār𝕖-lẏ</td><td>adv. directly and firmly; in a straightforward manner</td></tr>
 <tr><td>squareness</td><td>squār𝕖nėss</td><td>square-ness</td><td>squār𝕖-nėss</td><td>n. the property of being shaped like a square</td></tr>
 <tr><td>squares</td><td>squār𝕖ṡ</td><td>square-s</td><td>squār𝕖-ṡ</td><td></td></tr>
 <tr><td>squash</td><td>squãsh</td><td>squash</td><td>squãsh</td><td>v. to crush or squeeze something flat<br>n. a game played with rackets in an enclosed court</td></tr>
-<tr><td>squashed</td><td>squàsh𝕖ḋ</td><td>squash-ed</td><td>squàsh-𝕖ḋ</td><td>a. that has been violently compressed</td></tr>
+<tr><td>squashed</td><td>squãsh𝕖ḋ</td><td>squash-ed</td><td>squãsh-𝕖ḋ</td><td>a. that has been violently compressed</td></tr>
 <tr><td>squat</td><td>squãt</td><td>squat</td><td>squãt</td><td>v. sit on one&#x27;s heels<br>v. occupy (a dwelling) illegally</td></tr>
-<tr><td>squatter</td><td>squàtte̊r</td><td>squatt-er</td><td>squàtt-e̊r</td><td>n. a person who settles on land without legal right</td></tr>
-<tr><td>squatting</td><td>squàtting</td><td>squatt-ing</td><td>squàtt-ing</td><td>v. sit on one&#x27;s heels<br>v. occupy a dwelling illegally</td></tr>
+<tr><td>squatter</td><td>squãtte̊r</td><td>squatt-er</td><td>squãtt-e̊r</td><td>n. a person who settles on land without legal right</td></tr>
+<tr><td>squatting</td><td>squãtting</td><td>squatt-ing</td><td>squãtt-ing</td><td>v. sit on one&#x27;s heels<br>v. occupy a dwelling illegally</td></tr>
 <tr><td>squaw</td><td>squãw</td><td>squaw</td><td>squãw</td><td>n. an American Indian woman</td></tr>
 <tr><td>squawk</td><td>squãwk</td><td>squawk</td><td>squãwk</td><td>n. the noise of squawking<br>v. utter a harsh abrupt scream</td></tr>
 <tr><td>squawking</td><td>squãwking</td><td>squawk-ing</td><td>squãwk-ing</td><td>v. utter a harsh abrupt scream<br>v. complain</td></tr>
@@ -5173,10 +5173,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>squealer</td><td>squēale̊r</td><td>squeal-er</td><td>squēal-e̊r</td><td>n. one who reveals confidential information<br>n. a young pig</td></tr>
 <tr><td>squealing</td><td>squēaling</td><td>squeal-ing</td><td>squēal-ing</td><td>a. having or making a high-pitched sound such as that made by a mouse or a rusty hinge</td></tr>
 <tr><td>squeamish</td><td>squēamish</td><td>squeamish</td><td>squēamish</td><td>a. excessively fastidious and easily disgusted</td></tr>
-<tr><td>squeamishness</td><td>squēamishne̊ss</td><td>squeamish-ness</td><td>squēamish-ne̊ss</td><td>n. the trait of being excessively fastidious and easily shocked</td></tr>
+<tr><td>squeamishness</td><td>squēamishnėss</td><td>squeamish-ness</td><td>squēamish-nėss</td><td>n. the trait of being excessively fastidious and easily shocked</td></tr>
 <tr><td>squeegee</td><td>squēegēe</td><td>squeegee</td><td>squēegēe</td><td>n. a T-shaped cleaning tool with a rubber edge, used to remove water from surfaces</td></tr>
 <tr><td>squeeze</td><td>squēeze</td><td>squeeze</td><td>squēeze</td><td>n. the act of gripping and pressing firmly<br>v. to compress with violence<br>v. press firmly</td></tr>
-<tr><td>squeezebox</td><td>squēezebox</td><td>squeeze-box</td><td>squēeze-box</td><td>n. informal term for an accordion or concertina</td></tr>
+<tr><td>squeezebox</td><td>squēez𝕖box</td><td>squeeze-box</td><td>squēez𝕖-box</td><td>n. informal term for an accordion or concertina</td></tr>
 <tr><td>squeezed</td><td>squēez𝕖d</td><td>squeez-ed</td><td>squēez-𝕖d</td><td>v. to compress with violence, out of natural shape or condition<br>v. press firmly</td></tr>
 <tr><td>squeezer</td><td>squēeze̊r</td><td>squeez-er</td><td>squēez-e̊r</td><td>n. a kitchen utensil for squeezing juice from fruit</td></tr>
 <tr><td>squeezing</td><td>squēezing</td><td>squeez-ing</td><td>squēez-ing</td><td>n. the act of gripping and pressing firmly<br>v. press firmly</td></tr>
@@ -5207,21 +5207,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stableboy</td><td>stābl𝕖boẏ</td><td>stable-boy</td><td>stābl𝕖-boẏ</td><td>n. someone employed in a stable to take care of the horses</td></tr>
 <tr><td>stabbed</td><td>stabb𝕖d</td><td>stabb-ed</td><td>stabb-𝕖d</td><td>v. use a knife on</td></tr>
 <tr><td>stabbing</td><td>stabbing</td><td>stabb-ing</td><td>stabb-ing</td><td>a. causing physical or psychological injury</td></tr>
-<tr><td>stabilise</td><td>stābilīṡe</td><td>stabil-ise</td><td>stābil-īṡe</td><td>v. to make stable</td></tr>
+<tr><td>stabilise</td><td>stābi̊līṡe</td><td>stabil-ise</td><td>stābi̊l-īṡe</td><td>v. to make stable</td></tr>
 <tr><td>stability</td><td>ståbilitẏ</td><td>stab-ility</td><td>ståb-ilitẏ</td><td>n. the quality or attribute of being firm and steadfast<br>n. a stable order (especially of society)</td></tr>
-<tr><td>stabilize</td><td>stābi̊līze</td><td>stabil-ize</td><td>stābi̊l-īze</td><td>v. to make or become firm or stable</td></tr>
+<tr><td>stabilize</td><td>stābilīze</td><td>stabil-ize</td><td>stābil-īze</td><td>v. to make or become firm or stable</td></tr>
 <tr><td>stableman</td><td>stābl𝕖mån</td><td>stable-man</td><td>stābl𝕖-mån</td><td>n. someone employed in a stable to take care of the horses</td></tr>
 <tr><td>stablemate</td><td>stābl𝕖māte</td><td>stable-mate</td><td>stābl𝕖-māte</td><td>n. a horse stabled with another or one of several horses owned by the same person</td></tr>
 <tr><td>stabs</td><td>stabṡ</td><td>stab-s</td><td>stab-ṡ</td><td></td></tr>
 <tr><td>stably</td><td>stāblẏ</td><td>stabl-y</td><td>stābl-ẏ</td><td>adv. in a stable unchanging manner</td></tr>
-<tr><td>stabilized</td><td>stābi̊līz𝕖d</td><td>stabil-iz-ed</td><td>stābi̊l-īz-𝕖d</td><td>a. made stable or firm</td></tr>
+<tr><td>stabilized</td><td>stābilīz𝕖d</td><td>stabil-iz-ed</td><td>stābil-īz-𝕖d</td><td>a. made stable or firm</td></tr>
 <tr><td>stabilizer</td><td>stābi̊līze̊r</td><td>stabil-iz-er</td><td>stābi̊l-īz-e̊r</td><td>n. a device for making something stable</td></tr>
-<tr><td>stabilizing</td><td>stābi̊līzing</td><td>stabil-iz-ing</td><td>stābi̊l-īz-ing</td><td>a. causing to become stable</td></tr>
-<tr><td>stabilization</td><td>stābi̊li̊zātio̊n</td><td>stabil-iz-at-ion</td><td>stābi̊l-i̊z-āt-io̊n</td><td>n. the act of making something stable</td></tr>
-<tr><td>destabilize</td><td>dėstābi̊līze</td><td>de-stabil-ize</td><td>dė-stābi̊l-īze</td><td>v. to make something unstable</td></tr>
-<tr><td>destabilized</td><td>dėstābi̊līz𝕖d</td><td>de-stabil-iz-ed</td><td>dė-stābi̊l-īz-𝕖d</td><td>v. make unstable<br>a. made unstable</td></tr>
-<tr><td>destabilizing</td><td>dėstābi̊līzing</td><td>de-stabil-iz-ing</td><td>dė-stābi̊l-īz-ing</td><td>v. become unstable<br>v. make unstable</td></tr>
-<tr><td>destabilization</td><td>dēstābi̊li̊zātio̊n</td><td>de-stabil-iz-at-ion</td><td>dē-stābi̊l-i̊z-āt-io̊n</td><td>n. the action of making something less stable</td></tr>
+<tr><td>stabilizing</td><td>stābilīzing</td><td>stabil-iz-ing</td><td>stābil-īz-ing</td><td>a. causing to become stable</td></tr>
+<tr><td>stabilization</td><td>stābilīzātio̊n</td><td>stabil-iz-at-ion</td><td>stābil-īz-āt-io̊n</td><td>n. the act of making something stable</td></tr>
+<tr><td>destabilize</td><td>dēstābilīze</td><td>de-stabil-ize</td><td>dē-stābil-īze</td><td>v. to make something unstable</td></tr>
+<tr><td>destabilized</td><td>dēstābilīz𝕖d</td><td>de-stabil-iz-ed</td><td>dē-stābil-īz-𝕖d</td><td>v. make unstable<br>a. made unstable</td></tr>
+<tr><td>destabilizing</td><td>dēstābilīzing</td><td>de-stabil-iz-ing</td><td>dē-stābil-īz-ing</td><td>v. become unstable<br>v. make unstable</td></tr>
+<tr><td>destabilization</td><td>dēstābilīzātio̊n</td><td>de-stabil-iz-at-ion</td><td>dē-stābil-īz-āt-io̊n</td><td>n. the action of making something less stable</td></tr>
 <tr><td>establish</td><td>ėstablish</td><td>e-st-abl-ish</td><td>ė-st-abl-ish</td><td>vt. to set up or found<br>vt. to prove or make certain</td></tr>
 <tr><td>established</td><td>ėstablish𝕖ḋ</td><td>e-st-abl-ish-ed</td><td>ė-st-abl-ish-𝕖ḋ</td><td>a. firmly in place for a long time; recognized and accepted</td></tr>
 <tr><td>establishes</td><td>ėstablishėṡ</td><td>e-st-abl-ish-es</td><td>ė-st-abl-ish-ėṡ</td><td></td></tr>
@@ -5231,28 +5231,28 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unstable</td><td>ûnstāble</td><td>un-st-able</td><td>ûn-st-āble</td><td>a. not stable; likely to change</td></tr>
 <tr><td>disestablish</td><td>disėstablish</td><td>dis-e-st-abl-ish</td><td>dis-ė-st-abl-ish</td><td>v. deprive (an established church) of its status</td></tr>
 <tr><td>disestablishment</td><td>disėstablishme̊nt</td><td>dis-e-st-abl-ish-ment</td><td>dis-ė-st-abl-ish-me̊nt</td><td>n. ending an established arrangement, especially separating from the Church of England</td></tr>
-<tr><td>reestablishment</td><td>rēestablishme̊nt</td><td>re-e-st-abl-ish-ment</td><td>rē-e-st-abl-ish-me̊nt</td><td>n. the act of reestablishing; the state of being reestablished</td></tr>
-<tr><td>constabulary</td><td>co̊nstabūlarẏ</td><td>con-stabul-ary</td><td>co̊n-stabūl-arẏ</td><td>n. the force of policemen and officers</td></tr>
+<tr><td>reestablishment</td><td>rēėstablishme̊nt</td><td>re-e-st-abl-ish-ment</td><td>rē-ė-st-abl-ish-me̊nt</td><td>n. the act of reestablishing; the state of being reestablished</td></tr>
+<tr><td>constabulary</td><td>co̊nstabūlårẏ</td><td>con-stabul-ary</td><td>co̊n-stabūl-årẏ</td><td>n. the force of policemen and officers</td></tr>
 <tr><td>obstacle</td><td>obståcle</td><td>ob-stacle</td><td>ob-ståcle</td><td>n. something that blocks movement or progress</td></tr>
 <tr><td>obstacles</td><td>obståcl𝕖ṡ</td><td>ob-stacle-s</td><td>ob-ståcl𝕖-ṡ</td><td></td></tr>
 <tr><td>staccato</td><td>ståccàtō</td><td>staccato</td><td>ståccàtō</td><td>a. marked by disconnected parts or sounds<br>adv. in a disconnected manner</td></tr>
 <tr><td>stack</td><td>stack</td><td>stack</td><td>stack</td><td>n. an orderly pile of things<br>vt. arrange in a pile</td></tr>
 <tr><td>stacked</td><td>stack𝕖ḋ</td><td>stack-ed</td><td>stack-𝕖ḋ</td><td>a. arranged in a stack</td></tr>
 <tr><td>stacker</td><td>stacke̊r</td><td>stack-er</td><td>stack-e̊r</td><td>n. a laborer or machine that builds up a stack or pile</td></tr>
-<tr><td>stadia</td><td>stàdĩà</td><td>stad-ia</td><td>stàd-ĩà</td><td>n. plural of stadium; a large structure for open-air sports</td></tr>
+<tr><td>stadia</td><td>stādiå</td><td>stad-ia</td><td>stād-iå</td><td>n. plural of stadium; a large structure for open-air sports</td></tr>
 <tr><td>stadium</td><td>stādiům</td><td>stad-ium</td><td>stād-iům</td><td>n. a large structure for open-air sports events</td></tr>
 <tr><td>stadiums</td><td>stādiůmṡ</td><td>stad-ium-s</td><td>stād-iům-ṡ</td><td></td></tr>
 <tr><td>staff</td><td>stàff</td><td>staff</td><td>stàff</td><td>n. the employees of an organization<br>n. a long stick or rod used as a support or weapon</td></tr>
-<tr><td>staffer</td><td>staffe̊r</td><td>staff-er</td><td>staff-e̊r</td><td>n. a member of a staff of workers</td></tr>
+<tr><td>staffer</td><td>stàffe̊r</td><td>staff-er</td><td>stàff-e̊r</td><td>n. a member of a staff of workers</td></tr>
 <tr><td>staves</td><td>stāv𝕖ṡ</td><td>stav-es</td><td>stāv-𝕖ṡ</td><td></td></tr>
-<tr><td>staffing</td><td>staffing</td><td>staff-ing</td><td>staff-ing</td><td>n. the provision of staff for an organization</td></tr>
+<tr><td>staffing</td><td>stàffing</td><td>staff-ing</td><td>stàff-ing</td><td>n. the provision of staff for an organization</td></tr>
 <tr><td>staffs</td><td>staffs</td><td>staff-s</td><td>staff-s</td><td></td></tr>
-<tr><td>overstaffed</td><td>ōve̊rstaff𝕖ḋ</td><td>over-staff-ed</td><td>ōve̊r-staff-𝕖ḋ</td><td>a. having more workers than are needed</td></tr>
-<tr><td>understaffed</td><td>ûnde̊rstaff𝕖ḋ</td><td>under-staff-ed</td><td>ûnde̊r-staff-𝕖ḋ</td><td>a. inadequate in number of workers or assistants etc.</td></tr>
+<tr><td>overstaffed</td><td>ōve̊rstàff𝕖ḋ</td><td>over-staff-ed</td><td>ōve̊r-stàff-𝕖ḋ</td><td>a. having more workers than are needed</td></tr>
+<tr><td>understaffed</td><td>ûnde̊rstàff𝕖ḋ</td><td>under-staff-ed</td><td>ûnde̊r-stàff-𝕖ḋ</td><td>a. inadequate in number of workers or assistants etc.</td></tr>
 <tr><td>stag</td><td>stag</td><td>stag</td><td>stag</td><td>n. adult male deer<br>v. attend a party without a female companion</td></tr>
 <tr><td>stage</td><td>stāge</td><td>stage</td><td>stāge</td><td>n. a point or period in the progress of something; a phase<br>n. a raised platform for theatrical performances</td></tr>
 <tr><td>stagecoach</td><td>stāg𝕖cōach</td><td>stage-coach</td><td>stāg𝕖-cōach</td><td>n. a large coach formerly used to carry passengers and mail between towns</td></tr>
-<tr><td>stagecraft</td><td>stāg𝕖craft</td><td>stage-craft</td><td>stāg𝕖-craft</td><td>n. skill in writing or staging plays</td></tr>
+<tr><td>stagecraft</td><td>stāg𝕖cràft</td><td>stage-craft</td><td>stāg𝕖-cràft</td><td>n. skill in writing or staging plays</td></tr>
 <tr><td>staged</td><td>stāg𝕖d</td><td>stag-ed</td><td>stāg-𝕖d</td><td>a. written for or performed on the stage</td></tr>
 <tr><td>stagey</td><td>stāgėy</td><td>stag-ey</td><td>stāg-ėy</td><td>a. having characteristics of the stage especially an artificial and mannered quality</td></tr>
 <tr><td>stagehand</td><td>stāg𝕖hand</td><td>stage-hand</td><td>stāg𝕖-hand</td><td>n. a theater employee who performs work involved in putting on a production</td></tr>
@@ -5264,7 +5264,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>backstage</td><td>backstāge</td><td>back-stage</td><td>back-stāge</td><td>adv. behind the scenes of a theater<br>adv. out of public view</td></tr>
 <tr><td>downstage</td><td>dòwnstāge</td><td>down-stage</td><td>dòwn-stāge</td><td>n. the front half of the stage<br>adv. at or toward the front of the stage</td></tr>
 <tr><td>multistage</td><td>mûltistāge</td><td>multi-stage</td><td>mûlti-stāge</td><td>a. occurring in more than one stage</td></tr>
-<tr><td>restage</td><td>rēstāge</td><td>re-stage</td><td>rē-stāge</td><td>v. stage again; organize or present again</td></tr>
+<tr><td>restage</td><td>rėstāge</td><td>re-stage</td><td>rė-stāge</td><td>v. stage again; organize or present again</td></tr>
 <tr><td>upstage</td><td>ûpstāge</td><td>up-stage</td><td>ûp-stāge</td><td>adv. toward the rear of the stage<br>v. to treat snobbishly; to draw attention away from someone</td></tr>
 <tr><td>onstage</td><td>onstāge</td><td>on-stage</td><td>on-stāge</td><td>adv. on the stage<br>a. situated on the stage</td></tr>
 <tr><td>stagger</td><td>stagge̊r</td><td>stagg-er</td><td>stagg-e̊r</td><td>v. walk unsteadily<br>v. arrange in a systematic order</td></tr>
@@ -5297,15 +5297,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stalagmite</td><td>stalågmīte</td><td>stalagm-ite</td><td>stalågm-īte</td><td>n. a cylinder of calcium carbonate projecting upward from the floor of a limestone cave</td></tr>
 <tr><td>stalemate</td><td>stāl𝕖māte</td><td>stale-mate</td><td>stāl𝕖-māte</td><td>n. a situation in which no progress can be made<br>v. to bring to a standstill</td></tr>
 <tr><td>staleness</td><td>stāl𝕖nėss</td><td>stale-ness</td><td>stāl𝕖-nėss</td><td>n. having lost purity and freshness as a consequence of aging</td></tr>
-<tr><td>stalwart</td><td>stãlwårt</td><td>stal-wart</td><td>stãl-wårt</td><td>a. loyal, reliable, and hardworking</td></tr>
+<tr><td>stalwart</td><td>stãlwãrt</td><td>stal-wart</td><td>stãl-wãrt</td><td>a. loyal, reliable, and hardworking</td></tr>
 <tr><td>stalemated</td><td>stāl𝕖mātėd</td><td>stale-mat-ed</td><td>stāl𝕖-māt-ėd</td><td>v. subject to a stalemate<br>a. at a complete standstill</td></tr>
-<tr><td>peristaltic</td><td>pèristaltic</td><td>peri-stal-t-ic</td><td>pèri-stal-t-ic</td><td>a. of or relating to the wormlike movement of the intestines</td></tr>
-<tr><td>stalinism</td><td>staliniṡm</td><td>stalin-ism</td><td>stalin-iṡm</td><td>n. a form of government with an absolute dictator unrestricted by law</td></tr>
+<tr><td>peristaltic</td><td>peristaltic</td><td>peri-stal-t-ic</td><td>peri-stal-t-ic</td><td>a. of or relating to the wormlike movement of the intestines</td></tr>
+<tr><td>stalinism</td><td>stàliniṡm</td><td>stalin-ism</td><td>stàlin-iṡm</td><td>n. a form of government with an absolute dictator unrestricted by law</td></tr>
 <tr><td>stalinist</td><td>stàlinist</td><td>stalin-ist</td><td>stàlin-ist</td><td>n. a follower of Stalin and his political principles<br>a. relating to Stalinism</td></tr>
 <tr><td>stalk</td><td>stãlk</td><td>stalk</td><td>stãlk</td><td>n. the main stem of a plant<br>v. to follow or approach prey stealthily</td></tr>
 <tr><td>stalker</td><td>stãlke̊r</td><td>stalk-er</td><td>stãlk-e̊r</td><td>n. someone who walks with long stiff strides<br>n. someone who stalks game</td></tr>
 <tr><td>stalking</td><td>stãlking</td><td>stalk-ing</td><td>stãlk-ing</td><td>n. the act of following prey stealthily</td></tr>
-<tr><td>cornstalk</td><td>cornstãlk</td><td>corn-stalk</td><td>corn-stãlk</td><td>n. the stalk of a corn plant</td></tr>
+<tr><td>cornstalk</td><td>cornstã𝕝k</td><td>corn-stalk</td><td>corn-stã𝕝k</td><td>n. the stalk of a corn plant</td></tr>
 <tr><td>stall</td><td>stãll</td><td>stall</td><td>stãll</td><td>n. a booth where articles are displayed for sale<br>n. a compartment for an animal in a stable<br>v. to bring to a stop or cause to stop making progress</td></tr>
 <tr><td>stallion</td><td>stallio̊n</td><td>stallion</td><td>stallio̊n</td><td>n. an uncastrated adult male horse</td></tr>
 <tr><td>stalled</td><td>stãll𝕖d</td><td>stall-ed</td><td>stãll-𝕖d</td><td>a. brought to a stop</td></tr>
@@ -5321,13 +5321,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>installs</td><td>instãllṡ</td><td>in-stall-s</td><td>in-stãll-ṡ</td><td></td></tr>
 <tr><td>installation</td><td>instållātio̊n</td><td>in-stall-at-ion</td><td>in-ståll-āt-io̊n</td><td>n. the act of installing something<br>n. a piece of equipment installed</td></tr>
 <tr><td>preinstall</td><td>prēinstãll</td><td>pre-in-stall</td><td>prē-in-stãll</td><td>vt. to install in advance</td></tr>
-<tr><td>reinstall</td><td>rēinstàll</td><td>re-in-stall</td><td>rē-in-stàll</td><td>v. to install again</td></tr>
+<tr><td>reinstall</td><td>rēinstãll</td><td>re-in-stall</td><td>rē-in-stãll</td><td>v. to install again</td></tr>
 <tr><td>reinstallation</td><td>rēinstållātio̊n</td><td>re-in-stall-at-ion</td><td>rē-in-ståll-āt-io̊n</td><td>n. the act of installing again</td></tr>
 <tr><td>uninstalled</td><td>ûninstãll𝕖d</td><td>un-in-stall-ed</td><td>ûn-in-stãll-𝕖d</td><td>v. remove software from a computer system</td></tr>
 <tr><td>Stamford</td><td>Stamfo̊rd</td><td>Stam-ford</td><td>Stam-fo̊rd</td><td>n. a city in Connecticut, US</td></tr>
-<tr><td>instamatic</td><td>inståmatic</td><td>in-stam-at-ic</td><td>in-ståm-at-ic</td><td>n. a type of easy-to-use camera introduced by Kodak</td></tr>
+<tr><td>instamatic</td><td>instamatic</td><td>in-stam-at-ic</td><td>in-stam-at-ic</td><td>n. a type of easy-to-use camera introduced by Kodak</td></tr>
 <tr><td>stamen</td><td>stāme̊n</td><td>stamen</td><td>stāme̊n</td><td>n. the male reproductive organ of a flower</td></tr>
-<tr><td>stamina</td><td>stami̊nå</td><td>stamin-a</td><td>stami̊n-å</td><td>n. enduring strength and energy</td></tr>
+<tr><td>stamina</td><td>staminå</td><td>stamin-a</td><td>stamin-å</td><td>n. enduring strength and energy</td></tr>
 <tr><td>stammer</td><td>stamme̊r</td><td>stamm-er</td><td>stamm-e̊r</td><td>v. to speak with involuntary pauses and repetitions<br>n. a speech disorder involving hesitation</td></tr>
 <tr><td>stammering</td><td>stamme̊ring</td><td>stamm-er-ing</td><td>stamm-e̊r-ing</td><td>v. speak haltingly</td></tr>
 <tr><td>stamp</td><td>stamp</td><td>stamp</td><td>stamp</td><td>n. a small piece of paper stuck on something to show payment<br>v. to bring down one&#x27;s foot heavily<br>n. a mark made by stamping</td></tr>
@@ -5338,7 +5338,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stamps</td><td>stamps</td><td>stamp-s</td><td>stamp-s</td><td></td></tr>
 <tr><td>stance</td><td>stance</td><td>stance</td><td>stance</td><td>n. the way one stands<br>n. a publicly stated opinion</td></tr>
 <tr><td>stanch</td><td>stanch</td><td>stanch</td><td>stanch</td><td>v. stop the flow of a liquid</td></tr>
-<tr><td>stanchion</td><td>stànċhio̊n</td><td>stanch-ion</td><td>stànċh-io̊n</td><td>n. any vertical post or rod used as a support</td></tr>
+<tr><td>stanchion</td><td>stanċhio̊n</td><td>stanch-ion</td><td>stanċh-io̊n</td><td>n. any vertical post or rod used as a support</td></tr>
 <tr><td>constancy</td><td>conståncẏ</td><td>con-st-ancy</td><td>con-st-åncẏ</td><td>n. the quality of being enduring and free from change or variation<br>n. faithfulness and dependability in personal attachments</td></tr>
 <tr><td>constant</td><td>constånt</td><td>con-st-ant</td><td>con-st-ånt</td><td>n. a quantity that does not vary<br>a. steadfast in purpose or devotion or affection</td></tr>
 <tr><td>distance</td><td>distånce</td><td>di-st-ance</td><td>di-st-ånce</td><td>n. the amount of space between two points<br>n. a far-off place or time</td></tr>
@@ -5350,9 +5350,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>instances</td><td>inståncėṡ</td><td>in-stance-s</td><td>in-ståncė-ṡ</td><td></td></tr>
 <tr><td>instantiate</td><td>instantiāte</td><td>in-stant-i-ate</td><td>in-stant-i-āte</td><td>v. represent by an instance<br>v. find an instance of (a word or particular usage of a word)</td></tr>
 <tr><td>instantiation</td><td>instantiātio̊n</td><td>in-stant-i-at-ion</td><td>in-stant-i-āt-io̊n</td><td>n. a representation of an idea in the form of an instance of it</td></tr>
-<tr><td>instantaneously</td><td>inståntanēo̊uslẏ</td><td>in-stant-ane-ous-ly</td><td>in-stånt-anē-o̊us-lẏ</td><td>adv. without any delay</td></tr>
+<tr><td>instantaneously</td><td>inståntānėo̊uslẏ</td><td>in-stant-ane-ous-ly</td><td>in-stånt-ānė-o̊us-lẏ</td><td>adv. without any delay</td></tr>
 <tr><td>substance</td><td>sûbstånce</td><td>sub-st-ance</td><td>sûb-st-ånce</td><td>n. a particular kind of matter<br>n. the real or essential part of something</td></tr>
-<tr><td>substantive</td><td>sůbståntive</td><td>sub-stant-ive</td><td>sůb-stånt-ive</td><td>a. having a firm basis in reality; important</td></tr>
+<tr><td>substantive</td><td>sůbstantive</td><td>sub-stant-ive</td><td>sůb-stant-ive</td><td>a. having a firm basis in reality; important</td></tr>
 <tr><td>substantiate</td><td>sůbstantiāte</td><td>sub-st-ant-i-ate</td><td>sůb-st-ant-i-āte</td><td>v. solidify, firm, or strengthen with evidence</td></tr>
 <tr><td>substantiated</td><td>sůbstantiātėd</td><td>sub-st-ant-i-at-ed</td><td>sůb-st-ant-i-āt-ėd</td><td>v. establish or strengthen as with new evidence or facts</td></tr>
 <tr><td>inconstancy</td><td>inconståncẏ</td><td>in-con-st-ancy</td><td>in-con-st-åncẏ</td><td>n. the quality of being changeable and variable</td></tr>
@@ -5379,11 +5379,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>standardised</td><td>standårdīṡ𝕖d</td><td>stand-ard-is-ed</td><td>stand-ård-īṡ-𝕖d</td><td>a. brought into conformity with a standard</td></tr>
 <tr><td>standardized</td><td>standårdīz𝕖d</td><td>stand-ard-iz-ed</td><td>stand-ård-īz-𝕖d</td><td>a. brought into conformity with a standard</td></tr>
 <tr><td>standardisation</td><td>standårdīṡātio̊n</td><td>stand-ard-is-at-ion</td><td>stand-ård-īṡ-āt-io̊n</td><td>n. the process of setting standards</td></tr>
-<tr><td>standardization</td><td>standårdizātio̊n</td><td>stand-ard-iz-at-ion</td><td>stand-ård-iz-āt-io̊n</td><td>n. the imposition of standards or regulations</td></tr>
+<tr><td>standardization</td><td>standårdīzātio̊n</td><td>stand-ard-iz-at-ion</td><td>stand-ård-īz-āt-io̊n</td><td>n. the imposition of standards or regulations</td></tr>
 <tr><td>bandstand</td><td>bandstand</td><td>band-stand</td><td>band-stand</td><td>n. a platform where a (brass) band can play in the open air</td></tr>
 <tr><td>bystander</td><td>bȳstande̊r</td><td>by-stand-er</td><td>bȳ-stand-e̊r</td><td>n. a person who is present but not involved</td></tr>
 <tr><td>kickstand</td><td>kickstand</td><td>kick-stand</td><td>kick-stand</td><td>n. a metal rod on a bicycle that can be kicked into a vertical position as a support</td></tr>
-<tr><td>newsstand</td><td>new̄sstand</td><td>news-stand</td><td>new̄s-stand</td><td>n. a stall where newspapers and magazines are sold</td></tr>
+<tr><td>newsstand</td><td>new̄ṡstand</td><td>news-stand</td><td>new̄ṡ-stand</td><td>n. a stall where newspapers and magazines are sold</td></tr>
 <tr><td>nonstandardized</td><td>nonstandårdīz𝕖d</td><td>non-stand-ard-iz-ed</td><td>non-stand-ård-īz-𝕖d</td><td>a. not brought into conformity with a standard</td></tr>
 <tr><td>substandard</td><td>sûbstandård</td><td>sub-stand-ard</td><td>sûb-stand-ård</td><td>a. falling short of some prescribed norm</td></tr>
 <tr><td>understandable</td><td>ûnde̊rstandåble</td><td>under-stand-able</td><td>ûnde̊r-stand-åble</td><td>a. able to be understood</td></tr>
@@ -5401,14 +5401,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>instantly</td><td>inståntlẏ</td><td>in-stant-ly</td><td>in-stånt-lẏ</td><td>adv. immediately; without delay</td></tr>
 <tr><td>instantaneous</td><td>inståntānėo̊us</td><td>in-stant-ane-ous</td><td>in-stånt-ānė-o̊us</td><td>a. occurring with no delay; immediate</td></tr>
 <tr><td>substantial</td><td>sůbstantiål</td><td>sub-stant-ial</td><td>sůb-stant-iål</td><td>a. having a firm basis in reality; important, meaningful, or considerable<br>a. having substance or capable of being treated as fact; not imaginary</td></tr>
-<tr><td>substantiality</td><td>sůbstantiȧlitẏ</td><td>sub-stant-ial-ity</td><td>sůb-stant-iȧl-itẏ</td><td>n. the quality of being substantial or having substance</td></tr>
+<tr><td>substantiality</td><td>sůbstantialitẏ</td><td>sub-stant-ial-ity</td><td>sůb-stant-ial-itẏ</td><td>n. the quality of being substantial or having substance</td></tr>
 <tr><td>substantially</td><td>sůbstantiållẏ</td><td>sub-stant-ial-ly</td><td>sůb-stant-iål-lẏ</td><td>adv. to a great or significant extent<br>adv. for the most part; essentially</td></tr>
-<tr><td>substantively</td><td>sůbståntiv𝕖lẏ</td><td>sub-stant-ive-ly</td><td>sůb-stånt-iv𝕖-lẏ</td><td>adv. in a substantive manner; essentially</td></tr>
+<tr><td>substantively</td><td>sůbstantiv𝕖lẏ</td><td>sub-stant-ive-ly</td><td>sůb-stant-iv𝕖-lẏ</td><td>adv. in a substantive manner; essentially</td></tr>
 <tr><td>substantiation</td><td>sůbstantiātio̊n</td><td>sub-st-ant-i-at-ion</td><td>sůb-st-ant-i-āt-io̊n</td><td>n. additional proof that something believed (a fact or hypothesis) is correct</td></tr>
 <tr><td>consubstantial</td><td>consůbstantiål</td><td>con-sub-stant-ial</td><td>con-sůb-stant-iål</td><td>a. regarded as the same in substance or essence (as of the three persons of the Trinity)</td></tr>
 <tr><td>insubstantial</td><td>insůbstantiål</td><td>in-sub-stant-ial</td><td>in-sůb-stant-iål</td><td>a. lacking material form or substance; unreal<br>a. lacking in nutritive value</td></tr>
 <tr><td>stanza</td><td>stanzå</td><td>stanz-a</td><td>stanz-å</td><td>n. a fixed number of lines of verse forming a unit of a poem</td></tr>
-<tr><td>stapes</td><td>stāp𝕖ṡ</td><td>stap-es</td><td>stāp-𝕖ṡ</td><td>n. the stirrup-shaped ossicle that transmits sound from the incus to the cochlea</td></tr>
+<tr><td>stapes</td><td>stāpėṡ</td><td>stap-es</td><td>stāp-ėṡ</td><td>n. the stirrup-shaped ossicle that transmits sound from the incus to the cochlea</td></tr>
 <tr><td>staple</td><td>stāple</td><td>stap-le</td><td>stāp-le</td><td>n. a main or important element of something<br>n. a U-shaped wire for fastening papers<br>v. to attach with staples</td></tr>
 <tr><td>staph</td><td>staph</td><td>staph</td><td>staph</td><td>n. spherical Gram-positive parasitic bacteria that tend to form irregular colonies</td></tr>
 <tr><td>stapled</td><td>stāpl𝕖d</td><td>stapl-ed</td><td>stāpl-𝕖d</td><td>v. secure or fasten with a staple or staples</td></tr>
@@ -5417,7 +5417,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>starch</td><td>stàrch</td><td>starch</td><td>stàrch</td><td>n. a carbohydrate found chiefly in seeds, fruits, and tubers of plants<br>v. to stiffen with starch</td></tr>
 <tr><td>stare</td><td>stāre</td><td>stare</td><td>stāre</td><td>n. a fixed look with eyes open wide<br>v. to look at something for a long time with eyes wide open</td></tr>
 <tr><td>starboard</td><td>stàrbo̊ard</td><td>star-board</td><td>stàr-bo̊ard</td><td>n. the right side of a ship when facing forward</td></tr>
-<tr><td>starburst</td><td>starbůrst</td><td>star-burst</td><td>star-bůrst</td><td>n. a shape or design that emanates from a central point like rays</td></tr>
+<tr><td>starburst</td><td>stàrbůrst</td><td>star-burst</td><td>stàr-bůrst</td><td>n. a shape or design that emanates from a central point like rays</td></tr>
 <tr><td>stardom</td><td>stàrdo̊m</td><td>star-dom</td><td>stàr-do̊m</td><td>n. the status of being acknowledged as a star</td></tr>
 <tr><td>stardust</td><td>stàrdûst</td><td>star-dust</td><td>stàr-dûst</td><td>n. a dreamy romantic or sentimental quality</td></tr>
 <tr><td>starched</td><td>stàrch𝕖ḋ</td><td>starch-ed</td><td>stàrch-𝕖ḋ</td><td>a. stiffened with starch</td></tr>
@@ -5425,10 +5425,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>starred</td><td>stàrr𝕖d</td><td>starr-ed</td><td>stàrr-𝕖d</td><td>v. mark with an asterisk<br>a. marked with an asterisk</td></tr>
 <tr><td>starfield</td><td>stàrfiēld</td><td>star-field</td><td>stàr-fiēld</td><td>n. an area of the sky filled with many stars</td></tr>
 <tr><td>starfish</td><td>stàrfish</td><td>star-fish</td><td>stàr-fish</td><td>n. echinoderms characterized by five arms extending from a central disk</td></tr>
-<tr><td>staring</td><td>staring</td><td>star-ing</td><td>star-ing</td><td>a. (used of eyes) open and fixed as if in fear or wonder<br>v. look at with fixed eyes</td></tr>
+<tr><td>staring</td><td>stāring</td><td>star-ing</td><td>stār-ing</td><td>a. (used of eyes) open and fixed as if in fear or wonder<br>v. look at with fixed eyes</td></tr>
 <tr><td>starring</td><td>stàrring</td><td>starr-ing</td><td>stàrr-ing</td><td>v. to feature as the star; to mark with an asterisk<br>a. indicating the most important performer</td></tr>
 <tr><td>starless</td><td>stàrlėss</td><td>star-less</td><td>stàr-lėss</td><td>a. not starry; having no stars or starlike objects</td></tr>
-<tr><td>starlet</td><td>stàrle̊t</td><td>star-let</td><td>stàr-le̊t</td><td>n. a young actress publicized as a future star</td></tr>
+<tr><td>starlet</td><td>stàrlėt</td><td>star-let</td><td>stàr-lėt</td><td>n. a young actress publicized as a future star</td></tr>
 <tr><td>starlight</td><td>stàrlī𝕘𝕙t</td><td>star-light</td><td>stàr-lī𝕘𝕙t</td><td>n. the light of the stars</td></tr>
 <tr><td>starlike</td><td>stàrlīke</td><td>star-like</td><td>stàr-līke</td><td>a. resembling a star</td></tr>
 <tr><td>starling</td><td>stàrling</td><td>star-ling</td><td>stàr-ling</td><td>n. a gregarious bird native to the Old World</td></tr>
@@ -5441,14 +5441,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>star-crossed</td><td></td><td>star-cross-ed</td><td></td><td>a. ill-fated, unlucky</td></tr>
 <tr><td>starfighter</td><td>stàrfī𝕘𝕙te̊r</td><td>star-fight-er</td><td>stàr-fī𝕘𝕙t-e̊r</td><td>n. a type of fighter aircraft, especially the F-104</td></tr>
 <tr><td>stargazer</td><td>stàrgāze̊r</td><td>star-gaz-er</td><td>stàr-gāz-e̊r</td><td>n. a person who looks at or studies the stars</td></tr>
-<tr><td>stargazing</td><td>stargāzing</td><td>star-gaz-ing</td><td>star-gāz-ing</td><td>n. observation of the stars</td></tr>
+<tr><td>stargazing</td><td>stàrgāzing</td><td>star-gaz-ing</td><td>stàr-gāz-ing</td><td>n. observation of the stars</td></tr>
 <tr><td>instar</td><td>instàr</td><td>in-star</td><td>in-stàr</td><td>n. an insect or other arthropod between molts</td></tr>
 <tr><td>lodestar</td><td>lōd𝕖stàr</td><td>lode-star</td><td>lōd𝕖-stàr</td><td>n. guiding star; a star that is used as a reference point in navigation or astronomy<br>n. something that serves as a model or guide</td></tr>
 <tr><td>megastar</td><td>megåstàr</td><td>mega-star</td><td>megå-stàr</td><td>n. an extremely famous and successful performer</td></tr>
 <tr><td>superstar</td><td>sūpe̊rstàr</td><td>super-star</td><td>sūpe̊r-stàr</td><td>n. a person who is exceptionally famous or talented</td></tr>
 <tr><td>superstardom</td><td>sūpe̊rstàrdo̊m</td><td>super-star-dom</td><td>sūpe̊r-stàr-do̊m</td><td>n. the status of being a superstar</td></tr>
 <tr><td>superstars</td><td>sūpe̊rstàrṡ</td><td>super-star-s</td><td>sūpe̊r-stàr-ṡ</td><td></td></tr>
-<tr><td>protostar</td><td>prōto̊stàr</td><td>pro-to-star</td><td>prō-to̊-stàr</td><td>n. a contracting mass of gas that represents an early stage in the formation of a star</td></tr>
+<tr><td>protostar</td><td>prōtōstàr</td><td>pro-to-star</td><td>prō-tō-stàr</td><td>n. a contracting mass of gas that represents an early stage in the formation of a star</td></tr>
 <tr><td>stark</td><td>stàrk</td><td>stark</td><td>stàrk</td><td>a. complete or extreme<br>a. bare or plain in appearance</td></tr>
 <tr><td>starkly</td><td>stàrklẏ</td><td>stark-ly</td><td>stàrk-lẏ</td><td>adv. in a stark manner<br>adv. in sharp outline or contrast</td></tr>
 <tr><td>starkness</td><td>stàrknėss</td><td>stark-ness</td><td>stàrk-nėss</td><td>n. the quality of being complete or utter or extreme</td></tr>
@@ -5466,7 +5466,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>startles</td><td>stàrtl𝕖ṡ</td><td>start-le-s</td><td>stàrt-l𝕖-ṡ</td><td></td></tr>
 <tr><td>jumpstart</td><td>jûmpstàrt</td><td>jump-start</td><td>jûmp-stàrt</td><td>n. starting a car with a weak battery using jumper cables from another vehicle</td></tr>
 <tr><td>nonstarter</td><td>nonstàrte̊r</td><td>non-start-er</td><td>non-stàrt-e̊r</td><td>n. something with no chance of success</td></tr>
-<tr><td>restart</td><td>rēstàrt</td><td>re-start</td><td>rē-stàrt</td><td>v. to start again</td></tr>
+<tr><td>restart</td><td>rėstàrt</td><td>re-start</td><td>rė-stàrt</td><td>v. to start again</td></tr>
 <tr><td>upstart</td><td>ûpstàrt</td><td>up-start</td><td>ûp-stàrt</td><td>n. an arrogant or presumptuous person<br>n. a person newly risen in status without social acceptance</td></tr>
 <tr><td>starve</td><td>stàrve</td><td>starve</td><td>stàrve</td><td>v. suffer or die from lack of food<br>v. deprive of food</td></tr>
 <tr><td>starved</td><td>stàrv𝕖d</td><td>starv-ed</td><td>stàrv-𝕖d</td><td>a. suffering from lack of food</td></tr>
@@ -5475,37 +5475,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>starvation</td><td>stàrvātio̊n</td><td>starv-at-ion</td><td>stàrv-āt-io̊n</td><td>n. suffering or death caused by lack of food</td></tr>
 <tr><td>stasis</td><td>stāsis</td><td>sta-sis</td><td>stā-sis</td><td>n. an abnormal state in which the normal flow is slowed or stopped</td></tr>
 <tr><td>apostasy</td><td>åpoståsẏ</td><td>apo-stas-y</td><td>åpo-stås-ẏ</td><td>n. the state of having rejected your religious beliefs or your political party or a cause</td></tr>
-<tr><td>hypostasis</td><td>hȳpoståsis</td><td>hypo-sta-sis</td><td>hȳpo-stå-sis</td><td>n. the accumulation of blood in an organ<br>n. any of the three persons of the Godhead constituting the Trinity</td></tr>
-<tr><td>homeostasis</td><td>hōmēōstāsi̊s</td><td>home-o-stas-is</td><td>hōmē-ō-stās-i̊s</td><td>n. the tendency of a system to maintain internal stability</td></tr>
-<tr><td>hemostasis</td><td>hėmoståsis</td><td>hem-o-sta-sis</td><td>hėm-o-stå-sis</td><td>n. surgical procedure of stopping the flow of blood (as with a hemostat)</td></tr>
+<tr><td>hypostasis</td><td>hȳpōstāsis</td><td>hypo-sta-sis</td><td>hȳpō-stā-sis</td><td>n. the accumulation of blood in an organ<br>n. any of the three persons of the Godhead constituting the Trinity</td></tr>
+<tr><td>homeostasis</td><td>hōmėōstāsis</td><td>home-o-stas-is</td><td>hōmė-ō-stās-is</td><td>n. the tendency of a system to maintain internal stability</td></tr>
+<tr><td>hemostasis</td><td>hēmōstāsis</td><td>hem-o-sta-sis</td><td>hēm-ō-stā-sis</td><td>n. surgical procedure of stopping the flow of blood (as with a hemostat)</td></tr>
 <tr><td>stash</td><td>stash</td><td>stash</td><td>stash</td><td>v. to store something secretly<br>n. a secret store of something</td></tr>
 <tr><td>stat</td><td>stat</td><td>stat</td><td>stat</td><td>n. a statistic<br>adv. immediately; right away</td></tr>
 <tr><td>state</td><td>stāte</td><td>state</td><td>stāte</td><td>n. a condition or way of being; a politically organized body or federal unit<br>vt. to express or declare</td></tr>
-<tr><td>statuary</td><td>statūarẏ</td><td>statu-ary</td><td>statū-arẏ</td><td>n. statues collectively</td></tr>
-<tr><td>statecraft</td><td>stāt𝕖craft</td><td>state-craft</td><td>stāt𝕖-craft</td><td>n. wisdom in the management of public affairs</td></tr>
+<tr><td>statuary</td><td>statūårẏ</td><td>statu-ary</td><td>statū-årẏ</td><td>n. statues collectively</td></tr>
+<tr><td>statecraft</td><td>stāt𝕖cràft</td><td>state-craft</td><td>stāt𝕖-cràft</td><td>n. wisdom in the management of public affairs</td></tr>
 <tr><td>stated</td><td>stātėd</td><td>stat-ed</td><td>stāt-ėd</td><td>a. declared as fact; explicitly stated</td></tr>
 <tr><td>stater</td><td>stāte̊r</td><td>stat-er</td><td>stāt-e̊r</td><td>n. any of the various silver or gold coins of ancient Greece</td></tr>
-<tr><td>statehood</td><td>stātehood</td><td>state-hood</td><td>stāte-hood</td><td>n. the status of being a state of the United States</td></tr>
-<tr><td>statehouse</td><td>stātehòuse</td><td>state-house</td><td>stāte-hòuse</td><td>n. a government building in which a state legislature meets</td></tr>
+<tr><td>statehood</td><td>stāt𝕖hood</td><td>state-hood</td><td>stāt𝕖-hood</td><td>n. the status of being a state of the United States</td></tr>
+<tr><td>statehouse</td><td>stāt𝕖hòuse</td><td>state-house</td><td>stāt𝕖-hòuse</td><td>n. a government building in which a state legislature meets</td></tr>
 <tr><td>static</td><td>static</td><td>stat-ic</td><td>stat-ic</td><td>a. not changing or moving<br>n. electrical interference causing noise</td></tr>
-<tr><td>statin</td><td>stātin</td><td>stat-in</td><td>stāt-in</td><td>n. a medicine that lowers blood cholesterol levels</td></tr>
+<tr><td>statin</td><td>statin</td><td>stat-in</td><td>stat-in</td><td>n. a medicine that lowers blood cholesterol levels</td></tr>
 <tr><td>station</td><td>stātio̊n</td><td>stat-ion</td><td>stāt-io̊n</td><td>n. a place where trains or buses stop for passengers<br>n. a building or facility used for a particular purpose</td></tr>
 <tr><td>statism</td><td>stātiṡm</td><td>stat-ism</td><td>stāt-iṡm</td><td>n. the doctrine of giving centralized government control over economic and social policy</td></tr>
-<tr><td>stative</td><td>stātive</td><td>stat-ive</td><td>stāt-ive</td><td>a. expressing a state rather than an action (of a verb)</td></tr>
+<tr><td>stative</td><td>stative</td><td>stat-ive</td><td>stat-ive</td><td>a. expressing a state rather than an action (of a verb)</td></tr>
 <tr><td>stateless</td><td>stāt𝕖lėss</td><td>state-less</td><td>stāt𝕖-lėss</td><td>a. without nationality or citizenship</td></tr>
 <tr><td>stately</td><td>stāt𝕖lẏ</td><td>state-ly</td><td>stāt𝕖-lẏ</td><td>a. grand and dignified in appearance or manner</td></tr>
 <tr><td>statement</td><td>stāt𝕖me̊nt</td><td>state-ment</td><td>stāt𝕖-me̊nt</td><td>n. something that is said or written publicly</td></tr>
 <tr><td>stator</td><td>stāto̊r</td><td>stat-or</td><td>stāt-o̊r</td><td>n. the stationary part of a motor or generator in or around which the rotor revolves</td></tr>
-<tr><td>stateroom</td><td>stāte̊room</td><td>state-room</td><td>stāte̊-room</td><td>n. a guest cabin</td></tr>
+<tr><td>stateroom</td><td>stāt𝕖room</td><td>state-room</td><td>stāt𝕖-room</td><td>n. a guest cabin</td></tr>
 <tr><td>states</td><td>stāt𝕖s</td><td>state-s</td><td>stāt𝕖-s</td><td></td></tr>
 <tr><td>stats</td><td>stats</td><td>stat-s</td><td>stat-s</td><td></td></tr>
 <tr><td>statue</td><td>statūe</td><td>stat-ue</td><td>stat-ūe</td><td>n. a three-dimensional representation of a person or animal made of stone, metal, etc.</td></tr>
 <tr><td>stature</td><td>statůre</td><td>stat-ure</td><td>stat-ůre</td><td>n. high level of respect gained by impressive development or achievement<br>n. (of a standing person) the distance from head to foot</td></tr>
 <tr><td>status</td><td>stātůs</td><td>stat-us</td><td>stāt-ůs</td><td>n. the relative position or standing of someone or something<br>n. the current state of affairs</td></tr>
 <tr><td>statute</td><td>statūte</td><td>stat-ute</td><td>stat-ūte</td><td>n. a written law passed by a legislative body</td></tr>
-<tr><td>statewide</td><td>stātewīde</td><td>state-wide</td><td>stāte-wīde</td><td>a. occurring or extending throughout a state</td></tr>
+<tr><td>statewide</td><td>stāt𝕖wīde</td><td>state-wide</td><td>stāt𝕖-wīde</td><td>a. occurring or extending throughout a state</td></tr>
 <tr><td>statical</td><td>staticål</td><td>stat-ic-al</td><td>stat-ic-ål</td><td>a. relating to statics</td></tr>
-<tr><td>stationary</td><td>stātio̊narẏ</td><td>stat-ion-ary</td><td>stāt-io̊n-arẏ</td><td>a. standing still; not moving</td></tr>
+<tr><td>stationary</td><td>stātio̊nårẏ</td><td>stat-ion-ary</td><td>stāt-io̊n-årẏ</td><td>a. standing still; not moving</td></tr>
 <tr><td>stationer</td><td>stātio̊ne̊r</td><td>stat-ion-er</td><td>stāt-io̊n-e̊r</td><td>n. a merchant who sells writing materials and office supplies</td></tr>
 <tr><td>stationery</td><td>stātio̊ne̊rẏ</td><td>stat-ion-ery</td><td>stāt-io̊n-e̊rẏ</td><td>n. writing materials and office supplies</td></tr>
 <tr><td>statuette</td><td>statūette</td><td>stat-u-ette</td><td>stat-ū-ette</td><td>n. a small carved or molded figure</td></tr>
@@ -5514,46 +5514,46 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stationing</td><td>stātio̊ning</td><td>stat-ion-ing</td><td>stāt-io̊n-ing</td><td>v assign to a station</td></tr>
 <tr><td>statistic</td><td>ståtistic</td><td>stat-ist-ic</td><td>ståt-ist-ic</td><td>n. a datum that can be represented numerically</td></tr>
 <tr><td>statesman</td><td>stāt𝕖smån</td><td>state-s-man</td><td>stāt𝕖-s-mån</td><td>n. a man who is a respected leader in national or international affairs</td></tr>
-<tr><td>statutory</td><td>statůtorẏ</td><td>stat-ut-ory</td><td>stat-ůt-orẏ</td><td>a. relating to or created by statutes</td></tr>
+<tr><td>statutory</td><td>statūto̊rẏ</td><td>stat-ut-ory</td><td>stat-ūt-o̊rẏ</td><td>a. relating to or created by statutes</td></tr>
 <tr><td>stations</td><td>stātio̊nṡ</td><td>stat-ion-s</td><td>stāt-io̊n-ṡ</td><td></td></tr>
 <tr><td>statements</td><td>stāt𝕖me̊nts</td><td>state-ment-s</td><td>stāt𝕖-me̊nt-s</td><td></td></tr>
 <tr><td>statues</td><td>statū𝕖ṡ</td><td>stat-ue-s</td><td>stat-ū𝕖-ṡ</td><td></td></tr>
-<tr><td>statuesque</td><td>statūesq𝕦e</td><td>stat-ue-sque</td><td>stat-ūe-sq𝕦e</td><td>a. of size and dignity suggestive of a statue</td></tr>
+<tr><td>statuesque</td><td>statūesque</td><td>stat-ue-sque</td><td>stat-ūe-sque</td><td>a. of size and dignity suggestive of a statue</td></tr>
 <tr><td>stateswoman</td><td>stāt𝕖swõmån</td><td>state-s-woman</td><td>stāt𝕖-s-wõmån</td><td>n. a woman who is a skilled political leader</td></tr>
 <tr><td>staticky</td><td>statickẏ</td><td>stat-ick-y</td><td>stat-ick-ẏ</td><td>a. affected by static electricity; making crackling noises</td></tr>
 <tr><td>statistical</td><td>ståtisticål</td><td>stat-ist-ic-al</td><td>ståt-ist-ic-ål</td><td>a. relating to statistics</td></tr>
 <tr><td>state-of-the-art</td><td></td><td>state-of-the-art</td><td></td><td>a. using the latest technology</td></tr>
 <tr><td>stationmaster</td><td>stātio̊nmàste̊r</td><td>stat-ion-mast-er</td><td>stāt-io̊n-màst-e̊r</td><td>n. the person in charge of a railway station</td></tr>
-<tr><td>statistician</td><td>stati̊stiċi̊ån</td><td>stat-ist-ic-ian</td><td>stat-i̊st-iċ-i̊ån</td><td>n. a person who collects and interprets statistical data</td></tr>
+<tr><td>statistician</td><td>statisticiån</td><td>stat-ist-ic-ian</td><td>stat-ist-ic-iån</td><td>n. a person who collects and interprets statistical data</td></tr>
 <tr><td>statically</td><td>staticållẏ</td><td>stat-ic-al-ly</td><td>stat-ic-ål-lẏ</td><td>adv. in a static manner</td></tr>
-<tr><td>statesmanlike</td><td>ståtesmånlīke</td><td>state-s-man-like</td><td>ståte-s-mån-līke</td><td>a. marked by the qualities of or befitting a statesman</td></tr>
+<tr><td>statesmanlike</td><td>stāt𝕖smånlīke</td><td>state-s-man-like</td><td>stāt𝕖-s-mån-līke</td><td>a. marked by the qualities of or befitting a statesman</td></tr>
 <tr><td>station-wagon</td><td>stātio̊n-wago̊n</td><td>stat-ion-wag-on</td><td>stāt-io̊n-wag-o̊n</td><td>n. an automobile with a long body</td></tr>
 <tr><td>statistics</td><td>ståtistics</td><td>stat-ist-ic-s</td><td>ståt-ist-ic-s</td><td>n. a branch of mathematics concerned with collecting and interpreting quantitative data</td></tr>
 <tr><td>statesmanship</td><td>stāt𝕖smånship</td><td>state-s-man-ship</td><td>stāt𝕖-s-mån-ship</td><td>n. wisdom in the management of public affairs</td></tr>
 <tr><td>statistically</td><td>ståtisticållẏ</td><td>stat-ist-ic-al-ly</td><td>ståt-ist-ic-ål-lẏ</td><td>adv. in terms of or according to statistics</td></tr>
-<tr><td>statutorily</td><td>statůtori̊lẏ</td><td>stat-ut-or-i-ly</td><td>stat-ůt-or-i̊-lẏ</td><td>adv. according to statute</td></tr>
+<tr><td>statutorily</td><td>statūto̊ri̊lẏ</td><td>stat-ut-or-i-ly</td><td>stat-ūt-o̊r-i̊-lẏ</td><td>adv. according to statute</td></tr>
 <tr><td>apostate</td><td>åpostāte</td><td>apo-state</td><td>åpo-stāte</td><td>n. a person who has abandoned their religion, party, or cause<br>a. not faithful to religion or party or cause</td></tr>
-<tr><td>biostatistician</td><td>bīo̊ståtistiċi̊ån</td><td>bio-stat-ist-ic-ian</td><td>bīo̊-ståt-ist-iċ-i̊ån</td><td>n. a statistician who specializes in biological and medical data</td></tr>
+<tr><td>biostatistician</td><td>bīōstatisticiån</td><td>bio-stat-ist-ic-ian</td><td>bīō-stat-ist-ic-iån</td><td>n. a statistician who specializes in biological and medical data</td></tr>
 <tr><td>biostatistics</td><td>bīōståtistics</td><td>bio-stat-ist-ic-s</td><td>bīō-ståt-ist-ic-s</td><td>n. a branch of biology that studies biological phenomena by means of statistical analysis</td></tr>
 <tr><td>estate</td><td>ėstāte</td><td>e-st-ate</td><td>ė-st-āte</td><td>n. an area or amount of land or property<br>n. all the money and property owned by a person</td></tr>
 <tr><td>electrostatic</td><td>ėlectrōstatic</td><td>electro-stat-ic</td><td>ėlectrō-stat-ic</td><td>a. concerned with or producing or caused by static electricity</td></tr>
 <tr><td>estates</td><td>ėstāt𝕖s</td><td>e-st-ate-s</td><td>ė-st-āt𝕖-s</td><td></td></tr>
 <tr><td>electrostatically</td><td>ėlectrōstaticållẏ</td><td>electro-stat-ic-al-ly</td><td>ėlectrō-stat-ic-ål-lẏ</td><td>adv. in an electrostatic manner</td></tr>
-<tr><td>hypostatic</td><td>hȳpo̊static</td><td>hypo-stat-ic</td><td>hȳpo̊-stat-ic</td><td>a. of or relating to the essential nature of something</td></tr>
+<tr><td>hypostatic</td><td>hȳpōstatic</td><td>hypo-stat-ic</td><td>hȳpō-stat-ic</td><td>a. of or relating to the essential nature of something</td></tr>
 <tr><td>instate</td><td>instāte</td><td>in-state</td><td>in-stāte</td><td>v. place formally in office</td></tr>
 <tr><td>interstate</td><td>inte̊rstāte</td><td>inter-state</td><td>inte̊r-stāte</td><td>n. a highway linking major cities in the 48 contiguous states of the United States<br>a. relating to the mutual relations of states especially of the United States</td></tr>
 <tr><td>misstate</td><td>misstāte</td><td>mis-state</td><td>mis-stāte</td><td>v. state something incorrectly</td></tr>
 <tr><td>misstatement</td><td>misstāt𝕖me̊nt</td><td>mis-state-ment</td><td>mis-stāt𝕖-me̊nt</td><td>n. a statement that contains a mistake</td></tr>
 <tr><td>overstate</td><td>ōve̊rstāte</td><td>over-state</td><td>ōve̊r-stāte</td><td>v. to state something too strongly; exaggerate</td></tr>
 <tr><td>overstated</td><td>ōve̊rstātėd</td><td>over-stat-ed</td><td>ōve̊r-stāt-ėd</td><td>v. enlarge beyond bounds or the truth<br>a. represented as greater than is true</td></tr>
-<tr><td>orthostatic</td><td>orthōstatic</td><td>ortho-stat-ic</td><td>orthō-stat-ic</td><td>a. pertaining to an upright standing posture</td></tr>
+<tr><td>orthostatic</td><td>ortho̊static</td><td>ortho-stat-ic</td><td>ortho̊-stat-ic</td><td>a. pertaining to an upright standing posture</td></tr>
 <tr><td>overstatement</td><td>ōve̊rstāt𝕖me̊nt</td><td>over-state-ment</td><td>ōve̊r-stāt𝕖-me̊nt</td><td>n. making to seem more important than it really is</td></tr>
 <tr><td>prostate</td><td>prostāte</td><td>pro-state</td><td>pro-stāte</td><td>a. relating to the prostate gland</td></tr>
-<tr><td>parastatal</td><td>paråstātål</td><td>para-stat-al</td><td>parå-stāt-ål</td><td>a. of or relating to a partially state-owned enterprise</td></tr>
-<tr><td>prostatic</td><td>prōstatic</td><td>pro-stat-ic</td><td>prō-stat-ic</td><td>a. relating to the prostate gland</td></tr>
-<tr><td>prostatectomy</td><td>prostātecto̊mẏ</td><td>pro-stat-ec-tom-y</td><td>pro-stāt-ec-to̊m-ẏ</td><td>n. surgical removal of part or all of the prostate gland</td></tr>
-<tr><td>restate</td><td>rēstāte</td><td>re-state</td><td>rē-stāte</td><td>v. to say or state again</td></tr>
-<tr><td>restatement</td><td>rēstāt𝕖me̊nt</td><td>re-state-ment</td><td>rē-stāt𝕖-me̊nt</td><td>n. a revised statement</td></tr>
+<tr><td>parastatal</td><td>paråstatål</td><td>para-stat-al</td><td>parå-stat-ål</td><td>a. of or relating to a partially state-owned enterprise</td></tr>
+<tr><td>prostatic</td><td>pro̊static</td><td>pro-stat-ic</td><td>pro̊-stat-ic</td><td>a. relating to the prostate gland</td></tr>
+<tr><td>prostatectomy</td><td>proståtecto̊mẏ</td><td>pro-stat-ec-tom-y</td><td>pro-ståt-ec-to̊m-ẏ</td><td>n. surgical removal of part or all of the prostate gland</td></tr>
+<tr><td>restate</td><td>rėstāte</td><td>re-state</td><td>rė-stāte</td><td>v. to say or state again</td></tr>
+<tr><td>restatement</td><td>rėstāt𝕖me̊nt</td><td>re-state-ment</td><td>rė-stāt𝕖-me̊nt</td><td>n. a revised statement</td></tr>
 <tr><td>superstate</td><td>sūpe̊rstāte</td><td>super-state</td><td>sūpe̊r-stāte</td><td>n. a state having dominion or control over other states</td></tr>
 <tr><td>substation</td><td>sûbstātio̊n</td><td>sub-stat-ion</td><td>sûb-stāt-io̊n</td><td>n. a subsidiary station where electricity is transformed for distribution</td></tr>
 <tr><td>superstation</td><td>sūpe̊rstātio̊n</td><td>super-stat-ion</td><td>sūpe̊r-stāt-io̊n</td><td>n. a very powerful radio or television station</td></tr>
@@ -5563,13 +5563,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unstated</td><td>ûnstātėd</td><td>un-stat-ed</td><td>ûn-stāt-ėd</td><td>a. not made explicit or declared</td></tr>
 <tr><td>understatement</td><td>ûnde̊rstāt𝕖me̊nt</td><td>under-state-ment</td><td>ûnde̊r-stāt𝕖-me̊nt</td><td>n. a statement that is restrained in ironic contrast to what might have been said</td></tr>
 <tr><td>cryostat</td><td>crȳo̊stat</td><td>cry-o-stat</td><td>crȳ-o̊-stat</td><td>n. a thermostat that operates at very low temperatures</td></tr>
-<tr><td>hemostat</td><td>hēmo̊stat</td><td>hem-o-stat</td><td>hēm-o̊-stat</td><td>n. a device or drug used to stop bleeding</td></tr>
-<tr><td>homeostatic</td><td>hōmēōstatic</td><td>home-o-stat-ic</td><td>hōmē-ō-stat-ic</td><td>a. related to or characterized by homeostasis</td></tr>
-<tr><td>photostat</td><td>phōto̊stat</td><td>phot-o-stat</td><td>phōt-o̊-stat</td><td>n. a photocopy made on a Photostat machine<br>n. a duplicating machine making copies directly on prepared paper<br>v. make a copy by means of a Photostat device</td></tr>
+<tr><td>hemostat</td><td>hēmōstat</td><td>hem-o-stat</td><td>hēm-ō-stat</td><td>n. a device or drug used to stop bleeding</td></tr>
+<tr><td>homeostatic</td><td>hōmēo̊static</td><td>home-o-stat-ic</td><td>hōmē-o̊-stat-ic</td><td>a. related to or characterized by homeostasis</td></tr>
+<tr><td>photostat</td><td>phōtōstat</td><td>phot-o-stat</td><td>phōt-ō-stat</td><td>n. a photocopy made on a Photostat machine<br>n. a duplicating machine making copies directly on prepared paper<br>v. make a copy by means of a Photostat device</td></tr>
 <tr><td>reinstate</td><td>rēinstāte</td><td>re-in-state</td><td>rē-in-stāte</td><td>v. to restore to a previous position or state</td></tr>
 <tr><td>reinstatement</td><td>rēinstāt𝕖me̊nt</td><td>re-in-state-ment</td><td>rē-in-stāt𝕖-me̊nt</td><td>n. the act of restoring someone to a previous position</td></tr>
-<tr><td>rheostat</td><td>r𝕙ēo̊stat</td><td>rhe-o-stat</td><td>r𝕙ē-o̊-stat</td><td>n. resistor for regulating current</td></tr>
-<tr><td>serostatus</td><td>sērōstatůs</td><td>ser-o-stat-us</td><td>sēr-ō-stat-ůs</td><td>n. the status of a person&#x27;s antibody levels as determined by serological testing</td></tr>
+<tr><td>rheostat</td><td>r𝕙ēōstat</td><td>rhe-o-stat</td><td>r𝕙ē-ō-stat</td><td>n. resistor for regulating current</td></tr>
+<tr><td>serostatus</td><td>sero̊stātůs</td><td>ser-o-stat-us</td><td>ser-o̊-stāt-ůs</td><td>n. the status of a person&#x27;s antibody levels as determined by serological testing</td></tr>
 <tr><td>staunch</td><td>stãunch</td><td>staunch</td><td>stãunch</td><td>v. to stop the flow of a liquid<br>a. firm and dependable in loyalty</td></tr>
 <tr><td>staunchly</td><td>stãunchlẏ</td><td>staunch-ly</td><td>stãunch-lẏ</td><td>adv. in a staunch manner</td></tr>
 <tr><td>stave</td><td>stāve</td><td>stave</td><td>stāve</td><td>n. one of several thin slats of wood forming the sides of a barrel<br>v. to break or smash</td></tr>
@@ -5580,15 +5580,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stays</td><td>stāyṡ</td><td>stay-s</td><td>stāy-ṡ</td><td></td></tr>
 <tr><td>overstay</td><td>ōve̊rstāy</td><td>over-stay</td><td>ōve̊r-stāy</td><td>v. stay too long</td></tr>
 <tr><td>stead</td><td>stèad</td><td>stead</td><td>stèad</td><td>n. the post or function properly occupied by another</td></tr>
-<tr><td>steadfast</td><td>stèadfast</td><td>stead-fast</td><td>stèad-fast</td><td>a. firm and dependable especially in loyalty</td></tr>
+<tr><td>steadfast</td><td>stèadfàst</td><td>stead-fast</td><td>stèad-fàst</td><td>a. firm and dependable especially in loyalty</td></tr>
 <tr><td>steady</td><td>stèadẏ</td><td>stead-y</td><td>stèad-ẏ</td><td>a. not subject to change or variation especially in behavior<br>a. not easily excited or upset<br>v. make steady</td></tr>
 <tr><td>steadier</td><td>stèadie̊r</td><td>stead-i-er</td><td>stèad-i-e̊r</td><td></td></tr>
 <tr><td>steadiest</td><td>stèadiėst</td><td>stead-i-est</td><td>stèad-i-ėst</td><td></td></tr>
 <tr><td>steadying</td><td>stèadẏing</td><td>stead-y-ing</td><td>stèad-ẏ-ing</td><td>a. causing to become steady<br>v. make steady</td></tr>
-<tr><td>steadfastly</td><td>stèadfastlẏ</td><td>stead-fast-ly</td><td>stèad-fast-lẏ</td><td>adv. with resolute determination</td></tr>
+<tr><td>steadfastly</td><td>stèadfàstlẏ</td><td>stead-fast-ly</td><td>stèad-fàst-lẏ</td><td>adv. with resolute determination</td></tr>
 <tr><td>steadily</td><td>stèadilẏ</td><td>stead-i-ly</td><td>stèad-i-lẏ</td><td>adv. at a steady rate or pace</td></tr>
-<tr><td>steadfastness</td><td>stèadfastnėss</td><td>stead-fast-ness</td><td>stèad-fast-nėss</td><td>n. loyalty in the face of trouble and difficulty</td></tr>
-<tr><td>steadiness</td><td>stèadĩnėss</td><td>stead-i-ness</td><td>stèad-ĩ-nėss</td><td>n. freedom from wavering or indecision<br>n. the quality of being steady and regular</td></tr>
+<tr><td>steadfastness</td><td>stèadfàstnėss</td><td>stead-fast-ness</td><td>stèad-fàst-nėss</td><td>n. loyalty in the face of trouble and difficulty</td></tr>
+<tr><td>steadiness</td><td>stèadinėss</td><td>stead-i-ness</td><td>stèad-i-nėss</td><td>n. freedom from wavering or indecision<br>n. the quality of being steady and regular</td></tr>
 <tr><td>instead</td><td>instèad</td><td>in-stead</td><td>in-stèad</td><td>adv. as a substitute or alternative<br>adv. on the contrary</td></tr>
 <tr><td>unsteady</td><td>ûnstèadẏ</td><td>un-stead-y</td><td>ûn-stèad-ẏ</td><td>a. subject to change or variation</td></tr>
 <tr><td>unsteadily</td><td>ûnstèadilẏ</td><td>un-stead-i-ly</td><td>ûn-stèad-i-lẏ</td><td>adv. in an unsteady manner</td></tr>
@@ -5610,14 +5610,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>steamed</td><td>stēam𝕖d</td><td>steam-ed</td><td>stēam-𝕖d</td><td>a. cooked in steam</td></tr>
 <tr><td>steamer</td><td>stēame̊r</td><td>steam-er</td><td>stēam-e̊r</td><td>n. a ship powered by steam engines<br>n. a container for cooking by steam</td></tr>
 <tr><td>steaming</td><td>stēaming</td><td>steam-ing</td><td>stēam-ing</td><td>a. emitting steam<br>a. very hot</td></tr>
-<tr><td>steamroll</td><td>stēamroll</td><td>steam-roll</td><td>stēam-roll</td><td>v. to overwhelm with superior force</td></tr>
+<tr><td>steamroll</td><td>stēamrōll</td><td>steam-roll</td><td>stēam-rōll</td><td>v. to overwhelm with superior force</td></tr>
 <tr><td>steams</td><td>stēamṡ</td><td>steam-s</td><td>stēam-ṡ</td><td></td></tr>
 <tr><td>steamship</td><td>stēamship</td><td>steam-ship</td><td>stēam-ship</td><td>n. a ship powered by one or more steam engines</td></tr>
 <tr><td>steamy</td><td>stēamẏ</td><td>steam-y</td><td>stēam-ẏ</td><td>a. filled with steam; hot and humid</td></tr>
-<tr><td>steamiest</td><td>stēamiēst</td><td>steam-i-est</td><td>stēam-i-ēst</td><td>a. most hot and humid</td></tr>
+<tr><td>steamiest</td><td>stēamiėst</td><td>steam-i-est</td><td>stēam-i-ėst</td><td>a. most hot and humid</td></tr>
 <tr><td>steamroller</td><td>stēamrōlle̊r</td><td>steam-roll-er</td><td>stēam-rōll-e̊r</td><td>n. vehicle equipped with heavy wide smooth rollers for compacting roads and pavements<br>v. bring to a specified state by overwhelming force or pressure<br>v. proceed with great force</td></tr>
 <tr><td>stearic</td><td>stēaric</td><td>stear-ic</td><td>stēar-ic</td><td>a. of or relating to or composed of fat</td></tr>
-<tr><td>cholesteatoma</td><td>chōlėstēåtōmå</td><td>chole-steat-oma</td><td>chōlė-stēåt-ōmå</td><td>n. a destructive expanding growth in the middle ear</td></tr>
+<tr><td>cholesteatoma</td><td>c𝕙o̊lestēåtōmå</td><td>chole-steat-oma</td><td>c𝕙o̊le-stēåt-ōmå</td><td>n. a destructive expanding growth in the middle ear</td></tr>
 <tr><td>steed</td><td>stēed</td><td>steed</td><td>stēed</td><td>n. a horse (literary)</td></tr>
 <tr><td>steel</td><td>stēel</td><td>steel</td><td>stēel</td><td>n. a hard alloy of iron and carbon<br>v. prepare for something difficult</td></tr>
 <tr><td>steelhead</td><td>stēelhèad</td><td>steel-head</td><td>stēel-hèad</td><td>n. A North Pacific salmon (Salmo Gairdneri) found from<br>   Northern California to Siberia; -- called also hardhead, and preesil.<br>n. The ruddy duck.</td></tr>
@@ -5634,7 +5634,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>steepled</td><td>stēepl𝕖d</td><td>steepl-ed</td><td>stēepl-𝕖d</td><td>a. having a steeple or steeples</td></tr>
 <tr><td>steeple</td><td>stēeple</td><td>steep-le</td><td>stēep-le</td><td>n. a tall tower that tapers to a point at the top</td></tr>
 <tr><td>steeply</td><td>stēeplẏ</td><td>steep-ly</td><td>stēep-lẏ</td><td>adv. in a steep manner</td></tr>
-<tr><td>steepness</td><td>stēepne̊ss</td><td>steep-ness</td><td>stēep-ne̊ss</td><td>n. the property possessed by a slope that is very steep</td></tr>
+<tr><td>steepness</td><td>stēepnėss</td><td>steep-ness</td><td>stēep-nėss</td><td>n. the property possessed by a slope that is very steep</td></tr>
 <tr><td>steeplechase</td><td>stēepl𝕖chāse</td><td>steep-le-chase</td><td>stēep-l𝕖-chāse</td><td>n. a footrace of usually 3000 meters over a closed track with hurdles and a water jump<br>n. a horse race over an obstructed course</td></tr>
 <tr><td>steer</td><td>stēer</td><td>steer</td><td>stēer</td><td>v. direct the course of a vehicle<br>v. guide the direction of</td></tr>
 <tr><td>steerable</td><td>stēeråble</td><td>steer-able</td><td>stēer-åble</td><td>a. capable of being steered or directed</td></tr>
@@ -5651,45 +5651,45 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stele</td><td>stēlė</td><td>stele</td><td>stēlė</td><td>n. an ancient upright stone slab bearing markings</td></tr>
 <tr><td>stellar</td><td>stellår</td><td>stell-ar</td><td>stell-år</td><td>a. being or relating to or resembling stars</td></tr>
 <tr><td>circumstellar</td><td>ci̊rcůmstellår</td><td>circum-stell-ar</td><td>ci̊rcům-stell-år</td><td>a. surrounding or occurring around a star</td></tr>
-<tr><td>constellation</td><td>conste̊llātio̊n</td><td>con-stell-at-ion</td><td>con-ste̊ll-āt-io̊n</td><td>n. a group of stars forming a recognizable pattern</td></tr>
+<tr><td>constellation</td><td>constėllātio̊n</td><td>con-stell-at-ion</td><td>con-stėll-āt-io̊n</td><td>n. a group of stars forming a recognizable pattern</td></tr>
 <tr><td>interstellar</td><td>inte̊rstellår</td><td>inter-stell-ar</td><td>inte̊r-stell-år</td><td>a. between or among stars</td></tr>
 <tr><td>stem</td><td>stem</td><td>stem</td><td>stem</td><td>n. the main stalk of a plant<br>v. to stop the flow of something</td></tr>
 <tr><td>stemmed</td><td>stemm𝕖d</td><td>stemm-ed</td><td>stemm-𝕖d</td><td>a. having a stem or stems or having a stem as specified; often used in combination</td></tr>
 <tr><td>stems</td><td>stemṡ</td><td>stem-s</td><td>stem-ṡ</td><td></td></tr>
 <tr><td>stemware</td><td>stemwāre</td><td>stem-ware</td><td>stem-wāre</td><td>n. glassware mounted on a stem</td></tr>
 <tr><td>stemwinder</td><td>stemwīnde̊r</td><td>stem-wind-er</td><td>stem-wīnd-e̊r</td><td>n. a watch that is wound by turning a stem</td></tr>
-<tr><td>abstemious</td><td>abstēmio̊us</td><td>ab-stem-ious</td><td>ab-stēm-io̊us</td><td>a. sparing in consumption of especially food and drink<br>a. marked by temperance in indulgence</td></tr>
-<tr><td>episteme</td><td>epistēme</td><td>epi-steme</td><td>epi-stēme</td><td>n. the body of ideas determining what is intellectually certain at any particular time</td></tr>
-<tr><td>epistemic</td><td>epistemic</td><td>epi-stem-ic</td><td>epi-stem-ic</td><td>a. of or relating to epistemology</td></tr>
-<tr><td>epistemologist</td><td>ėpiste̊molo̊gist</td><td>epi-stem-o-log-ist</td><td>ėpi-ste̊m-o-lo̊g-ist</td><td>n. a specialist in epistemology</td></tr>
+<tr><td>abstemious</td><td>åbstēmio̊us</td><td>ab-stem-ious</td><td>åb-stēm-io̊us</td><td>a. sparing in consumption of especially food and drink<br>a. marked by temperance in indulgence</td></tr>
+<tr><td>episteme</td><td>ėpistēme</td><td>epi-steme</td><td>ėpi-stēme</td><td>n. the body of ideas determining what is intellectually certain at any particular time</td></tr>
+<tr><td>epistemic</td><td>ėpistemic</td><td>epi-stem-ic</td><td>ėpi-stem-ic</td><td>a. of or relating to epistemology</td></tr>
+<tr><td>epistemologist</td><td>ėpistėmolo̊gist</td><td>epi-stem-o-log-ist</td><td>ėpi-stėm-o-lo̊g-ist</td><td>n. a specialist in epistemology</td></tr>
 <tr><td>epistemically</td><td>ėpistemicållẏ</td><td>epi-stem-ic-al-ly</td><td>ėpi-stem-ic-ål-lẏ</td><td>adv. in an epistemic manner</td></tr>
-<tr><td>epistemology</td><td>episte̊molo̊gẏ</td><td>epi-stem-o-log-y</td><td>epi-ste̊m-o-lo̊g-ẏ</td><td>n. the philosophical theory of knowledge</td></tr>
+<tr><td>epistemology</td><td>ėpistėmolo̊gẏ</td><td>epi-stem-o-log-y</td><td>ėpi-stėm-o-lo̊g-ẏ</td><td>n. the philosophical theory of knowledge</td></tr>
 <tr><td>system</td><td>sẏste̊m</td><td>sy-stem</td><td>sẏ-ste̊m</td><td>n. a set of things working together; an organized scheme or method</td></tr>
 <tr><td>systemic</td><td>sẏstemic</td><td>sy-stem-ic</td><td>sẏ-stem-ic</td><td>a. affecting an entire system</td></tr>
 <tr><td>systems</td><td>sẏste̊mṡ</td><td>sy-stem-s</td><td>sẏ-ste̊m-ṡ</td><td></td></tr>
 <tr><td>systematic</td><td>sẏstėmatic</td><td>sy-stem-at-ic</td><td>sẏ-stėm-at-ic</td><td>a. done according to a plan or system; methodical</td></tr>
-<tr><td>systematise</td><td>sẏstėmåtīṡe</td><td>sy-stem-at-ise</td><td>sẏ-stėm-åt-īṡe</td><td>vt. to arrange in a system</td></tr>
-<tr><td>systematize</td><td>sẏstėmåtīze</td><td>sy-stem-at-ize</td><td>sẏ-stėm-åt-īze</td><td>v. arrange according to a system or reduce to a system</td></tr>
+<tr><td>systematise</td><td>sẏste̊matīṡe</td><td>sy-stem-at-ise</td><td>sẏ-ste̊m-at-īṡe</td><td>vt. to arrange in a system</td></tr>
+<tr><td>systematize</td><td>sẏste̊matīze</td><td>sy-stem-at-ize</td><td>sẏ-ste̊m-at-īze</td><td>v. arrange according to a system or reduce to a system</td></tr>
 <tr><td>systematical</td><td>sẏstėmatical</td><td>sy-stem-at-ic-al</td><td>sẏ-stėm-at-ic-al</td><td>a. carried out in a systematic way</td></tr>
-<tr><td>systematized</td><td>sẏstėmåtīz𝕖d</td><td>sy-stem-at-iz-ed</td><td>sẏ-stėm-åt-īz-𝕖d</td><td>v arrange according to a system or reduce to a system</td></tr>
-<tr><td>systemically</td><td>sẙstemicållẏ</td><td>sy-stem-ic-al-ly</td><td>sẙ-stem-ic-ål-lẏ</td><td>adv. in a systemic manner; affecting the whole system</td></tr>
+<tr><td>systematized</td><td>sẏste̊matīz𝕖d</td><td>sy-stem-at-iz-ed</td><td>sẏ-ste̊m-at-īz-𝕖d</td><td>v arrange according to a system or reduce to a system</td></tr>
+<tr><td>systemically</td><td>sẏstemicållẏ</td><td>sy-stem-ic-al-ly</td><td>sẏ-stem-ic-ål-lẏ</td><td>adv. in a systemic manner; affecting the whole system</td></tr>
 <tr><td>systematics</td><td>sẏste̊matics</td><td>sy-stem-at-ic-s</td><td>sẏ-ste̊m-at-ic-s</td><td>n. the science of systematic classification</td></tr>
 <tr><td>systematization</td><td>sẏste̊matīzātio̊n</td><td>sy-stem-at-iz-at-ion</td><td>sẏ-ste̊m-at-īz-āt-io̊n</td><td>n. the act of organizing something according to a system</td></tr>
 <tr><td>systematically</td><td>sẏste̊maticållẏ</td><td>sy-stem-at-ic-al-ly</td><td>sẏ-ste̊m-at-ic-ål-lẏ</td><td>adv. in a systematic or consistent manner</td></tr>
 <tr><td>ecosystem</td><td>ēcōsẏste̊m</td><td>eco-sy-stem</td><td>ēcō-sẏ-ste̊m</td><td>n. a biological community of interacting organisms</td></tr>
 <tr><td>subsystem</td><td>sûbsẏste̊m</td><td>sub-sy-stem</td><td>sûb-sẏ-ste̊m</td><td>n. a system that is part of some larger system</td></tr>
-<tr><td>unsystematic</td><td>ûnsẏstėmatic</td><td>un-sy-stem-at-ic</td><td>ûn-sẏ-stėm-at-ic</td><td>a. lacking systematic arrangement or method or organization</td></tr>
-<tr><td>stenosis</td><td>stėnōsis</td><td>sten-osis</td><td>stėn-ōsis</td><td>n. abnormal narrowing of a bodily canal or passageway</td></tr>
-<tr><td>stenographer</td><td>steno̊gråphe̊r</td><td>sten-o-graph-er</td><td>sten-o̊-gråph-e̊r</td><td>n. someone skilled in the transcription of speech (especially dictation)</td></tr>
-<tr><td>restenosis</td><td>rēstėno̊sis</td><td>re-sten-osis</td><td>rē-stėn-o̊sis</td><td></td></tr>
+<tr><td>unsystematic</td><td>ûnsẏste̊matic</td><td>un-sy-stem-at-ic</td><td>ûn-sẏ-ste̊m-at-ic</td><td>a. lacking systematic arrangement or method or organization</td></tr>
+<tr><td>stenosis</td><td>stenōsis</td><td>sten-osis</td><td>sten-ōsis</td><td>n. abnormal narrowing of a bodily canal or passageway</td></tr>
+<tr><td>stenographer</td><td>stenogråphe̊r</td><td>sten-o-graph-er</td><td>sten-o-gråph-e̊r</td><td>n. someone skilled in the transcription of speech (especially dictation)</td></tr>
+<tr><td>restenosis</td><td>rėste̊nōsis</td><td>re-sten-osis</td><td>rė-ste̊n-ōsis</td><td></td></tr>
 <tr><td>stench</td><td>stench</td><td>stench</td><td>stench</td><td>n. a distinctive and offensive odor</td></tr>
-<tr><td>stencil</td><td>stencil</td><td>stencil</td><td>stencil</td><td>n. a sheet with a perforated pattern for printing or designing<br>v. to mark or print with a stencil</td></tr>
-<tr><td>stenciled</td><td>stencil𝕖d</td><td>stencil-ed</td><td>stencil-𝕖d</td><td>v mark or print with a stencil</td></tr>
-<tr><td>steno</td><td>stenō</td><td>steno</td><td>stenō</td><td>n. a stenographer</td></tr>
+<tr><td>stencil</td><td>stenci̊l</td><td>stencil</td><td>stenci̊l</td><td>n. a sheet with a perforated pattern for printing or designing<br>v. to mark or print with a stencil</td></tr>
+<tr><td>stenciled</td><td>stenci̊l𝕖d</td><td>stencil-ed</td><td>stenci̊l-𝕖d</td><td>v mark or print with a stencil</td></tr>
+<tr><td>steno</td><td>stēnō</td><td>steno</td><td>stēnō</td><td>n. a stenographer</td></tr>
 <tr><td>stent</td><td>stent</td><td>stent</td><td>stent</td><td>n. a slender tube inserted inside a tubular body part to provide support</td></tr>
 <tr><td>stentorian</td><td>stentoriån</td><td>stent-or-ian</td><td>stent-or-iån</td><td>a. used of the voice; very loud and powerful</td></tr>
 <tr><td>abstention</td><td>åbstentio̊n</td><td>ab-stent-ion</td><td>åb-stent-io̊n</td><td>n. the trait of abstaining especially from alcohol</td></tr>
-<tr><td>abstentious</td><td>abstentio̊us</td><td>ab-stent-ious</td><td>ab-stent-io̊us</td><td>a. characterized by self-denial or abstinence</td></tr>
+<tr><td>abstentious</td><td>åbstentio̊us</td><td>ab-stent-ious</td><td>åb-stent-io̊us</td><td>a. characterized by self-denial or abstinence</td></tr>
 <tr><td>step</td><td>step</td><td>step</td><td>step</td><td>n. an act of moving the foot in walking; a stage in a process<br>v. to lift and set down one&#x27;s foot</td></tr>
 <tr><td>stepped</td><td>stepp𝕖ḋ</td><td>stepp-ed</td><td>stepp-𝕖ḋ</td><td>v. past tense and past participle of step</td></tr>
 <tr><td>stepping</td><td>stepping</td><td>stepp-ing</td><td>stepp-ing</td><td></td></tr>
@@ -5702,53 +5702,53 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stepfather</td><td>stepfàṫhe̊r</td><td>step-fath-er</td><td>step-fàṫh-e̊r</td><td>n. the husband of one&#x27;s mother who is not one&#x27;s biological father</td></tr>
 <tr><td>stepladder</td><td>stepladde̊r</td><td>step-ladd-er</td><td>step-ladd-e̊r</td><td>n. a folding portable ladder hinged at the top</td></tr>
 <tr><td>stepmother</td><td>stepmôṫhe̊r</td><td>step-moth-er</td><td>step-môṫh-e̊r</td><td>n. the wife of your father by a subsequent marriage</td></tr>
-<tr><td>stepparent</td><td>steppåre̊nt</td><td>step-par-ent</td><td>step-pår-e̊nt</td><td>n. the spouse of your parent by a subsequent marriage</td></tr>
+<tr><td>stepparent</td><td>steppāre̊nt</td><td>step-par-ent</td><td>step-pār-e̊nt</td><td>n. the spouse of your parent by a subsequent marriage</td></tr>
 <tr><td>stepsister</td><td>stepsiste̊r</td><td>step-sist-er</td><td>step-sist-e̊r</td><td>n. a sister who has only one parent in common with you</td></tr>
 <tr><td>instep</td><td>instep</td><td>in-step</td><td>in-step</td><td>n. the arch of the foot<br>n. the part of a shoe that covers the arch of the foot</td></tr>
 <tr><td>lockstep</td><td>lockstep</td><td>lock-step</td><td>lock-step</td><td>n. a standard procedure that is followed mindlessly<br>n. a manner of marching in file</td></tr>
 <tr><td>misstep</td><td>misstep</td><td>mis-step</td><td>mis-step</td><td>n an unintentional but embarrassing blunder</td></tr>
 <tr><td>overstep</td><td>ōve̊rstep</td><td>over-step</td><td>ōve̊r-step</td><td>v. to pass beyond limits or boundaries</td></tr>
 <tr><td>steppe</td><td>steppe</td><td>steppe</td><td>steppe</td><td>n. extensive plain without trees</td></tr>
-<tr><td>sterile</td><td>stèri̊le</td><td>ster-ile</td><td>stèr-i̊le</td><td>a. unable to produce children; free from bacteria; lacking imagination</td></tr>
-<tr><td>sterility</td><td>ste̊rilitẏ</td><td>steril-ity</td><td>ste̊ril-itẏ</td><td>n. the state of being unable to produce offspring; inability to conceive or impregnate</td></tr>
-<tr><td>sterilize</td><td>stèri̊līze</td><td>steril-ize</td><td>stèri̊l-īze</td><td>vt. to make free from bacteria; to make unable to reproduce</td></tr>
+<tr><td>sterile</td><td>sterīle</td><td>ster-ile</td><td>ster-īle</td><td>a. unable to produce children; free from bacteria; lacking imagination</td></tr>
+<tr><td>sterility</td><td>sterilitẏ</td><td>steril-ity</td><td>steril-itẏ</td><td>n. the state of being unable to produce offspring; inability to conceive or impregnate</td></tr>
+<tr><td>sterilize</td><td>steri̊līze</td><td>steril-ize</td><td>steri̊l-īze</td><td>vt. to make free from bacteria; to make unable to reproduce</td></tr>
 <tr><td>sterling</td><td>ste̊rling</td><td>ster-ling</td><td>ste̊r-ling</td><td>n. British money; especially the pound sterling as the basic monetary unit of the UK</td></tr>
-<tr><td>steroid</td><td>ste̊roid</td><td>ster-oid</td><td>ste̊r-oid</td><td>n. any of several organic compounds having important physiological effects</td></tr>
-<tr><td>sterol</td><td>sterōl</td><td>ster-ol</td><td>ster-ōl</td><td>n. a group of natural steroid alcohols from plants or animals; waxy insoluble substances</td></tr>
-<tr><td>steroidal</td><td>ste̊roidål</td><td>ster-oid-al</td><td>ste̊r-oid-ål</td><td>a. of or relating to steroid hormones or their effects</td></tr>
-<tr><td>sterilized</td><td>stèri̊līz𝕖d</td><td>steril-iz-ed</td><td>stèri̊l-īz-𝕖d</td><td>a. made infertile</td></tr>
-<tr><td>sterilizer</td><td>stèri̊līze̊r</td><td>steril-iz-er</td><td>stèri̊l-īz-e̊r</td><td>n. a device for heating substances above boiling point to sterilize instruments</td></tr>
+<tr><td>steroid</td><td>steroid</td><td>ster-oid</td><td>ster-oid</td><td>n. any of several organic compounds having important physiological effects</td></tr>
+<tr><td>sterol</td><td>sterol</td><td>ster-ol</td><td>ster-ol</td><td>n. a group of natural steroid alcohols from plants or animals; waxy insoluble substances</td></tr>
+<tr><td>steroidal</td><td>steroidål</td><td>ster-oid-al</td><td>ster-oid-ål</td><td>a. of or relating to steroid hormones or their effects</td></tr>
+<tr><td>sterilized</td><td>steri̊līz𝕖d</td><td>steril-iz-ed</td><td>steri̊l-īz-𝕖d</td><td>a. made infertile</td></tr>
+<tr><td>sterilizer</td><td>steri̊līze̊r</td><td>steril-iz-er</td><td>steri̊l-īz-e̊r</td><td>n. a device for heating substances above boiling point to sterilize instruments</td></tr>
 <tr><td>stereo</td><td>sterėō</td><td>ster-e-o</td><td>ster-ė-ō</td><td>n. sound that comes from two directions to create a natural effect<br>a. relating to stereophonic sound</td></tr>
-<tr><td>steroids</td><td>stèroidṡ</td><td>ster-oid-s</td><td>stèr-oid-ṡ</td><td>n. a type of chemical compound occurring naturally in the body</td></tr>
-<tr><td>stereograph</td><td>ste̊rėo̊gràph</td><td>ster-e-o-graph</td><td>ste̊r-ė-o̊-gràph</td><td>n. a pair of images giving a 3D effect when viewed through a stereoscope</td></tr>
-<tr><td>sterilization</td><td>stèri̊li̊zātio̊n</td><td>steril-iz-at-ion</td><td>stèri̊l-i̊z-āt-io̊n</td><td>n. the procedure of making something free of bacteria; making unable to reproduce</td></tr>
+<tr><td>steroids</td><td>steroidṡ</td><td>ster-oid-s</td><td>ster-oid-ṡ</td><td>n. a type of chemical compound occurring naturally in the body</td></tr>
+<tr><td>stereograph</td><td>sterėōgràph</td><td>ster-e-o-graph</td><td>ster-ė-ō-gràph</td><td>n. a pair of images giving a 3D effect when viewed through a stereoscope</td></tr>
+<tr><td>sterilization</td><td>sterilīzātio̊n</td><td>steril-iz-at-ion</td><td>steril-īz-āt-io̊n</td><td>n. the procedure of making something free of bacteria; making unable to reproduce</td></tr>
 <tr><td>stereoscope</td><td>sterėōscōpe</td><td>ster-e-o-scope</td><td>ster-ė-ō-scōpe</td><td>n. an optical device for viewing stereoscopic photographs</td></tr>
-<tr><td>stereotype</td><td>stèrēōtȳpe</td><td>ster-e-o-type</td><td>stèr-ē-ō-tȳpe</td><td>n. a widely held but fixed and oversimplified image of a type of person or thing<br>v. to regard or represent as a stereotype</td></tr>
-<tr><td>stereotyped</td><td>stèrēōtȳp𝕖ḋ</td><td>ster-e-o-typ-ed</td><td>stèr-ē-ō-tȳp-𝕖ḋ</td><td>a. lacking originality; conventional</td></tr>
-<tr><td>stereographic</td><td>stèrēōgraphic</td><td>ster-e-o-graph-ic</td><td>stèr-ē-ō-graph-ic</td><td>a. of or relating to the projection of a sphere onto a plane</td></tr>
-<tr><td>stereophonic</td><td>ste̊rėo̊phonic</td><td>ster-e-o-phon-ic</td><td>ste̊r-ė-o̊-phon-ic</td><td>a. designating sound transmission from two sources through two channels</td></tr>
-<tr><td>stereoscopic</td><td>ste̊rėo̊scopic</td><td>ster-e-o-scop-ic</td><td>ste̊r-ė-o̊-scop-ic</td><td>a. of or relating to a stereoscope<br>a. of or relating to stereoscopy</td></tr>
-<tr><td>stereotactic</td><td>stèrēōtactic</td><td>ster-e-o-tact-ic</td><td>stèr-ē-ō-tact-ic</td><td>a. relating to surgery using precise 3D coordinates to locate a small target</td></tr>
-<tr><td>stereotyping</td><td>stèrēōtȳping</td><td>ster-e-o-typ-ing</td><td>stèr-ē-ō-tȳp-ing</td><td>v treat or classify according to a mental stereotype</td></tr>
+<tr><td>stereotype</td><td>sterėōtȳpe</td><td>ster-e-o-type</td><td>ster-ė-ō-tȳpe</td><td>n. a widely held but fixed and oversimplified image of a type of person or thing<br>v. to regard or represent as a stereotype</td></tr>
+<tr><td>stereotyped</td><td>sterėōtȳp𝕖ḋ</td><td>ster-e-o-typ-ed</td><td>ster-ė-ō-tȳp-𝕖ḋ</td><td>a. lacking originality; conventional</td></tr>
+<tr><td>stereographic</td><td>sterėōgraphic</td><td>ster-e-o-graph-ic</td><td>ster-ė-ō-graph-ic</td><td>a. of or relating to the projection of a sphere onto a plane</td></tr>
+<tr><td>stereophonic</td><td>sterėōphonic</td><td>ster-e-o-phon-ic</td><td>ster-ė-ō-phon-ic</td><td>a. designating sound transmission from two sources through two channels</td></tr>
+<tr><td>stereoscopic</td><td>sterėōscopic</td><td>ster-e-o-scop-ic</td><td>ster-ė-ō-scop-ic</td><td>a. of or relating to a stereoscope<br>a. of or relating to stereoscopy</td></tr>
+<tr><td>stereotactic</td><td>sterėōtactic</td><td>ster-e-o-tact-ic</td><td>ster-ė-ō-tact-ic</td><td>a. relating to surgery using precise 3D coordinates to locate a small target</td></tr>
+<tr><td>stereotyping</td><td>sterėōtȳping</td><td>ster-e-o-typ-ing</td><td>ster-ė-ō-tȳp-ing</td><td>v treat or classify according to a mental stereotype</td></tr>
 <tr><td>stereotypes</td><td>sterėōtȳp𝕖s</td><td>ster-e-o-type-s</td><td>ster-ė-ō-tȳp𝕖-s</td><td></td></tr>
-<tr><td>stereotypical</td><td>stèrēōtẏpicål</td><td>ster-e-o-typ-ic-al</td><td>stèr-ē-ō-tẏp-ic-ål</td><td>a. conforming to a fixed or general pattern</td></tr>
-<tr><td>corticosteroid</td><td>corticōstèroid</td><td>cortico-ster-oid</td><td>corticō-stèr-oid</td><td>n. a steroid hormone produced by the adrenal cortex or synthesized</td></tr>
-<tr><td>nonsterile</td><td>nonstèrīle</td><td>non-sterile</td><td>non-stèrīle</td><td>a. not sterile; containing microorganisms</td></tr>
-<tr><td>nonsteroidal</td><td>nonste̊roidål</td><td>non-ster-oid-al</td><td>non-ste̊r-oid-ål</td><td>a. not steroidal or not having the effects of steroid hormones</td></tr>
-<tr><td>hypercholesterolemia</td><td>hȳpe̊rc𝕙o̊leste̊rolēmiå</td><td>hyper-chole-ster-ol-emia</td><td>hȳpe̊r-c𝕙o̊le-ste̊r-ol-ēmiå</td><td>n. an abnormal amount of cholesterol in the blood; associated with risk of atherosclerosis</td></tr>
+<tr><td>stereotypical</td><td>sterėōtẏpicål</td><td>ster-e-o-typ-ic-al</td><td>ster-ė-ō-tẏp-ic-ål</td><td>a. conforming to a fixed or general pattern</td></tr>
+<tr><td>corticosteroid</td><td>corticoste̊roid</td><td>cortico-ster-oid</td><td>cortico-ste̊r-oid</td><td>n. a steroid hormone produced by the adrenal cortex or synthesized</td></tr>
+<tr><td>nonsterile</td><td>nonsterīle</td><td>non-sterile</td><td>non-sterīle</td><td>a. not sterile; containing microorganisms</td></tr>
+<tr><td>nonsteroidal</td><td>nonsteroidål</td><td>non-ster-oid-al</td><td>non-ster-oid-ål</td><td>a. not steroidal or not having the effects of steroid hormones</td></tr>
+<tr><td>hypercholesterolemia</td><td>hȳpe̊rc𝕙o̊leste̊rōlēmiå</td><td>hyper-chole-ster-ol-emia</td><td>hȳpe̊r-c𝕙o̊le-ste̊r-ōl-ēmiå</td><td>n. an abnormal amount of cholesterol in the blood; associated with risk of atherosclerosis</td></tr>
 <tr><td>stern</td><td>ste̊rn</td><td>stern</td><td>ste̊rn</td><td>a. severe and unremitting in making demands<br>n. the rear part of a ship</td></tr>
 <tr><td>sternal</td><td>ste̊rnål</td><td>stern-al</td><td>ste̊rn-ål</td><td>a. of or relating to or near the sternum</td></tr>
 <tr><td>sternly</td><td>ste̊rnlẏ</td><td>stern-ly</td><td>ste̊rn-lẏ</td><td>adv. with sternness; in a severe manner</td></tr>
-<tr><td>sternness</td><td>ste̊rnne̊ss</td><td>stern-ness</td><td>ste̊rn-ne̊ss</td><td>n. the quality (as of scenery) being grim and gloomy and forbidding<br>n. uncompromising resolution</td></tr>
+<tr><td>sternness</td><td>ste̊rnnėss</td><td>stern-ness</td><td>ste̊rn-nėss</td><td>n. the quality (as of scenery) being grim and gloomy and forbidding<br>n. uncompromising resolution</td></tr>
 <tr><td>sternum</td><td>ste̊rnům</td><td>stern-um</td><td>ste̊rn-ům</td><td>n. the flat bone in the front of the chest</td></tr>
-<tr><td>sternocleidomastoid</td><td>ste̊rnōcleīdōmastoid</td><td>stern-o-cleid-o-mast-oid</td><td>ste̊rn-ō-cleīd-ō-mast-oid</td><td>n. a muscle from the sternum and clavicle to the mastoid bone, turning the head</td></tr>
+<tr><td>sternocleidomastoid</td><td>ste̊rno̊clèido̊mastoid</td><td>stern-o-cleid-o-mast-oid</td><td>ste̊rn-o̊-clèid-o̊-mast-oid</td><td>n. a muscle from the sternum and clavicle to the mastoid bone, turning the head</td></tr>
 <tr><td>astern</td><td>åste̊rn</td><td>a-stern</td><td>å-ste̊rn</td><td>adv. stern foremost or backward<br>adv. (of a ship or an airplane) behind</td></tr>
 <tr><td>consternation</td><td>conste̊rnātio̊n</td><td>con-stern-at-ion</td><td>con-ste̊rn-āt-io̊n</td><td>n fear resulting from the awareness of danger</td></tr>
-<tr><td>obstetric</td><td>o̊bstetric</td><td>ob-stetr-ic</td><td>o̊b-stetr-ic</td><td>a. of or relating to or used in or practicing obstetrics</td></tr>
-<tr><td>obstetrical</td><td>o̊bstetricål</td><td>ob-stetr-ic-al</td><td>o̊b-stetr-ic-ål</td><td>a. of or relating to or used in or practicing obstetrics</td></tr>
-<tr><td>obstetrician</td><td>obste̊triċi̊ån</td><td>ob-stetr-ic-ian</td><td>ob-ste̊tr-iċ-i̊ån</td><td>n. a physician specializing in obstetrics</td></tr>
-<tr><td>obstetrics</td><td>o̊bstetrics</td><td>ob-stetr-ic-s</td><td>o̊b-stetr-ic-s</td><td>n. the branch of medicine dealing with childbirth</td></tr>
-<tr><td>stevedore</td><td>stēve̊dore</td><td>stevedore</td><td>stēve̊dore</td><td>n. a laborer who loads and unloads vessels in a port</td></tr>
+<tr><td>obstetric</td><td>obstetric</td><td>ob-stetr-ic</td><td>ob-stetr-ic</td><td>a. of or relating to or used in or practicing obstetrics</td></tr>
+<tr><td>obstetrical</td><td>obstetricål</td><td>ob-stetr-ic-al</td><td>ob-stetr-ic-ål</td><td>a. of or relating to or used in or practicing obstetrics</td></tr>
+<tr><td>obstetrician</td><td>obstėtriciån</td><td>ob-stetr-ic-ian</td><td>ob-stėtr-ic-iån</td><td>n. a physician specializing in obstetrics</td></tr>
+<tr><td>obstetrics</td><td>obstetrics</td><td>ob-stetr-ic-s</td><td>ob-stetr-ic-s</td><td>n. the branch of medicine dealing with childbirth</td></tr>
+<tr><td>stevedore</td><td>stēvėdore</td><td>stevedore</td><td>stēvėdore</td><td>n. a laborer who loads and unloads vessels in a port</td></tr>
 <tr><td>stevia</td><td>stēviå</td><td>stevia</td><td>stēviå</td><td>n. a South American plant whose leaves are used as a sweetener</td></tr>
 <tr><td>stew</td><td>stew̄</td><td>stew</td><td>stew̄</td><td>n. a dish of meat and vegetables cooked slowly in liquid<br>v. to cook slowly in liquid</td></tr>
 <tr><td>steward</td><td>stew̄ård</td><td>stew-ard</td><td>stew̄-ård</td><td>n. an attendant on an airplane or ship<br>n. a person who manages property or affairs for others</td></tr>
@@ -5757,11 +5757,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stews</td><td>stew̄ṡ</td><td>stew-s</td><td>stew̄-ṡ</td><td></td></tr>
 <tr><td>stewardess</td><td>stew̄årdėss</td><td>stew-ard-ess</td><td>stew̄-ård-ėss</td><td>n. a woman steward on an airplane</td></tr>
 <tr><td>stewardship</td><td>stew̄årdship</td><td>stew-ard-ship</td><td>stew̄-ård-ship</td><td>n. the position and duties of a steward; responsible management</td></tr>
-<tr><td>asthenosphere</td><td>astheno̊sphēre</td><td>a-sthen-o-sphere</td><td>a-sthen-o̊-sphēre</td><td>n. the upper layer of the earth&#x27;s mantle</td></tr>
-<tr><td>prosthetic</td><td>prosthetic</td><td>pro-sthet-ic</td><td>pro-sthet-ic</td><td>a. relating to an artificial body part</td></tr>
-<tr><td>prosthetics</td><td>prosthetics</td><td>pro-sthet-ic-s</td><td>pro-sthet-ic-s</td><td>n. the branch of medicine dealing with the production and use of artificial body parts</td></tr>
+<tr><td>asthenosphere</td><td>åstheno̊sphēre</td><td>a-sthen-o-sphere</td><td>å-sthen-o̊-sphēre</td><td>n. the upper layer of the earth&#x27;s mantle</td></tr>
+<tr><td>prosthetic</td><td>pro̊sthetic</td><td>pro-sthet-ic</td><td>pro̊-sthet-ic</td><td>a. relating to an artificial body part</td></tr>
+<tr><td>prosthetics</td><td>pro̊sthetics</td><td>pro-sthet-ic-s</td><td>pro̊-sthet-ic-s</td><td>n. the branch of medicine dealing with the production and use of artificial body parts</td></tr>
 <tr><td>interstice</td><td>inte̊rstice</td><td>inter-stice</td><td>inte̊r-stice</td><td>n. a small space between things; a gap</td></tr>
-<tr><td>armistice</td><td>àrmi̊sti̊ce</td><td>arm-i-stice</td><td>àrm-i̊-sti̊ce</td><td>n. a state of peace agreed to between opponents so they can discuss peace terms</td></tr>
+<tr><td>armistice</td><td>àrmistice</td><td>arm-i-stice</td><td>àrm-i-stice</td><td>n. a state of peace agreed to between opponents so they can discuss peace terms</td></tr>
 <tr><td>stick</td><td>stick</td><td>stick</td><td>stick</td><td>n. a thin piece of wood<br>n. a long thin object<br>vt. to push something sharp into<br>vi. to become attached</td></tr>
 <tr><td>stuck</td><td>stûck</td><td>stuck</td><td>stûck</td><td>a. unable to move; past participle of stick</td></tr>
 <tr><td>stickball</td><td>stickbãll</td><td>stick-ball</td><td>stick-bãll</td><td>n. a form of baseball played in the streets with a rubber ball and broomstick handle</td></tr>
@@ -5782,8 +5782,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>lipsticked</td><td>lipstick𝕖ḋ</td><td>lip-stick-ed</td><td>lip-stick-𝕖ḋ</td><td>a. wearing lipstick</td></tr>
 <tr><td>nonstick</td><td>nonstick</td><td>non-stick</td><td>non-stick</td><td>a. allowing food to be removed easily without sticking</td></tr>
 <tr><td>unstuck</td><td>ûnstûck</td><td>un-stuck</td><td>ûn-stûck</td><td>a. free<br>a. thrown into a state of disorganization</td></tr>
-<tr><td>candlestick</td><td>candlestick</td><td>cand-le-stick</td><td>cand-le-stick</td><td>n. a holder with sockets for candles</td></tr>
-<tr><td>prestidigitation</td><td>prestidigi̊tātio̊n</td><td>pre-stidig-it-at-ion</td><td>pre-stidig-i̊t-āt-io̊n</td><td>n. sleight of hand or magic tricks</td></tr>
+<tr><td>candlestick</td><td>candl𝕖stick</td><td>cand-le-stick</td><td>cand-l𝕖-stick</td><td>n. a holder with sockets for candles</td></tr>
+<tr><td>prestidigitation</td><td>prestidigitātio̊n</td><td>pre-stidig-it-at-ion</td><td>pre-stidig-it-āt-io̊n</td><td>n. sleight of hand or magic tricks</td></tr>
 <tr><td>stifled</td><td>stīfl𝕖d</td><td>stifl-ed</td><td>stīfl-𝕖d</td><td>vt. smother or suppress<br>vt. impair the respiration of or obstruct the air passage of</td></tr>
 <tr><td>stifle</td><td>stīfle</td><td>stif-le</td><td>stīf-le</td><td>v. smother or suppress</td></tr>
 <tr><td>stifling</td><td>stīfling</td><td>stif-ling</td><td>stīf-ling</td><td>a. characterized by oppressive heat and humidity<br>v. smother or suppress</td></tr>
@@ -5794,9 +5794,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stiffened</td><td>stiffe̊n𝕖d</td><td>stiff-en-ed</td><td>stiff-e̊n-𝕖d</td><td>v. made or become stiff or rigid</td></tr>
 <tr><td>stiffener</td><td>stiffe̊ne̊r</td><td>stiff-en-er</td><td>stiff-e̊n-e̊r</td><td>n. material used for stiffening something</td></tr>
 <tr><td>stiffening</td><td>stiffe̊ning</td><td>stiff-en-ing</td><td>stiff-e̊n-ing</td><td>n. the act of becoming stiff</td></tr>
-<tr><td>instigate</td><td>insti̊gāte</td><td>in-stig-ate</td><td>in-sti̊g-āte</td><td>v provoke or stir up<br>v serve as the inciting cause of</td></tr>
+<tr><td>instigate</td><td>instigāte</td><td>in-stig-ate</td><td>in-stig-āte</td><td>v provoke or stir up<br>v serve as the inciting cause of</td></tr>
 <tr><td>instigation</td><td>instigātio̊n</td><td>in-stig-at-ion</td><td>in-stig-āt-io̊n</td><td>n. the verbal act of urging on<br>n. deliberate and intentional triggering (of trouble or discord)</td></tr>
-<tr><td>instigator</td><td>insti̊gāto̊r</td><td>in-stig-at-or</td><td>in-sti̊g-āt-o̊r</td><td>n. someone who deliberately foments trouble<br>n. a person who initiates a course of action</td></tr>
+<tr><td>instigator</td><td>instigāto̊r</td><td>in-stig-at-or</td><td>in-stig-āt-o̊r</td><td>n. someone who deliberately foments trouble<br>n. a person who initiates a course of action</td></tr>
 <tr><td>prestige</td><td>prestĩge</td><td>pre-stige</td><td>pre-stĩge</td><td>n. high reputation gained through success or influence</td></tr>
 <tr><td>prestigious</td><td>prestigio̊us</td><td>pre-stig-ious</td><td>pre-stig-io̊us</td><td>a. inspiring respect and admiration; having high status</td></tr>
 <tr><td>stigma</td><td>stigmå</td><td>stigm-a</td><td>stigm-å</td><td>n. a symbol of disgrace or infamy</td></tr>
@@ -5805,10 +5805,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stigmatized</td><td>stigmåtīz𝕖d</td><td>stigm-at-iz-ed</td><td>stigm-åt-īz-𝕖d</td><td>vt. to accuse or condemn or brand as disgraceful<br>vt. mark with a stigma</td></tr>
 <tr><td>stigmatizing</td><td>stigmåtīzing</td><td>stigm-at-iz-ing</td><td>stigm-åt-īz-ing</td><td>v. to accuse or brand as disgraceful</td></tr>
 <tr><td>stigmatization</td><td>stigmåtīzātio̊n</td><td>stigm-at-iz-at-ion</td><td>stigm-åt-īz-āt-io̊n</td><td>n. the act of stigmatizing</td></tr>
-<tr><td>astigmatic</td><td>astigmatic</td><td>a-stigm-at-ic</td><td>a-stigm-at-ic</td><td>a. relating to or suffering from astigmatism</td></tr>
+<tr><td>astigmatic</td><td>åstigmatic</td><td>a-stigm-at-ic</td><td>å-stigm-at-ic</td><td>a. relating to or suffering from astigmatism</td></tr>
 <tr><td>astigmatism</td><td>åstigmåtiṡm</td><td>a-stigm-at-ism</td><td>å-stigm-åt-iṡm</td><td>n. a defect of the eye causing blurred vision due to irregular curvature of the cornea</td></tr>
 <tr><td>stile</td><td>stīle</td><td>stile</td><td>stīle</td><td>n. an upright that is a member in a door or window frame</td></tr>
-<tr><td>stiletto</td><td>sti̊lettō</td><td>stil-etto</td><td>sti̊l-ettō</td><td>n. a small dagger with a tapered blade</td></tr>
+<tr><td>stiletto</td><td>stilettō</td><td>stil-etto</td><td>stil-ettō</td><td>n. a small dagger with a tapered blade</td></tr>
 <tr><td>instil</td><td>instil</td><td>in-stil</td><td>in-stil</td><td>v. to introduce gradually</td></tr>
 <tr><td>still</td><td>still</td><td>still</td><td>still</td><td>adv. up to now; nevertheless; without movement<br>a. not moving; calm; quiet<br>n. a photograph from a film; a distilling apparatus</td></tr>
 <tr><td>stillbirth</td><td>stillbi̊rth</td><td>still-birth</td><td>still-bi̊rth</td><td>n. a natural loss of the products of conception</td></tr>
@@ -5820,32 +5820,32 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stilt</td><td>stilt</td><td>stilt</td><td>stilt</td><td>n. stout poles with foot rests for walking high above the ground<br>n. a long-legged wading bird</td></tr>
 <tr><td>stilted</td><td>stiltėd</td><td>stilt-ed</td><td>stilt-ėd</td><td>a. artificially formal</td></tr>
 <tr><td>stimuli</td><td>stimūlī</td><td>stimul-i</td><td>stimūl-ī</td><td>n. plural of stimulus</td></tr>
-<tr><td>stimulus</td><td>stimùlůs</td><td>stimul-us</td><td>stimùl-ůs</td><td>n. something that causes a reaction</td></tr>
+<tr><td>stimulus</td><td>stimūlůs</td><td>stimul-us</td><td>stimūl-ůs</td><td>n. something that causes a reaction</td></tr>
 <tr><td>stimulant</td><td>stimūlånt</td><td>stim-ul-ant</td><td>stim-ūl-ånt</td><td>n. a substance that raises the level of physiological activity<br>a. that stimulates</td></tr>
 <tr><td>stimulate</td><td>stimūlāte</td><td>stim-ul-ate</td><td>stim-ūl-āte</td><td>vt. encourage development or activity<br>vt. cause physical excitement</td></tr>
-<tr><td>stimulated</td><td>stimūlāt𝕖d</td><td>stim-ul-at-ed</td><td>stim-ūl-āt-𝕖d</td><td>a. emotionally aroused</td></tr>
+<tr><td>stimulated</td><td>stimūlātėd</td><td>stim-ul-at-ed</td><td>stim-ūl-āt-ėd</td><td>a. emotionally aroused</td></tr>
 <tr><td>stimulating</td><td>stimūlāting</td><td>stim-ul-at-ing</td><td>stim-ūl-āt-ing</td><td>a. rousing or quickening activity or the senses</td></tr>
 <tr><td>stimulation</td><td>stimūlātio̊n</td><td>stim-ul-at-ion</td><td>stim-ūl-āt-io̊n</td><td>n. the act of arousing to action</td></tr>
-<tr><td>stimulative</td><td>stimūlātive</td><td>stim-ul-at-ive</td><td>stim-ūl-āt-ive</td><td>a. capable of arousing or accelerating physiological or psychological activity</td></tr>
+<tr><td>stimulative</td><td>stimūlåtive</td><td>stim-ul-at-ive</td><td>stim-ūl-åt-ive</td><td>a. capable of arousing or accelerating physiological or psychological activity</td></tr>
 <tr><td>stimulator</td><td>stimūlāto̊r</td><td>stim-ul-at-or</td><td>stim-ūl-āt-o̊r</td><td>n. something that stimulates</td></tr>
-<tr><td>stimulatory</td><td>stimūlātorẏ</td><td>stim-ul-at-ory</td><td>stim-ūl-āt-orẏ</td><td>a. serving to stimulate</td></tr>
+<tr><td>stimulatory</td><td>stimūlāto̊rẏ</td><td>stim-ul-at-ory</td><td>stim-ūl-āt-o̊rẏ</td><td>a. serving to stimulate</td></tr>
 <tr><td>overstimulate</td><td>ōve̊rstimūlāte</td><td>over-stim-ul-ate</td><td>ōve̊r-stim-ūl-āte</td><td>vt. to stimulate too much</td></tr>
-<tr><td>overstimulated</td><td>ōve̊rstimūlāt𝕖d</td><td>over-stim-ul-at-ed</td><td>ōve̊r-stim-ūl-āt-𝕖d</td><td>v. stimulate excessively</td></tr>
+<tr><td>overstimulated</td><td>ōve̊rstimūlātėd</td><td>over-stim-ul-at-ed</td><td>ōve̊r-stim-ūl-āt-ėd</td><td>v. stimulate excessively</td></tr>
 <tr><td>overstimulation</td><td>ōve̊rstimūlātio̊n</td><td>over-stim-ul-at-ion</td><td>ōve̊r-stim-ūl-āt-io̊n</td><td>n. excessive stimulation of a person or organism</td></tr>
-<tr><td>abstinence</td><td>absti̊ne̊nce</td><td>ab-stin-ence</td><td>ab-sti̊n-e̊nce</td><td>n. the practice of refraining from something, especially alcohol or sex</td></tr>
-<tr><td>abstinent</td><td>absti̊ne̊nt</td><td>ab-stin-ent</td><td>ab-sti̊n-e̊nt</td><td>a. self-restraining; not indulging an appetite</td></tr>
+<tr><td>abstinence</td><td>abstine̊nce</td><td>ab-stin-ence</td><td>ab-stin-e̊nce</td><td>n. the practice of refraining from something, especially alcohol or sex</td></tr>
+<tr><td>abstinent</td><td>abstine̊nt</td><td>ab-stin-ent</td><td>ab-stin-e̊nt</td><td>a. self-restraining; not indulging an appetite</td></tr>
 <tr><td>destine</td><td>destine</td><td>de-stine</td><td>de-stine</td><td>v. to intend or choose for a particular purpose</td></tr>
 <tr><td>destined</td><td>destin𝕖d</td><td>de-stin-ed</td><td>de-stin-𝕖d</td><td>a. headed or intending to head in a certain direction</td></tr>
 <tr><td>destinies</td><td>destini𝕖ṡ</td><td>de-stin-ies</td><td>de-stin-i𝕖ṡ</td><td></td></tr>
 <tr><td>destiny</td><td>destinẏ</td><td>de-stin-y</td><td>de-stin-ẏ</td><td>n. the events that will necessarily happen to a particular person or thing in the future</td></tr>
 <tr><td>destination</td><td>destinātio̊n</td><td>de-stin-at-ion</td><td>de-stin-āt-io̊n</td><td>n. the place to which someone or something is going</td></tr>
-<tr><td>obstinacy</td><td>obsti̊nåcẏ</td><td>ob-stin-acy</td><td>ob-sti̊n-åcẏ</td><td>n. the trait of being difficult to handle or overcome<br>n. resolute adherence to your own ideas or desires</td></tr>
+<tr><td>obstinacy</td><td>obstinåcẏ</td><td>ob-stin-acy</td><td>ob-stin-åcẏ</td><td>n. the trait of being difficult to handle or overcome<br>n. resolute adherence to your own ideas or desires</td></tr>
 <tr><td>obstinate</td><td>obstinȧte</td><td>ob-stin-ate</td><td>ob-stin-ȧte</td><td>a. stubbornly persistent in wrongdoing</td></tr>
 <tr><td>obstinately</td><td>obstinåt𝕖lẏ</td><td>ob-stin-ate-ly</td><td>ob-stin-åt𝕖-lẏ</td><td>adv. in a stubborn unregenerate manner</td></tr>
 <tr><td>obstinateness</td><td>obstinåt𝕖nėss</td><td>ob-stin-ate-ness</td><td>ob-stin-åt𝕖-nėss</td><td>n. the quality of being stubbornly determined</td></tr>
-<tr><td>predestine</td><td>prēdesti̊ne</td><td>pre-de-stine</td><td>prē-de-sti̊ne</td><td>vt. to determine in advance by divine will</td></tr>
-<tr><td>predestined</td><td>prēdesti̊n𝕖d</td><td>pre-de-stin-ed</td><td>prē-de-sti̊n-𝕖d</td><td>a. established or predetermined unalterably</td></tr>
-<tr><td>predestination</td><td>prēdesti̊nātio̊n</td><td>pre-de-stin-at-ion</td><td>prē-de-sti̊n-āt-io̊n</td><td>n. being determined in advance by fate or divine will</td></tr>
+<tr><td>predestine</td><td>prėdestine</td><td>pre-de-stine</td><td>prė-de-stine</td><td>vt. to determine in advance by divine will</td></tr>
+<tr><td>predestined</td><td>prėdestin𝕖d</td><td>pre-de-stin-ed</td><td>prė-de-stin-𝕖d</td><td>a. established or predetermined unalterably</td></tr>
+<tr><td>predestination</td><td>prėdestinātio̊n</td><td>pre-de-stin-at-ion</td><td>prė-de-stin-āt-io̊n</td><td>n. being determined in advance by fate or divine will</td></tr>
 <tr><td>distinct</td><td>distinct</td><td>di-stinct</td><td>di-stinct</td><td>a. clearly different or separate<br>a. easily seen, heard, or noticed</td></tr>
 <tr><td>distinction</td><td>distinctio̊n</td><td>di-stinct-ion</td><td>di-stinct-io̊n</td><td>n. a distinguishing quality<br>n. a distinguishing difference<br>n. a distinguishing of oneself through excellence</td></tr>
 <tr><td>distinctive</td><td>distinctive</td><td>di-stinct-ive</td><td>di-stinct-ive</td><td>a. characteristic of one particular person or thing</td></tr>
@@ -5856,13 +5856,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>instinct</td><td>instinct</td><td>in-stinct</td><td>in-stinct</td><td>n. a natural tendency to behave in a particular way</td></tr>
 <tr><td>instinctive</td><td>instinctive</td><td>in-stinct-ive</td><td>in-stinct-ive</td><td>a. relating to or prompted by instinct; not thought out</td></tr>
 <tr><td>instincts</td><td>instincts</td><td>in-stinct-s</td><td>in-stinct-s</td><td></td></tr>
-<tr><td>instinctual</td><td>instinctùål</td><td>in-stinct-u-al</td><td>in-stinct-ù-ål</td><td>a. relating to or based on instinct</td></tr>
+<tr><td>instinctual</td><td>instinctūål</td><td>in-stinct-u-al</td><td>in-stinct-ū-ål</td><td>a. relating to or based on instinct</td></tr>
 <tr><td>instinctively</td><td>instinctiv𝕖lẏ</td><td>in-stinct-ive-ly</td><td>in-stinct-iv𝕖-lẏ</td><td>adv. as a matter of instinct; without thinking</td></tr>
 <tr><td>indistinct</td><td>indistinct</td><td>in-di-stinct</td><td>in-di-stinct</td><td>a. not clearly defined or easy to perceive</td></tr>
 <tr><td>indistinctly</td><td>indistinctlẏ</td><td>in-di-stinct-ly</td><td>in-di-stinct-lẏ</td><td>adv. in a dim indistinct manner</td></tr>
 <tr><td>contradistinction</td><td>contrådistinctio̊n</td><td>con-tra-di-stinct-ion</td><td>con-trå-di-stinct-io̊n</td><td>n. a distinction drawn on the basis of contrast</td></tr>
 <tr><td>extinct</td><td>ėxtinct</td><td>ex-tinct</td><td>ėx-tinct</td><td>a. no longer in existence; (of a volcano) inactive</td></tr>
-<tr><td>extinction</td><td>ėxtinctio̊n</td><td>ex-tinct-ion</td><td>ėx-tinct-io̊n</td><td>n. the state of being no longer in existence</td></tr>
+<tr><td>extinction</td><td>extinctio̊n</td><td>ex-tinct-ion</td><td>ex-tinct-io̊n</td><td>n. the state of being no longer in existence</td></tr>
 <tr><td>sting</td><td>sting</td><td>sting</td><td>sting</td><td>n. a kind of pain; something as sudden and painful as being stung<br>v. deliver a sting to</td></tr>
 <tr><td>stung</td><td>stûng</td><td>stung</td><td>stûng</td><td></td></tr>
 <tr><td>stinger</td><td>stinge̊r</td><td>sting-er</td><td>sting-e̊r</td><td>n. a sharp organ of stinging insects</td></tr>
@@ -5870,18 +5870,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stingray</td><td>stingrāy</td><td>sting-ray</td><td>sting-rāy</td><td>n. a venomous ray with large barbed spines near the base of a thin whiplike tail</td></tr>
 <tr><td>stings</td><td>stingṡ</td><td>sting-s</td><td>sting-ṡ</td><td></td></tr>
 <tr><td>stingy</td><td>stingẏ</td><td>sting-y</td><td>sting-ẏ</td><td>a. unwilling to spend</td></tr>
-<tr><td>stingiest</td><td>stingiēst</td><td>sting-i-est</td><td>sting-i-ēst</td><td>a. unwilling to spend<br>a. deficient in amount or quality or extent</td></tr>
-<tr><td>stinginess</td><td>stingĩnėss</td><td>sting-i-ness</td><td>sting-ĩ-nėss</td><td>n. a lack of generosity; a general unwillingness to part with money</td></tr>
+<tr><td>stingiest</td><td>stingiėst</td><td>sting-i-est</td><td>sting-i-ėst</td><td>a. unwilling to spend<br>a. deficient in amount or quality or extent</td></tr>
+<tr><td>stinginess</td><td>stinginėss</td><td>sting-i-ness</td><td>sting-i-nėss</td><td>n. a lack of generosity; a general unwillingness to part with money</td></tr>
 <tr><td>distinguish</td><td>distingùish</td><td>di-sting-u-ish</td><td>di-sting-ù-ish</td><td>v. to recognize or treat as different<br>v. to be a characteristic mark or feature of</td></tr>
 <tr><td>distinguishable</td><td>distingùishåble</td><td>di-sting-u-ish-able</td><td>di-sting-ù-ish-åble</td><td>a. capable of being perceived as different or distinct</td></tr>
 <tr><td>distinguished</td><td>distingùish𝕖ḋ</td><td>di-sting-u-ish-ed</td><td>di-sting-ù-ish-𝕖ḋ</td><td>a. successful and respected by many people</td></tr>
 <tr><td>distinguishing</td><td>distingùishing</td><td>di-sting-u-ish-ing</td><td>di-sting-ù-ish-ing</td><td>a. serving to identify or set apart</td></tr>
-<tr><td>indistinguishable</td><td>indistingùishåble</td><td>in-di-sting-u-ish-able</td><td>in-di-sting-ù-ish-åble</td><td>a. not capable of being distinguished or differentiated</td></tr>
+<tr><td>indistinguishable</td><td>indistinguishåble</td><td>in-di-sting-u-ish-able</td><td>in-di-sting-u-ish-åble</td><td>a. not capable of being distinguished or differentiated</td></tr>
 <tr><td>undistinguished</td><td>ûndistingùish𝕖ḋ</td><td>un-di-sting-u-ish-ed</td><td>ûn-di-sting-ù-ish-𝕖ḋ</td><td>a. not worthy of notice; ordinary</td></tr>
 <tr><td>extinguish</td><td>ėxtingùish</td><td>ex-ting-u-ish</td><td>ėx-ting-ù-ish</td><td>v. to put out a fire; to bring to an end</td></tr>
-<tr><td>extinguished</td><td>ėxtingùish𝕖ḋ</td><td>ex-ting-u-ish-ed</td><td>ėx-ting-ù-ish-𝕖ḋ</td><td>a. of a conditioned response; caused to die out</td></tr>
-<tr><td>extinguisher</td><td>ėxtingùishe̊r</td><td>ex-ting-u-ish-er</td><td>ėx-ting-ù-ish-e̊r</td><td>n. a device for extinguishing small fires</td></tr>
-<tr><td>inextinguishable</td><td>inėxtingùishåble</td><td>in-ex-ting-u-ish-able</td><td>in-ėx-ting-ù-ish-åble</td><td>a. difficult or impossible to extinguish</td></tr>
+<tr><td>extinguished</td><td>extingùish𝕖ḋ</td><td>ex-ting-u-ish-ed</td><td>ex-ting-ù-ish-𝕖ḋ</td><td>a. of a conditioned response; caused to die out</td></tr>
+<tr><td>extinguisher</td><td>extingùishe̊r</td><td>ex-ting-u-ish-er</td><td>ex-ting-ù-ish-e̊r</td><td>n. a device for extinguishing small fires</td></tr>
+<tr><td>inextinguishable</td><td>inėxtinguishåble</td><td>in-ex-ting-u-ish-able</td><td>in-ėx-ting-u-ish-åble</td><td>a. difficult or impossible to extinguish</td></tr>
 <tr><td>stank</td><td>stank</td><td>stank</td><td>stank</td><td></td></tr>
 <tr><td>stink</td><td>stink</td><td>stink</td><td>stink</td><td>v. be extremely bad in quality or in one&#x27;s performance<br>n. a strong offensive odor</td></tr>
 <tr><td>stunk</td><td>stûnk</td><td>stunk</td><td>stûnk</td><td></td></tr>
@@ -5899,9 +5899,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stipulate</td><td>stipūlāte</td><td>stip-ul-ate</td><td>stip-ūl-āte</td><td>v. to specify as a requirement in an agreement</td></tr>
 <tr><td>stipulated</td><td>stipūlātėd</td><td>stip-ul-at-ed</td><td>stip-ūl-āt-ėd</td><td>v. specify as a condition or requirement in a contract or agreement</td></tr>
 <tr><td>stipulation</td><td>stipūlātio̊n</td><td>stip-ul-at-ion</td><td>stip-ūl-āt-io̊n</td><td>n. a restriction insisted upon as a condition</td></tr>
-<tr><td>constipate</td><td>consti̊pāte</td><td>con-stip-ate</td><td>con-sti̊p-āte</td><td>v. cause to be constipated</td></tr>
-<tr><td>constipated</td><td>consti̊pāt𝕖d</td><td>con-stip-at-ed</td><td>con-sti̊p-āt-𝕖d</td><td>a. have difficult or incomplete or infrequent evacuation of the bowels</td></tr>
-<tr><td>constipation</td><td>consti̊pātio̊n</td><td>con-stip-at-ion</td><td>con-sti̊p-āt-io̊n</td><td>n. irregular and infrequent or difficult evacuation of the bowels</td></tr>
+<tr><td>constipate</td><td>constipāte</td><td>con-stip-ate</td><td>con-stip-āte</td><td>v. cause to be constipated</td></tr>
+<tr><td>constipated</td><td>constipātėd</td><td>con-stip-at-ed</td><td>con-stip-āt-ėd</td><td>a. have difficult or incomplete or infrequent evacuation of the bowels</td></tr>
+<tr><td>constipation</td><td>constipātio̊n</td><td>con-stip-at-ion</td><td>con-stip-āt-io̊n</td><td>n. irregular and infrequent or difficult evacuation of the bowels</td></tr>
 <tr><td>stir</td><td>sti̊r</td><td>stir</td><td>sti̊r</td><td>v. move a spoon or implement around in a liquid to mix it<br>v. cause to move slightly<br>n. a feeling of excitement or agitation</td></tr>
 <tr><td>stirred</td><td>sti̊rr𝕖d</td><td>stirr-ed</td><td>sti̊rr-𝕖d</td><td></td></tr>
 <tr><td>stirrer</td><td>sti̊rre̊r</td><td>stirr-er</td><td>sti̊rr-e̊r</td><td>n. an implement used for stirring</td></tr>
@@ -5911,21 +5911,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>astir</td><td>åsti̊r</td><td>a-stir</td><td>å-sti̊r</td><td>a. out of bed and moving about; stirring</td></tr>
 <tr><td>bestir</td><td>bėsti̊r</td><td>be-stir</td><td>bė-sti̊r</td><td>v. become active</td></tr>
 <tr><td>extirpate</td><td>exti̊rpāte</td><td>ex-tirp-ate</td><td>ex-ti̊rp-āte</td><td>v. to destroy completely; to root out</td></tr>
-<tr><td>extirpation</td><td>extirpātio̊n</td><td>ex-tirp-at-ion</td><td>ex-tirp-āt-io̊n</td><td>n. the act of pulling up or out; uprooting; cutting off from existence</td></tr>
+<tr><td>extirpation</td><td>exti̊rpātio̊n</td><td>ex-tirp-at-ion</td><td>ex-ti̊rp-āt-io̊n</td><td>n. the act of pulling up or out; uprooting; cutting off from existence</td></tr>
 <tr><td>stirrup</td><td>sti̊rrůp</td><td>stirrup</td><td>sti̊rrůp</td><td>n. support consisting of metal loops for a rider&#x27;s feet</td></tr>
 <tr><td>constitute</td><td>constitūte</td><td>con-stit-ute</td><td>con-stit-ūte</td><td>v. form or compose<br>v. set up or lay the rules of<br>v. to constitute or comprise</td></tr>
 <tr><td>constituency</td><td>co̊nstitūe̊ncẏ</td><td>con-stit-u-ency</td><td>co̊n-stit-ū-e̊ncẏ</td><td>n. a body of voters in a specified area who elect a representative</td></tr>
 <tr><td>constituent</td><td>co̊nstitūe̊nt</td><td>con-stit-u-ent</td><td>co̊n-stit-ū-e̊nt</td><td>n. a part of a whole<br>n. a voter in a district<br>a. forming a part of something</td></tr>
-<tr><td>constituted</td><td>consti̊tūt𝕖d</td><td>con-stit-ut-ed</td><td>con-sti̊t-ūt-𝕖d</td><td>v. to form or compose; to set up</td></tr>
+<tr><td>constituted</td><td>constitūtėd</td><td>con-stit-ut-ed</td><td>con-stit-ūt-ėd</td><td>v. to form or compose; to set up</td></tr>
 <tr><td>constitution</td><td>constitūtio̊n</td><td>con-stit-ut-ion</td><td>con-stit-ūt-io̊n</td><td>n. the system of laws of a country<br>n. the physical character of the body</td></tr>
 <tr><td>constitutive</td><td>constitūtive</td><td>con-stit-ut-ive</td><td>con-stit-ūt-ive</td><td>a. forming an essential part of something</td></tr>
-<tr><td>constitutional</td><td>consti̊tūtio̊nål</td><td>con-stit-ut-ion-al</td><td>con-sti̊t-ūt-io̊n-ål</td><td>a. sanctioned by or consistent with the fundamental political principles of a government<br>n. a regular walk taken as a form of exercise</td></tr>
+<tr><td>constitutional</td><td>constitūtio̊nål</td><td>con-stit-ut-ion-al</td><td>con-stit-ūt-io̊n-ål</td><td>a. sanctioned by or consistent with the fundamental political principles of a government<br>n. a regular walk taken as a form of exercise</td></tr>
 <tr><td>constitutionalism</td><td>constitūtio̊nåliṡm</td><td>con-stit-ut-ion-al-ism</td><td>con-stit-ūt-io̊n-ål-iṡm</td><td>n. a constitutional system of government<br>n. advocacy of a system of government according to constitutional principles</td></tr>
-<tr><td>constitutionalist</td><td>consti̊tūtio̊nålist</td><td>con-stit-ut-ion-al-ist</td><td>con-sti̊t-ūt-io̊n-ål-ist</td><td>n. an advocate of constitutional government</td></tr>
+<tr><td>constitutionalist</td><td>constitūtio̊nålist</td><td>con-stit-ut-ion-al-ist</td><td>con-stit-ūt-io̊n-ål-ist</td><td>n. an advocate of constitutional government</td></tr>
 <tr><td>constitutionality</td><td>constitūtio̊nalitẏ</td><td>con-stit-ut-ion-al-ity</td><td>con-stit-ūt-io̊n-al-itẏ</td><td>n. the state of being consistent with the constitution</td></tr>
-<tr><td>constitutionally</td><td>consti̊tūtio̊nållẏ</td><td>con-stit-ut-ion-al-ly</td><td>con-sti̊t-ūt-io̊n-ål-lẏ</td><td>adv. according to the constitution</td></tr>
-<tr><td>destitute</td><td>desti̊tūte</td><td>de-stit-ute</td><td>de-sti̊t-ūte</td><td>a. poor enough to need help from others</td></tr>
-<tr><td>destitution</td><td>desti̊tūtio̊n</td><td>de-stit-ut-ion</td><td>de-sti̊t-ūt-io̊n</td><td>n. a state without friends or money or prospects</td></tr>
+<tr><td>constitutionally</td><td>constitūtio̊nållẏ</td><td>con-stit-ut-ion-al-ly</td><td>con-stit-ūt-io̊n-ål-lẏ</td><td>adv. according to the constitution</td></tr>
+<tr><td>destitute</td><td>destitūte</td><td>de-stit-ute</td><td>de-stit-ūte</td><td>a. poor enough to need help from others</td></tr>
+<tr><td>destitution</td><td>destitūtio̊n</td><td>de-stit-ut-ion</td><td>de-stit-ūt-io̊n</td><td>n. a state without friends or money or prospects</td></tr>
 <tr><td>institute</td><td>institūte</td><td>in-stit-ute</td><td>in-stit-ūte</td><td>n. an organization for a particular purpose, especially scientific or educational<br>v. to start or establish something</td></tr>
 <tr><td>interstitial</td><td>inte̊rstitiål</td><td>inter-stit-i-al</td><td>inte̊r-stit-i-ål</td><td>a. of or relating to interstices</td></tr>
 <tr><td>institution</td><td>institūtio̊n</td><td>in-stit-ut-ion</td><td>in-stit-ūt-io̊n</td><td>n. a large organization established for a particular purpose<br>n. a custom or practice that has existed for a long time</td></tr>
@@ -5936,31 +5936,31 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>institutionalize</td><td>institūtio̊nålīze</td><td>in-stit-ut-ion-al-ize</td><td>in-stit-ūt-io̊n-ål-īze</td><td>v. to make something a normal part of an institution</td></tr>
 <tr><td>institutionally</td><td>institūtio̊nållẏ</td><td>in-stit-ut-ion-al-ly</td><td>in-stit-ūt-io̊n-ål-lẏ</td><td>adv. by or from an institution</td></tr>
 <tr><td>institutionalized</td><td>institūtio̊nålīz𝕖d</td><td>in-stit-ut-ion-al-iz-ed</td><td>in-stit-ūt-io̊n-ål-īz-𝕖d</td><td>a. established as a norm or institution</td></tr>
-<tr><td>institutionalization</td><td>institūtio̊nålizātio̊n</td><td>in-stitut-ion-al-iz-at-ion</td><td>in-stitūt-io̊n-ål-iz-āt-io̊n</td><td>n. the process of making something an institution</td></tr>
-<tr><td>prostitute</td><td>prosti̊tūte</td><td>pro-stit-ute</td><td>pro-sti̊t-ūte</td><td>n. a person who has sex for money</td></tr>
+<tr><td>institutionalization</td><td>institūtio̊nålīzātio̊n</td><td>in-stitut-ion-al-iz-at-ion</td><td>in-stitūt-io̊n-ål-īz-āt-io̊n</td><td>n. the process of making something an institution</td></tr>
+<tr><td>prostitute</td><td>prostitūte</td><td>pro-stit-ute</td><td>pro-stit-ūte</td><td>n. a person who has sex for money</td></tr>
 <tr><td>prostituted</td><td>prostitūtėd</td><td>pro-stit-ut-ed</td><td>pro-stit-ūt-ėd</td><td>v. sell one&#x27;s body; exchange sex for money</td></tr>
-<tr><td>prostitution</td><td>prosti̊tūtio̊n</td><td>pro-stit-ut-ion</td><td>pro-sti̊t-ūt-io̊n</td><td>n. offering sexual intercourse for pay</td></tr>
+<tr><td>prostitution</td><td>prostitūtio̊n</td><td>pro-stit-ut-ion</td><td>pro-stit-ūt-io̊n</td><td>n. offering sexual intercourse for pay</td></tr>
 <tr><td>prostitutes</td><td>prostitūt𝕖s</td><td>pro-stit-ute-s</td><td>pro-stit-ūt𝕖-s</td><td></td></tr>
-<tr><td>restitution</td><td>restitūtio̊n</td><td>re-stit-ut-ion</td><td>re-stit-ūt-io̊n</td><td>n. the act of restoring something to its original state<br>n. getting something back again</td></tr>
+<tr><td>restitution</td><td>rėstitūtio̊n</td><td>re-stit-ut-ion</td><td>rė-stit-ūt-io̊n</td><td>n. the act of restoring something to its original state<br>n. getting something back again</td></tr>
 <tr><td>superstition</td><td>sūpe̊rstitio̊n</td><td>super-stit-ion</td><td>sūpe̊r-stit-io̊n</td><td>n. an irrational belief arising from ignorance or fear</td></tr>
 <tr><td>superstitious</td><td>sūpe̊rstitio̊us</td><td>super-stit-ious</td><td>sūpe̊r-stit-io̊us</td><td>a. believing in or influenced by superstition</td></tr>
 <tr><td>substitute</td><td>sûbstitūte</td><td>sub-stit-ute</td><td>sûb-stit-ūte</td><td>n. a person or thing taking the place of another<br>v. to replace one thing with another</td></tr>
 <tr><td>substitutable</td><td>sûbstitūtåble</td><td>sub-stit-ut-able</td><td>sûb-stit-ūt-åble</td><td>a. capable of being exchanged for another</td></tr>
-<tr><td>substituted</td><td>sûbsti̊tūt𝕖d</td><td>sub-stit-ut-ed</td><td>sûb-sti̊t-ūt-𝕖d</td><td>v. put in the place of another; switch seemingly equivalent items</td></tr>
+<tr><td>substituted</td><td>sûbstitūtėd</td><td>sub-stit-ut-ed</td><td>sûb-stit-ūt-ėd</td><td>v. put in the place of another; switch seemingly equivalent items</td></tr>
 <tr><td>substitution</td><td>sûbstitūtio̊n</td><td>sub-stit-ut-ion</td><td>sûb-stit-ūt-io̊n</td><td>n. the act of replacing one thing with another</td></tr>
 <tr><td>substitutive</td><td>sûbstitūtive</td><td>sub-stit-ut-ive</td><td>sûb-stit-ūt-ive</td><td>a. serving as a substitute; capable of being substituted</td></tr>
 <tr><td>superstitiously</td><td>sūpe̊rstitio̊uslẏ</td><td>super-stit-ious-ly</td><td>sūpe̊r-stit-io̊us-lẏ</td><td>adv. in a superstitious manner</td></tr>
 <tr><td>substitutionary</td><td>sûbstitūtio̊nårẏ</td><td>sub-stit-ut-ion-ary</td><td>sûb-stit-ūt-io̊n-årẏ</td><td>a. of or pertaining to substitution</td></tr>
-<tr><td>substitutability</td><td>sûbsti̊tūtåbilitẏ</td><td>sub-stit-ut-abil-ity</td><td>sûb-sti̊t-ūt-åbil-itẏ</td><td>n. exchangeability by virtue of being replaceable</td></tr>
+<tr><td>substitutability</td><td>sûbstitūtåbilitẏ</td><td>sub-stit-ut-abil-ity</td><td>sûb-stit-ūt-åbil-itẏ</td><td>n. exchangeability by virtue of being replaceable</td></tr>
 <tr><td>interinstitutional</td><td>inte̊rinstitūtio̊nål</td><td>inter-in-stit-ut-ion-al</td><td>inte̊r-in-stit-ūt-io̊n-ål</td><td>a. relating to or involving multiple institutions</td></tr>
 <tr><td>noninstitutionalized</td><td>noninstitūtio̊nålīz𝕖d</td><td>non-in-stit-ut-ion-al-iz-ed</td><td>non-in-stit-ūt-io̊n-ål-īz-𝕖d</td><td>a. not placed in an institution</td></tr>
-<tr><td>reconstitute</td><td>rēconsti̊tūte</td><td>re-con-stit-ute</td><td>rē-con-sti̊t-ūte</td><td>v construct or form anew or provide with a new structure</td></tr>
-<tr><td>reconstituted</td><td>rēconsti̊tūtėd</td><td>re-con-stit-ut-ed</td><td>rē-con-sti̊t-ūt-ėd</td><td>v. construct or form anew or provide with a new structure</td></tr>
+<tr><td>reconstitute</td><td>rēconstitūte</td><td>re-con-stit-ute</td><td>rē-con-stit-ūte</td><td>v construct or form anew or provide with a new structure</td></tr>
+<tr><td>reconstituted</td><td>rēconstitūtėd</td><td>re-con-stit-ut-ed</td><td>rē-con-stit-ūt-ėd</td><td>v. construct or form anew or provide with a new structure</td></tr>
 <tr><td>reconstitution</td><td>rēconstitūtio̊n</td><td>re-con-stit-ut-ion</td><td>rē-con-stit-ūt-io̊n</td><td>n. the act of constituting again or anew</td></tr>
 <tr><td>reinstitution</td><td>rēinstitūtio̊n</td><td>re-in-stit-ut-ion</td><td>rē-in-stit-ūt-io̊n</td><td>n. the act of instituting again</td></tr>
-<tr><td>unconstitutional</td><td>ûnconsti̊tūtio̊nål</td><td>un-con-stit-ut-ion-al</td><td>ûn-con-sti̊t-ūt-io̊n-ål</td><td>a. not consistent with or according to a constitution</td></tr>
+<tr><td>unconstitutional</td><td>ûnconstitūtio̊nål</td><td>un-con-stit-ut-ion-al</td><td>ûn-con-stit-ūt-io̊n-ål</td><td>a. not consistent with or according to a constitution</td></tr>
 <tr><td>unconstitutionality</td><td>ûnconstitūtio̊nalitẏ</td><td>un-con-stit-ut-ion-al-ity</td><td>ûn-con-stit-ūt-io̊n-al-itẏ</td><td>n. the status of being contrary to the constitution</td></tr>
-<tr><td>unconstitutionally</td><td>ûnconsti̊tūtio̊nållẏ</td><td>un-con-stit-ut-ion-al-ly</td><td>ûn-con-sti̊t-ūt-io̊n-ål-lẏ</td><td>adv. in an unconstitutional manner</td></tr>
+<tr><td>unconstitutionally</td><td>ûnconstitūtio̊nållẏ</td><td>un-con-stit-ut-ion-al-ly</td><td>ûn-con-stit-ūt-io̊n-ål-lẏ</td><td>adv. in an unconstitutional manner</td></tr>
 <tr><td>stitch</td><td>stitch</td><td>stitch</td><td>stitch</td><td>n. a loop of thread made by a needle in sewing<br>v. join or mend by means of stitches</td></tr>
 <tr><td>stitched</td><td>stitch𝕖ḋ</td><td>stitch-ed</td><td>stitch-𝕖ḋ</td><td>a. fastened with stitches</td></tr>
 <tr><td>stitcher</td><td>stitche̊r</td><td>stitch-er</td><td>stitch-e̊r</td><td>n. a garmentmaker who performs the finishing steps</td></tr>
@@ -5989,29 +5989,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>livestock</td><td>līv𝕖stock</td><td>live-stock</td><td>līv𝕖-stock</td><td>n. animals kept on a farm for use or profit</td></tr>
 <tr><td>overstock</td><td>ōve̊rstock</td><td>over-stock</td><td>ōve̊r-stock</td><td>v. stock excessively</td></tr>
 <tr><td>overstocked</td><td>ōve̊rstock𝕖ḋ</td><td>over-stock-ed</td><td>ōve̊r-stock-𝕖ḋ</td><td>v. stock excessively (overstock的过去式和过去分词)<br>a. having too much stock</td></tr>
-<tr><td>restock</td><td>rēstock</td><td>re-stock</td><td>rē-stock</td><td>v. to stock again</td></tr>
-<tr><td>restocking</td><td>rēstocking</td><td>re-stock-ing</td><td>rē-stock-ing</td><td>v. stock again</td></tr>
+<tr><td>restock</td><td>rėstock</td><td>re-stock</td><td>rė-stock</td><td>v. to stock again</td></tr>
+<tr><td>restocking</td><td>rėstocking</td><td>re-stock-ing</td><td>rė-stock-ing</td><td>v. stock again</td></tr>
 <tr><td>laughingstock</td><td>làughingstock</td><td>laugh-ing-stock</td><td>làugh-ing-stock</td><td>n. a victim of ridicule or pranks</td></tr>
 <tr><td>stodge</td><td>stodge</td><td>stodge</td><td>stodge</td><td>n. heavy, dull food</td></tr>
 <tr><td>stodgy</td><td>stodgẏ</td><td>stodg-y</td><td>stodg-ẏ</td><td>a. heavy and starchy and hard to digest<br>a. excessively conventional and unimaginative and hence dull</td></tr>
-<tr><td>stogie</td><td>stōgiē</td><td>stogie</td><td>stōgiē</td><td>n. a cheap cigar</td></tr>
+<tr><td>stogie</td><td>stōgie</td><td>stogie</td><td>stōgie</td><td>n. a cheap cigar</td></tr>
 <tr><td>stoic</td><td>stōic</td><td>stoic</td><td>stōic</td><td>n. someone who can endure pain or hardship without showing feelings</td></tr>
 <tr><td>stoical</td><td>stōicål</td><td>stoic-al</td><td>stōic-ål</td><td>a. seeming unaffected by pleasure or pain; impassive</td></tr>
-<tr><td>stoicism</td><td>stōi̊ciṡm</td><td>stoic-ism</td><td>stōi̊c-iṡm</td><td>n. the endurance of pain or hardship without a display of feelings and without complaint</td></tr>
+<tr><td>stoicism</td><td>stōiciṡm</td><td>stoic-ism</td><td>stōic-iṡm</td><td>n. the endurance of pain or hardship without a display of feelings and without complaint</td></tr>
 <tr><td>stoically</td><td>stōicållẏ</td><td>stoic-al-ly</td><td>stōic-ål-lẏ</td><td>adv. without emotion; in a stoic manner</td></tr>
 <tr><td>stoke</td><td>stōke</td><td>stoke</td><td>stōke</td><td>v. to stir up or tend a fire</td></tr>
 <tr><td>stoker</td><td>stōke̊r</td><td>stok-er</td><td>stōk-e̊r</td><td>n. a laborer who tends fires (as on a coal-fired train or steamship)<br>n. a mechanical device for stoking a furnace</td></tr>
-<tr><td>stolid</td><td>stoli̊d</td><td>stolid</td><td>stoli̊d</td><td>a. having or revealing little emotion; not easily aroused</td></tr>
+<tr><td>stolid</td><td>stolid</td><td>stolid</td><td>stolid</td><td>a. having or revealing little emotion; not easily aroused</td></tr>
 <tr><td>stolidly</td><td>stolidlẏ</td><td>stolid-ly</td><td>stolid-lẏ</td><td>adv. in a stolid manner</td></tr>
-<tr><td>apostolate</td><td>åpostōlåte</td><td>apo-stol-ate</td><td>åpo-stōl-åte</td><td>n. the office or mission of an apostle</td></tr>
-<tr><td>apostolic</td><td>apostolic</td><td>apo-stol-ic</td><td>apo-stol-ic</td><td>a. of or relating to or deriving from the Apostles or their teachings</td></tr>
-<tr><td>epistolary</td><td>ėpisto̊larẏ</td><td>epi-stol-ary</td><td>ėpi-sto̊l-arẏ</td><td>a. written in the form of or carried on by letters or correspondence</td></tr>
+<tr><td>apostolate</td><td>åposto̊lāte</td><td>apo-stol-ate</td><td>åpo-sto̊l-āte</td><td>n. the office or mission of an apostle</td></tr>
+<tr><td>apostolic</td><td>åpostolic</td><td>apo-stol-ic</td><td>åpo-stol-ic</td><td>a. of or relating to or deriving from the Apostles or their teachings</td></tr>
+<tr><td>epistolary</td><td>ėpistōlårẏ</td><td>epi-stol-ary</td><td>ėpi-stōl-årẏ</td><td>a. written in the form of or carried on by letters or correspondence</td></tr>
 <tr><td>diastolic</td><td>dīåstolic</td><td>di-a-stol-ic</td><td>dī-å-stol-ic</td><td>a. of or relating to a diastole or happening during a diastole</td></tr>
 <tr><td>stomach</td><td>stômåch</td><td>stomach</td><td>stômåch</td><td>n. a muscular saclike organ of the digestive system; the principal organ of digestion<br>v. bear to eat</td></tr>
 <tr><td>stomachache</td><td>stômåc𝕙āc𝕙e</td><td>stomach-ache</td><td>stômåc𝕙-āc𝕙e</td><td>n. an ache localized in the stomach or abdominal region</td></tr>
 <tr><td>stomachs</td><td>stômåchs</td><td>stomach-s</td><td>stômåch-s</td><td></td></tr>
-<tr><td>stomatal</td><td>stōmātål</td><td>stom-at-al</td><td>stōm-āt-ål</td><td>a. relating to or of the nature of or having a mouth or mouthlike opening<br>a. relating to or constituting plant stomata</td></tr>
-<tr><td>anastomosis</td><td>anåsto̊mōsis</td><td>ana-stom-osis</td><td>anå-sto̊m-ōsis</td><td>n. a natural or surgical joining of parts of tubular structures</td></tr>
+<tr><td>stomatal</td><td>stomatål</td><td>stom-at-al</td><td>stom-at-ål</td><td>a. relating to or of the nature of or having a mouth or mouthlike opening<br>a. relating to or constituting plant stomata</td></tr>
+<tr><td>anastomosis</td><td>anasto̊mōsis</td><td>ana-stom-osis</td><td>ana-sto̊m-ōsis</td><td>n. a natural or surgical joining of parts of tubular structures</td></tr>
 <tr><td>colostomy</td><td>co̊losto̊mẏ</td><td>col-o-stom-y</td><td>co̊l-o-sto̊m-ẏ</td><td>n. a surgical operation that creates an opening from the colon to the surface of the body</td></tr>
 <tr><td>ileostomy</td><td>ilėosto̊mẏ</td><td>ile-o-stom-y</td><td>ilė-o-sto̊m-ẏ</td><td>n. surgical creation of an opening from the ileum through the abdominal wall as an anus</td></tr>
 <tr><td>tracheostomy</td><td>trāc𝕙ėosto̊mẏ</td><td>trache-o-stom-y</td><td>trāc𝕙ė-o-sto̊m-ẏ</td><td>n. a surgical operation creating an opening into the trachea to provide a passage for air</td></tr>
@@ -6021,19 +6021,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stomping</td><td>stomping</td><td>stomp-ing</td><td>stomp-ing</td><td>v. walk heavily</td></tr>
 <tr><td>stomps</td><td>stomps</td><td>stomp-s</td><td>stomp-s</td><td></td></tr>
 <tr><td>stone</td><td>stōne</td><td>stone</td><td>stōne</td><td>n. a hard solid piece of mineral matter<br>n. a small piece of rock<br>vt. to throw stones at</td></tr>
-<tr><td>Stonehenge</td><td>Stōnehenge</td><td>Stonehenge</td><td>Stōnehenge</td><td>n. a prehistoric monument in England</td></tr>
+<tr><td>Stonehenge</td><td>Stōn𝕖henge</td><td>Stonehenge</td><td>Stōn𝕖henge</td><td>n. a prehistoric monument in England</td></tr>
 <tr><td>stoned</td><td>stōn𝕖d</td><td>ston-ed</td><td>stōn-𝕖d</td><td>v. to kill by throwing stones at; to remove the pits from<br>a. under the influence of narcotics</td></tr>
 <tr><td>stoner</td><td>stōne̊r</td><td>ston-er</td><td>stōn-e̊r</td><td>n. someone who habitually smokes marijuana (informal)</td></tr>
-<tr><td>stonefly</td><td>stōneflȳ</td><td>stone-fly</td><td>stōne-flȳ</td><td>n. a primitive winged insect with a flattened body</td></tr>
+<tr><td>stonefly</td><td>stōn𝕖flȳ</td><td>stone-fly</td><td>stōn𝕖-flȳ</td><td>n. a primitive winged insect with a flattened body</td></tr>
 <tr><td>stoning</td><td>stōning</td><td>ston-ing</td><td>stōn-ing</td><td>n. the act of pelting with stones</td></tr>
-<tr><td>stonemason</td><td>stōnemāso̊n</td><td>stone-mason</td><td>stōne-māso̊n</td><td>n. a craftsman who works with stone or brick</td></tr>
+<tr><td>stonemason</td><td>stōn𝕖māso̊n</td><td>stone-mason</td><td>stōn𝕖-māso̊n</td><td>n. a craftsman who works with stone or brick</td></tr>
 <tr><td>stones</td><td>stōn𝕖ṡ</td><td>stone-s</td><td>stōn𝕖-ṡ</td><td></td></tr>
-<tr><td>stonewall</td><td>stōnewãll</td><td>stone-wall</td><td>stōne-wãll</td><td>v. to obstruct or delay by refusing to cooperate</td></tr>
-<tr><td>stoneware</td><td>stōneware</td><td>stone-ware</td><td>stōne-ware</td><td>n. ceramic ware fired at high heat</td></tr>
-<tr><td>stonework</td><td>stōnewo̊rk</td><td>stone-work</td><td>stōne-wo̊rk</td><td>n. masonry done with stone</td></tr>
+<tr><td>stonewall</td><td>stōn𝕖wãll</td><td>stone-wall</td><td>stōn𝕖-wãll</td><td>v. to obstruct or delay by refusing to cooperate</td></tr>
+<tr><td>stoneware</td><td>stōn𝕖wāre</td><td>stone-ware</td><td>stōn𝕖-wāre</td><td>n. ceramic ware fired at high heat</td></tr>
+<tr><td>stonework</td><td>stōn𝕖wo̊rk</td><td>stone-work</td><td>stōn𝕖-wo̊rk</td><td>n. masonry done with stone</td></tr>
 <tr><td>stony</td><td>stōnẏ</td><td>ston-y</td><td>stōn-ẏ</td><td>a. covered with stones; showing no sympathy</td></tr>
-<tr><td>stonecutter</td><td>stōnecûtte̊r</td><td>stone-cutt-er</td><td>stōne-cûtt-e̊r</td><td>n. someone who cuts or carves stone</td></tr>
-<tr><td>stonewalling</td><td>stōnewãlling</td><td>stone-wall-ing</td><td>stōne-wãll-ing</td><td>n. stalling or delaying especially by refusing to answer questions or cooperate</td></tr>
+<tr><td>stonecutter</td><td>stōn𝕖cûtte̊r</td><td>stone-cutt-er</td><td>stōn𝕖-cûtt-e̊r</td><td>n. someone who cuts or carves stone</td></tr>
+<tr><td>stonewalling</td><td>stōn𝕖wãlling</td><td>stone-wall-ing</td><td>stōn𝕖-wãll-ing</td><td>n. stalling or delaying especially by refusing to answer questions or cooperate</td></tr>
 <tr><td>stonily</td><td>stōnilẏ</td><td>ston-i-ly</td><td>stōn-i-lẏ</td><td>adv. in a stony manner</td></tr>
 <tr><td>astonish</td><td>åstonish</td><td>a-ston-ish</td><td>å-ston-ish</td><td>v. affect with wonder</td></tr>
 <tr><td>astonished</td><td>åstonish𝕖ḋ</td><td>a-ston-ish-ed</td><td>å-ston-ish-𝕖ḋ</td><td>a. filled with sudden surprise or wonder</td></tr>
@@ -6051,7 +6051,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>moonstone</td><td>moonstōne</td><td>moon-stone</td><td>moon-stōne</td><td>n. a transparent or translucent gemstone with a pearly luster</td></tr>
 <tr><td>mudstone</td><td>mûdstōne</td><td>mud-stone</td><td>mûd-stōne</td><td>n. a fine-grained sedimentary rock</td></tr>
 <tr><td>rhinestone</td><td>r𝕙īn𝕖stōne</td><td>rhine-stone</td><td>r𝕙īn𝕖-stōne</td><td>n. an imitation diamond made from rock crystal or glass or paste</td></tr>
-<tr><td>tombstone</td><td>tom𝕓stōne</td><td>tomb-stone</td><td>tom𝕓-stōne</td><td>n. a stone that is used to mark a grave</td></tr>
+<tr><td>tombstone</td><td>tõm𝕓stōne</td><td>tomb-stone</td><td>tõm𝕓-stōne</td><td>n. a stone that is used to mark a grave</td></tr>
 <tr><td>cornerstone</td><td>corne̊rstōne</td><td>corn-er-stone</td><td>corn-e̊r-stōne</td><td>n. a stone forming the base of a building<br>n. the fundamental part of something</td></tr>
 <tr><td>stooge</td><td>stooge</td><td>stooge</td><td>stooge</td><td>n. a person of unquestioning obedience<br>v. act as the stooge</td></tr>
 <tr><td>stool</td><td>stool</td><td>stool</td><td>stool</td><td>n. a seat without a back or arms</td></tr>
@@ -6068,7 +6068,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stopover</td><td>stopōve̊r</td><td>stop-over</td><td>stop-ōve̊r</td><td>n. a stopping place on a journey</td></tr>
 <tr><td>stoppage</td><td>stoppȧge</td><td>stop-page</td><td>stop-pȧge</td><td>n. the state of inactivity following an interruption; an obstruction</td></tr>
 <tr><td>stops</td><td>stops</td><td>stop-s</td><td>stop-s</td><td></td></tr>
-<tr><td>stopwatch</td><td>stopwàtch</td><td>stop-watch</td><td>stop-wàtch</td><td>n. a timepiece that can be started or stopped for exact timing</td></tr>
+<tr><td>stopwatch</td><td>stopwãtch</td><td>stop-watch</td><td>stop-wãtch</td><td>n. a timepiece that can be started or stopped for exact timing</td></tr>
 <tr><td>non-stop</td><td></td><td>non-stop</td><td></td><td>a. without stopping<br>adv. without a break</td></tr>
 <tr><td>nonstop</td><td>nonstop</td><td>non-stop</td><td>non-stop</td><td>a. occurring without stops<br>adv. without stopping</td></tr>
 <tr><td>unstoppable</td><td>ûnstoppåble</td><td>un-stopp-able</td><td>ûn-stopp-åble</td><td>a. not capable of being stopped</td></tr>
@@ -6078,27 +6078,27 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>storage</td><td>storȧge</td><td>stor-age</td><td>stor-ȧge</td><td>n. the act of storing something<br>n. the commercial enterprise of storing goods and materials</td></tr>
 <tr><td>stored</td><td>stor𝕖d</td><td>stor-ed</td><td>stor-𝕖d</td><td>a. kept for future use</td></tr>
 <tr><td>storey</td><td>storėy</td><td>stor-ey</td><td>stor-ėy</td><td>n. a room or set of rooms at a single position along a vertical scale</td></tr>
-<tr><td>storefront</td><td>stor𝕖front</td><td>store-front</td><td>stor𝕖-front</td><td>n. the front side of a store facing the street</td></tr>
+<tr><td>storefront</td><td>stor𝕖frônt</td><td>store-front</td><td>stor𝕖-frônt</td><td>n. the front side of a store facing the street</td></tr>
 <tr><td>storehouse</td><td>stor𝕖hòuse</td><td>store-house</td><td>stor𝕖-hòuse</td><td>n. a depository for goods</td></tr>
-<tr><td>storeroom</td><td>store̊room</td><td>store-room</td><td>store̊-room</td><td>n. a room in which things are stored</td></tr>
+<tr><td>storeroom</td><td>stor𝕖room</td><td>store-room</td><td>stor𝕖-room</td><td>n. a room in which things are stored</td></tr>
 <tr><td>stores</td><td>stor𝕖ṡ</td><td>store-s</td><td>stor𝕖-ṡ</td><td></td></tr>
-<tr><td>storied</td><td>storĩ𝕖d</td><td>stor-i-ed</td><td>stor-ĩ-𝕖d</td><td>a. having stories as indicated</td></tr>
+<tr><td>storied</td><td>stori𝕖d</td><td>stor-i-ed</td><td>stor-i-𝕖d</td><td>a. having stories as indicated</td></tr>
 <tr><td>storiette</td><td>storiette</td><td>stor-i-ette</td><td>stor-i-ette</td><td>n. a short story</td></tr>
 <tr><td>storekeeper</td><td>stor𝕖kēepe̊r</td><td>store-keep-er</td><td>stor𝕖-kēep-e̊r</td><td>n. a merchant who owns or manages a shop</td></tr>
 <tr><td>drugstore</td><td>drûgstore</td><td>drug-store</td><td>drûg-store</td><td>n. a shop that sells medicines and other goods</td></tr>
 <tr><td>historicized</td><td>historicīz𝕖d</td><td>hi-stor-ic-iz-ed</td><td>hi-stor-ic-īz-𝕖d</td><td>v. to treat as a historical subject</td></tr>
 <tr><td>megastore</td><td>megåstore</td><td>mega-store</td><td>megå-store</td><td>n. a very large store selling a wide range of products</td></tr>
-<tr><td>multi-storey</td><td>mûlti-storey</td><td>multi-stor-ey</td><td>mûlti-stor-ey</td><td>a. having many floors or stories</td></tr>
+<tr><td>multi-storey</td><td>mûlti-storėy</td><td>multi-stor-ey</td><td>mûlti-stor-ėy</td><td>a. having many floors or stories</td></tr>
 <tr><td>restore</td><td>rėstore</td><td>re-store</td><td>rė-store</td><td>v. return to its original or usable and functioning condition<br>v. give or bring back<br>v. bring back into original existence, use, function, or position</td></tr>
 <tr><td>restored</td><td>rėstor𝕖d</td><td>re-stor-ed</td><td>rė-stor-𝕖d</td><td>a. brought back to an original or normal condition</td></tr>
 <tr><td>restorer</td><td>rėstore̊r</td><td>re-stor-er</td><td>rė-stor-e̊r</td><td>n. a skilled worker who restores or refinishes buildings or antique furniture</td></tr>
 <tr><td>restoring</td><td>rėstoring</td><td>re-stor-ing</td><td>rė-stor-ing</td><td>a. bringing back to an original or normal condition</td></tr>
 <tr><td>restores</td><td>rėstor𝕖ṡ</td><td>re-store-s</td><td>rė-stor𝕖-ṡ</td><td></td></tr>
 <tr><td>restoration</td><td>resto̊rātio̊n</td><td>re-stor-at-ion</td><td>re-sto̊r-āt-io̊n</td><td>n. the action of returning something to a former condition or position</td></tr>
-<tr><td>restorative</td><td>re̊storåtive</td><td>re-stor-at-ive</td><td>re̊-stor-åt-ive</td><td>a. tending to impart new life and vigor<br>n. a medicine that strengthens</td></tr>
-<tr><td>restorationist</td><td>resto̊rātio̊nist</td><td>re-stor-at-ion-ist</td><td>re-sto̊r-āt-io̊n-ist</td><td>n. an advocate of restoration, especially of a monarchy or artwork</td></tr>
+<tr><td>restorative</td><td>rėstoråtive</td><td>re-stor-at-ive</td><td>rė-stor-åt-ive</td><td>a. tending to impart new life and vigor<br>n. a medicine that strengthens</td></tr>
+<tr><td>restorationist</td><td>rėstorātio̊nist</td><td>re-stor-at-ion-ist</td><td>rė-stor-āt-io̊n-ist</td><td>n. an advocate of restoration, especially of a monarchy or artwork</td></tr>
 <tr><td>superstore</td><td>sūpe̊rstore</td><td>super-store</td><td>sūpe̊r-store</td><td>n. a very large store selling a wide variety of goods</td></tr>
-<tr><td>ahistorical</td><td>āhistoricål</td><td>a-hi-stor-ic-al</td><td>ā-hi-stor-ic-ål</td><td>a. unconcerned with or unrelated to history or to historical development or to tradition</td></tr>
+<tr><td>ahistorical</td><td>ahistoricål</td><td>a-hi-stor-ic-al</td><td>a-hi-stor-ic-ål</td><td>a. unconcerned with or unrelated to history or to historical development or to tradition</td></tr>
 <tr><td>stork</td><td>stork</td><td>stork</td><td>stork</td><td>n. large mostly Old World wading birds typically having white-and-black plumage</td></tr>
 <tr><td>storm</td><td>storm</td><td>storm</td><td>storm</td><td>n. a violent disturbance of the atmosphere with strong winds, rain, or snow<br>v. move angrily or forcefully</td></tr>
 <tr><td>stormed</td><td>storm𝕖d</td><td>storm-ed</td><td>storm-𝕖d</td><td></td></tr>
@@ -6117,15 +6117,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>storyteller</td><td>storẏtelle̊r</td><td>story-tell-er</td><td>storẏ-tell-e̊r</td><td>n. a person who tells or writes stories</td></tr>
 <tr><td>storytelling</td><td>storẏtelling</td><td>story-tell-ing</td><td>storẏ-tell-ing</td><td>n. the activity of telling stories</td></tr>
 <tr><td>backstory</td><td>backstorẏ</td><td>back-story</td><td>back-storẏ</td><td>n. the history or background of a person or situation, especially for a fictional work</td></tr>
-<tr><td>clerestory</td><td>clērėsto̊rẏ</td><td>clere-story</td><td>clērė-sto̊rẏ</td><td>n. part of an interior wall rising above the adjacent roof with windows admitting light</td></tr>
+<tr><td>clerestory</td><td>clerėsto̊rẏ</td><td>clere-story</td><td>clerė-sto̊rẏ</td><td>n. part of an interior wall rising above the adjacent roof with windows admitting light</td></tr>
 <tr><td>history</td><td>histo̊rẏ</td><td>hi-story</td><td>hi-sto̊rẏ</td><td>n. the study of past events<br>n. a continuous record of past events</td></tr>
 <tr><td>historian</td><td>historiån</td><td>hi-stor-ian</td><td>hi-stor-iån</td><td>n. a person who is an authority on history and who studies it and writes about it</td></tr>
 <tr><td>historic</td><td>historic</td><td>hi-stor-ic</td><td>hi-stor-ic</td><td>a. belonging to the past; of what is important or famous in the past<br>a. important in history</td></tr>
 <tr><td>histories</td><td>histo̊ri𝕖ṡ</td><td>hi-stor-ies</td><td>hi-sto̊r-i𝕖ṡ</td><td></td></tr>
 <tr><td>historical</td><td>historicål</td><td>hi-stor-ic-al</td><td>hi-stor-ic-ål</td><td>a. relating to the study of past events<br>a. belonging to or typical of the study of history</td></tr>
 <tr><td>historicization</td><td>historicīzātio̊n</td><td>hi-stor-ic-iz-at-ion</td><td>hi-stor-ic-īz-āt-io̊n</td><td>n. the process of placing something in a historical context</td></tr>
-<tr><td>multistory</td><td>mûltĩstorẏ</td><td>multi-story</td><td>mûltĩ-storẏ</td><td>a. having many stories or floors</td></tr>
-<tr><td>overstory</td><td>ōve̊rstory</td><td>over-story</td><td>ōve̊r-story</td><td>n. the uppermost layer of vegetation in a forest</td></tr>
+<tr><td>multistory</td><td>mûltistorẏ</td><td>multi-story</td><td>mûlti-storẏ</td><td>a. having many stories or floors</td></tr>
+<tr><td>overstory</td><td>ōve̊rstorẏ</td><td>over-story</td><td>ōve̊r-storẏ</td><td>n. the uppermost layer of vegetation in a forest</td></tr>
 <tr><td>understory</td><td>ûnde̊rstorẏ</td><td>under-story</td><td>ûnde̊r-storẏ</td><td>n. the vegetation layer beneath the main canopy of a forest</td></tr>
 <tr><td>unhistorical</td><td>ûnhistoricål</td><td>un-hi-stor-ic-al</td><td>ûn-hi-stor-ic-ål</td><td>a. not relating to or consistent with history</td></tr>
 <tr><td>stout</td><td>stòut</td><td>stout</td><td>stòut</td><td>a. somewhat fat or of heavy build<br>a. brave and determined</td></tr>
@@ -6133,7 +6133,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stouthearted</td><td>stòuth𝕖àrtėd</td><td>stout-heart-ed</td><td>stòut-h𝕖àrt-ėd</td><td>a. brave and determined</td></tr>
 <tr><td>stove</td><td>stōve</td><td>stove</td><td>stōve</td><td>n. an appliance for cooking or heating</td></tr>
 <tr><td>stover</td><td>stōve̊r</td><td>stov-er</td><td>stōv-e̊r</td><td>n. dried stalks and leaves of a field crop, especially corn, used as animal fodder</td></tr>
-<tr><td>stovepipe</td><td>stōvepīpe</td><td>stove-pipe</td><td>stōve-pīpe</td><td>n. a metal pipe of large diameter used to connect a stove to a flue</td></tr>
+<tr><td>stovepipe</td><td>stōv𝕖pīpe</td><td>stove-pipe</td><td>stōv𝕖-pīpe</td><td>n. a metal pipe of large diameter used to connect a stove to a flue</td></tr>
 <tr><td>stow</td><td>stōw</td><td>stow</td><td>stōw</td><td>v. fill by packing tightly</td></tr>
 <tr><td>stowage</td><td>stōwȧge</td><td>stow-age</td><td>stōw-ȧge</td><td>n. the charge for stowing goods<br>n. the act of packing or storing away</td></tr>
 <tr><td>stowaway</td><td>stōwåwāy</td><td>stow-away</td><td>stōw-åwāy</td><td>n. a person who hides aboard a ship or plane in the hope of getting free passage</td></tr>
@@ -6144,13 +6144,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>Australian</td><td>Ãustrāliån</td><td>Au-stra-li-an</td><td>Ãu-strā-li-ån</td><td>a. of or relating to Australia or its people<br>n. a native or inhabitant of Australia</td></tr>
 <tr><td>strabismus</td><td>stråbiṡmůs</td><td>strabismus</td><td>stråbiṡmůs</td><td>n. abnormal alignment of one or both eyes</td></tr>
 <tr><td>abstract</td><td>abstract</td><td>ab-str-act</td><td>ab-str-act</td><td>a. existing only in the mind; not concrete<br>n. a summary of a text<br>vt. remove or separate from something</td></tr>
-<tr><td>abstracted</td><td>abstractėd</td><td>ab-str-act-ed</td><td>ab-str-act-ėd</td><td>v. consider a concept without thinking of a specific example<br>a. lost in thought; showing preoccupation</td></tr>
-<tr><td>abstraction</td><td>abstractio̊n</td><td>ab-str-act-ion</td><td>ab-str-act-io̊n</td><td>n. a concept or idea not associated with any specific instance<br>n. the process of formulating general concepts by abstracting common properties</td></tr>
-<tr><td>abstractly</td><td>abstractlẏ</td><td>ab-str-act-ly</td><td>ab-str-act-lẏ</td><td>adv. in abstract terms</td></tr>
-<tr><td>abstractness</td><td>abstractne̊ss</td><td>ab-str-act-ness</td><td>ab-str-act-ne̊ss</td><td>n. the quality of being considered apart from a specific instance or object</td></tr>
-<tr><td>abstractionist</td><td>abstractio̊nist</td><td>ab-str-act-ion-ist</td><td>ab-str-act-io̊n-ist</td><td>n. a painter of abstract pictures</td></tr>
-<tr><td>abstractedly</td><td>abstractėdlẏ</td><td>ab-str-act-ed-ly</td><td>ab-str-act-ėd-lẏ</td><td>adv. in an absentminded or preoccupied manner</td></tr>
-<tr><td>stradivarius</td><td>stradivariůs</td><td>stradivarius</td><td>stradivariůs</td><td>n. a violin made by Antonio Stradivari, highly prized for its tone quality</td></tr>
+<tr><td>abstracted</td><td>åbstractėd</td><td>ab-str-act-ed</td><td>åb-str-act-ėd</td><td>v. consider a concept without thinking of a specific example<br>a. lost in thought; showing preoccupation</td></tr>
+<tr><td>abstraction</td><td>åbstractio̊n</td><td>ab-str-act-ion</td><td>åb-str-act-io̊n</td><td>n. a concept or idea not associated with any specific instance<br>n. the process of formulating general concepts by abstracting common properties</td></tr>
+<tr><td>abstractly</td><td>åbstractlẏ</td><td>ab-str-act-ly</td><td>åb-str-act-lẏ</td><td>adv. in abstract terms</td></tr>
+<tr><td>abstractness</td><td>åbstractnėss</td><td>ab-str-act-ness</td><td>åb-str-act-nėss</td><td>n. the quality of being considered apart from a specific instance or object</td></tr>
+<tr><td>abstractionist</td><td>åbstractio̊nist</td><td>ab-str-act-ion-ist</td><td>åb-str-act-io̊n-ist</td><td>n. a painter of abstract pictures</td></tr>
+<tr><td>abstractedly</td><td>åbstractėdlẏ</td><td>ab-str-act-ed-ly</td><td>åb-str-act-ėd-lẏ</td><td>adv. in an absentminded or preoccupied manner</td></tr>
+<tr><td>stradivarius</td><td>stradivāriůs</td><td>stradivarius</td><td>stradivāriůs</td><td>n. a violin made by Antonio Stradivari, highly prized for its tone quality</td></tr>
 <tr><td>straddle</td><td>straddle</td><td>stradd-le</td><td>stradd-le</td><td>v. sit or stand with legs apart<br>n. a noncommittal position</td></tr>
 <tr><td>strafe</td><td>strāfe</td><td>strafe</td><td>strāfe</td><td>n. an attack of machine-gun fire or cannon fire from a low flying airplane<br>v. attack with machine guns or cannon fire from a low-flying plane</td></tr>
 <tr><td>straggler</td><td>straggle̊r</td><td>straggl-er</td><td>straggl-e̊r</td><td>n. someone who strays or falls behind</td></tr>
@@ -6182,20 +6182,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>constraining</td><td>co̊nstrāining</td><td>con-strain-ing</td><td>co̊n-strāin-ing</td><td>a. restricting the scope or freedom of action</td></tr>
 <tr><td>restrain</td><td>rėstrāin</td><td>re-strain</td><td>rė-strāin</td><td>v. to hold back from action; to keep under control</td></tr>
 <tr><td>restraint</td><td>rėstrāint</td><td>re-straint</td><td>rė-strāint</td><td>n. the act of holding back or controlling<br>n. self-control; moderation</td></tr>
-<tr><td>restrained</td><td>rēstrāin𝕖d</td><td>re-strain-ed</td><td>rē-strāin-𝕖d</td><td>a. kept under control; calm and disciplined</td></tr>
-<tr><td>restraining</td><td>rēstrāining</td><td>re-strain-ing</td><td>rē-strāin-ing</td><td>a. keeping under control; holding back</td></tr>
+<tr><td>restrained</td><td>rėstrāin𝕖d</td><td>re-strain-ed</td><td>rė-strāin-𝕖d</td><td>a. kept under control; calm and disciplined</td></tr>
+<tr><td>restraining</td><td>rėstrāining</td><td>re-strain-ing</td><td>rė-strāin-ing</td><td>a. keeping under control; holding back</td></tr>
 <tr><td>restrains</td><td>rėstrāinṡ</td><td>re-strain-s</td><td>rė-strāin-ṡ</td><td></td></tr>
 <tr><td>unconstrained</td><td>ûnco̊nstrāin𝕖d</td><td>un-con-strain-ed</td><td>ûn-co̊n-strāin-𝕖d</td><td>a. free from constraint</td></tr>
-<tr><td>unrestrained</td><td>ûnrēstrāin𝕖d</td><td>un-re-strain-ed</td><td>ûn-rē-strāin-𝕖d</td><td>a. not subject to restraint</td></tr>
+<tr><td>unrestrained</td><td>ûnrėstrāin𝕖d</td><td>un-re-strain-ed</td><td>ûn-rė-strāin-𝕖d</td><td>a. not subject to restraint</td></tr>
 <tr><td>strait</td><td>strāit</td><td>strait</td><td>strāit</td><td>n. a narrow channel of the sea joining two larger bodies of water<br>a. narrow</td></tr>
 <tr><td>straiten</td><td>strāite̊n</td><td>strait-en</td><td>strāit-e̊n</td><td>vt. to restrict or confine</td></tr>
 <tr><td>straitened</td><td>strāite̊n𝕖d</td><td>strait-en-ed</td><td>strāit-e̊n-𝕖d</td><td>a. limited or restricted, especially financially</td></tr>
 <tr><td>strait-jacket</td><td></td><td>strait-jack-et</td><td></td><td>n. a garment for restraining the arms</td></tr>
-<tr><td>straitjacket</td><td>strāitjacke̊t</td><td>strait-jack-et</td><td>strāit-jack-e̊t</td><td>n. a garment used to bind the arms tightly against the body</td></tr>
+<tr><td>straitjacket</td><td>strāitjackėt</td><td>strait-jack-et</td><td>strāit-jack-ėt</td><td>n. a garment used to bind the arms tightly against the body</td></tr>
 <tr><td>straitlaced</td><td>strāitlāc𝕖ḋ</td><td>strait-lac-ed</td><td>strāit-lāc-𝕖ḋ</td><td>a. excessively strict in behavior</td></tr>
 <tr><td>strake</td><td>strāke</td><td>strake</td><td>strāke</td><td>n thick plank forming a ridge along the side of a wooden ship</td></tr>
 <tr><td>strand</td><td>strand</td><td>strand</td><td>strand</td><td>n. a single thin piece of thread, wire, or hair<br>n. one of the parts that make up a whole<br>v. to leave someone in a helpless position</td></tr>
-<tr><td>stranded</td><td>strand𝕖d</td><td>strand-ed</td><td>strand-𝕖d</td><td>a. left in a helpless position</td></tr>
+<tr><td>stranded</td><td>strandėd</td><td>strand-ed</td><td>strand-ėd</td><td>a. left in a helpless position</td></tr>
 <tr><td>stranding</td><td>stranding</td><td>strand-ing</td><td>strand-ing</td><td>v. leave stranded or isolated<br>v. drive (a vessel) ashore</td></tr>
 <tr><td>strange</td><td>strānge</td><td>strange</td><td>strānge</td><td>a. unusual or surprising in a way that is hard to explain<br>a. not previously known or encountered</td></tr>
 <tr><td>stranger</td><td>strānge̊r</td><td>strang-er</td><td>strāng-e̊r</td><td>n. anyone who does not belong in the environment in which they are found<br>n. an individual that one is not acquainted with</td></tr>
@@ -6212,7 +6212,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>strangles</td><td>strangl𝕖ṡ</td><td>strang-le-s</td><td>strang-l𝕖-ṡ</td><td></td></tr>
 <tr><td>estrange</td><td>estrānge</td><td>e-strange</td><td>e-strānge</td><td>v. remove from customary environment or associations<br>v. arouse hostility or indifference where there had formerly been love or friendliness</td></tr>
 <tr><td>estranged</td><td>estrāng𝕖d</td><td>e-strang-ed</td><td>e-strāng-𝕖d</td><td>a. no longer close or affectionate</td></tr>
-<tr><td>estrangement</td><td>ėstrāng𝕖me̊nt</td><td>e-strange-ment</td><td>ė-strāng𝕖-me̊nt</td><td>n. separation resulting from hostility</td></tr>
+<tr><td>estrangement</td><td>estrāng𝕖me̊nt</td><td>e-strange-ment</td><td>e-strāng𝕖-me̊nt</td><td>n. separation resulting from hostility</td></tr>
 <tr><td>strap</td><td>strap</td><td>strap</td><td>strap</td><td>n. a strip of material used for fastening or holding things together<br>v. to fasten with a strap</td></tr>
 <tr><td>strapped</td><td>strapp𝕖ḋ</td><td>strapp-ed</td><td>strapp-𝕖ḋ</td><td>v. tie with a strap<br>v. beat severely with a whip or rod<br>a. having no money left (informal)</td></tr>
 <tr><td>strapping</td><td>strapping</td><td>strapp-ing</td><td>strapp-ing</td><td>a. muscular and heavily built</td></tr>
@@ -6224,21 +6224,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stratagem</td><td>stratåge̊m</td><td>stratagem</td><td>stratåge̊m</td><td>n. a maneuver in a game or conversation<br>n. an elaborate or deceitful scheme contrived to deceive or evade</td></tr>
 <tr><td>strategic</td><td>stråtēgic</td><td>strateg-ic</td><td>stråtēg-ic</td><td>a. relating to or concerned with strategy<br>a. highly important to or an integral part of a strategy or plan of action</td></tr>
 <tr><td>strategist</td><td>stratėgist</td><td>strateg-ist</td><td>stratėg-ist</td><td>n. an expert in strategy</td></tr>
-<tr><td>strategize</td><td>strate̊gīze</td><td>strateg-ize</td><td>strate̊g-īze</td><td>v. to devise a strategy or plan of action</td></tr>
-<tr><td>stratify</td><td>strati̊fȳ</td><td>strat-ify</td><td>strat-i̊fȳ</td><td>v. to form or arrange in layers or strata</td></tr>
-<tr><td>stratigraphic</td><td>strati̊graphic</td><td>stratigraph-ic</td><td>strati̊graph-ic</td><td>a. of or relating to stratigraphy</td></tr>
-<tr><td>stratum</td><td>stratům</td><td>strat-um</td><td>strat-ům</td><td>n. a layer of material; a social class</td></tr>
+<tr><td>strategize</td><td>stratėgīze</td><td>strateg-ize</td><td>stratėg-īze</td><td>v. to devise a strategy or plan of action</td></tr>
+<tr><td>stratify</td><td>stratifȳ</td><td>strat-ify</td><td>strat-ifȳ</td><td>v. to form or arrange in layers or strata</td></tr>
+<tr><td>stratigraphic</td><td>stratigraphic</td><td>stratigraph-ic</td><td>stratigraph-ic</td><td>a. of or relating to stratigraphy</td></tr>
+<tr><td>stratum</td><td>stràtům</td><td>strat-um</td><td>stràt-ům</td><td>n. a layer of material; a social class</td></tr>
 <tr><td>strategical</td><td>stråtēgicål</td><td>strateg-ic-al</td><td>stråtēg-ic-ål</td><td>a. relating to or concerned with strategy</td></tr>
 <tr><td>strategies</td><td>strate̊gi𝕖ṡ</td><td>strat-eg-ies</td><td>strat-e̊g-i𝕖ṡ</td><td></td></tr>
 <tr><td>stratosphere</td><td>strato̊sphēre</td><td>strat-o-sphere</td><td>strat-o̊-sphēre</td><td>n. the atmospheric layer between the troposphere and the mesosphere</td></tr>
 <tr><td>strategy</td><td>stratėgẏ</td><td>strat-eg-y</td><td>strat-ėg-ẏ</td><td>n. a plan of action or policy designed to achieve a major aim<br>n. the art of planning and directing overall military operations</td></tr>
-<tr><td>stratified</td><td>strati̊fī𝕖d</td><td>strat-i-fi-ed</td><td>strat-i̊-fī-𝕖d</td><td>a. deposited or arranged in horizontal layers</td></tr>
-<tr><td>stratospheric</td><td>strato̊sphēric</td><td>strat-o-spher-ic</td><td>strat-o̊-sphēr-ic</td><td>a. relating to the stratosphere</td></tr>
+<tr><td>stratified</td><td>stratifī𝕖d</td><td>strat-i-fi-ed</td><td>strat-i-fī-𝕖d</td><td>a. deposited or arranged in horizontal layers</td></tr>
+<tr><td>stratospheric</td><td>strato̊spheric</td><td>strat-o-spher-ic</td><td>strat-o̊-spher-ic</td><td>a. relating to the stratosphere</td></tr>
 <tr><td>strategically</td><td>stråtēgicållẏ</td><td>strateg-ic-al-ly</td><td>stråtēg-ic-ål-lẏ</td><td>adv. with regard to strategy</td></tr>
 <tr><td>stratification</td><td>stratificātio̊n</td><td>strat-i-fic-at-ion</td><td>strat-i-fic-āt-io̊n</td><td>n. the act of arranging into classes or layers</td></tr>
 <tr><td>prostrate</td><td>prostrāte</td><td>pro-str-ate</td><td>pro-str-āte</td><td>a. stretched out and lying at full length along the ground<br>v. get into a prostrate position, as in submission</td></tr>
 <tr><td>prostration</td><td>prostrātio̊n</td><td>pro-strat-ion</td><td>pro-strāt-io̊n</td><td>n. abject submission; the emotional equivalent of prostrating your body<br>n. the act of assuming a prostrate position</td></tr>
-<tr><td>substratum</td><td>sûbstràtûm</td><td>sub-stratum</td><td>sûb-stràtûm</td><td>n. a surface on which an organism grows or is attached<br>n. any stratum or layer lying underneath another</td></tr>
+<tr><td>substratum</td><td>sûbstràtům</td><td>sub-stratum</td><td>sûb-stràtům</td><td>n. a surface on which an organism grows or is attached<br>n. any stratum or layer lying underneath another</td></tr>
 <tr><td>Stratford-on-Avon</td><td>Stratfo̊rd-on-Āvon</td><td>Stratford-on-Avon</td><td>Stratfo̊rd-on-Āvon</td><td>n. a town, birthplace of Shakespeare</td></tr>
 <tr><td>straw</td><td>strãw</td><td>straw</td><td>strãw</td><td>n. dried stalks of grain used as fodder or for weaving<br>n. a thin tube used for sucking liquids<br>a. of a pale yellow color</td></tr>
 <tr><td>straws</td><td>strãwṡ</td><td>straw-s</td><td>strãw-ṡ</td><td></td></tr>
@@ -6253,7 +6253,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>streaky</td><td>strēakẏ</td><td>streak-y</td><td>strēak-ẏ</td><td>a. marked with or as if with stripes or linear discolorations</td></tr>
 <tr><td>stream</td><td>strēam</td><td>stream</td><td>strēam</td><td>n. a flow of water in a channel<br>n. a continuous flow of something<br>v. flow in a continuous current</td></tr>
 <tr><td>streambank</td><td>strēambank</td><td>stream-bank</td><td>strēam-bank</td><td>n. the bank of a stream</td></tr>
-<tr><td>streambed</td><td>strēamb𝕖d</td><td>stream-bed</td><td>strēam-b𝕖d</td><td>n. a channel occupied or formerly occupied by a stream</td></tr>
+<tr><td>streambed</td><td>strēambed</td><td>stream-bed</td><td>strēam-bed</td><td>n. a channel occupied or formerly occupied by a stream</td></tr>
 <tr><td>streamer</td><td>strēame̊r</td><td>stream-er</td><td>strēam-e̊r</td><td>n. light that streams<br>n. a newspaper headline that runs across the full page</td></tr>
 <tr><td>streaming</td><td>strēaming</td><td>stream-ing</td><td>strēam-ing</td><td>n. the circulation or movement of a fluid<br>a. (computer science) using or relating to a form of continuous data transfer</td></tr>
 <tr><td>streamline</td><td>strēamlīne</td><td>stream-line</td><td>strēam-līne</td><td>v. to make something more efficient and effective</td></tr>
@@ -6276,8 +6276,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>strenuous</td><td>strenūo̊us</td><td>stren-u-ous</td><td>stren-ū-o̊us</td><td>a. characterized by or performed with much energy or force; requiring great effort</td></tr>
 <tr><td>strenuously</td><td>strenūo̊uslẏ</td><td>stren-u-ous-ly</td><td>stren-ū-o̊us-lẏ</td><td>adv. in a strenuous manner; strongly or vigorously</td></tr>
 <tr><td>strep</td><td>strep</td><td>strep</td><td>strep</td><td>n. bacteria causing diseases such as scarlet fever and tonsillitis</td></tr>
-<tr><td>obstreperous</td><td>o̊bstrepe̊ro̊us</td><td>ob-strep-er-ous</td><td>o̊b-strep-e̊r-o̊us</td><td>a. noisily and stubbornly defiant</td></tr>
-<tr><td>streptokinase</td><td>strepto̊kīnāse</td><td>streptokinase</td><td>strepto̊kīnāse</td><td>n. an enzyme that dissolves blood clots</td></tr>
+<tr><td>obstreperous</td><td>obstrepe̊ro̊us</td><td>ob-strep-er-ous</td><td>ob-strep-e̊r-o̊us</td><td>a. noisily and stubbornly defiant</td></tr>
+<tr><td>streptokinase</td><td>strepto̊kināse</td><td>streptokinase</td><td>strepto̊kināse</td><td>n. an enzyme that dissolves blood clots</td></tr>
 <tr><td>stress</td><td>stress</td><td>stress</td><td>stress</td><td>n. pressure or worry caused by problems in life<br>n. special emphasis or importance<br>v. emphasize</td></tr>
 <tr><td>stressed</td><td>stress𝕖ḋ</td><td>stress-ed</td><td>stress-𝕖ḋ</td><td>a. suffering severe physical strain or distress<br>a. bearing a stress or accent</td></tr>
 <tr><td>stresses</td><td>stressėṡ</td><td>stress-es</td><td>stress-ėṡ</td><td></td></tr>
@@ -6287,7 +6287,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stress-reducing</td><td></td><td>stress-re-duc-ing</td><td></td><td>a. reducing stress</td></tr>
 <tr><td>distress</td><td>distress</td><td>di-stress</td><td>di-stress</td><td>n. extreme anxiety or sorrow<br>n. suffering caused by lack of money or the basic necessities of life</td></tr>
 <tr><td>distressed</td><td>distress𝕖ḋ</td><td>di-stress-ed</td><td>di-stress-𝕖ḋ</td><td>a. suffering from anxiety or sorrow</td></tr>
-<tr><td>distressful</td><td>distressfùl</td><td>di-stress-ful</td><td>di-stress-fùl</td><td>a. causing distress or worry or anxiety</td></tr>
+<tr><td>distressful</td><td>distressfůl</td><td>di-stress-ful</td><td>di-stress-fůl</td><td>a. causing distress or worry or anxiety</td></tr>
 <tr><td>distressing</td><td>distressing</td><td>di-stress-ing</td><td>di-stress-ing</td><td>a. causing great pain or anxiety</td></tr>
 <tr><td>distressingly</td><td>distressinglẏ</td><td>di-stress-ing-ly</td><td>di-stress-ing-lẏ</td><td>adv. unpleasantly</td></tr>
 <tr><td>overstress</td><td>ōve̊rstress</td><td>over-stress</td><td>ōve̊r-stress</td><td>v. place special or excessive emphasis on</td></tr>
@@ -6305,7 +6305,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>outstretched</td><td>òutstretch𝕖ḋ</td><td>out-stretch-ed</td><td>òut-stretch-𝕖ḋ</td><td>a. fully extended</td></tr>
 <tr><td>overstretched</td><td>ōve̊rstretch𝕖ḋ</td><td>over-stretch-ed</td><td>ōve̊r-stretch-𝕖ḋ</td><td>v. strain abnormally</td></tr>
 <tr><td>unstretched</td><td>ûnstretch𝕖ḋ</td><td>un-stretch-ed</td><td>ûn-stretch-𝕖ḋ</td><td>a. not stretched or extended</td></tr>
-<tr><td>streusel</td><td>streūṡ𝕖l</td><td>streusel</td><td>streūṡ𝕖l</td><td>n. a crumbly topping for a pastry</td></tr>
+<tr><td>streusel</td><td>streūṡe̊l</td><td>streusel</td><td>streūṡe̊l</td><td>n. a crumbly topping for a pastry</td></tr>
 <tr><td>strew</td><td>strew̄</td><td>strew</td><td>strew̄</td><td>v. spread by scattering<br>v. cover; be dispersed over</td></tr>
 <tr><td>bestrew</td><td>bėstrew̄</td><td>be-strew</td><td>bė-strew̄</td><td>vt. to scatter or cover with things</td></tr>
 <tr><td>striate</td><td>strīāte</td><td>stri-ate</td><td>strī-āte</td><td>v. mark with striae or striations<br>a. marked with stria or striations</td></tr>
@@ -6318,7 +6318,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>strictness</td><td>strictnėss</td><td>strict-ness</td><td>strict-nėss</td><td>n. conscientious attention to rules and details</td></tr>
 <tr><td>stricture</td><td>strictůre</td><td>strict-ure</td><td>strict-ůre</td><td>n. severe criticism</td></tr>
 <tr><td>constrict</td><td>co̊nstrict</td><td>con-strict</td><td>co̊n-strict</td><td>v. become tight or as if tight</td></tr>
-<tr><td>constricted</td><td>co̊nstrict𝕖d</td><td>con-strict-ed</td><td>co̊n-strict-𝕖d</td><td>a. drawn together or squeezed physically or psychologically</td></tr>
+<tr><td>constricted</td><td>co̊nstrictėd</td><td>con-strict-ed</td><td>co̊n-strict-ėd</td><td>a. drawn together or squeezed physically or psychologically</td></tr>
 <tr><td>constricting</td><td>co̊nstricting</td><td>con-strict-ing</td><td>co̊n-strict-ing</td><td>a. tending to constrict freedom</td></tr>
 <tr><td>constriction</td><td>co̊nstrictio̊n</td><td>con-strict-ion</td><td>co̊n-strict-io̊n</td><td>n. a narrowing that reduces the flow through a channel</td></tr>
 <tr><td>constrictive</td><td>co̊nstrictive</td><td>con-strict-ive</td><td>co̊n-strict-ive</td><td>a. restricting the scope or freedom of action<br>a. tending to constrict</td></tr>
@@ -6326,15 +6326,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>district</td><td>district</td><td>di-strict</td><td>di-strict</td><td>n. a region marked off for administrative or other purposes</td></tr>
 <tr><td>districts</td><td>districts</td><td>di-strict-s</td><td>di-strict-s</td><td></td></tr>
 <tr><td>restrict</td><td>rėstrict</td><td>re-strict</td><td>rė-strict</td><td>vt. to limit the size, amount, or range of something</td></tr>
-<tr><td>restricted</td><td>rēstrict𝕖d</td><td>re-strict-ed</td><td>rē-strict-𝕖d</td><td>a. subject to restriction or subjected to restriction</td></tr>
+<tr><td>restricted</td><td>rėstrictėd</td><td>re-strict-ed</td><td>rė-strict-ėd</td><td>a. subject to restriction or subjected to restriction</td></tr>
 <tr><td>restriction</td><td>rėstrictio̊n</td><td>re-strict-ion</td><td>rė-strict-io̊n</td><td>n. a principle that limits the extent of something<br>n. the act of keeping something within specified bounds</td></tr>
-<tr><td>restrictive</td><td>rēstrictive</td><td>re-strict-ive</td><td>rē-strict-ive</td><td>a. serving to restrict</td></tr>
+<tr><td>restrictive</td><td>rėstrictive</td><td>re-strict-ive</td><td>rė-strict-ive</td><td>a. serving to restrict</td></tr>
 <tr><td>restrictively</td><td>rėstrictiv𝕖lẏ</td><td>re-strict-ive-ly</td><td>rė-strict-iv𝕖-lẏ</td><td>adv. in a restrictive manner</td></tr>
 <tr><td>restrictiveness</td><td>rėstrictiv𝕖nėss</td><td>re-strict-ive-ness</td><td>rė-strict-iv𝕖-nėss</td><td>n. a grammatical qualification making meaning more specific (`red hat&#x27; vs `hat&#x27;)</td></tr>
 <tr><td>redistricting</td><td>rēdistricting</td><td>re-di-strict-ing</td><td>rē-di-strict-ing</td><td>n. the act of reorganizing voting districts</td></tr>
-<tr><td>unrestricted</td><td>ûnrēstrictėd</td><td>un-re-strict-ed</td><td>ûn-rē-strict-ėd</td><td>a. not subject to restrictions</td></tr>
-<tr><td>vasoconstriction</td><td>vasōco̊nstrictio̊n</td><td>vas-o-con-strict-ion</td><td>vas-ō-co̊n-strict-io̊n</td><td>n. decrease in the diameter of blood vessels</td></tr>
-<tr><td>vasoconstrictor</td><td>vasōco̊nstricto̊r</td><td>vas-o-con-strict-or</td><td>vas-ō-co̊n-strict-o̊r</td><td>n. any agent that causes a narrowing of a blood vessel</td></tr>
+<tr><td>unrestricted</td><td>ûnrėstrictėd</td><td>un-re-strict-ed</td><td>ûn-rė-strict-ėd</td><td>a. not subject to restrictions</td></tr>
+<tr><td>vasoconstriction</td><td>vaso̊co̊nstrictio̊n</td><td>vas-o-con-strict-ion</td><td>vas-o̊-co̊n-strict-io̊n</td><td>n. decrease in the diameter of blood vessels</td></tr>
+<tr><td>vasoconstrictor</td><td>vaso̊constricto̊r</td><td>vas-o-con-strict-or</td><td>vas-o̊-con-strict-o̊r</td><td>n. any agent that causes a narrowing of a blood vessel</td></tr>
 <tr><td>stridulate</td><td>stridūlāte</td><td>stridul-ate</td><td>stridūl-āte</td><td>v. to make a shrill chirping noise</td></tr>
 <tr><td>stridency</td><td>strīde̊ncẏ</td><td>strid-ency</td><td>strīd-e̊ncẏ</td><td>n. having the timbre of a loud high-pitched sound</td></tr>
 <tr><td>strident</td><td>strīde̊nt</td><td>strid-ent</td><td>strīd-e̊nt</td><td>a. loud and harsh; grating</td></tr>
@@ -6357,7 +6357,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>strikebreaker</td><td>strīk𝕖breāke̊r</td><td>strike-break-er</td><td>strīk𝕖-breāk-e̊r</td><td>n. someone who works during a strike</td></tr>
 <tr><td>strikingly</td><td>strīkinglẏ</td><td>strik-ing-ly</td><td>strīk-ing-lẏ</td><td>adv. in a striking manner</td></tr>
 <tr><td>awe-struck</td><td></td><td>awe-struck</td><td></td><td>a. filled with a feeling of awe</td></tr>
-<tr><td>awestruck</td><td>ãwestrûck</td><td>awe-struck</td><td>ãwe-strûck</td><td>a. filled with wonder and respect</td></tr>
+<tr><td>awestruck</td><td>ãw𝕖strûck</td><td>awe-struck</td><td>ãw𝕖-strûck</td><td>a. filled with wonder and respect</td></tr>
 <tr><td>strung</td><td>strûng</td><td>strung</td><td>strûng</td><td>a. that is on a string</td></tr>
 <tr><td>string</td><td>string</td><td>str-ing</td><td>str-ing</td><td>n. a lightweight cord<br>n. a tightly stretched cord that makes sound when plucked, struck, or bowed<br>v. thread on or as if on a string</td></tr>
 <tr><td>stringed</td><td>string𝕖d</td><td>str-ing-ed</td><td>str-ing-𝕖d</td><td>a. having strings or stringed instruments</td></tr>
@@ -6389,7 +6389,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>striving</td><td>strīving</td><td>striv-ing</td><td>strīv-ing</td><td>n. an effortful attempt to attain a goal</td></tr>
 <tr><td>strobe</td><td>strōbe</td><td>strobe</td><td>strōbe</td><td>n. a device that produces a flashing light</td></tr>
 <tr><td>strobing</td><td>strōbing</td><td>strob-ing</td><td>strōb-ing</td><td>n. the use of a strobe light or effect</td></tr>
-<tr><td>stroganoff</td><td>strōgånoff</td><td>stroganoff</td><td>strōgånoff</td><td>n. dish of sauteed meat and mushrooms in a sour cream sauce</td></tr>
+<tr><td>stroganoff</td><td>strogånoff</td><td>stroganoff</td><td>strogånoff</td><td>n. dish of sauteed meat and mushrooms in a sour cream sauce</td></tr>
 <tr><td>stroke</td><td>strōke</td><td>stroke</td><td>strōke</td><td>n. the act of swinging or striking at a ball with a club or racket<br>n. a sudden loss of consciousness caused by lack of oxygen to the brain<br>n. a light touch<br>v. touch lightly and with affection</td></tr>
 <tr><td>stroking</td><td>strōking</td><td>strok-ing</td><td>strōk-ing</td><td>n. a light touch with the hands<br>v. touch lightly and repeatedly</td></tr>
 <tr><td>strokes</td><td>strōk𝕖s</td><td>stroke-s</td><td>strōk𝕖-s</td><td></td></tr>
@@ -6402,7 +6402,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stroller</td><td>strōlle̊r</td><td>stroll-er</td><td>strōll-e̊r</td><td>n. a small wheeled vehicle for pushing a baby; a person who walks leisurely</td></tr>
 <tr><td>strollers</td><td>strōlle̊rṡ</td><td>stroll-er-s</td><td>strōll-e̊r-ṡ</td><td></td></tr>
 <tr><td>stroma</td><td>strōmå</td><td>stroma</td><td>strōmå</td><td>n. the supporting tissue of an organ (as opposed to parenchyma)<br>n. the dense colorless framework of a chloroplast</td></tr>
-<tr><td>stromal</td><td>stromål</td><td>strom-al</td><td>strom-ål</td><td>a. of or relating to the stroma of an organ or tissue</td></tr>
+<tr><td>stromal</td><td>strōmål</td><td>strom-al</td><td>strōm-ål</td><td>a. of or relating to the stroma of an organ or tissue</td></tr>
 <tr><td>stromatolite</td><td>strōmato̊līte</td><td>stromat-o-lite</td><td>strōmat-o̊-līte</td><td>n. a layered sedimentary structure formed by the growth of blue-green algae</td></tr>
 <tr><td>strong</td><td>strong</td><td>strong</td><td>strong</td><td>a. having great physical power and force<br>a. very intense or severe</td></tr>
 <tr><td>strongbox</td><td>strongbox</td><td>strong-box</td><td>strong-box</td><td>n. a strongly made box for holding money or valuables; can be locked</td></tr>
@@ -6421,20 +6421,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>strontium</td><td>strontiům</td><td>strontium</td><td>strontiům</td><td>n. a soft silver-white metallic element of the alkali metal group</td></tr>
 <tr><td>strop</td><td>strop</td><td>strop</td><td>strop</td><td>n. a leather strap used to sharpen razors<br>v. sharpen on a strop</td></tr>
 <tr><td>apostrophe</td><td>åpostro̊phē</td><td>apo-strophe</td><td>åpo-stro̊phē</td><td>n. the mark used to indicate the omission of one or more letters from a printed word<br>n. address to an absent or imaginary person</td></tr>
-<tr><td>catastrophism</td><td>cåtastro̊phiṡm</td><td>cata-stroph-ism</td><td>cåta-stro̊ph-iṡm</td><td>n. the doctrine that geological changes were caused by sudden violent events</td></tr>
+<tr><td>catastrophism</td><td>catåstrophiṡm</td><td>cata-stroph-ism</td><td>catå-stroph-iṡm</td><td>n. the doctrine that geological changes were caused by sudden violent events</td></tr>
 <tr><td>strophe</td><td>strōphė</td><td>strophe</td><td>strōphė</td><td>n. one section of a lyric poem or choral ode in classical Greek drama</td></tr>
 <tr><td>destroy</td><td>dėstroẏ</td><td>de-stroy</td><td>dė-stroẏ</td><td>v. put an end to the existence of something by damaging or attacking it</td></tr>
 <tr><td>destroyed</td><td>dėstroẏ𝕖d</td><td>de-stroy-ed</td><td>dė-stroẏ-𝕖d</td><td>a. spoiled or ruined or demolished</td></tr>
 <tr><td>destroyer</td><td>dėstroẏe̊r</td><td>de-stroy-er</td><td>dė-stroẏ-e̊r</td><td>n. a person or thing that destroys; a small fast warship</td></tr>
 <tr><td>destroying</td><td>dėstroẏing</td><td>de-stroy-ing</td><td>dė-stroẏ-ing</td><td></td></tr>
 <tr><td>destroys</td><td>dėstroẏṡ</td><td>de-stroy-s</td><td>dė-stroẏ-ṡ</td><td></td></tr>
-<tr><td>instrumented</td><td>instrùmentėd</td><td>in-stru-ment-ed</td><td>in-strù-ment-ėd</td><td>v. equip with instruments for measuring, recording, or controlling</td></tr>
-<tr><td>instrumentalism</td><td>instrůme̊ntåliṡm</td><td>in-stru-ment-al-ism</td><td>in-strů-me̊nt-ål-iṡm</td><td>n. a philosophy that considers ideas as instruments guiding actions, valued by success</td></tr>
+<tr><td>instrumented</td><td>instrůme̊ntėd</td><td>in-stru-ment-ed</td><td>in-strů-me̊nt-ėd</td><td>v. equip with instruments for measuring, recording, or controlling</td></tr>
+<tr><td>instrumentalism</td><td>instrůmentåliṡm</td><td>in-stru-ment-al-ism</td><td>in-strů-ment-ål-iṡm</td><td>n. a philosophy that considers ideas as instruments guiding actions, valued by success</td></tr>
 <tr><td>instrumentalist</td><td>instrůmentålist</td><td>in-stru-ment-al-ist</td><td>in-strů-ment-ål-ist</td><td>n. someone who plays a musical instrument as a profession</td></tr>
 <tr><td>instrumentality</td><td>instrůmentalitẏ</td><td>in-stru-ment-al-ity</td><td>in-strů-ment-al-itẏ</td><td>n. a subsidiary organ of government created for a special purpose<br>n. the quality of being instrumental for some purpose</td></tr>
-<tr><td>instrumentation</td><td>instrůmentātio̊n</td><td>in-stru-ment-at-ion</td><td>in-strů-ment-āt-io̊n</td><td>n. the arrangement of music for instruments; the use of instruments</td></tr>
-<tr><td>instrumentally</td><td>instrůme̊ntållẏ</td><td>in-stru-ment-al-ly</td><td>in-strů-me̊nt-ål-lẏ</td><td>adv. by means of an instrument or agency<br>adv. with instruments of music</td></tr>
-<tr><td>instrumentalization</td><td>instrùmentålizatio̊n</td><td>in-stru-ment-al-iz-at-ion</td><td>in-strù-ment-ål-iz-at-io̊n</td><td>n. the act of using something as an instrument or tool</td></tr>
+<tr><td>instrumentation</td><td>instrůme̊ntātio̊n</td><td>in-stru-ment-at-ion</td><td>in-strů-me̊nt-āt-io̊n</td><td>n. the arrangement of music for instruments; the use of instruments</td></tr>
+<tr><td>instrumentally</td><td>instrůmentållẏ</td><td>in-stru-ment-al-ly</td><td>in-strů-ment-ål-lẏ</td><td>adv. by means of an instrument or agency<br>adv. with instruments of music</td></tr>
+<tr><td>instrumentalization</td><td>instrůmentålīzātio̊n</td><td>in-stru-ment-al-iz-at-ion</td><td>in-strů-ment-ål-īz-āt-io̊n</td><td>n. the act of using something as an instrument or tool</td></tr>
 <tr><td>structure</td><td>strûctůre</td><td>struct-ure</td><td>strûct-ůre</td><td>n. the way in which parts are arranged or organized<br>n. a building or other constructed object<br>vt. to arrange or organize</td></tr>
 <tr><td>structural</td><td>strûctůrål</td><td>struct-ur-al</td><td>strûct-ůr-ål</td><td>a. relating to the structure of something</td></tr>
 <tr><td>structured</td><td>strûctůr𝕖d</td><td>struct-ur-ed</td><td>strûct-ůr-𝕖d</td><td>a. having definite and highly organized structure</td></tr>
@@ -6444,7 +6444,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>structuralist</td><td>strûctůrålist</td><td>struct-ur-al-ist</td><td>strûct-ůr-ål-ist</td><td>n. an advocate or practitioner of structuralism</td></tr>
 <tr><td>structurally</td><td>strûctůrållẏ</td><td>struct-ur-al-ly</td><td>strûct-ůr-ål-lẏ</td><td>adv. with respect to structure</td></tr>
 <tr><td>construct</td><td>co̊nstrûct</td><td>con-struct</td><td>co̊n-strûct</td><td>v. make by combining materials and parts<br>v. draw with suitable instruments and under specified conditions</td></tr>
-<tr><td>constructed</td><td>co̊nstrûct𝕖d</td><td>con-struct-ed</td><td>co̊n-strûct-𝕖d</td><td>v. to build by combining materials and parts</td></tr>
+<tr><td>constructed</td><td>co̊nstrûctėd</td><td>con-struct-ed</td><td>co̊n-strûct-ėd</td><td>v. to build by combining materials and parts</td></tr>
 <tr><td>construction</td><td>co̊nstrûctio̊n</td><td>con-struct-ion</td><td>co̊n-strûct-io̊n</td><td>n. the building of something<br>n. the structure or arrangement of something</td></tr>
 <tr><td>constructive</td><td>co̊nstrûctive</td><td>con-struct-ive</td><td>co̊n-strûct-ive</td><td>a. serving to construct or improve</td></tr>
 <tr><td>constructor</td><td>co̊nstrûcto̊r</td><td>con-struct-or</td><td>co̊n-strûct-o̊r</td><td>n. someone who contracts for and supervises construction</td></tr>
@@ -6452,7 +6452,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>constructivism</td><td>co̊nstrûctiviṡm</td><td>con-struct-iv-ism</td><td>co̊n-strûct-iv-iṡm</td><td>n. a Russian art movement after WWI using industrial materials for abstract objects</td></tr>
 <tr><td>constructivist</td><td>co̊nstrûctivist</td><td>con-struct-iv-ist</td><td>co̊n-strûct-iv-ist</td><td>n. an artist of the school of constructivism</td></tr>
 <tr><td>constructively</td><td>co̊nstrûctiv𝕖lẏ</td><td>con-struct-ive-ly</td><td>co̊n-strûct-iv𝕖-lẏ</td><td>adv. in a constructive manner</td></tr>
-<tr><td>constructedness</td><td>co̊nstrûcte̊dne̊ss</td><td>con-struct-ed-ness</td><td>co̊n-strûct-e̊d-ne̊ss</td><td>n. the quality of being constructed rather than natural</td></tr>
+<tr><td>constructedness</td><td>co̊nstrûctėdnėss</td><td>con-struct-ed-ness</td><td>co̊n-strûct-ėd-nėss</td><td>n. the quality of being constructed rather than natural</td></tr>
 <tr><td>constructions</td><td>co̊nstrûctio̊nṡ</td><td>con-struct-ion-s</td><td>co̊n-strûct-io̊n-ṡ</td><td></td></tr>
 <tr><td>destruct</td><td>dėstrûct</td><td>de-struct</td><td>dė-strûct</td><td>v. destroy (one&#x27;s own missile or rocket)</td></tr>
 <tr><td>destructible</td><td>dėstrûctible</td><td>de-struct-ible</td><td>dė-strûct-ible</td><td>a. capable of being destroyed</td></tr>
@@ -6475,34 +6475,34 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>instruments</td><td>instrůme̊nts</td><td>in-stru-ment-s</td><td>in-strů-me̊nt-s</td><td></td></tr>
 <tr><td>instructors</td><td>instrûcto̊rṡ</td><td>in-struct-or-s</td><td>in-strûct-o̊r-ṡ</td><td></td></tr>
 <tr><td>instructionally</td><td>instrûctio̊nållẏ</td><td>in-struct-ion-al-ly</td><td>in-strûct-io̊n-ål-lẏ</td><td>adv. in an instructional manner</td></tr>
-<tr><td>microstructure</td><td>mīcro̊strûctůre</td><td>micro-struct-ure</td><td>mīcro̊-strûct-ůre</td><td>n. the structure of a material as seen under a microscope</td></tr>
-<tr><td>microstructural</td><td>mīcrostrûctůrål</td><td>micro-struct-ur-al</td><td>mīcro-strûct-ůr-ål</td><td>a. of or relating to microstructure</td></tr>
-<tr><td>nanostructure</td><td>nanostrûctůre</td><td>nano-struct-ure</td><td>nano-strûct-ůre</td><td>n. a structure that has dimensions measured in nanometers</td></tr>
-<tr><td>nanostructured</td><td>nanostrûctůr𝕖d</td><td>nano-struct-ur-ed</td><td>nano-strûct-ůr-𝕖d</td><td>a. having a structure on the nanometer scale</td></tr>
-<tr><td>obstruct</td><td>o̊bstrûct</td><td>ob-struct</td><td>o̊b-strûct</td><td>v. to block or prevent passage<br>v. to hinder or impede progress</td></tr>
-<tr><td>obstructed</td><td>o̊bstrûctėd</td><td>ob-struct-ed</td><td>o̊b-strûct-ėd</td><td>a. shut off to passage or view or hindered from action</td></tr>
-<tr><td>obstruction</td><td>o̊bstrûctio̊n</td><td>ob-struct-ion</td><td>o̊b-strûct-io̊n</td><td>n. something that blocks or hinders progress</td></tr>
-<tr><td>obstructive</td><td>o̊bstrûctive</td><td>ob-struct-ive</td><td>o̊b-strûct-ive</td><td>a. preventing movement</td></tr>
-<tr><td>obstructionism</td><td>o̊bstrûctio̊niṡm</td><td>ob-struct-ion-ism</td><td>o̊b-strûct-io̊n-iṡm</td><td>n. deliberate interference</td></tr>
-<tr><td>obstructionist</td><td>o̊bstrûctio̊ni̊st</td><td>ob-struct-ion-ist</td><td>o̊b-strûct-io̊n-i̊st</td><td>n. someone who systematically obstructs some action that others want to take</td></tr>
-<tr><td>restructure</td><td>rēstrûctůre</td><td>re-struct-ure</td><td>rē-strûct-ůre</td><td>v. construct or form anew or provide with a new structure</td></tr>
-<tr><td>restructured</td><td>rēstrûctůr𝕖d</td><td>re-struct-ur-ed</td><td>rē-strûct-ůr-𝕖d</td><td>v. construct or form anew or provide with a new structure</td></tr>
-<tr><td>restructuring</td><td>rēstrûctůring</td><td>re-struct-ur-ing</td><td>rē-strûct-ůr-ing</td><td>n. the act of organizing something in a new way</td></tr>
+<tr><td>microstructure</td><td>mīcrōstrûctůre</td><td>micro-struct-ure</td><td>mīcrō-strûct-ůre</td><td>n. the structure of a material as seen under a microscope</td></tr>
+<tr><td>microstructural</td><td>mīcrōstrûctůrål</td><td>micro-struct-ur-al</td><td>mīcrō-strûct-ůr-ål</td><td>a. of or relating to microstructure</td></tr>
+<tr><td>nanostructure</td><td>nanōstrûctůre</td><td>nano-struct-ure</td><td>nanō-strûct-ůre</td><td>n. a structure that has dimensions measured in nanometers</td></tr>
+<tr><td>nanostructured</td><td>nanōstrûctůr𝕖d</td><td>nano-struct-ur-ed</td><td>nanō-strûct-ůr-𝕖d</td><td>a. having a structure on the nanometer scale</td></tr>
+<tr><td>obstruct</td><td>obstrûct</td><td>ob-struct</td><td>ob-strûct</td><td>v. to block or prevent passage<br>v. to hinder or impede progress</td></tr>
+<tr><td>obstructed</td><td>obstrûctėd</td><td>ob-struct-ed</td><td>ob-strûct-ėd</td><td>a. shut off to passage or view or hindered from action</td></tr>
+<tr><td>obstruction</td><td>obstrûctio̊n</td><td>ob-struct-ion</td><td>ob-strûct-io̊n</td><td>n. something that blocks or hinders progress</td></tr>
+<tr><td>obstructive</td><td>obstrûctive</td><td>ob-struct-ive</td><td>ob-strûct-ive</td><td>a. preventing movement</td></tr>
+<tr><td>obstructionism</td><td>obstrûctio̊niṡm</td><td>ob-struct-ion-ism</td><td>ob-strûct-io̊n-iṡm</td><td>n. deliberate interference</td></tr>
+<tr><td>obstructionist</td><td>obstrûctio̊nist</td><td>ob-struct-ion-ist</td><td>ob-strûct-io̊n-ist</td><td>n. someone who systematically obstructs some action that others want to take</td></tr>
+<tr><td>restructure</td><td>rėstrûctůre</td><td>re-struct-ure</td><td>rė-strûct-ůre</td><td>v. construct or form anew or provide with a new structure</td></tr>
+<tr><td>restructured</td><td>rėstrûctůr𝕖d</td><td>re-struct-ur-ed</td><td>rė-strûct-ůr-𝕖d</td><td>v. construct or form anew or provide with a new structure</td></tr>
+<tr><td>restructuring</td><td>rėstrûctůring</td><td>re-struct-ur-ing</td><td>rė-strûct-ůr-ing</td><td>n. the act of organizing something in a new way</td></tr>
 <tr><td>substructure</td><td>sûbstrûctůre</td><td>sub-struct-ure</td><td>sûb-strûct-ůre</td><td>n. the basic structure or features of a system or organization<br>n. lowest support of a structure</td></tr>
 <tr><td>superstructure</td><td>sūpe̊rstrûctůre</td><td>super-struct-ure</td><td>sūpe̊r-strûct-ůre</td><td>n. structure consisting of the part of a ship above the main deck<br>n. structure consisting of the part of a building above the foundation</td></tr>
-<tr><td>unstructured</td><td>ûnstrûcṫůr𝕖d</td><td>un-struct-ur-ed</td><td>ûn-strûcṫ-ůr-𝕖d</td><td>a. lacking definite structure or organization</td></tr>
+<tr><td>unstructured</td><td>ûnstrûctůr𝕖d</td><td>un-struct-ur-ed</td><td>ûn-strûct-ůr-𝕖d</td><td>a. lacking definite structure or organization</td></tr>
 <tr><td>deconstruct</td><td>dēco̊nstrûct</td><td>de-con-struct</td><td>dē-co̊n-strûct</td><td>v. interpret (a text or an artwork) by the method of deconstructing</td></tr>
 <tr><td>deconstructed</td><td>dēco̊nstrûctėd</td><td>de-con-struct-ed</td><td>dē-co̊n-strûct-ėd</td><td>v. interpret a text or an artwork by the method of deconstructing</td></tr>
 <tr><td>deconstruction</td><td>dēco̊nstrûctio̊n</td><td>de-con-struct-ion</td><td>dē-co̊n-strûct-io̊n</td><td>n. a philosophical theory of criticism seeking to expose contradictions in a work</td></tr>
 <tr><td>deconstructive</td><td>dēco̊nstrûctive</td><td>de-con-struct-ive</td><td>dē-co̊n-strûct-ive</td><td>a. of or relating to deconstruction</td></tr>
-<tr><td>deconstructionism</td><td>dėco̊nstrûctio̊niṡm</td><td>de-con-struct-ion-ism</td><td>dė-co̊n-strûct-io̊n-iṡm</td><td>n. a critical theory that exposes contradictions by delving below surface meaning</td></tr>
-<tr><td>indestructible</td><td>inde̊strûctible</td><td>in-de-struct-ible</td><td>in-de̊-strûct-ible</td><td>a. not easily destroyed</td></tr>
+<tr><td>deconstructionism</td><td>dēco̊nstrûctio̊niṡm</td><td>de-con-struct-ion-ism</td><td>dē-co̊n-strûct-io̊n-iṡm</td><td>n. a critical theory that exposes contradictions by delving below surface meaning</td></tr>
+<tr><td>indestructible</td><td>indėstrûctible</td><td>in-de-struct-ible</td><td>in-dė-strûct-ible</td><td>a. not easily destroyed</td></tr>
 <tr><td>reconstruct</td><td>rēco̊nstrûct</td><td>re-con-struct</td><td>rē-co̊n-strûct</td><td>v. to build again or anew<br>v. to form a mental picture of</td></tr>
 <tr><td>reconstructed</td><td>rēco̊nstrûctėd</td><td>re-con-struct-ed</td><td>rē-co̊n-strûct-ėd</td><td>a. adapted to social or economic change<br>v. construct again</td></tr>
 <tr><td>reconstruction</td><td>rēco̊nstrûctio̊n</td><td>re-con-struct-ion</td><td>rē-co̊n-strûct-io̊n</td><td>n. the activity of constructing something again<br>n. an interpretation formed by piecing together bits of evidence</td></tr>
 <tr><td>reconstructive</td><td>rēco̊nstrûctive</td><td>re-con-struct-ive</td><td>rē-co̊n-strûct-ive</td><td>a. helping to restore to good condition</td></tr>
 <tr><td>reconstructionist</td><td>rēco̊nstrûctio̊nist</td><td>re-con-struct-ion-ist</td><td>rē-co̊n-strûct-io̊n-ist</td><td>n. an advocate of reconstruction</td></tr>
-<tr><td>unobstructed</td><td>ûno̊bstrûctėd</td><td>un-ob-struct-ed</td><td>ûn-o̊b-strûct-ėd</td><td>a. free from impediment or obstruction or hindrance</td></tr>
+<tr><td>unobstructed</td><td>ûnobstrûctėd</td><td>un-ob-struct-ed</td><td>ûn-ob-strûct-ėd</td><td>a. free from impediment or obstruction or hindrance</td></tr>
 <tr><td>unreconstructed</td><td>ûnrēco̊nstrûctėd</td><td>un-re-con-struct-ed</td><td>ûn-rē-co̊n-strûct-ėd</td><td>a. adhering to an attitude or position widely held to be outmoded</td></tr>
 <tr><td>strudel</td><td>strūde̊l</td><td>strudel</td><td>strūde̊l</td><td>n. thin sheet of filled dough rolled and baked</td></tr>
 <tr><td>construe</td><td>co̊nstrūe</td><td>con-strue</td><td>co̊n-strūe</td><td>v. to interpret the meaning of something</td></tr>
@@ -6519,7 +6519,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>abstruse</td><td>åbstrūse</td><td>ab-struse</td><td>åb-strūse</td><td>a. difficult to penetrate; incomprehensible to one of ordinary understanding</td></tr>
 <tr><td>strut</td><td>strût</td><td>strut</td><td>strût</td><td>n. a proud stiff gait; a bar used to resist compression<br>v. to walk in a proud way</td></tr>
 <tr><td>strutting</td><td>strûtting</td><td>strutt-ing</td><td>strûtt-ing</td><td>v to walk with a lofty proud gait, often in an attempt to impress others</td></tr>
-<tr><td>strychnine</td><td>strẏc𝕙nīne</td><td>strychnine</td><td>strẏc𝕙nīne</td><td>n. a highly toxic alkaloid used as a poison</td></tr>
+<tr><td>strychnine</td><td>strẏc𝕙nĩne</td><td>strychnine</td><td>strẏc𝕙nĩne</td><td>n. a highly toxic alkaloid used as a poison</td></tr>
 <tr><td>stub</td><td>stûb</td><td>stub</td><td>stûb</td><td>n. a short remaining piece; a ticket receipt</td></tr>
 <tr><td>stubble</td><td>stûbble</td><td>stubble</td><td>stûbble</td><td>n. short stiff hairs on a man&#x27;s unshaven face<br>n. short stalks left in a field after harvest</td></tr>
 <tr><td>stubborn</td><td>stûbbo̊rn</td><td>stub-born</td><td>stûb-bo̊rn</td><td>a. tenaciously unwilling or marked by tenacious unwillingness to yield</td></tr>
@@ -6530,16 +6530,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stubborner</td><td>stûbbo̊rne̊r</td><td>stub-born-er</td><td>stûb-bo̊rn-e̊r</td><td></td></tr>
 <tr><td>stubbornest</td><td>stûbbo̊rnėst</td><td>stub-born-est</td><td>stûb-bo̊rn-ėst</td><td></td></tr>
 <tr><td>stubbornly</td><td>stûbbo̊rnlẏ</td><td>stub-born-ly</td><td>stûb-bo̊rn-lẏ</td><td>adv. in a stubborn manner</td></tr>
-<tr><td>stubbornness</td><td>stûbbo̊rnne̊ss</td><td>stub-born-ness</td><td>stûb-bo̊rn-ne̊ss</td><td>n. the trait of being difficult to handle</td></tr>
+<tr><td>stubbornness</td><td>stûbbo̊rnnėss</td><td>stub-born-ness</td><td>stûb-bo̊rn-nėss</td><td>n. the trait of being difficult to handle</td></tr>
 <tr><td>stucco</td><td>stûccō</td><td>stucco</td><td>stûccō</td><td>n. a plaster used for coating wall surfaces<br>v. coat with stucco</td></tr>
 <tr><td>stuccoed</td><td>stûccō𝕖d</td><td>stucco-ed</td><td>stûccō-𝕖d</td><td>v. decorate with stucco work<br>v. coat with stucco (stucco的过去式和过去分词)</td></tr>
 <tr><td>stud</td><td>stûd</td><td>stud</td><td>stûd</td><td>n. a small piece of jewelry worn on a pierced ear; a male animal kept for breeding<br>vt. to decorate with studs</td></tr>
 <tr><td>studded</td><td>stûddėd</td><td>studd-ed</td><td>stûdd-ėd</td><td>a. dotted or adorned with studs or nailheads</td></tr>
 <tr><td>student</td><td>stūde̊nt</td><td>stud-ent</td><td>stūd-e̊nt</td><td>n. a person who is learning or studying at a school or college</td></tr>
-<tr><td>studies</td><td>stûdĩ𝕖ṡ</td><td>stud-ies</td><td>stûd-ĩ𝕖ṡ</td><td>n. plural of study</td></tr>
+<tr><td>studies</td><td>stûdi𝕖ṡ</td><td>stud-ies</td><td>stûd-i𝕖ṡ</td><td>n. plural of study</td></tr>
 <tr><td>studs</td><td>stûdṡ</td><td>stud-s</td><td>stûd-ṡ</td><td></td></tr>
 <tr><td>study</td><td>stûdẏ</td><td>stud-y</td><td>stûd-ẏ</td><td>n. the act of learning; a room for reading and writing<br>v. to learn; to examine carefully; to consider</td></tr>
-<tr><td>studied</td><td>stûdĩ𝕖d</td><td>stud-i-ed</td><td>stûd-ĩ-𝕖d</td><td>a. produced or marked by conscious design or premeditation</td></tr>
+<tr><td>studied</td><td>stûdi𝕖d</td><td>stud-i-ed</td><td>stûd-i-𝕖d</td><td>a. produced or marked by conscious design or premeditation</td></tr>
 <tr><td>studying</td><td>stûdẏing</td><td>stud-y-ing</td><td>stûd-ẏ-ing</td><td>n. reading carefully with intent to remember<br>v. be a student of a certain subject</td></tr>
 <tr><td>studio</td><td>stūdiō</td><td>stud-i-o</td><td>stūd-i-ō</td><td>n. a room or building where an artist works<br>n. a place where films or television programmes are made</td></tr>
 <tr><td>studious</td><td>stūdio̊us</td><td>stud-i-ous</td><td>stūd-i-o̊us</td><td>a. marked by care and effort; diligent</td></tr>
@@ -6547,21 +6547,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>studiously</td><td>stūdio̊uslẏ</td><td>stud-i-ous-ly</td><td>stūd-i-o̊us-lẏ</td><td>adv. in a careful and deliberate manner</td></tr>
 <tr><td>studios</td><td>stūdiōṡ</td><td>stud-i-o-s</td><td>stūd-i-ō-ṡ</td><td></td></tr>
 <tr><td>understudy</td><td>ûnde̊rstûdẏ</td><td>under-stud-y</td><td>ûnde̊r-stûd-ẏ</td><td>n. an actor able to replace a regular performer when required<br>v. be an understudy or alternate for a role</td></tr>
-<tr><td>understudied</td><td>ûnde̊rstûdiėd</td><td>under-stud-i-ed</td><td>ûnde̊r-stûd-i-ėd</td><td>v. be an understudy or alternate for a role</td></tr>
-<tr><td>unstudied</td><td>ûnstûdiėd</td><td>un-stud-i-ed</td><td>ûn-stûd-i-ėd</td><td>a. not by design or artifice; unforced and impromptu</td></tr>
+<tr><td>understudied</td><td>ûnde̊rstûdi𝕖d</td><td>under-stud-i-ed</td><td>ûnde̊r-stûd-i-𝕖d</td><td>v. be an understudy or alternate for a role</td></tr>
+<tr><td>unstudied</td><td>ûnstûdi𝕖d</td><td>un-stud-i-ed</td><td>ûn-stûd-i-𝕖d</td><td>a. not by design or artifice; unforced and impromptu</td></tr>
 <tr><td>stuff</td><td>stûff</td><td>stuff</td><td>stûff</td><td>n. matter, material, or things of a specified kind<br>vt. to fill tightly</td></tr>
 <tr><td>stuffed</td><td>stûff𝕖ḋ</td><td>stuff-ed</td><td>stûff-𝕖ḋ</td><td>a. filled with something</td></tr>
 <tr><td>stuffer</td><td>stûffe̊r</td><td>stuff-er</td><td>stûff-e̊r</td><td>n. an advertising circular that is enclosed with other material and (usually) sent by mail</td></tr>
 <tr><td>stuffing</td><td>stûffing</td><td>stuff-ing</td><td>stûff-ing</td><td>n. a mixture of seasoned ingredients used to fill food; padding material</td></tr>
 <tr><td>stuffs</td><td>stûffs</td><td>stuff-s</td><td>stûff-s</td><td></td></tr>
 <tr><td>stuffy</td><td>stûffẏ</td><td>stuff-y</td><td>stûff-ẏ</td><td>a. lacking fresh air; too formal or conventional</td></tr>
-<tr><td>stuffiness</td><td>stûffine̊ss</td><td>stuff-i-ness</td><td>stûff-i-ne̊ss</td><td>n. state of obstruction or stoppage of air in the nose or throat<br>n. the quality of being close and poorly ventilated</td></tr>
+<tr><td>stuffiness</td><td>stûffinėss</td><td>stuff-i-ness</td><td>stûff-i-nėss</td><td>n. state of obstruction or stoppage of air in the nose or throat<br>n. the quality of being close and poorly ventilated</td></tr>
 <tr><td>stuffings</td><td>stûffingṡ</td><td>stuff-ing-s</td><td>stûff-ing-ṡ</td><td></td></tr>
 <tr><td>overstuff</td><td>ōve̊rstûff</td><td>over-stuff</td><td>ōve̊r-stûff</td><td>v. stuff too much</td></tr>
 <tr><td>overstuffed</td><td>ōve̊rstûff𝕖ḋ</td><td>over-stuff-ed</td><td>ōve̊r-stûff-𝕖ḋ</td><td>a. upholstered thickly and deeply</td></tr>
 <tr><td>unstuffed</td><td>ûnstûff𝕖ḋ</td><td>un-stuff-ed</td><td>ûn-stûff-𝕖ḋ</td><td>v. cause to become unblocked<br>a. not stuffed</td></tr>
-<tr><td>stultify</td><td>stûlti̊fȳ</td><td>stult-ify</td><td>stûlt-i̊fȳ</td><td>v. cause to appear foolish</td></tr>
-<tr><td>stultifying</td><td>stûlti̊fȳing</td><td>stult-ify-ing</td><td>stûlt-i̊fȳ-ing</td><td>v. cause to appear foolish<br>v. deprive of strength or efficiency</td></tr>
+<tr><td>stultify</td><td>stûltifȳ</td><td>stult-ify</td><td>stûlt-ifȳ</td><td>v. cause to appear foolish</td></tr>
+<tr><td>stultifying</td><td>stûltifȳing</td><td>stult-ify-ing</td><td>stûlt-ifȳ-ing</td><td>v. cause to appear foolish<br>v. deprive of strength or efficiency</td></tr>
 <tr><td>stumble</td><td>stûmble</td><td>stumble</td><td>stûmble</td><td>vi. to trip or lose one&#x27;s balance while walking or running<br>vi. to make a mistake or hesitate</td></tr>
 <tr><td>stumbled</td><td>stûmbl𝕖d</td><td>stumbl-ed</td><td>stûmbl-𝕖d</td><td></td></tr>
 <tr><td>stumbling</td><td>stûmbling</td><td>stumbl-ing</td><td>stûmbl-ing</td><td>v. walk unsteadily<br>v. miss a step and fall or nearly fall</td></tr>
@@ -6579,25 +6579,25 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stunningly</td><td>stûnninglẏ</td><td>stunn-ing-ly</td><td>stûnn-ing-lẏ</td><td>adv. in a spectacular manner</td></tr>
 <tr><td>stunt</td><td>stûnt</td><td>stunt</td><td>stûnt</td><td>n. a dangerous feat done for entertainment<br>vt. to prevent the growth of</td></tr>
 <tr><td>stunted</td><td>stûntėd</td><td>stunt-ed</td><td>stûnt-ėd</td><td>a. inferior in size or quality</td></tr>
-<tr><td>stuntman</td><td>stûntman</td><td>stunt-man</td><td>stûnt-man</td><td>n. a man who performs dangerous stunts as a stand-in for an actor</td></tr>
+<tr><td>stuntman</td><td>stûntmån</td><td>stunt-man</td><td>stûnt-mån</td><td>n. a man who performs dangerous stunts as a stand-in for an actor</td></tr>
 <tr><td>stunts</td><td>stûnts</td><td>stunt-s</td><td>stûnt-s</td><td></td></tr>
 <tr><td>stupid</td><td>stūpid</td><td>stup-id</td><td>stūp-id</td><td>n. a person who is not very bright<br>a. lacking or marked by lack of intellectual acuity</td></tr>
 <tr><td>stupendous</td><td>stūpendo̊us</td><td>stupend-ous</td><td>stūpend-o̊us</td><td>a. so great in size or force or extent as to elicit awe</td></tr>
 <tr><td>stupor</td><td>stūpo̊r</td><td>stup-or</td><td>stūp-o̊r</td><td>n. a state of reduced awareness or consciousness</td></tr>
 <tr><td>stupefied</td><td>stūpėfī𝕖d</td><td>stupe-fi-ed</td><td>stūpė-fī-𝕖d</td><td>v. make dull or stupid or muddle with drunkenness or infatuation<br>a. in a state of mental numbness especially as resulting from shock</td></tr>
 <tr><td>stupider</td><td>stūpide̊r</td><td>stup-id-er</td><td>stūp-id-e̊r</td><td></td></tr>
-<tr><td>stupidest</td><td>stūpide̊st</td><td>stup-id-est</td><td>stūp-id-e̊st</td><td>a. lacking or marked by lack of intellectual acuity<br>a. lacking intelligence</td></tr>
+<tr><td>stupidest</td><td>stūpidėst</td><td>stup-id-est</td><td>stūp-id-ėst</td><td>a. lacking or marked by lack of intellectual acuity<br>a. lacking intelligence</td></tr>
 <tr><td>stupefying</td><td>stūpėfȳing</td><td>stupe-fy-ing</td><td>stūpė-fȳ-ing</td><td>a. making physically stupid or dull or insensible<br>a. shocking with surprise and consternation</td></tr>
 <tr><td>stupidity</td><td>stūpiditẏ</td><td>stup-id-ity</td><td>stūp-id-itẏ</td><td>n. a poor ability to understand or to profit from experience; a stupid mistake</td></tr>
-<tr><td>stupidly</td><td>stūpi̊dlẏ</td><td>stup-id-ly</td><td>stūp-i̊d-lẏ</td><td>adv. in a stupid manner</td></tr>
+<tr><td>stupidly</td><td>stūpidlẏ</td><td>stup-id-ly</td><td>stūp-id-lẏ</td><td>adv. in a stupid manner</td></tr>
 <tr><td>stupendously</td><td>stūpendo̊uslẏ</td><td>stupend-ous-ly</td><td>stūpend-o̊us-lẏ</td><td>adv. to a stupendous degree</td></tr>
 <tr><td>stuporous</td><td>stūpo̊ro̊us</td><td>stup-or-ous</td><td>stūp-o̊r-o̊us</td><td>a. stunned or confused and slow to react</td></tr>
-<tr><td>stupa</td><td>stūpà</td><td>stupa</td><td>stūpà</td><td>n. a dome-shaped shrine erected by Buddhists</td></tr>
+<tr><td>stupa</td><td>stūpå</td><td>stupa</td><td>stūpå</td><td>n. a dome-shaped shrine erected by Buddhists</td></tr>
 <tr><td>stupefy</td><td>stūpėfȳ</td><td>stupe-fy</td><td>stūpė-fȳ</td><td>v. make dull or stupid or muddle with drunkenness or infatuation<br>v. make senseless or dizzy by or as if by a blow</td></tr>
 <tr><td>sturdy</td><td>stůrdẏ</td><td>sturd-y</td><td>stůrd-ẏ</td><td>a. strongly and solidly built; robust</td></tr>
 <tr><td>sturdily</td><td>stůrdilẏ</td><td>sturd-i-ly</td><td>stůrd-i-lẏ</td><td>adv. in a sturdy manner</td></tr>
-<tr><td>sturdiness</td><td>stůrdine̊ss</td><td>sturd-i-ness</td><td>stůrd-i-ne̊ss</td><td>n. the state of being vigorous and robust<br>n. the property of something that is strongly built<br>n. resoluteness evidenced by strength of character</td></tr>
-<tr><td>sturgeon</td><td>stůrgeo̊n</td><td>sturgeon</td><td>stůrgeo̊n</td><td>n. large primitive fishes valued for their flesh and roe</td></tr>
+<tr><td>sturdiness</td><td>stůrdinėss</td><td>sturd-i-ness</td><td>stůrd-i-nėss</td><td>n. the state of being vigorous and robust<br>n. the property of something that is strongly built<br>n. resoluteness evidenced by strength of character</td></tr>
+<tr><td>sturgeon</td><td>stůrg𝕖o̊n</td><td>sturgeon</td><td>stůrg𝕖o̊n</td><td>n. large primitive fishes valued for their flesh and roe</td></tr>
 <tr><td>stutter</td><td>stûtte̊r</td><td>stutt-er</td><td>stûtt-e̊r</td><td>v. to speak with involuntary pauses and repetitions<br>n. a speech disorder involving hesitation</td></tr>
 <tr><td>stutterer</td><td>stûtte̊re̊r</td><td>stutt-er-er</td><td>stûtt-e̊r-e̊r</td><td>n. someone who speaks with involuntary pauses and repetitions</td></tr>
 <tr><td>stuttering</td><td>stûtte̊ring</td><td>stutt-er-ing</td><td>stûtt-e̊r-ing</td><td>v. speak haltingly</td></tr>
@@ -6623,15 +6623,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>stylistically</td><td>stȳlisticållẏ</td><td>styl-ist-ic-al-ly</td><td>stȳl-ist-ic-ål-lẏ</td><td>adv. in a stylistic manner</td></tr>
 <tr><td>lifestyle</td><td>līf𝕖stȳle</td><td>life-style</td><td>līf𝕖-stȳle</td><td>n. a manner of living that reflects the person&#x27;s values and attitudes</td></tr>
 <tr><td>lifestyles</td><td>līf𝕖stȳl𝕖ṡ</td><td>life-style-s</td><td>līf𝕖-stȳl𝕖-ṡ</td><td></td></tr>
-<tr><td>peristyle</td><td>pèri̊stȳle</td><td>peri-style</td><td>pèri̊-stȳle</td><td>n. a colonnade surrounding a building or enclosing a court</td></tr>
-<tr><td>restyle</td><td>rēstȳle</td><td>re-style</td><td>rē-stȳle</td><td>v. give a new style to</td></tr>
-<tr><td>restyled</td><td>rēstȳl𝕖d</td><td>re-styl-ed</td><td>rē-stȳl-𝕖d</td><td>a. changed in style or design</td></tr>
-<tr><td>stymie</td><td>stȳmiē</td><td>stymie</td><td>stȳmiē</td><td>n. in golf, where an opponent&#x27;s ball blocks the line to the hole<br>n. a thwarting and distressing situation</td></tr>
-<tr><td>stymied</td><td>stȳmĩ𝕖d</td><td>stymi-ed</td><td>stȳmĩ-𝕖d</td><td>a. hindered or prevented from making progress</td></tr>
+<tr><td>peristyle</td><td>peristȳle</td><td>peri-style</td><td>peri-stȳle</td><td>n. a colonnade surrounding a building or enclosing a court</td></tr>
+<tr><td>restyle</td><td>rėstȳle</td><td>re-style</td><td>rė-stȳle</td><td>v. give a new style to</td></tr>
+<tr><td>restyled</td><td>rėstȳl𝕖d</td><td>re-styl-ed</td><td>rė-stȳl-𝕖d</td><td>a. changed in style or design</td></tr>
+<tr><td>stymie</td><td>stȳmie</td><td>stymie</td><td>stȳmie</td><td>n. in golf, where an opponent&#x27;s ball blocks the line to the hole<br>n. a thwarting and distressing situation</td></tr>
+<tr><td>stymied</td><td>stȳmi𝕖d</td><td>stymi-ed</td><td>stȳmi-𝕖d</td><td>a. hindered or prevented from making progress</td></tr>
 <tr><td>styptic</td><td>stẏptic</td><td>stypt-ic</td><td>stẏpt-ic</td><td>a. capable of stopping bleeding</td></tr>
 <tr><td>styrene</td><td>stȳrēne</td><td>styr-ene</td><td>stȳr-ēne</td><td>n. a colorless oily liquid; the monomer for polystyrene</td></tr>
-<tr><td>polystyrene</td><td>polẏstȳrēne</td><td>poly-styr-ene</td><td>polẏ-stȳr-ēne</td><td>n. a polymer of styrene; a rigid transparent thermoplastic</td></tr>
-<tr><td>suasion</td><td>sùāsio̊n</td><td>suas-ion</td><td>sùās-io̊n</td><td>n. the act of persuading; communication intended to induce belief or action</td></tr>
+<tr><td>polystyrene</td><td>polẏstȳrene</td><td>poly-styr-ene</td><td>polẏ-stȳr-ene</td><td>n. a polymer of styrene; a rigid transparent thermoplastic</td></tr>
+<tr><td>suasion</td><td>suāsio̊n</td><td>suas-ion</td><td>suās-io̊n</td><td>n. the act of persuading; communication intended to induce belief or action</td></tr>
 <tr><td>dissuade</td><td>dissùāde</td><td>dis-suade</td><td>dis-sùāde</td><td>vt. to persuade someone not to do something</td></tr>
 <tr><td>persuade</td><td>pe̊rsùāde</td><td>per-suade</td><td>pe̊r-sùāde</td><td>vt. to cause someone to do something by reasoning or argument<br>vi. to urge successfully</td></tr>
 <tr><td>persuadable</td><td>pe̊rsùādåble</td><td>per-suad-able</td><td>pe̊r-sùād-åble</td><td>a. being susceptible to persuasion</td></tr>
@@ -6642,29 +6642,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>persuasiveness</td><td>pe̊rsùāsiv𝕖nėss</td><td>per-suas-ive-ness</td><td>pe̊r-sùās-iv𝕖-nėss</td><td>n. the power to induce the taking of a course of action</td></tr>
 <tr><td>unpersuasive</td><td>ûnpe̊rsùāsive</td><td>un-per-suas-ive</td><td>ûn-pe̊r-sùās-ive</td><td>a. not capable of persuading</td></tr>
 <tr><td>assuage</td><td>åssùāge</td><td>as-suage</td><td>ås-sùāge</td><td>v cause to be more favorably inclined; gain the good will of<br>v satisfy (thirst)<br>v provide physical relief, as from pain</td></tr>
-<tr><td>suave</td><td>sùàve</td><td>suave</td><td>sùàve</td><td>a. having a sophisticated charm</td></tr>
-<tr><td>suavity</td><td>sùavitẏ</td><td>suav-ity</td><td>sùav-itẏ</td><td>n. the quality of being smoothly agreeable</td></tr>
-<tr><td>suavely</td><td>sùāv𝕖lẏ</td><td>suave-ly</td><td>sùāv𝕖-lẏ</td><td>adv. with suavity; in a suave manner</td></tr>
+<tr><td>suave</td><td>suàve</td><td>suave</td><td>suàve</td><td>a. having a sophisticated charm</td></tr>
+<tr><td>suavity</td><td>sūavitẏ</td><td>suav-ity</td><td>sūav-itẏ</td><td>n. the quality of being smoothly agreeable</td></tr>
+<tr><td>suavely</td><td>suàv𝕖lẏ</td><td>suave-ly</td><td>suàv𝕖-lẏ</td><td>adv. with suavity; in a suave manner</td></tr>
 <tr><td>sub</td><td>sûb</td><td>sub</td><td>sûb</td><td>n. a submarine<br>n. a substitute<br>v. to act as a substitute</td></tr>
 <tr><td>subs</td><td>sûbṡ</td><td>sub-s</td><td>sûb-ṡ</td><td></td></tr>
 <tr><td>subtle</td><td>sûbtle</td><td>subtle</td><td>sûbtle</td><td>a. not obvious; delicate and hard to detect</td></tr>
 <tr><td>subtler</td><td>sûbtle̊r</td><td>subtl-er</td><td>sûbtl-e̊r</td><td></td></tr>
 <tr><td>subtlest</td><td>sûbtlėst</td><td>subtl-est</td><td>sûbtl-ėst</td><td></td></tr>
-<tr><td>subtly</td><td>sûbtlẏ</td><td>subt-ly</td><td>sûbt-lẏ</td><td>adv. in a subtle manner</td></tr>
-<tr><td>subtlety</td><td>sûbtletẏ</td><td>subtle-ty</td><td>sûbtle-tẏ</td><td>n. the quality of being subtle</td></tr>
+<tr><td>subtly</td><td>sû𝕓tlẏ</td><td>subt-ly</td><td>sû𝕓t-lẏ</td><td>adv. in a subtle manner</td></tr>
+<tr><td>subtlety</td><td>sû𝕓tl𝕖tẏ</td><td>subtle-ty</td><td>sû𝕓tl𝕖-tẏ</td><td>n. the quality of being subtle</td></tr>
 <tr><td>unsubtle</td><td>ûnsû𝕓tle</td><td>un-subt-le</td><td>ûn-sû𝕓t-le</td><td>a. lacking subtlety; obvious</td></tr>
 <tr><td>succor</td><td>sûcco̊r</td><td>succ-or</td><td>sûcc-o̊r</td><td>n. assistance in time of difficulty<br>v. help in a difficult situation</td></tr>
 <tr><td>succour</td><td>sûcco̊ur</td><td>succ-our</td><td>sûcc-o̊ur</td><td>n. help in time of distress</td></tr>
-<tr><td>succedaneum</td><td>sůccėdānėům</td><td>succed-ane-um</td><td>sůccėd-ānė-ům</td><td>n. a substitute</td></tr>
+<tr><td>succedaneum</td><td>sůccedånēům</td><td>succed-ane-um</td><td>sůcced-ånē-ům</td><td>n. a substitute</td></tr>
 <tr><td>succinctness</td><td>sůccinctnėss</td><td>succinct-ness</td><td>sůccinct-nėss</td><td>n. the quality of being concise</td></tr>
-<tr><td>succinylcholine</td><td>sůccinẏlchōline</td><td>succinylcholine</td><td>sůccinẏlchōline</td><td>n. a muscle relaxant used as an adjunct to anesthesia during certain surgical procedures</td></tr>
+<tr><td>succinylcholine</td><td>sůccinẏlc𝕙olĩne</td><td>succinylcholine</td><td>sůccinẏlc𝕙olĩne</td><td>n. a muscle relaxant used as an adjunct to anesthesia during certain surgical procedures</td></tr>
 <tr><td>succotash</td><td>sûcco̊tash</td><td>succotash</td><td>sûcco̊tash</td><td>n. fresh corn and lima beans with butter or cream</td></tr>
-<tr><td>succubus</td><td>sûccūbûs</td><td>succubus</td><td>sûccūbûs</td><td>n. a female demon believed to have sexual intercourse with sleeping men</td></tr>
+<tr><td>succubus</td><td>sûccūbůs</td><td>succubus</td><td>sûccūbůs</td><td>n. a female demon believed to have sexual intercourse with sleeping men</td></tr>
 <tr><td>succulence</td><td>sûccūle̊nce</td><td>succul-ence</td><td>sûccūl-e̊nce</td><td>n. a juicy appetizingness</td></tr>
-<tr><td>succulent</td><td>sûccūlėnt</td><td>succul-ent</td><td>sûccūl-ėnt</td><td>n. a plant adapted to arid conditions with fleshy water-storing tissues<br>a. full of juice</td></tr>
+<tr><td>succulent</td><td>sûccūle̊nt</td><td>succul-ent</td><td>sûccūl-e̊nt</td><td>n. a plant adapted to arid conditions with fleshy water-storing tissues<br>a. full of juice</td></tr>
 <tr><td>such</td><td>sûch</td><td>such</td><td>sûch</td><td>a. of this kind; so great; of that type<br>pron. a person or thing of this kind</td></tr>
 <tr><td>suchlike</td><td>sûchlīke</td><td>such-like</td><td>sûch-līke</td><td>a. of the same kind</td></tr>
-<tr><td>nonesuch</td><td>no̊n𝕖sûch</td><td>none-such</td><td>no̊n𝕖-sûch</td><td>n. a person or thing without equal</td></tr>
+<tr><td>nonesuch</td><td>nôn𝕖sûch</td><td>none-such</td><td>nôn𝕖-sûch</td><td>n. a person or thing without equal</td></tr>
 <tr><td>suck</td><td>sûck</td><td>suck</td><td>sûck</td><td>v. to draw liquid into the mouth by creating a vacuum<br>v. to draw in by applying a force</td></tr>
 <tr><td>sucked</td><td>sûck𝕖ḋ</td><td>suck-ed</td><td>sûck-𝕖ḋ</td><td></td></tr>
 <tr><td>sucker</td><td>sûcke̊r</td><td>suck-er</td><td>sûck-e̊r</td><td>n. a person who is easily deceived or taken advantage of<br>n. an organ specialized for sucking</td></tr>
@@ -6675,43 +6675,43 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sucky</td><td>sûckẏ</td><td>suck-y</td><td>sûck-ẏ</td><td>a. very bad or unpleasant</td></tr>
 <tr><td>suckers</td><td>sûcke̊rṡ</td><td>suck-er-s</td><td>sûck-e̊r-ṡ</td><td></td></tr>
 <tr><td>sapsucker</td><td>sapsûcke̊r</td><td>sap-suck-er</td><td>sap-sûck-e̊r</td><td>n. small American woodpecker that feeds on sap from e.g. apple and maple trees</td></tr>
-<tr><td>seersucker</td><td>seersûcke̊r</td><td>seer-suck-er</td><td>seer-sûck-e̊r</td><td>n. a light puckered fabric (usually striped)</td></tr>
+<tr><td>seersucker</td><td>sēersûcke̊r</td><td>seer-suck-er</td><td>sēer-sûck-e̊r</td><td>n. a light puckered fabric (usually striped)</td></tr>
 <tr><td>sucrose</td><td>sūcrōse</td><td>sucr-ose</td><td>sūcr-ōse</td><td>n. a complex carbohydrate found in many plants, used as a sweetening agent</td></tr>
 <tr><td>suction</td><td>sûctio̊n</td><td>suct-ion</td><td>sûct-io̊n</td><td>n. a force over an area produced by a pressure difference<br>v. remove or draw away by the force of suction<br>v. empty or clean (a body cavity) by the force of suction</td></tr>
-<tr><td>liposuction</td><td>lipōsûctio̊n</td><td>lipo-suct-ion</td><td>lipō-sûct-io̊n</td><td>n. a surgical procedure to remove excess fat from under the skin</td></tr>
+<tr><td>liposuction</td><td>lipo̊sûctio̊n</td><td>lipo-suct-ion</td><td>lipo̊-sûct-io̊n</td><td>n. a surgical procedure to remove excess fat from under the skin</td></tr>
 <tr><td>transude</td><td>transūde</td><td>tran-sude</td><td>tran-sūde</td><td>v. to pass through a membrane</td></tr>
-<tr><td>exude</td><td>ėẋūde</td><td>exude</td><td>ėẋūde</td><td>v. release (a liquid) slowly; make apparent by one&#x27;s mood or behavior</td></tr>
+<tr><td>exude</td><td>eẋūde</td><td>exude</td><td>eẋūde</td><td>v. release (a liquid) slowly; make apparent by one&#x27;s mood or behavior</td></tr>
 <tr><td>Sudan</td><td>Sūdan</td><td>Sudan</td><td>Sūdan</td><td>n. a country in northeastern Africa</td></tr>
 <tr><td>sudanese</td><td>sūdånēṡe</td><td>sudan-ese</td><td>sūdån-ēṡe</td><td>n. a native or inhabitant of Sudan<br>a. of or relating to Sudan</td></tr>
 <tr><td>sudden</td><td>sûdde̊n</td><td>sudd-en</td><td>sûdd-e̊n</td><td>a. happening without warning or in a short space of time</td></tr>
 <tr><td>suddenly</td><td>sûdde̊nlẏ</td><td>sudd-en-ly</td><td>sûdd-e̊n-lẏ</td><td>adv. quickly and unexpectedly</td></tr>
-<tr><td>suddenness</td><td>sûdde̊nne̊ss</td><td>sudd-en-ness</td><td>sûdd-e̊n-ne̊ss</td><td>n. the quality of happening with headlong haste or without warning</td></tr>
+<tr><td>suddenness</td><td>sûdde̊nnėss</td><td>sudd-en-ness</td><td>sûdd-e̊n-nėss</td><td>n. the quality of happening with headlong haste or without warning</td></tr>
 <tr><td>sudsy</td><td>sûdṡẏ</td><td>suds-y</td><td>sûdṡ-ẏ</td><td>a resembling lather or covered with lather</td></tr>
 <tr><td>sue</td><td>sūe</td><td>sue</td><td>sūe</td><td>v. institute legal proceedings against; file a suit against</td></tr>
 <tr><td>sued</td><td>sū𝕖d</td><td>su-ed</td><td>sū-𝕖d</td><td></td></tr>
 <tr><td>suing</td><td>sūing</td><td>su-ing</td><td>sū-ing</td><td></td></tr>
 <tr><td>sues</td><td>sū𝕖ṡ</td><td>sue-s</td><td>sū𝕖-ṡ</td><td></td></tr>
-<tr><td>ensue</td><td>ėnsūe</td><td>en-sue</td><td>ėn-sūe</td><td>v. to happen after or as a result of something</td></tr>
+<tr><td>ensue</td><td>ensūe</td><td>en-sue</td><td>en-sūe</td><td>v. to happen after or as a result of something</td></tr>
 <tr><td>ensuing</td><td>ensūing</td><td>en-su-ing</td><td>en-sū-ing</td><td>a. following immediately and as a result of what went before</td></tr>
 <tr><td>pursue</td><td>půrsūe</td><td>pur-sue</td><td>půr-sūe</td><td>v. follow or chase someone or something<br>v. continue to investigate or be involved in something</td></tr>
 <tr><td>pursued</td><td>půrsū𝕖d</td><td>pur-su-ed</td><td>půr-sū-𝕖d</td><td>n. a person who is being chased<br>a. followed with enmity as if to harm</td></tr>
 <tr><td>pursuer</td><td>půrsūe̊r</td><td>pur-su-er</td><td>půr-sū-e̊r</td><td>n. a person who is pursuing and trying to overtake or capture</td></tr>
 <tr><td>pursuing</td><td>půrsūing</td><td>pur-su-ing</td><td>půr-sū-ing</td><td>v. following in order to overtake or capture</td></tr>
 <tr><td>pursues</td><td>půrsū𝕖ṡ</td><td>pur-sue-s</td><td>půr-sū𝕖-ṡ</td><td></td></tr>
-<tr><td>suede</td><td>sùède</td><td>suede</td><td>sùède</td><td>n. leather with a napped surface</td></tr>
+<tr><td>suede</td><td>suède</td><td>suede</td><td>suède</td><td>n. leather with a napped surface</td></tr>
 <tr><td>suet</td><td>sūėt</td><td>suet</td><td>sūėt</td><td>n. hard fat around the kidneys and loins in beef and sheep</td></tr>
 <tr><td>sugar</td><td>sùgår</td><td>sug-ar</td><td>sùg-år</td><td>n. a sweet crystalline substance obtained from sugar cane or sugar beet<br>v. sweeten with sugar</td></tr>
 <tr><td>sugarcane</td><td>sùgårcāne</td><td>sug-ar-cane</td><td>sùg-år-cāne</td><td>n. a tall tropical grass whose sap is a source of sugar</td></tr>
 <tr><td>sugared</td><td>sùgår𝕖d</td><td>sug-ar-ed</td><td>sùg-år-𝕖d</td><td>a. sweetened with sugar</td></tr>
 <tr><td>sugarless</td><td>sùgårlėss</td><td>sug-ar-less</td><td>sùg-år-lėss</td><td>a. not containing sugar</td></tr>
 <tr><td>sugarlike</td><td>sùgårlīke</td><td>sug-ar-like</td><td>sùg-år-līke</td><td>a. resembling sugar</td></tr>
-<tr><td>sugarplum</td><td>sùgårplům</td><td>sug-ar-plum</td><td>sùg-år-plům</td><td>n. any of various small sugary candies</td></tr>
+<tr><td>sugarplum</td><td>sùgårplûm</td><td>sug-ar-plum</td><td>sùg-år-plûm</td><td>n. any of various small sugary candies</td></tr>
 <tr><td>sugars</td><td>sùgårṡ</td><td>sug-ar-s</td><td>sùg-år-ṡ</td><td></td></tr>
 <tr><td>sugary</td><td>sùgårẏ</td><td>sug-ar-y</td><td>sùg-år-ẏ</td><td>a. containing sugar</td></tr>
 <tr><td>suit</td><td>sūit</td><td>suit</td><td>sūit</td><td>n. a set of outer clothes made of the same fabric<br>v. be convenient for or acceptable to</td></tr>
 <tr><td>suitable</td><td>sūitåble</td><td>suit-able</td><td>sūit-åble</td><td>a. right or appropriate for a particular purpose</td></tr>
 <tr><td>suitcase</td><td>sūitcāse</td><td>suit-case</td><td>sūit-cāse</td><td>n. a case with a handle for carrying clothes while traveling</td></tr>
-<tr><td>suited</td><td>sūit𝕖d</td><td>suit-ed</td><td>sūit-𝕖d</td><td>a. outfitted or supplied with clothing<br>a. appropriate for a particular purpose</td></tr>
+<tr><td>suited</td><td>sūitėd</td><td>suit-ed</td><td>sūit-ėd</td><td>a. outfitted or supplied with clothing<br>a. appropriate for a particular purpose</td></tr>
 <tr><td>suiter</td><td>sūite̊r</td><td>suit-er</td><td>sūit-e̊r</td><td>n. a suitcase that holds a certain number of suits</td></tr>
 <tr><td>suiting</td><td>sūiting</td><td>suit-ing</td><td>sūit-ing</td><td></td></tr>
 <tr><td>suitor</td><td>sūito̊r</td><td>suit-or</td><td>sūit-o̊r</td><td>n. a man who courts a woman; one who petitions a court</td></tr>
@@ -6731,47 +6731,47 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wetsuit</td><td>wetsūit</td><td>wet-suit</td><td>wet-sūit</td><td>n. a close-fitting suit worn by swimmers and divers for warmth</td></tr>
 <tr><td>suite</td><td>suĩte</td><td>suite</td><td>suĩte</td><td>n. a set of rooms designated for one person&#x27;s use<br>n. a set of matching furniture</td></tr>
 <tr><td>suites</td><td>suĩt𝕖s</td><td>suite-s</td><td>suĩt𝕖-s</td><td></td></tr>
-<tr><td>ensuite</td><td>𝕖nsuĩte</td><td>en-suite</td><td>𝕖n-suĩte</td><td>a. connected to a bedroom and forming one unit</td></tr>
+<tr><td>ensuite</td><td>ensūite</td><td>en-suite</td><td>en-sūite</td><td>a. connected to a bedroom and forming one unit</td></tr>
 <tr><td>sully</td><td>sûllẏ</td><td>sull-y</td><td>sûll-ẏ</td><td>v. to stain or tarnish</td></tr>
 <tr><td>consul</td><td>consůl</td><td>con-sul</td><td>con-sůl</td><td>n. a diplomat protecting commercial interests and citizens in a foreign country</td></tr>
-<tr><td>consular</td><td>consůlår</td><td>con-sul-ar</td><td>con-sůl-år</td><td>a. having to do with a consul or his office or duties</td></tr>
-<tr><td>consulate</td><td>consůlåte</td><td>con-sul-ate</td><td>con-sůl-åte</td><td>n. diplomatic building that serves as the residence or workplace of a consul</td></tr>
+<tr><td>consular</td><td>consūlår</td><td>con-sul-ar</td><td>con-sūl-år</td><td>a. having to do with a consul or his office or duties</td></tr>
+<tr><td>consulate</td><td>consūlåte</td><td>con-sul-ate</td><td>con-sūl-åte</td><td>n. diplomatic building that serves as the residence or workplace of a consul</td></tr>
 <tr><td>insula</td><td>insūlå</td><td>in-sul-a</td><td>in-sūl-å</td><td></td></tr>
 <tr><td>insular</td><td>insūlår</td><td>in-sul-ar</td><td>in-sūl-år</td><td>a. relating to an island<br>a. narrow-minded or isolated in outlook</td></tr>
 <tr><td>insulate</td><td>insūlāte</td><td>in-sul-ate</td><td>in-sūl-āte</td><td>v. protect from heat, cold, or noise by surrounding with insulating material</td></tr>
-<tr><td>insulin</td><td>insūli̊n</td><td>in-sul-in</td><td>in-sūl-i̊n</td><td>n. a hormone that regulates the amount of glucose in the blood</td></tr>
-<tr><td>insulated</td><td>insūlāt𝕖d</td><td>in-sul-at-ed</td><td>in-sūl-āt-𝕖d</td><td>a. protected from heat, cold, or noise</td></tr>
+<tr><td>insulin</td><td>insūlin</td><td>in-sul-in</td><td>in-sūl-in</td><td>n. a hormone that regulates the amount of glucose in the blood</td></tr>
+<tr><td>insulated</td><td>insūlātėd</td><td>in-sul-at-ed</td><td>in-sūl-āt-ėd</td><td>a. protected from heat, cold, or noise</td></tr>
 <tr><td>insularity</td><td>insūlaritẏ</td><td>in-sul-ar-ity</td><td>in-sūl-ar-itẏ</td><td>n. the state of being isolated or detached</td></tr>
 <tr><td>insulating</td><td>insūlāting</td><td>in-sul-at-ing</td><td>in-sūl-āt-ing</td><td>a. protecting from heat, cold, or noise</td></tr>
 <tr><td>insulation</td><td>insūlātio̊n</td><td>in-sul-at-ion</td><td>in-sūl-āt-io̊n</td><td>n. the state of being isolated or detached<br>n. the act of protecting something with material that reduces transmission</td></tr>
 <tr><td>insulator</td><td>insūlāto̊r</td><td>in-sul-at-or</td><td>in-sūl-āt-o̊r</td><td>n. a material such as glass with negligible electrical or thermal conductivity</td></tr>
 <tr><td>peninsula</td><td>pėninsūlå</td><td>pen-in-sul-a</td><td>pėn-in-sūl-å</td><td>n. a piece of land almost surrounded by water</td></tr>
-<tr><td>peninsular</td><td>pe̊ninsùlår</td><td>pen-in-sul-ar</td><td>pe̊n-in-sùl-år</td><td>a. of or forming or resembling a peninsula</td></tr>
+<tr><td>peninsular</td><td>pe̊ninsūlår</td><td>pen-in-sul-ar</td><td>pe̊n-in-sūl-år</td><td>a. of or forming or resembling a peninsula</td></tr>
 <tr><td>uninsulated</td><td>ûninsūlātėd</td><td>un-in-sul-at-ed</td><td>ûn-in-sūl-āt-ėd</td><td>a. not insulated</td></tr>
-<tr><td>sulcus</td><td>sûlcûs</td><td>sulc-us</td><td>sûlc-ûs</td><td>n. a narrow groove or furrow, especially on the surface of the brain</td></tr>
+<tr><td>sulcus</td><td>sûlcůs</td><td>sulc-us</td><td>sûlc-ůs</td><td>n. a narrow groove or furrow, especially on the surface of the brain</td></tr>
 <tr><td>sulfa</td><td>sûlfå</td><td>sulf-a</td><td>sûlf-å</td><td>n. any of various antibacterial drugs containing sulfonamide<br>a. of or relating to sulfa drugs</td></tr>
 <tr><td>sulfate</td><td>sûlfāte</td><td>sulf-ate</td><td>sûlf-āte</td><td>n. a salt of sulphuric acid</td></tr>
 <tr><td>sulfide</td><td>sûlfīde</td><td>sulf-ide</td><td>sûlf-īde</td><td>n. a compound of sulphur and another element</td></tr>
 <tr><td>sulfite</td><td>sûlfīte</td><td>sulf-ite</td><td>sûlf-īte</td><td>n. a salt or ester of sulphurous acid</td></tr>
 <tr><td>sulfur</td><td>sûlfůr</td><td>sulf-ur</td><td>sûlf-ůr</td><td>n. a yellow chemical element with a distinctive smell</td></tr>
 <tr><td>sulfuric</td><td>sûlfūric</td><td>sulf-ur-ic</td><td>sûlf-ūr-ic</td><td>a. of or relating to or containing sulfur</td></tr>
-<tr><td>sulfurous</td><td>sûlfůro̊us</td><td>sulf-ur-ous</td><td>sûlf-ůr-o̊us</td><td>a. of or related to or containing sulfur or derived from sulfur</td></tr>
+<tr><td>sulfurous</td><td>sûlfūro̊us</td><td>sulf-ur-ous</td><td>sûlf-ūr-o̊us</td><td>a. of or related to or containing sulfur or derived from sulfur</td></tr>
 <tr><td>sulk</td><td>sûlk</td><td>sulk</td><td>sûlk</td><td>n. a mood of sullen aloofness<br>v. to be in a huff</td></tr>
 <tr><td>sulking</td><td>sûlking</td><td>sulk-ing</td><td>sûlk-ing</td><td>v be in a huff and display one&#x27;s displeasure</td></tr>
 <tr><td>sulky</td><td>sûlkẏ</td><td>sulk-y</td><td>sûlk-ẏ</td><td>n. a light two-wheeled vehicle for one person<br>a. sullenly silent and withdrawn</td></tr>
 <tr><td>sulkily</td><td>sûlkilẏ</td><td>sulk-i-ly</td><td>sûlk-i-lẏ</td><td>adv. in a sulky manner</td></tr>
 <tr><td>sullen</td><td>sûlle̊n</td><td>sull-en</td><td>sûll-e̊n</td><td>a. showing a brooding ill humor</td></tr>
-<tr><td>sullied</td><td>sûllĩ𝕖d</td><td>sull-i-ed</td><td>sûll-ĩ-𝕖d</td><td>a. stained or tarnished</td></tr>
+<tr><td>sullied</td><td>sûlli𝕖d</td><td>sull-i-ed</td><td>sûll-i-𝕖d</td><td>a. stained or tarnished</td></tr>
 <tr><td>sullenly</td><td>sûlle̊nlẏ</td><td>sull-en-ly</td><td>sûll-e̊n-lẏ</td><td>adv. in a sullen manner</td></tr>
 <tr><td>sullenness</td><td>sûlle̊nnėss</td><td>sull-en-ness</td><td>sûll-e̊n-nėss</td><td>n. a gloomy ill-tempered feeling</td></tr>
-<tr><td>unsullied</td><td>ûnsûllĩ𝕖d</td><td>un-sull-i-ed</td><td>ûn-sûll-ĩ-𝕖d</td><td>a. spotlessly clean and fresh</td></tr>
+<tr><td>unsullied</td><td>ûnsûlli𝕖d</td><td>un-sull-i-ed</td><td>ûn-sûll-i-𝕖d</td><td>a. spotlessly clean and fresh</td></tr>
 <tr><td>sulphate</td><td>sûlphāte</td><td>sulph-ate</td><td>sûlph-āte</td><td>n. a salt or ester of sulphuric acid</td></tr>
 <tr><td>sulphur</td><td>sûlphůr</td><td>sulph-ur</td><td>sûlph-ůr</td><td>n. a yellow nonmetallic element<br>v. treat with sulphur in order to preserve</td></tr>
-<tr><td>sulphuric</td><td>sûlphůric</td><td>sulph-ur-ic</td><td>sûlph-ůr-ic</td><td>a. of or relating to or containing sulfur</td></tr>
+<tr><td>sulphuric</td><td>sûlphūric</td><td>sulph-ur-ic</td><td>sûlph-ūr-ic</td><td>a. of or relating to or containing sulfur</td></tr>
 <tr><td>sulphurous</td><td>sûlphůro̊us</td><td>sulph-ur-ous</td><td>sûlph-ůr-o̊us</td><td>a. of or related to or containing sulfur</td></tr>
 <tr><td>sultan</td><td>sûltån</td><td>sult-an</td><td>sûlt-ån</td><td>n. the ruler of a Muslim country</td></tr>
 <tr><td>sultana</td><td>sûltànå</td><td>sult-an-a</td><td>sûlt-àn-å</td><td>n. pale yellow seedless grape used for raisins and wine</td></tr>
-<tr><td>sultanate</td><td>sûltånåte</td><td>sult-an-ate</td><td>sûlt-ån-åte</td><td>n. country or territory ruled by a sultan</td></tr>
+<tr><td>sultanate</td><td>sûltånāte</td><td>sult-an-ate</td><td>sûlt-ån-āte</td><td>n. country or territory ruled by a sultan</td></tr>
 <tr><td>consult</td><td>co̊nsûlt</td><td>con-sult</td><td>co̊n-sûlt</td><td>v. to seek information or advice from someone<br>v. to discuss something with someone</td></tr>
 <tr><td>consultancy</td><td>co̊nsûltåncẏ</td><td>con-sult-ancy</td><td>co̊n-sûlt-åncẏ</td><td>n. the practice of giving expert advice within a particular field</td></tr>
 <tr><td>consultant</td><td>co̊nsûltånt</td><td>con-sult-ant</td><td>co̊n-sûlt-ånt</td><td>n. an expert who gives advice</td></tr>
@@ -6781,8 +6781,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>consultation</td><td>consůltātio̊n</td><td>con-sult-at-ion</td><td>con-sůlt-āt-io̊n</td><td>n. a meeting to discuss or seek advice</td></tr>
 <tr><td>consultative</td><td>co̊nsûltåtive</td><td>con-sult-at-ive</td><td>co̊n-sûlt-åt-ive</td><td>a. giving advice</td></tr>
 <tr><td>consultants</td><td>co̊nsûltånts</td><td>con-sult-ant-s</td><td>co̊n-sûlt-ånt-s</td><td></td></tr>
-<tr><td>desultory</td><td>desůltorẏ</td><td>de-sult-ory</td><td>de-sůlt-orẏ</td><td>a. marked by lack of definite plan or regularity or purpose</td></tr>
-<tr><td>desultorily</td><td>desûlto̊rilẏ</td><td>de-sult-or-i-ly</td><td>de-sûlt-o̊r-i-lẏ</td><td>adv. in a desultory manner; without method or purpose</td></tr>
+<tr><td>desultory</td><td>desůlto̊rẏ</td><td>de-sult-ory</td><td>de-sůlt-o̊rẏ</td><td>a. marked by lack of definite plan or regularity or purpose</td></tr>
+<tr><td>desultorily</td><td>desûlto̊ri̊lẏ</td><td>de-sult-or-i-ly</td><td>de-sûlt-o̊r-i̊-lẏ</td><td>adv. in a desultory manner; without method or purpose</td></tr>
 <tr><td>insult</td><td>insûlt</td><td>in-sult</td><td>in-sûlt</td><td>n. a remark or action that is offensive or disrespectful<br>v. to speak to or treat with disrespect</td></tr>
 <tr><td>insulted</td><td>insûltėd</td><td>in-sult-ed</td><td>in-sûlt-ėd</td><td>v. treat, mention, or speak to rudely</td></tr>
 <tr><td>insulting</td><td>insûlting</td><td>in-sult-ing</td><td>in-sûlt-ing</td><td>a. expressing extreme contempt; treating with disrespect</td></tr>
@@ -6792,9 +6792,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>resultant</td><td>rėṡûltånt</td><td>re-sult-ant</td><td>rė-ṡûlt-ånt</td><td>a. occurring as a result<br>n. something that results from a cause</td></tr>
 <tr><td>resulting</td><td>rėṡûlting</td><td>re-sult-ing</td><td>rė-ṡûlt-ing</td><td>a. occurring as a result or consequence</td></tr>
 <tr><td>results</td><td>rėṡûlts</td><td>re-sult-s</td><td>rė-ṡûlt-s</td><td>n. outcomes (plural of result)</td></tr>
-<tr><td>exult</td><td>ėẋûlt</td><td>ex-ult</td><td>ėẋ-ûlt</td><td>v. feel extreme happiness or elation</td></tr>
-<tr><td>exultant</td><td>ėẋûltånt</td><td>ex-ult-ant</td><td>ėẋ-ûlt-ånt</td><td>a. joyful and proud especially because of triumph or success</td></tr>
-<tr><td>exultantly</td><td>ėẋûltåntlẏ</td><td>ex-ult-ant-ly</td><td>ėẋ-ûlt-ånt-lẏ</td><td>adv. in an exultant manner</td></tr>
+<tr><td>exult</td><td>eẋûlt</td><td>ex-ult</td><td>eẋ-ûlt</td><td>v. feel extreme happiness or elation</td></tr>
+<tr><td>exultant</td><td>eẋûltånt</td><td>ex-ult-ant</td><td>eẋ-ûlt-ånt</td><td>a. joyful and proud especially because of triumph or success</td></tr>
+<tr><td>exultantly</td><td>eẋûltåntlẏ</td><td>ex-ult-ant-ly</td><td>eẋ-ûlt-ånt-lẏ</td><td>adv. in an exultant manner</td></tr>
 <tr><td>sultry</td><td>sûltrẏ</td><td>sultr-y</td><td>sûltr-ẏ</td><td>a. characterized by oppressive heat and humidity</td></tr>
 <tr><td>sum</td><td>sûm</td><td>sum</td><td>sûm</td><td>n. the total amount resulting from the addition of two or more numbers or amounts<br>n. a particular amount of money</td></tr>
 <tr><td>summary</td><td>sûmmårẏ</td><td>summ-ary</td><td>sûmm-årẏ</td><td>n. a brief statement of the main points<br>a. giving the main points only</td></tr>
@@ -6802,7 +6802,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sumpter</td><td>sûmpte̊r</td><td>sumpt-er</td><td>sûmpt-e̊r</td><td>n. an animal (such as a mule or burro or horse) used to carry loads</td></tr>
 <tr><td>summit</td><td>sûmmit</td><td>sum-mit</td><td>sûm-mit</td><td>n. the highest point of something<br>n. a meeting between heads of government</td></tr>
 <tr><td>summon</td><td>sûmmo̊n</td><td>summ-on</td><td>sûmm-o̊n</td><td>v. to order someone to come to a place<br>v. to gather one&#x27;s strength or courage</td></tr>
-<tr><td>sumptuary</td><td>sûmptùårẏ</td><td>sumpt-u-ary</td><td>sûmpt-ù-årẏ</td><td>a. regulating or controlling expenditure or personal behavior</td></tr>
+<tr><td>sumptuary</td><td>sûmptūårẏ</td><td>sumpt-u-ary</td><td>sûmpt-ū-årẏ</td><td>a. regulating or controlling expenditure or personal behavior</td></tr>
 <tr><td>summiteer</td><td>sûmmitēer</td><td>sum-mit-eer</td><td>sûm-mit-ēer</td><td>n. a person who attends or organizes a summit meeting</td></tr>
 <tr><td>summoned</td><td>sûmmo̊n𝕖d</td><td>summ-on-ed</td><td>sûmm-o̊n-𝕖d</td><td></td></tr>
 <tr><td>summarise</td><td>sûmmårīṡe</td><td>summ-ar-ise</td><td>sûmm-år-īṡe</td><td>vt. to make a summary of</td></tr>
@@ -6810,13 +6810,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>summation</td><td>sûmmātio̊n</td><td>summ-at-ion</td><td>sûmm-āt-io̊n</td><td>n. a summary or total</td></tr>
 <tr><td>summative</td><td>sûmmåtive</td><td>summ-at-ive</td><td>sûmm-åt-ive</td><td>a. of or relating to a summation or produced by summation</td></tr>
 <tr><td>summoning</td><td>sûmmo̊ning</td><td>summ-on-ing</td><td>sûmm-o̊n-ing</td><td>n. calling up supposed supernatural forces by spells and incantations<br>v. call in an official matter<br>v. ask to come</td></tr>
-<tr><td>summarily</td><td>sûmmarilẏ</td><td>summ-ari-ly</td><td>sûmm-ari-lẏ</td><td>adv. without delay; in a summary manner</td></tr>
-<tr><td>sumptuous</td><td>sûmptùo̊us</td><td>sumpt-u-ous</td><td>sûmpt-ù-o̊us</td><td>a. rich and lavish; magnificent</td></tr>
+<tr><td>summarily</td><td>sûmmåri̊lẏ</td><td>summ-ari-ly</td><td>sûmm-åri̊-lẏ</td><td>adv. without delay; in a summary manner</td></tr>
+<tr><td>sumptuous</td><td>sûmptūo̊us</td><td>sumpt-u-ous</td><td>sûmpt-ū-o̊us</td><td>a. rich and lavish; magnificent</td></tr>
 <tr><td>summitry</td><td>sûmmitrẏ</td><td>sum-mit-ry</td><td>sûm-mit-rẏ</td><td>n. the practice of holding summit conferences</td></tr>
 <tr><td>summons</td><td>sûmmo̊nṡ</td><td>summ-on-s</td><td>sûmm-o̊n-ṡ</td><td>n. an order to appear in person at a given place and time<br>n. a writ compelling a defendant to attend a civil suit</td></tr>
 <tr><td>summarized</td><td>sûmmårīz𝕖d</td><td>summ-ar-iz-ed</td><td>sûmm-år-īz-𝕖d</td><td>v. give a summary (of) (summarize的过去式和过去分词)</td></tr>
 <tr><td>summarizing</td><td>sûmmårīzing</td><td>summ-ar-iz-ing</td><td>sûmm-år-īz-ing</td><td>v. give a summary (of)</td></tr>
-<tr><td>sumptuously</td><td>sûmptùo̊uslẏ</td><td>sumpt-u-ous-ly</td><td>sûmpt-ù-o̊us-lẏ</td><td>adv. in a sumptuous and opulent manner</td></tr>
+<tr><td>sumptuously</td><td>sûmptūo̊uslẏ</td><td>sumpt-u-ous-ly</td><td>sûmpt-ū-o̊us-lẏ</td><td>adv. in a sumptuous and opulent manner</td></tr>
 <tr><td>summarization</td><td>sûmmårīzātio̊n</td><td>summ-ar-iz-at-ion</td><td>sûmm-år-īz-āt-io̊n</td><td>n. the act of preparing a summary (or an instance thereof); stating briefly and succinctly</td></tr>
 <tr><td>assume</td><td>åssūme</td><td>as-sume</td><td>ås-sūme</td><td>vt. to take for granted; suppose<br>vt. to take on or take over<br>vt. to pretend to have</td></tr>
 <tr><td>assumed</td><td>åssūm𝕖d</td><td>as-sum-ed</td><td>ås-sūm-𝕖d</td><td>a. adopted in order to deceive; supposed</td></tr>
@@ -6825,7 +6825,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>assumes</td><td>åssūm𝕖ṡ</td><td>as-sume-s</td><td>ås-sūm𝕖-ṡ</td><td></td></tr>
 <tr><td>consume</td><td>co̊nsūme</td><td>con-sume</td><td>co̊n-sūme</td><td>v. serve oneself to, or consume regularly<br>v. use up (resources or materials)<br>v. destroy completely</td></tr>
 <tr><td>consumable</td><td>co̊nsūmåble</td><td>con-sum-able</td><td>co̊n-sūm-åble</td><td>a. may be used up<br>n. a consumable item</td></tr>
-<tr><td>consummate</td><td>consůmmåte</td><td>con-summ-ate</td><td>con-sůmm-åte</td><td>a. complete and perfect in every way<br>vt. to make perfect or complete</td></tr>
+<tr><td>consummate</td><td>consůmmāte</td><td>con-summ-ate</td><td>con-sůmm-āte</td><td>a. complete and perfect in every way<br>vt. to make perfect or complete</td></tr>
 <tr><td>consumed</td><td>co̊nsūm𝕖d</td><td>con-sum-ed</td><td>co̊n-sūm-𝕖d</td><td>v. eat or drink up<br>v. use up resources or materials</td></tr>
 <tr><td>consumer</td><td>co̊nsūme̊r</td><td>con-sum-er</td><td>co̊n-sūm-e̊r</td><td>n. a person who buys goods or uses services</td></tr>
 <tr><td>consuming</td><td>co̊nsūming</td><td>con-sum-ing</td><td>co̊n-sūm-ing</td><td>a. very intense</td></tr>
@@ -6834,13 +6834,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>consumes</td><td>co̊nsūm𝕖ṡ</td><td>con-sume-s</td><td>co̊n-sūm𝕖-ṡ</td><td></td></tr>
 <tr><td>consummation</td><td>consůmmātio̊n</td><td>con-summ-at-ion</td><td>con-sůmm-āt-io̊n</td><td>n. the act of bringing to completion or fruition</td></tr>
 <tr><td>consumerism</td><td>co̊nsūme̊riṡm</td><td>con-sum-er-ism</td><td>co̊n-sūm-e̊r-iṡm</td><td>n. the theory that increasing consumption of goods is beneficial</td></tr>
-<tr><td>consummately</td><td>consůmmȧt𝕖lẏ</td><td>con-summ-ate-ly</td><td>con-sůmm-ȧt𝕖-lẏ</td><td>adv. in a consummate manner; completely</td></tr>
+<tr><td>consummately</td><td>consůmmāt𝕖lẏ</td><td>con-summ-ate-ly</td><td>con-sůmm-āt𝕖-lẏ</td><td>adv. in a consummate manner; completely</td></tr>
 <tr><td>consummatory</td><td>co̊nsûmmåto̊rẏ</td><td>con-summ-at-ory</td><td>co̊n-sûmm-åt-o̊rẏ</td><td>a. completing or fulfilling; relating to consummation</td></tr>
 <tr><td>presume</td><td>prėṡūme</td><td>pre-sume</td><td>prė-ṡūme</td><td>v. to suppose something to be true without proof<br>v. to take liberties or act too confidently</td></tr>
 <tr><td>presumable</td><td>prėṡūmåble</td><td>pre-sum-able</td><td>prė-ṡūm-åble</td><td>a. capable of being inferred on slight grounds</td></tr>
-<tr><td>presumed</td><td>pre̊ṡūm𝕖d</td><td>pre-sum-ed</td><td>pre̊-ṡūm-𝕖d</td><td>a. supposed to be true without proof</td></tr>
+<tr><td>presumed</td><td>prėṡūm𝕖d</td><td>pre-sum-ed</td><td>prė-ṡūm-𝕖d</td><td>a. supposed to be true without proof</td></tr>
 <tr><td>presumption</td><td>prėṡûmptio̊n</td><td>pre-sumpt-ion</td><td>prė-ṡûmpt-io̊n</td><td>n. an act of taking something to be true without proof<br>n. arrogant behavior</td></tr>
-<tr><td>presumptive</td><td>prēṡûmptive</td><td>pre-sumpt-ive</td><td>prē-ṡûmpt-ive</td><td>a. having a reasonable basis for belief or acceptance<br>a. affording reasonable grounds for belief or acceptance</td></tr>
+<tr><td>presumptive</td><td>prėṡûmptive</td><td>pre-sumpt-ive</td><td>prė-ṡûmpt-ive</td><td>a. having a reasonable basis for belief or acceptance<br>a. affording reasonable grounds for belief or acceptance</td></tr>
 <tr><td>presumably</td><td>prėṡūmåblẏ</td><td>pre-sum-ab-ly</td><td>prė-ṡūm-åb-lẏ</td><td>adv. used to say that something is probably true</td></tr>
 <tr><td>presumptively</td><td>prėṡûmptiv𝕖lẏ</td><td>pre-sumpt-ive-ly</td><td>prė-ṡûmpt-iv𝕖-lẏ</td><td>adv. by reasonable assumption</td></tr>
 <tr><td>presumptuous</td><td>prėṡûmptūo̊us</td><td>pre-sumpt-u-ous</td><td>prė-ṡûmpt-ū-o̊us</td><td>a. excessively forward</td></tr>
@@ -6852,18 +6852,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>subsumption</td><td>sûbsûmptio̊n</td><td>sub-sumpt-ion</td><td>sûb-sûmpt-io̊n</td><td>n. incorporating something under a more general category</td></tr>
 <tr><td>nonconsumptive</td><td>nonco̊nsûmptive</td><td>non-con-sumpt-ive</td><td>non-co̊n-sûmpt-ive</td><td>a. not using up or destroying natural resources</td></tr>
 <tr><td>overconsumption</td><td>ōve̊rco̊nsûmptio̊n</td><td>over-con-sumpt-ion</td><td>ōve̊r-co̊n-sûmpt-io̊n</td><td>n. the state of consuming more than is needed or sustainable</td></tr>
-<tr><td>reassume</td><td>rēassūme</td><td>re-as-sume</td><td>rē-as-sūme</td><td>vt. To assume again or anew; to resume.</td></tr>
+<tr><td>reassume</td><td>rēåssūme</td><td>re-as-sume</td><td>rē-ås-sūme</td><td>vt. To assume again or anew; to resume.</td></tr>
 <tr><td>unassuming</td><td>ûnåssūming</td><td>un-as-sum-ing</td><td>ûn-ås-sūm-ing</td><td>a. not arrogant or presuming; modest</td></tr>
-<tr><td>unconsummated</td><td>ûnconsûmmātėd</td><td>un-con-summ-at-ed</td><td>ûn-con-sûmm-āt-ėd</td><td>a. not consummated</td></tr>
+<tr><td>unconsummated</td><td>ûnconsůmmātėd</td><td>un-con-summ-at-ed</td><td>ûn-con-sůmm-āt-ėd</td><td>a. not consummated</td></tr>
 <tr><td>sumac</td><td>sūmac</td><td>sumac</td><td>sūmac</td><td>n. a shrub or tree of the genus Rhus (usually the non-poisonous species)</td></tr>
 <tr><td>sumatran</td><td>sūmàtrån</td><td>sumatr-an</td><td>sūmàtr-ån</td><td>a. of or relating to the island of Sumatra or its people</td></tr>
-<tr><td>sumerian</td><td>sūme̊riån</td><td>sumer-ian</td><td>sūme̊r-iån</td><td>a. of or relating to ancient Sumer or its people<br>n. a native or inhabitant of ancient Sumer</td></tr>
+<tr><td>sumerian</td><td>sūmēriån</td><td>sumer-ian</td><td>sūmēr-iån</td><td>a. of or relating to ancient Sumer or its people<br>n. a native or inhabitant of ancient Sumer</td></tr>
 <tr><td>summer</td><td>sûmme̊r</td><td>summ-er</td><td>sûmm-e̊r</td><td>n. the warmest season of the year, coming after spring and before autumn<br>v. to spend the summer in a particular place</td></tr>
 <tr><td>summerhouse</td><td>sûmme̊rhòuse</td><td>summ-er-house</td><td>sûmm-e̊r-hòuse</td><td>n. a small roofed building affording shade and rest</td></tr>
 <tr><td>summers</td><td>sûmme̊rṡ</td><td>summ-er-s</td><td>sûmm-e̊r-ṡ</td><td></td></tr>
 <tr><td>summertime</td><td>sûmme̊rtīme</td><td>summ-er-time</td><td>sûmm-e̊r-tīme</td><td>n. the warmest season of the year</td></tr>
 <tr><td>summery</td><td>sûmme̊rẏ</td><td>summ-er-y</td><td>sûmm-e̊r-ẏ</td><td>a. characteristic of summer; warm and pleasant</td></tr>
-<tr><td>summa</td><td>sūmmå</td><td>summa</td><td>sūmmå</td><td>n. a comprehensive work that summarizes a field of knowledge</td></tr>
+<tr><td>summa</td><td>sûmmå</td><td>summa</td><td>sûmmå</td><td>n. a comprehensive work that summarizes a field of knowledge</td></tr>
 <tr><td>sumo</td><td>sūmō</td><td>sumo</td><td>sūmō</td><td>n. Japanese wrestling where you lose if forced out of a ring or touch the ground</td></tr>
 <tr><td>sump</td><td>sûmp</td><td>sump</td><td>sûmp</td><td>n. an oil reservoir in an internal combustion engine<br>n. a well or other hole in which water has collected</td></tr>
 <tr><td>sun</td><td>sûn</td><td>sun</td><td>sûn</td><td>n. the star that provides light and heat for the earth<br>vt. to expose to the sun&#x27;s rays</td></tr>
@@ -6906,10 +6906,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sundial</td><td>sûndīål</td><td>sun-di-al</td><td>sûn-dī-ål</td><td>n. a device showing daylight hours by a shadow cast on a calibrated dial</td></tr>
 <tr><td>sun-bronzed</td><td></td><td>sun-bronz-ed</td><td></td><td>a. tanned by the sun</td></tr>
 <tr><td>sunbaked</td><td>sûnbāk𝕖ḋ</td><td>sun-bak-ed</td><td>sûn-bāk-𝕖ḋ</td><td>a. dried by the sun&#x27;s heat</td></tr>
-<tr><td>sunbather</td><td>sûnbathe̊r</td><td>sun-bath-er</td><td>sûn-bath-e̊r</td><td>n. someone who basks in the sunshine in order to get a suntan</td></tr>
+<tr><td>sunbather</td><td>sûnbāṫhe̊r</td><td>sun-bath-er</td><td>sûn-bāṫh-e̊r</td><td>n. someone who basks in the sunshine in order to get a suntan</td></tr>
 <tr><td>sunburned</td><td>sûnbůrn𝕖d</td><td>sun-burn-ed</td><td>sûn-bůrn-𝕖d</td><td>a. suffering from overexposure to direct sunlight</td></tr>
 <tr><td>sunflower</td><td>sûnflòwe̊r</td><td>sun-flow-er</td><td>sûn-flòw-e̊r</td><td>n. a tall plant with large yellow flower heads</td></tr>
-<tr><td>sunglasses</td><td>sûnglass𝕖ṡ</td><td>sun-glass-es</td><td>sûn-glass-𝕖ṡ</td><td>n. dark glasses worn to protect the eyes from sunlight</td></tr>
+<tr><td>sunglasses</td><td>sûnglàssėṡ</td><td>sun-glass-es</td><td>sûn-glàss-ėṡ</td><td>n. dark glasses worn to protect the eyes from sunlight</td></tr>
 <tr><td>suntanned</td><td>sûntann𝕖d</td><td>sun-tann-ed</td><td>sûn-tann-𝕖d</td><td>a. (of skin) having a tan color from exposure to the sun</td></tr>
 <tr><td>sun-blindness</td><td></td><td>sun-blind-ness</td><td></td><td>n. temporary blindness from bright light</td></tr>
 <tr><td>sundaes</td><td>sûndāeṡ</td><td>sun-dae-s</td><td>sûn-dāe-ṡ</td><td></td></tr>
@@ -6919,7 +6919,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sunder</td><td>sûnde̊r</td><td>sund-er</td><td>sûnd-e̊r</td><td>v. to break apart or in two</td></tr>
 <tr><td>asunder</td><td>åsûnde̊r</td><td>a-sund-er</td><td>å-sûnd-e̊r</td><td>adv. widely separated especially in space</td></tr>
 <tr><td>sunday</td><td>sûndāy</td><td></td><td></td><td>n. the first day of the week</td></tr>
-<tr><td>sunyata</td><td>sûnyàtå</td><td>sunyata</td><td>sûnyàtå</td><td>n. (Sanskrit) the Buddhist concept of emptiness; void</td></tr>
+<tr><td>sunyata</td><td>sûnẏàtå</td><td>sunyata</td><td>sûnẏàtå</td><td>n. (Sanskrit) the Buddhist concept of emptiness; void</td></tr>
 <tr><td>sup</td><td>sûp</td><td>sup</td><td>sûp</td><td>v. to take food or drink in small quantities</td></tr>
 <tr><td>supernal</td><td>sūpe̊rnål</td><td>supern-al</td><td>sūpe̊rn-ål</td><td>a. being or coming from on high</td></tr>
 <tr><td>superb</td><td>sūpe̊rb</td><td>super-b</td><td>sūpe̊r-b</td><td>a. excellent; of the highest quality</td></tr>
@@ -6936,37 +6936,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>supper</td><td>sûppe̊r</td><td>supp-er</td><td>sûpp-e̊r</td><td>n. a light evening meal</td></tr>
 <tr><td>supple</td><td>sûpple</td><td>supp-le</td><td>sûpp-le</td><td>a. bending easily without breaking<br>vt. to make flexible</td></tr>
 <tr><td>suppers</td><td>sûppe̊rṡ</td><td>supp-er-s</td><td>sûpp-e̊r-ṡ</td><td></td></tr>
-<tr><td>suppertime</td><td>sůppe̊rtīme</td><td>supp-er-time</td><td>sůpp-e̊r-tīme</td><td>n. the customary or habitual hour for the evening meal</td></tr>
-<tr><td>supplicant</td><td>sûppli̊cånt</td><td>supplic-ant</td><td>sûppli̊c-ånt</td><td>n. one praying humbly for something<br>a. humbly entreating</td></tr>
-<tr><td>suppliant</td><td>sůppliånt</td><td>suppl-i-ant</td><td>sůppl-i-ånt</td><td>n. one who asks earnestly</td></tr>
+<tr><td>suppertime</td><td>sûppe̊rtīme</td><td>supp-er-time</td><td>sûpp-e̊r-tīme</td><td>n. the customary or habitual hour for the evening meal</td></tr>
+<tr><td>supplicant</td><td>sûpplicånt</td><td>supplic-ant</td><td>sûpplic-ånt</td><td>n. one praying humbly for something<br>a. humbly entreating</td></tr>
+<tr><td>suppliant</td><td>sûppliånt</td><td>suppl-i-ant</td><td>sûppl-i-ånt</td><td>n. one who asks earnestly</td></tr>
 <tr><td>suppleness</td><td>sûppl𝕖nėss</td><td>supp-le-ness</td><td>sûpp-l𝕖-nėss</td><td>n. the quality of being flexible and bending easily<br>n. adaptability of mind or character</td></tr>
-<tr><td>suppurative</td><td>sůppùrātive</td><td>suppur-at-ive</td><td>sůppùr-āt-ive</td><td>a. relating to or characterized by suppuration</td></tr>
+<tr><td>suppurative</td><td>sûppūråtive</td><td>suppur-at-ive</td><td>sûppūr-åt-ive</td><td>a. relating to or characterized by suppuration</td></tr>
 <tr><td>supremo</td><td>sūprēmō</td><td>supremo</td><td>sūprēmō</td><td>n. the most important person in an organization</td></tr>
 <tr><td>supreme</td><td>sūprēme</td><td>supr-eme</td><td>sūpr-ēme</td><td>a. highest in rank or authority<br>a. greatest or most extreme</td></tr>
 <tr><td>supremacist</td><td>sūpremåcist</td><td>supremac-ist</td><td>sūpremåc-ist</td><td>n. a person who advocates the supremacy of some particular group or race over all others</td></tr>
-<tr><td>supremacy</td><td>sůpremåcẏ</td><td>supremac-y</td><td>sůpremåc-ẏ</td><td>n. the state of being supreme; power to dominate</td></tr>
-<tr><td>supremely</td><td>sūprēme̊lẏ</td><td>supr-eme-ly</td><td>sūpr-ēme̊-lẏ</td><td>adv. to the maximum degree</td></tr>
+<tr><td>supremacy</td><td>sūpremåcẏ</td><td>supremac-y</td><td>sūpremåc-ẏ</td><td>n. the state of being supreme; power to dominate</td></tr>
+<tr><td>supremely</td><td>sūprēm𝕖lẏ</td><td>supr-eme-ly</td><td>sūpr-ēm𝕖-lẏ</td><td>adv. to the maximum degree</td></tr>
 <tr><td>surly</td><td>sůrlẏ</td><td>sur-ly</td><td>sůr-lẏ</td><td>a. inclined to anger or bad feelings with overtones of menace</td></tr>
 <tr><td>surliness</td><td>sůrlinėss</td><td>surl-i-ness</td><td>sůrl-i-nėss</td><td>n a disposition to exhibit uncontrolled anger</td></tr>
 <tr><td>sura</td><td>sūrå</td><td>sura</td><td>sūrå</td><td>n. one of the sections or chapters in the Koran</td></tr>
 <tr><td>absurd</td><td>åbsůrd</td><td>ab-surd</td><td>åb-sůrd</td><td>a. wildly unreasonable or ridiculous</td></tr>
 <tr><td>absurder</td><td>åbsůrde̊r</td><td>ab-surd-er</td><td>åb-sůrd-e̊r</td><td></td></tr>
 <tr><td>absurdest</td><td>åbsůrdėst</td><td>ab-surd-est</td><td>åb-sůrd-ėst</td><td></td></tr>
-<tr><td>absurdity</td><td>åbsůrdi̊tẏ</td><td>ab-surd-ity</td><td>åb-sůrd-i̊tẏ</td><td>n. a message whose content is at variance with reason; a ludicrous folly</td></tr>
+<tr><td>absurdity</td><td>åbsůrditẏ</td><td>ab-surd-ity</td><td>åb-sůrd-itẏ</td><td>n. a message whose content is at variance with reason; a ludicrous folly</td></tr>
 <tr><td>absurdly</td><td>åbsůrdlẏ</td><td>ab-surd-ly</td><td>åb-sůrd-lẏ</td><td>adv. in an absurd manner or to an absurd degree</td></tr>
 <tr><td>sure</td><td>sūre</td><td>sure</td><td>sūre</td><td>a. certain to happen or be the case<br>a. feeling no doubt or hesitation; confident</td></tr>
 <tr><td>surer</td><td>sūre̊r</td><td>sur-er</td><td>sūr-e̊r</td><td></td></tr>
 <tr><td>surest</td><td>sūrėst</td><td>sur-est</td><td>sūr-ėst</td><td>a. superlative of sure</td></tr>
-<tr><td>surefire</td><td>sūrefīre</td><td>sure-fire</td><td>sūre-fīre</td><td>a. certain to succeed</td></tr>
+<tr><td>surefire</td><td>sūr𝕖fīre</td><td>sure-fire</td><td>sūr𝕖-fīre</td><td>a. certain to succeed</td></tr>
 <tr><td>surely</td><td>sūr𝕖lẏ</td><td>sure-ly</td><td>sūr𝕖-lẏ</td><td>adv. definitely or positively</td></tr>
-<tr><td>sureness</td><td>sūrenėss</td><td>sure-ness</td><td>sūre-nėss</td><td>n. the quality of being steady and unfailing</td></tr>
+<tr><td>sureness</td><td>sūr𝕖nėss</td><td>sure-ness</td><td>sūr𝕖-nėss</td><td>n. the quality of being steady and unfailing</td></tr>
 <tr><td>surety</td><td>sūre̊tẏ</td><td>sure-ty</td><td>sūre̊-tẏ</td><td>n. something clearly established</td></tr>
 <tr><td>assure</td><td>åssūre</td><td>as-sure</td><td>ås-sūre</td><td>v. inform positively and with certainty and confidence<br>v. make certain of</td></tr>
 <tr><td>assurance</td><td>åssūrånce</td><td>as-sur-ance</td><td>ås-sūr-ånce</td><td>n. a positive declaration intended to give confidence<br>n. confidence or certainty in one&#x27;s own abilities</td></tr>
-<tr><td>assured</td><td>åṡsūr𝕖d</td><td>as-sur-ed</td><td>åṡ-sūr-𝕖d</td><td>a. marked by assurance; characterized by certainty or security</td></tr>
+<tr><td>assured</td><td>åssūr𝕖d</td><td>as-sur-ed</td><td>ås-sūr-𝕖d</td><td>a. marked by assurance; characterized by certainty or security</td></tr>
 <tr><td>assuring</td><td>åssūring</td><td>as-sur-ing</td><td>ås-sūr-ing</td><td></td></tr>
 <tr><td>assures</td><td>åssūr𝕖ṡ</td><td>as-sure-s</td><td>ås-sūr𝕖-ṡ</td><td></td></tr>
-<tr><td>assuredly</td><td>åṡsūre̊dlẏ</td><td>as-sur-ed-ly</td><td>åṡ-sūr-e̊d-lẏ</td><td>adv. without a doubt</td></tr>
+<tr><td>assuredly</td><td>åssūrėdlẏ</td><td>as-sur-ed-ly</td><td>ås-sūr-ėd-lẏ</td><td>adv. without a doubt</td></tr>
 <tr><td>assuredness</td><td>åssūr𝕖dnėss</td><td>as-sur-ed-ness</td><td>ås-sūr-𝕖d-nėss</td><td>n. certainty; self-confidence</td></tr>
 <tr><td>ensure</td><td>ėnsūre</td><td>en-sure</td><td>ėn-sūre</td><td>v. make certain that something will occur or be the case</td></tr>
 <tr><td>insure</td><td>insūre</td><td>in-sure</td><td>in-sūre</td><td>v. to arrange insurance for something</td></tr>
@@ -6976,23 +6976,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>insurer</td><td>insūre̊r</td><td>in-sur-er</td><td>in-sūr-e̊r</td><td>n. a company that provides insurance</td></tr>
 <tr><td>insurances</td><td>insùråncėṡ</td><td>in-sur-ance-s</td><td>in-sùr-åncė-ṡ</td><td></td></tr>
 <tr><td>unsure</td><td>ûnsūre</td><td>un-sure</td><td>ûn-sūre</td><td>a. lacking self-confidence<br>a. lacking or indicating lack of confidence</td></tr>
-<tr><td>unsureness</td><td>unsūrenėss</td><td>un-sure-ness</td><td>un-sūre-nėss</td><td>n. the state of being unsure</td></tr>
-<tr><td>reassure</td><td>rēaṡsūre</td><td>re-as-sure</td><td>rē-aṡ-sūre</td><td>v. to say or do something to remove doubts and encourage someone</td></tr>
-<tr><td>reassurance</td><td>rėåssūrånce</td><td>re-as-sur-ance</td><td>rė-ås-sūr-ånce</td><td>n. the act of restoring someone&#x27;s confidence</td></tr>
-<tr><td>reassured</td><td>rēaṡsūr𝕖d</td><td>re-as-sur-ed</td><td>rē-aṡ-sūr-𝕖d</td><td>v. restore confidence to<br>a. having confidence restored; freed from anxiety</td></tr>
-<tr><td>reassuring</td><td>rēaṡsūring</td><td>re-as-sur-ing</td><td>rē-aṡ-sūr-ing</td><td>a. restoring confidence and relieving anxiety</td></tr>
-<tr><td>reassuringly</td><td>rēåssůringlẏ</td><td>re-as-sur-ing-ly</td><td>rē-ås-sůr-ing-lẏ</td><td>adv. in a reassuring manner</td></tr>
+<tr><td>unsureness</td><td>ûnsūr𝕖nėss</td><td>un-sure-ness</td><td>ûn-sūr𝕖-nėss</td><td>n. the state of being unsure</td></tr>
+<tr><td>reassure</td><td>rēåssūre</td><td>re-as-sure</td><td>rē-ås-sūre</td><td>v. to say or do something to remove doubts and encourage someone</td></tr>
+<tr><td>reassurance</td><td>rēåssūrånce</td><td>re-as-sur-ance</td><td>rē-ås-sūr-ånce</td><td>n. the act of restoring someone&#x27;s confidence</td></tr>
+<tr><td>reassured</td><td>rēåssūr𝕖d</td><td>re-as-sur-ed</td><td>rē-ås-sūr-𝕖d</td><td>v. restore confidence to<br>a. having confidence restored; freed from anxiety</td></tr>
+<tr><td>reassuring</td><td>rēåssūring</td><td>re-as-sur-ing</td><td>rē-ås-sūr-ing</td><td>a. restoring confidence and relieving anxiety</td></tr>
+<tr><td>reassuringly</td><td>rēåssūringlẏ</td><td>re-as-sur-ing-ly</td><td>rē-ås-sūr-ing-lẏ</td><td>adv. in a reassuring manner</td></tr>
 <tr><td>reinsure</td><td>rēinsūre</td><td>re-in-sure</td><td>rē-in-sūre</td><td>vt. to insure again with another company</td></tr>
-<tr><td>reinsurance</td><td>rėinsūrånce</td><td>re-in-sur-ance</td><td>rė-in-sūr-ånce</td><td>n. insurance purchased by an insurance company from another insurer</td></tr>
+<tr><td>reinsurance</td><td>rēinsūrånce</td><td>re-in-sur-ance</td><td>rē-in-sūr-ånce</td><td>n. insurance purchased by an insurance company from another insurer</td></tr>
 <tr><td>uninsurable</td><td>ûninsūråble</td><td>un-in-sur-able</td><td>ûn-in-sūr-åble</td><td>a. not capable of being insured or not eligible to be insured</td></tr>
-<tr><td>underinsured</td><td>unde̊rinsūred</td><td>under-in-sur-ed</td><td>unde̊r-in-sūr-ed</td><td>a. having insufficient insurance</td></tr>
+<tr><td>underinsured</td><td>ûnde̊rinsūr𝕖d</td><td>under-in-sur-ed</td><td>ûnde̊r-in-sūr-𝕖d</td><td>a. having insufficient insurance</td></tr>
 <tr><td>uninsured</td><td>ûninsūr𝕖d</td><td>un-in-sur-ed</td><td>ûn-in-sūr-𝕖d</td><td>a. not covered by insurance</td></tr>
 <tr><td>surf</td><td>sůrf</td><td>surf</td><td>sůrf</td><td>n. waves breaking on the shore<br>v. ride on the crest of a wave</td></tr>
 <tr><td>surfboard</td><td>sůrfbōard</td><td>surf-board</td><td>sůrf-bōard</td><td>n. a narrow buoyant board for riding surf<br>v. ride the waves of the sea with a surfboard</td></tr>
 <tr><td>surfer</td><td>sůrfe̊r</td><td>surf-er</td><td>sůrf-e̊r</td><td>n. someone who engages in surfboarding</td></tr>
 <tr><td>surfing</td><td>sůrfing</td><td>surf-ing</td><td>sůrf-ing</td><td>n. the sport of riding a surfboard toward the shore on the crest of a wave</td></tr>
 <tr><td>surfactant</td><td>sůrfactånt</td><td>surf-act-ant</td><td>sůrf-act-ånt</td><td>n. a chemical agent that reduces the surface tension of a liquid</td></tr>
-<tr><td>subsurface</td><td>sûbsůrfåce</td><td>sub-sur-face</td><td>sûb-sůr-fåce</td><td>a. below the surface</td></tr>
+<tr><td>subsurface</td><td>sûbsůrfȧce</td><td>sub-sur-face</td><td>sûb-sůr-fȧce</td><td>a. below the surface</td></tr>
 <tr><td>surge</td><td>sůrge</td><td>surge</td><td>sůrge</td><td>n. a sudden powerful forward or upward movement<br>v. to increase suddenly</td></tr>
 <tr><td>surging</td><td>sůrging</td><td>surg-ing</td><td>sůrg-ing</td><td>v. to rise and move in waves; to increase suddenly</td></tr>
 <tr><td>surgeon</td><td>sůrg𝕖o̊n</td><td>surge-on</td><td>sůrg𝕖-o̊n</td><td>n. a doctor who specializes in surgery</td></tr>
@@ -7004,38 +7004,38 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>insurgence</td><td>insůrge̊nce</td><td>in-surg-ence</td><td>in-sůrg-e̊nce</td><td>n. an organized rebellion aimed at overthrowing a government</td></tr>
 <tr><td>insurgency</td><td>insůrge̊ncẏ</td><td>in-surg-ency</td><td>in-sůrg-e̊ncẏ</td><td>n. an organized rebellion aimed at overthrowing a constituted government</td></tr>
 <tr><td>insurgent</td><td>insůrge̊nt</td><td>in-surg-ent</td><td>in-sůrg-e̊nt</td><td>n. a person who takes part in an armed rebellion<br>a. in opposition to authority</td></tr>
-<tr><td>insurrection</td><td>insurrectio̊n</td><td>in-surrect-ion</td><td>in-surrect-io̊n</td><td>n. organized opposition to authority; a faction trying to wrest control from another</td></tr>
-<tr><td>insurrectionist</td><td>insurrectio̊nist</td><td>in-surrect-ion-ist</td><td>in-surrect-io̊n-ist</td><td>n. a person who takes part in an armed rebellion</td></tr>
+<tr><td>insurrection</td><td>insůrrectio̊n</td><td>in-surrect-ion</td><td>in-sůrrect-io̊n</td><td>n. organized opposition to authority; a faction trying to wrest control from another</td></tr>
+<tr><td>insurrectionist</td><td>insůrrectio̊nist</td><td>in-surrect-ion-ist</td><td>in-sůrrect-io̊n-ist</td><td>n. a person who takes part in an armed rebellion</td></tr>
 <tr><td>microsurgical</td><td>mīcrōsůrgicål</td><td>micro-surg-ic-al</td><td>mīcrō-sůrg-ic-ål</td><td>a. of or relating to microsurgery</td></tr>
-<tr><td>microsurgery</td><td>mīcro̊sůrge̊rẏ</td><td>micro-surg-er-y</td><td>mīcro̊-sůrg-e̊r-ẏ</td><td>n. surgery using operating microscopes and miniaturized precision instruments</td></tr>
+<tr><td>microsurgery</td><td>mīcrōsůrge̊rẏ</td><td>micro-surg-er-y</td><td>mīcrō-sůrg-e̊r-ẏ</td><td>n. surgery using operating microscopes and miniaturized precision instruments</td></tr>
 <tr><td>nonsurgical</td><td>nonsůrgicål</td><td>non-surg-ic-al</td><td>non-sůrg-ic-ål</td><td>a. not surgical</td></tr>
 <tr><td>resurge</td><td>rėsůrge</td><td>re-surge</td><td>rė-sůrge</td><td>v. to rise again</td></tr>
-<tr><td>resurrect</td><td>reṡurrect</td><td>re-surrect</td><td>re-ṡurrect</td><td>v. to bring back to life or use</td></tr>
-<tr><td>resurgence</td><td>rēsůrge̊nce</td><td>re-surg-ence</td><td>rē-sůrg-e̊nce</td><td>n. the return of something after a period of decline</td></tr>
+<tr><td>resurrect</td><td>reṡůrrect</td><td>re-surrect</td><td>re-ṡůrrect</td><td>v. to bring back to life or use</td></tr>
+<tr><td>resurgence</td><td>rėsůrge̊nce</td><td>re-surg-ence</td><td>rė-sůrg-e̊nce</td><td>n. the return of something after a period of decline</td></tr>
 <tr><td>resurgent</td><td>rėsůrge̊nt</td><td>re-surg-ent</td><td>rė-sůrg-e̊nt</td><td>a. rising again as to new life and vigor</td></tr>
-<tr><td>resurrected</td><td>reṡurrectėd</td><td>re-surrect-ed</td><td>re-ṡurrect-ėd</td><td>v. cause to become alive again<br>v. restore from a depressed, inactive, or unused state</td></tr>
-<tr><td>resurrection</td><td>reṡurrectio̊n</td><td>re-surrect-ion</td><td>re-ṡurrect-io̊n</td><td>n. the rising of Christ on the third day after the Crucifixion<br>n. a revival from inactivity and disuse</td></tr>
+<tr><td>resurrected</td><td>reṡůrrectėd</td><td>re-surrect-ed</td><td>re-ṡůrrect-ėd</td><td>v. cause to become alive again<br>v. restore from a depressed, inactive, or unused state</td></tr>
+<tr><td>resurrection</td><td>reṡůrrectio̊n</td><td>re-surrect-ion</td><td>re-ṡůrrect-io̊n</td><td>n. the rising of Christ on the third day after the Crucifixion<br>n. a revival from inactivity and disuse</td></tr>
 <tr><td>upsurge</td><td>ûpsůrge</td><td>up-surge</td><td>ûp-sůrge</td><td>n. a sudden forceful flow; a sudden strong increase</td></tr>
-<tr><td>neurosurgeon</td><td>neūrōsůrgeo̊n</td><td>neur-o-surge-on</td><td>neūr-ō-sůrge-o̊n</td><td>n. someone who does surgery on the nervous system</td></tr>
-<tr><td>neurosurgical</td><td>neūrōsůrgicål</td><td>neur-o-surg-ic-al</td><td>neūr-ō-sůrg-ic-ål</td><td>a. of or relating to neurosurgery</td></tr>
-<tr><td>neurosurgery</td><td>neūrōsůrge̊rẏ</td><td>neur-o-surg-er-y</td><td>neūr-ō-sůrg-e̊r-ẏ</td><td>n. surgery involving the nervous system (brain, spinal cord, or peripheral nerves)</td></tr>
-<tr><td>surinamese</td><td>sůrinåmēṡe</td><td>surinam-ese</td><td>sůrinåm-ēṡe</td><td>a. of or relating to Suriname or its people<br>n. a native or inhabitant of Suriname</td></tr>
+<tr><td>neurosurgeon</td><td>neūro̊sůrg𝕖o̊n</td><td>neur-o-surge-on</td><td>neūr-o̊-sůrg𝕖-o̊n</td><td>n. someone who does surgery on the nervous system</td></tr>
+<tr><td>neurosurgical</td><td>neūro̊sůrgicål</td><td>neur-o-surg-ic-al</td><td>neūr-o̊-sůrg-ic-ål</td><td>a. of or relating to neurosurgery</td></tr>
+<tr><td>neurosurgery</td><td>neūro̊sůrge̊rẏ</td><td>neur-o-surg-er-y</td><td>neūr-o̊-sůrg-e̊r-ẏ</td><td>n. surgery involving the nervous system (brain, spinal cord, or peripheral nerves)</td></tr>
+<tr><td>surinamese</td><td>sůrināmēṡe</td><td>surinam-ese</td><td>sůrinām-ēṡe</td><td>a. of or relating to Suriname or its people<br>n. a native or inhabitant of Suriname</td></tr>
 <tr><td>surmise</td><td>sůrmīṡe</td><td>surm-ise</td><td>sůrm-īṡe</td><td>v. to infer from incomplete evidence</td></tr>
 <tr><td>surplice</td><td>sůrplice</td><td>surplice</td><td>sůrplice</td><td>n. a loose-fitting white ecclesiastical vestment with wide sleeves</td></tr>
-<tr><td>surrogate</td><td>surro̊gåte</td><td>surrog-ate</td><td>surro̊g-åte</td><td>n. a person or thing that takes the place of another<br>a. acting as a substitute</td></tr>
-<tr><td>surrogacy</td><td>surro̊gåcẏ</td><td>surrogac-y</td><td>surro̊gåc-ẏ</td><td>n. the arrangement by which a woman carries and delivers a baby for another person</td></tr>
-<tr><td>surreal</td><td>surrēal</td><td>sur-real</td><td>sur-rēal</td><td>a. having a strange dreamlike quality</td></tr>
-<tr><td>surrey</td><td>surrēy</td><td>surre-y</td><td>surrē-y</td><td>n. a light four-wheeled horse-drawn carriage with two or four seats</td></tr>
-<tr><td>surrealism</td><td>surrēaliṡm</td><td>sur-real-ism</td><td>sur-rēal-iṡm</td><td>n. a movement using fantastic images to represent unconscious thoughts and dreams</td></tr>
+<tr><td>surrogate</td><td>sûrro̊gāte</td><td>surrog-ate</td><td>sûrro̊g-āte</td><td>n. a person or thing that takes the place of another<br>a. acting as a substitute</td></tr>
+<tr><td>surrogacy</td><td>sûrro̊gåcẏ</td><td>surrogac-y</td><td>sûrro̊gåc-ẏ</td><td>n. the arrangement by which a woman carries and delivers a baby for another person</td></tr>
+<tr><td>surreal</td><td>sůrrēal</td><td>sur-real</td><td>sůr-rēal</td><td>a. having a strange dreamlike quality</td></tr>
+<tr><td>surrey</td><td>sûrrėy</td><td>surre-y</td><td>sûrrė-y</td><td>n. a light four-wheeled horse-drawn carriage with two or four seats</td></tr>
+<tr><td>surrealism</td><td>sůrrēaliṡm</td><td>sur-real-ism</td><td>sůr-rēal-iṡm</td><td>n. a movement using fantastic images to represent unconscious thoughts and dreams</td></tr>
 <tr><td>surrealist</td><td>sůrrēalist</td><td>sur-real-ist</td><td>sůr-rēal-ist</td><td>n. an artist who is a member of the movement called surrealism</td></tr>
-<tr><td>surreally</td><td>surrēallẏ</td><td>sur-real-ly</td><td>sur-rēal-lẏ</td><td>adv. in a surreal manner</td></tr>
-<tr><td>surrealistic</td><td>surrēalistic</td><td>sur-real-ist-ic</td><td>sur-rēal-ist-ic</td><td>a. characterized by fantastic imagery and incongruous juxtapositions</td></tr>
-<tr><td>surreptitious</td><td>sůrre̊ptitio̊us</td><td>surreptit-ious</td><td>sůrre̊ptit-io̊us</td><td>a. marked by quiet and caution and secrecy<br>a. conducted with hidden aims or methods</td></tr>
-<tr><td>surreptitiously</td><td>sůrre̊ptitio̊uslẏ</td><td>surreptit-ious-ly</td><td>sůrre̊ptit-io̊us-lẏ</td><td>adv. in a surreptitious manner</td></tr>
-<tr><td>sushi</td><td>sūshĩ</td><td>sushi</td><td>sūshĩ</td><td>n. a Japanese dish of rice with raw fish wrapped in seaweed</td></tr>
+<tr><td>surreally</td><td>sůrrēållẏ</td><td>sur-real-ly</td><td>sůr-rēål-lẏ</td><td>adv. in a surreal manner</td></tr>
+<tr><td>surrealistic</td><td>sůrrēalistic</td><td>sur-real-ist-ic</td><td>sůr-rēal-ist-ic</td><td>a. characterized by fantastic imagery and incongruous juxtapositions</td></tr>
+<tr><td>surreptitious</td><td>sůrrėptitio̊us</td><td>surreptit-ious</td><td>sůrrėptit-io̊us</td><td>a. marked by quiet and caution and secrecy<br>a. conducted with hidden aims or methods</td></tr>
+<tr><td>surreptitiously</td><td>sůrrėptitio̊uslẏ</td><td>surreptit-ious-ly</td><td>sůrrėptit-io̊us-lẏ</td><td>adv. in a surreptitious manner</td></tr>
+<tr><td>sushi</td><td>sūshi</td><td>sushi</td><td>sūshi</td><td>n. a Japanese dish of rice with raw fish wrapped in seaweed</td></tr>
 <tr><td>suss</td><td>sûss</td><td>suss</td><td>sûss</td><td>v. to figure out; to discover or understand (informal)</td></tr>
-<tr><td>susu</td><td>sūsū</td><td>susu</td><td>sūsū</td><td>n. a freshwater dolphin found in the rivers of South Asia</td></tr>
-<tr><td>susurration</td><td>sūsurrātio̊n</td><td>susurr-at-ion</td><td>sūsurr-āt-io̊n</td><td>n. the indistinct sound of people whispering</td></tr>
+<tr><td>susu</td><td>sūṡū</td><td>susu</td><td>sūṡū</td><td>n. a freshwater dolphin found in the rivers of South Asia</td></tr>
+<tr><td>susurration</td><td>sūṡůrrātio̊n</td><td>susurr-at-ion</td><td>sūṡůrr-āt-io̊n</td><td>n. the indistinct sound of people whispering</td></tr>
 <tr><td>suture</td><td>sūtůre</td><td>sut-ure</td><td>sūt-ůre</td><td>n. a seam used in surgery<br>n. thread used to stitch tissues together</td></tr>
 <tr><td>sutler</td><td>sûtle̊r</td><td>sutler</td><td>sûtle̊r</td><td>n. a supplier of victuals or supplies to an army</td></tr>
 <tr><td>sutra</td><td>sūtrå</td><td>sutra</td><td>sūtrå</td><td>n. a rule or aphorism in Sanskrit literature</td></tr>
@@ -7049,22 +7049,22 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>swag</td><td>swag</td><td>swag</td><td>swag</td><td>n. valuable goods<br>n. a bundle containing the personal belongings of a swagman<br>v. sway heavily or unsteadily</td></tr>
 <tr><td>swagger</td><td>swagge̊r</td><td>swagg-er</td><td>swagg-e̊r</td><td>v. to walk or behave in a very confident and arrogant way<br>n. a confident arrogant walk</td></tr>
 <tr><td>swaggering</td><td>swagge̊ring</td><td>swagg-er-ing</td><td>swagg-e̊r-ing</td><td>a. flamboyantly adventurous</td></tr>
-<tr><td>swahili</td><td>swàhĩlĩ</td><td>swahili</td><td>swàhĩlĩ</td><td>n. the most widely spoken Bantu language; the official language of Kenya and Tanzania</td></tr>
+<tr><td>swahili</td><td>swàhĩli</td><td>swahili</td><td>swàhĩli</td><td>n. the most widely spoken Bantu language; the official language of Kenya and Tanzania</td></tr>
 <tr><td>swain</td><td>swāin</td><td>swain</td><td>swāin</td><td>n. a man who is the lover of a girl or young woman</td></tr>
 <tr><td>swale</td><td>swāle</td><td>swale</td><td>swāle</td><td>n. a low marshy area between ridges</td></tr>
 <tr><td>swallow</td><td>swallōw</td><td>swall-ow</td><td>swall-ōw</td><td>v. to cause food or drink to pass down the throat<br>n. a small bird with pointed wings; the act of swallowing</td></tr>
-<tr><td>swallowed</td><td>swàllōw𝕖d</td><td>swall-ow-ed</td><td>swàll-ōw-𝕖d</td><td>v. past tense and past participle of swallow</td></tr>
-<tr><td>swallowing</td><td>swàllōwing</td><td>swall-ow-ing</td><td>swàll-ōw-ing</td><td>v. pass through the esophagus as part of eating or drinking<br>v. accept without questioning</td></tr>
+<tr><td>swallowed</td><td>swallōw𝕖d</td><td>swall-ow-ed</td><td>swall-ōw-𝕖d</td><td>v. past tense and past participle of swallow</td></tr>
+<tr><td>swallowing</td><td>swallōwing</td><td>swall-ow-ing</td><td>swall-ōw-ing</td><td>v. pass through the esophagus as part of eating or drinking<br>v. accept without questioning</td></tr>
 <tr><td>swallows</td><td>swallōwṡ</td><td>swall-ow-s</td><td>swall-ōw-ṡ</td><td></td></tr>
 <tr><td>swallowtail</td><td>swallōwtāil</td><td>swall-ow-tail</td><td>swall-ōw-tāil</td><td>n. a man&#x27;s full-dress jacket with two long tapering tails at the back</td></tr>
-<tr><td>swami</td><td>swàmĩ</td><td>swami</td><td>swàmĩ</td><td>n. a Hindu religious teacher; used as a title of respect</td></tr>
+<tr><td>swami</td><td>swàmi</td><td>swami</td><td>swàmi</td><td>n. a Hindu religious teacher; used as a title of respect</td></tr>
 <tr><td>swamp</td><td>swãmp</td><td>swamp</td><td>swãmp</td><td>n. an area of wet land with trees and plants<br>v. to overwhelm with something</td></tr>
 <tr><td>swampland</td><td>swãmpland</td><td>swamp-land</td><td>swãmp-land</td><td>n. low seasonally flooded land; more woody than a marsh, better drained than a bog</td></tr>
-<tr><td>swampy</td><td>swàmpẏ</td><td>swamp-y</td><td>swàmp-ẏ</td><td>s (of soil) soft and watery</td></tr>
+<tr><td>swampy</td><td>swãmpẏ</td><td>swamp-y</td><td>swãmp-ẏ</td><td>s (of soil) soft and watery</td></tr>
 <tr><td>swan</td><td>swãn</td><td>swan</td><td>swãn</td><td>n. a large aquatic bird with a long neck<br>v. to move about in a casual way</td></tr>
 <tr><td>swans</td><td>swànṡ</td><td>swan-s</td><td>swàn-ṡ</td><td></td></tr>
 <tr><td>swank</td><td>swank</td><td>swank</td><td>swank</td><td>a. imposingly fashionable and elegant</td></tr>
-<tr><td>swanky</td><td>swànkẏ</td><td>swank-y</td><td>swànk-ẏ</td><td>a. imposingly fashionable and elegant</td></tr>
+<tr><td>swanky</td><td>swankẏ</td><td>swank-y</td><td>swank-ẏ</td><td>a. imposingly fashionable and elegant</td></tr>
 <tr><td>swap</td><td>swàp</td><td>swap</td><td>swàp</td><td>v. exchange one thing for another<br>n. an exchange</td></tr>
 <tr><td>swapping</td><td>swàpping</td><td>swapp-ing</td><td>swàpp-ing</td><td>v. exchange or give something in exchange for</td></tr>
 <tr><td>sward</td><td>swãrd</td><td>sward</td><td>swãrd</td><td>n. surface layer of ground containing a mat of grass and grass roots</td></tr>
@@ -7074,18 +7074,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>swarthy</td><td>swãrṫhẏ</td><td>swarth-y</td><td>swãrṫh-ẏ</td><td>a. naturally having skin of a dark color</td></tr>
 <tr><td>swash</td><td>swãsh</td><td>swash</td><td>swãsh</td><td>n. the movement or sound of water<br>v. make violent, noisy movements</td></tr>
 <tr><td>swashbuckling</td><td>swàshbûckling</td><td>swash-buckl-ing</td><td>swàsh-bûckl-ing</td><td>n. flamboyantly reckless and boastful behavior</td></tr>
-<tr><td>swastika</td><td>swàstikå</td><td>swastika</td><td>swàstikå</td><td>n. a cross with arms bent at right angles</td></tr>
+<tr><td>swastika</td><td>swastikå</td><td>swastika</td><td>swastikå</td><td>n. a cross with arms bent at right angles</td></tr>
 <tr><td>swat</td><td>swàt</td><td>swat</td><td>swàt</td><td>v. to hit with a sharp blow<br>n. a sharp blow</td></tr>
 <tr><td>swatter</td><td>swãtte̊r</td><td>swatt-er</td><td>swãtt-e̊r</td><td>n. an implement with a flat part and a long handle; used to kill insects</td></tr>
 <tr><td>flyswatter</td><td>flȳswãtte̊r</td><td>fly-swatt-er</td><td>flȳ-swãtt-e̊r</td><td>n. an implement with a flat part and a long handle; used to kill insects</td></tr>
 <tr><td>swatch</td><td>swàtch</td><td>swatch</td><td>swàtch</td><td>n. a sample piece of cloth</td></tr>
 <tr><td>swath</td><td>swàth</td><td>swath</td><td>swàth</td><td>n. a broad strip or area</td></tr>
-<tr><td>swathe</td><td>swàṫhe</td><td>swathe</td><td>swàṫhe</td><td>vt. wrap in several layers of fabric<br>n. an enveloping bandage</td></tr>
+<tr><td>swathe</td><td>swāṫhe</td><td>swathe</td><td>swāṫhe</td><td>vt. wrap in several layers of fabric<br>n. an enveloping bandage</td></tr>
 <tr><td>sway</td><td>swāy</td><td>sway</td><td>swāy</td><td>v. to move slowly from side to side<br>v. to influence or control someone<br>n. a swinging movement; influence</td></tr>
 <tr><td>swaying</td><td>swāying</td><td>sway-ing</td><td>swāy-ing</td><td>v. move back and forth or sideways<br>v. cause to move back and forth</td></tr>
 <tr><td>swaybacked</td><td>swāyback𝕖ḋ</td><td>sway-back-ed</td><td>swāy-back-𝕖ḋ</td><td>a. having abnormal sagging of the spine</td></tr>
 <tr><td>unswayed</td><td>ûnswāy𝕖d</td><td>un-sway-ed</td><td>ûn-swāy-𝕖d</td><td>a. not influenced or affected</td></tr>
-<tr><td>swazi</td><td>swàzĩ</td><td>swazi</td><td>swàzĩ</td><td>n. a member of a Bantu people living in Swaziland and South Africa<br>a. of or relating to the Swazi people</td></tr>
+<tr><td>swazi</td><td>swàzi</td><td>swazi</td><td>swàzi</td><td>n. a member of a Bantu people living in Swaziland and South Africa<br>a. of or relating to the Swazi people</td></tr>
 <tr><td>swear</td><td>sweār</td><td>swear</td><td>sweār</td><td>v. to make a solemn statement or promise<br>v. to use rude or offensive language</td></tr>
 <tr><td>swore</td><td>swore</td><td>swore</td><td>swore</td><td></td></tr>
 <tr><td>sworn</td><td>sworn</td><td>sworn</td><td>sworn</td><td>a. bound by or stated on oath</td></tr>
@@ -7109,7 +7109,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sweatshirts</td><td>swèatshi̊rts</td><td>sweat-shirt-s</td><td>swèat-shi̊rt-s</td><td></td></tr>
 <tr><td>swede</td><td>swēde</td><td>swede</td><td>swēde</td><td>n. a native or inhabitant of Sweden<br>n. a large yellow-fleshed root vegetable</td></tr>
 <tr><td>Sweden</td><td>Swēde̊n</td><td>Sweden</td><td>Swēde̊n</td><td>n. a country in northern Europe</td></tr>
-<tr><td>swedenborgian</td><td>swēd𝕖nborgiån</td><td>swedenborg-ian</td><td>swēd𝕖nborg-iån</td><td>n. a follower of Emanuel Swedenborg or his religious doctrines<br>a. of or relating to Swedenborg or his doctrines</td></tr>
+<tr><td>swedenborgian</td><td>swēde̊nborgiån</td><td>swedenborg-ian</td><td>swēde̊nborg-iån</td><td>n. a follower of Emanuel Swedenborg or his religious doctrines<br>a. of or relating to Swedenborg or his doctrines</td></tr>
 <tr><td>swedish</td><td>swēdish</td><td>swed-ish</td><td>swēd-ish</td><td>a. relating to Sweden or its people<br>n. the language spoken in Sweden</td></tr>
 <tr><td>sweep</td><td>swēep</td><td>sweep</td><td>swēep</td><td>n. a wide scope<br>n. a movement in an arc<br>v. move with sweeping, effortless, gliding motions<br>v. sweep with a broom or as if with a broom</td></tr>
 <tr><td>swept</td><td>swept</td><td>swept</td><td>swept</td><td>v. clean or clear with a broom(sweep的过去式和过去分词)<br>a. having a curving outline</td></tr>
@@ -7124,8 +7124,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>sweeten</td><td>swēete̊n</td><td>sweet-en</td><td>swēet-e̊n</td><td>v. to make or become sweet or sweeter</td></tr>
 <tr><td>sweeter</td><td>swēete̊r</td><td>sweet-er</td><td>swēet-e̊r</td><td></td></tr>
 <tr><td>sweetest</td><td>swēetėst</td><td>sweet-est</td><td>swēet-ėst</td><td></td></tr>
-<tr><td>sweetheart</td><td>swēethèart</td><td>sweet-heart</td><td>swēet-hèart</td><td>n. a person loved by another<br>n. a well-liked person</td></tr>
-<tr><td>sweetie</td><td>swēetiē</td><td>sweet-ie</td><td>swēet-iē</td><td>n. a person loved by another</td></tr>
+<tr><td>sweetheart</td><td>swēeth𝕖àrt</td><td>sweet-heart</td><td>swēet-h𝕖àrt</td><td>n. a person loved by another<br>n. a well-liked person</td></tr>
+<tr><td>sweetie</td><td>swēetie</td><td>sweet-ie</td><td>swēet-ie</td><td>n. a person loved by another</td></tr>
 <tr><td>sweetish</td><td>swēetish</td><td>sweet-ish</td><td>swēet-ish</td><td>a. somewhat sweet</td></tr>
 <tr><td>sweetly</td><td>swēetlẏ</td><td>sweet-ly</td><td>swēet-lẏ</td><td>adv. in an affectionate or loving manner</td></tr>
 <tr><td>sweetmeat</td><td>swēetmēat</td><td>sweet-meat</td><td>swēet-mēat</td><td>n. a sweetened delicacy (as a preserve or pastry)</td></tr>
@@ -7158,7 +7158,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>swift</td><td>swift</td><td>swift</td><td>swift</td><td>a. moving or capable of moving at high speed<br>n. a fast-flying bird with long wings</td></tr>
 <tr><td>swiftlet</td><td>swiftlėt</td><td>swift-let</td><td>swift-lėt</td><td>n. swift of eastern Asia; produces the edible bird&#x27;s nest</td></tr>
 <tr><td>swiftly</td><td>swiftlẏ</td><td>swift-ly</td><td>swift-lẏ</td><td>adv. in a swift manner</td></tr>
-<tr><td>swiftness</td><td>swiftne̊ss</td><td>swift-ness</td><td>swift-ne̊ss</td><td>n. a rate (usually rapid) at which something happens</td></tr>
+<tr><td>swiftness</td><td>swiftnėss</td><td>swift-ness</td><td>swift-nėss</td><td>n. a rate (usually rapid) at which something happens</td></tr>
 <tr><td>swig</td><td>swig</td><td>swig</td><td>swig</td><td>n. a large gulp of drink<br>v. to drink in large gulps</td></tr>
 <tr><td>swill</td><td>swill</td><td>swill</td><td>swill</td><td>v. drink large quantities of (liquid, especially alcoholic drink)</td></tr>
 <tr><td>swam</td><td>swam</td><td>swam</td><td>swam</td><td></td></tr>
@@ -7192,14 +7192,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>swipes</td><td>swīp𝕖s</td><td>swipe-s</td><td>swīp𝕖-s</td><td></td></tr>
 <tr><td>swirl</td><td>swi̊rl</td><td>swirl</td><td>swi̊rl</td><td>v. to move with a twisting or circular motion<br>n. a swirling movement</td></tr>
 <tr><td>swirling</td><td>swi̊rling</td><td>swirl-ing</td><td>swi̊rl-ing</td><td>v turn in a twisting or spinning motion<br>v flow in a circular current, of liquids</td></tr>
-<tr><td>swirly</td><td>swīrlẏ</td><td>swirl-y</td><td>swīrl-ẏ</td><td>a. having a swirling pattern or shape</td></tr>
+<tr><td>swirly</td><td>swi̊rlẏ</td><td>swirl-y</td><td>swi̊rl-ẏ</td><td>a. having a swirling pattern or shape</td></tr>
 <tr><td>swish</td><td>swish</td><td>swish</td><td>swish</td><td>n. a brushing or rustling sound</td></tr>
 <tr><td>swishing</td><td>swishing</td><td>swish-ing</td><td>swish-ing</td><td>v. move with a whistling or hissing sound</td></tr>
 <tr><td>swishy</td><td>swishẏ</td><td>swish-y</td><td>swish-ẏ</td><td>a. making a swishing sound</td></tr>
 <tr><td>Swiss</td><td>Swiss</td><td>Swiss</td><td>Swiss</td><td>n. a native of Switzerland<br>a. relating to Switzerland</td></tr>
 <tr><td>swiss</td><td>swiss</td><td></td><td></td><td>n. a native of Switzerland<br>a. relating to Switzerland</td></tr>
 <tr><td>switch</td><td>switch</td><td>switch</td><td>switch</td><td>n. a mechanical or electrical device for making or changing connections in a circuit<br>n. a flexible implement used as an instrument of punishment<br>v. change over, change around, or switch over</td></tr>
-<tr><td>switchable</td><td>switchāble</td><td>switch-able</td><td>switch-āble</td><td>a. capable of being switched</td></tr>
+<tr><td>switchable</td><td>switchåble</td><td>switch-able</td><td>switch-åble</td><td>a. capable of being switched</td></tr>
 <tr><td>switchback</td><td>switchback</td><td>switch-back</td><td>switch-back</td><td>n. a road or track with many sharp turns</td></tr>
 <tr><td>switchblade</td><td>switchblāde</td><td>switch-blade</td><td>switch-blāde</td><td>n. a pocketknife with a blade that springs open at the press of a button</td></tr>
 <tr><td>switchboard</td><td>switchbōard</td><td>switch-board</td><td>switch-bōard</td><td>n. a central telephone exchange</td></tr>
@@ -7210,7 +7210,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>switchgrass</td><td>switchgràss</td><td>switch-grass</td><td>switch-gràss</td><td>n. a tall North American perennial grass that is used for biomass and soil conservation</td></tr>
 <tr><td>switching</td><td>switching</td><td>switch-ing</td><td>switch-ing</td><td>n. the act of changing one thing for another</td></tr>
 <tr><td>switchover</td><td>switchōve̊r</td><td>switch-over</td><td>switch-ōve̊r</td><td>n. a complete change from one system to another</td></tr>
-<tr><td>microswitch</td><td>mīcro̊switch</td><td>micro-switch</td><td>mīcro̊-switch</td><td>n. a small electric switch that is operated by a tiny movement</td></tr>
+<tr><td>microswitch</td><td>mīcrōswitch</td><td>micro-switch</td><td>mīcrō-switch</td><td>n. a small electric switch that is operated by a tiny movement</td></tr>
 <tr><td>Switzerland</td><td>Switze̊rlånd</td><td>Switz-er-land</td><td>Switz-e̊r-lånd</td><td>n. a country in central Europe</td></tr>
 <tr><td>swivel</td><td>swive̊l</td><td>swivel</td><td>swive̊l</td><td>n. a device that allows something to rotate freely<br>v. to turn or rotate on a pivot</td></tr>
 <tr><td>swiveling</td><td>swive̊ling</td><td>swivel-ing</td><td>swive̊l-ing</td><td>v. turn on a pivot</td></tr>
@@ -7227,17 +7227,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>swordplay</td><td>swordplāy</td><td>sword-play</td><td>sword-plāy</td><td>n. the act using a sword (or other weapon) vigorously and skillfully</td></tr>
 <tr><td>swords</td><td>swordṡ</td><td>sword-s</td><td>sword-ṡ</td><td></td></tr>
 <tr><td>swordsman</td><td>swordṡmån</td><td>sword-sman</td><td>sword-ṡmån</td><td>n. someone skilled at fencing</td></tr>
-<tr><td>sybaritic</td><td>sẏbåritic</td><td>sybarit-ic</td><td>sẏbårit-ic</td><td>a. displaying luxury and furnishing gratification to the senses</td></tr>
-<tr><td>sybarite</td><td>sẏbårīte</td><td>sybarite</td><td>sẏbårīte</td><td>n. a person addicted to luxury and pleasure</td></tr>
+<tr><td>sybaritic</td><td>sẏbàritic</td><td>sybarit-ic</td><td>sẏbàrit-ic</td><td>a. displaying luxury and furnishing gratification to the senses</td></tr>
+<tr><td>sybarite</td><td>sẏbàrīte</td><td>sybarite</td><td>sẏbàrīte</td><td>n. a person addicted to luxury and pleasure</td></tr>
 <tr><td>sycamore</td><td>sẏcåmore</td><td>sycamore</td><td>sẏcåmore</td><td>n. a large tree with broad leaves; its wood</td></tr>
-<tr><td>sycophant</td><td>sẏco̊phånt</td><td>sycophant</td><td>sẏco̊phånt</td><td>n. a person who tries to please someone in order to gain a personal advantage</td></tr>
+<tr><td>sycophant</td><td>sẏcophånt</td><td>sycophant</td><td>sẏcophånt</td><td>n. a person who tries to please someone in order to gain a personal advantage</td></tr>
 <tr><td>sycophantic</td><td>sẏco̊phantic</td><td>sycophant-ic</td><td>sẏco̊phant-ic</td><td>a. attempting to win favor from influential people by flattery</td></tr>
 <tr><td>sycophancy</td><td>sẏco̊phåncẏ</td><td>sycophanc-y</td><td>sẏco̊phånc-ẏ</td><td>n. fawning obsequiousness</td></tr>
-<tr><td>Sydney</td><td>Sẏdnēy</td><td>Sydney</td><td>Sẏdnēy</td><td>n. a city in Australia</td></tr>
+<tr><td>Sydney</td><td>Sẏdnėy</td><td>Sydney</td><td>Sẏdnėy</td><td>n. a city in Australia</td></tr>
 <tr><td>asylum</td><td>åsȳlům</td><td>a-syl-um</td><td>å-sȳl-ům</td><td>n. protection granted by a country to someone who has left their native country<br>n. an institution for the care of the mentally ill</td></tr>
 <tr><td>syllabary</td><td>sẏllåbårẏ</td><td>syllab-ary</td><td>sẏllåb-årẏ</td><td>n. a writing system whose characters represent syllables</td></tr>
 <tr><td>syllable</td><td>sẏllåble</td><td>syll-able</td><td>sẏll-åble</td><td>n. a unit of pronunciation having one vowel sound</td></tr>
-<tr><td>syllabic</td><td>sẙllabic</td><td>syllab-ic</td><td>sẙllab-ic</td><td>a. of or relating to syllables<br>a. having lines based on syllable count rather than rhythmical stress arrangement</td></tr>
+<tr><td>syllabic</td><td>sẏllabic</td><td>syllab-ic</td><td>sẏllab-ic</td><td>a. of or relating to syllables<br>a. having lines based on syllable count rather than rhythmical stress arrangement</td></tr>
 <tr><td>disyllabic</td><td>disẏllabic</td><td>di-syllab-ic</td><td>di-sẏllab-ic</td><td>a. having or characterized by or consisting of two syllables</td></tr>
 <tr><td>monosyllable</td><td>monōsẏllåble</td><td>mono-syll-able</td><td>monō-sẏll-åble</td><td>n. a word or utterance of one syllable</td></tr>
 <tr><td>monosyllabic</td><td>monōsẏllabic</td><td>mono-syllab-ic</td><td>monō-sẏllab-ic</td><td>a. having or consisting of one syllable</td></tr>
@@ -7247,20 +7247,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>symphonic</td><td>sẏmphonic</td><td>symphon-ic</td><td>sẏmphon-ic</td><td>a. relating to or characteristic of a symphony<br>a. harmonious in sound</td></tr>
 <tr><td>symphonious</td><td>sẏmphōnio̊us</td><td>symphon-ious</td><td>sẏmphōn-io̊us</td><td>a. harmonious</td></tr>
 <tr><td>asymptotic</td><td>asẏmptotic</td><td>a-symptot-ic</td><td>a-sẏmptot-ic</td><td>a. relating to or of the nature of an asymptote</td></tr>
-<tr><td>asymptotically</td><td>asẏmptōticållẏ</td><td>a-symptot-ic-al-ly</td><td>a-sẏmptōt-ic-ål-lẏ</td><td>adv. toward an asymptote</td></tr>
+<tr><td>asymptotically</td><td>asẏmptoticållẏ</td><td>a-symptot-ic-al-ly</td><td>a-sẏmptot-ic-ål-lẏ</td><td>adv. toward an asymptote</td></tr>
 <tr><td>sync</td><td>sẏnc</td><td>sync</td><td>sẏnc</td><td>v. to synchronize<br>n. synchronization</td></tr>
-<tr><td>synch</td><td>sẏnch</td><td>synch</td><td>sẏnch</td><td>v. to synchronize</td></tr>
-<tr><td>synchrotron</td><td>sẏnc𝕙ro̊tro̊n</td><td>synchro-tron</td><td>sẏnc𝕙ro̊-tro̊n</td><td>n. cyclotron in which the electric field is maintained at a constant frequency</td></tr>
+<tr><td>synch</td><td>sẏnc𝕙</td><td>synch</td><td>sẏnc𝕙</td><td>v. to synchronize</td></tr>
+<tr><td>synchrotron</td><td>sẏnc𝕙ro̊tron</td><td>synchro-tron</td><td>sẏnc𝕙ro̊-tron</td><td>n. cyclotron in which the electric field is maintained at a constant frequency</td></tr>
 <tr><td>syncopate</td><td>sẏnco̊pāte</td><td>syncop-ate</td><td>sẏnco̊p-āte</td><td>v. omit a sound or letter in a word<br>v. modify the rhythm by stressing or accenting a weak beat</td></tr>
 <tr><td>syncopated</td><td>sẏnco̊pātėd</td><td>syncopat-ed</td><td>sẏnco̊pāt-ėd</td><td>v. modify the rhythm by stressing a normally weak beat</td></tr>
 <tr><td>syncopation</td><td>sẏnco̊pātio̊n</td><td>syncop-at-ion</td><td>sẏnco̊p-āt-io̊n</td><td>n. a musical rhythm accenting a normally weak beat<br>n. music (especially dance music) that has a syncopated rhythm</td></tr>
-<tr><td>syndicate</td><td>sẏndicåte</td><td>syndic-ate</td><td>sẏndic-åte</td><td>n. a group combined to carry out a business venture<br>v. to form into a syndicate</td></tr>
+<tr><td>syndicate</td><td>sẏndicāte</td><td>syndic-ate</td><td>sẏndic-āte</td><td>n. a group combined to carry out a business venture<br>v. to form into a syndicate</td></tr>
 <tr><td>syndicated</td><td>sẏndicātėd</td><td>syndicat-ed</td><td>sẏndicāt-ėd</td><td>a. published or broadcast by multiple media outlets simultaneously</td></tr>
 <tr><td>syndicator</td><td>sẏndicāto̊r</td><td>syndicat-or</td><td>sẏndicāt-o̊r</td><td>n. a businessman who forms a syndicate</td></tr>
 <tr><td>syndicalist</td><td>sẏndicålist</td><td>syndic-al-ist</td><td>sẏndic-ål-ist</td><td>n. an advocate of syndicalism</td></tr>
 <tr><td>syndication</td><td>sẏndicātio̊n</td><td>syndic-at-ion</td><td>sẏndic-āt-io̊n</td><td>n. selling an article for publication in many magazines at the same time</td></tr>
 <tr><td>synecdoche</td><td>sẏnecdo̊c𝕙ė</td><td>synecdoche</td><td>sẏnecdo̊c𝕙ė</td><td>n. substituting a more inclusive term for a less inclusive one or vice versa</td></tr>
-<tr><td>synecdochic</td><td>sẏnecdo̊c𝕙ic</td><td>synecdoch-ic</td><td>sẏnecdo̊c𝕙-ic</td><td>a. of or relating to synecdoche (a figure of speech in which a part represents the whole)</td></tr>
+<tr><td>synecdochic</td><td>sẏnecdoc𝕙ic</td><td>synecdoch-ic</td><td>sẏnecdoc𝕙-ic</td><td>a. of or relating to synecdoche (a figure of speech in which a part represents the whole)</td></tr>
 <tr><td>synergic</td><td>sẏne̊rgic</td><td>synerg-ic</td><td>sẏne̊rg-ic</td><td>a. working together cooperatively</td></tr>
 <tr><td>synergism</td><td>sẏne̊rgiṡm</td><td>synerg-ism</td><td>sẏne̊rg-iṡm</td><td>n. cooperation producing an effect greater than the sum of individual effects</td></tr>
 <tr><td>synergy</td><td>sẏne̊rgẏ</td><td>synerg-y</td><td>sẏne̊rg-ẏ</td><td>n. combined effort greater than individual parts</td></tr>
@@ -7269,16 +7269,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>synopsis</td><td>sẏnopsis</td><td>synopsis</td><td>sẏnopsis</td><td>n. a sketchy summary of the main points</td></tr>
 <tr><td>synoptic</td><td>sẏnoptic</td><td>synopt-ic</td><td>sẏnopt-ic</td><td>a. presenting a summary or general view of a whole</td></tr>
 <tr><td>synovial</td><td>sẏnōviål</td><td>synov-i-al</td><td>sẏnōv-i-ål</td><td>a. relating to or secreting synovia</td></tr>
-<tr><td>syntagmatic</td><td>sẏntagmatic</td><td>syntagm-at-ic</td><td>sẏntagm-at-ic</td><td>a. related as members of a syntagma</td></tr>
+<tr><td>syntagmatic</td><td>sẏntågmatic</td><td>syntagm-at-ic</td><td>sẏntågm-at-ic</td><td>a. related as members of a syntagma</td></tr>
 <tr><td>synth</td><td>sẏnth</td><td>synth</td><td>sẏnth</td><td>n. an electronic musical instrument that generates sounds electronically</td></tr>
 <tr><td>syphilis</td><td>sẏphi̊lis</td><td>syphilis</td><td>sẏphi̊lis</td><td>n. a common venereal disease caused by the treponema pallidum spirochete</td></tr>
 <tr><td>syphilitic</td><td>sẏphilitic</td><td>syphilit-ic</td><td>sẏphilit-ic</td><td>n. a person suffering from syphilis<br>a. of or relating to or infected with syphilis</td></tr>
 <tr><td>syrian</td><td>sẏriån</td><td>syr-ian</td><td>sẏr-iån</td><td>n. a native or inhabitant of Syria<br>a. of or relating to Syria</td></tr>
 <tr><td>syrah</td><td>sẏrà𝕙</td><td>syrah</td><td>sẏrà𝕙</td><td>n. a dark-skinned variety of grape used to make red wine</td></tr>
-<tr><td>syringe</td><td>sẙringe</td><td>syringe</td><td>sẙringe</td><td>n. a medical instrument used to inject or withdraw fluids</td></tr>
-<tr><td>syrup</td><td>sẙrůp</td><td>syrup</td><td>sẙrůp</td><td>n. a thick sweet liquid</td></tr>
+<tr><td>syringe</td><td>sẏringe</td><td>syringe</td><td>sẏringe</td><td>n. a medical instrument used to inject or withdraw fluids</td></tr>
+<tr><td>syrup</td><td>sẏrûp</td><td>syrup</td><td>sẏrûp</td><td>n. a thick sweet liquid</td></tr>
 <tr><td>syrups</td><td>sẙrůps</td><td>syrup-s</td><td>sẙrůp-s</td><td></td></tr>
-<tr><td>syrupy</td><td>sẏrůpẏ</td><td>syrup-y</td><td>sẏrůp-ẏ</td><td>a. having the consistency of syrup; overly sweet</td></tr>
+<tr><td>syrupy</td><td>sẏrûpẏ</td><td>syrup-y</td><td>sẏrûp-ẏ</td><td>a. having the consistency of syrup; overly sweet</td></tr>
 <tr><td>systolic</td><td>sẏstolic</td><td>systol-ic</td><td>sẏstol-ic</td><td>a. of or relating to a systole or happening during a systole</td></tr>
 <tr><td>systole</td><td>sẏsto̊lė</td><td>systole</td><td>sẏsto̊lė</td><td>n. the contraction of the chambers of the heart to drive blood into the arteries</td></tr>
 </tbody>

@@ -1,27 +1,34 @@
 #!/usr/bin/env python3
-"""Verify built Search pages: all languages use the full lexicon and correct meanings."""
+"""Verify all built Search data and Words tables against the installed lexicon."""
 import argparse
 from html import unescape
 import json
 from pathlib import Path
 import re
+import string
 from urllib.parse import parse_qs, urlsplit
 from lingose_data import SITE, load_entries
+from verify_lexicon import Table
 
 LANGUAGES = ('en', 'zh', 'es', 'fr', 'de', 'vi', 'ru', 'ja', 'ko', 'ar')
 
 
 def verify(destination):
     entries, metadata = load_entries()
-    expected_words = [row['word'] for row in entries]
+    saved = json.loads((SITE / '_data/lexicon.json').read_text(encoding='utf-8'))
+    assert saved == metadata, 'Source identity changed; regenerate the lexicon'
+    search = {}
     for lang, filename in [('en', 'words.json'), ('zh', 'words_zh.json')]:
         rows = json.loads((destination / 'assets/data' / filename).read_text(encoding='utf-8'))
-        assert [row['word'] for row in rows] == expected_words, f'Incomplete or unsorted {filename}'
-        assert all(row['meaning'] == entry['meaning_' + lang]
-                   for row, entry in zip(rows, entries)), f'Wrong meaning language: {filename}'
+        expected = [{**{key: entry[key] for key in
+                        ('word', 'ips', 'ism', 'ipsm', 'root_lemma', 'rank')},
+                     'meaning': entry['meaning_' + lang]} for entry in entries]
+        assert rows == expected, f'Built data differs from source: {filename}'
+        search[lang] = rows
 
     version = metadata['data_version']
     urls = {}
+    word_pages = 0
     for lang in LANGUAGES:
         prefix = '' if lang == 'en' else lang
         page = (destination / prefix / 'search/index.html').read_text(encoding='utf-8')
@@ -36,8 +43,22 @@ def verify(destination):
         assert script, f'No Search script: {lang}'
         assert parse_qs(urlsplit(unescape(script.group(1))).query) == {'v': [version]}, lang
         urls[lang] = url
+
+        rows = search['zh' if lang == 'zh' else 'en']
+        for letter in string.ascii_lowercase:
+            path = destination / prefix / 'words' / letter / 'index.html'
+            table = Table()
+            table.feed(path.read_text(encoding='utf-8'))
+            expected = [row for row in rows
+                        if (row['root_lemma'] or row['word'])[0].casefold() == letter]
+            cells = [[(row[key] or '').replace('\r\n', '\n').replace('\r', '\n')
+                      for key in ('word', 'ips', 'ism', 'ipsm', 'meaning')]
+                     for row in expected]
+            assert table.rows == cells, f'Built Words table differs from source: {path}'
+            word_pages += 1
     assert (destination / 'assets/js/search.js').read_bytes() == (SITE / 'assets/js/search.js').read_bytes()
     return {'passed': True, 'entries_per_language': len(entries), 'languages': len(urls),
+            'all_source_fields_match': True, 'word_pages': word_pages,
             'meaning': 'zh: Chinese; en/es/fr/de/vi/ru/ja/ko/ar: English', 'urls': urls}
 
 

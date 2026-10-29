@@ -23,14 +23,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>babble</td><td>babble</td><td>babble</td><td>babble</td><td>v. 喋喋不休, 牙牙学语<br>n. 嘈杂声, 胡言乱语</td></tr>
 <tr><td>babbler</td><td>babble̊r</td><td>babbl-er</td><td>babbl-e̊r</td><td>n. 说话模糊不清者, 胡说之人</td></tr>
 <tr><td>babbling</td><td>babbling</td><td>babbl-ing</td><td>babbl-ing</td><td>n. 胡说；婴儿发出的咿哑声</td></tr>
-<tr><td>psychobabble</td><td>𝕡sȳc𝕙ōbabble̊</td><td>psycho-babble</td><td>𝕡sȳc𝕙ō-babble̊</td><td>n. 心理呓语（滥用心理学术语）</td></tr>
-<tr><td>baba</td><td>båbå</td><td>baba</td><td>båbå</td><td>n. 兰姆糕</td></tr>
+<tr><td>psychobabble</td><td>𝕡sȳc𝕙ōbabble</td><td>psycho-babble</td><td>𝕡sȳc𝕙ō-babble</td><td>n. 心理呓语（滥用心理学术语）</td></tr>
+<tr><td>baba</td><td>bàbå</td><td>baba</td><td>bàbå</td><td>n. 兰姆糕</td></tr>
 <tr><td>babbitt</td><td>babbitt</td><td>babbitt</td><td>babbitt</td><td>n. 庸俗市民<br>n. 巴氏合金</td></tr>
 <tr><td>babe</td><td>bābe</td><td>babe</td><td>bābe</td><td>n. 婴儿, 宝贝</td></tr>
-<tr><td>babel</td><td>babe̊l</td><td>babel</td><td>babe̊l</td><td>n. 巴别塔, 喧闹混乱的场面</td></tr>
+<tr><td>babel</td><td>bābe̊l</td><td>babel</td><td>bābe̊l</td><td>n. 巴别塔, 喧闹混乱的场面</td></tr>
 <tr><td>babesiosis</td><td>båbēṡiōsis</td><td>babesi-osis</td><td>båbēṡi-ōsis</td><td>n. 巴贝西虫病</td></tr>
-<tr><td>baboon</td><td>båboon</td><td>baboon</td><td>båboon</td><td>n. 狒狒</td></tr>
-<tr><td>babushka</td><td>båbùshkå</td><td>babushka</td><td>båbùshkå</td><td>n. 头巾</td></tr>
+<tr><td>baboon</td><td>baboon</td><td>baboon</td><td>baboon</td><td>n. 狒狒</td></tr>
+<tr><td>babushka</td><td>babùshkå</td><td>babushka</td><td>babùshkå</td><td>n. 头巾</td></tr>
 <tr><td>baby</td><td>bābẏ</td><td>baby</td><td>bābẏ</td><td>n. 婴儿, 宝宝</td></tr>
 <tr><td>babydoll</td><td>bābẏdoll</td><td>baby-doll</td><td>bābẏ-doll</td><td>n. 洋娃娃</td></tr>
 <tr><td>babyhood</td><td>bābẏhood</td><td>baby-hood</td><td>bābẏ-hood</td><td>n. 婴儿时代, 幼稚</td></tr>
@@ -38,16 +38,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>babyish</td><td>bābẏish</td><td>baby-ish</td><td>bābẏ-ish</td><td>a. 幼稚的, 稚气的</td></tr>
 <tr><td>babysat</td><td>bābẏsat</td><td>baby-sat</td><td>bābẏ-sat</td><td></td></tr>
 <tr><td>crybaby</td><td>crȳbābẏ</td><td>cry-baby</td><td>crȳ-bābẏ</td><td>n. 爱哭的人</td></tr>
-<tr><td>babylonian</td><td>babẙlōniån</td><td>babylon-ian</td><td>babẙlōn-iån</td><td>a. 巴比伦的<br>n. 巴比伦人</td></tr>
+<tr><td>babylonian</td><td>babẏlōniån</td><td>babylon-ian</td><td>babẏlōn-iån</td><td>a. 巴比伦的<br>n. 巴比伦人</td></tr>
 <tr><td>bacon</td><td>bāco̊n</td><td>bac-on</td><td>bāc-o̊n</td><td>n. 培根, 咸猪肉</td></tr>
 <tr><td>bacilli</td><td>båcillī</td><td>bac-ill-i</td><td>båc-ill-ī</td><td>n. 杆菌</td></tr>
-<tr><td>bacillus</td><td>båcillůs</td><td>bac-ill-us</td><td>båc-ill-ůs</td><td>n. 杆菌</td></tr>
+<tr><td>bacillus</td><td>bacillůs</td><td>bac-ill-us</td><td>bac-ill-ůs</td><td>n. 杆菌</td></tr>
 <tr><td>abacus</td><td>abåcůs</td><td>a-bac-us</td><td>a-båc-ůs</td><td>n. 算盘</td></tr>
 <tr><td>baccarat</td><td>bàccårà𝕥</td><td>baccarat</td><td>bàccårà𝕥</td><td>n. 百家乐, 一种纸牌游戏</td></tr>
-<tr><td>bacchanal</td><td>båcc𝕙ānål</td><td>bacchan-al</td><td>båcc𝕙ān-ål</td><td>a. 狂饮作乐的<br>n. 酒神崇拜者</td></tr>
+<tr><td>bacchanal</td><td>bacc𝕙ånål</td><td>bacchan-al</td><td>bacc𝕙ån-ål</td><td>a. 狂饮作乐的<br>n. 酒神崇拜者</td></tr>
 <tr><td>bacchanalia</td><td>bacc𝕙ånāliå</td><td>bacchan-al-ia</td><td>bacc𝕙ån-āl-iå</td><td>n. 狂饮的闹宴</td></tr>
 <tr><td>bacchanalian</td><td>bacc𝕙ånāliån</td><td>bacchan-al-ian</td><td>bacc𝕙ån-āl-iån</td><td>a. 酒神节的, 狂饮作乐的</td></tr>
-<tr><td>baccalaureate</td><td>baccålãurēate</td><td>baccalaure-ate</td><td>baccålãurē-ate</td><td>n. 学士学位<br>n. 毕业告别演说</td></tr>
+<tr><td>baccalaureate</td><td>baccålãurēāte</td><td>baccalaure-ate</td><td>baccålãurē-āte</td><td>n. 学士学位<br>n. 毕业告别演说</td></tr>
 <tr><td>bachelor</td><td>bache̊lo̊r</td><td>bach-el-or</td><td>bach-e̊l-o̊r</td><td>n. 单身汉, 学士</td></tr>
 <tr><td>bachelorette</td><td>bache̊lo̊rette</td><td>bach-el-or-ette</td><td>bach-e̊l-o̊r-ette</td><td>n. 未婚女子</td></tr>
 <tr><td>bachelorhood</td><td>bache̊lo̊rhood</td><td>bach-el-or-hood</td><td>bach-e̊l-o̊r-hood</td><td>n. 独身, 独身生活</td></tr>
@@ -70,9 +70,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>backhand</td><td>backhand</td><td>back-hand</td><td>back-hand</td><td>n. 反手击球, 反手<br>v. 反手击球</td></tr>
 <tr><td>backhoe</td><td>backhōe</td><td>back-hoe</td><td>back-hōe</td><td>n. 挖掘机, 反铲</td></tr>
 <tr><td>backing</td><td>backing</td><td>back-ing</td><td>back-ing</td><td>n. 支持, 后援, 衬背</td></tr>
-<tr><td>backland</td><td>backland</td><td>back-land</td><td>back-land</td><td>n. 内地, 腹地<br>a. 偏僻地区的</td></tr>
+<tr><td>backland</td><td>backlånd</td><td>back-land</td><td>back-lånd</td><td>n. 内地, 腹地<br>a. 偏僻地区的</td></tr>
 <tr><td>backlash</td><td>backlash</td><td>back-lash</td><td>back-lash</td><td>n. 强烈反对, 后冲</td></tr>
-<tr><td>backless</td><td>backle̊ss</td><td>back-less</td><td>back-le̊ss</td><td>a. 无靠背的</td></tr>
+<tr><td>backless</td><td>backlėss</td><td>back-less</td><td>back-lėss</td><td>a. 无靠背的</td></tr>
 <tr><td>backlit</td><td>backlit</td><td>back-lit</td><td>back-lit</td><td>a. 背光的, 背光式照明的</td></tr>
 <tr><td>backlog</td><td>backlog</td><td>back-log</td><td>back-log</td><td>n. 积压的工作, 待办事项</td></tr>
 <tr><td>backpack</td><td>backpack</td><td>back-pack</td><td>back-pack</td><td>n. 背包</td></tr>
@@ -107,7 +107,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>aback</td><td>åback</td><td>a-back</td><td>å-back</td><td>adv. 向后, 吃惊地</td></tr>
 <tr><td>buyback</td><td>buȳback</td><td>buy-back</td><td>buȳ-back</td><td>n. 回购</td></tr>
 <tr><td>cutback</td><td>cûtback</td><td>cut-back</td><td>cût-back</td><td>n. 削减, 减少</td></tr>
-<tr><td>dieback</td><td>dīeback</td><td>die-back</td><td>dīe-back</td><td>n. 顶梢枯死, 顶死</td></tr>
+<tr><td>dieback</td><td>dī𝕖back</td><td>die-back</td><td>dī𝕖-back</td><td>n. 顶梢枯死, 顶死</td></tr>
 <tr><td>leatherback</td><td>lèaṫhe̊rback</td><td>leather-back</td><td>lèaṫhe̊r-back</td><td>n. 棱皮龟</td></tr>
 <tr><td>wetback</td><td>wetback</td><td>wet-back</td><td>wet-back</td><td>n. 非法移民（对墨西哥人的贬称）</td></tr>
 <tr><td>canvasback</td><td>canvåsback</td><td>canv-as-back</td><td>canv-ås-back</td><td>n. 帆布潜鸭</td></tr>
@@ -118,18 +118,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bacterium</td><td>bactēriům</td><td>bact-er-ium</td><td>bact-ēr-iům</td><td>n. 细菌</td></tr>
 <tr><td>bacterial</td><td>bactēriål</td><td>bact-er-i-al</td><td>bact-ēr-i-ål</td><td>a. 细菌的</td></tr>
 <tr><td>bacteriology</td><td>bactēriolo̊gẏ</td><td>bact-er-io-log-y</td><td>bact-ēr-io-lo̊g-ẏ</td><td>n. 细菌学</td></tr>
-<tr><td>bacteriological</td><td>bacte̊rio̊logicål</td><td>bact-er-io-log-ic-al</td><td>bact-e̊r-io̊-log-ic-ål</td><td>a. 细菌学的</td></tr>
+<tr><td>bacteriological</td><td>bactērio̊logicål</td><td>bact-er-io-log-ic-al</td><td>bact-ēr-io̊-log-ic-ål</td><td>a. 细菌学的</td></tr>
 <tr><td>antibacterial</td><td>antibactēriål</td><td>anti-bact-er-i-al</td><td>anti-bact-ēr-i-ål</td><td>n. 抗菌剂<br>a. 抗菌的</td></tr>
-<tr><td>campylobacter</td><td>campẏlōbacte̊r</td><td>campyl-o-bact-er</td><td>campẏl-ō-bact-e̊r</td><td>n. 弯曲菌</td></tr>
+<tr><td>campylobacter</td><td>campẏlobacte̊r</td><td>campyl-o-bact-er</td><td>campẏl-o-bact-e̊r</td><td>n. 弯曲菌</td></tr>
 <tr><td>cyanobacterial</td><td>cȳåno̊bactēriål</td><td>cyan-o-bact-er-i-al</td><td>cȳån-o̊-bact-ēr-i-ål</td><td>a. 蓝藻的</td></tr>
-<tr><td>mycobacteria</td><td>mẏcōbacte̊riå</td><td>myc-o-bact-er-ia</td><td>mẏc-ō-bact-e̊r-iå</td><td>n. 分枝杆菌</td></tr>
-<tr><td>mycobacterium</td><td>mȳcōbacte̊riům</td><td>myc-o-bact-er-ium</td><td>mȳc-ō-bact-e̊r-iům</td><td>n. 分枝杆菌</td></tr>
-<tr><td>mycobacterial</td><td>mȳcobacte̊riål</td><td>myc-o-bact-er-i-al</td><td>mȳc-o-bact-e̊r-i-ål</td><td>a. 分支杆菌的</td></tr>
+<tr><td>mycobacteria</td><td>mȳco̊båctēriå</td><td>myc-o-bact-er-ia</td><td>mȳc-o̊-båct-ēr-iå</td><td>n. 分枝杆菌</td></tr>
+<tr><td>mycobacterium</td><td>mȳco̊båctēriům</td><td>myc-o-bact-er-ium</td><td>mȳc-o̊-båct-ēr-iům</td><td>n. 分枝杆菌</td></tr>
+<tr><td>mycobacterial</td><td>mȳco̊båctēriål</td><td>myc-o-bact-er-i-al</td><td>mȳc-o̊-båct-ēr-i-ål</td><td>a. 分支杆菌的</td></tr>
 <tr><td>bactrian</td><td>bactriån</td><td>bactri-an</td><td>bactri-ån</td><td>a. 大夏的, 巴克特里亚的</td></tr>
 <tr><td>bad</td><td>bad</td><td>bad</td><td>bad</td><td>a. 坏的, 不好的</td></tr>
 <tr><td>baddie</td><td>baddie</td><td>badd-ie</td><td>badd-ie</td><td>n. 坏人, 反派</td></tr>
 <tr><td>badly</td><td>badlẏ</td><td>bad-ly</td><td>bad-lẏ</td><td>adv. 严重地, 恶劣地, 极度地</td></tr>
-<tr><td>badness</td><td>badne̊ss</td><td>bad-ness</td><td>bad-ne̊ss</td><td>n. 坏, 不良</td></tr>
+<tr><td>badness</td><td>badnėss</td><td>bad-ness</td><td>bad-nėss</td><td>n. 坏, 不良</td></tr>
 <tr><td>worse</td><td>wo̊rse</td><td>worse</td><td>wo̊rse</td><td>a. 更坏的, 更差的<br>adv. 更坏地, 更差地</td></tr>
 <tr><td>worsen</td><td>wo̊rse̊n</td><td>wors-en</td><td>wo̊rs-e̊n</td><td>vt. 使恶化<br>vi. 恶化</td></tr>
 <tr><td>worsening</td><td>wo̊rse̊ning</td><td>wors-en-ing</td><td>wo̊rs-e̊n-ing</td><td>a. 恶化的<br>n. 恶化, 加重</td></tr>
@@ -150,27 +150,27 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>baggage</td><td>baggȧge</td><td>bagg-age</td><td>bagg-ȧge</td><td>n. 行李</td></tr>
 <tr><td>bagged</td><td>bagg𝕖d</td><td>bagg-ed</td><td>bagg-𝕖d</td><td>v. 装袋, 获得 (bag的过去式)<br>a. 松弛下垂的</td></tr>
 <tr><td>bagger</td><td>bagge̊r</td><td>bagg-er</td><td>bagg-e̊r</td><td>n. 装袋工, 装袋机<br>[化] 装水胎机; 装囊机; 装袋机</td></tr>
-<tr><td>baggie</td><td>baggiē</td><td>bagg-ie</td><td>bagg-iē</td><td>n. 塑料袋, 密封袋</td></tr>
+<tr><td>baggie</td><td>baggie</td><td>bagg-ie</td><td>bagg-ie</td><td>n. 塑料袋, 密封袋</td></tr>
 <tr><td>bagging</td><td>bagging</td><td>bagg-ing</td><td>bagg-ing</td><td>n. 装袋, 制袋材料</td></tr>
 <tr><td>bagman</td><td>bagmån</td><td>bag-man</td><td>bag-mån</td><td>n. 推销员, 中间人</td></tr>
 <tr><td>bags</td><td>bagṡ</td><td>bag-s</td><td>bag-ṡ</td><td></td></tr>
 <tr><td>baggy</td><td>baggẏ</td><td>bagg-y</td><td>bagg-ẏ</td><td>a. 宽松的, 松垮的</td></tr>
-<tr><td>ambagious</td><td>ambāgio̊us</td><td>am-bag-ious</td><td>am-bāg-io̊us</td><td>a. 迂回的</td></tr>
+<tr><td>ambagious</td><td>ambagio̊us</td><td>am-bag-ious</td><td>am-bag-io̊us</td><td>a. 迂回的</td></tr>
 <tr><td>douchebag</td><td>doūċh𝕖bag</td><td>douche-bag</td><td>doūċh𝕖-bag</td><td></td></tr>
 <tr><td>douchebags</td><td>doūċh𝕖bagṡ</td><td>douche-bag-s</td><td>doūċh𝕖-bag-ṡ</td><td></td></tr>
-<tr><td>moneybags</td><td>mônėybags</td><td>money-bag-s</td><td>mônėy-bag-s</td><td>n. 富翁</td></tr>
+<tr><td>moneybags</td><td>mônėybagṡ</td><td>money-bag-s</td><td>mônėy-bag-ṡ</td><td>n. 富翁</td></tr>
 <tr><td>carpetbag</td><td>càrpėtbag</td><td>carp-et-bag</td><td>càrp-ėt-bag</td><td>n. 毯制旅行袋<br>a. 投机分子的</td></tr>
-<tr><td>bagasse</td><td>bågasse</td><td>bagasse</td><td>bågasse</td><td>n. 甘蔗渣</td></tr>
+<tr><td>bagasse</td><td>bagasse</td><td>bagasse</td><td>bagasse</td><td>n. 甘蔗渣</td></tr>
 <tr><td>bagatelle</td><td>bagåtelle</td><td>bagatelle</td><td>bagåtelle</td><td>n. 琐事, 小事</td></tr>
 <tr><td>bagel</td><td>bāge̊l</td><td>bagel</td><td>bāge̊l</td><td>n. 百吉饼, 贝果</td></tr>
 <tr><td>bagels</td><td>bāge̊lṡ</td><td>bagel-s</td><td>bāge̊l-ṡ</td><td></td></tr>
 <tr><td>baguette</td><td>bag𝕦ette</td><td>baguette</td><td>bag𝕦ette</td><td>n. 法国棍子面包</td></tr>
 <tr><td>bah</td><td>bà𝕙</td><td>bah</td><td>bà𝕙</td><td>interj. 呸！</td></tr>
 <tr><td>bahai</td><td>båhaī</td><td>bahai</td><td>båhaī</td><td>n. 巴哈伊教<br>n. 巴哈伊教徒</td></tr>
-<tr><td>bahamian</td><td>båhāmiån</td><td>baham-ian</td><td>båhām-iån</td><td>n. 巴哈马人<br>a. 巴哈马的, 巴哈马人的</td></tr>
-<tr><td>bahian</td><td>bàhiån</td><td>bahian</td><td>bàhiån</td><td>a. 巴伊亚州的（巴西）<br>n. 巴伊亚州人</td></tr>
+<tr><td>bahamian</td><td>bahāmiån</td><td>baham-ian</td><td>bahām-iån</td><td>n. 巴哈马人<br>a. 巴哈马的, 巴哈马人的</td></tr>
+<tr><td>bahian</td><td>bàhĩån</td><td>bahian</td><td>bàhĩån</td><td>a. 巴伊亚州的（巴西）<br>n. 巴伊亚州人</td></tr>
 <tr><td>Bahmad</td><td></td><td>Bahmad</td><td></td><td>n. 巴姆德(姓)</td></tr>
-<tr><td>bahraini</td><td>bà𝕙rāinĩ</td><td>bahrain-i</td><td>bà𝕙rāin-ĩ</td><td>a. 巴林的<br>n. 巴林人</td></tr>
+<tr><td>bahraini</td><td>bà𝕙rāini</td><td>bahrain-i</td><td>bà𝕙rāin-i</td><td>a. 巴林的<br>n. 巴林人</td></tr>
 <tr><td>baht</td><td>bà𝕙t</td><td>baht</td><td>bà𝕙t</td><td>n. 铢(泰国货币单位)</td></tr>
 <tr><td>bail</td><td>bāil</td><td>bail</td><td>bāil</td><td>n. 保释, 保释金<br>vt. 保释, 舀水</td></tr>
 <tr><td>bailed</td><td>bāil𝕖d</td><td>bail-ed</td><td>bāil-𝕖d</td><td></td></tr>
@@ -195,11 +195,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bakes</td><td>bāk𝕖s</td><td>bake-s</td><td>bāk𝕖-s</td><td></td></tr>
 <tr><td>bakeshop</td><td>bāk𝕖shop</td><td>bake-shop</td><td>bāk𝕖-shop</td><td>n. 面包店, 烘焙坊</td></tr>
 <tr><td>bakeries</td><td>bāke̊ri𝕖ṡ</td><td>bak-er-ies</td><td>bāk-e̊r-i𝕖ṡ</td><td></td></tr>
-<tr><td>prebake</td><td>prēbāke</td><td>pre-bake</td><td>prē-bāke</td><td>v. 预焙, 预烘</td></tr>
-<tr><td>prebaked</td><td>prēbāk𝕖d</td><td>pre-bak-ed</td><td>prē-bāk-𝕖d</td><td>a. 预烘烤的, 预焙的</td></tr>
+<tr><td>prebake</td><td>prėbāke</td><td>pre-bake</td><td>prė-bāke</td><td>v. 预焙, 预烘</td></tr>
+<tr><td>prebaked</td><td>prėbāk𝕖ḋ</td><td>pre-bak-ed</td><td>prė-bāk-𝕖ḋ</td><td>a. 预烘烤的, 预焙的</td></tr>
 <tr><td>unbaked</td><td>ûnbāk𝕖ḋ</td><td>un-bak-ed</td><td>ûn-bāk-𝕖ḋ</td><td>a. 未烘烤的, 生的</td></tr>
-<tr><td>bakhtinian</td><td>bak𝕙tiniån</td><td>bakhtinian</td><td>bak𝕙tiniån</td><td>a. 巴赫金式的, 巴赫金学派的</td></tr>
-<tr><td>baklava</td><td>baklåvå</td><td>baklava</td><td>baklåvå</td><td>n. 果仁蜜饼（中东甜点）</td></tr>
+<tr><td>bakhtinian</td><td>bakhtiniån</td><td>bakhtinian</td><td>bakhtiniån</td><td>a. 巴赫金式的, 巴赫金学派的</td></tr>
+<tr><td>baklava</td><td>baklàvå</td><td>baklava</td><td>baklàvå</td><td>n. 果仁蜜饼（中东甜点）</td></tr>
 <tr><td>balance</td><td>balånce</td><td>bal-ance</td><td>bal-ånce</td><td>n. 平衡, 差额, 余额<br>v. 使平衡, 权衡, 结算</td></tr>
 <tr><td>balanced</td><td>balånc𝕖ḋ</td><td>bal-anc-ed</td><td>bal-ånc-𝕖ḋ</td><td>a. 平衡的, 均衡的</td></tr>
 <tr><td>balancer</td><td>balånce̊r</td><td>bal-anc-er</td><td>bal-ånc-e̊r</td><td>n. 平衡器, 走钢丝者</td></tr>
@@ -208,12 +208,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>imbalance</td><td>imbalånce</td><td>im-bal-ance</td><td>im-bal-ånce</td><td>n. 不平衡, 失调</td></tr>
 <tr><td>imbalanced</td><td>imbalånc𝕖ḋ</td><td>im-bal-anc-ed</td><td>im-bal-ånc-𝕖ḋ</td><td>a. 失衡的；失调的</td></tr>
 <tr><td>overbalance</td><td>ōve̊rbalånce</td><td>over-bal-ance</td><td>ōve̊r-bal-ånce</td><td>vt. 使倾覆, (重量、价值)超过, 使失去均衡, 跌倒<br>vi. 失去平衡<br>n. 超重, 超量, 失去平衡</td></tr>
-<tr><td>rebalancing</td><td>rēbalåncing</td><td>re-bal-anc-ing</td><td>rē-bal-ånc-ing</td><td>n. 再平衡, 调整资产组合</td></tr>
+<tr><td>rebalancing</td><td>rėbalåncing</td><td>re-bal-anc-ing</td><td>rė-bal-ånc-ing</td><td>n. 再平衡, 调整资产组合</td></tr>
 <tr><td>unbalance</td><td>ûnbalånce</td><td>un-bal-ance</td><td>ûn-bal-ånce</td><td>n. 失衡, 精神错乱<br>vt. 使失去平衡</td></tr>
 <tr><td>unbalanced</td><td>ûnbalånc𝕖ḋ</td><td>un-bal-anc-ed</td><td>ûn-bal-ånc-𝕖ḋ</td><td>a. 不平衡的, 不稳定的</td></tr>
-<tr><td>well-balanced</td><td>well-balånced</td><td>well-bal-anc-ed</td><td>well-bal-ånc-ed</td><td>a. 均衡的, 明智的</td></tr>
+<tr><td>well-balanced</td><td>well-balånc𝕖ḋ</td><td>well-bal-anc-ed</td><td>well-bal-ånc-𝕖ḋ</td><td>a. 均衡的, 明智的</td></tr>
 <tr><td>balaclava</td><td>balåclàvå</td><td>balaclava</td><td>balåclàvå</td><td>n. 巴拉克拉法帽</td></tr>
-<tr><td>balalaika</td><td>balålaīkå</td><td>balalaika</td><td>balålaīkå</td><td>n. 俄罗斯三角琴</td></tr>
+<tr><td>balalaika</td><td>balålāikå</td><td>balalaika</td><td>balålāikå</td><td>n. 俄罗斯三角琴</td></tr>
 <tr><td>balconies</td><td>balco̊ni𝕖ṡ</td><td>bal-con-ies</td><td>bal-co̊n-i𝕖ṡ</td><td></td></tr>
 <tr><td>balcony</td><td>balco̊nẏ</td><td>bal-con-y</td><td>bal-co̊n-ẏ</td><td>n. 阳台, 戏院楼厅</td></tr>
 <tr><td>bald</td><td>bãld</td><td>bald</td><td>bãld</td><td>a. 秃头的, 光秃的</td></tr>
@@ -221,21 +221,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>baldest</td><td>bãldėst</td><td>bald-est</td><td>bãld-ėst</td><td></td></tr>
 <tr><td>balding</td><td>bãlding</td><td>bald-ing</td><td>bãld-ing</td><td>a. 渐秃的</td></tr>
 <tr><td>baldly</td><td>bãldlẏ</td><td>bald-ly</td><td>bãld-lẏ</td><td>adv. 直言不讳地, 露骨地</td></tr>
-<tr><td>baldness</td><td>bãldne̊ss</td><td>bald-ness</td><td>bãld-ne̊ss</td><td>n. 秃头, 光秃</td></tr>
+<tr><td>baldness</td><td>bãldnėss</td><td>bald-ness</td><td>bãld-nėss</td><td>n. 秃头, 光秃</td></tr>
 <tr><td>baldy</td><td>bãldẏ</td><td>bald-y</td><td>bãld-ẏ</td><td>n. 秃子<br>a. 秃的</td></tr>
 <tr><td>balderdash</td><td>bãlde̊rdash</td><td>bald-er-dash</td><td>bãld-e̊r-dash</td><td>n. 胡言乱语</td></tr>
 <tr><td>bale</td><td>bāle</td><td>bale</td><td>bāle</td><td>n. 包, 捆<br>vt. 打包</td></tr>
 <tr><td>baled</td><td>bāl𝕖d</td><td>bal-ed</td><td>bāl-𝕖d</td><td>v. 打包, 捆扎</td></tr>
 <tr><td>baleful</td><td>bāl𝕖fůl</td><td>bale-ful</td><td>bāl𝕖-fůl</td><td>a. 有害的, 恶意的</td></tr>
 <tr><td>baling</td><td>bāling</td><td>bal-ing</td><td>bāl-ing</td><td>v. 打包, 捆扎</td></tr>
-<tr><td>balefully</td><td>bāl𝕖fùllẏ</td><td>bale-ful-ly</td><td>bāl𝕖-fùl-lẏ</td><td>adv. 有害地, 灾难地</td></tr>
-<tr><td>baleen</td><td>bålēen</td><td>baleen</td><td>bålēen</td><td>n. 鲸须</td></tr>
-<tr><td>balinese</td><td>balinēṡe</td><td>balin-ese</td><td>balin-ēṡe</td><td>n. 巴厘人<br>a. 巴厘的, 巴厘人的</td></tr>
-<tr><td>balk</td><td>bã𝕝k</td><td>balk</td><td>bã𝕝k</td><td>v. 犹豫不前, 阻止<br>n. 障碍</td></tr>
+<tr><td>balefully</td><td>bāl𝕖fůllẏ</td><td>bale-ful-ly</td><td>bāl𝕖-fůl-lẏ</td><td>adv. 有害地, 灾难地</td></tr>
+<tr><td>baleen</td><td>balēen</td><td>baleen</td><td>balēen</td><td>n. 鲸须</td></tr>
+<tr><td>balinese</td><td>bàlinēṡe</td><td>balin-ese</td><td>bàlin-ēṡe</td><td>n. 巴厘人<br>a. 巴厘的, 巴厘人的</td></tr>
+<tr><td>balk</td><td>bãlk</td><td>balk</td><td>bãlk</td><td>v. 犹豫不前, 阻止<br>n. 障碍</td></tr>
 <tr><td>balkan</td><td>bãlkån</td><td>balk-an</td><td>bãlk-ån</td><td>n. 巴尔干半岛<br>a. 巴尔干的</td></tr>
-<tr><td>balky</td><td>bã𝕝kẏ</td><td>balk-y</td><td>bã𝕝k-ẏ</td><td>a. 倔强的, 不服从的</td></tr>
+<tr><td>balky</td><td>bãlkẏ</td><td>balk-y</td><td>bãlk-ẏ</td><td>a. 倔强的, 不服从的</td></tr>
 <tr><td>balkanized</td><td>bãlkånīz𝕖d</td><td>balkan-iz-ed</td><td>bãlkån-īz-𝕖d</td><td>v. 使分裂成若干对立的小国</td></tr>
-<tr><td>balkanization</td><td>bãlkånizātio̊n</td><td>balkan-iz-at-ion</td><td>bãlkån-iz-āt-io̊n</td><td>n. 巴尔干化, 分裂成小国</td></tr>
+<tr><td>balkanization</td><td>bãlkånīzātio̊n</td><td>balkan-iz-at-ion</td><td>bãlkån-īz-āt-io̊n</td><td>n. 巴尔干化, 分裂成小国</td></tr>
 <tr><td>ball</td><td>bãll</td><td>ball</td><td>bãll</td><td>n. 球, 舞会<br>v. 捏成球形</td></tr>
 <tr><td>ballclub</td><td>bãllclûb</td><td>ball-club</td><td>bãll-clûb</td><td>n. 棒球队, 棒球俱乐部</td></tr>
 <tr><td>balled</td><td>bãll𝕖d</td><td>ball-ed</td><td>bãll-𝕖d</td><td>v. 团成球状</td></tr>
@@ -254,23 +254,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>balloonist</td><td>bålloonist</td><td>ball-oon-ist</td><td>båll-oon-ist</td><td>n. 气球驾驶员</td></tr>
 <tr><td>ballets</td><td>ballets</td><td>ball-et-s</td><td>ball-et-s</td><td></td></tr>
 <tr><td>balloons</td><td>bålloonṡ</td><td>ball-oon-s</td><td>båll-oon-ṡ</td><td></td></tr>
-<tr><td>ballsy</td><td>bãllṡẏ</td><td>ball-s-y</td><td>bãll-ṡ-ẏ</td><td>a. 有胆量的, 勇敢的</td></tr>
+<tr><td>ballsy</td><td>bãllsẏ</td><td>ball-s-y</td><td>bãll-s-ẏ</td><td>a. 有胆量的, 勇敢的</td></tr>
 <tr><td>ballcarrier</td><td>bãllcarrie̊r</td><td>ball-carr-i-er</td><td>bãll-carr-i-e̊r</td><td>n. 带球进攻球员</td></tr>
 <tr><td>ballistics</td><td>bållistics</td><td>ball-ist-ic-s</td><td>båll-ist-ic-s</td><td>n. 弹道学</td></tr>
 <tr><td>ballistically</td><td>bållisticållẏ</td><td>ball-ist-ic-al-ly</td><td>båll-ist-ic-ål-lẏ</td><td>adv. 弹道学地, 发射地</td></tr>
 <tr><td>eyeball</td><td>eȳ𝕖bãll</td><td>eye-ball</td><td>eȳ𝕖-bãll</td><td>n. 眼球</td></tr>
 <tr><td>eyeballs</td><td>eȳ𝕖bãllṡ</td><td>eye-ball-s</td><td>eȳ𝕖-bãll-ṡ</td><td></td></tr>
 <tr><td>kickball</td><td>kickbãll</td><td>kick-ball</td><td>kick-bãll</td><td>n. 踢球游戏</td></tr>
-<tr><td>knuckleball</td><td>𝕜nûcklebãll</td><td>knuckle-ball</td><td>𝕜nûckle-bãll</td><td>n. 不旋转球</td></tr>
+<tr><td>knuckleball</td><td>𝕜nûckl𝕖bãll</td><td>knuckle-ball</td><td>𝕜nûckl𝕖-bãll</td><td>n. 不旋转球</td></tr>
 <tr><td>knuckleballer</td><td>𝕜nûckl𝕖bãlle̊r</td><td>knuckle-ball-er</td><td>𝕜nûckl𝕖-bãll-e̊r</td><td>n. 蝶形球投手</td></tr>
 <tr><td>mothball</td><td>mothbãll</td><td>moth-ball</td><td>moth-bãll</td><td>n. 樟脑丸, 保藏<br>vt. 封存<br>a. 封存的</td></tr>
 <tr><td>mothballed</td><td>mothbãll𝕖d</td><td>moth-ball-ed</td><td>moth-bãll-𝕖d</td><td>v. 封存, 搁置</td></tr>
 <tr><td>netball</td><td>netbãll</td><td>net-ball</td><td>net-bãll</td><td>n. 无板篮球</td></tr>
-<tr><td>racquetball</td><td>racq𝕦e̊tbãll</td><td>racquet-ball</td><td>racq𝕦e̊t-bãll</td><td>n. 壁球, 短网拍墙球</td></tr>
+<tr><td>racquetball</td><td>racquėtbãll</td><td>racquet-ball</td><td>racquėt-bãll</td><td>n. 壁球, 短网拍墙球</td></tr>
 <tr><td>cannonball</td><td>canno̊nbãll</td><td>cann-on-ball</td><td>cann-o̊n-bãll</td><td>n. 炮弹</td></tr>
 <tr><td>volleyball</td><td>vollėybãll</td><td>voll-ey-ball</td><td>voll-ėy-bãll</td><td>n. 排球</td></tr>
 <tr><td>ballad</td><td>ballåd</td><td>ballad</td><td>ballåd</td><td>n. 歌谣, 民谣</td></tr>
-<tr><td>balladeer</td><td>ballådėe̊r</td><td>ballad-eer</td><td>ballåd-ėe̊r</td><td>n. 民谣歌手</td></tr>
+<tr><td>balladeer</td><td>ballådēer</td><td>ballad-eer</td><td>ballåd-ēer</td><td>n. 民谣歌手</td></tr>
 <tr><td>ballast</td><td>ballåst</td><td>ballast</td><td>ballåst</td><td>n. 压舱物, 道碴, 稳定因素</td></tr>
 <tr><td>balletic</td><td>balletic</td><td>ball-et-ic</td><td>ball-et-ic</td><td>a. 象芭蕾舞的</td></tr>
 <tr><td>ballista</td><td>bållistå</td><td>ballista</td><td>bållistå</td><td>n. 发射石块的古代武器</td></tr>
@@ -281,10 +281,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>balmy</td><td>bà𝕝mẏ</td><td>balm-y</td><td>bà𝕝m-ẏ</td><td>a. 温和的, 芳香的</td></tr>
 <tr><td>embalm</td><td>embà𝕝m</td><td>em-balm</td><td>em-bà𝕝m</td><td>vt. 以药物防腐, 铭记于心, 使不朽</td></tr>
 <tr><td>embalmed</td><td>embà𝕝m𝕖d</td><td>em-balm-ed</td><td>em-bà𝕝m-𝕖d</td><td>vt. 对...做防腐处理</td></tr>
-<tr><td>embalmer</td><td>ėmbà𝕝me̊r</td><td>em-balm-er</td><td>ėm-bà𝕝m-e̊r</td><td>n. 尸体防腐员, 殡葬师</td></tr>
+<tr><td>embalmer</td><td>embà𝕝me̊r</td><td>em-balm-er</td><td>em-bà𝕝m-e̊r</td><td>n. 尸体防腐员, 殡葬师</td></tr>
 <tr><td>embalming</td><td>embà𝕝ming</td><td>em-balm-ing</td><td>em-bà𝕝m-ing</td><td>n. 遗体防腐, 防腐处理</td></tr>
-<tr><td>baloney</td><td>bålōnēy</td><td>balon-ey</td><td>bålōn-ēy</td><td>n. 胡扯, 废话</td></tr>
-<tr><td>abalone</td><td>abålōnē</td><td>a-balone</td><td>a-bålōnē</td><td>n. 鲍鱼</td></tr>
+<tr><td>baloney</td><td>bålōnėy</td><td>balon-ey</td><td>bålōn-ėy</td><td>n. 胡扯, 废话</td></tr>
+<tr><td>abalone</td><td>abålōnė</td><td>a-balone</td><td>a-bålōnė</td><td>n. 鲍鱼</td></tr>
 <tr><td>balsa</td><td>bãlså</td><td>balsa</td><td>bãlså</td><td>n. 轻木, 巴尔萨木</td></tr>
 <tr><td>balsam</td><td>bãlsåm</td><td>balsam</td><td>bãlsåm</td><td>n. 香脂, 香膏</td></tr>
 <tr><td>balsamic</td><td>bãlsamic</td><td>balsam-ic</td><td>bãlsam-ic</td><td>a. 香脂的, 慰藉的</td></tr>
@@ -296,7 +296,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bamboozle</td><td>bamboozle</td><td>bamboozle</td><td>bamboozle</td><td>vt. 欺骗, 迷惑</td></tr>
 <tr><td>bamboozled</td><td>bamboozl𝕖d</td><td>bamboozl-ed</td><td>bamboozl-𝕖d</td><td>v. 欺骗, 愚弄</td></tr>
 <tr><td>ban</td><td>ban</td><td>ban</td><td>ban</td><td>n. 禁令<br>vt. 禁止, 取缔</td></tr>
-<tr><td>banal</td><td>bånàl</td><td>ban-al</td><td>bån-àl</td><td>a. 平凡的, 陈腐的</td></tr>
+<tr><td>banal</td><td>bānål</td><td>ban-al</td><td>bān-ål</td><td>a. 平凡的, 陈腐的</td></tr>
 <tr><td>banned</td><td>bann𝕖d</td><td>bann-ed</td><td>bann-𝕖d</td><td>a. 被禁止的, 被取缔的</td></tr>
 <tr><td>banish</td><td>banish</td><td>ban-ish</td><td>ban-ish</td><td>vt. 驱逐, 放逐, 消除</td></tr>
 <tr><td>banning</td><td>banning</td><td>bann-ing</td><td>bann-ing</td><td>n. 禁令, 禁止<br>v. 禁止</td></tr>
@@ -305,7 +305,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>banana</td><td>bånànå</td><td>ban-an-a</td><td>bån-àn-å</td><td>n. 香蕉</td></tr>
 <tr><td>banished</td><td>banish𝕖ḋ</td><td>ban-ish-ed</td><td>ban-ish-𝕖ḋ</td><td>vt. 驱逐, 流放</td></tr>
 <tr><td>banister</td><td>baniste̊r</td><td>ban-ist-er</td><td>ban-ist-e̊r</td><td>n. 楼梯扶手, 栏杆</td></tr>
-<tr><td>banality</td><td>bånalitẏ</td><td>ban-al-ity</td><td>bån-al-itẏ</td><td>n. 平凡, 陈腐</td></tr>
+<tr><td>banality</td><td>banalitẏ</td><td>ban-al-ity</td><td>ban-al-itẏ</td><td>n. 平凡, 陈腐</td></tr>
 <tr><td>banishment</td><td>banishme̊nt</td><td>ban-ish-ment</td><td>ban-ish-me̊nt</td><td>n. 放逐, 驱逐</td></tr>
 <tr><td>bananas</td><td>bånànåṡ</td><td>ban-an-a-s</td><td>bån-àn-å-ṡ</td><td></td></tr>
 <tr><td>banco</td><td>bancō</td><td>banco</td><td>bancō</td><td>n. 审判官席</td></tr>
@@ -322,9 +322,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bands</td><td>bandṡ</td><td>band-s</td><td>band-ṡ</td><td></td></tr>
 <tr><td>bandwagon</td><td>bandwago̊n</td><td>band-wagon</td><td>band-wago̊n</td><td>n. 潮流, 时尚, 乐队车</td></tr>
 <tr><td>bandy</td><td>bandẏ</td><td>band-y</td><td>band-ẏ</td><td>vt. 交换, 谈论<br>a. 向外弯曲的</td></tr>
-<tr><td>bandaged</td><td>bandåg𝕖d</td><td>band-ag-ed</td><td>band-åg-𝕖d</td><td>a. 包扎了绷带的</td></tr>
+<tr><td>bandaged</td><td>bandȧg𝕖d</td><td>band-ag-ed</td><td>band-ȧg-𝕖d</td><td>a. 包扎了绷带的</td></tr>
 <tr><td>bandleader</td><td>bandlēade̊r</td><td>band-lead-er</td><td>band-lēad-e̊r</td><td>n. 乐队指挥</td></tr>
-<tr><td>banditry</td><td>bandi̊trẏ</td><td>band-it-ry</td><td>band-i̊t-rẏ</td><td>n. 盗匪活动, 抢劫</td></tr>
+<tr><td>banditry</td><td>banditrẏ</td><td>band-it-ry</td><td>band-it-rẏ</td><td>n. 盗匪活动, 抢劫</td></tr>
 <tr><td>bandwidth</td><td>bandwidth</td><td>band-wid-th</td><td>band-wid-th</td><td>n. 带宽, 频带宽度</td></tr>
 <tr><td>armband</td><td>àrmband</td><td>arm-band</td><td>àrm-band</td><td>n. 臂章, 臂环</td></tr>
 <tr><td>abandon</td><td>åbando̊n</td><td>a-band-on</td><td>å-band-o̊n</td><td>vt. 放弃, 抛弃, 遗弃</td></tr>
@@ -340,19 +340,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>husbandry</td><td>hûṡbåndrẏ</td><td>hus-band-ry</td><td>hûṡ-bånd-rẏ</td><td>n. 农牧业, 饲养</td></tr>
 <tr><td>husbands</td><td>hûṡbåndṡ</td><td>hus-band-s</td><td>hûṡ-bånd-ṡ</td><td></td></tr>
 <tr><td>contraband</td><td>contråband</td><td>con-tra-band</td><td>con-trå-band</td><td>n. 违禁品, 走私<br>a. 禁运的, 非法买卖的</td></tr>
-<tr><td>bandana</td><td>bandanå</td><td>band-an-a</td><td>band-an-å</td><td>n. 大手帕, 印花头巾</td></tr>
+<tr><td>bandana</td><td>bandànå</td><td>band-an-a</td><td>band-àn-å</td><td>n. 大手帕, 印花头巾</td></tr>
 <tr><td>bandanna</td><td>bandannå</td><td>band-ann-a</td><td>band-ann-å</td><td>n. 印花大手帕</td></tr>
 <tr><td>bandolier</td><td>bando̊liēr</td><td>bandolier</td><td>bando̊liēr</td><td>n. 子弹带</td></tr>
-<tr><td>bandoneon</td><td>bandōnēo̊n</td><td>bandoneon</td><td>bandōnēo̊n</td><td>n. 班多钮手风琴</td></tr>
+<tr><td>bandoneon</td><td>bandōnėo̊n</td><td>bandoneon</td><td>bandōnėo̊n</td><td>n. 班多钮手风琴</td></tr>
 <tr><td>bane</td><td>bāne</td><td>bane</td><td>bāne</td><td>n. 祸根, 灾星</td></tr>
-<tr><td>baneful</td><td>bān𝕖fùl</td><td>bane-ful</td><td>bān𝕖-fùl</td><td>a. 有害的, 致命的</td></tr>
+<tr><td>baneful</td><td>bān𝕖fůl</td><td>bane-ful</td><td>bān𝕖-fůl</td><td>a. 有害的, 致命的</td></tr>
 <tr><td>bang</td><td>bang</td><td>bang</td><td>bang</td><td>n. 猛击, 巨响<br>v. 重击, 猛敲<br>adv. 突然地, 直接地</td></tr>
 <tr><td>banged</td><td>bang𝕖d</td><td>bang-ed</td><td>bang-𝕖d</td><td></td></tr>
 <tr><td>banger</td><td>bange̊r</td><td>bang-er</td><td>bang-e̊r</td><td>n. 香肠, 爆竹, 敲击者</td></tr>
 <tr><td>banging</td><td>banging</td><td>bang-ing</td><td>bang-ing</td><td>n. 重击声, 猛烈碰撞声</td></tr>
 <tr><td>bangs</td><td>bangṡ</td><td>bang-s</td><td>bang-ṡ</td><td></td></tr>
 <tr><td>Bangladesh</td><td>Banglådesh</td><td>Bangladesh</td><td>Banglådesh</td><td>n. 孟加拉国</td></tr>
-<tr><td>bangladeshi</td><td>banglådeshĩ</td><td>bangladeshi</td><td>banglådeshĩ</td><td>n. 孟加拉国人<br>a. 孟加拉国的</td></tr>
+<tr><td>bangladeshi</td><td>banglådeshi</td><td>bangladeshi</td><td>banglådeshi</td><td>n. 孟加拉国人<br>a. 孟加拉国的</td></tr>
 <tr><td>bangle</td><td>bangle</td><td>bangle</td><td>bangle</td><td>n. 手镯, 脚镯</td></tr>
 <tr><td>banjo</td><td>banjō</td><td>banjo</td><td>banjō</td><td>n. 班卓琴</td></tr>
 <tr><td>bank</td><td>bank</td><td>bank</td><td>bank</td><td>n. 银行, 堤, 岸</td></tr>
@@ -365,18 +365,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bankroll</td><td>bankrōll</td><td>bank-roll</td><td>bank-rōll</td><td>n. 一卷钞票, 资金<br>vt. 提供资金</td></tr>
 <tr><td>bankrupt</td><td>bankrûpt</td><td>bank-rupt</td><td>bank-rûpt</td><td>n. 破产者<br>a. 破产的<br>vt. 使破产</td></tr>
 <tr><td>banks</td><td>banks</td><td>bank-s</td><td>bank-s</td><td></td></tr>
-<tr><td>bankruptcy</td><td>bankrûp𝕥cẏ</td><td>bank-rupt-cy</td><td>bank-rûp𝕥-cẏ</td><td>n. 破产</td></tr>
+<tr><td>bankruptcy</td><td>bankrûptcẏ</td><td>bank-rupt-cy</td><td>bank-rûpt-cẏ</td><td>n. 破产</td></tr>
 <tr><td>bankers</td><td>banke̊rṡ</td><td>bank-er-s</td><td>bank-e̊r-ṡ</td><td></td></tr>
 <tr><td>embankment</td><td>embankme̊nt</td><td>em-bank-ment</td><td>em-bank-me̊nt</td><td>n. 堤防, 路堤</td></tr>
 <tr><td>interbank</td><td>inte̊rbank</td><td>inter-bank</td><td>inte̊r-bank</td><td>a. 银行间的</td></tr>
 <tr><td>nonbank</td><td>nonbank</td><td>non-bank</td><td>non-bank</td><td>a. 非银行的</td></tr>
 <tr><td>databank</td><td>dātåbank</td><td>dat-a-bank</td><td>dāt-å-bank</td><td>n. 数据库, 数据银行</td></tr>
 <tr><td>banner</td><td>banne̊r</td><td>bann-er</td><td>bann-e̊r</td><td>n. 旗帜<br>a. 显著的, 特别好的</td></tr>
-<tr><td>bannister</td><td>banni̊ste̊r</td><td>bann-ist-er</td><td>bann-i̊st-e̊r</td><td>n. 栏杆, 扶手</td></tr>
+<tr><td>bannister</td><td>banniste̊r</td><td>bann-ist-er</td><td>bann-ist-e̊r</td><td>n. 栏杆, 扶手</td></tr>
 <tr><td>banners</td><td>banne̊rṡ</td><td>bann-er-s</td><td>bann-e̊r-ṡ</td><td></td></tr>
 <tr><td>unbanning</td><td>ûnbanning</td><td>un-bann-ing</td><td>ûn-bann-ing</td><td>v. 解禁</td></tr>
 <tr><td>bannock</td><td>banno̊ck</td><td>bannock</td><td>banno̊ck</td><td>n. 燕麦饼</td></tr>
-<tr><td>banquette</td><td>banq𝕦ette</td><td>banquette</td><td>banq𝕦ette</td><td>n. 软长椅</td></tr>
+<tr><td>banquette</td><td>banquette</td><td>banquette</td><td>banquette</td><td>n. 软长椅</td></tr>
 <tr><td>banshee</td><td>banshēe</td><td>banshee</td><td>banshēe</td><td>n. 报丧女妖(爱尔兰传说)</td></tr>
 <tr><td>banter</td><td>bante̊r</td><td>bant-er</td><td>bant-e̊r</td><td>n. 戏谑, 嘲弄<br>v. 戏弄, 开玩笑</td></tr>
 <tr><td>bantering</td><td>bante̊ring</td><td>bant-er-ing</td><td>bant-e̊r-ing</td><td>a. 开玩笑的</td></tr>
@@ -384,31 +384,31 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>Bantu</td><td>Bantū</td><td>Bantu</td><td>Bantū</td><td>n. 班图人, 班图语</td></tr>
 <tr><td>banyan</td><td>banyån</td><td>banyan</td><td>banyån</td><td>n. 印度榕树</td></tr>
 <tr><td>banzai</td><td>bànzaī</td><td>banzai</td><td>bànzaī</td><td>interj. 万岁</td></tr>
-<tr><td>baobab</td><td>bāōbab</td><td>baobab</td><td>bāōbab</td><td>n. 猴面包树</td></tr>
+<tr><td>baobab</td><td>bāo̊bab</td><td>baobab</td><td>bāo̊bab</td><td>n. 猴面包树</td></tr>
 <tr><td>bap</td><td>bap</td><td>bap</td><td>bap</td><td>n. 软面包卷(英国)</td></tr>
 <tr><td>baptism</td><td>baptiṡm</td><td>bapt-ism</td><td>bapt-iṡm</td><td>n. 洗礼</td></tr>
-<tr><td>baptist</td><td>bapti̊st</td><td>bapt-ist</td><td>bapt-i̊st</td><td>n. 浸信会教徒</td></tr>
+<tr><td>baptist</td><td>baptist</td><td>bapt-ist</td><td>bapt-ist</td><td>n. 浸信会教徒</td></tr>
 <tr><td>baptize</td><td>baptīze</td><td>bapt-ize</td><td>bapt-īze</td><td>vt. 施洗礼, 为…命名</td></tr>
-<tr><td>baptismal</td><td>baptiṡmål</td><td>bapt-ism-al</td><td>bapt-iṡm-ål</td><td>a. 洗礼的</td></tr>
-<tr><td>baptistery</td><td>bapti̊ste̊rẏ</td><td>bapt-ist-ery</td><td>bapt-i̊st-e̊rẏ</td><td>n. 洗礼池, 洗礼用桶</td></tr>
+<tr><td>baptismal</td><td>baptismål</td><td>bapt-ism-al</td><td>bapt-ism-ål</td><td>a. 洗礼的</td></tr>
+<tr><td>baptistery</td><td>baptiste̊rẏ</td><td>bapt-ist-ery</td><td>bapt-ist-e̊rẏ</td><td>n. 洗礼池, 洗礼用桶</td></tr>
 <tr><td>baptized</td><td>baptīz𝕖d</td><td>bapt-iz-ed</td><td>bapt-īz-𝕖d</td><td>a. 受洗礼的</td></tr>
-<tr><td>anabaptist</td><td>anåbapti̊st</td><td>ana-bapt-ist</td><td>anå-bapt-i̊st</td><td>n. 再洗礼派教徒</td></tr>
+<tr><td>anabaptist</td><td>anåbaptist</td><td>ana-bapt-ist</td><td>anå-bapt-ist</td><td>n. 再洗礼派教徒</td></tr>
 <tr><td>unbaptized</td><td>ûnbaptīz𝕖d</td><td>un-bapt-iz-ed</td><td>ûn-bapt-īz-𝕖d</td><td>a. 未受洗礼的</td></tr>
 <tr><td>bar</td><td>bàr</td><td>bar</td><td>bàr</td><td>n. 酒吧, 条, 棒, 障碍<br>vt. 阻挡, 禁止</td></tr>
-<tr><td>baryon</td><td>barẏon</td><td>baryon</td><td>barẏon</td><td>n. 重子</td></tr>
+<tr><td>baryon</td><td>bàrẏo̊n</td><td>baryon</td><td>bàrẏo̊n</td><td>n. 重子</td></tr>
 <tr><td>barred</td><td>bàrr𝕖d</td><td>barr-ed</td><td>bàrr-𝕖d</td><td>a. 被禁止的, 有条纹的</td></tr>
-<tr><td>barium</td><td>bariům</td><td>bar-ium</td><td>bar-iům</td><td>n. 钡</td></tr>
+<tr><td>barium</td><td>bāriům</td><td>bar-ium</td><td>bār-iům</td><td>n. 钡</td></tr>
 <tr><td>barring</td><td>bàrring</td><td>barr-ing</td><td>bàrr-ing</td><td>prep. 除非, 除了…之外</td></tr>
-<tr><td>baryonic</td><td>bàryonic</td><td>baryon-ic</td><td>bàryon-ic</td><td>a. 重子的</td></tr>
+<tr><td>baryonic</td><td>bàrẏonic</td><td>baryon-ic</td><td>bàrẏon-ic</td><td>a. 重子的</td></tr>
 <tr><td>barman</td><td>bàrmån</td><td>bar-man</td><td>bàr-mån</td><td>n. 酒吧男招待</td></tr>
 <tr><td>baron</td><td>baro̊n</td><td>bar-on</td><td>bar-o̊n</td><td>n. 男爵, 巨头</td></tr>
 <tr><td>bars</td><td>bàrṡ</td><td>bar-s</td><td>bàr-ṡ</td><td></td></tr>
-<tr><td>barista</td><td>båristå</td><td>bar-ist-a</td><td>bår-ist-å</td><td>n. 咖啡师</td></tr>
-<tr><td>barricade</td><td>barri̊cāde</td><td>bar-ri-cade</td><td>bar-ri̊-cāde</td><td>n. 路障, 障碍<br>vt. 设路障, 阻挡</td></tr>
+<tr><td>barista</td><td>bàristå</td><td>bar-ist-a</td><td>bàr-ist-å</td><td>n. 咖啡师</td></tr>
+<tr><td>barricade</td><td>barricāde</td><td>bar-ri-cade</td><td>bar-ri-cāde</td><td>n. 路障, 障碍<br>vt. 设路障, 阻挡</td></tr>
 <tr><td>baroness</td><td>baro̊nėss</td><td>bar-on-ess</td><td>bar-o̊n-ėss</td><td>n. 男爵夫人, 女性男爵</td></tr>
-<tr><td>baronet</td><td>baro̊ne̊t</td><td>bar-on-et</td><td>bar-o̊n-e̊t</td><td>n. 准男爵</td></tr>
-<tr><td>baronial</td><td>bårōniål</td><td>bar-on-i-al</td><td>bår-ōn-i-ål</td><td>a. 宏大的, 壮丽的</td></tr>
-<tr><td>barricaded</td><td>barri̊cādėd</td><td>bar-ri-cad-ed</td><td>bar-ri̊-cād-ėd</td><td>a. 设有路障的, 被封锁的</td></tr>
+<tr><td>baronet</td><td>baro̊net</td><td>bar-on-et</td><td>bar-o̊n-et</td><td>n. 准男爵</td></tr>
+<tr><td>baronial</td><td>barōniål</td><td>bar-on-i-al</td><td>bar-ōn-i-ål</td><td>a. 宏大的, 壮丽的</td></tr>
+<tr><td>barricaded</td><td>barricādėd</td><td>bar-ri-cad-ed</td><td>bar-ri-cād-ėd</td><td>a. 设有路障的, 被封锁的</td></tr>
 <tr><td>debar</td><td>dėbàr</td><td>de-bar</td><td>dė-bàr</td><td>vt. 阻止, 禁止</td></tr>
 <tr><td>disbar</td><td>disbàr</td><td>dis-bar</td><td>dis-bàr</td><td>vt. 剥夺律师资格</td></tr>
 <tr><td>disbarred</td><td>disbàrr𝕖d</td><td>dis-barr-ed</td><td>dis-bàrr-𝕖d</td><td>v. 取消律师资格</td></tr>
@@ -417,29 +417,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>barb</td><td>bàrb</td><td>barb</td><td>bàrb</td><td>n. 倒钩<br>vt. 装倒钩于</td></tr>
 <tr><td>barbed</td><td>bàrb𝕖d</td><td>barb-ed</td><td>bàrb-𝕖d</td><td>a. 有倒刺的, 带刺的</td></tr>
 <tr><td>barber</td><td>bàrbe̊r</td><td>barb-er</td><td>bàrb-e̊r</td><td>n. 理发师</td></tr>
-<tr><td>barbless</td><td>bàrble̊ss</td><td>barb-less</td><td>bàrb-le̊ss</td><td>a. 无倒刺的</td></tr>
+<tr><td>barbless</td><td>bàrblėss</td><td>barb-less</td><td>bàrb-lėss</td><td>a. 无倒刺的</td></tr>
 <tr><td>barbeques</td><td>bàrbėqū𝕖s</td><td>barbeque-s</td><td>bàrbėqū𝕖-s</td><td></td></tr>
 <tr><td>rebarbative</td><td>rėbàrbåtive</td><td>re-barb-at-ive</td><td>rė-bàrb-åt-ive</td><td>a. 令人讨厌的, 反感的</td></tr>
 <tr><td>BBQ</td><td>BBQ</td><td>BBQ</td><td>BBQ</td><td></td></tr>
 <tr><td>barbadian</td><td>bàrbādiån</td><td>barbad-ian</td><td>bàrbād-iån</td><td>a. 巴巴多斯的<br>n. 巴巴多斯人</td></tr>
-<tr><td>barbarian</td><td>bàrbariån</td><td>barbar-ian</td><td>bàrbar-iån</td><td>n. 野蛮人<br>a. 野蛮的, 未开化的</td></tr>
+<tr><td>barbarian</td><td>bàrbāriån</td><td>barbar-ian</td><td>bàrbār-iån</td><td>n. 野蛮人<br>a. 野蛮的, 未开化的</td></tr>
 <tr><td>barbaric</td><td>bàrbaric</td><td>barbar-ic</td><td>bàrbar-ic</td><td>a. 野蛮的, 粗野的</td></tr>
 <tr><td>barbarism</td><td>bàrbåriṡm</td><td>barbar-ism</td><td>bàrbår-iṡm</td><td>n. 野蛮, 未开化</td></tr>
-<tr><td>barbarity</td><td>bàrbari̊tẏ</td><td>barbar-ity</td><td>bàrbar-i̊tẏ</td><td>n. 残暴, 残忍</td></tr>
+<tr><td>barbarity</td><td>bàrbaritẏ</td><td>barbar-ity</td><td>bàrbar-itẏ</td><td>n. 残暴, 残忍</td></tr>
 <tr><td>barbarous</td><td>bàrbåro̊us</td><td>barbar-ous</td><td>bàrbår-o̊us</td><td>a. 野蛮的, 残暴的</td></tr>
 <tr><td>barbecue</td><td>bàrbėcūe</td><td>barbecue</td><td>bàrbėcūe</td><td>n. 烤肉, 烧烤<br>vt. 烤肉, 烧烤</td></tr>
 <tr><td>barbecued</td><td>bàrbėcū𝕖d</td><td>barbecu-ed</td><td>bàrbėcū-𝕖d</td><td>a. 烧烤的<br>v. 在烤架上烧烤(barbecue的过去式和过去分词)</td></tr>
 <tr><td>barbecues</td><td>bàrbėcū𝕖ṡ</td><td>barbecue-s</td><td>bàrbėcū𝕖-ṡ</td><td></td></tr>
-<tr><td>barbeque</td><td>bàrbėque</td><td>barbeque</td><td>bàrbėque</td><td>n. (=barbecue)烤肉野餐, 烤肉架<br>v. 烤肉, 用调料烤(肉)</td></tr>
+<tr><td>barbeque</td><td>bàrbe̊qūe</td><td>barbeque</td><td>bàrbe̊qūe</td><td>n. (=barbecue)烤肉野餐, 烤肉架<br>v. 烤肉, 用调料烤(肉)</td></tr>
 <tr><td>barberry</td><td>bàrbe̊rrẏ</td><td>barberry</td><td>bàrbe̊rrẏ</td><td>n. 小檗</td></tr>
-<tr><td>barbiturate</td><td>bàrbitůråte</td><td>barbitur-ate</td><td>bàrbitůr-åte</td><td>n. 巴比妥酸盐</td></tr>
-<tr><td>phenobarbital</td><td>phēnōbàrbitål</td><td>pheno-barbit-al</td><td>phēnō-bàrbit-ål</td><td>n. 苯巴比妥</td></tr>
+<tr><td>barbiturate</td><td>bàrbitūråte</td><td>barbitur-ate</td><td>bàrbitūr-åte</td><td>n. 巴比妥酸盐</td></tr>
+<tr><td>phenobarbital</td><td>pheno̊bàrbitål</td><td>pheno-barbit-al</td><td>pheno̊-bàrbit-ål</td><td>n. 苯巴比妥</td></tr>
 <tr><td>Barcelona</td><td>Bàrcėlōnå</td><td>Barcelona</td><td>Bàrcėlōnå</td><td>n. 巴塞罗那(西班牙城市)</td></tr>
 <tr><td>bard</td><td>bàrd</td><td>bard</td><td>bàrd</td><td>n. 吟游诗人, 诗人</td></tr>
 <tr><td>bardic</td><td>bàrdic</td><td>bard-ic</td><td>bàrd-ic</td><td>a. 吟游诗人的</td></tr>
 <tr><td>bare</td><td>bāre</td><td>bare</td><td>bāre</td><td>a. 赤裸的, 光秃的, 坦率的<br>vt. 使裸露, 暴露</td></tr>
 <tr><td>bareback</td><td>bār𝕖back</td><td>bare-back</td><td>bār𝕖-back</td><td>a. 无鞍的<br>adv. 无鞍地</td></tr>
-<tr><td>bared</td><td>bar𝕖d</td><td>bar-ed</td><td>bar-𝕖d</td><td>v. 暴露, 露出(bare的过去式和过去分词)</td></tr>
+<tr><td>bared</td><td>bār𝕖d</td><td>bar-ed</td><td>bār-𝕖d</td><td>v. 暴露, 露出(bare的过去式和过去分词)</td></tr>
 <tr><td>barer</td><td>bāre̊r</td><td>bar-er</td><td>bār-e̊r</td><td></td></tr>
 <tr><td>barest</td><td>bārėst</td><td>bar-est</td><td>bār-ėst</td><td></td></tr>
 <tr><td>barefoot</td><td>bār𝕖foot</td><td>bare-foot</td><td>bār𝕖-foot</td><td>a. 赤脚的<br>adv. 赤脚地</td></tr>
@@ -451,7 +451,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>barge</td><td>bàrge</td><td>barge</td><td>bàrge</td><td>n. 驳船<br>v. 闯入, 猛撞</td></tr>
 <tr><td>embargo</td><td>embàrgō</td><td>em-bargo</td><td>em-bàrgō</td><td>n. 禁运, 禁令<br>vt. 禁止贸易, 禁运</td></tr>
 <tr><td>bariatric</td><td>bàriatric</td><td>bariatr-ic</td><td>bàriatr-ic</td><td>a. 减肥手术的, 治疗肥胖症的</td></tr>
-<tr><td>baritone</td><td>bari̊tōne</td><td>baritone</td><td>bari̊tōne</td><td>n. 男中音, 男中音歌手, 上低音号</td></tr>
+<tr><td>baritone</td><td>baritōne</td><td>baritone</td><td>baritōne</td><td>n. 男中音, 男中音歌手, 上低音号</td></tr>
 <tr><td>bark</td><td>bàrk</td><td>bark</td><td>bàrk</td><td>n. 树皮, 吠声<br>v. 吠, 叫喊</td></tr>
 <tr><td>barked</td><td>bàrk𝕖ḋ</td><td>bark-ed</td><td>bàrk-𝕖ḋ</td><td></td></tr>
 <tr><td>barker</td><td>bàrke̊r</td><td>bark-er</td><td>bàrk-e̊r</td><td>n. 大声叫卖者, 叫卖人</td></tr>
@@ -466,39 +466,39 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>barnyard</td><td>bàrnyàrd</td><td>barn-yard</td><td>bàrn-yàrd</td><td>n. 谷仓前的场院</td></tr>
 <tr><td>barnacle</td><td>bàrnåcle</td><td>barnacle</td><td>bàrnåcle</td><td>n. 藤壶</td></tr>
 <tr><td>barony</td><td>baro̊nẏ</td><td>baron-y</td><td>baro̊n-ẏ</td><td>n. 男爵领地, 男爵爵位</td></tr>
-<tr><td>baroque</td><td>bårōq𝕦e</td><td>baroque</td><td>bårōq𝕦e</td><td>a. 巴洛克式的<br>n. 巴洛克风格</td></tr>
+<tr><td>baroque</td><td>bårōque</td><td>baroque</td><td>bårōque</td><td>a. 巴洛克式的<br>n. 巴洛克风格</td></tr>
 <tr><td>barque</td><td>bàrque</td><td>barque</td><td>bàrque</td><td>n. 三桅帆船</td></tr>
 <tr><td>barracuda</td><td>barråcūdå</td><td>barracuda</td><td>barråcūdå</td><td>n. 梭鱼</td></tr>
-<tr><td>barre</td><td>barrē</td><td>barre</td><td>barrē</td><td>n. 扶手杠（舞蹈练习用）</td></tr>
+<tr><td>barre</td><td>bàrre</td><td>barre</td><td>bàrre</td><td>n. 扶手杠（舞蹈练习用）</td></tr>
 <tr><td>barrow</td><td>barrōw</td><td>barrow</td><td>barrōw</td><td>n. 手推车, 古墓</td></tr>
-<tr><td>barrage</td><td>bårràge</td><td>barr-age</td><td>bårr-àge</td><td>n. 弹幕, 连续不断的东西<br>vt. 以密集炮火进攻</td></tr>
+<tr><td>barrage</td><td>barràge</td><td>barr-age</td><td>barr-àge</td><td>n. 弹幕, 连续不断的东西<br>vt. 以密集炮火进攻</td></tr>
 <tr><td>barrel</td><td>barre̊l</td><td>barr-el</td><td>barr-e̊l</td><td>n. 桶<br>vt. 装入桶内</td></tr>
 <tr><td>barren</td><td>barre̊n</td><td>barr-en</td><td>barr-e̊n</td><td>a. 不育的, 贫瘠的<br>n. 荒地</td></tr>
-<tr><td>barrette</td><td>bårrette</td><td>barr-ette</td><td>bårr-ette</td><td>n. 条状发夹</td></tr>
+<tr><td>barrette</td><td>barrette</td><td>barr-ette</td><td>barr-ette</td><td>n. 条状发夹</td></tr>
 <tr><td>barreled</td><td>barre̊l𝕖d</td><td>barr-el-ed</td><td>barr-e̊l-𝕖d</td><td>a. 桶装的, 有管的</td></tr>
 <tr><td>barrier</td><td>barrie̊r</td><td>barr-i-er</td><td>barr-i-e̊r</td><td>n. 障碍, 栅栏</td></tr>
 <tr><td>barrister</td><td>barriste̊r</td><td>barr-ist-er</td><td>barr-ist-e̊r</td><td>n. 出庭律师, 大律师</td></tr>
-<tr><td>barrelful</td><td>barre̊lfūl</td><td>barr-el-ful</td><td>barr-e̊l-fūl</td><td>n. 一桶之量, 大量</td></tr>
-<tr><td>barrenness</td><td>barre̊nne̊ss</td><td>barr-en-ness</td><td>barr-e̊n-ne̊ss</td><td>n. 贫瘠, 不育, 荒芜</td></tr>
+<tr><td>barrelful</td><td>barre̊lfůl</td><td>barr-el-ful</td><td>barr-e̊l-fůl</td><td>n. 一桶之量, 大量</td></tr>
+<tr><td>barrenness</td><td>barre̊nnėss</td><td>barr-en-ness</td><td>barr-e̊n-nėss</td><td>n. 贫瘠, 不育, 荒芜</td></tr>
 <tr><td>barrels</td><td>barre̊lṡ</td><td>barr-el-s</td><td>barr-e̊l-ṡ</td><td></td></tr>
 <tr><td>embarrass</td><td>ėmbarråss</td><td>em-barr-ass</td><td>ėm-barr-åss</td><td>vt. 使尴尬, 使窘迫, 阻碍</td></tr>
-<tr><td>embarrassed</td><td>ėmbarråss𝕖ḋ</td><td>em-barr-ass-ed</td><td>ėm-barr-åss-𝕖ḋ</td><td>a. 尴尬的, 窘迫的, 难堪的</td></tr>
+<tr><td>embarrassed</td><td>embarråss𝕖ḋ</td><td>em-barr-ass-ed</td><td>em-barr-åss-𝕖ḋ</td><td>a. 尴尬的, 窘迫的, 难堪的</td></tr>
 <tr><td>embarrasses</td><td>ėmbarråssėṡ</td><td>em-barr-ass-es</td><td>ėm-barr-åss-ėṡ</td><td></td></tr>
-<tr><td>embarrassing</td><td>ėmbarråssing</td><td>em-barr-ass-ing</td><td>ėm-barr-åss-ing</td><td>a. 令人尴尬的, 使人难堪的</td></tr>
-<tr><td>embarrassment</td><td>ėmbarråssme̊nt</td><td>em-barr-ass-ment</td><td>ėm-barr-åss-me̊nt</td><td>n. 尴尬, 困窘, 难堪</td></tr>
-<tr><td>embarrassingly</td><td>ėmbarråssinglẏ</td><td>em-barr-ass-ing-ly</td><td>ėm-barr-åss-ing-lẏ</td><td>adv. 令人尴尬地</td></tr>
+<tr><td>embarrassing</td><td>embarråssing</td><td>em-barr-ass-ing</td><td>em-barr-åss-ing</td><td>a. 令人尴尬的, 使人难堪的</td></tr>
+<tr><td>embarrassment</td><td>embarråssme̊nt</td><td>em-barr-ass-ment</td><td>em-barr-åss-me̊nt</td><td>n. 尴尬, 困窘, 难堪</td></tr>
+<tr><td>embarrassingly</td><td>embarråssinglẏ</td><td>em-barr-ass-ing-ly</td><td>em-barr-åss-ing-lẏ</td><td>adv. 令人尴尬地</td></tr>
 <tr><td>embarrassments</td><td>ėmbarråssme̊nts</td><td>em-barr-ass-ment-s</td><td>ėm-barr-åss-me̊nt-s</td><td></td></tr>
-<tr><td>unembarrassed</td><td>ûnėmbarråss𝕖ḋ</td><td>un-em-barr-ass-ed</td><td>ûn-ėm-barr-åss-𝕖ḋ</td><td>a. 不尴尬的</td></tr>
+<tr><td>unembarrassed</td><td>ûnembarråss𝕖ḋ</td><td>un-em-barr-ass-ed</td><td>ûn-em-barr-åss-𝕖ḋ</td><td>a. 不尴尬的</td></tr>
 <tr><td>barracks</td><td>barråcks</td><td>barrack-s</td><td>barråck-s</td><td>n. 兵营, 营房</td></tr>
-<tr><td>barranca</td><td>bårrancå</td><td>barranca</td><td>bårrancå</td><td>n. 峡谷, 悬崖</td></tr>
+<tr><td>barranca</td><td>barrancå</td><td>barranca</td><td>barrancå</td><td>n. 峡谷, 悬崖</td></tr>
 <tr><td>barter</td><td>bàrte̊r</td><td>barter</td><td>bàrte̊r</td><td>n. 物物交换, 实物交易<br>v. 物物交换, 交换</td></tr>
 <tr><td>bartered</td><td>bàrte̊r𝕖d</td><td>barter-ed</td><td>bàrte̊r-𝕖d</td><td>v. 以物易物, 物物交换</td></tr>
 <tr><td>bartering</td><td>bàrte̊ring</td><td>barter-ing</td><td>bàrte̊r-ing</td><td>v. 物物交换, 以货换货 (barter的现在分词)</td></tr>
-<tr><td>barthesian</td><td>bàrth𝕖siån</td><td>barthes-ian</td><td>bàrth𝕖s-iån</td><td>a. 巴特式的(指罗兰·巴特)</td></tr>
-<tr><td>basalt</td><td>båsãlt</td><td>basalt</td><td>båsãlt</td><td>n. 玄武岩</td></tr>
+<tr><td>barthesian</td><td>bàrthēṡiån</td><td>barthes-ian</td><td>bàrthēṡ-iån</td><td>a. 巴特式的(指罗兰·巴特)</td></tr>
+<tr><td>basalt</td><td>basãlt</td><td>basalt</td><td>basãlt</td><td>n. 玄武岩</td></tr>
 <tr><td>baseis</td><td>basèiṡ</td><td>baseis</td><td>basèiṡ</td><td></td></tr>
 <tr><td>basil</td><td>baṡi̊l</td><td>basil</td><td>baṡi̊l</td><td>n. 罗勒</td></tr>
-<tr><td>basilica</td><td>båsilicå</td><td>basilica</td><td>båsilicå</td><td>n. 长方形廊柱大厅, 长方形教堂</td></tr>
+<tr><td>basilica</td><td>baṡilicå</td><td>basilica</td><td>baṡilicå</td><td>n. 长方形廊柱大厅, 长方形教堂</td></tr>
 <tr><td>basal</td><td>bāsål</td><td>bas-al</td><td>bās-ål</td><td>a. 基础的, 基本的</td></tr>
 <tr><td>based</td><td>bās𝕖ḋ</td><td>bas-ed</td><td>bās-𝕖ḋ</td><td>a. 以...为基础的</td></tr>
 <tr><td>basaltic</td><td>båsãltic</td><td>basalt-ic</td><td>båsãlt-ic</td><td>a. 玄武岩的</td></tr>
@@ -521,9 +521,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>basements</td><td>bās𝕖me̊nts</td><td>base-ment-s</td><td>bās𝕖-me̊nt-s</td><td></td></tr>
 <tr><td>abase</td><td>åbāse</td><td>a-base</td><td>å-bāse</td><td>vt. 降低...的地位, 降低...的品格, 贬抑, 使谦卑</td></tr>
 <tr><td>abasement</td><td>åbās𝕖me̊nt</td><td>a-base-ment</td><td>å-bās𝕖-me̊nt</td><td>n. 贬抑, 屈辱, 谦卑</td></tr>
-<tr><td>debase</td><td>de̊bāse</td><td>de-base</td><td>de̊-bāse</td><td>vt. 贬低, 降低</td></tr>
-<tr><td>debased</td><td>de̊bās𝕖ḋ</td><td>de-bas-ed</td><td>de̊-bās-𝕖ḋ</td><td>a. 贬值的, 品质低劣的</td></tr>
-<tr><td>debasement</td><td>de̊bās𝕖me̊nt</td><td>de-base-ment</td><td>de̊-bās𝕖-me̊nt</td><td>n. 贬低, 降低品质</td></tr>
+<tr><td>debase</td><td>dėbāse</td><td>de-base</td><td>dė-bāse</td><td>vt. 贬低, 降低</td></tr>
+<tr><td>debased</td><td>dėbās𝕖ḋ</td><td>de-bas-ed</td><td>dė-bās-𝕖ḋ</td><td>a. 贬值的, 品质低劣的</td></tr>
+<tr><td>debasement</td><td>dėbās𝕖me̊nt</td><td>de-base-ment</td><td>dė-bās𝕖-me̊nt</td><td>n. 贬低, 降低品质</td></tr>
 <tr><td>database</td><td>dātåbāse</td><td>dat-a-base</td><td>dāt-å-bāse</td><td>n. 数据库</td></tr>
 <tr><td>bash</td><td>bash</td><td>bash</td><td>bash</td><td>v. 猛击, 打坏<br>n. 猛击, 盛会</td></tr>
 <tr><td>bashful</td><td>bashfůl</td><td>bash-ful</td><td>bash-fůl</td><td>a. 害羞的, 腼腆的</td></tr>
@@ -534,33 +534,33 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>abashed</td><td>åbash𝕖ḋ</td><td>a-bash-ed</td><td>å-bash-𝕖ḋ</td><td>a. 不安的, 窘迫的</td></tr>
 <tr><td>unabashed</td><td>ûnåbash𝕖ḋ</td><td>un-a-bash-ed</td><td>ûn-å-bash-𝕖ḋ</td><td>a. 不脸红的, 不害臊的</td></tr>
 <tr><td>unabashedly</td><td>ûnåbashėdlẏ</td><td>un-a-bash-ed-ly</td><td>ûn-å-bash-ėd-lẏ</td><td>adv. 不害臊地, 厚脸皮地</td></tr>
-<tr><td>basilar</td><td>basilår</td><td>basil-ar</td><td>basil-år</td><td>a. 基部的, 颅底部的</td></tr>
+<tr><td>basilar</td><td>baṡilår</td><td>basil-ar</td><td>baṡil-år</td><td>a. 基部的, 颅底部的</td></tr>
 <tr><td>basilisk</td><td>baṡilisk</td><td>basil-isk</td><td>baṡil-isk</td><td>n. 蛇怪</td></tr>
-<tr><td>basileus</td><td>båsilēůs</td><td>basileus</td><td>båsilēůs</td><td>n. 古希腊统治者, 国王</td></tr>
+<tr><td>basileus</td><td>baṡilėůs</td><td>basileus</td><td>baṡilėůs</td><td>n. 古希腊统治者, 国王</td></tr>
 <tr><td>bask</td><td>bask</td><td>bask</td><td>bask</td><td>vi. 晒太阳, 沐浴</td></tr>
 <tr><td>basket</td><td>bàskėt</td><td>bask-et</td><td>bàsk-ėt</td><td>n. 篮, 篮子</td></tr>
 <tr><td>basking</td><td>basking</td><td>bask-ing</td><td>bask-ing</td><td>v. 晒太阳, 取暖<br>v. 享受, 沐浴</td></tr>
 <tr><td>basketball</td><td>bàskėtbãll</td><td>bask-et-ball</td><td>bàsk-ėt-bãll</td><td>n. 篮球</td></tr>
-<tr><td>basketful</td><td>bàskėtfùl</td><td>bask-et-ful</td><td>bàsk-ėt-fùl</td><td>n. 满篮</td></tr>
-<tr><td>basketry</td><td>baske̊trẏ</td><td>bask-et-ry</td><td>bask-e̊t-rẏ</td><td>n. 篮子编织技艺</td></tr>
+<tr><td>basketful</td><td>bàskėtfůl</td><td>bask-et-ful</td><td>bàsk-ėt-fůl</td><td>n. 满篮</td></tr>
+<tr><td>basketry</td><td>bàskėtrẏ</td><td>bask-et-ry</td><td>bàsk-ėt-rẏ</td><td>n. 篮子编织技艺</td></tr>
 <tr><td>baskets</td><td>baske̊ts</td><td>bask-et-s</td><td>bask-e̊t-s</td><td></td></tr>
-<tr><td>basketmaker</td><td>baske̊tmāke̊r</td><td>bask-et-mak-er</td><td>bask-e̊t-māk-e̊r</td><td>n. 编篮者, 制篮工人</td></tr>
-<tr><td>basketmaking</td><td>baske̊tmāking</td><td>bask-et-mak-ing</td><td>bask-e̊t-māk-ing</td><td>n. 编篮子</td></tr>
+<tr><td>basketmaker</td><td>bàskėtmāke̊r</td><td>bask-et-mak-er</td><td>bàsk-ėt-māk-e̊r</td><td>n. 编篮者, 制篮工人</td></tr>
+<tr><td>basketmaking</td><td>bàskėtmāking</td><td>bask-et-mak-ing</td><td>bàsk-ėt-māk-ing</td><td>n. 编篮子</td></tr>
 <tr><td>basketballs</td><td>baske̊tbãllṡ</td><td>bask-et-ball-s</td><td>bask-e̊t-bãll-ṡ</td><td></td></tr>
 <tr><td>abask</td><td>åbàsk</td><td>a-bask</td><td>å-bàsk</td><td>adv. 暖洋洋地</td></tr>
-<tr><td>basmati</td><td>bàsmàtĩ</td><td>basmati</td><td>bàsmàtĩ</td><td>n. 印度香米</td></tr>
-<tr><td>basque</td><td>basq𝕦e</td><td>basque</td><td>basq𝕦e</td><td>n. 巴斯克人, 巴斯克语<br>a. 巴斯克的</td></tr>
-<tr><td>bass</td><td>bass</td><td>bass</td><td>bass</td><td>n. 低音, 贝斯, 男低音<br>a. 低音的</td></tr>
-<tr><td>bassoon</td><td>båssoon</td><td>bassoon</td><td>båssoon</td><td>n. 大管, 巴松管</td></tr>
+<tr><td>basmati</td><td>baṡmàti</td><td>basmati</td><td>baṡmàti</td><td>n. 印度香米</td></tr>
+<tr><td>basque</td><td>basque</td><td>basque</td><td>basque</td><td>n. 巴斯克人, 巴斯克语<br>a. 巴斯克的</td></tr>
+<tr><td>bass</td><td>bāss</td><td>bass</td><td>bāss</td><td>n. 低音, 贝斯, 男低音<br>a. 低音的</td></tr>
+<tr><td>bassoon</td><td>bassoon</td><td>bassoon</td><td>bassoon</td><td>n. 大管, 巴松管</td></tr>
 <tr><td>basses</td><td>bassėṡ</td><td>bass-es</td><td>bass-ėṡ</td><td></td></tr>
 <tr><td>bassist</td><td>bāssist</td><td>bass-ist</td><td>bāss-ist</td><td>n. 低音提琴手</td></tr>
-<tr><td>bassoonist</td><td>båssoonist</td><td>bassoon-ist</td><td>båssoon-ist</td><td>n. 巴松管手</td></tr>
+<tr><td>bassoonist</td><td>bassoonist</td><td>bassoon-ist</td><td>bassoon-ist</td><td>n. 巴松管手</td></tr>
 <tr><td>ambassador</td><td>ambassådo̊r</td><td>am-bass-ad-or</td><td>am-bass-åd-o̊r</td><td>n. 大使, 使节</td></tr>
-<tr><td>ambassadress</td><td>ambassådre̊ss</td><td>am-bass-ad-r-ess</td><td>am-bass-åd-r-e̊ss</td><td>n. 女大使, 大使夫人</td></tr>
-<tr><td>ambassadorship</td><td>ambassådo̊rship</td><td>am-bass-ad-or-ship</td><td>am-bass-åd-o̊r-ship</td><td>n. 大使的职位</td></tr>
-<tr><td>ambassadorial</td><td>ambassådoriål</td><td>am-bass-ad-or-i-al</td><td>am-bass-åd-or-i-ål</td><td>a. 大使的, 使节级的</td></tr>
+<tr><td>ambassadress</td><td>ambåssadress</td><td>am-bass-ad-r-ess</td><td>am-båss-ad-r-ess</td><td>n. 女大使, 大使夫人</td></tr>
+<tr><td>ambassadorship</td><td>åmbassådo̊rship</td><td>am-bass-ad-or-ship</td><td>åm-bass-åd-o̊r-ship</td><td>n. 大使的职位</td></tr>
+<tr><td>ambassadorial</td><td>ambåssådoriål</td><td>am-bass-ad-or-i-al</td><td>am-båss-åd-or-i-ål</td><td>a. 大使的, 使节级的</td></tr>
 <tr><td>embassy</td><td>embåssẏ</td><td>em-bass-y</td><td>em-båss-ẏ</td><td>n. 大使馆, 使馆人员</td></tr>
-<tr><td>basset</td><td>bassėt</td><td>basset</td><td>bassėt</td><td>n. 巴塞特猎犬<br>vi. 露出地表</td></tr>
+<tr><td>basset</td><td>basset</td><td>basset</td><td>basset</td><td>n. 巴塞特猎犬<br>vi. 露出地表</td></tr>
 <tr><td>bassinet</td><td>bassinet</td><td>bassinet</td><td>bassinet</td><td>n. 摇篮, 摇篮车</td></tr>
 <tr><td>basso</td><td>bassō</td><td>basso</td><td>bassō</td><td>n. 男低音歌手</td></tr>
 <tr><td>bast</td><td>bast</td><td>bast</td><td>bast</td><td>n. 韧皮, 树内皮</td></tr>
@@ -600,21 +600,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>battery</td><td>batte̊rẏ</td><td>batt-er-y</td><td>batt-e̊r-ẏ</td><td>n. 电池, 蓄电池, 一系列</td></tr>
 <tr><td>abattoir</td><td>abåttoir</td><td>a-battoir</td><td>a-båttoir</td><td>n. 屠宰场</td></tr>
 <tr><td>combat</td><td>combat</td><td>com-bat</td><td>com-bat</td><td>n. 战斗, 格斗<br>v. 战斗, 搏斗, 对抗</td></tr>
-<tr><td>combatant</td><td>co̊mbatånt</td><td>com-bat-ant</td><td>co̊m-bat-ånt</td><td>n. 战斗人员<br>a. 战斗的, 参战的</td></tr>
-<tr><td>combative</td><td>co̊mbative</td><td>com-bat-ive</td><td>co̊m-bat-ive</td><td>a. 好斗的, 好事的</td></tr>
-<tr><td>combativeness</td><td>combativ𝕖nėss</td><td>com-bat-ive-ness</td><td>com-bat-iv𝕖-nėss</td><td>n. 斗志；好斗性</td></tr>
+<tr><td>combatant</td><td>combatånt</td><td>com-bat-ant</td><td>com-bat-ånt</td><td>n. 战斗人员<br>a. 战斗的, 参战的</td></tr>
+<tr><td>combative</td><td>combåtive</td><td>com-bat-ive</td><td>com-båt-ive</td><td>a. 好斗的, 好事的</td></tr>
+<tr><td>combativeness</td><td>combåtiv𝕖nėss</td><td>com-bat-ive-ness</td><td>com-båt-iv𝕖-nėss</td><td>n. 斗志；好斗性</td></tr>
 <tr><td>debate</td><td>dėbāte</td><td>de-bate</td><td>dė-bāte</td><td>n. 辩论, 讨论<br>v. 争论, 辩论</td></tr>
 <tr><td>dingbat</td><td>dingbat</td><td>ding-bat</td><td>ding-bat</td><td>n. 傻瓜, 零碎物品</td></tr>
-<tr><td>debatable</td><td>de̊bātåble</td><td>de-bat-able</td><td>de̊-bāt-åble</td><td>a. 可争论的, 未确定的</td></tr>
-<tr><td>debater</td><td>de̊bāte̊r</td><td>de-bat-er</td><td>de̊-bāt-e̊r</td><td>n. 辩论者</td></tr>
-<tr><td>debating</td><td>de̊bāting</td><td>de-bat-ing</td><td>de̊-bāt-ing</td><td>n. 辩论, 讨论<br>v. 辩论(debate的现在分词)</td></tr>
+<tr><td>debatable</td><td>dėbātåble</td><td>de-bat-able</td><td>dė-bāt-åble</td><td>a. 可争论的, 未确定的</td></tr>
+<tr><td>debater</td><td>dėbāte̊r</td><td>de-bat-er</td><td>dė-bāt-e̊r</td><td>n. 辩论者</td></tr>
+<tr><td>debating</td><td>dėbāting</td><td>de-bat-ing</td><td>dė-bāt-ing</td><td>n. 辩论, 讨论<br>v. 辩论(debate的现在分词)</td></tr>
 <tr><td>debates</td><td>dėbāt𝕖s</td><td>de-bate-s</td><td>dė-bāt𝕖-s</td><td></td></tr>
 <tr><td>embattled</td><td>embattl𝕖d</td><td>em-battl-ed</td><td>em-battl-𝕖d</td><td>a. 严阵以待的, 受围攻的</td></tr>
 <tr><td>embattle</td><td>embattle</td><td>em-batt-le</td><td>em-batt-le</td><td>vt. 备战, 列阵</td></tr>
 <tr><td>rebate</td><td>rēbāte</td><td>re-bate</td><td>rē-bāte</td><td>n. 折扣, 退款</td></tr>
-<tr><td>noncombatant</td><td>nonco̊mbatånt</td><td>non-com-bat-ant</td><td>non-co̊m-bat-ånt</td><td>n. 非战斗员<br>a. 非战斗的</td></tr>
+<tr><td>noncombatant</td><td>noncombatånt</td><td>non-com-bat-ant</td><td>non-com-bat-ånt</td><td>n. 非战斗员<br>a. 非战斗的</td></tr>
 <tr><td>unabated</td><td>ûnåbātėd</td><td>un-a-bat-ed</td><td>ûn-å-bāt-ėd</td><td>a. 未衰退的, 不减弱的</td></tr>
-<tr><td>adiabatic</td><td>adiåbatic</td><td>a-di-a-bat-ic</td><td>a-di-å-bat-ic</td><td>a. 绝热的</td></tr>
+<tr><td>adiabatic</td><td>ādiåbatic</td><td>a-di-a-bat-ic</td><td>ā-di-å-bat-ic</td><td>a. 绝热的</td></tr>
 <tr><td>batch</td><td>batch</td><td>batch</td><td>batch</td><td>n. 一批, 一组, 批量</td></tr>
 <tr><td>bate</td><td>bāte</td><td>bate</td><td>bāte</td><td>v. 减弱, 抑制</td></tr>
 <tr><td>abate</td><td>åbāte</td><td>a-bate</td><td>å-bāte</td><td>v. 减少, 减轻, 消除</td></tr>
@@ -624,30 +624,30 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bathe</td><td>bāṫhe</td><td>bathe</td><td>bāṫhe</td><td>vt. 沐浴, 用水洗<br>vi. 洗澡</td></tr>
 <tr><td>bathed</td><td>bāṫh𝕖d</td><td>bath-ed</td><td>bāṫh-𝕖d</td><td></td></tr>
 <tr><td>bather</td><td>bāṫhe̊r</td><td>bath-er</td><td>bāṫh-e̊r</td><td>n. 洗浴者, 游泳者</td></tr>
-<tr><td>bathhouse</td><td>bathhòuse</td><td>bath-house</td><td>bath-hòuse</td><td>n. 公共浴室, 澡堂</td></tr>
+<tr><td>bathhouse</td><td>bàthhòuse</td><td>bath-house</td><td>bàth-hòuse</td><td>n. 公共浴室, 澡堂</td></tr>
 <tr><td>bathing</td><td>bāṫhing</td><td>bath-ing</td><td>bāṫh-ing</td><td>n. 洗澡, 沐浴</td></tr>
-<tr><td>bathrobe</td><td>bathrōbe</td><td>bath-robe</td><td>bath-rōbe</td><td>n. 浴衣</td></tr>
+<tr><td>bathrobe</td><td>bàthrōbe</td><td>bath-robe</td><td>bàth-rōbe</td><td>n. 浴衣</td></tr>
 <tr><td>bathroom</td><td>bàthroom</td><td>bath-room</td><td>bàth-room</td><td>n. 浴室, 盥洗室</td></tr>
 <tr><td>bathes</td><td>bāṫh𝕖ṡ</td><td>bathe-s</td><td>bāṫh𝕖-ṡ</td><td></td></tr>
 <tr><td>baths</td><td>baths</td><td>bath-s</td><td>bath-s</td><td></td></tr>
-<tr><td>bathtub</td><td>bathtûb</td><td>bath-tub</td><td>bath-tûb</td><td>n. 浴缸</td></tr>
+<tr><td>bathtub</td><td>bàthtûb</td><td>bath-tub</td><td>bàth-tûb</td><td>n. 浴缸</td></tr>
 <tr><td>bathwater</td><td>bàthwãte̊r</td><td>bath-water</td><td>bàth-wãte̊r</td><td>n. 浴缸里的水, 洗澡水</td></tr>
 <tr><td>bathrooms</td><td>bàthroomṡ</td><td>bath-room-s</td><td>bàth-room-ṡ</td><td></td></tr>
 <tr><td>bathtubs</td><td>bathtûbṡ</td><td>bath-tub-s</td><td>bath-tûb-ṡ</td><td></td></tr>
 <tr><td>bathos</td><td>bāthos</td><td>bathos</td><td>bāthos</td><td>n. 突降法, 陈腐, 虚伪</td></tr>
 <tr><td>bathetic</td><td>båthetic</td><td>bath-etic</td><td>båth-etic</td><td>a. 顿降的, 煽情的</td></tr>
 <tr><td>batik</td><td>båtĩk</td><td>batik</td><td>båtĩk</td><td>n. 蜡染, 蜡染布<br>v. 用蜡染法印染</td></tr>
-<tr><td>baton</td><td>båton</td><td>baton</td><td>båton</td><td>n. 指挥棒, 接力棒, 警棍</td></tr>
+<tr><td>baton</td><td>bato̊n</td><td>baton</td><td>bato̊n</td><td>n. 指挥棒, 接力棒, 警棍</td></tr>
 <tr><td>batt</td><td>batt</td><td>batt</td><td>batt</td><td>n. 棉絮, 填充料</td></tr>
 <tr><td>batten</td><td>batte̊n</td><td>batt-en</td><td>batt-e̊n</td><td>n. 板条, 木条<br>v. 用板条固定</td></tr>
 <tr><td>battalion</td><td>båttalio̊n</td><td>batt-al-ion</td><td>bått-al-io̊n</td><td>n. 营, 军队</td></tr>
 <tr><td>bauble</td><td>bãuble</td><td>bauble</td><td>bãuble</td><td>n. 小饰品, 廉价玩具</td></tr>
 <tr><td>debauch</td><td>dėbãuch</td><td>de-bauch</td><td>dė-bãuch</td><td>vt. 使堕落<br>vi. 放荡<br>n. 放荡</td></tr>
-<tr><td>debauched</td><td>dėbãuch𝕖d</td><td>de-bauch-ed</td><td>dė-bãuch-𝕖d</td><td>a. 堕落的, 放荡的</td></tr>
-<tr><td>debauchery</td><td>de̊bãuche̊rẏ</td><td>de-bauch-ery</td><td>de̊-bãuch-e̊rẏ</td><td>n. 放荡, 纵欲</td></tr>
+<tr><td>debauched</td><td>dėbãuch𝕖ḋ</td><td>de-bauch-ed</td><td>dė-bãuch-𝕖ḋ</td><td>a. 堕落的, 放荡的</td></tr>
+<tr><td>debauchery</td><td>dėbãuche̊rẏ</td><td>de-bauch-ery</td><td>dė-bãuch-e̊rẏ</td><td>n. 放荡, 纵欲</td></tr>
 <tr><td>baud</td><td>bãud</td><td>baud</td><td>bãud</td><td>n. 波特（数据传输速率单位）</td></tr>
 <tr><td>bauxite</td><td>bãuxīte</td><td>bauxite</td><td>bãuxīte</td><td>n. 铝土矿, 铝矾土</td></tr>
-<tr><td>bavarian</td><td>båvariån</td><td>bavari-an</td><td>båvari-ån</td><td>n. 巴伐利亚人<br>a. 巴伐利亚的, 巴伐利亚人的</td></tr>
+<tr><td>bavarian</td><td>båvāriån</td><td>bavari-an</td><td>båvāri-ån</td><td>n. 巴伐利亚人<br>a. 巴伐利亚的, 巴伐利亚人的</td></tr>
 <tr><td>bawd</td><td>bãwd</td><td>bawd</td><td>bãwd</td><td>n. 鸨母</td></tr>
 <tr><td>bawdy</td><td>bãwdẏ</td><td>bawd-y</td><td>bãwd-ẏ</td><td>a. 淫秽的, 言语猥亵的</td></tr>
 <tr><td>bawl</td><td>bãwl</td><td>bawl</td><td>bãwl</td><td>v. 大叫, 大哭</td></tr>
@@ -659,11 +659,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bayberry</td><td>bāybe̊rrẏ</td><td>bay-berr-y</td><td>bāy-be̊rr-ẏ</td><td>n. 宾州杨梅, 月桂果</td></tr>
 <tr><td>abaya</td><td>åbāyå</td><td>a-ba-ya</td><td>å-bā-yå</td><td>n. 阿拉伯长袍</td></tr>
 <tr><td>embayment</td><td>embāyme̊nt</td><td>em-bay-ment</td><td>em-bāy-me̊nt</td><td>n. 港湾, 湾状地形</td></tr>
-<tr><td>bayesian</td><td>bāy𝕖siån</td><td>bayes-ian</td><td>bāy𝕖s-iån</td><td>a. 贝叶斯的</td></tr>
+<tr><td>bayesian</td><td>bāyēṡiån</td><td>bayes-ian</td><td>bāyēṡ-iån</td><td>a. 贝叶斯的</td></tr>
 <tr><td>bayonet</td><td>bāyo̊net</td><td>bayonet</td><td>bāyo̊net</td><td>n. 刺刀</td></tr>
-<tr><td>bayou</td><td>baȳoù</td><td>bayou</td><td>baȳoù</td><td>n. 支流, 沼泽地</td></tr>
+<tr><td>bayou</td><td>baȳoū</td><td>bayou</td><td>baȳoū</td><td>n. 支流, 沼泽地</td></tr>
 <tr><td>bazaar</td><td>båzàår</td><td>baz-a-ar</td><td>båz-à-år</td><td>n. 集市, 市场, 义卖市场</td></tr>
-<tr><td>bazar</td><td>båzàr</td><td>bazar</td><td>båzàr</td><td>n. 市场, 集市, (英)(美)廉价商店, 义卖市场, 百货商店</td></tr>
+<tr><td>bazar</td><td>bazàr</td><td>bazar</td><td>bazàr</td><td>n. 市场, 集市, (英)(美)廉价商店, 义卖市场, 百货商店</td></tr>
 <tr><td>bazooka</td><td>båzookå</td><td>bazooka</td><td>båzookå</td><td>n. 火箭筒, 巴祖卡</td></tr>
 <tr><td>be</td><td>bē</td><td>be</td><td>bē</td><td>v. 是, 存在, 在</td></tr>
 <tr><td>been</td><td>bēen</td><td>been</td><td>bēen</td><td></td></tr>
@@ -678,10 +678,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>beach</td><td>bēach</td><td>beach</td><td>bēach</td><td>n. 海滩</td></tr>
 <tr><td>beached</td><td>bēach𝕖ḋ</td><td>beach-ed</td><td>bēach-𝕖ḋ</td><td>v. 搁浅, 拖上岸</td></tr>
 <tr><td>beaches</td><td>bēachėṡ</td><td>beach-es</td><td>bēach-ėṡ</td><td></td></tr>
-<tr><td>beachfront</td><td>bēachfront</td><td>beach-front</td><td>bēach-front</td><td>n. 海滨地区</td></tr>
+<tr><td>beachfront</td><td>bēachfrônt</td><td>beach-front</td><td>bēach-frônt</td><td>n. 海滨地区</td></tr>
 <tr><td>beachhead</td><td>bēachhèad</td><td>beach-head</td><td>bēach-hèad</td><td>n. 滩头堡</td></tr>
 <tr><td>beachy</td><td>bēachẏ</td><td>beach-y</td><td>bēach-ẏ</td><td>a. 多沙砾的, 海滩似的</td></tr>
-<tr><td>beachcomber</td><td>bēachcōm𝕓e̊r</td><td>beach-comb-er</td><td>bēach-cōm𝕓-e̊r</td><td>n. 海滩拾荒者, 海滩流浪者</td></tr>
+<tr><td>beachcomber</td><td>bēachcom𝕓e̊r</td><td>beach-comb-er</td><td>bēach-com𝕓-e̊r</td><td>n. 海滩拾荒者, 海滩流浪者</td></tr>
 <tr><td>beacon</td><td>bēaco̊n</td><td>beacon</td><td>bēaco̊n</td><td>n. 灯塔, 信标</td></tr>
 <tr><td>bead</td><td>bēad</td><td>bead</td><td>bēad</td><td>n. 珠子, 滴<br>v. 形成珠状</td></tr>
 <tr><td>beaded</td><td>bēadėd</td><td>bead-ed</td><td>bēad-ėd</td><td>a. 珠状的, 饰以珠子的</td></tr>
@@ -721,43 +721,43 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>forbearing</td><td>forbeāring</td><td>for-bear-ing</td><td>for-beār-ing</td><td>a. 忍耐的, 宽容的</td></tr>
 <tr><td>overbear</td><td>ōve̊rbeār</td><td>over-bear</td><td>ōve̊r-beār</td><td>vt. 压倒, 镇压</td></tr>
 <tr><td>overbearing</td><td>ōve̊rbeāring</td><td>over-bear-ing</td><td>ōve̊r-beār-ing</td><td>a. 傲慢的, 专横的</td></tr>
-<tr><td>pallbearer</td><td>pãllbe̊are̊r</td><td>pall-bear-er</td><td>pãll-be̊ar-e̊r</td><td>n. 护柩者, 棺侧送葬者</td></tr>
+<tr><td>pallbearer</td><td>pãllbeāre̊r</td><td>pall-bear-er</td><td>pãll-beār-e̊r</td><td>n. 护柩者, 棺侧送葬者</td></tr>
 <tr><td>unbearable</td><td>ûnbeāråble</td><td>un-bear-able</td><td>ûn-beār-åble</td><td>a. 无法忍受的</td></tr>
 <tr><td>unbearably</td><td>ûnbeāråblẏ</td><td>un-bear-ab-ly</td><td>ûn-beār-åb-lẏ</td><td>adv. 不能忍受地, 无法容忍地; 慌</td></tr>
 <tr><td>borne</td><td>borne</td><td>borne</td><td>borne</td><td></td></tr>
 <tr><td>beard</td><td>bēard</td><td>beard</td><td>bēard</td><td>n. 胡须, 络腮胡子</td></tr>
-<tr><td>bearded</td><td>bēard𝕖d</td><td>beard-ed</td><td>bēard-𝕖d</td><td>a. 有胡子的</td></tr>
+<tr><td>bearded</td><td>bēardėd</td><td>beard-ed</td><td>bēard-ėd</td><td>a. 有胡子的</td></tr>
 <tr><td>beardless</td><td>bēardlėss</td><td>beard-less</td><td>bēard-lėss</td><td>a. 无须的, 乳臭未干的</td></tr>
 <tr><td>beards</td><td>bēardṡ</td><td>beard-s</td><td>bēard-ṡ</td><td></td></tr>
 <tr><td>longbeard</td><td>longbēard</td><td>long-beard</td><td>long-bēard</td><td>n. 长胡子老人, 长须瓶</td></tr>
 <tr><td>bearnaise</td><td>beārnāiṡe</td><td>bearnaise</td><td>beārnāiṡe</td><td>n. 蛋黄酱（等于Bearnaise sauce）</td></tr>
 <tr><td>beast</td><td>bēast</td><td>beast</td><td>bēast</td><td>n. 野兽, 牲畜, 畜生</td></tr>
-<tr><td>beastie</td><td>bēastiē</td><td>beast-ie</td><td>bēast-iē</td><td>n. 小动物</td></tr>
+<tr><td>beastie</td><td>bēastie</td><td>beast-ie</td><td>bēast-ie</td><td>n. 小动物</td></tr>
 <tr><td>beastly</td><td>bēastlẏ</td><td>beast-ly</td><td>bēast-lẏ</td><td>a. 野兽般的, 令人不快的</td></tr>
 <tr><td>beasts</td><td>bēasts</td><td>beast-s</td><td>bēast-s</td><td></td></tr>
 <tr><td>beat</td><td>bēat</td><td>beat</td><td>bēat</td><td>n. 拍子, 敲击声<br>vt. 打, 打败<br>a. 疲惫的</td></tr>
 <tr><td>beatable</td><td>bēatåble</td><td>beat-able</td><td>bēat-åble</td><td>a. 可战胜的, 可击败的</td></tr>
 <tr><td>beaten</td><td>bēate̊n</td><td>beat-en</td><td>bēat-e̊n</td><td>a. 被打败的<br>a. 筋疲力尽的</td></tr>
 <tr><td>beater</td><td>bēate̊r</td><td>beat-er</td><td>bēat-e̊r</td><td>n. 搅拌器, 拍打器</td></tr>
-<tr><td>beatify</td><td>bēati̊fȳ</td><td>beat-ify</td><td>bēat-i̊fȳ</td><td>vt. 赐福给, 行宣福礼</td></tr>
+<tr><td>beatify</td><td>bēatifȳ</td><td>beat-ify</td><td>bēat-ifȳ</td><td>vt. 赐福给, 行宣福礼</td></tr>
 <tr><td>beating</td><td>bēating</td><td>beat-ing</td><td>bēat-ing</td><td>n. 打, 败, 搅打</td></tr>
 <tr><td>beatitude</td><td>bēatitūde</td><td>beat-itude</td><td>bēat-itūde</td><td>n. 至福, 祝福</td></tr>
 <tr><td>beatnik</td><td>bēatnik</td><td>beat-nik</td><td>bēat-nik</td><td>n. &quot;垮掉的一代&quot;成员</td></tr>
 <tr><td>beats</td><td>bēats</td><td>beat-s</td><td>bēat-s</td><td></td></tr>
-<tr><td>beatific</td><td>bēatific</td><td>beat-if-ic</td><td>bēat-if-ic</td><td>a. 极乐的, 幸福的, 祝福的</td></tr>
+<tr><td>beatific</td><td>bēåtific</td><td>beat-if-ic</td><td>bēåt-if-ic</td><td>a. 极乐的, 幸福的, 祝福的</td></tr>
 <tr><td>beatification</td><td>bēatificātio̊n</td><td>beat-i-fic-at-ion</td><td>bēat-i-fic-āt-io̊n</td><td>n. 赐福, 受福, (天主教)宣福</td></tr>
-<tr><td>beatifically</td><td>bēatificållẏ</td><td>beat-if-ic-al-ly</td><td>bēat-if-ic-ål-lẏ</td><td>adv. 祝福地, 快乐地</td></tr>
+<tr><td>beatifically</td><td>bēåtificållẏ</td><td>beat-if-ic-al-ly</td><td>bēåt-if-ic-ål-lẏ</td><td>adv. 祝福地, 快乐地</td></tr>
 <tr><td>upbeat</td><td>ûpbēat</td><td>up-beat</td><td>ûp-bēat</td><td>a. 乐观的, 积极的<br>n. 弱拍</td></tr>
 <tr><td>unbeatable</td><td>ûnbēatåble</td><td>un-beat-able</td><td>ûn-bēat-åble</td><td>a. 无敌的, 难以战胜的</td></tr>
 <tr><td>unbeaten</td><td>ûnbēate̊n</td><td>un-beat-en</td><td>ûn-bēat-e̊n</td><td>a. 未被击败的</td></tr>
 <tr><td>beau</td><td>be̊aù</td><td>beau</td><td>be̊aù</td><td>n. 花花公子, 情郎, 求爱者</td></tr>
 <tr><td>beauteous</td><td>bēaūtėo̊us</td><td>beaut-e-ous</td><td>bēaūt-ė-o̊us</td><td>a. 美丽的, 秀丽的</td></tr>
-<tr><td>beautician</td><td>bēaūtiċi̊ån</td><td>bea-u-tician</td><td>bēa-ū-tiċi̊ån</td><td>n. 美容师</td></tr>
+<tr><td>beautician</td><td>bēaūticiån</td><td>bea-u-tician</td><td>bēa-ū-ticiån</td><td>n. 美容师</td></tr>
 <tr><td>beauty</td><td>bēaūtẏ</td><td>bea-u-ty</td><td>bēa-ū-tẏ</td><td>n. 美, 美人</td></tr>
 <tr><td>beautiful</td><td>bēaūtifůl</td><td>bea-u-ti-ful</td><td>bēa-ū-ti-fůl</td><td>a. 美丽的, 出色的</td></tr>
 <tr><td>beautify</td><td>bēaūtifȳ</td><td>bea-u-ti-fy</td><td>bēa-ū-ti-fȳ</td><td>vt. 美化, 装饰</td></tr>
 <tr><td>beauties</td><td>bēaūti𝕖ṡ</td><td>bea-u-t-ies</td><td>bēa-ū-t-i𝕖ṡ</td><td></td></tr>
-<tr><td>beautifully</td><td>bēaūti̊fůllẏ</td><td>bea-u-ti-ful-ly</td><td>bēa-ū-ti̊-fůl-lẏ</td><td>adv. 美好地, 漂亮地</td></tr>
+<tr><td>beautifully</td><td>bēaūtifůllẏ</td><td>bea-u-ti-ful-ly</td><td>bēa-ū-ti-fůl-lẏ</td><td>adv. 美好地, 漂亮地</td></tr>
 <tr><td>beautification</td><td>bēaūtificātio̊n</td><td>bea-u-ti-fic-at-ion</td><td>bēa-ū-ti-fic-āt-io̊n</td><td>n. 美化</td></tr>
 <tr><td>beaut</td><td>bēaūt</td><td>beaut</td><td>bēaūt</td><td>n. 极好的东西（或人）</td></tr>
 <tr><td>beaver</td><td>bēave̊r</td><td>beaver</td><td>bēave̊r</td><td>n. 海狸, 海狸毛皮</td></tr>
@@ -798,11 +798,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bedrooms</td><td>bedroomṡ</td><td>bed-room-s</td><td>bed-room-ṡ</td><td></td></tr>
 <tr><td>bedtimes</td><td>bedtīm𝕖ṡ</td><td>bed-time-s</td><td>bed-tīm𝕖-ṡ</td><td></td></tr>
 <tr><td>abed</td><td>åbed</td><td>a-bed</td><td>å-bed</td><td>adv. 在床上</td></tr>
-<tr><td>creekbed</td><td>crēekb𝕖d</td><td>creek-bed</td><td>crēek-b𝕖d</td><td>n. 溪床, 河床</td></tr>
-<tr><td>embed</td><td>ėmb𝕖d</td><td>em-bed</td><td>ėm-b𝕖d</td><td>vt. 使嵌入, 使插入</td></tr>
+<tr><td>creekbed</td><td>crēekbed</td><td>creek-bed</td><td>crēek-bed</td><td>n. 溪床, 河床</td></tr>
+<tr><td>embed</td><td>embed</td><td>em-bed</td><td>em-bed</td><td>vt. 使嵌入, 使插入</td></tr>
 <tr><td>embedded</td><td>embeddėd</td><td>em-bedd-ed</td><td>em-bedd-ėd</td><td>a. 植入的, 嵌入的, 内含的</td></tr>
 <tr><td>embedding</td><td>embedding</td><td>em-bedd-ing</td><td>em-bedd-ing</td><td>v. 嵌入, 植入 (embed的现在分词)</td></tr>
-<tr><td>embeddedness</td><td>ėmbeddėdne̊ss</td><td>em-bedd-ed-ness</td><td>ėm-bedd-ėd-ne̊ss</td><td>n. 嵌入性</td></tr>
+<tr><td>embeddedness</td><td>embeddėdnėss</td><td>em-bedd-ed-ness</td><td>em-bedd-ėd-nėss</td><td>n. 嵌入性</td></tr>
 <tr><td>imbed</td><td>imbed</td><td>im-bed</td><td>im-bed</td><td>v. 嵌入, 埋入</td></tr>
 <tr><td>imbedded</td><td>imbeddėd</td><td>im-bedd-ed</td><td>im-bedd-ėd</td><td>v. 嵌入, 埋入 (imbed的过去式和过去分词)<br>a. 嵌入的</td></tr>
 <tr><td>bedlam</td><td>bedlåm</td><td>bedlam</td><td>bedlåm</td><td>n. 混乱, 骚乱, 疯人院</td></tr>
@@ -813,7 +813,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>beekeeper</td><td>bēekēepe̊r</td><td>bee-keep-er</td><td>bēe-kēep-e̊r</td><td>n. 养蜂人</td></tr>
 <tr><td>beekeeping</td><td>bēekēeping</td><td>bee-keep-ing</td><td>bēe-kēep-ing</td><td>n. 养蜂</td></tr>
 <tr><td>beeswax</td><td>bēeṡwax</td><td>bee-s-wax</td><td>bēe-ṡ-wax</td><td>n. 蜂蜡, 蜜蜡<br>vt. 用蜡上光</td></tr>
-<tr><td>bumblebee</td><td>bûmblebēe</td><td>bumble-bee</td><td>bûmble-bēe</td><td>n. 大黄蜂, 熊蜂</td></tr>
+<tr><td>bumblebee</td><td>bûmbl𝕖bēe</td><td>bumble-bee</td><td>bûmbl𝕖-bēe</td><td>n. 大黄蜂, 熊蜂</td></tr>
 <tr><td>beech</td><td>bēech</td><td>beech</td><td>bēech</td><td>n. 山毛榉</td></tr>
 <tr><td>beechnut</td><td>bēechnût</td><td>beech-nut</td><td>bēech-nût</td><td>n. 山毛榉果实</td></tr>
 <tr><td>beechwood</td><td>bēechwood</td><td>beech-wood</td><td>bēech-wood</td><td>n. 山毛榉木材</td></tr>
@@ -830,7 +830,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>beer</td><td>bēer</td><td>beer</td><td>bēer</td><td>n. 啤酒</td></tr>
 <tr><td>beers</td><td>bēerṡ</td><td>beer-s</td><td>bēer-ṡ</td><td></td></tr>
 <tr><td>beery</td><td>bēerẏ</td><td>beer-y</td><td>bēer-ẏ</td><td>a. 像啤酒的, 喝醉的</td></tr>
-<tr><td>wildebeest</td><td>wĩlde̊bēest</td><td>wilde-beest</td><td>wĩlde̊-bēest</td><td>n. 角马, 牛羚</td></tr>
+<tr><td>wildebeest</td><td>wīldėbēest</td><td>wilde-beest</td><td>wīldė-bēest</td><td>n. 角马, 牛羚</td></tr>
 <tr><td>beet</td><td>bēet</td><td>beet</td><td>bēet</td><td>n. 甜菜</td></tr>
 <tr><td>beetle</td><td>bēetle</td><td>beetle</td><td>bēetle</td><td>n. 甲虫</td></tr>
 <tr><td>beetroot</td><td>bēetroot</td><td>beet-root</td><td>bēet-root</td><td>n. 甜菜根</td></tr>
@@ -840,10 +840,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>begging</td><td>begging</td><td>begg-ing</td><td>begg-ing</td><td>v. 乞讨, 乞求；行乞（beg的现在分词形式）</td></tr>
 <tr><td>begs</td><td>begṡ</td><td>beg-s</td><td>beg-ṡ</td><td></td></tr>
 <tr><td>beggarly</td><td>beggårlẏ</td><td>begg-ar-ly</td><td>begg-år-lẏ</td><td>a. 象乞丐的, 赤贫的</td></tr>
-<tr><td>misbegotten</td><td>misbe̊gotte̊n</td><td>mis-begotten</td><td>mis-be̊gotte̊n</td><td>a. 私生的, 非法获得的</td></tr>
+<tr><td>misbegotten</td><td>misbėgotte̊n</td><td>mis-begotten</td><td>mis-bėgotte̊n</td><td>a. 私生的, 非法获得的</td></tr>
 <tr><td>begonia</td><td>bėgōniå</td><td>begon-ia</td><td>bėgōn-iå</td><td>n. 秋海棠属植物, 秋海棠</td></tr>
 <tr><td>begum</td><td>bėgûm</td><td>begum</td><td>bėgûm</td><td>n. 穆斯林国家的王后(或公主)</td></tr>
-<tr><td>behemoth</td><td>be̊hēmo̊th</td><td>behemoth</td><td>be̊hēmo̊th</td><td>n. 庞然大物</td></tr>
+<tr><td>behemoth</td><td>bėhēmoth</td><td>behemoth</td><td>bėhēmoth</td><td>n. 庞然大物</td></tr>
 <tr><td>beige</td><td>bèige</td><td>beige</td><td>bèige</td><td>a. 米色的, 浅褐色的<br>n. 米色</td></tr>
 <tr><td>beignet</td><td>bèignè𝕥</td><td>beign-et</td><td>bèign-è𝕥</td><td>n. 法式甜甜圈, 油炸糕</td></tr>
 <tr><td>bel</td><td>bel</td><td>bel</td><td>bel</td><td>n. 贝尔(音量单位)</td></tr>
@@ -852,35 +852,35 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rebellious</td><td>rėbellio̊us</td><td>re-bell-ious</td><td>rė-bell-io̊us</td><td>a. 反叛的, 反抗的</td></tr>
 <tr><td>rebels</td><td>rebe̊lṡ</td><td>re-bel-s</td><td>re-be̊l-ṡ</td><td></td></tr>
 <tr><td>rebelliously</td><td>rėbellio̊uslẏ</td><td>re-bell-ious-ly</td><td>rė-bell-io̊us-lẏ</td><td>adv. 造反地, 难以控制地</td></tr>
-<tr><td>rebelliousness</td><td>re̊bellio̊usne̊ss</td><td>re-bell-ious-ness</td><td>re̊-bell-io̊us-ne̊ss</td><td>n. 造反, 难以控制</td></tr>
-<tr><td>belarusian</td><td>belàrùsiån</td><td>belarus-ian</td><td>belàrùs-iån</td><td>n. 白俄罗斯人<br>a. 白俄罗斯的</td></tr>
-<tr><td>belarussian</td><td>belårûṡsi̊ån</td><td>belaruss-ian</td><td>belårûṡs-i̊ån</td><td>a. 白俄罗斯的<br>n. 白俄罗斯人</td></tr>
+<tr><td>rebelliousness</td><td>rėbellio̊usnėss</td><td>re-bell-ious-ness</td><td>rė-bell-io̊us-nėss</td><td>n. 造反, 难以控制</td></tr>
+<tr><td>belarusian</td><td>belårūsiån</td><td>belarus-ian</td><td>belårūs-iån</td><td>n. 白俄罗斯人<br>a. 白俄罗斯的</td></tr>
+<tr><td>belarussian</td><td>belårūssiån</td><td>belaruss-ian</td><td>belårūss-iån</td><td>a. 白俄罗斯的<br>n. 白俄罗斯人</td></tr>
 <tr><td>belch</td><td>belch</td><td>belch</td><td>belch</td><td>vi. 打嗝, 喷吐<br>vt. 打嗝, 吼叫着发出(命令), 喷吐<br>n. 打嗝, 喷吐</td></tr>
 <tr><td>belfry</td><td>belfrẏ</td><td>belfry</td><td>belfrẏ</td><td>n. 钟楼, 钟塔</td></tr>
-<tr><td>belgian</td><td>belgi̊ån</td><td>belg-ian</td><td>belg-i̊ån</td><td>a. 比利时的<br>n. 比利时人</td></tr>
+<tr><td>belgian</td><td>belgiån</td><td>belg-ian</td><td>belg-iån</td><td>a. 比利时的<br>n. 比利时人</td></tr>
 <tr><td>Belgium</td><td>Belgiům</td><td>Belg-ium</td><td>Belg-iům</td><td>n. 比利时</td></tr>
-<tr><td>belizean</td><td>belĩzėån</td><td>belize-an</td><td>belĩzė-ån</td><td>n. 伯利兹人</td></tr>
+<tr><td>belizean</td><td>bėlĩzėån</td><td>belize-an</td><td>bėlĩzė-ån</td><td>n. 伯利兹人</td></tr>
 <tr><td>bell</td><td>bell</td><td>bell</td><td>bell</td><td>n. 钟, 铃</td></tr>
 <tr><td>bellboy</td><td>bellboẏ</td><td>bell-boy</td><td>bell-boẏ</td><td>n. 行李员, 侍者</td></tr>
-<tr><td>belled</td><td>bellėd</td><td>bell-ed</td><td>bell-ėd</td><td>v. 系上铃铛<br>a. 钟形口的</td></tr>
+<tr><td>belled</td><td>bell𝕖d</td><td>bell-ed</td><td>bell-𝕖d</td><td>v. 系上铃铛<br>a. 钟形口的</td></tr>
 <tr><td>bellflower</td><td>bellflòwe̊r</td><td>bell-flower</td><td>bell-flòwe̊r</td><td>n. 风铃草</td></tr>
 <tr><td>bellhop</td><td>bellhop</td><td>bell-hop</td><td>bell-hop</td><td>n. 旅馆侍者, 旅馆服务员(=bellboy)</td></tr>
 <tr><td>bellman</td><td>bellmån</td><td>bell-man</td><td>bell-mån</td><td>n. 门童, 搬运工, 更夫</td></tr>
 <tr><td>bells</td><td>bellṡ</td><td>bell-s</td><td>bell-ṡ</td><td></td></tr>
-<tr><td>bellicose</td><td>belli̊cōse</td><td>bell-i-cose</td><td>bell-i̊-cōse</td><td>a. 好战的, 好斗的</td></tr>
-<tr><td>belligerence</td><td>be̊llige̊re̊nce</td><td>bell-i-ger-ence</td><td>be̊ll-i-ge̊r-e̊nce</td><td>n. 好战, 好斗性, 敌意</td></tr>
-<tr><td>belligerent</td><td>be̊llige̊re̊nt</td><td>bell-i-ger-ent</td><td>be̊ll-i-ge̊r-e̊nt</td><td>a. 好战的, 交战的</td></tr>
-<tr><td>bellicosity</td><td>belli̊cōsitẏ</td><td>bell-ic-os-ity</td><td>bell-i̊c-ōs-itẏ</td><td>n. 好战, 好斗</td></tr>
-<tr><td>belligerently</td><td>be̊llige̊re̊ntlẏ</td><td>bell-i-ger-ent-ly</td><td>be̊ll-i-ge̊r-e̊nt-lẏ</td><td>adv. 好战地；好斗地</td></tr>
+<tr><td>bellicose</td><td>bellicōse</td><td>bell-i-cose</td><td>bell-i-cōse</td><td>a. 好战的, 好斗的</td></tr>
+<tr><td>belligerence</td><td>bėllige̊re̊nce</td><td>bell-i-ger-ence</td><td>bėll-i-ge̊r-e̊nce</td><td>n. 好战, 好斗性, 敌意</td></tr>
+<tr><td>belligerent</td><td>bėllige̊re̊nt</td><td>bell-i-ger-ent</td><td>bėll-i-ge̊r-e̊nt</td><td>a. 好战的, 交战的</td></tr>
+<tr><td>bellicosity</td><td>bellicositẏ</td><td>bell-ic-os-ity</td><td>bell-ic-os-itẏ</td><td>n. 好战, 好斗</td></tr>
+<tr><td>belligerently</td><td>bėllige̊re̊ntlẏ</td><td>bell-i-ger-ent-ly</td><td>bėll-i-ge̊r-e̊nt-lẏ</td><td>adv. 好战地；好斗地</td></tr>
 <tr><td>antebellum</td><td>antėbellům</td><td>ante-bell-um</td><td>antė-bell-ům</td><td>a. 战前的, 南北战争前的</td></tr>
 <tr><td>barbell</td><td>bàrbell</td><td>bar-bell</td><td>bàr-bell</td><td>n. 杠铃</td></tr>
 <tr><td>cowbell</td><td>còwbell</td><td>cow-bell</td><td>còw-bell</td><td>n. 牛铃</td></tr>
-<tr><td>embellish</td><td>ėmbellish</td><td>em-bellish</td><td>ėm-bellish</td><td>vt. 修饰, 装饰, 润色</td></tr>
+<tr><td>embellish</td><td>embellish</td><td>em-bellish</td><td>em-bellish</td><td>vt. 修饰, 装饰, 润色</td></tr>
 <tr><td>embellished</td><td>embellish𝕖ḋ</td><td>em-bellish-ed</td><td>em-bellish-𝕖ḋ</td><td>v. 装饰, 润色, 美化</td></tr>
 <tr><td>embellishment</td><td>embellishme̊nt</td><td>em-bellish-ment</td><td>em-bellish-me̊nt</td><td>n. 装饰, 润色</td></tr>
-<tr><td>kettlebell</td><td>kettlebell</td><td>kettle-bell</td><td>kettle-bell</td><td>n. 壶铃(健身器材)</td></tr>
+<tr><td>kettlebell</td><td>kettl𝕖bell</td><td>kettle-bell</td><td>kettl𝕖-bell</td><td>n. 壶铃(健身器材)</td></tr>
 <tr><td>underbelly</td><td>ûnde̊rbellẏ</td><td>under-belly</td><td>ûnde̊r-bellẏ</td><td>n. 下腹部, 薄弱环节</td></tr>
-<tr><td>unembellished</td><td>ûnėmbellish𝕖ḋ</td><td>un-em-bell-ish-ed</td><td>ûn-ėm-bell-ish-𝕖ḋ</td><td>a. 未装饰的, 未修饰的</td></tr>
+<tr><td>unembellished</td><td>ûnembellish𝕖ḋ</td><td>un-em-bell-ish-ed</td><td>ûn-em-bell-ish-𝕖ḋ</td><td>a. 未装饰的, 未修饰的</td></tr>
 <tr><td>belle</td><td>belle</td><td>belle</td><td>belle</td><td>n. 美女</td></tr>
 <tr><td>bellow</td><td>bellōw</td><td>bellow</td><td>bellōw</td><td>n. 吼叫声<br>v. 吼叫, 怒吼</td></tr>
 <tr><td>bellowing</td><td>bellōwing</td><td>bellow-ing</td><td>bellōw-ing</td><td>v. 吼叫, 咆哮<br>n. 吼声</td></tr>
@@ -888,19 +888,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>belly</td><td>bellẏ</td><td>belly</td><td>bellẏ</td><td>n. 腹部, 肚子, 胃</td></tr>
 <tr><td>bellyache</td><td>bellẏāc𝕙e</td><td>belly-ache</td><td>bellẏ-āc𝕙e</td><td>n. 腹痛<br>v. 抱怨</td></tr>
 <tr><td>bellybutton</td><td>bellẏbûtto̊n</td><td>belly-button</td><td>bellẏ-bûtto̊n</td><td>n. 肚脐</td></tr>
-<tr><td>bellyful</td><td>bellẏfùl</td><td>belly-ful</td><td>bellẏ-fùl</td><td>n. 满腹, 满肚子</td></tr>
+<tr><td>bellyful</td><td>bellẏfůl</td><td>belly-ful</td><td>bellẏ-fůl</td><td>n. 满腹, 满肚子</td></tr>
 <tr><td>bellies</td><td>belli𝕖ṡ</td><td>bell-ies</td><td>bell-i𝕖ṡ</td><td></td></tr>
 <tr><td>below-the-line</td><td></td><td>below-the-line</td><td></td><td>a. 线下的</td></tr>
 <tr><td>belt</td><td>belt</td><td>belt</td><td>belt</td><td>n. 带子, 地带</td></tr>
-<tr><td>belted</td><td>belt𝕖d</td><td>belt-ed</td><td>belt-𝕖d</td><td>a. 束带的, 佩绶带的</td></tr>
+<tr><td>belted</td><td>beltėd</td><td>belt-ed</td><td>belt-ėd</td><td>a. 束带的, 佩绶带的</td></tr>
 <tr><td>belter</td><td>belte̊r</td><td>belt-er</td><td>belt-e̊r</td><td>n. 了不起的人或事, 嘹亮的歌声</td></tr>
-<tr><td>beltless</td><td>beltle̊ss</td><td>belt-less</td><td>belt-le̊ss</td><td>a. 无带的</td></tr>
+<tr><td>beltless</td><td>beltlėss</td><td>belt-less</td><td>belt-lėss</td><td>a. 无带的</td></tr>
 <tr><td>belts</td><td>belts</td><td>belt-s</td><td>belt-s</td><td></td></tr>
 <tr><td>beltway</td><td>beltwāy</td><td>belt-way</td><td>belt-wāy</td><td>n. 环城公路, 环形大道</td></tr>
 <tr><td>unbelted</td><td>ûnbeltėd</td><td>un-belt-ed</td><td>ûn-belt-ėd</td><td>a. 无带的,无腰带(或皮带)的</td></tr>
 <tr><td>beluga</td><td>bėlūgå</td><td>beluga</td><td>bėlūgå</td><td>n. 白鲸, 鲟鱼</td></tr>
 <tr><td>bench</td><td>bench</td><td>bench</td><td>bench</td><td>n. 长椅子</td></tr>
-<tr><td>benched</td><td>benchėd</td><td>bench-ed</td><td>bench-ėd</td><td>v. 使坐冷板凳, 换下</td></tr>
+<tr><td>benched</td><td>bench𝕖ḋ</td><td>bench-ed</td><td>bench-𝕖ḋ</td><td>v. 使坐冷板凳, 换下</td></tr>
 <tr><td>benches</td><td>benchėṡ</td><td>bench-es</td><td>bench-ėṡ</td><td></td></tr>
 <tr><td>benching</td><td>benching</td><td>bench-ing</td><td>bench-ing</td><td>n. 阶梯式开采</td></tr>
 <tr><td>benchmark</td><td>benchmàrk</td><td>bench-mark</td><td>bench-màrk</td><td>n. 基准, 标杆</td></tr>
@@ -915,38 +915,38 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unbend</td><td>ûnbend</td><td>un-bend</td><td>ûn-bend</td><td>vt. 弄直, 放松<br>vi. 松弛, 变直</td></tr>
 <tr><td>unbending</td><td>ûnbending</td><td>un-bend-ing</td><td>ûn-bend-ing</td><td>a. 不屈的, 坚定的, 不妥协的</td></tr>
 <tr><td>beng</td><td>beng</td><td>beng</td><td>beng</td><td>n. 大麻</td></tr>
-<tr><td>bengal</td><td>bengål</td><td>beng-al</td><td>beng-ål</td><td>n. 孟加拉(亚洲地名)</td></tr>
-<tr><td>bengali</td><td>bengàlĩ</td><td>beng-al-i</td><td>beng-àl-ĩ</td><td>a. 孟加拉的<br>n. 孟加拉人, 孟加拉语</td></tr>
+<tr><td>bengal</td><td>bengãl</td><td>beng-al</td><td>beng-ãl</td><td>n. 孟加拉(亚洲地名)</td></tr>
+<tr><td>bengali</td><td>bengàli</td><td>beng-al-i</td><td>beng-àl-i</td><td>a. 孟加拉的<br>n. 孟加拉人, 孟加拉语</td></tr>
 <tr><td>benignant</td><td>bėnignånt</td><td>benign-ant</td><td>bėnign-ånt</td><td>a. 仁慈的, 和蔼的</td></tr>
 <tr><td>benignity</td><td>bėnignitẏ</td><td>benign-ity</td><td>bėnign-itẏ</td><td>n. 仁慈, 善行</td></tr>
-<tr><td>benison</td><td>beniṡo̊n</td><td>benison</td><td>beniṡo̊n</td><td>n. 祝福</td></tr>
+<tr><td>benison</td><td>bėniso̊n</td><td>benison</td><td>bėniso̊n</td><td>n. 祝福</td></tr>
 <tr><td>benne</td><td>benne</td><td>benne</td><td>benne</td><td>n. 芝麻(=sesame)</td></tr>
 <tr><td>bento</td><td>bentō</td><td>bent-o</td><td>bent-ō</td><td>n. （日）盒饭（等于obento）</td></tr>
-<tr><td>debenture</td><td>de̊bentůre</td><td>de-bent-ure</td><td>de̊-bent-ůre</td><td>n. 公司债券, 信用债券</td></tr>
+<tr><td>debenture</td><td>debentůre</td><td>de-bent-ure</td><td>de-bent-ůre</td><td>n. 公司债券, 信用债券</td></tr>
 <tr><td>benthic</td><td>benthic</td><td>benth-ic</td><td>benth-ic</td><td>a. 底栖的, 水底的</td></tr>
-<tr><td>benthos</td><td>benthos</td><td>benthos</td><td>benthos</td><td>n. 海底, 海底生物</td></tr>
+<tr><td>benthos</td><td>benthōṡ</td><td>benthos</td><td>benthōṡ</td><td>n. 海底, 海底生物</td></tr>
 <tr><td>benzene</td><td>benzēne</td><td>benzene</td><td>benzēne</td><td>n. 苯</td></tr>
 <tr><td>benzine</td><td>benzĩne</td><td>benzine</td><td>benzĩne</td><td>n. 轻质汽油, 挥发油</td></tr>
-<tr><td>benzodiazepine</td><td>benzōdiaze̊pĩne</td><td>benzo-diazepine</td><td>benzō-diaze̊pĩne</td><td>n. 苯二氮卓类（镇静药物）</td></tr>
+<tr><td>benzodiazepine</td><td>benzōdīaze̊pĩne</td><td>benzo-diazepine</td><td>benzō-dīaze̊pĩne</td><td>n. 苯二氮卓类（镇静药物）</td></tr>
 <tr><td>berber</td><td>be̊rbe̊r</td><td>berber</td><td>be̊rbe̊r</td><td>n. 柏柏尔人<br>a. 柏柏尔人的</td></tr>
-<tr><td>beret</td><td>bère̊t</td><td>beret</td><td>bère̊t</td><td>n. 贝雷帽</td></tr>
+<tr><td>beret</td><td>berè𝕥</td><td>beret</td><td>berè𝕥</td><td>n. 贝雷帽</td></tr>
 <tr><td>berg</td><td>be̊rg</td><td>berg</td><td>be̊rg</td><td>n. 冰山</td></tr>
 <tr><td>Konigsberg</td><td></td><td>Konig-s-berg</td><td></td><td>n. 哥尼斯堡(旧地名)</td></tr>
 <tr><td>bergamot</td><td>be̊rgåmot</td><td>bergamot</td><td>be̊rgåmot</td><td>n. 香柠檬, 佛手柑</td></tr>
-<tr><td>bergere</td><td>bergere̊</td><td>bergere</td><td>bergere̊</td><td>n. 扶手椅</td></tr>
-<tr><td>beriberi</td><td>bèribèri</td><td>beri-beri</td><td>bèri-bèri</td><td>n. 脚气病</td></tr>
-<tr><td>Bering</td><td>Bèring</td><td>Bering</td><td>Bèring</td><td>n. 白令海峡</td></tr>
-<tr><td>beringia</td><td>be̊ringiå</td><td>bering-ia</td><td>be̊ring-iå</td><td>n. 白令陆桥</td></tr>
+<tr><td>bergere</td><td>be̊rge̊re</td><td>bergere</td><td>be̊rge̊re</td><td>n. 扶手椅</td></tr>
+<tr><td>beriberi</td><td>beriberi</td><td>beri-beri</td><td>beri-beri</td><td>n. 脚气病</td></tr>
+<tr><td>Bering</td><td>Bering</td><td>Bering</td><td>Bering</td><td>n. 白令海峡</td></tr>
+<tr><td>beringia</td><td>bėringiå</td><td>bering-ia</td><td>bėring-iå</td><td>n. 白令陆桥</td></tr>
 <tr><td>Berlin</td><td>Be̊rlin</td><td>Berlin</td><td>Be̊rlin</td><td>n. 柏林(德国首都)</td></tr>
 <tr><td>berm</td><td>be̊rm</td><td>berm</td><td>be̊rm</td><td>n. 护道, 崖径</td></tr>
 <tr><td>bermudian</td><td>be̊rmūdiån</td><td>bermud-ian</td><td>be̊rmūd-iån</td><td>n. 百慕大人<br>a. 百慕大的</td></tr>
 <tr><td>berry</td><td>berrẏ</td><td>berr-y</td><td>berr-ẏ</td><td>n. 浆果</td></tr>
-<tr><td>berried</td><td>berriėd</td><td>berr-i-ed</td><td>berr-i-ėd</td><td>a. 结浆果的, 浆果状的, 有卵的</td></tr>
+<tr><td>berried</td><td>berri𝕖d</td><td>berr-i-ed</td><td>berr-i-𝕖d</td><td>a. 结浆果的, 浆果状的, 有卵的</td></tr>
 <tr><td>bilberry</td><td>bilbe̊rrẏ</td><td>bil-berr-y</td><td>bil-be̊rr-ẏ</td><td>n. 欧洲越桔, 越桔</td></tr>
-<tr><td>mulberry</td><td>mûlberrẏ</td><td>mul-berr-y</td><td>mûl-berr-ẏ</td><td>n. 桑树, 桑葚</td></tr>
-<tr><td>newberry</td><td>new̄berrẏ</td><td>new-berr-y</td><td>new̄-berr-ẏ</td><td>n. 纽伯里(姓)</td></tr>
+<tr><td>mulberry</td><td>mûlbe̊rrẏ</td><td>mul-berr-y</td><td>mûl-be̊rr-ẏ</td><td>n. 桑树, 桑葚</td></tr>
+<tr><td>newberry</td><td>new̄be̊rrẏ</td><td>new-berr-y</td><td>new̄-be̊rr-ẏ</td><td>n. 纽伯里(姓)</td></tr>
 <tr><td>raspberry</td><td>raṡ𝕡berrẏ</td><td>rasp-berr-y</td><td>raṡ𝕡-berr-ẏ</td><td>n. 覆盆子, 山莓</td></tr>
-<tr><td>elderberry</td><td>elde̊rberrẏ</td><td>eld-er-berr-y</td><td>eld-e̊r-berr-ẏ</td><td>n. 接骨木果, 接骨木</td></tr>
+<tr><td>elderberry</td><td>elde̊rbe̊rrẏ</td><td>eld-er-berr-y</td><td>eld-e̊r-be̊rr-ẏ</td><td>n. 接骨木果, 接骨木</td></tr>
 <tr><td>berserk</td><td>be̊rse̊rk</td><td>berserk</td><td>be̊rse̊rk</td><td>a. 狂怒的, 狂暴的</td></tr>
 <tr><td>Bert</td><td>Be̊rt</td><td>Bert</td><td>Be̊rt</td><td>n. 伯特(男名)</td></tr>
 <tr><td>berth</td><td>be̊rth</td><td>berth</td><td>be̊rth</td><td>n. 卧铺, 泊位<br>v. 停泊</td></tr>
@@ -963,8 +963,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bets</td><td>bets</td><td>bet-s</td><td>bet-s</td><td></td></tr>
 <tr><td>betterment</td><td>bette̊rme̊nt</td><td>bett-er-ment</td><td>bett-e̊r-me̊nt</td><td>n. 改善, 改进, 增值</td></tr>
 <tr><td>abet</td><td>åbet</td><td>a-bet</td><td>å-bet</td><td>vt. 教唆, 煽动, 怂恿, 帮助, 支持</td></tr>
-<tr><td>beta</td><td>bètå</td><td>beta</td><td>bètå</td><td>n. 希腊字母β<br>a. 次要的, 第二的</td></tr>
-<tr><td>betel</td><td>bete̊l</td><td>betel</td><td>bete̊l</td><td>n. 蒌叶, 槟榔</td></tr>
+<tr><td>beta</td><td>bētå</td><td>beta</td><td>bētå</td><td>n. 希腊字母β<br>a. 次要的, 第二的</td></tr>
+<tr><td>betel</td><td>bēte̊l</td><td>betel</td><td>bēte̊l</td><td>n. 蒌叶, 槟榔</td></tr>
 <tr><td>better-off</td><td></td><td>bett-er-off</td><td></td><td>a. 境况更好的, 更富裕的</td></tr>
 <tr><td>bevel</td><td>beve̊l</td><td>bevel</td><td>beve̊l</td><td>n. 斜面, 斜角, 斜角规<br>vi. 成斜角<br>vt. 使成斜角</td></tr>
 <tr><td>beveled</td><td>beve̊l𝕖d</td><td>bevel-ed</td><td>beve̊l-𝕖d</td><td>a. 有斜面的, 倒角的</td></tr>
@@ -972,25 +972,25 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>beverages</td><td>beve̊rȧgėṡ</td><td>bever-age-s</td><td>beve̊r-ȧgė-ṡ</td><td></td></tr>
 <tr><td>bevy</td><td>bevẏ</td><td>bevy</td><td>bevẏ</td><td>n. 一群</td></tr>
 <tr><td>bey</td><td>bèy</td><td>bey</td><td>bèy</td><td>n. 贝伊(土耳其尊称), 州长</td></tr>
-<tr><td>abbey</td><td>abbēy</td><td>ab-bey</td><td>ab-bēy</td><td>n. 修道院, 大教堂</td></tr>
+<tr><td>abbey</td><td>abbėy</td><td>ab-bey</td><td>ab-bėy</td><td>n. 修道院, 大教堂</td></tr>
 <tr><td>abeyance</td><td>åbèyånce</td><td>a-bey-ance</td><td>å-bèy-ånce</td><td>n. 中止, 暂搁</td></tr>
 <tr><td>obey</td><td>o̊bèy</td><td>o-bey</td><td>o̊-bèy</td><td>vt. 服从, 遵从, 顺从<br>vi. 服从</td></tr>
 <tr><td>obeisance</td><td>ōbèisånce</td><td>o-beis-ance</td><td>ō-bèis-ånce</td><td>n. 敬礼, 鞠躬</td></tr>
 <tr><td>obedience</td><td>o̊bēdie̊nce</td><td>o-bedi-ence</td><td>o̊-bēdi-e̊nce</td><td>n. 服从, 顺从</td></tr>
 <tr><td>obedient</td><td>o̊bēdie̊nt</td><td>o-bedi-ent</td><td>o̊-bēdi-e̊nt</td><td>a. 服从的, 顺从的, 孝顺的</td></tr>
-<tr><td>obediently</td><td>ōbēdiēntlẏ</td><td>o-bedi-ent-ly</td><td>ō-bēdi-ēnt-lẏ</td><td>adv. 顺从地, 服从地</td></tr>
-<tr><td>disobey</td><td>diso̊bèy</td><td>dis-o-bey</td><td>dis-o̊-bèy</td><td>v. 违反, 不服从</td></tr>
-<tr><td>disobedience</td><td>diso̊bēdiēnce</td><td>dis-o-bedi-ence</td><td>dis-o̊-bēdi-ēnce</td><td>n. 不服从, 违抗, 违背</td></tr>
-<tr><td>disobedient</td><td>diso̊bēdiēnt</td><td>dis-o-bedi-ent</td><td>dis-o̊-bēdi-ēnt</td><td>a. 不服从的, 不孝的, 违抗的</td></tr>
+<tr><td>obediently</td><td>ōbēdie̊ntlẏ</td><td>o-bedi-ent-ly</td><td>ō-bēdi-e̊nt-lẏ</td><td>adv. 顺从地, 服从地</td></tr>
+<tr><td>disobey</td><td>disōbèy</td><td>dis-o-bey</td><td>dis-ō-bèy</td><td>v. 违反, 不服从</td></tr>
+<tr><td>disobedience</td><td>disōbēdie̊nce</td><td>dis-o-bedi-ence</td><td>dis-ō-bēdi-e̊nce</td><td>n. 不服从, 违抗, 违背</td></tr>
+<tr><td>disobedient</td><td>disōbēdie̊nt</td><td>dis-o-bedi-ent</td><td>dis-ō-bēdi-e̊nt</td><td>a. 不服从的, 不孝的, 违抗的</td></tr>
 <tr><td>bezel</td><td>beze̊l</td><td>bezel</td><td>beze̊l</td><td>n. 斜面, 表圈</td></tr>
-<tr><td>embezzler</td><td>ėmbezzle̊r</td><td>em-bezzl-er</td><td>ėm-bezzl-e̊r</td><td>n. 贪污犯, 盗用公款者</td></tr>
-<tr><td>embezzle</td><td>ėmbezzle</td><td>em-bezz-le</td><td>ėm-bezz-le</td><td>vt. 贪污, 挪用</td></tr>
-<tr><td>embezzlement</td><td>embezzleme̊nt</td><td>em-bezz-le-ment</td><td>em-bezz-le-me̊nt</td><td>n. 贪污, 挪用, 监守自盗</td></tr>
+<tr><td>embezzler</td><td>embezzle̊r</td><td>em-bezzl-er</td><td>em-bezzl-e̊r</td><td>n. 贪污犯, 盗用公款者</td></tr>
+<tr><td>embezzle</td><td>embezzle</td><td>em-bezz-le</td><td>em-bezz-le</td><td>vt. 贪污, 挪用</td></tr>
+<tr><td>embezzlement</td><td>embezzl𝕖me̊nt</td><td>em-bezz-le-ment</td><td>em-bezz-l𝕖-me̊nt</td><td>n. 贪污, 挪用, 监守自盗</td></tr>
 <tr><td>amphibian</td><td>amphibiån</td><td>amphi-bi-an</td><td>amphi-bi-ån</td><td>n. 两栖动物<br>a. 两栖的, 水陆两用的</td></tr>
 <tr><td>amphibious</td><td>amphibio̊us</td><td>amphi-bi-ous</td><td>amphi-bi-o̊us</td><td>a. 两栖的, 水陆两用的</td></tr>
-<tr><td>symbiont</td><td>sẏmbīont</td><td>sym-bi-ont</td><td>sẏm-bī-ont</td><td>n. 共生体, 共生生物</td></tr>
-<tr><td>symbiote</td><td>sẏmbīōte</td><td>sym-bi-ote</td><td>sẏm-bī-ōte</td><td>n. 共生生物</td></tr>
-<tr><td>astrobiologist</td><td>astro̊bīo̊logist</td><td>astr-o-bi-o-log-ist</td><td>astr-o̊-bī-o̊-log-ist</td><td>n. 天体生物学家</td></tr>
+<tr><td>symbiont</td><td>sẏmbiont</td><td>sym-bi-ont</td><td>sẏm-bi-ont</td><td>n. 共生体, 共生生物</td></tr>
+<tr><td>symbiote</td><td>sẏmbiōte</td><td>sym-bi-ote</td><td>sẏm-bi-ōte</td><td>n. 共生生物</td></tr>
+<tr><td>astrobiologist</td><td>astrōbīolo̊gist</td><td>astr-o-bi-o-log-ist</td><td>astr-ō-bī-o-lo̊g-ist</td><td>n. 天体生物学家</td></tr>
 <tr><td>bias</td><td>bīås</td><td>bias</td><td>bīås</td><td>n. 偏见, 偏爱, 斜纹<br>vt. 使有偏见<br>a. 偏斜的</td></tr>
 <tr><td>biased</td><td>bīås𝕖ḋ</td><td>bias-ed</td><td>bīås-𝕖ḋ</td><td>a. 有偏见的, 偏袒的</td></tr>
 <tr><td>biasing</td><td>bīåsing</td><td>bias-ing</td><td>bīås-ing</td><td>v. 使有偏见, 偏置(bias的现在分词)</td></tr>
@@ -1000,9 +1000,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bibulous</td><td>bibūlo̊us</td><td>bib-ul-ous</td><td>bib-ūl-o̊us</td><td>a. 嗜酒的, 吸水的</td></tr>
 <tr><td>bibb</td><td>bibb</td><td>bibb</td><td>bibb</td><td>n. 桅肩加强板, 夹板, 小水龙头</td></tr>
 <tr><td>imbibe</td><td>imbībe</td><td>im-bibe</td><td>im-bībe</td><td>vt. 饮, 吸收</td></tr>
-<tr><td>bibelot</td><td>bib𝕖lōt</td><td>bibelot</td><td>bib𝕖lōt</td><td>n. &lt;法&gt;小摆设,小装饰品,微型书</td></tr>
+<tr><td>bibelot</td><td>bibe̊lō𝕥</td><td>bibelot</td><td>bibe̊lō𝕥</td><td>n. &lt;法&gt;小摆设,小装饰品,微型书</td></tr>
 <tr><td>Bible</td><td>Bīble</td><td>Bib-le</td><td>Bīb-le</td><td>n. 圣经</td></tr>
-<tr><td>biblical</td><td>bibli̊cål</td><td>bibl-ic-al</td><td>bibl-i̊c-ål</td><td>a. 圣经的</td></tr>
+<tr><td>biblical</td><td>biblicål</td><td>bibl-ic-al</td><td>bibl-ic-ål</td><td>a. 圣经的</td></tr>
 <tr><td>Bibles</td><td>Bībl𝕖ṡ</td><td>Bib-le-s</td><td>Bīb-l𝕖-ṡ</td><td></td></tr>
 <tr><td>bible</td><td>bīble</td><td></td><td></td><td>n. 圣经</td></tr>
 <tr><td>bibliomania</td><td>biblio̊māniå</td><td>biblio-mania</td><td>biblio̊-māniå</td><td>n. 藏书癖</td></tr>
@@ -1019,7 +1019,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>abidance</td><td>åbīdånce</td><td>a-bid-ance</td><td>å-bīd-ånce</td><td>n. 居住, 遵守</td></tr>
 <tr><td>abiding</td><td>åbīding</td><td>a-bid-ing</td><td>å-bīd-ing</td><td>a. 永久的, 持久的, 不变的</td></tr>
 <tr><td>forbid</td><td>fo̊rbid</td><td>for-bid</td><td>fo̊r-bid</td><td>vt. 禁止, 不准, 阻止</td></tr>
-<tr><td>forbidden</td><td>forbidde̊n</td><td>for-bidd-en</td><td>for-bidd-e̊n</td><td>a. 被禁止的, 严禁的</td></tr>
+<tr><td>forbidden</td><td>fo̊rbidde̊n</td><td>for-bidd-en</td><td>fo̊r-bidd-e̊n</td><td>a. 被禁止的, 严禁的</td></tr>
 <tr><td>forbidding</td><td>fo̊rbidding</td><td>for-bidd-ing</td><td>fo̊r-bidd-ing</td><td>a. 险恶的, 令人生畏的</td></tr>
 <tr><td>forbids</td><td>fo̊rbidṡ</td><td>for-bid-s</td><td>fo̊r-bid-ṡ</td><td></td></tr>
 <tr><td>forbiddingly</td><td>fo̊rbiddinglẏ</td><td>for-bidd-ing-ly</td><td>fo̊r-bidd-ing-lẏ</td><td>adv. 令人生畏地, 严峻地</td></tr>
@@ -1030,14 +1030,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>forbade</td><td>fo̊rbāde</td><td>forbade</td><td>fo̊rbāde</td><td></td></tr>
 <tr><td>biddy</td><td>biddẏ</td><td>bidd-y</td><td>bidd-ẏ</td><td>n. 小鸡, 母鸡, 下女, 女佣</td></tr>
 <tr><td>bide</td><td>bīde</td><td>bide</td><td>bīde</td><td>vt. 等待, 忍耐</td></tr>
-<tr><td>bidet</td><td>bidet</td><td>bidet</td><td>bidet</td><td>n. 坐浴盆</td></tr>
+<tr><td>bidet</td><td>bĩdè𝕥</td><td>bidet</td><td>bĩdè𝕥</td><td>n. 坐浴盆</td></tr>
 <tr><td>bier</td><td>biēr</td><td>bier</td><td>biēr</td><td>n. 棺材, 棺材架</td></tr>
 <tr><td>biff</td><td>biff</td><td>biff</td><td>biff</td><td>n. 一击<br>vt. 打</td></tr>
 <tr><td>big</td><td>big</td><td>big</td><td>big</td><td>a. 大的, 重要的<br>adv. 大量地</td></tr>
 <tr><td>bigger</td><td>bigge̊r</td><td>bigg-er</td><td>bigg-e̊r</td><td>a. 更大的</td></tr>
 <tr><td>biggest</td><td>biggėst</td><td>bigg-est</td><td>bigg-ėst</td><td></td></tr>
-<tr><td>biggie</td><td>biggiē</td><td>bigg-ie</td><td>bigg-iē</td><td>n. 大人物, 重要的事</td></tr>
-<tr><td>bigness</td><td>bigne̊ss</td><td>big-ness</td><td>big-ne̊ss</td><td>n. 大, 伟大</td></tr>
+<tr><td>biggie</td><td>biggie</td><td>bigg-ie</td><td>bigg-ie</td><td>n. 大人物, 重要的事</td></tr>
+<tr><td>bigness</td><td>bignėss</td><td>big-ness</td><td>big-nėss</td><td>n. 大, 伟大</td></tr>
 <tr><td>biggy</td><td>biggẏ</td><td>bigg-y</td><td>bigg-ẏ</td><td></td></tr>
 <tr><td>biggies</td><td>biggi𝕖ṡ</td><td>bigg-ie-s</td><td>bigg-i𝕖-ṡ</td><td></td></tr>
 <tr><td>bight</td><td>bī𝕘𝕙t</td><td>bight</td><td>bī𝕘𝕙t</td><td>n. 海湾, 绳圈<br>vt. 用绳环扣住, 结成绳圈</td></tr>
@@ -1051,14 +1051,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bikeway</td><td>bīk𝕖wāy</td><td>bike-way</td><td>bīk𝕖-wāy</td><td>n. 自行车车道</td></tr>
 <tr><td>motorbike</td><td>mōto̊rbīke</td><td>mot-or-bike</td><td>mōt-o̊r-bīke</td><td>n. 机动脚踏两用车, 摩托车</td></tr>
 <tr><td>biliary</td><td>biliårẏ</td><td>bil-i-ary</td><td>bil-i-årẏ</td><td>a. 胆汁的, 胆的</td></tr>
-<tr><td>bildungsroman</td><td>bildùngṡrōmàn</td><td>bildung-s-roman</td><td>bildùng-ṡ-rōmàn</td><td>n. 成长小说（描写主人公成长过程）</td></tr>
+<tr><td>bildungsroman</td><td>bildůngsrōmån</td><td>bildung-s-roman</td><td>bildůng-s-rōmån</td><td>n. 成长小说（描写主人公成长过程）</td></tr>
 <tr><td>bile</td><td>bīle</td><td>bile</td><td>bīle</td><td>n. 胆汁, 怒气</td></tr>
 <tr><td>bilious</td><td>bilio̊us</td><td>bil-ious</td><td>bil-io̊us</td><td>a. 胆汁的, 坏脾气的</td></tr>
 <tr><td>bilge</td><td>bilge</td><td>bilge</td><td>bilge</td><td>n. 舱底, 舱底污水, 废话<br>vt. 使船漏水<br>vi. 膨胀, 船底漏水</td></tr>
 <tr><td>bilirubin</td><td>bilirūbin</td><td>bili-rub-in</td><td>bili-rūb-in</td><td>n. 胆红素</td></tr>
-<tr><td>debilitate</td><td>de̊bili̊tāte</td><td>de-bilit-ate</td><td>de̊-bili̊t-āte</td><td>vt. 使衰弱</td></tr>
-<tr><td>debilitated</td><td>de̊bili̊tātėd</td><td>de-bilit-at-ed</td><td>de̊-bili̊t-āt-ėd</td><td>a. 虚弱的, 衰弱的</td></tr>
-<tr><td>debilitating</td><td>de̊bili̊tāting</td><td>de-bilit-at-ing</td><td>de̊-bili̊t-āt-ing</td><td>a. 使衰弱的</td></tr>
+<tr><td>debilitate</td><td>dėbilitāte</td><td>de-bilit-ate</td><td>dė-bilit-āte</td><td>vt. 使衰弱</td></tr>
+<tr><td>debilitated</td><td>dėbilitātėd</td><td>de-bilit-at-ed</td><td>dė-bilit-āt-ėd</td><td>a. 虚弱的, 衰弱的</td></tr>
+<tr><td>debilitating</td><td>dėbilitāting</td><td>de-bilit-at-ing</td><td>dė-bilit-āt-ing</td><td>a. 使衰弱的</td></tr>
 <tr><td>debilitation</td><td>dėbilitātio̊n</td><td>de-bilit-at-ion</td><td>dė-bilit-āt-io̊n</td><td>n. 衰弱, 虚弱</td></tr>
 <tr><td>debilitative</td><td>dėbilitātive</td><td>de-bilit-at-ive</td><td>dė-bilit-āt-ive</td><td>a. 使人虚弱的, 消耗体力的</td></tr>
 <tr><td>bilk</td><td>bilk</td><td>bilk</td><td>bilk</td><td>vt. 欺骗, 赖账, 使受挫<br>n. 赖账者, 欺骗</td></tr>
@@ -1067,7 +1067,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>billabong</td><td>billåbong</td><td>bill-abong</td><td>bill-åbong</td><td>n. 死河, 死水潭</td></tr>
 <tr><td>billboard</td><td>billbōard</td><td>bill-board</td><td>bill-bōard</td><td>n. 广告牌, 布告栏</td></tr>
 <tr><td>billed</td><td>bill𝕖d</td><td>bill-ed</td><td>bill-𝕖d</td><td>v. 开账单, 安排 (bill的过去式和过去分词)</td></tr>
-<tr><td>billet</td><td>bille̊t</td><td>bill-et</td><td>bill-e̊t</td><td>n. 兵舍, 宿舍<br>n. 金属坯, 木段</td></tr>
+<tr><td>billet</td><td>billėt</td><td>bill-et</td><td>bill-ėt</td><td>n. 兵舍, 宿舍<br>n. 金属坯, 木段</td></tr>
 <tr><td>billfish</td><td>billfish</td><td>bill-fish</td><td>bill-fish</td><td>n. 长嘴鱼</td></tr>
 <tr><td>billfold</td><td>billfōld</td><td>bill-fold</td><td>bill-fōld</td><td>n. 皮夹</td></tr>
 <tr><td>billing</td><td>billing</td><td>bill-ing</td><td>bill-ing</td><td>n. 账单, 广告</td></tr>
@@ -1096,7 +1096,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>combinations</td><td>combinātio̊nṡ</td><td>com-bin-at-ion-s</td><td>com-bin-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>combinatorial</td><td>combinåtoriål</td><td>com-bin-at-or-i-al</td><td>com-bin-åt-or-i-ål</td><td>a. 组合的</td></tr>
 <tr><td>recombine</td><td>rēco̊mbīne</td><td>re-com-bine</td><td>rē-co̊m-bīne</td><td>vt. 再结合, 重组</td></tr>
-<tr><td>recombinant</td><td>rėcombinånt</td><td>re-com-bin-ant</td><td>rė-com-bin-ånt</td><td>n. 重组体, 重组子<br>a. 重组的</td></tr>
+<tr><td>recombinant</td><td>rēcombinånt</td><td>re-com-bin-ant</td><td>rē-com-bin-ånt</td><td>n. 重组体, 重组子<br>a. 重组的</td></tr>
 <tr><td>recombination</td><td>rēcombinātio̊n</td><td>re-com-bin-at-ion</td><td>rē-com-bin-āt-io̊n</td><td>n. 重组, 再组合</td></tr>
 <tr><td>bind</td><td>bīnd</td><td>bind</td><td>bīnd</td><td>vt. 绑, 约束, 装订, 包扎, 使结合<br>vi. 凝固, 受约束</td></tr>
 <tr><td>binder</td><td>bīnde̊r</td><td>bind-er</td><td>bīnd-e̊r</td><td>n. 活页夹, 粘合剂</td></tr>
@@ -1109,30 +1109,30 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>biome</td><td>bīōme</td><td>bio-me</td><td>bīō-me</td><td>n. 生物群落区</td></tr>
 <tr><td>biologies</td><td>bīolo̊gi𝕖ṡ</td><td>bio-log-ies</td><td>bīo-lo̊g-i𝕖ṡ</td><td></td></tr>
 <tr><td>biology</td><td>bīolo̊gẏ</td><td>bio-log-y</td><td>bīo-lo̊g-ẏ</td><td>n. 生物学</td></tr>
-<tr><td>astrobiology</td><td>astrōbiolo̊gẏ</td><td>astro-bio-log-y</td><td>astrō-bio-lo̊g-ẏ</td><td>n. 天体生物学</td></tr>
-<tr><td>microbiologist</td><td>mīcrōbiolo̊gist</td><td>micro-bio-log-ist</td><td>mīcrō-bio-lo̊g-ist</td><td>n. 微生物学家</td></tr>
+<tr><td>astrobiology</td><td>astrōbīolo̊gẏ</td><td>astro-bio-log-y</td><td>astrō-bīo-lo̊g-ẏ</td><td>n. 天体生物学</td></tr>
+<tr><td>microbiologist</td><td>mīcrōbīolo̊gist</td><td>micro-bio-log-ist</td><td>mīcrō-bīo-lo̊g-ist</td><td>n. 微生物学家</td></tr>
 <tr><td>microbiology</td><td>mīcrōbīolo̊gẏ</td><td>micro-bio-log-y</td><td>mīcrō-bīo-lo̊g-ẏ</td><td>n. 微生物学</td></tr>
 <tr><td>microbiological</td><td>mīcrōbīo̊logicål</td><td>micro-bio-log-ic-al</td><td>mīcrō-bīo̊-log-ic-ål</td><td>a. 微生物学的</td></tr>
 <tr><td>nonbiological</td><td>nonbīo̊logicål</td><td>non-bio-log-ic-al</td><td>non-bīo̊-log-ic-ål</td><td>a. 非生物的, 非生物学的</td></tr>
-<tr><td>neurobiological</td><td>neūrōbīolo̊gicål</td><td>neur-o-biological</td><td>neūr-ō-bīolo̊gicål</td><td>a. 神经生物学的</td></tr>
+<tr><td>neurobiological</td><td>neūrōbīo̊logicål</td><td>neur-o-biological</td><td>neūr-ō-bīo̊logicål</td><td>a. 神经生物学的</td></tr>
 <tr><td>neurobiologist</td><td>neūrōbīolo̊gist</td><td>neur-o-biologist</td><td>neūr-ō-bīolo̊gist</td><td>n. 神经生物学家</td></tr>
 <tr><td>neurobiology</td><td>neūrōbīolo̊gẏ</td><td>neur-o-biology</td><td>neūr-ō-bīolo̊gẏ</td><td>n. 神经生物学</td></tr>
-<tr><td>sociobiological</td><td>sōciōbīolo̊gicål</td><td>soci-o-bi-o-log-ic-al</td><td>sōci-ō-bī-o-lo̊g-ic-ål</td><td>a. 社会生物学的</td></tr>
+<tr><td>sociobiological</td><td>sōciōbīo̊logicål</td><td>soci-o-bi-o-log-ic-al</td><td>sōci-ō-bī-o̊-log-ic-ål</td><td>a. 社会生物学的</td></tr>
 <tr><td>bionic</td><td>bīonic</td><td>bion-ic</td><td>bīon-ic</td><td>a. 仿生的, 超越人力的</td></tr>
 <tr><td>bionics</td><td>bīonics</td><td>bion-ics</td><td>bīon-ics</td><td>n. 仿生学</td></tr>
-<tr><td>symbiosis</td><td>sẏmbīōsi̊s</td><td>sym-bio-sis</td><td>sẏm-bīō-si̊s</td><td>n. 共生, 共栖</td></tr>
+<tr><td>symbiosis</td><td>sẏmbīōsis</td><td>sym-bio-sis</td><td>sẏm-bīō-sis</td><td>n. 共生, 共栖</td></tr>
 <tr><td>anabiosis</td><td>anåbīōsis</td><td>an-a-bio-sis</td><td>an-å-bīō-sis</td><td>n. 复苏, 回生</td></tr>
-<tr><td>biota</td><td>bīōtå</td><td>biot-a</td><td>bīōt-å</td><td>n. 生物群, 生物区系</td></tr>
+<tr><td>biota</td><td>bīōtà</td><td>biot-a</td><td>bīōt-à</td><td>n. 生物群, 生物区系</td></tr>
 <tr><td>biotic</td><td>bīotic</td><td>biot-ic</td><td>bīot-ic</td><td>a. 生物的, 生命的</td></tr>
-<tr><td>biotin</td><td>bīo̊ti̊n</td><td>biot-in</td><td>bīo̊t-i̊n</td><td>n. 生物素</td></tr>
+<tr><td>biotin</td><td>bīōtin</td><td>biot-in</td><td>bīōt-in</td><td>n. 生物素</td></tr>
 <tr><td>abiotic</td><td>ābīotic</td><td>a-biot-ic</td><td>ā-bīot-ic</td><td>a. 非生物的, 无生命的</td></tr>
 <tr><td>antibiotic</td><td>antibīotic</td><td>anti-biot-ic</td><td>anti-bīot-ic</td><td>n. 抗生素<br>a. 抗生的</td></tr>
 <tr><td>antibiotics</td><td>antibīotics</td><td>anti-biot-ic-s</td><td>anti-bīot-ic-s</td><td>n. 抗生素</td></tr>
-<tr><td>macrobiotic</td><td>macrōbīotic</td><td>macro-biot-ic</td><td>macrō-bīot-ic</td><td>a. 长寿饮食法的, 益寿的</td></tr>
-<tr><td>prebiotic</td><td>prēbīotic</td><td>pre-biot-ic</td><td>prē-bīot-ic</td><td>a. 生命起源以前的</td></tr>
-<tr><td>probiotic</td><td>pro̊bīotic</td><td>pro-biot-ic</td><td>pro̊-bīot-ic</td><td>n. 益生菌</td></tr>
-<tr><td>symbiotic</td><td>sẏmbiotic</td><td>sym-biot-ic</td><td>sẏm-biot-ic</td><td>a. 共生的, 共栖的</td></tr>
-<tr><td>symbiotically</td><td>sẏmbīōticållẏ</td><td>sym-biot-ic-al-ly</td><td>sẏm-bīōt-ic-ål-lẏ</td><td>adv. 共生地</td></tr>
+<tr><td>macrobiotic</td><td>macro̊bīotic</td><td>macro-biot-ic</td><td>macro̊-bīot-ic</td><td>a. 长寿饮食法的, 益寿的</td></tr>
+<tr><td>prebiotic</td><td>prėbīotic</td><td>pre-biot-ic</td><td>prė-bīot-ic</td><td>a. 生命起源以前的</td></tr>
+<tr><td>probiotic</td><td>prōbīotic</td><td>pro-biot-ic</td><td>prō-bīot-ic</td><td>n. 益生菌</td></tr>
+<tr><td>symbiotic</td><td>sẏmbīotic</td><td>sym-biot-ic</td><td>sẏm-bīot-ic</td><td>a. 共生的, 共栖的</td></tr>
+<tr><td>symbiotically</td><td>sẏmbīoticållẏ</td><td>sym-biot-ic-al-ly</td><td>sẏm-bīot-ic-ål-lẏ</td><td>adv. 共生地</td></tr>
 <tr><td>birch</td><td>bi̊rch</td><td>birch</td><td>bi̊rch</td><td>n. 桦树, 桦木<br>vt. 用桦条鞭打</td></tr>
 <tr><td>birchbark</td><td>bi̊rchbàrk</td><td>birch-bark</td><td>bi̊rch-bàrk</td><td>n. 桦皮舟</td></tr>
 <tr><td>bird</td><td>bi̊rd</td><td>bird</td><td>bi̊rd</td><td>n. 鸟, 禽类</td></tr>
@@ -1141,7 +1141,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>birdcall</td><td>bi̊rdcãll</td><td>bird-call</td><td>bi̊rd-cãll</td><td>n. 鸟叫声, 模仿的鸟叫</td></tr>
 <tr><td>birder</td><td>bi̊rde̊r</td><td>bird-er</td><td>bi̊rd-e̊r</td><td>n. 观鸟者</td></tr>
 <tr><td>birdhouse</td><td>bi̊rdhòuse</td><td>bird-house</td><td>bi̊rd-hòuse</td><td>n. 鸟舍, 鸟屋</td></tr>
-<tr><td>birdie</td><td>bi̊rdiē</td><td>bird-ie</td><td>bi̊rd-iē</td><td>n. 小鸟, (高尔夫)低于标准杆一杆</td></tr>
+<tr><td>birdie</td><td>bi̊rdie</td><td>bird-ie</td><td>bi̊rd-ie</td><td>n. 小鸟, (高尔夫)低于标准杆一杆</td></tr>
 <tr><td>birding</td><td>bi̊rding</td><td>bird-ing</td><td>bi̊rd-ing</td><td>n. 观鸟</td></tr>
 <tr><td>birdlife</td><td>bi̊rdlīfe</td><td>bird-life</td><td>bi̊rd-līfe</td><td>n. 鸟类, 鸟类生活</td></tr>
 <tr><td>birdlike</td><td>bi̊rdlīke</td><td>bird-like</td><td>bi̊rd-līke</td><td>a. 似鸟的, 轻盈的</td></tr>
@@ -1149,7 +1149,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>birdseed</td><td>bi̊rdsēed</td><td>bird-seed</td><td>bi̊rd-sēed</td><td>n. 鸟食</td></tr>
 <tr><td>birdshot</td><td>bi̊rdshot</td><td>bird-shot</td><td>bi̊rd-shot</td><td>n. 小号铅弹, 鸟弹</td></tr>
 <tr><td>birdsong</td><td>bi̊rdsong</td><td>bird-song</td><td>bi̊rd-song</td><td>n. 鸟鸣声</td></tr>
-<tr><td>birdwatch</td><td>bi̊rdwàtch</td><td>bird-watch</td><td>bi̊rd-wàtch</td><td>v. 观鸟, 观察野生鸟类</td></tr>
+<tr><td>birdwatch</td><td>bi̊rdwãtch</td><td>bird-watch</td><td>bi̊rd-wãtch</td><td>v. 观鸟, 观察野生鸟类</td></tr>
 <tr><td>birdy</td><td>bi̊rdẏ</td><td>bird-y</td><td>bi̊rd-ẏ</td><td>a. 如鸟的, 多鸟的</td></tr>
 <tr><td>bowerbird</td><td>bòwe̊rbi̊rd</td><td>bower-bird</td><td>bòwe̊r-bi̊rd</td><td>n. 园丁鸟(产于澳洲和新几内亚)</td></tr>
 <tr><td>catbird</td><td>catbi̊rd</td><td>cat-bird</td><td>cat-bi̊rd</td><td>n. 北美猫鸟</td></tr>
@@ -1166,19 +1166,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>birthmark</td><td>bi̊rthmàrk</td><td>birth-mark</td><td>bi̊rth-màrk</td><td>n. 胎记</td></tr>
 <tr><td>birthplace</td><td>bi̊rthplāce</td><td>birth-place</td><td>bi̊rth-plāce</td><td>n. 诞生地, 发源地</td></tr>
 <tr><td>birthrate</td><td>bi̊rthrāte</td><td>birth-rate</td><td>bi̊rth-rāte</td><td>n. 出生率</td></tr>
-<tr><td>birthright</td><td>bi̊rthrīght</td><td>birth-right</td><td>bi̊rth-rīght</td><td>n. 生来就有的权利, 长子继承权</td></tr>
+<tr><td>birthright</td><td>bi̊rthrī𝕘𝕙t</td><td>birth-right</td><td>bi̊rth-rī𝕘𝕙t</td><td>n. 生来就有的权利, 长子继承权</td></tr>
 <tr><td>births</td><td>bi̊rths</td><td>birth-s</td><td>bi̊rth-s</td><td></td></tr>
 <tr><td>birthdays</td><td>bi̊rthdāyṡ</td><td>birth-day-s</td><td>bi̊rth-dāy-ṡ</td><td></td></tr>
-<tr><td>rebirth</td><td>rēbi̊rth</td><td>re-birth</td><td>rē-bi̊rth</td><td>n. 新生, 重生</td></tr>
+<tr><td>rebirth</td><td>rėbi̊rth</td><td>re-birth</td><td>rė-bi̊rth</td><td>n. 新生, 重生</td></tr>
 <tr><td>bis</td><td>bis</td><td>bis</td><td>bis</td><td>adv. 再来一次</td></tr>
 <tr><td>biscuit</td><td>bisc𝕦it</td><td>bis-cuit</td><td>bis-c𝕦it</td><td>n. 饼干</td></tr>
 <tr><td>bishop</td><td>bisho̊p</td><td>bish-op</td><td>bish-o̊p</td><td>n. 主教, (国际象棋中的) 象</td></tr>
 <tr><td>bishopric</td><td>bisho̊pric</td><td>bish-op-ric</td><td>bish-o̊p-ric</td><td>n. 主教辖区, 主教职位</td></tr>
 <tr><td>archbishop</td><td>àrchbisho̊p</td><td>arch-bish-op</td><td>àrch-bish-o̊p</td><td>n. 大主教</td></tr>
-<tr><td>bismuth</td><td>biṡmûth</td><td>bismuth</td><td>biṡmûth</td><td>n. 铋（金属元素）</td></tr>
+<tr><td>bismuth</td><td>biṡmůth</td><td>bismuth</td><td>biṡmůth</td><td>n. 铋（金属元素）</td></tr>
 <tr><td>bison</td><td>bīso̊n</td><td>bison</td><td>bīso̊n</td><td>n. 野牛, 美洲野牛</td></tr>
-<tr><td>bisque</td><td>bisq𝕦e</td><td>bisque</td><td>bisq𝕦e</td><td>n. 浓汤, 海鲜奶油汤</td></tr>
-<tr><td>bistro</td><td>bistrō</td><td>bistro</td><td>bistrō</td><td>n. 小餐馆, 夜总会</td></tr>
+<tr><td>bisque</td><td>bĩsque</td><td>bisque</td><td>bĩsque</td><td>n. 浓汤, 海鲜奶油汤</td></tr>
+<tr><td>bistro</td><td>bĩstrō</td><td>bistro</td><td>bĩstrō</td><td>n. 小餐馆, 夜总会</td></tr>
 <tr><td>bit</td><td>bit</td><td>bit</td><td>bit</td><td>n. 少量, 一点儿</td></tr>
 <tr><td>biter</td><td>bīte̊r</td><td>bit-er</td><td>bīt-e̊r</td><td>n. 咬人的人(或动物), 骗子</td></tr>
 <tr><td>biting</td><td>bīting</td><td>bit-ing</td><td>bīt-ing</td><td>a. 刺骨的, 尖锐的, 辛辣的</td></tr>
@@ -1196,7 +1196,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bitches</td><td>bitchėṡ</td><td>bitch-es</td><td>bitch-ėṡ</td><td></td></tr>
 <tr><td>bitching</td><td>bitching</td><td>bitch-ing</td><td>bitch-ing</td><td>v. 抱怨, 发牢骚</td></tr>
 <tr><td>bitchy</td><td>bitchẏ</td><td>bitch-y</td><td>bitch-ẏ</td><td>a. 恶毒的, 好挑剔的</td></tr>
-<tr><td>bitchiness</td><td>bitchine̊ss</td><td>bitch-i-ness</td><td>bitch-i-ne̊ss</td><td>n. 坏脾气</td></tr>
+<tr><td>bitchiness</td><td>bitchinėss</td><td>bitch-i-ness</td><td>bitch-i-nėss</td><td>n. 坏脾气</td></tr>
 <tr><td>bite</td><td>bīte</td><td>bite</td><td>bīte</td><td>n. 咬, 一口<br>v. 咬, 刺痛, 穿透</td></tr>
 <tr><td>bitten</td><td>bitte̊n</td><td>bitten</td><td>bitte̊n</td><td></td></tr>
 <tr><td>bites</td><td>bīt𝕖s</td><td>bite-s</td><td>bīt𝕖-s</td><td></td></tr>
@@ -1210,11 +1210,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>embittered</td><td>embitte̊r𝕖d</td><td>em-bitt-er-ed</td><td>em-bitt-e̊r-𝕖d</td><td>a. 愤恨的, 怨恨的</td></tr>
 <tr><td>bittern</td><td>bitte̊rn</td><td>bittern</td><td>bitte̊rn</td><td>n. 麻鸦<br>n. 盐卤</td></tr>
 <tr><td>bitumen</td><td>bitūme̊n</td><td>bitumen</td><td>bitūme̊n</td><td>n. 沥青</td></tr>
-<tr><td>bituminous</td><td>bitūmi̊no̊us</td><td>bitumin-ous</td><td>bitūmi̊n-o̊us</td><td>a. 含沥青的</td></tr>
+<tr><td>bituminous</td><td>bītūmino̊us</td><td>bitumin-ous</td><td>bītūmin-o̊us</td><td>a. 含沥青的</td></tr>
 <tr><td>bivouac</td><td>bivoūac</td><td>bivouac</td><td>bivoūac</td><td>n. 露营, 野营<br>v. 露宿</td></tr>
 <tr><td>biz</td><td>biz</td><td>biz</td><td>biz</td><td>n. 商业, 生意</td></tr>
-<tr><td>bizarre</td><td>bi̊zàrre</td><td>bizarre</td><td>bi̊zàrre</td><td>a. 奇异的, 古怪的</td></tr>
-<tr><td>bizarrely</td><td>bizàrrelẏ</td><td>bizarre-ly</td><td>bizàrre-lẏ</td><td>adv. 奇怪地, 古怪地</td></tr>
+<tr><td>bizarre</td><td>bizàrre</td><td>bizarre</td><td>bizàrre</td><td>a. 奇异的, 古怪的</td></tr>
+<tr><td>bizarrely</td><td>bizàrr𝕖lẏ</td><td>bizarre-ly</td><td>bizàrr𝕖-lẏ</td><td>adv. 奇怪地, 古怪地</td></tr>
 <tr><td>bizarreness</td><td>bizàrr𝕖nėss</td><td>bizarre-ness</td><td>bizàrr𝕖-nėss</td><td>n. 稀奇古怪, 怪异</td></tr>
 <tr><td>blab</td><td>blab</td><td>blab</td><td>blab</td><td>v. 泄漏, 胡扯</td></tr>
 <tr><td>black</td><td>black</td><td>black</td><td>black</td><td>a. 黑色的<br>n. 黑色, 黑人</td></tr>
@@ -1234,7 +1234,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blacklist</td><td>blacklist</td><td>black-list</td><td>black-list</td><td>n. 黑名单<br>v. 列入黑名单</td></tr>
 <tr><td>blackly</td><td>blacklẏ</td><td>black-ly</td><td>black-lẏ</td><td>adv. 黑暗地, 阴沉地</td></tr>
 <tr><td>blackmail</td><td>blackmāil</td><td>black-mail</td><td>black-māil</td><td>n. 勒索<br>vt. 勒索</td></tr>
-<tr><td>blackness</td><td>blackne̊ss</td><td>black-ness</td><td>black-ne̊ss</td><td>n. 黑色, 黑暗</td></tr>
+<tr><td>blackness</td><td>blacknėss</td><td>black-ness</td><td>black-nėss</td><td>n. 黑色, 黑暗</td></tr>
 <tr><td>blackout</td><td>blackòut</td><td>black-out</td><td>black-òut</td><td>n. 停电, 灯火管制, 暂时失去知觉</td></tr>
 <tr><td>blacktail</td><td>blacktāil</td><td>black-tail</td><td>black-tāil</td><td>n. 黑尾鹿</td></tr>
 <tr><td>blacktop</td><td>blacktop</td><td>black-top</td><td>black-top</td><td>n. 沥青, 柏油路</td></tr>
@@ -1243,12 +1243,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blacklisted</td><td>blacklistėd</td><td>black-list-ed</td><td>black-list-ėd</td><td>v. 把（某人）列入黑名单( blacklist的过去式 )</td></tr>
 <tr><td>blackmailer</td><td>blackmāile̊r</td><td>black-mail-er</td><td>black-māil-e̊r</td><td>n. 勒索者, 敲诈者</td></tr>
 <tr><td>blackening</td><td>blacke̊ning</td><td>black-en-ing</td><td>black-e̊n-ing</td><td>n. 变黑, 发黑</td></tr>
-<tr><td>black-and-white</td><td>black-ånd-w𝕙īte</td><td>black-and-white</td><td>black-ånd-w𝕙īte</td><td>a. 黑白的</td></tr>
-<tr><td>blackberry</td><td>blackberrẏ</td><td>black-berr-y</td><td>black-berr-ẏ</td><td>n. 黑莓</td></tr>
+<tr><td>black-and-white</td><td>black-and-w𝕙īte</td><td>black-and-white</td><td>black-and-w𝕙īte</td><td>a. 黑白的</td></tr>
+<tr><td>blackberry</td><td>blackbe̊rrẏ</td><td>black-berr-y</td><td>black-be̊rr-ẏ</td><td>n. 黑莓</td></tr>
 <tr><td>anti-black</td><td>anti-black</td><td>anti-black</td><td>anti-black</td><td>a. 反黑人的</td></tr>
 <tr><td>blade</td><td>blāde</td><td>blade</td><td>blāde</td><td>n. 叶片, 刀片, 刀刃, 剑</td></tr>
 <tr><td>bladed</td><td>blādėd</td><td>blad-ed</td><td>blād-ėd</td><td>a. 有叶片的, 有刀刃的</td></tr>
-<tr><td>blader</td><td>blade̊r</td><td>blad-er</td><td>blad-e̊r</td><td>n. 滑冰者, 推土机</td></tr>
+<tr><td>blader</td><td>blāde̊r</td><td>blad-er</td><td>blād-e̊r</td><td>n. 滑冰者, 推土机</td></tr>
 <tr><td>blades</td><td>blād𝕖ṡ</td><td>blade-s</td><td>blād𝕖-ṡ</td><td></td></tr>
 <tr><td>bladder</td><td>bladde̊r</td><td>bladd-er</td><td>bladd-e̊r</td><td>n. 膀胱, 囊</td></tr>
 <tr><td>bladders</td><td>bladde̊rṡ</td><td>bladd-er-s</td><td>bladd-e̊r-ṡ</td><td></td></tr>
@@ -1259,31 +1259,31 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blaming</td><td>blāming</td><td>blam-ing</td><td>blām-ing</td><td>v. 责备, 归咎于 (blame的现在分词)</td></tr>
 <tr><td>blameless</td><td>blām𝕖lėss</td><td>blame-less</td><td>blām𝕖-lėss</td><td>a. 无可指责的, 清白的</td></tr>
 <tr><td>blames</td><td>blām𝕖ṡ</td><td>blame-s</td><td>blām𝕖-ṡ</td><td></td></tr>
-<tr><td>blameworthy</td><td>blāmewo̊rṫhẏ</td><td>blame-worth-y</td><td>blāme-wo̊rṫh-ẏ</td><td>a. 该受责备的, 应受谴责的</td></tr>
+<tr><td>blameworthy</td><td>blām𝕖wo̊rṫhẏ</td><td>blame-worth-y</td><td>blām𝕖-wo̊rṫh-ẏ</td><td>a. 该受责备的, 应受谴责的</td></tr>
 <tr><td>blanch</td><td>blanch</td><td>blanch</td><td>blanch</td><td>vt. 漂白, 使变白<br>vi. 发白</td></tr>
 <tr><td>blanched</td><td>blanch𝕖ḋ</td><td>blanch-ed</td><td>blanch-𝕖ḋ</td><td>v. 使变白, 焯水 (blanch的过去式)<br>a. 苍白的, 焯过水的</td></tr>
 <tr><td>bland</td><td>bland</td><td>bland</td><td>bland</td><td>a. 乏味的, 温和的, 清淡的</td></tr>
 <tr><td>blandly</td><td>blandlẏ</td><td>bland-ly</td><td>bland-lẏ</td><td>adv. 温和地, 柔和地</td></tr>
-<tr><td>blandness</td><td>blandne̊ss</td><td>bland-ness</td><td>bland-ne̊ss</td><td>n. 温和, 平淡</td></tr>
+<tr><td>blandness</td><td>blandnėss</td><td>bland-ness</td><td>bland-nėss</td><td>n. 温和, 平淡</td></tr>
 <tr><td>blandishment</td><td>blandishme̊nt</td><td>bland-ish-ment</td><td>bland-ish-me̊nt</td><td>n. 甜言蜜语, 奉承</td></tr>
 <tr><td>blandishments</td><td>blandishme̊nts</td><td>bland-ish-ment-s</td><td>bland-ish-me̊nt-s</td><td>n. 哄骗, 劝诱</td></tr>
 <tr><td>blank</td><td>blank</td><td>blank</td><td>blank</td><td>a. 空白的, 空虚的<br>n. 空白, 空格</td></tr>
 <tr><td>blanket</td><td>blankėt</td><td>blank-et</td><td>blank-ėt</td><td>n. 毯子, 毛毯<br>vt. 覆盖, 笼罩</td></tr>
 <tr><td>blankly</td><td>blanklẏ</td><td>blank-ly</td><td>blank-lẏ</td><td>adv. 茫然地, 毫无表情地</td></tr>
 <tr><td>blankness</td><td>blanknėss</td><td>blank-ness</td><td>blank-nėss</td><td>n. 空白, 空虚, 茫然</td></tr>
-<tr><td>blanketed</td><td>blanke̊tėd</td><td>blank-et-ed</td><td>blank-e̊t-ėd</td><td>a. 覆盖的, 笼罩的</td></tr>
+<tr><td>blanketed</td><td>blankėtėd</td><td>blank-et-ed</td><td>blank-ėt-ėd</td><td>a. 覆盖的, 笼罩的</td></tr>
 <tr><td>blankets</td><td>blankėts</td><td>blank-et-s</td><td>blank-ėt-s</td><td></td></tr>
-<tr><td>blare</td><td>blare</td><td>blare</td><td>blare</td><td>v. 发出刺耳声<br>n. 刺耳的响声</td></tr>
-<tr><td>blaring</td><td>blaring</td><td>blar-ing</td><td>blar-ing</td><td>a. 刺耳的, 响亮的</td></tr>
+<tr><td>blare</td><td>blāre</td><td>blare</td><td>blāre</td><td>v. 发出刺耳声<br>n. 刺耳的响声</td></tr>
+<tr><td>blaring</td><td>blāring</td><td>blar-ing</td><td>blār-ing</td><td>a. 刺耳的, 响亮的</td></tr>
 <tr><td>blarney</td><td>blàrnėy</td><td>blarney</td><td>blàrnėy</td><td>n. 奉承话<br>v. 谄媚, 阿谀</td></tr>
 <tr><td>blasé</td><td>blàṡé</td><td>blasé</td><td>blàṡé</td><td>a. 厌倦的, 无动于衷的</td></tr>
-<tr><td>blase</td><td>blāṡe</td><td>blase</td><td>blāṡe</td><td>a. 厌倦的, 玩腻了的</td></tr>
+<tr><td>blase</td><td>blàṡè</td><td>blase</td><td>blàṡè</td><td>a. 厌倦的, 玩腻了的</td></tr>
 <tr><td>blaspheme</td><td>blasphēme</td><td>blaspheme</td><td>blasphēme</td><td>v. 亵渎</td></tr>
 <tr><td>blasphemer</td><td>blasphēme̊r</td><td>blasphem-er</td><td>blasphēm-e̊r</td><td>n. 亵渎者, 辱骂者</td></tr>
 <tr><td>blasphemous</td><td>blasphe̊mo̊us</td><td>blasphem-ous</td><td>blasphe̊m-o̊us</td><td>a. 亵渎神明的, 不敬的</td></tr>
 <tr><td>blasphemy</td><td>blasphe̊mẏ</td><td>blasphem-y</td><td>blasphe̊m-ẏ</td><td>n. 亵渎神明</td></tr>
 <tr><td>blast</td><td>blàst</td><td>blast</td><td>blàst</td><td>n. 爆炸, 一阵<br>vt. 爆炸, 猛烈批评<br>vi. 发出刺耳的声音</td></tr>
-<tr><td>blasted</td><td>blast𝕖d</td><td>blast-ed</td><td>blast-𝕖d</td><td>a. 枯萎的, 被破坏的, 被咒的</td></tr>
+<tr><td>blasted</td><td>blastėd</td><td>blast-ed</td><td>blast-ėd</td><td>a. 枯萎的, 被破坏的, 被咒的</td></tr>
 <tr><td>blaster</td><td>blaste̊r</td><td>blast-er</td><td>blast-e̊r</td><td>n. 爆破工, 爆炸装置</td></tr>
 <tr><td>blasting</td><td>blasting</td><td>blast-ing</td><td>blast-ing</td><td>n. 爆破<br>a. 爆破的</td></tr>
 <tr><td>blastoff</td><td>blastoff</td><td>blast-off</td><td>blast-off</td><td>n. 升空, 发射</td></tr>
@@ -1301,7 +1301,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blazingly</td><td>blāzinglẏ</td><td>blaz-ing-ly</td><td>blāz-ing-lẏ</td><td>adv. 极其, 非常</td></tr>
 <tr><td>blazers</td><td>blāze̊rṡ</td><td>blaz-er-s</td><td>blāz-e̊r-ṡ</td><td></td></tr>
 <tr><td>ablaze</td><td>åblāze</td><td>a-blaze</td><td>å-blāze</td><td>a. 着火的, 闪耀的, 激昂的</td></tr>
-<tr><td>blazon</td><td>blāzo̊n</td><td>blazon</td><td>blāzo̊n</td><td>n. 纹章<br>vt. 宣布, 装饰</td></tr>
+<tr><td>blazon</td><td>blāzon</td><td>blazon</td><td>blāzon</td><td>n. 纹章<br>vt. 宣布, 装饰</td></tr>
 <tr><td>emblazon</td><td>emblāzo̊n</td><td>em-blazon</td><td>em-blāzo̊n</td><td>vt. 用纹章装饰, 颂扬, 描绘</td></tr>
 <tr><td>bleach</td><td>blēach</td><td>bleach</td><td>blēach</td><td>vt. 漂白<br>vi. 变白<br>n. 漂白, 漂白剂</td></tr>
 <tr><td>bleached</td><td>blēach𝕖ḋ</td><td>bleach-ed</td><td>blēach-𝕖ḋ</td><td>a. 漂白的, 褪色的</td></tr>
@@ -1311,9 +1311,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bleak</td><td>blēak</td><td>bleak</td><td>blēak</td><td>a. 寒冷的, 阴冷的, 凄凉的</td></tr>
 <tr><td>bleakly</td><td>blēaklẏ</td><td>bleak-ly</td><td>blēak-lẏ</td><td>adv. 荒凉地, 阴郁地</td></tr>
 <tr><td>bleakness</td><td>blēaknėss</td><td>bleak-ness</td><td>blēak-nėss</td><td>n. 荒凉, 凄凉</td></tr>
-<tr><td>blear</td><td>blėår</td><td>blear</td><td>blėår</td><td>vt. 使模糊<br>a. 模糊的</td></tr>
+<tr><td>blear</td><td>blēar</td><td>blear</td><td>blēar</td><td>vt. 使模糊<br>a. 模糊的</td></tr>
 <tr><td>bleary</td><td>blēarẏ</td><td>blear-y</td><td>blēar-ẏ</td><td>a. 眼睛模糊的, 朦胧的, 视线不清的</td></tr>
-<tr><td>blearily</td><td>ble̊ari̊lẏ</td><td>blear-i-ly</td><td>ble̊ar-i̊-lẏ</td><td>adv. 模糊地, 朦胧地</td></tr>
+<tr><td>blearily</td><td>blēarilẏ</td><td>blear-i-ly</td><td>blēar-i-lẏ</td><td>adv. 模糊地, 朦胧地</td></tr>
 <tr><td>bleat</td><td>blēat</td><td>bleat</td><td>blēat</td><td>n. 羊叫声<br>vi. 咩咩叫</td></tr>
 <tr><td>bleating</td><td>blēating</td><td>bleat-ing</td><td>blēat-ing</td><td>v. （羊, 小牛）叫( bleat的现在分词 ); 哭诉; 发出羊叫似的声音; 轻声诉说</td></tr>
 <tr><td>bled</td><td>bled</td><td>bled</td><td>bled</td><td></td></tr>
@@ -1350,13 +1350,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blessed</td><td>bless𝕖ḋ</td><td>bless-ed</td><td>bless-𝕖ḋ</td><td>a. 受祝福的, 神圣的</td></tr>
 <tr><td>blesses</td><td>blessėṡ</td><td>bless-es</td><td>bless-ėṡ</td><td></td></tr>
 <tr><td>blessing</td><td>blessing</td><td>bless-ing</td><td>bless-ing</td><td>n. 祝福, 幸事</td></tr>
-<tr><td>blessedly</td><td>blesse̊dlẏ</td><td>bless-ed-ly</td><td>bless-e̊d-lẏ</td><td>adv. 幸福地, 神圣地</td></tr>
-<tr><td>blessedness</td><td>blesse̊dne̊ss</td><td>bless-ed-ness</td><td>bless-e̊d-ne̊ss</td><td>n. 幸福</td></tr>
+<tr><td>blessedly</td><td>blessėdlẏ</td><td>bless-ed-ly</td><td>bless-ėd-lẏ</td><td>adv. 幸福地, 神圣地</td></tr>
+<tr><td>blessedness</td><td>bless𝕖ḋnėss</td><td>bless-ed-ness</td><td>bless-𝕖ḋ-nėss</td><td>n. 幸福</td></tr>
 <tr><td>blessings</td><td>blessingṡ</td><td>bless-ing-s</td><td>bless-ing-ṡ</td><td></td></tr>
 <tr><td>bleu</td><td>bleū</td><td>bleu</td><td>bleū</td><td>n. 蓝纹奶酪<br>a. 蓝色的(法语)</td></tr>
 <tr><td>blight</td><td>blī𝕘𝕙t</td><td>blight</td><td>blī𝕘𝕙t</td><td>n. 枯萎病<br>vt. 使染上枯萎病, 破坏<br>vi. 枯萎</td></tr>
 <tr><td>blighted</td><td>blī𝕘𝕙tėd</td><td>blight-ed</td><td>blī𝕘𝕙t-ėd</td><td>v. 使枯萎, 损害 (blight的过去式)<br>a. 枯萎的, 损害的</td></tr>
-<tr><td>blighter</td><td>blīghte̊r</td><td>blight-er</td><td>blīght-e̊r</td><td>n. 讨厌的人, 家伙</td></tr>
+<tr><td>blighter</td><td>blī𝕘𝕙te̊r</td><td>blight-er</td><td>blī𝕘𝕙t-e̊r</td><td>n. 讨厌的人, 家伙</td></tr>
 <tr><td>blimey</td><td>blīmėy</td><td>blimey</td><td>blīmėy</td><td>int. 啊呀!</td></tr>
 <tr><td>blimp</td><td>blimp</td><td>blimp</td><td>blimp</td><td>n. 软式飞艇, 顽固的保守分子</td></tr>
 <tr><td>blind</td><td>blīnd</td><td>blind</td><td>blīnd</td><td>n. 蒙眼布, 百叶窗<br>a. 盲目的, 瞎的, 缺乏判断力的<br>vt. 使失明, 蒙蔽, 藏暗<br>adv. 盲目地</td></tr>
@@ -1366,7 +1366,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blindfold</td><td>blīndfōld</td><td>blind-fold</td><td>blīnd-fōld</td><td>n. 眼罩<br>vt. 蒙住眼睛<br>a. 盲目的</td></tr>
 <tr><td>blinding</td><td>blīnding</td><td>blind-ing</td><td>blīnd-ing</td><td>a. 眩目的, 令人失去判断力的</td></tr>
 <tr><td>blindly</td><td>blīndlẏ</td><td>blind-ly</td><td>blīnd-lẏ</td><td>adv. 轻率地, 盲目地</td></tr>
-<tr><td>blindness</td><td>blīndne̊ss</td><td>blind-ness</td><td>blīnd-ne̊ss</td><td>n. 盲目, 失明</td></tr>
+<tr><td>blindness</td><td>blīndnėss</td><td>blind-ness</td><td>blīnd-nėss</td><td>n. 盲目, 失明</td></tr>
 <tr><td>blindfolded</td><td>blīndfōldėd</td><td>blind-fold-ed</td><td>blīnd-fōld-ėd</td><td>vt. 蒙住眼睛<br>a. 被蒙住眼的</td></tr>
 <tr><td>blindingly</td><td>blīndinglẏ</td><td>blind-ing-ly</td><td>blīnd-ing-lẏ</td><td>adv. 极其, 非常, 令人目眩地</td></tr>
 <tr><td>blinders</td><td>blīnde̊rṡ</td><td>blind-er-s</td><td>blīnd-e̊r-ṡ</td><td>n. 马眼罩</td></tr>
@@ -1379,7 +1379,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blinking</td><td>blinking</td><td>blink-ing</td><td>blink-ing</td><td>a. 眨眼的, 闪烁的</td></tr>
 <tr><td>blinks</td><td>blinks</td><td>blink-s</td><td>blink-s</td><td></td></tr>
 <tr><td>blinkered</td><td>blinke̊r𝕖d</td><td>blink-er-ed</td><td>blink-e̊r-𝕖d</td><td>a. 视野狭隘的, 戴眼罩的</td></tr>
-<tr><td>blinkers</td><td>blinke̊rs</td><td>blink-er-s</td><td>blink-e̊r-s</td><td>n. 马眼罩, 转向灯</td></tr>
+<tr><td>blinkers</td><td>blinke̊rṡ</td><td>blink-er-s</td><td>blink-e̊r-ṡ</td><td>n. 马眼罩, 转向灯</td></tr>
 <tr><td>unblinking</td><td>ûnblinking</td><td>un-blink-ing</td><td>ûn-blink-ing</td><td>a. 不眨眼的, 坚定的</td></tr>
 <tr><td>unblinkingly</td><td>ûnblinkinglẏ</td><td>un-blink-ing-ly</td><td>ûn-blink-ing-lẏ</td><td>adv. 不眨眼地, 毫不畏惧地</td></tr>
 <tr><td>blip</td><td>blip</td><td>blip</td><td>blip</td><td>n. 光点, 小变化</td></tr>
@@ -1390,8 +1390,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blistered</td><td>bliste̊r𝕖d</td><td>blist-er-ed</td><td>blist-e̊r-𝕖d</td><td>v. 起水泡(blister的过去式和过去分词)<br>a. 起水泡的</td></tr>
 <tr><td>blistering</td><td>bliste̊ring</td><td>blist-er-ing</td><td>blist-e̊r-ing</td><td>a. 极热的, 极快的</td></tr>
 <tr><td>blithe</td><td>blīṫhe</td><td>blithe</td><td>blīṫhe</td><td>a. 愉快的, 快乐的</td></tr>
-<tr><td>blithely</td><td>blīth𝕖lẏ</td><td>blithe-ly</td><td>blīth𝕖-lẏ</td><td>adv. 快乐地, 轻率地</td></tr>
-<tr><td>blithesome</td><td>blīṫh𝕖so̊me</td><td>blithe-some</td><td>blīṫh𝕖-so̊me</td><td>a. 愉快的, 高兴的</td></tr>
+<tr><td>blithely</td><td>blīṫh𝕖lẏ</td><td>blithe-ly</td><td>blīṫh𝕖-lẏ</td><td>adv. 快乐地, 轻率地</td></tr>
+<tr><td>blithesome</td><td>blīṫh𝕖sôme</td><td>blithe-some</td><td>blīṫh𝕖-sôme</td><td>a. 愉快的, 高兴的</td></tr>
 <tr><td>blithering</td><td>bliṫhe̊ring</td><td>blith-er-ing</td><td>bliṫh-e̊r-ing</td><td>a. 唠叨不已的, 胡扯的</td></tr>
 <tr><td>blitz</td><td>blitz</td><td>blitz</td><td>blitz</td><td>n. 闪电战<br>vt. 以闪电战攻击</td></tr>
 <tr><td>blitzkrieg</td><td>blitzkriēg</td><td>blitz-krieg</td><td>blitz-kriēg</td><td>n. 闪电战, 突然袭击</td></tr>
@@ -1413,37 +1413,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blocks</td><td>blocks</td><td>block-s</td><td>block-s</td><td></td></tr>
 <tr><td>blocky</td><td>blockẏ</td><td>block-y</td><td>block-ẏ</td><td>a. 块状的, 矮胖的</td></tr>
 <tr><td>unblock</td><td>ûnblock</td><td>un-block</td><td>ûn-block</td><td>vt. 解除封锁, 清除障碍</td></tr>
-<tr><td>unblocked</td><td>ûnblock𝕖d</td><td>un-block-ed</td><td>ûn-block-𝕖d</td><td>v. 解除阻塞, 畅通</td></tr>
+<tr><td>unblocked</td><td>ûnblock𝕖ḋ</td><td>un-block-ed</td><td>ûn-block-𝕖ḋ</td><td>v. 解除阻塞, 畅通</td></tr>
 <tr><td>blog</td><td>blog</td><td>blog</td><td>blog</td><td>n. 博客</td></tr>
 <tr><td>blogger</td><td>blogge̊r</td><td>blogg-er</td><td>blogg-e̊r</td><td>n. 写博客的人；博客使用者</td></tr>
 <tr><td>blogging</td><td>blogging</td><td>blogg-ing</td><td>blogg-ing</td><td>n. 写博客, 博客写作</td></tr>
 <tr><td>blogs</td><td>blogṡ</td><td>blog-s</td><td>blog-ṡ</td><td></td></tr>
-<tr><td>blogosphere</td><td>blogosphēre</td><td>blog-o-sphere</td><td>blog-o-sphēre</td><td>n. 博客世界</td></tr>
+<tr><td>blogosphere</td><td>blogo̊sphēre</td><td>blog-o-sphere</td><td>blog-o̊-sphēre</td><td>n. 博客世界</td></tr>
 <tr><td>bloke</td><td>blōke</td><td>bloke</td><td>blōke</td><td>n. 家伙, 老兄</td></tr>
 <tr><td>blond</td><td>blond</td><td>blond</td><td>blond</td><td>a. 金发的<br>n. 金发的人</td></tr>
 <tr><td>blonde</td><td>blonde</td><td>blond-e</td><td>blond-e</td><td>a. 金发的<br>n. 金发女郎</td></tr>
 <tr><td>blonder</td><td>blonde̊r</td><td>blond-er</td><td>blond-e̊r</td><td></td></tr>
 <tr><td>blondest</td><td>blondėst</td><td>blond-est</td><td>blond-ėst</td><td></td></tr>
 <tr><td>blondish</td><td>blondish</td><td>blond-ish</td><td>blond-ish</td><td>a. 略带金色的, 浅色的</td></tr>
-<tr><td>blondness</td><td>blondne̊ss</td><td>blond-ness</td><td>blond-ne̊ss</td><td>n. 金发, 浅色</td></tr>
+<tr><td>blondness</td><td>blondnėss</td><td>blond-ness</td><td>blond-nėss</td><td>n. 金发, 浅色</td></tr>
 <tr><td>blondes</td><td>blond𝕖ṡ</td><td>blond-e-s</td><td>blond-𝕖-ṡ</td><td></td></tr>
 <tr><td>blood</td><td>blôod</td><td>blood</td><td>blôod</td><td>n. 血, 血液, 血统</td></tr>
 <tr><td>bloodbath</td><td>blôodbath</td><td>blood-bath</td><td>blôod-bath</td><td>n. 大屠杀</td></tr>
 <tr><td>blooded</td><td>blôodėd</td><td>blood-ed</td><td>blôod-ėd</td><td>a. 纯种的, 血统优良的</td></tr>
 <tr><td>bloodhound</td><td>blôodhòund</td><td>blood-hound</td><td>blôod-hòund</td><td>n. 寻血猎犬, 侦探</td></tr>
-<tr><td>bloodless</td><td>blôodle̊ss</td><td>blood-less</td><td>blôod-le̊ss</td><td>a. 不流血的, 无血色的</td></tr>
+<tr><td>bloodless</td><td>blôodlėss</td><td>blood-less</td><td>blôod-lėss</td><td>a. 不流血的, 无血色的</td></tr>
 <tr><td>bloodline</td><td>blôodlīne</td><td>blood-line</td><td>blôod-līne</td><td>n. 血统, 种系</td></tr>
 <tr><td>bloodlust</td><td>blôodlûst</td><td>blood-lust</td><td>blôod-lûst</td><td>n. 杀戮欲</td></tr>
 <tr><td>bloodroot</td><td>blôodroot</td><td>blood-root</td><td>blôod-root</td><td>n. 美洲血根草</td></tr>
 <tr><td>bloods</td><td>blôodṡ</td><td>blood-s</td><td>blôod-ṡ</td><td></td></tr>
-<tr><td>bloodshed</td><td>blôodsh𝕖d</td><td>blood-shed</td><td>blôod-sh𝕖d</td><td>n. 流血, 杀戮</td></tr>
+<tr><td>bloodshed</td><td>blôodshed</td><td>blood-shed</td><td>blôod-shed</td><td>n. 流血, 杀戮</td></tr>
 <tr><td>bloodshot</td><td>blôodshot</td><td>blood-shot</td><td>blôod-shot</td><td>a. 充血的, 布满血丝的</td></tr>
 <tr><td>bloodstain</td><td>blôodstāin</td><td>blood-stain</td><td>blôod-stāin</td><td>n. 血迹</td></tr>
 <tr><td>bloodstream</td><td>blôodstrēam</td><td>blood-stream</td><td>blôod-strēam</td><td>n. 血流</td></tr>
 <tr><td>bloodsucker</td><td>blôodsûcke̊r</td><td>blood-sucker</td><td>blôod-sûcke̊r</td><td>n. 吸血动物, 水蛭, 剥削者</td></tr>
 <tr><td>bloodwork</td><td>blôodwo̊rk</td><td>blood-work</td><td>blôod-wo̊rk</td><td>n. 验血, 血液检查</td></tr>
 <tr><td>bloody</td><td>blôodẏ</td><td>blood-y</td><td>blôod-ẏ</td><td>a. 血腥的, 嗜杀的, 流血的<br>vt. 使流血</td></tr>
-<tr><td>bloodied</td><td>blôodĩ𝕖d</td><td>blood-i-ed</td><td>blôod-ĩ-𝕖d</td><td>a. 流血的, 血污的</td></tr>
+<tr><td>bloodied</td><td>blôodi𝕖d</td><td>blood-i-ed</td><td>blôod-i-𝕖d</td><td>a. 流血的, 血污的</td></tr>
 <tr><td>bloodier</td><td>blôodie̊r</td><td>blood-i-er</td><td>blôod-i-e̊r</td><td></td></tr>
 <tr><td>bloodiest</td><td>blôodiėst</td><td>blood-i-est</td><td>blôod-i-ėst</td><td></td></tr>
 <tr><td>bloodletting</td><td>blôodletting</td><td>blood-lett-ing</td><td>blôod-lett-ing</td><td>n. 放血, 杀戮</td></tr>
@@ -1481,7 +1481,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blowpipe</td><td>blōwpīpe</td><td>blow-pipe</td><td>blōw-pīpe</td><td>n. 吹管, 吹气管</td></tr>
 <tr><td>blows</td><td>blōwṡ</td><td>blow-s</td><td>blōw-ṡ</td><td></td></tr>
 <tr><td>blowtorch</td><td>blōwtorch</td><td>blow-torch</td><td>blōw-torch</td><td>n. 喷灯</td></tr>
-<tr><td>blowsy</td><td>blowṡẏ</td><td>blows-y</td><td>blowṡ-ẏ</td><td>a. 蓬乱的, 不整洁的</td></tr>
+<tr><td>blowsy</td><td>blòwṡẏ</td><td>blows-y</td><td>blòwṡ-ẏ</td><td>a. 蓬乱的, 不整洁的</td></tr>
 <tr><td>blowjobs</td><td>blōwjobṡ</td><td>blow-job-s</td><td>blōw-job-ṡ</td><td></td></tr>
 <tr><td>overblown</td><td>ōve̊rblōwn</td><td>over-blown</td><td>ōve̊r-blōwn</td><td>a. 盛开过的, 浮夸的</td></tr>
 <tr><td>blub</td><td>blûb</td><td>blub</td><td>blûb</td><td>v. 抽噎, 哭泣</td></tr>
@@ -1491,7 +1491,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blue</td><td>blūe</td><td>blue</td><td>blūe</td><td>a. 蓝色的, 忧郁的, 下流的<br>n. 蓝色</td></tr>
 <tr><td>bluebell</td><td>blū𝕖bell</td><td>blue-bell</td><td>blū𝕖-bell</td><td>n. 开蓝色铃状花的植物</td></tr>
 <tr><td>bluebird</td><td>blū𝕖bi̊rd</td><td>blue-bird</td><td>blū𝕖-bi̊rd</td><td>n. 蓝鸲, 蓝色鸣鸟</td></tr>
-<tr><td>bluebonnet</td><td>blū𝕖bonne̊t</td><td>blue-bonnet</td><td>blū𝕖-bonne̊t</td><td>n. 矢车菊, 蓝帽花（德州州花）</td></tr>
+<tr><td>bluebonnet</td><td>blū𝕖bonnėt</td><td>blue-bonnet</td><td>blū𝕖-bonnėt</td><td>n. 矢车菊, 蓝帽花（德州州花）</td></tr>
 <tr><td>bluebottle</td><td>blū𝕖bottle</td><td>blue-bottle</td><td>blū𝕖-bottle</td><td>n. 矢车菊, 丽蝇</td></tr>
 <tr><td>bluecoat</td><td>blū𝕖cōat</td><td>blue-coat</td><td>blū𝕖-cōat</td><td>n. 警察, 士兵</td></tr>
 <tr><td>blued</td><td>blū𝕖d</td><td>blu-ed</td><td>blū-𝕖d</td><td>v. 变蓝</td></tr>
@@ -1499,7 +1499,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bluest</td><td>blūėst</td><td>blu-est</td><td>blū-ėst</td><td></td></tr>
 <tr><td>bluefin</td><td>blū𝕖fin</td><td>blue-fin</td><td>blū𝕖-fin</td><td>n. 蓝鳍金枪鱼</td></tr>
 <tr><td>bluefish</td><td>blū𝕖fish</td><td>blue-fish</td><td>blū𝕖-fish</td><td>n. 蓝鱼</td></tr>
-<tr><td>bluegill</td><td>blū𝕖𝕘ill</td><td>blue-gill</td><td>blū𝕖-𝕘ill</td><td>n. 蓝鳃太阳鱼</td></tr>
+<tr><td>bluegill</td><td>blū𝕖gill</td><td>blue-gill</td><td>blū𝕖-gill</td><td>n. 蓝鳃太阳鱼</td></tr>
 <tr><td>bluegrass</td><td>blū𝕖grass</td><td>blue-grass</td><td>blū𝕖-grass</td><td>n. 六月禾, 早熟禾熟植物</td></tr>
 <tr><td>bluing</td><td>blūing</td><td>blu-ing</td><td>blū-ing</td><td>n. 蓝色漂白剂, 发蓝处理</td></tr>
 <tr><td>bluish</td><td>blūish</td><td>blu-ish</td><td>blū-ish</td><td>a. 带蓝色的</td></tr>
@@ -1508,7 +1508,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blueprint</td><td>blū𝕖print</td><td>blue-print</td><td>blū𝕖-print</td><td>n. 蓝图, 计划<br>vt. 制成蓝图</td></tr>
 <tr><td>bluestem</td><td>blū𝕖stem</td><td>blue-stem</td><td>blū𝕖-stem</td><td>n. 须芒草</td></tr>
 <tr><td>bluestone</td><td>blū𝕖stōne</td><td>blue-stone</td><td>blū𝕖-stōne</td><td>n. 蓝灰砂岩, 胆矾</td></tr>
-<tr><td>bluesy</td><td>blūeṡẏ</td><td>blues-y</td><td>blūeṡ-ẏ</td><td>a. 布鲁斯风格的</td></tr>
+<tr><td>bluesy</td><td>blū𝕖ṡẏ</td><td>blues-y</td><td>blū𝕖ṡ-ẏ</td><td>a. 布鲁斯风格的</td></tr>
 <tr><td>blue-collar</td><td></td><td>blue-coll-ar</td><td></td><td>a. 体力劳动的, 蓝领的</td></tr>
 <tr><td>bluestocking</td><td>blū𝕖stocking</td><td>blue-stock-ing</td><td>blū𝕖-stock-ing</td><td>n. 女学者, 女才子</td></tr>
 <tr><td>blueberry</td><td>blū𝕖berrẏ</td><td>blue-berr-y</td><td>blū𝕖-berr-ẏ</td><td>n. 蓝莓</td></tr>
@@ -1521,14 +1521,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>blunderbuss</td><td>blûnde̊rbûss</td><td>blund-er-buss</td><td>blûnd-e̊r-bûss</td><td>n. 老式的大口径短枪, 蠢才</td></tr>
 <tr><td>blundering</td><td>blûnde̊ring</td><td>blund-er-ing</td><td>blûnd-e̊r-ing</td><td>a. 粗笨的, 易犯错的</td></tr>
 <tr><td>blunt</td><td>blûnt</td><td>blunt</td><td>blûnt</td><td>a. 钝的, 坦率的, 直率的</td></tr>
-<tr><td>blunted</td><td>blûnt𝕖d</td><td>blunt-ed</td><td>blûnt-𝕖d</td><td>a. 变钝的, 减弱的</td></tr>
+<tr><td>blunted</td><td>blûntėd</td><td>blunt-ed</td><td>blûnt-ėd</td><td>a. 变钝的, 减弱的</td></tr>
 <tr><td>bluntly</td><td>blûntlẏ</td><td>blunt-ly</td><td>blûnt-lẏ</td><td>adv. 坦率地, 率直地</td></tr>
-<tr><td>bluntness</td><td>blûntne̊ss</td><td>blunt-ness</td><td>blûnt-ne̊ss</td><td>n. 率直, 直率, 迟钝</td></tr>
+<tr><td>bluntness</td><td>blûntnėss</td><td>blunt-ness</td><td>blûnt-nėss</td><td>n. 率直, 直率, 迟钝</td></tr>
 <tr><td>blur</td><td>blůr</td><td>blur</td><td>blůr</td><td>vt. 使模糊<br>n. 模糊</td></tr>
-<tr><td>blurred</td><td>blurr𝕖d</td><td>blurr-ed</td><td>blurr-𝕖d</td><td>a. 模糊不清的</td></tr>
-<tr><td>blurring</td><td>blurring</td><td>blurr-ing</td><td>blurr-ing</td><td>v. 变模糊, 使模糊</td></tr>
-<tr><td>blurry</td><td>blurrẏ</td><td>blurr-y</td><td>blurr-ẏ</td><td>a. 模糊的, 不清楚的</td></tr>
-<tr><td>blurriness</td><td>blurrine̊ss</td><td>blurr-i-ness</td><td>blurr-i-ne̊ss</td><td>n. 模糊, 不清晰</td></tr>
+<tr><td>blurred</td><td>blůrr𝕖d</td><td>blurr-ed</td><td>blůrr-𝕖d</td><td>a. 模糊不清的</td></tr>
+<tr><td>blurring</td><td>blůrring</td><td>blurr-ing</td><td>blůrr-ing</td><td>v. 变模糊, 使模糊</td></tr>
+<tr><td>blurry</td><td>blůrrẏ</td><td>blurr-y</td><td>blůrr-ẏ</td><td>a. 模糊的, 不清楚的</td></tr>
+<tr><td>blurriness</td><td>blůrrinėss</td><td>blurr-i-ness</td><td>blůrr-i-nėss</td><td>n. 模糊, 不清晰</td></tr>
 <tr><td>blurb</td><td>blůrb</td><td>blurb</td><td>blůrb</td><td>n. 推荐短评, 简介<br>vt. 推荐介绍</td></tr>
 <tr><td>blurt</td><td>blůrt</td><td>blurt</td><td>blůrt</td><td>vt. 脱口说出</td></tr>
 <tr><td>blush</td><td>blûsh</td><td>blush</td><td>blûsh</td><td>n. 脸红<br>vi. 脸红, 羞愧</td></tr>
@@ -1537,10 +1537,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bluster</td><td>blûste̊r</td><td>blust-er</td><td>blûst-e̊r</td><td>v. 咆哮, 恫吓<br>n. 狂风声, 大话</td></tr>
 <tr><td>blustery</td><td>blûste̊rẏ</td><td>blust-ery</td><td>blûst-e̊rẏ</td><td>a. 狂风大作的, 狂暴的</td></tr>
 <tr><td>blustering</td><td>blûste̊ring</td><td>blust-er-ing</td><td>blûst-e̊r-ing</td><td>a. 狂风大作的, 狂暴的</td></tr>
-<tr><td>boa</td><td>bōa</td><td>boa</td><td>bōa</td><td>n. 蟒蛇, 羽毛围巾</td></tr>
+<tr><td>boa</td><td>bōå</td><td>boa</td><td>bōå</td><td>n. 蟒蛇, 羽毛围巾</td></tr>
 <tr><td>boar</td><td>bōar</td><td>boar</td><td>bōar</td><td>n. 野猪, 公猪</td></tr>
 <tr><td>board</td><td>bōard</td><td>board</td><td>bōard</td><td>n. 木板, 委员会, 伙食<br>vt. 登上, 提供伙食</td></tr>
-<tr><td>boarded</td><td>bōard𝕖d</td><td>board-ed</td><td>bōard-𝕖d</td><td>v. 搭乘</td></tr>
+<tr><td>boarded</td><td>bōardėd</td><td>board-ed</td><td>bōard-ėd</td><td>v. 搭乘</td></tr>
 <tr><td>boarder</td><td>bōarde̊r</td><td>board-er</td><td>bōard-e̊r</td><td>n. 寄膳者, 寄膳宿者</td></tr>
 <tr><td>boarding</td><td>bōarding</td><td>board-ing</td><td>bōard-ing</td><td>n. 登机, 上船, 寄宿</td></tr>
 <tr><td>boardroom</td><td>bōardroom</td><td>board-room</td><td>bōard-room</td><td>n. 会议室, 董事会会议室</td></tr>
@@ -1571,7 +1571,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boastful</td><td>bōastfůl</td><td>boast-ful</td><td>bōast-fůl</td><td>a. 自夸的, 喜夸耀的, 吹牛的</td></tr>
 <tr><td>boasting</td><td>bōasting</td><td>boast-ing</td><td>bōast-ing</td><td>n. 吹嘘, 自夸</td></tr>
 <tr><td>boastfully</td><td>bōastfůllẏ</td><td>boast-ful-ly</td><td>bōast-fůl-lẏ</td><td>adv. 自夸地</td></tr>
-<tr><td>boastfulness</td><td>bōastfùlnėss</td><td>boast-ful-ness</td><td>bōast-fùl-nėss</td><td>n. 自吹自擂, 浮夸</td></tr>
+<tr><td>boastfulness</td><td>bōastfůlnėss</td><td>boast-ful-ness</td><td>bōast-fůl-nėss</td><td>n. 自吹自擂, 浮夸</td></tr>
 <tr><td>boat</td><td>bōat</td><td>boat</td><td>bōat</td><td>n. 船, 小船<br>vi. 乘船</td></tr>
 <tr><td>boater</td><td>bōate̊r</td><td>boat-er</td><td>bōat-e̊r</td><td>n. 船工, 硬草帽</td></tr>
 <tr><td>boathouse</td><td>bōathòuse</td><td>boat-house</td><td>bōat-hòuse</td><td>n. 船库</td></tr>
@@ -1579,7 +1579,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boatlift</td><td>bōatlift</td><td>boat-lift</td><td>bōat-lift</td><td>n. 海上撤离行动</td></tr>
 <tr><td>boatload</td><td>bōatlōad</td><td>boat-load</td><td>bōat-lōad</td><td>n. 一船载货量, 一船的旅客</td></tr>
 <tr><td>boatman</td><td>bōatmån</td><td>boat-man</td><td>bōat-mån</td><td>n. 船夫, 出租船者</td></tr>
-<tr><td>boatmen</td><td>bōatme̊n</td><td>boat-men</td><td>bōat-me̊n</td><td>n. 船夫们</td></tr>
+<tr><td>boatmen</td><td>bōatmen</td><td>boat-men</td><td>bōat-men</td><td>n. 船夫们</td></tr>
 <tr><td>boats</td><td>bōats</td><td>boat-s</td><td>bōat-s</td><td></td></tr>
 <tr><td>boatswain</td><td>bōatswāin</td><td>boat-swain</td><td>bōat-swāin</td><td>n. 水手长</td></tr>
 <tr><td>boatyard</td><td>bōatyàrd</td><td>boat-yard</td><td>bōat-yàrd</td><td>n. 船坞；造船厂</td></tr>
@@ -1592,49 +1592,49 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bobber</td><td>bobbe̊r</td><td>bobb-er</td><td>bobb-e̊r</td><td>n. 鱼漂</td></tr>
 <tr><td>bobbing</td><td>bobbing</td><td>bobb-ing</td><td>bobb-ing</td><td>a. 上下移动的</td></tr>
 <tr><td>bobble</td><td>bobble</td><td>bobb-le</td><td>bobb-le</td><td>n. 漏接, 失误</td></tr>
-<tr><td>bobsled</td><td>bobsl𝕖d</td><td>bob-sled</td><td>bob-sl𝕖d</td><td>n. 雪橇</td></tr>
+<tr><td>bobsled</td><td>bobsled</td><td>bob-sled</td><td>bob-sled</td><td>n. 雪橇</td></tr>
 <tr><td>bobsleigh</td><td>bobslèi𝕘𝕙</td><td>bob-sleigh</td><td>bob-slèi𝕘𝕙</td><td>n. 雪橇</td></tr>
 <tr><td>bobtail</td><td>bobtāil</td><td>bob-tail</td><td>bob-tāil</td><td>n. 短尾, 截尾动物</td></tr>
-<tr><td>bobwhite</td><td>bobwhīte</td><td>bob-white</td><td>bob-whīte</td><td>n. 山齿鹑（北美鹌鹑）</td></tr>
+<tr><td>bobwhite</td><td>bobw𝕙īte</td><td>bob-white</td><td>bob-w𝕙īte</td><td>n. 山齿鹑（北美鹌鹑）</td></tr>
 <tr><td>bobblehead</td><td>bobbl𝕖hèad</td><td>bobb-le-head</td><td>bobb-l𝕖-hèad</td><td>n. 摇头娃娃</td></tr>
 <tr><td>discombobulate</td><td>disco̊mbobūlāte</td><td>dis-com-bob-ul-ate</td><td>dis-co̊m-bob-ūl-āte</td><td>vt. 使困惑, 扰乱</td></tr>
-<tr><td>discombobulated</td><td>disco̊mbobūlāt𝕖d</td><td>dis-com-bob-ul-at-ed</td><td>dis-co̊m-bob-ūl-āt-𝕖d</td><td>a. 困惑的, 慌乱的</td></tr>
-<tr><td>bobbin</td><td>bobbi̊n</td><td>bobbin</td><td>bobbi̊n</td><td>n. 线轴, 缠线板, 缠线管<br>[电] 卷线轴</td></tr>
-<tr><td>bocce</td><td>bōccē</td><td>bocce</td><td>bōccē</td><td>n. 意大利地滚球</td></tr>
+<tr><td>discombobulated</td><td>disco̊mbobūlātėd</td><td>dis-com-bob-ul-at-ed</td><td>dis-co̊m-bob-ūl-āt-ėd</td><td>a. 困惑的, 慌乱的</td></tr>
+<tr><td>bobbin</td><td>bobbin</td><td>bobbin</td><td>bobbin</td><td>n. 线轴, 缠线板, 缠线管<br>[电] 卷线轴</td></tr>
+<tr><td>bocce</td><td>boccė</td><td>bocce</td><td>boccė</td><td>n. 意大利地滚球</td></tr>
 <tr><td>bod</td><td>bod</td><td>bod</td><td>bod</td><td>n. 人, 身体</td></tr>
 <tr><td>body</td><td>bodẏ</td><td>body</td><td>bodẏ</td><td>n. 身体, 主体, 团体</td></tr>
 <tr><td>bodyguard</td><td>bodẏg𝕦àrd</td><td>body-guard</td><td>bodẏ-g𝕦àrd</td><td>n. 保镖, 护卫</td></tr>
 <tr><td>bodies</td><td>bodi𝕖ṡ</td><td>bod-ies</td><td>bod-i𝕖ṡ</td><td></td></tr>
 <tr><td>boding</td><td>bōding</td><td>bod-ing</td><td>bōd-ing</td><td>a. 凶兆的<br>n. 预感, 凶兆</td></tr>
 <tr><td>bodywork</td><td>bodẏwo̊rk</td><td>body-work</td><td>bodẏ-wo̊rk</td><td>n. 车身</td></tr>
-<tr><td>bodybuilder</td><td>bodẏbuilde̊r</td><td>body-build-er</td><td>bodẏ-build-e̊r</td><td>n. 健美运动员</td></tr>
-<tr><td>bodacious</td><td>bōdācio̊us</td><td>bod-ac-ious</td><td>bōd-āc-io̊us</td><td>a. 大胆的, 惊人的</td></tr>
-<tr><td>body-building</td><td>bodẏ-building</td><td>body-build-ing</td><td>bodẏ-build-ing</td><td>n. 健身运动</td></tr>
-<tr><td>bodybuilding</td><td>bodẏbuilding</td><td>body-build-ing</td><td>bodẏ-build-ing</td><td>n. 健美</td></tr>
+<tr><td>bodybuilder</td><td>bodẏb𝕦ilde̊r</td><td>body-build-er</td><td>bodẏ-b𝕦ild-e̊r</td><td>n. 健美运动员</td></tr>
+<tr><td>bodacious</td><td>bo̊dācio̊us</td><td>bod-ac-ious</td><td>bo̊d-āc-io̊us</td><td>a. 大胆的, 惊人的</td></tr>
+<tr><td>body-building</td><td>bodẏ-b𝕦ilding</td><td>body-build-ing</td><td>bodẏ-b𝕦ild-ing</td><td>n. 健身运动</td></tr>
+<tr><td>bodybuilding</td><td>bodẏb𝕦ilding</td><td>body-build-ing</td><td>bodẏ-b𝕦ild-ing</td><td>n. 健美</td></tr>
 <tr><td>bodiless</td><td>bodilėss</td><td>bod-i-less</td><td>bod-i-lėss</td><td>a. 无躯体的, 无形的</td></tr>
-<tr><td>bodily</td><td>bodi̊lẏ</td><td>bod-i-ly</td><td>bod-i̊-lẏ</td><td>a. 身体的<br>adv. 亲自, 全身地</td></tr>
+<tr><td>bodily</td><td>bodilẏ</td><td>bod-i-ly</td><td>bod-i-lẏ</td><td>a. 身体的<br>adv. 亲自, 全身地</td></tr>
 <tr><td>antibody</td><td>antibodẏ</td><td>anti-body</td><td>anti-bodẏ</td><td>n. 抗体</td></tr>
 <tr><td>embody</td><td>ėmbodẏ</td><td>em-bod-y</td><td>ėm-bod-ẏ</td><td>vt. 体现, 使具体化, 包含</td></tr>
-<tr><td>embodiment</td><td>embodĩme̊nt</td><td>em-bod-i-ment</td><td>em-bod-ĩ-me̊nt</td><td>n. 化身, 体现</td></tr>
+<tr><td>embodiment</td><td>embodime̊nt</td><td>em-bod-i-ment</td><td>em-bod-i-me̊nt</td><td>n. 化身, 体现</td></tr>
 <tr><td>underbody</td><td>ûnde̊rbodẏ</td><td>under-body</td><td>ûnde̊r-bodẏ</td><td>n. 底盘, 船体水下部分</td></tr>
 <tr><td>busybody</td><td>bu̇ṡẏbodẏ</td><td>bus-y-body</td><td>bu̇ṡ-ẏ-bodẏ</td><td>n. 爱管闲事的人, 好事的人</td></tr>
-<tr><td>disembody</td><td>disėmbodẏ</td><td>dis-em-bod-y</td><td>dis-ėm-bod-ẏ</td><td>vt. 使脱离肉体</td></tr>
-<tr><td>disembodied</td><td>disėmbodi𝕖d</td><td>dis-em-bod-i-ed</td><td>dis-ėm-bod-i-𝕖d</td><td>a. 脱离肉体的, 无实体的</td></tr>
-<tr><td>disembodiment</td><td>disėmbodime̊nt</td><td>dis-em-bod-i-ment</td><td>dis-ėm-bod-i-me̊nt</td><td>n. 脱离, 分离</td></tr>
+<tr><td>disembody</td><td>disembodẏ</td><td>dis-em-bod-y</td><td>dis-em-bod-ẏ</td><td>vt. 使脱离肉体</td></tr>
+<tr><td>disembodied</td><td>disembodi𝕖d</td><td>dis-em-bod-i-ed</td><td>dis-em-bod-i-𝕖d</td><td>a. 脱离肉体的, 无实体的</td></tr>
+<tr><td>disembodiment</td><td>disembodime̊nt</td><td>dis-em-bod-i-ment</td><td>dis-em-bod-i-me̊nt</td><td>n. 脱离, 分离</td></tr>
 <tr><td>bode</td><td>bōde</td><td>bode</td><td>bōde</td><td>v. 预示</td></tr>
 <tr><td>abode</td><td>åbōde</td><td>a-bode</td><td>å-bōde</td><td>n. 住所, 住处</td></tr>
 <tr><td>forebode</td><td>for𝕖bōde</td><td>fore-bode</td><td>for𝕖-bōde</td><td>vt. 预示, 预兆</td></tr>
 <tr><td>foreboding</td><td>for𝕖bōding</td><td>fore-bod-ing</td><td>for𝕖-bōd-ing</td><td>n. 预感, 不祥之兆</td></tr>
 <tr><td>bodega</td><td>bōdègå</td><td>bodega</td><td>bōdègå</td><td>n. 酒窖, 酒店</td></tr>
-<tr><td>bodhisattva</td><td>bōd𝕙isåttvå</td><td>bodhisattva</td><td>bōd𝕙isåttvå</td><td>n. 菩萨</td></tr>
+<tr><td>bodhisattva</td><td>bōd𝕙isattvå</td><td>bodhisattva</td><td>bōd𝕙isattvå</td><td>n. 菩萨</td></tr>
 <tr><td>bodice</td><td>bodice</td><td>bodice</td><td>bodice</td><td>n. 女服的紧身上衣</td></tr>
 <tr><td>nobody</td><td>nōbodẏ</td><td>no-body</td><td>nō-bodẏ</td><td>pron. 没有人, 无人<br>n. 无名小卒</td></tr>
-<tr><td>boeuf</td><td>bō𝕖𝕦f</td><td>boeuf</td><td>bō𝕖𝕦f</td><td>n. 牛肉</td></tr>
+<tr><td>boeuf</td><td>boeuf</td><td>boeuf</td><td>boeuf</td><td>n. 牛肉</td></tr>
 <tr><td>boffo</td><td>boffō</td><td>boffo</td><td>boffō</td><td>a. 极成功的, 大受欢迎的</td></tr>
 <tr><td>bog</td><td>bog</td><td>bog</td><td>bog</td><td>n. 沼泽, 泥塘<br>v. 陷入泥沼</td></tr>
-<tr><td>bogey</td><td>bōgēy</td><td>bog-ey</td><td>bōg-ēy</td><td>n. 妖怪; 高尔夫一杆超过标准杆</td></tr>
+<tr><td>bogey</td><td>bōgėy</td><td>bog-ey</td><td>bōg-ėy</td><td>n. 妖怪; 高尔夫一杆超过标准杆</td></tr>
 <tr><td>boggle</td><td>boggle</td><td>bogg-le</td><td>bogg-le</td><td>vi. 犹豫, 吃惊<br>vt. 弄坏</td></tr>
-<tr><td>bogeyman</td><td>bōgēyman</td><td>bogey-man</td><td>bōgēy-man</td><td>n. 骇人的怪物, 可怕的人</td></tr>
+<tr><td>bogeyman</td><td>bōgėymån</td><td>bogey-man</td><td>bōgėy-mån</td><td>n. 骇人的怪物, 可怕的人</td></tr>
 <tr><td>boggy</td><td>boggẏ</td><td>bogg-y</td><td>bogg-ẏ</td><td>a. 沼泽似的, 泥泞的</td></tr>
 <tr><td>bogy</td><td>bōgẏ</td><td>bog-y</td><td>bōg-ẏ</td><td>n. 妖怪, 可怕的人(物)</td></tr>
 <tr><td>bogus</td><td>bōgůs</td><td>bogus</td><td>bōgůs</td><td>a. 假的, 伪造的</td></tr>
@@ -1655,12 +1655,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>abolition</td><td>abo̊litio̊n</td><td>a-bol-it-ion</td><td>a-bo̊l-it-io̊n</td><td>n. 废除, 废止</td></tr>
 <tr><td>abolishment</td><td>åbolishme̊nt</td><td>a-bol-ish-ment</td><td>å-bol-ish-me̊nt</td><td>n. 废除, 取消</td></tr>
 <tr><td>abolitionism</td><td>abo̊litio̊niṡm</td><td>a-bol-it-ion-ism</td><td>a-bo̊l-it-io̊n-iṡm</td><td>n. 废奴主义</td></tr>
-<tr><td>abolitionist</td><td>abo̊litio̊ni̊st</td><td>a-bol-it-ion-ist</td><td>a-bo̊l-it-io̊n-i̊st</td><td>n. 废除主义者, 废奴主义者</td></tr>
-<tr><td>catabolism</td><td>cåtabo̊liṡm</td><td>cata-bol-ism</td><td>cåta-bo̊l-iṡm</td><td>n. 分解代谢</td></tr>
+<tr><td>abolitionist</td><td>abo̊litio̊nist</td><td>a-bol-it-ion-ist</td><td>a-bo̊l-it-io̊n-ist</td><td>n. 废除主义者, 废奴主义者</td></tr>
+<tr><td>catabolism</td><td>catåbōliṡm</td><td>cata-bol-ism</td><td>catå-bōl-iṡm</td><td>n. 分解代谢</td></tr>
 <tr><td>diabolic</td><td>dīåbolic</td><td>dia-bol-ic</td><td>dīå-bol-ic</td><td>a. 恶魔的, 恶毒的</td></tr>
-<tr><td>embolization</td><td>embo̊līzātio̊n</td><td>em-bol-iz-at-ion</td><td>em-bo̊l-īz-āt-io̊n</td><td>n. 栓塞术</td></tr>
-<tr><td>metabolite</td><td>mėtabo̊līte</td><td>meta-bol-ite</td><td>mėta-bo̊l-īte</td><td>n. 代谢物</td></tr>
-<tr><td>paraboloid</td><td>pårabo̊loid</td><td>para-bol-oid</td><td>påra-bo̊l-oid</td><td>n. 抛物面</td></tr>
+<tr><td>embolization</td><td>embolīzātio̊n</td><td>em-bol-iz-at-ion</td><td>em-bol-īz-āt-io̊n</td><td>n. 栓塞术</td></tr>
+<tr><td>metabolite</td><td>me̊tabo̊līte</td><td>meta-bol-ite</td><td>me̊ta-bo̊l-īte</td><td>n. 代谢物</td></tr>
+<tr><td>paraboloid</td><td>paråboloid</td><td>para-bol-oid</td><td>parå-bol-oid</td><td>n. 抛物面</td></tr>
 <tr><td>symbol</td><td>sẏmbo̊l</td><td>sym-bol</td><td>sẏm-bo̊l</td><td>n. 符号, 象征, 标志</td></tr>
 <tr><td>symbolic</td><td>sẏmbolic</td><td>sym-bol-ic</td><td>sẏm-bol-ic</td><td>a. 象征的, 符号的</td></tr>
 <tr><td>symbolise</td><td>sẏmbo̊līṡe</td><td>sym-bol-ise</td><td>sẏm-bo̊l-īṡe</td><td>vt. 象征, 代表</td></tr>
@@ -1678,31 +1678,31 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boldest</td><td>bōldėst</td><td>bold-est</td><td>bōld-ėst</td><td></td></tr>
 <tr><td>boldface</td><td>bōldfāce</td><td>bold-face</td><td>bōld-fāce</td><td>n. 黑体字, 粗体铅字</td></tr>
 <tr><td>boldly</td><td>bōldlẏ</td><td>bold-ly</td><td>bōld-lẏ</td><td>adv. 大胆地, 勇敢地</td></tr>
-<tr><td>boldness</td><td>bōldne̊ss</td><td>bold-ness</td><td>bōld-ne̊ss</td><td>n. 大胆, 勇敢</td></tr>
+<tr><td>boldness</td><td>bōldnėss</td><td>bold-ness</td><td>bōld-nėss</td><td>n. 大胆, 勇敢</td></tr>
 <tr><td>embolden</td><td>embōlde̊n</td><td>em-bold-en</td><td>em-bōld-e̊n</td><td>vt. 使大胆, 鼓励</td></tr>
 <tr><td>emboldened</td><td>embōlde̊n𝕖d</td><td>em-bold-en-ed</td><td>em-bōld-e̊n-𝕖d</td><td>v. 鼓励, 使有胆量<br>a. 被鼓励的</td></tr>
 <tr><td>bole</td><td>bōle</td><td>bole</td><td>bōle</td><td>n. 树干<br>n. 胶灰粘土</td></tr>
-<tr><td>bolero</td><td>bōlèrō</td><td>bolero</td><td>bōlèrō</td><td>n. 波列罗舞曲, 女用短上衣</td></tr>
-<tr><td>bolide</td><td>bōlīde</td><td>bolide</td><td>bōlīde</td><td>n. 火流星</td></tr>
-<tr><td>bolivian</td><td>bōliviån</td><td>boliv-ian</td><td>bōliv-iån</td><td>n. 玻利维亚人<br>a. 玻利维亚的</td></tr>
-<tr><td>bolivarian</td><td>boli̊våriån</td><td>boliv-ar-ian</td><td>boli̊v-år-iån</td><td>a. 玻利瓦尔的, 玻利瓦尔主义的</td></tr>
-<tr><td>boll</td><td>bōll</td><td>boll</td><td>bōll</td><td>n. 圆荚</td></tr>
-<tr><td>bollworm</td><td>bōllwo̊rm</td><td>boll-worm</td><td>bōll-wo̊rm</td><td>n. 棉红铃虫, 螟蛉虫</td></tr>
-<tr><td>bollard</td><td>bollård</td><td>bollard</td><td>bollård</td><td>n. 系船柱</td></tr>
+<tr><td>bolero</td><td>bo̊lerō</td><td>bolero</td><td>bo̊lerō</td><td>n. 波列罗舞曲, 女用短上衣</td></tr>
+<tr><td>bolide</td><td>bolīde</td><td>bolide</td><td>bolīde</td><td>n. 火流星</td></tr>
+<tr><td>bolivian</td><td>bo̊liviån</td><td>boliv-ian</td><td>bo̊liv-iån</td><td>n. 玻利维亚人<br>a. 玻利维亚的</td></tr>
+<tr><td>bolivarian</td><td>bolivāriån</td><td>boliv-ar-ian</td><td>boliv-ār-iån</td><td>a. 玻利瓦尔的, 玻利瓦尔主义的</td></tr>
+<tr><td>boll</td><td>boll</td><td>boll</td><td>boll</td><td>n. 圆荚</td></tr>
+<tr><td>bollworm</td><td>bollwo̊rm</td><td>boll-worm</td><td>boll-wo̊rm</td><td>n. 棉红铃虫, 螟蛉虫</td></tr>
+<tr><td>bollard</td><td>bollàrd</td><td>bollard</td><td>bollàrd</td><td>n. 系船柱</td></tr>
 <tr><td>bollock</td><td>bollo̊ck</td><td>bollock</td><td>bollo̊ck</td><td>n. 滑轮组（航海）</td></tr>
 <tr><td>bolo</td><td>bōlō</td><td>bolo</td><td>bōlō</td><td>n. 大砍刀</td></tr>
 <tr><td>bologna</td><td>bo̊lō𝕘na</td><td>bologn-a</td><td>bo̊lō𝕘n-a</td><td>n. 大红肠, 波洛尼亚香肠</td></tr>
-<tr><td>bolognese</td><td>bōlōgneṡė</td><td>bologn-ese</td><td>bōlōgn-eṡė</td><td>a. 博洛尼亚的<br>n. 肉酱意面</td></tr>
-<tr><td>bolshevism</td><td>bōlshe̊viṡm</td><td>bolshev-ism</td><td>bōlshe̊v-iṡm</td><td>n. 布尔什维主义</td></tr>
-<tr><td>bolshevik</td><td>bōlshe̊vik</td><td>bolshevik</td><td>bōlshe̊vik</td><td>n. 布尔什维克<br>a. 布尔什维克的</td></tr>
+<tr><td>bolognese</td><td>bolo̊𝕘nèṡe</td><td>bologn-ese</td><td>bolo̊𝕘n-èṡe</td><td>a. 博洛尼亚的<br>n. 肉酱意面</td></tr>
+<tr><td>bolshevism</td><td>bolshėviṡm</td><td>bolshev-ism</td><td>bolshėv-iṡm</td><td>n. 布尔什维主义</td></tr>
+<tr><td>bolshevik</td><td>bolshėvik</td><td>bolshevik</td><td>bolshėvik</td><td>n. 布尔什维克<br>a. 布尔什维克的</td></tr>
 <tr><td>bolster</td><td>bōlste̊r</td><td>bolst-er</td><td>bōlst-e̊r</td><td>n. 支撑, 垫子<br>vt. 支持, 支撑</td></tr>
 <tr><td>bolt</td><td>bōlt</td><td>bolt</td><td>bōlt</td><td>n. 螺栓, 门闩, 闪电<br>vt. 栓住, 闩住<br>vi. 冲出, 逃跑</td></tr>
-<tr><td>bolted</td><td>bōlt𝕖d</td><td>bolt-ed</td><td>bōlt-𝕖d</td><td>v. 突然逃跑, 栓住</td></tr>
+<tr><td>bolted</td><td>bōltėd</td><td>bolt-ed</td><td>bōlt-ėd</td><td>v. 突然逃跑, 栓住</td></tr>
 <tr><td>unbolt</td><td>ûnbōlt</td><td>un-bolt</td><td>ûn-bōlt</td><td>vt. 拔去门闩, 打开</td></tr>
 <tr><td>unbolted</td><td>ûnbōltėd</td><td>un-bolt-ed</td><td>ûn-bōlt-ėd</td><td>v. 拔去门闩<br>a. 未栓住的, 粗糙的(面粉)</td></tr>
 <tr><td>bolus</td><td>bōlůs</td><td>bolus</td><td>bōlůs</td><td>n. 大丸药, 小圆块</td></tr>
 <tr><td>bomb</td><td>bom𝕓</td><td>bomb</td><td>bom𝕓</td><td>n. 炸弹<br>vt. 轰炸, 投弹于<br>vi. 失败</td></tr>
-<tr><td>bombard</td><td>bombàrd</td><td>bomb-ard</td><td>bomb-àrd</td><td>vt. 炮轰, 轰炸</td></tr>
+<tr><td>bombard</td><td>bo̊mbàrd</td><td>bomb-ard</td><td>bo̊mb-àrd</td><td>vt. 炮轰, 轰炸</td></tr>
 <tr><td>bombast</td><td>bombast</td><td>bomb-ast</td><td>bomb-ast</td><td>n. 夸大的言辞</td></tr>
 <tr><td>bombed</td><td>bom𝕓𝕖d</td><td>bomb-ed</td><td>bom𝕓-𝕖d</td><td>v. 轰炸 (bomb的过去式)<br>a. 被炸毁的, 醉醺醺的</td></tr>
 <tr><td>bomber</td><td>bom𝕓e̊r</td><td>bomb-er</td><td>bom𝕓-e̊r</td><td>n. 轰炸机, 投弹手</td></tr>
@@ -1712,9 +1712,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bombs</td><td>bom𝕓ṡ</td><td>bomb-s</td><td>bom𝕓-ṡ</td><td></td></tr>
 <tr><td>bombshell</td><td>bom𝕓shell</td><td>bomb-shell</td><td>bom𝕓-shell</td><td>n. 炸弹, 意想不到的事件</td></tr>
 <tr><td>bombsight</td><td>bom𝕓sī𝕘𝕙t</td><td>bomb-sight</td><td>bom𝕓-sī𝕘𝕙t</td><td>n. 投弹瞄准器</td></tr>
-<tr><td>bombastic</td><td>bombastic</td><td>bomb-ast-ic</td><td>bomb-ast-ic</td><td>a. 夸大的, 言过其实的</td></tr>
-<tr><td>bombardment</td><td>bombàrdme̊nt</td><td>bomb-ard-ment</td><td>bomb-àrd-me̊nt</td><td>n. 炮击, 轰炸</td></tr>
-<tr><td>bombardier</td><td>bombårdiēr</td><td>bomb-ard-i-er</td><td>bomb-ård-i-ēr</td><td>n. 投弹手, 炮兵军士</td></tr>
+<tr><td>bombastic</td><td>bo̊mbastic</td><td>bomb-ast-ic</td><td>bo̊mb-ast-ic</td><td>a. 夸大的, 言过其实的</td></tr>
+<tr><td>bombardment</td><td>bo̊mbàrdme̊nt</td><td>bomb-ard-ment</td><td>bo̊mb-àrd-me̊nt</td><td>n. 炮击, 轰炸</td></tr>
+<tr><td>bombardier</td><td>bombårdie̊r</td><td>bomb-ard-i-er</td><td>bomb-ård-i-e̊r</td><td>n. 投弹手, 炮兵军士</td></tr>
 <tr><td>bonbon</td><td>bonbon</td><td>bonbon</td><td>bonbon</td><td>n. 夹心糖, 糖果</td></tr>
 <tr><td>bonfire</td><td>bonfīre</td><td>bon-fire</td><td>bon-fīre</td><td>n. 篝火, 营火</td></tr>
 <tr><td>bona</td><td>bōnå</td><td>bona</td><td>bōnå</td><td>a. 真正的, 真实的</td></tr>
@@ -1722,7 +1722,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bonanza</td><td>bo̊nanzå</td><td>bonanza</td><td>bo̊nanzå</td><td>n. 富矿脉, 意想不到的财富</td></tr>
 <tr><td>bond</td><td>bond</td><td>bond</td><td>bond</td><td>n. 纽带, 联系, 债券, 契约<br>v. 结合, 粘合</td></tr>
 <tr><td>bondage</td><td>bondȧge</td><td>bond-age</td><td>bond-ȧge</td><td>n. 奴役, 束缚</td></tr>
-<tr><td>bonded</td><td>bond𝕖d</td><td>bond-ed</td><td>bond-𝕖d</td><td>v. 结合, 联结 (bond的过去式)<br>a. 有担保的, 粘合的</td></tr>
+<tr><td>bonded</td><td>bondėd</td><td>bond-ed</td><td>bond-ėd</td><td>v. 结合, 联结 (bond的过去式)<br>a. 有担保的, 粘合的</td></tr>
 <tr><td>bonding</td><td>bonding</td><td>bond-ing</td><td>bond-ing</td><td>n. 结合, 联结</td></tr>
 <tr><td>bonds</td><td>bondṡ</td><td>bond-s</td><td>bond-ṡ</td><td></td></tr>
 <tr><td>bondholder</td><td>bondhōlde̊r</td><td>bond-hold-er</td><td>bond-hōld-e̊r</td><td>n. 债券持有人</td></tr>
@@ -1731,28 +1731,28 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boned</td><td>bōn𝕖d</td><td>bon-ed</td><td>bōn-𝕖d</td><td>a. 去骨的, 剔骨的</td></tr>
 <tr><td>boner</td><td>bōne̊r</td><td>bon-er</td><td>bōn-e̊r</td><td>n. 可笑的错误, 愚蠢的错误</td></tr>
 <tr><td>bonefish</td><td>bōn𝕖fish</td><td>bone-fish</td><td>bōn𝕖-fish</td><td>n. 北梭鱼</td></tr>
-<tr><td>bonehead</td><td>bōnehèad</td><td>bone-head</td><td>bōne-hèad</td><td>n. 笨蛋, 傻瓜</td></tr>
+<tr><td>bonehead</td><td>bōn𝕖hèad</td><td>bone-head</td><td>bōn𝕖-hèad</td><td>n. 笨蛋, 傻瓜</td></tr>
 <tr><td>boneless</td><td>bōn𝕖lėss</td><td>bone-less</td><td>bōn𝕖-lėss</td><td>a. 无骨的</td></tr>
 <tr><td>bones</td><td>bōn𝕖ṡ</td><td>bone-s</td><td>bōn𝕖-ṡ</td><td></td></tr>
-<tr><td>boneset</td><td>bōneset</td><td>bone-set</td><td>bōne-set</td><td>n. 贯叶泽兰</td></tr>
-<tr><td>boney</td><td>bōnēy</td><td>bone-y</td><td>bōnē-y</td><td>a. 瘦骨嶙峋的, 多骨的</td></tr>
-<tr><td>boneyard</td><td>bōneyàrd</td><td>bone-yard</td><td>bōne-yàrd</td><td>n. 墓地, (非正式)动物尸骨堆放地</td></tr>
+<tr><td>boneset</td><td>bōn𝕖set</td><td>bone-set</td><td>bōn𝕖-set</td><td>n. 贯叶泽兰</td></tr>
+<tr><td>boney</td><td>bōnėy</td><td>bone-y</td><td>bōnė-y</td><td>a. 瘦骨嶙峋的, 多骨的</td></tr>
+<tr><td>boneyard</td><td>bōn𝕖yàrd</td><td>bone-yard</td><td>bōn𝕖-yàrd</td><td>n. 墓地, (非正式)动物尸骨堆放地</td></tr>
 <tr><td>bony</td><td>bōnẏ</td><td>bon-y</td><td>bōn-ẏ</td><td>a. 骨瘦如柴的, 多骨的</td></tr>
-<tr><td>boneheaded</td><td>bōnehèadėd</td><td>bone-head-ed</td><td>bōne-hèad-ėd</td><td>a. 愚蠢的, 笨的</td></tr>
+<tr><td>boneheaded</td><td>bōn𝕖hèadėd</td><td>bone-head-ed</td><td>bōn𝕖-hèad-ėd</td><td>a. 愚蠢的, 笨的</td></tr>
 <tr><td>boners</td><td>bōne̊rṡ</td><td>bon-er-s</td><td>bōn-e̊r-ṡ</td><td></td></tr>
-<tr><td>debone</td><td>dēbo̊ne</td><td>de-bone</td><td>dē-bo̊ne</td><td>vt.将(鸡、鸭、肉等)去骨</td></tr>
+<tr><td>debone</td><td>dēbōne</td><td>de-bone</td><td>dē-bōne</td><td>vt.将(鸡、鸭、肉等)去骨</td></tr>
 <tr><td>jawbone</td><td>jãwbōne</td><td>jaw-bone</td><td>jãw-bōne</td><td>n. 颚骨, 下巴骨<br>v. 说服, 劝说</td></tr>
-<tr><td>redbone</td><td>redbo̊ne</td><td>red-bone</td><td>red-bo̊ne</td><td>n. 美洲赤狗(一种常用以捕捉浣熊的猎犬)</td></tr>
+<tr><td>redbone</td><td>redbōne</td><td>red-bone</td><td>red-bōne</td><td>n. 美洲赤狗(一种常用以捕捉浣熊的猎犬)</td></tr>
 <tr><td>collarbone</td><td>collårbōne</td><td>coll-ar-bone</td><td>coll-år-bōne</td><td>n. 锁骨</td></tr>
 <tr><td>bong</td><td>bong</td><td>bong</td><td>bong</td><td>n. 钟声, 水烟枪</td></tr>
 <tr><td>bongo</td><td>bongō</td><td>bongo</td><td>bongō</td><td>n. 邦戈鼓, 小手鼓</td></tr>
 <tr><td>bonheur</td><td>bon𝕙e̊ur</td><td>bonheur</td><td>bon𝕙e̊ur</td><td>n. 幸福, 快乐</td></tr>
-<tr><td>bonhomie</td><td>bon𝕙omiē</td><td>bonhomie</td><td>bon𝕙omiē</td><td>n. 愉快, 温和, 和蔼</td></tr>
+<tr><td>bonhomie</td><td>bon𝕙o̊miē</td><td>bonhomie</td><td>bon𝕙o̊miē</td><td>n. 愉快, 温和, 和蔼</td></tr>
 <tr><td>bonito</td><td>bo̊nĩtō</td><td>bonito</td><td>bo̊nĩtō</td><td>n. 鲣鱼, 狐鲣</td></tr>
 <tr><td>bonk</td><td>bonk</td><td>bonk</td><td>bonk</td><td>v. 重击, 猛打<br>n. 沉闷的撞击声</td></tr>
 <tr><td>bonny</td><td>bonnẏ</td><td>bonn-y</td><td>bonn-ẏ</td><td>a. 漂亮的</td></tr>
-<tr><td>bonnet</td><td>bonne̊t</td><td>bonnet</td><td>bonne̊t</td><td>n. 软帽</td></tr>
-<tr><td>bonobo</td><td>bonobō</td><td>bonobo</td><td>bonobō</td><td>n. 倭黑猩猩</td></tr>
+<tr><td>bonnet</td><td>bonnėt</td><td>bonnet</td><td>bonnėt</td><td>n. 软帽</td></tr>
+<tr><td>bonobo</td><td>bo̊nōbō</td><td>bonobo</td><td>bo̊nōbō</td><td>n. 倭黑猩猩</td></tr>
 <tr><td>bonsai</td><td>bonsaī</td><td>bonsai</td><td>bonsaī</td><td>n. 盆景</td></tr>
 <tr><td>bonus</td><td>bōnůs</td><td>bonus</td><td>bōnůs</td><td>n. 奖金, 红利</td></tr>
 <tr><td>bonuses</td><td>bōnůsėṡ</td><td>bonus-es</td><td>bōnůs-ėṡ</td><td></td></tr>
@@ -1764,7 +1764,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boobs</td><td>boobṡ</td><td>boob-s</td><td>boob-ṡ</td><td></td></tr>
 <tr><td>booby</td><td>boobẏ</td><td>boob-y</td><td>boob-ẏ</td><td>n. 傻瓜, 鲣鸟</td></tr>
 <tr><td>booger</td><td>booge̊r</td><td>boog-er</td><td>boog-e̊r</td><td>n. 鼻屎（口语）</td></tr>
-<tr><td>boogie</td><td>boogiē</td><td>boog-ie</td><td>boog-iē</td><td>n. 布吉音乐<br>vi. 跳布吉舞</td></tr>
+<tr><td>boogie</td><td>boogie</td><td>boog-ie</td><td>boog-ie</td><td>n. 布吉音乐<br>vi. 跳布吉舞</td></tr>
 <tr><td>boogeyman</td><td>boogėymån</td><td>boog-ey-man</td><td>boog-ėy-mån</td><td>n. 鬼怪, 吓人的怪物</td></tr>
 <tr><td>boogaloo</td><td>boogåloo</td><td>boog-al-oo</td><td>boog-ål-oo</td><td>n. 波加洛舞</td></tr>
 <tr><td>boogers</td><td>booge̊rṡ</td><td>boog-er-s</td><td>boog-e̊r-ṡ</td><td></td></tr>
@@ -1774,7 +1774,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>booked</td><td>book𝕖ḋ</td><td>book-ed</td><td>book-𝕖ḋ</td><td>v. 预订 (book的过去式)<br>a. 预订好的, 登记了的</td></tr>
 <tr><td>bookend</td><td>bookend</td><td>book-end</td><td>book-end</td><td>n. 书挡, 压书具</td></tr>
 <tr><td>booker</td><td>booke̊r</td><td>book-er</td><td>book-e̊r</td><td>n. 预订员, 演出经纪人</td></tr>
-<tr><td>bookie</td><td>bookiē</td><td>book-ie</td><td>book-iē</td><td>n. 登记赌注者</td></tr>
+<tr><td>bookie</td><td>bookie</td><td>book-ie</td><td>book-ie</td><td>n. 登记赌注者</td></tr>
 <tr><td>booking</td><td>booking</td><td>book-ing</td><td>book-ing</td><td>n. 预约, 订票, 预订</td></tr>
 <tr><td>bookish</td><td>bookish</td><td>book-ish</td><td>book-ish</td><td>a. 好学的, 书呆子气的</td></tr>
 <tr><td>booklet</td><td>booklėt</td><td>book-let</td><td>book-lėt</td><td>n. 小册子</td></tr>
@@ -1793,7 +1793,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bookseller</td><td>bookselle̊r</td><td>book-sell-er</td><td>book-sell-e̊r</td><td>n. 书商</td></tr>
 <tr><td>bookbinding</td><td>bookbīnding</td><td>book-bind-ing</td><td>book-bīnd-ing</td><td>n. 装订</td></tr>
 <tr><td>bookkeeping</td><td>bookkēeping</td><td>book-keep-ing</td><td>book-kēep-ing</td><td>n. 簿记</td></tr>
-<tr><td>bookmobile</td><td>bookmōbĩle</td><td>book-mob-ile</td><td>book-mōb-ĩle</td><td>n. 车上图书馆, 流动图书馆</td></tr>
+<tr><td>bookmobile</td><td>bookmōbīle</td><td>book-mob-ile</td><td>book-mōb-īle</td><td>n. 车上图书馆, 流动图书馆</td></tr>
 <tr><td>bookstores</td><td>bookstor𝕖ṡ</td><td>book-store-s</td><td>book-stor𝕖-ṡ</td><td></td></tr>
 <tr><td>audiobook</td><td>ãudiōbook</td><td>audio-book</td><td>ãudiō-book</td><td>n. 有声读物</td></tr>
 <tr><td>daybook</td><td>dāybook</td><td>day-book</td><td>dāy-book</td><td>n. 日记簿, 交易日记帐</td></tr>
@@ -1805,15 +1805,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boombox</td><td>boombox</td><td>boom-box</td><td>boom-box</td><td>n. 便携式音响, 大型收录机</td></tr>
 <tr><td>boomer</td><td>boome̊r</td><td>boom-er</td><td>boom-e̊r</td><td>n. 婴儿潮时期出生的人</td></tr>
 <tr><td>booming</td><td>booming</td><td>boom-ing</td><td>boom-ing</td><td>a. 急速发展的, 兴旺的</td></tr>
-<tr><td>boomlet</td><td>boomle̊t</td><td>boom-let</td><td>boom-le̊t</td><td>n. 小景气, 短暂繁荣</td></tr>
+<tr><td>boomlet</td><td>boomlėt</td><td>boom-let</td><td>boom-lėt</td><td>n. 小景气, 短暂繁荣</td></tr>
 <tr><td>boomtown</td><td>boomtòwn</td><td>boom-town</td><td>boom-tòwn</td><td>n. 新兴城市</td></tr>
 <tr><td>boomerang</td><td>boome̊rang</td><td>boom-er-ang</td><td>boom-e̊r-ang</td><td>n. 回飞镖<br>v. 反弹, 适得其反</td></tr>
 <tr><td>boon</td><td>boon</td><td>boon</td><td>boon</td><td>n. 恩惠, 福利</td></tr>
 <tr><td>boondoggle</td><td>boondoggle</td><td>boon-doggle</td><td>boon-doggle</td><td>n. 无用的工作, 手工艺品<br>vi. 做细小无用的事</td></tr>
 <tr><td>boondocks</td><td>boondocks</td><td>boon-dock-s</td><td>boon-dock-s</td><td>n. 荒野, 偏远地区</td></tr>
 <tr><td>boonies</td><td>booni𝕖ṡ</td><td>boonies</td><td>booni𝕖ṡ</td><td>n. 偏远乡村, 荒郊野外（口语）</td></tr>
-<tr><td>boor</td><td>boōr</td><td>boor</td><td>boōr</td><td>n. 粗野的人, 不懂礼貌的人</td></tr>
-<tr><td>boorish</td><td>boōrish</td><td>boor-ish</td><td>boōr-ish</td><td>a. 粗野的, 粗鄙的</td></tr>
+<tr><td>boor</td><td>bōor</td><td>boor</td><td>bōor</td><td>n. 粗野的人, 不懂礼貌的人</td></tr>
+<tr><td>boorish</td><td>bōorish</td><td>boor-ish</td><td>bōor-ish</td><td>a. 粗野的, 粗鄙的</td></tr>
 <tr><td>boost</td><td>boost</td><td>boost</td><td>boost</td><td>vt. 促进, 提升, 增加, 推动<br>n. 推动, 帮助, 提升</td></tr>
 <tr><td>boosted</td><td>boostėd</td><td>boost-ed</td><td>boost-ėd</td><td>v. 促进, 提升<br>a. 升高的</td></tr>
 <tr><td>booster</td><td>booste̊r</td><td>boost-er</td><td>boost-e̊r</td><td>n. 支持者, 加强剂, 助推器</td></tr>
@@ -1821,7 +1821,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boot</td><td>boot</td><td>boot</td><td>boot</td><td>n. 靴子, 踢, 解雇<br>vt. 踢, 解雇</td></tr>
 <tr><td>bootable</td><td>bootåble</td><td>boot-able</td><td>boot-åble</td><td>a. 可启动的, 可引导的</td></tr>
 <tr><td>booted</td><td>bootėd</td><td>boot-ed</td><td>boot-ėd</td><td>a. 穿靴的</td></tr>
-<tr><td>bootie</td><td>bootiē</td><td>boot-ie</td><td>boot-iē</td><td>n. 毛线鞋, 婴儿鞋</td></tr>
+<tr><td>bootie</td><td>bootie</td><td>boot-ie</td><td>boot-ie</td><td>n. 毛线鞋, 婴儿鞋</td></tr>
 <tr><td>booties</td><td>booti𝕖ṡ</td><td>boot-ies</td><td>boot-i𝕖ṡ</td><td></td></tr>
 <tr><td>bootlace</td><td>bootlāce</td><td>boot-lace</td><td>boot-lāce</td><td>n. 鞋带</td></tr>
 <tr><td>bootleg</td><td>bootleg</td><td>boot-leg</td><td>boot-leg</td><td>v. 非法制造或贩卖<br>a. 非法的, 走私的</td></tr>
@@ -1833,7 +1833,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bootlegger</td><td>bootlegge̊r</td><td>boot-legg-er</td><td>boot-legg-e̊r</td><td>n. 酿私酒者, 卖私酒者</td></tr>
 <tr><td>bootstrapping</td><td>bootstrapping</td><td>boot-strapp-ing</td><td>boot-strapp-ing</td><td>n. 自举, 引导</td></tr>
 <tr><td>freebooter</td><td>frēeboote̊r</td><td>free-boot-er</td><td>frēe-boot-e̊r</td><td>n. 海盗, 掠夺者</td></tr>
-<tr><td>reboot</td><td>rēboot</td><td>re-boot</td><td>rē-boot</td><td>v. 重新启动</td></tr>
+<tr><td>reboot</td><td>rėboot</td><td>re-boot</td><td>rė-boot</td><td>v. 重新启动</td></tr>
 <tr><td>booth</td><td>booth</td><td>booth</td><td>booth</td><td>n. 摊位, 电话亭, 展位</td></tr>
 <tr><td>booths</td><td>booths</td><td>booth-s</td><td>booth-s</td><td></td></tr>
 <tr><td>tollbooth</td><td>tōllbooth</td><td>toll-booth</td><td>tōll-booth</td><td>n. 收费亭</td></tr>
@@ -1857,7 +1857,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>borax</td><td>borax</td><td>borax</td><td>borax</td><td>n. 硼砂</td></tr>
 <tr><td>border</td><td>borde̊r</td><td>bord-er</td><td>bord-e̊r</td><td>n. 边界, 边境, 边缘<br>v. 与...接界, 接近</td></tr>
 <tr><td>bordering</td><td>borde̊ring</td><td>bord-er-ing</td><td>bord-e̊r-ing</td><td>n. 接界, 毗邻</td></tr>
-<tr><td>borderland</td><td>borde̊rland</td><td>bord-er-land</td><td>bord-e̊r-land</td><td>n. 边界地方, 边陲, 两可间的状态</td></tr>
+<tr><td>borderland</td><td>borde̊rlånd</td><td>bord-er-land</td><td>bord-e̊r-lånd</td><td>n. 边界地方, 边陲, 两可间的状态</td></tr>
 <tr><td>borderless</td><td>borde̊rlėss</td><td>bord-er-less</td><td>bord-e̊r-lėss</td><td>a. 无边界的</td></tr>
 <tr><td>borderline</td><td>borde̊rlīne</td><td>bord-er-line</td><td>bord-e̊r-līne</td><td>n. 边界, 界线<br>a. 边缘的, 模棱两可的</td></tr>
 <tr><td>borders</td><td>borde̊rṡ</td><td>bord-er-s</td><td>bord-e̊r-ṡ</td><td></td></tr>
@@ -1866,10 +1866,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>born</td><td>born</td><td>born</td><td>born</td><td>a. 出生的, 天生的</td></tr>
 <tr><td>inborn</td><td>inborn</td><td>in-born</td><td>in-born</td><td>a. 天生的, 先天的</td></tr>
 <tr><td>newborn</td><td>new̄born</td><td>new-born</td><td>new̄-born</td><td>n. 婴儿<br>a. 新生的</td></tr>
-<tr><td>reborn</td><td>rēborn</td><td>re-born</td><td>rē-born</td><td>a. 再生的, 更新的</td></tr>
+<tr><td>reborn</td><td>rėborn</td><td>re-born</td><td>rė-born</td><td>a. 再生的, 更新的</td></tr>
 <tr><td>unborn</td><td>ûnborn</td><td>un-born</td><td>ûn-born</td><td>a. 未出生的, 未来的</td></tr>
 <tr><td>boron</td><td>boron</td><td>boron</td><td>boron</td><td>n. 硼</td></tr>
-<tr><td>borough</td><td>bôrōu𝕘𝕙</td><td>borough</td><td>bôrōu𝕘𝕙</td><td>n. 自治市镇, 区</td></tr>
+<tr><td>borough</td><td>bôro̊u𝕘𝕙</td><td>borough</td><td>bôro̊u𝕘𝕙</td><td>n. 自治市镇, 区</td></tr>
 <tr><td>borrow</td><td>borrōw</td><td>borr-ow</td><td>borr-ōw</td><td>vt. 借, 借用<br>vi. 借款</td></tr>
 <tr><td>borrowed</td><td>borrōw𝕖d</td><td>borr-ow-ed</td><td>borr-ōw-𝕖d</td><td>a. 借来的, 借用的</td></tr>
 <tr><td>borrower</td><td>borrōwe̊r</td><td>borr-ow-er</td><td>borr-ōw-e̊r</td><td>n. 借款人, 借用人</td></tr>
@@ -1884,7 +1884,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>aborts</td><td>åborts</td><td>a-bort-s</td><td>å-bort-s</td><td></td></tr>
 <tr><td>abortionist</td><td>åbortio̊nist</td><td>a-bort-ion-ist</td><td>å-bort-io̊n-ist</td><td>n. 为人堕胎者</td></tr>
 <tr><td>abortions</td><td>åbortio̊nṡ</td><td>a-bort-ion-s</td><td>å-bort-io̊n-ṡ</td><td></td></tr>
-<tr><td>abortifacient</td><td>åborti̊fācie̊nt</td><td>a-bort-i-faci-ent</td><td>å-bort-i̊-fāci-e̊nt</td><td>n. 堕胎药<br>a. 堕胎的</td></tr>
+<tr><td>abortifacient</td><td>åbortifācie̊nt</td><td>a-bort-i-faci-ent</td><td>å-bort-i-fāci-e̊nt</td><td>n. 堕胎药<br>a. 堕胎的</td></tr>
 <tr><td>borzoi</td><td>borzoi</td><td>borzoi</td><td>borzoi</td><td>n. 俄国狼狗</td></tr>
 <tr><td>bosk</td><td>bosk</td><td>bosk</td><td>bosk</td><td>n. 树丛, 灌木丛</td></tr>
 <tr><td>bosnian</td><td>boṡniån</td><td>bosn-ian</td><td>boṡn-iån</td><td>a. 波斯尼亚的, 波斯尼亚人的<br>n. 波斯尼亚人</td></tr>
@@ -1896,14 +1896,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boss</td><td>boss</td><td>boss</td><td>boss</td><td>n. 老板, 上司<br>vt. 指挥, 控制</td></tr>
 <tr><td>bosses</td><td>bossėṡ</td><td>boss-es</td><td>boss-ėṡ</td><td></td></tr>
 <tr><td>bossy</td><td>bossẏ</td><td>boss-y</td><td>boss-ẏ</td><td>a. 专横的, 爱发号施令的</td></tr>
-<tr><td>emboss</td><td>ėmboss</td><td>em-boss</td><td>ėm-boss</td><td>vt. 使凸出, 浮雕</td></tr>
-<tr><td>embossed</td><td>ėmboss𝕖ḋ</td><td>em-boss-ed</td><td>ėm-boss-𝕖ḋ</td><td>a. 浮雕的, 有凸起图案的</td></tr>
+<tr><td>emboss</td><td>emboss</td><td>em-boss</td><td>em-boss</td><td>vt. 使凸出, 浮雕</td></tr>
+<tr><td>embossed</td><td>emboss𝕖ḋ</td><td>em-boss-ed</td><td>em-boss-𝕖ḋ</td><td>a. 浮雕的, 有凸起图案的</td></tr>
 <tr><td>underboss</td><td>ûnde̊rboss</td><td>under-boss</td><td>ûnde̊r-boss</td><td>n. 副头目, 二把手</td></tr>
 <tr><td>Boston</td><td>Bosto̊n</td><td>Bost-on</td><td>Bost-o̊n</td><td>n. 波士顿(美国城市)</td></tr>
-<tr><td>bostonian</td><td>bostōniån</td><td>bost-on-ian</td><td>bost-ōn-iån</td><td>a. 波士顿的<br>n. 波士顿人</td></tr>
-<tr><td>bosun</td><td>bōs𝕦n</td><td>bosun</td><td>bōs𝕦n</td><td>n. 水手长</td></tr>
+<tr><td>bostonian</td><td>bo̊stōniån</td><td>bost-on-ian</td><td>bo̊st-ōn-iån</td><td>a. 波士顿的<br>n. 波士顿人</td></tr>
+<tr><td>bosun</td><td>bōsůn</td><td>bosun</td><td>bōsůn</td><td>n. 水手长</td></tr>
 <tr><td>bot</td><td>bot</td><td>bot</td><td>bot</td><td>n. 机器人程序, 自动程序</td></tr>
-<tr><td>microbot</td><td>micrōbot</td><td>micro-bot</td><td>micrō-bot</td><td>n. 微型机器人</td></tr>
+<tr><td>microbot</td><td>mīcrōbot</td><td>micro-bot</td><td>mīcrō-bot</td><td>n. 微型机器人</td></tr>
 <tr><td>nanobot</td><td>nanōbot</td><td>nano-bot</td><td>nanō-bot</td><td>n. 纳米机器人</td></tr>
 <tr><td>botany</td><td>botånẏ</td><td>botany</td><td>botånẏ</td><td>n. 植物学</td></tr>
 <tr><td>botanic</td><td>bo̊tanic</td><td>botan-ic</td><td>bo̊tan-ic</td><td>a. 植物学的</td></tr>
@@ -1918,30 +1918,30 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bothering</td><td>boṫhe̊ring</td><td>both-er-ing</td><td>boṫh-e̊r-ing</td><td></td></tr>
 <tr><td>bothers</td><td>boṫhe̊rṡ</td><td>both-er-s</td><td>boṫh-e̊r-ṡ</td><td></td></tr>
 <tr><td>bothersome</td><td>boṫhe̊rso̊me</td><td>both-er-some</td><td>boṫh-e̊r-so̊me</td><td>a. 令人烦恼的</td></tr>
-<tr><td>unbothered</td><td>ûnbōṫhe̊r𝕖d</td><td>un-both-er-ed</td><td>ûn-bōṫh-e̊r-𝕖d</td><td>a. 不受干扰的, 不在意的</td></tr>
-<tr><td>botox</td><td>bōtox</td><td>botox</td><td>bōtox</td><td>n. 肉毒杆菌素, 保妥适</td></tr>
+<tr><td>unbothered</td><td>ûnboṫhe̊r𝕖d</td><td>un-both-er-ed</td><td>ûn-boṫh-e̊r-𝕖d</td><td>a. 不受干扰的, 不在意的</td></tr>
+<tr><td>botox</td><td>botox</td><td>botox</td><td>botox</td><td>n. 肉毒杆菌素, 保妥适</td></tr>
 <tr><td>bottled</td><td>bottl𝕖d</td><td>bottl-ed</td><td>bottl-𝕖d</td><td>a. 瓶装的</td></tr>
 <tr><td>bottle</td><td>bottle</td><td>bott-le</td><td>bott-le</td><td>n. 瓶子<br>vt. 装瓶</td></tr>
 <tr><td>bottom</td><td>botto̊m</td><td>bott-om</td><td>bott-o̊m</td><td>n. 底部<br>a. 底部的<br>v. 到达底部</td></tr>
-<tr><td>bottomless</td><td>botto̊mle̊ss</td><td>bott-om-less</td><td>bott-o̊m-le̊ss</td><td>a. 无底的, 深不可测的</td></tr>
+<tr><td>bottomless</td><td>botto̊mlėss</td><td>bott-om-less</td><td>bott-o̊m-lėss</td><td>a. 无底的, 深不可测的</td></tr>
 <tr><td>bottler</td><td>bottle̊r</td><td>bott-le-r</td><td>bott-le̊-r</td><td>n. 装瓶机, 装瓶工</td></tr>
 <tr><td>bottles</td><td>bottl𝕖ṡ</td><td>bott-le-s</td><td>bott-l𝕖-ṡ</td><td></td></tr>
 <tr><td>bottoms</td><td>botto̊mṡ</td><td>bott-om-s</td><td>bott-o̊m-ṡ</td><td></td></tr>
-<tr><td>botulinum</td><td>botùlinům</td><td>botulinum</td><td>botùlinům</td><td>n. 肉毒（杆）菌</td></tr>
+<tr><td>botulinum</td><td>botūlinům</td><td>botulinum</td><td>botūlinům</td><td>n. 肉毒（杆）菌</td></tr>
 <tr><td>botulism</td><td>botūliṡm</td><td>botul-ism</td><td>botūl-iṡm</td><td>n. 肉毒杆菌中毒</td></tr>
-<tr><td>embouchure</td><td>𝕖mboūċhure̊</td><td>em-bouch-ure</td><td>𝕖m-boūċh-ure̊</td><td>n. 吹口（管乐器）, 河口</td></tr>
-<tr><td>boucle</td><td>boùclè</td><td>boucle</td><td>boùclè</td><td>n. 毛圈花式织物</td></tr>
-<tr><td>boudin</td><td>boùdin</td><td>boudin</td><td>boùdin</td><td>n. 血肠, 猪肉香肠</td></tr>
-<tr><td>boudoir</td><td>boùdoir</td><td>boudoir</td><td>boùdoir</td><td>n. 闺房</td></tr>
-<tr><td>bouffant</td><td>boùffãn𝕥</td><td>bouff-ant</td><td>boùff-ãn𝕥</td><td>a. 蓬松的, 鼓起的<br>n. 蓬松发型</td></tr>
-<tr><td>bougainvillaea</td><td>boùgåinvill𝕒ēå</td><td>bougain-villaea</td><td>boùgåin-vill𝕒ēå</td><td>n. 九重葛属植物</td></tr>
-<tr><td>bougainvillea</td><td>boùgāinvillēa</td><td>bougain-villea</td><td>boùgāin-villēa</td><td>n. 叶子花, 三角梅</td></tr>
+<tr><td>embouchure</td><td>emboūċhūre</td><td>em-bouch-ure</td><td>em-boūċh-ūre</td><td>n. 吹口（管乐器）, 河口</td></tr>
+<tr><td>boucle</td><td>boūclè</td><td>boucle</td><td>boūclè</td><td>n. 毛圈花式织物</td></tr>
+<tr><td>boudin</td><td>boūdin</td><td>boudin</td><td>boūdin</td><td>n. 血肠, 猪肉香肠</td></tr>
+<tr><td>boudoir</td><td>boūdoir</td><td>boudoir</td><td>boūdoir</td><td>n. 闺房</td></tr>
+<tr><td>bouffant</td><td>boūffånt</td><td>bouff-ant</td><td>boūff-ånt</td><td>a. 蓬松的, 鼓起的<br>n. 蓬松发型</td></tr>
+<tr><td>bougainvillaea</td><td>boūgåinvillaėå</td><td>bougain-villaea</td><td>boūgåin-villaėå</td><td>n. 九重葛属植物</td></tr>
+<tr><td>bougainvillea</td><td>boūgåinvillėå</td><td>bougain-villea</td><td>boūgåin-villėå</td><td>n. 叶子花, 三角梅</td></tr>
 <tr><td>bough</td><td>bòugh</td><td>bough</td><td>bòugh</td><td>n. 大树枝</td></tr>
-<tr><td>bouillabaisse</td><td>boùillåbāisse</td><td>bouill-abaisse</td><td>boùill-åbāisse</td><td>n. 马赛鱼汤(普罗旺斯菜)</td></tr>
-<tr><td>bouillon</td><td>boùillo̊n</td><td>bouill-on</td><td>boùill-o̊n</td><td>n. 清汤, 肉汤</td></tr>
+<tr><td>bouillabaisse</td><td>boūillåbaisse</td><td>bouill-abaisse</td><td>boūill-åbaisse</td><td>n. 马赛鱼汤(普罗旺斯菜)</td></tr>
+<tr><td>bouillon</td><td>boūillo̊n</td><td>bouill-on</td><td>boūill-o̊n</td><td>n. 清汤, 肉汤</td></tr>
 <tr><td>boulder</td><td>bōulde̊r</td><td>bould-er</td><td>bōuld-e̊r</td><td>n. 大圆石, 卵石</td></tr>
-<tr><td>boule</td><td>boùle</td><td>boule</td><td>boùle</td><td>n. 古希腊议会<br>n. 合成蓝宝石</td></tr>
-<tr><td>boulevard</td><td>bõule̊vàrd</td><td>boulevard</td><td>bõule̊vàrd</td><td>n. 林荫大道</td></tr>
+<tr><td>boule</td><td>boūle</td><td>boule</td><td>boūle</td><td>n. 古希腊议会<br>n. 合成蓝宝石</td></tr>
+<tr><td>boulevard</td><td>boūlėvàrd</td><td>boulevard</td><td>boūlėvàrd</td><td>n. 林荫大道</td></tr>
 <tr><td>bounce</td><td>bòunce</td><td>bounce</td><td>bòunce</td><td>vi. 弹回, 弹跳<br>vt. 使弹起, 使跳回<br>n. 弹跳, 反弹</td></tr>
 <tr><td>bounced</td><td>bòunc𝕖ḋ</td><td>bounc-ed</td><td>bòunc-𝕖ḋ</td><td>v. 弹回, 退回</td></tr>
 <tr><td>bouncer</td><td>bòunce̊r</td><td>bounc-er</td><td>bòunc-e̊r</td><td>n. 保镖, 门卫</td></tr>
@@ -1950,18 +1950,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bouncy</td><td>bòuncẏ</td><td>bounc-y</td><td>bòunc-ẏ</td><td>a. 快活的, 精神饱满的, 有弹性的, 自大的</td></tr>
 <tr><td>bound</td><td>bòund</td><td>bound</td><td>bòund</td><td>a. 受约束的, 准备去...的<br>vi. 跳跃, 弹起<br>vt. 限制</td></tr>
 <tr><td>boundary</td><td>bòundårẏ</td><td>bound-ary</td><td>bòund-årẏ</td><td>n. 边界, 分界线</td></tr>
-<tr><td>bounded</td><td>bòund𝕖d</td><td>bound-ed</td><td>bòund-𝕖d</td><td>a. 有界限的</td></tr>
+<tr><td>bounded</td><td>bòundėd</td><td>bound-ed</td><td>bòund-ėd</td><td>a. 有界限的</td></tr>
 <tr><td>bounder</td><td>bòunde̊r</td><td>bound-er</td><td>bòund-e̊r</td><td>n. 粗鲁的人, 暴发户</td></tr>
 <tr><td>bounding</td><td>bòunding</td><td>bound-ing</td><td>bòund-ing</td><td>a. 跳跃的<br>n. 跳跃</td></tr>
-<tr><td>boundless</td><td>bòundle̊ss</td><td>bound-less</td><td>bòund-le̊ss</td><td>a. 无限的, 无边无际的</td></tr>
+<tr><td>boundless</td><td>bòundlėss</td><td>bound-less</td><td>bòund-lėss</td><td>a. 无限的, 无边无际的</td></tr>
 <tr><td>boundaries</td><td>bòundåri𝕖ṡ</td><td>bound-ar-ies</td><td>bòund-år-i𝕖ṡ</td><td></td></tr>
 <tr><td>boundlessly</td><td>bòundlėsslẏ</td><td>bound-less-ly</td><td>bòund-lėss-lẏ</td><td>adv. 无穷地, 无限地</td></tr>
-<tr><td>boundlessness</td><td>bòundle̊ssne̊ss</td><td>bound-less-ness</td><td>bòund-le̊ss-ne̊ss</td><td>n. 无穷</td></tr>
+<tr><td>boundlessness</td><td>bòundlėssnėss</td><td>bound-less-ness</td><td>bòund-lėss-nėss</td><td>n. 无穷</td></tr>
 <tr><td>abound</td><td>åbòund</td><td>a-bound</td><td>å-bòund</td><td>vi. 大量存在, 富于</td></tr>
 <tr><td>eastbound</td><td>ēastbòund</td><td>east-bound</td><td>ēast-bòund</td><td>a. 向东的, 向东行的</td></tr>
 <tr><td>inbound</td><td>inbòund</td><td>in-bound</td><td>in-bòund</td><td>a. 入站的, 归航的</td></tr>
-<tr><td>rebound</td><td>rēbòund</td><td>re-bound</td><td>rē-bòund</td><td>v. 弹回, 回升<br>n. 弹回, 篮板球</td></tr>
-<tr><td>rebounding</td><td>rēbòunding</td><td>re-bound-ing</td><td>rē-bòund-ing</td><td>n. 反弹, 弹回</td></tr>
+<tr><td>rebound</td><td>rėbòund</td><td>re-bound</td><td>rė-bòund</td><td>v. 弹回, 回升<br>n. 弹回, 篮板球</td></tr>
+<tr><td>rebounding</td><td>rėbòunding</td><td>re-bound-ing</td><td>rė-bòund-ing</td><td>n. 反弹, 弹回</td></tr>
 <tr><td>transboundary</td><td>transbòundårẏ</td><td>trans-bound-ary</td><td>trans-bòund-årẏ</td><td>a. 跨界的</td></tr>
 <tr><td>unbound</td><td>ûnbòund</td><td>un-bound</td><td>ûn-bòund</td><td>a. 解脱束缚的, 自由的, 未装订的</td></tr>
 <tr><td>unbounded</td><td>ûnbòundėd</td><td>un-bound-ed</td><td>ûn-bòund-ėd</td><td>a. 无边的, 无限的, 无界限的</td></tr>
@@ -1970,42 +1970,42 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bounty</td><td>bòuntẏ</td><td>bount-y</td><td>bòunt-ẏ</td><td>n. 赏金, 慷慨, 施舍</td></tr>
 <tr><td>bountiful</td><td>bòuntifůl</td><td>bount-i-ful</td><td>bòunt-i-fůl</td><td>a. 慷慨的, 丰富的</td></tr>
 <tr><td>bountifully</td><td>bòuntifůllẏ</td><td>bount-i-ful-ly</td><td>bòunt-i-fůl-lẏ</td><td>adv. 慷慨地</td></tr>
-<tr><td>bouquet</td><td>boùq𝕦è𝕥</td><td>bouquet</td><td>boùq𝕦è𝕥</td><td>n. 花束</td></tr>
+<tr><td>bouquet</td><td>boūquè𝕥</td><td>bouquet</td><td>boūquè𝕥</td><td>n. 花束</td></tr>
 <tr><td>bouquets</td><td>boūquè𝕥s</td><td>bouquet-s</td><td>boūquè𝕥-s</td><td></td></tr>
 <tr><td>bourbon</td><td>bo̊urbo̊n</td><td>bourbon</td><td>bo̊urbo̊n</td><td>n. 波旁威士忌, 波旁王朝成员</td></tr>
 <tr><td>bourbons</td><td>bo̊urbo̊nṡ</td><td>bourbon-s</td><td>bo̊urbo̊n-ṡ</td><td></td></tr>
 <tr><td>bourgeois</td><td>bourgeois</td><td>bourge-o-is</td><td>bourge-o-is</td><td>n. 中产阶级, 资产阶级<br>a. 中产阶级的, 平庸的</td></tr>
-<tr><td>bourgeoisie</td><td>boūrge̊oisie</td><td>bourge-o-is-ie</td><td>boūrge̊-o-is-ie</td><td>n. 中产阶级, 资产阶级</td></tr>
-<tr><td>bourgeoise</td><td>bourge̊oiṡe</td><td>bourgeoise</td><td>bourge̊oiṡe</td><td>n. 中产阶级(或资产阶级)的女人</td></tr>
+<tr><td>bourgeoisie</td><td>bourgeoiṡiē</td><td>bourge-o-is-ie</td><td>bourge-o-iṡ-iē</td><td>n. 中产阶级, 资产阶级</td></tr>
+<tr><td>bourgeoise</td><td>bourgeoiṡe</td><td>bourgeoise</td><td>bourgeoiṡe</td><td>n. 中产阶级(或资产阶级)的女人</td></tr>
 <tr><td>bourse</td><td>bōurse</td><td>bourse</td><td>bōurse</td><td>n. 证券交易所</td></tr>
 <tr><td>bout</td><td>bòut</td><td>bout</td><td>bòut</td><td>n. 一阵, 一回, 回合</td></tr>
-<tr><td>boutique</td><td>boùtĩq𝕦e</td><td>boutique</td><td>boùtĩq𝕦e</td><td>n. 精品店, 时装店</td></tr>
+<tr><td>boutique</td><td>boūtĩque</td><td>boutique</td><td>boūtĩque</td><td>n. 精品店, 时装店</td></tr>
 <tr><td>boutonniere</td><td>boūto̊nnie̊re</td><td>boutonniere</td><td>boūto̊nnie̊re</td><td>n. 胸花, 钮孔花</td></tr>
 <tr><td>bovine</td><td>bōvīne</td><td>bov-ine</td><td>bōv-īne</td><td>n. 牛科动物<br>a. 牛的, 迟钝的</td></tr>
 <tr><td>above</td><td>åbôve</td><td>a-bove</td><td>å-bôve</td><td>prep. 在...上方, 超出<br>adv. 在上面<br>a. 上述的</td></tr>
 <tr><td>bow</td><td>bōw</td><td>bow</td><td>bōw</td><td>n. 弓, 蝴蝶结, 船首<br>v. 鞠躬, 弯腰</td></tr>
 <tr><td>bowed</td><td>bòw𝕖d</td><td>bow-ed</td><td>bòw-𝕖d</td><td>v. 鞠躬, 弯曲 (bow的过去式)<br>a. 弯如弓的, 恭敬的</td></tr>
 <tr><td>bower</td><td>bòwe̊r</td><td>bow-er</td><td>bòw-e̊r</td><td>n. 凉亭, 树荫处</td></tr>
-<tr><td>bowing</td><td>bōwing</td><td>bow-ing</td><td>bōw-ing</td><td>n. 运弓法</td></tr>
+<tr><td>bowing</td><td>bòwing</td><td>bow-ing</td><td>bòw-ing</td><td>n. 运弓法</td></tr>
 <tr><td>bowman</td><td>bōwmån</td><td>bow-man</td><td>bōw-mån</td><td>n. 弓箭手</td></tr>
 <tr><td>bows</td><td>bōwṡ</td><td>bow-s</td><td>bōw-ṡ</td><td></td></tr>
 <tr><td>bowsprit</td><td>bòwsprit</td><td>bow-sprit</td><td>bòw-sprit</td><td>n. 船首斜桁</td></tr>
 <tr><td>bowstring</td><td>bōwstring</td><td>bow-string</td><td>bōw-string</td><td>n. 弓弦, 绞索<br>vt. 绞死</td></tr>
 <tr><td>bowhunter</td><td>bōwhûnte̊r</td><td>bow-hunt-er</td><td>bōw-hûnt-e̊r</td><td>n. 弓猎者</td></tr>
-<tr><td>bowlegged</td><td>bōwlegg𝕖d</td><td>bow-legg-ed</td><td>bōw-legg-𝕖d</td><td>a. 弓形腿的</td></tr>
-<tr><td>bowrider</td><td>bòwrīde̊r</td><td>bow-rid-er</td><td>bòw-rīd-e̊r</td><td>n. 艏座快艇（船头有座位的船）</td></tr>
-<tr><td>bowthruster</td><td>bòwthrûste̊r</td><td>bow-thrust-er</td><td>bòw-thrûst-e̊r</td><td>n. 艏侧推器, 船首推进器</td></tr>
+<tr><td>bowlegged</td><td>bōwlėggėd</td><td>bow-legg-ed</td><td>bōw-lėgg-ėd</td><td>a. 弓形腿的</td></tr>
+<tr><td>bowrider</td><td>bōwrīde̊r</td><td>bow-rid-er</td><td>bōw-rīd-e̊r</td><td>n. 艏座快艇（船头有座位的船）</td></tr>
+<tr><td>bowthruster</td><td>bōwthrûste̊r</td><td>bow-thrust-er</td><td>bōw-thrûst-e̊r</td><td>n. 艏侧推器, 船首推进器</td></tr>
 <tr><td>bowhunting</td><td>bōwhûnting</td><td>bow-hunt-ing</td><td>bōw-hûnt-ing</td><td>n. 弓猎</td></tr>
 <tr><td>elbow</td><td>elbōw</td><td>el-bow</td><td>el-bōw</td><td>n. 肘, 弯头, 肘部<br>v. 用肘推, 挤进</td></tr>
 <tr><td>elbows</td><td>elbōwṡ</td><td>el-bow-s</td><td>el-bōw-ṡ</td><td></td></tr>
-<tr><td>unbowed</td><td>ûnbōw𝕖d</td><td>un-bow-ed</td><td>ûn-bōw-𝕖d</td><td>a. 不屈的, 不弯的</td></tr>
-<tr><td>bowdlerize</td><td>bòwdle̊rīze</td><td>bowdl-er-ize</td><td>bòwdl-e̊r-īze</td><td>vt. 删改, 删减</td></tr>
+<tr><td>unbowed</td><td>ûnbòw𝕖d</td><td>un-bow-ed</td><td>ûn-bòw-𝕖d</td><td>a. 不屈的, 不弯的</td></tr>
+<tr><td>bowdlerize</td><td>bōwdle̊rīze</td><td>bowdl-er-ize</td><td>bōwdl-e̊r-īze</td><td>vt. 删改, 删减</td></tr>
 <tr><td>bowel</td><td>bòwe̊l</td><td>bowel</td><td>bòwe̊l</td><td>n. 肠, 内部</td></tr>
 <tr><td>bowels</td><td>bòwe̊lṡ</td><td>bowel-s</td><td>bòwe̊l-ṡ</td><td>n. 肠, 内脏</td></tr>
 <tr><td>bowl</td><td>bōwl</td><td>bowl</td><td>bōwl</td><td>n. 碗, 钵<br>v. 滚(球)</td></tr>
 <tr><td>bowled</td><td>bōwl𝕖d</td><td>bowl-ed</td><td>bōwl-𝕖d</td><td></td></tr>
 <tr><td>bowler</td><td>bōwle̊r</td><td>bowl-er</td><td>bōwl-e̊r</td><td>n. 玩滚球的人, 玩球戏的人, 投球手</td></tr>
-<tr><td>bowlful</td><td>bōwlfùl</td><td>bowl-ful</td><td>bōwl-fùl</td><td>n. 一满碗</td></tr>
+<tr><td>bowlful</td><td>bōwlfůl</td><td>bowl-ful</td><td>bōwl-fůl</td><td>n. 一满碗</td></tr>
 <tr><td>bowling</td><td>bōwling</td><td>bowl-ing</td><td>bōwl-ing</td><td>n. 保龄球</td></tr>
 <tr><td>bowls</td><td>bōwlṡ</td><td>bowl-s</td><td>bōwl-ṡ</td><td></td></tr>
 <tr><td>box</td><td>box</td><td>box</td><td>box</td><td>n. 盒子, 箱, 包厢<br>vt. 装箱, 打耳光<br>vi. 拳击</td></tr>
@@ -2013,12 +2013,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boxed</td><td>box𝕖ḋ</td><td>box-ed</td><td>box-𝕖ḋ</td><td>a. 装箱的, 盒装的</td></tr>
 <tr><td>boxer</td><td>boxe̊r</td><td>box-er</td><td>box-e̊r</td><td>n. 拳击手<br>n. 拳师犬</td></tr>
 <tr><td>boxes</td><td>boxėṡ</td><td>box-es</td><td>box-ėṡ</td><td></td></tr>
-<tr><td>boxful</td><td>boxfùl</td><td>box-ful</td><td>box-fùl</td><td>n. 一箱的</td></tr>
+<tr><td>boxful</td><td>boxfůl</td><td>box-ful</td><td>box-fůl</td><td>n. 一箱的</td></tr>
 <tr><td>boxing</td><td>boxing</td><td>box-ing</td><td>box-ing</td><td>n. 拳击</td></tr>
 <tr><td>boxlike</td><td>boxlīke</td><td>box-like</td><td>box-līke</td><td>a. 像箱子一样的</td></tr>
 <tr><td>boxy</td><td>boxẏ</td><td>box-y</td><td>box-ẏ</td><td>a. 盒状的, 方方的</td></tr>
 <tr><td>boxers</td><td>boxe̊rṡ</td><td>box-er-s</td><td>box-e̊r-ṡ</td><td></td></tr>
-<tr><td>jukebox</td><td>jūkebox</td><td>juke-box</td><td>jūke-box</td><td>n. 自动点唱机</td></tr>
+<tr><td>jukebox</td><td>jūk𝕖box</td><td>juke-box</td><td>jūk𝕖-box</td><td>n. 自动点唱机</td></tr>
 <tr><td>kickboxing</td><td>kickboxing</td><td>kick-box-ing</td><td>kick-box-ing</td><td>n. 跆拳道</td></tr>
 <tr><td>postbox</td><td>pōstbox</td><td>post-box</td><td>pōst-box</td><td>n. 邮箱, 邮筒</td></tr>
 <tr><td>letterbox</td><td>lette̊rbox</td><td>lett-er-box</td><td>lett-e̊r-box</td><td>n. 邮箱, 信箱</td></tr>
@@ -2027,12 +2027,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>boyish</td><td>boẏish</td><td>boy-ish</td><td>boẏ-ish</td><td>a. 男孩的, 有男孩气的</td></tr>
 <tr><td>boys</td><td>boẏṡ</td><td>boy-s</td><td>boẏ-ṡ</td><td></td></tr>
 <tr><td>boyishly</td><td>boẏishlẏ</td><td>boy-ish-ly</td><td>boẏ-ish-lẏ</td><td>adv. 少年地, 稚气地</td></tr>
-<tr><td>boyishness</td><td>boẏishne̊ss</td><td>boy-ish-ness</td><td>boẏ-ish-ne̊ss</td><td>n. 少年气, 孩子气</td></tr>
-<tr><td>choirboy</td><td>choirboẏ</td><td>choir-boy</td><td>choir-boẏ</td><td>n. (唱诗班的)少年歌者</td></tr>
+<tr><td>boyishness</td><td>boẏishnėss</td><td>boy-ish-ness</td><td>boẏ-ish-nėss</td><td>n. 少年气, 孩子气</td></tr>
+<tr><td>choirboy</td><td>c𝕙oīrboẏ</td><td>choir-boy</td><td>c𝕙oīr-boẏ</td><td>n. (唱诗班的)少年歌者</td></tr>
 <tr><td>doughboy</td><td>dōu𝕘𝕙boẏ</td><td>dough-boy</td><td>dōu𝕘𝕙-boẏ</td><td>n. 步兵(一战时期)<br>n. 面团团子</td></tr>
 <tr><td>tomboy</td><td>tomboẏ</td><td>tom-boy</td><td>tom-boẏ</td><td>n. 似男孩的顽皮姑娘, 假小子</td></tr>
 <tr><td>tomboyish</td><td>tomboẏish</td><td>tom-boy-ish</td><td>tom-boẏ-ish</td><td>a. 顽皮的, 放肆的</td></tr>
-<tr><td>boyar</td><td>bōyàr</td><td>boyar</td><td>bōyàr</td><td>n. 波雅尔（俄国旧贵族阶层成员）</td></tr>
+<tr><td>boyar</td><td>boẏàr</td><td>boyar</td><td>boẏàr</td><td>n. 波雅尔（俄国旧贵族阶层成员）</td></tr>
 <tr><td>boyo</td><td>boẏō</td><td>boyo</td><td>boẏō</td><td>n. 男孩, 小伙子</td></tr>
 <tr><td>bozo</td><td>bōzō</td><td>bozo</td><td>bōzō</td><td>n. 蠢货, 家伙</td></tr>
 <tr><td>brought</td><td>brōu𝕘𝕙t</td><td>brought</td><td>brōu𝕘𝕙t</td><td></td></tr>
@@ -2045,29 +2045,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bras</td><td>bràṡ</td><td>bra-s</td><td>brà-ṡ</td><td></td></tr>
 <tr><td>brace</td><td>brāce</td><td>brace</td><td>brāce</td><td>n. 支撑, 支架, 一对<br>vt. 支撑, 振作</td></tr>
 <tr><td>bracing</td><td>brācing</td><td>brac-ing</td><td>brāc-ing</td><td>a. 凉爽的, 令人振奋的<br>n. 支撑物</td></tr>
-<tr><td>bracelet</td><td>brāc𝕖le̊t</td><td>brace-let</td><td>brāc𝕖-le̊t</td><td>n. 手镯</td></tr>
+<tr><td>bracelet</td><td>brāc𝕖lėt</td><td>brace-let</td><td>brāc𝕖-lėt</td><td>n. 手镯</td></tr>
 <tr><td>bracingly</td><td>brācinglẏ</td><td>brac-ing-ly</td><td>brāc-ing-lẏ</td><td>adv. 令人振奋地, 清爽地</td></tr>
-<tr><td>bracero</td><td>bràcèrō</td><td>brac-er-o</td><td>bràc-èr-ō</td><td>n. 墨西哥短期合同工</td></tr>
+<tr><td>bracero</td><td>bråcerō</td><td>brac-er-o</td><td>bråc-er-ō</td><td>n. 墨西哥短期合同工</td></tr>
 <tr><td>bracelets</td><td>brāc𝕖lėts</td><td>brace-let-s</td><td>brāc𝕖-lėt-s</td><td></td></tr>
 <tr><td>abracadabra</td><td>abråcådabrå</td><td>a-braca-da-bra</td><td>a-bråcå-da-brå</td><td>n. 咒语, 胡言乱语</td></tr>
 <tr><td>embrace</td><td>ėmbrāce</td><td>em-brace</td><td>ėm-brāce</td><td>n. 拥抱<br>vt. 拥抱, 互相拥抱, 包含, 信奉<br>vi. 拥抱</td></tr>
-<tr><td>embraceable</td><td>ėmbrāce̊able</td><td>em-brace-able</td><td>ėm-brāce̊-able</td><td>a. 可拥抱的, 可接受的</td></tr>
+<tr><td>embraceable</td><td>embrāc𝕖åble</td><td>em-brace-able</td><td>em-brāc𝕖-åble</td><td>a. 可拥抱的, 可接受的</td></tr>
 <tr><td>embraced</td><td>embrāc𝕖ḋ</td><td>em-brac-ed</td><td>em-brāc-𝕖ḋ</td><td></td></tr>
 <tr><td>embracing</td><td>embrācing</td><td>em-brac-ing</td><td>em-brāc-ing</td><td>v. 拥抱, 包括, 接受</td></tr>
 <tr><td>embraces</td><td>embrācėṡ</td><td>em-brace-s</td><td>em-brācė-ṡ</td><td></td></tr>
 <tr><td>braces</td><td>brācėṡ</td><td>braces</td><td>brācėṡ</td><td></td></tr>
 <tr><td>brachial</td><td>brāc𝕙iål</td><td>brach-i-al</td><td>brāc𝕙-i-ål</td><td>a. 臂的, 肱的</td></tr>
-<tr><td>brachialis</td><td>brāc𝕙iålis</td><td>brach-i-al-is</td><td>brāc𝕙-i-ål-is</td><td>n. 肱肌</td></tr>
+<tr><td>brachialis</td><td>brāc𝕙ialis</td><td>brach-i-al-is</td><td>brāc𝕙-i-al-is</td><td>n. 肱肌</td></tr>
 <tr><td>bracken</td><td>bracke̊n</td><td>brack-en</td><td>brack-e̊n</td><td>n. 蕨, 欧洲蕨</td></tr>
 <tr><td>bracket</td><td>brackėt</td><td>brack-et</td><td>brack-ėt</td><td>n. 支架, 括弧<br>vt. 加括弧</td></tr>
 <tr><td>brackish</td><td>brackish</td><td>brack-ish</td><td>brack-ish</td><td>a. 微咸的</td></tr>
-<tr><td>bracketed</td><td>bracke̊tėd</td><td>brack-et-ed</td><td>brack-e̊t-ėd</td><td>v. 加括号, 归为一类 (bracket的过去式和过去分词)</td></tr>
+<tr><td>bracketed</td><td>brackėtėd</td><td>brack-et-ed</td><td>brack-ėt-ėd</td><td>v. 加括号, 归为一类 (bracket的过去式和过去分词)</td></tr>
 <tr><td>bracketing</td><td>brackėting</td><td>brack-et-ing</td><td>brack-ėt-ing</td><td>v. 加括号, 分类</td></tr>
 <tr><td>bract</td><td>bract</td><td>bract</td><td>bract</td><td>n. 苞片, 苞</td></tr>
 <tr><td>brae</td><td>brāe</td><td>brae</td><td>brāe</td><td>n. 斜坡, 山坡</td></tr>
 <tr><td>brag</td><td>brag</td><td>brag</td><td>brag</td><td>n. 吹牛<br>v. 吹牛</td></tr>
-<tr><td>braggadocio</td><td>braggådōċiō</td><td>braggadocio</td><td>braggådōċiō</td><td>n. 自夸, 吹牛大王</td></tr>
-<tr><td>braggart</td><td>braggårt</td><td>bragg-art</td><td>bragg-årt</td><td>n. 吹牛者<br>a. 吹牛的, 自夸的</td></tr>
+<tr><td>braggadocio</td><td>braggådōciō</td><td>braggadocio</td><td>braggådōciō</td><td>n. 自夸, 吹牛大王</td></tr>
+<tr><td>braggart</td><td>braggàrt</td><td>bragg-art</td><td>bragg-àrt</td><td>n. 吹牛者<br>a. 吹牛的, 自夸的</td></tr>
 <tr><td>bragged</td><td>bragg𝕖d</td><td>bragg-ed</td><td>bragg-𝕖d</td><td></td></tr>
 <tr><td>bragging</td><td>bragging</td><td>bragg-ing</td><td>bragg-ing</td><td>n. 吹牛, 自夸</td></tr>
 <tr><td>brags</td><td>bragṡ</td><td>brag-s</td><td>brag-ṡ</td><td></td></tr>
@@ -2075,7 +2075,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>braided</td><td>brāidėd</td><td>braid-ed</td><td>brāid-ėd</td><td>a. 编辫子的；有饰带镶缀的</td></tr>
 <tr><td>braiding</td><td>brāiding</td><td>braid-ing</td><td>brāid-ing</td><td>n. 编带, 编织装饰<br>v. 编织, 编辫子</td></tr>
 <tr><td>upbraid</td><td>ûpbrāid</td><td>up-braid</td><td>ûp-brāid</td><td>vt. 谴责, 责骂, 申斥</td></tr>
-<tr><td>unbraided</td><td>ûnbrāid𝕖d</td><td>un-braid-ed</td><td>ûn-brāid-𝕖d</td><td>v. 解开辫子</td></tr>
+<tr><td>unbraided</td><td>ûnbrāidėd</td><td>un-braid-ed</td><td>ûn-brāid-ėd</td><td>v. 解开辫子</td></tr>
 <tr><td>braille</td><td>brāille</td><td>braille</td><td>brāille</td><td>n. 盲文<br>vt. 用盲文印</td></tr>
 <tr><td>braillewriter</td><td>brāill𝕖𝕨rīte̊r</td><td>braille-writ-er</td><td>brāill𝕖-𝕨rīt-e̊r</td><td>n. 盲文打字机</td></tr>
 <tr><td>brain</td><td>brāin</td><td>brain</td><td>brāin</td><td>n. 大脑, 脑力</td></tr>
@@ -2087,14 +2087,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>brains</td><td>brāinṡ</td><td>brain-s</td><td>brāin-ṡ</td><td></td></tr>
 <tr><td>brainstem</td><td>brāinstem</td><td>brain-stem</td><td>brāin-stem</td><td>n. 脑干</td></tr>
 <tr><td>brainstorm</td><td>brāinstorm</td><td>brain-storm</td><td>brāin-storm</td><td>n. 灵机一动<br>v. 集体讨论</td></tr>
-<tr><td>brainwash</td><td>brāinwàsh</td><td>brain-wash</td><td>brāin-wàsh</td><td>n. 洗脑<br>vt. 对人洗脑</td></tr>
+<tr><td>brainwash</td><td>brāinwãsh</td><td>brain-wash</td><td>brāin-wãsh</td><td>n. 洗脑<br>vt. 对人洗脑</td></tr>
 <tr><td>brainwave</td><td>brāinwāve</td><td>brain-wave</td><td>brāin-wāve</td><td>n. 脑(电)波, 灵感</td></tr>
 <tr><td>brainy</td><td>brāinẏ</td><td>brain-y</td><td>brāin-ẏ</td><td>a. 聪明的, 有头脑的</td></tr>
 <tr><td>brainpower</td><td>brāinpòwe̊r</td><td>brain-pow-er</td><td>brāin-pòw-e̊r</td><td>n. 智能, 智囊</td></tr>
-<tr><td>brainwashed</td><td>brāinwàsh𝕖ḋ</td><td>brain-wash-ed</td><td>brāin-wàsh-𝕖ḋ</td><td>a. 被洗脑的</td></tr>
+<tr><td>brainwashed</td><td>brāinwãsh𝕖ḋ</td><td>brain-wash-ed</td><td>brāin-wãsh-𝕖ḋ</td><td>a. 被洗脑的</td></tr>
 <tr><td>brainwashes</td><td>brāinwãshėṡ</td><td>brain-wash-es</td><td>brāin-wãsh-ėṡ</td><td></td></tr>
 <tr><td>brainstorming</td><td>brāinstorming</td><td>brain-storm-ing</td><td>brāin-storm-ing</td><td>n. 头脑风暴, 集思广益</td></tr>
-<tr><td>brainwashing</td><td>brāinwàshing</td><td>brain-wash-ing</td><td>brāin-wàsh-ing</td><td>n. 洗脑</td></tr>
+<tr><td>brainwashing</td><td>brāinwãshing</td><td>brain-wash-ing</td><td>brāin-wãsh-ing</td><td>n. 洗脑</td></tr>
 <tr><td>forebrain</td><td>for𝕖brāin</td><td>fore-brain</td><td>for𝕖-brāin</td><td>n. 前脑</td></tr>
 <tr><td>midbrain</td><td>midbrāin</td><td>mid-brain</td><td>mid-brāin</td><td>n. 中脑</td></tr>
 <tr><td>braise</td><td>brāiṡe</td><td>braise</td><td>brāiṡe</td><td>vt. 炖, 焖</td></tr>
@@ -2115,13 +2115,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>branchial</td><td>branc𝕙iål</td><td>branch-i-al</td><td>branc𝕙-i-ål</td><td>a. 鳃的, 鳃状的</td></tr>
 <tr><td>unbranched</td><td>ûnbrànch𝕖ḋ</td><td>un-branch-ed</td><td>ûn-brànch-𝕖ḋ</td><td>a. 无分支的, 无支链的</td></tr>
 <tr><td>brand</td><td>brand</td><td>brand</td><td>brand</td><td>n. 商标, 牌子, 烙印<br>vt. 打烙印于</td></tr>
-<tr><td>brandade</td><td>brãndàde</td><td>brand-ade</td><td>brãnd-àde</td><td>n. 奶油烙鳕鱼(法式料理)</td></tr>
+<tr><td>brandade</td><td>brandāde</td><td>brand-ade</td><td>brand-āde</td><td>n. 奶油烙鳕鱼(法式料理)</td></tr>
 <tr><td>branded</td><td>brandėd</td><td>brand-ed</td><td>brand-ėd</td><td>a. 打有烙印的, 有品牌的</td></tr>
 <tr><td>branding</td><td>branding</td><td>brand-ing</td><td>brand-ing</td><td>n. 品牌化, 打烙印</td></tr>
 <tr><td>brandish</td><td>brandish</td><td>brand-ish</td><td>brand-ish</td><td>vt. 挥舞, 威胁性地挥动</td></tr>
 <tr><td>brands</td><td>brandṡ</td><td>brand-s</td><td>brand-ṡ</td><td></td></tr>
 <tr><td>brandy</td><td>brandẏ</td><td>brand-y</td><td>brand-ẏ</td><td>n. 白兰地</td></tr>
-<tr><td>brandied</td><td>brandiēd</td><td>brand-i-ed</td><td>brand-i-ēd</td><td>a. 加白兰地的, 用白兰地调味的</td></tr>
+<tr><td>brandied</td><td>brandi𝕖d</td><td>brand-i-ed</td><td>brand-i-𝕖d</td><td>a. 加白兰地的, 用白兰地调味的</td></tr>
 <tr><td>multi-brand</td><td></td><td>multi-brand</td><td></td><td>a. 多品牌的</td></tr>
 <tr><td>own-brand</td><td>ōwn-brand</td><td>own-brand</td><td>ōwn-brand</td><td>a. 自有品牌的</td></tr>
 <tr><td>brane</td><td>brāne</td><td>brane</td><td>brāne</td><td>n. 膜（弦理论中的物理概念）</td></tr>
@@ -2129,23 +2129,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>abrasion</td><td>åbrāsio̊n</td><td>a-bras-ion</td><td>å-brās-io̊n</td><td>n. 磨损, 擦伤</td></tr>
 <tr><td>abrasive</td><td>åbrāsive</td><td>a-bras-ive</td><td>å-brās-ive</td><td>n. 研磨料<br>a. 研磨的, 粗糙的</td></tr>
 <tr><td>abrasiveness</td><td>åbrāsiv𝕖nėss</td><td>a-bras-ive-ness</td><td>å-brās-iv𝕖-nėss</td><td>n. 粗暴, 研磨性</td></tr>
-<tr><td>embrasure</td><td>ėmbrās̃ůre</td><td>em-bras-ure</td><td>ėm-brās̃-ůre</td><td>n. 枪眼, 炮眼</td></tr>
+<tr><td>embrasure</td><td>embras̃ůre</td><td>em-bras-ure</td><td>em-bras̃-ůre</td><td>n. 枪眼, 炮眼</td></tr>
 <tr><td>brash</td><td>brash</td><td>brash</td><td>brash</td><td>a. 傲慢的, 性急的</td></tr>
 <tr><td>brashly</td><td>brashlẏ</td><td>brash-ly</td><td>brash-lẏ</td><td>adv. 鲁莽地, 傲慢地</td></tr>
-<tr><td>brashness</td><td>brashne̊ss</td><td>brash-ness</td><td>brash-ne̊ss</td><td>n. 莽撞, 无礼</td></tr>
+<tr><td>brashness</td><td>brashnėss</td><td>brash-ness</td><td>brash-nėss</td><td>n. 莽撞, 无礼</td></tr>
 <tr><td>brass</td><td>bràss</td><td>brass</td><td>bràss</td><td>n. 黄铜, 黄铜制品</td></tr>
 <tr><td>brassy</td><td>brassẏ</td><td>brass-y</td><td>brass-ẏ</td><td>a. 黄铜色的, 厚脸皮的</td></tr>
-<tr><td>brassica</td><td>brassĩcå</td><td>brass-ic-a</td><td>brass-ĩc-å</td><td>n. 芸薹属植物（如卷心菜、花椰菜等）</td></tr>
-<tr><td>brassiere</td><td>brassiēre</td><td>brass-i-ere</td><td>brass-i-ēre</td><td>n. 胸罩</td></tr>
-<tr><td>brasserie</td><td>brasse̊riē</td><td>brass-er-ie</td><td>brass-e̊r-iē</td><td>n. 啤酒店, 小餐厅</td></tr>
+<tr><td>brassica</td><td>brassicå</td><td>brass-ic-a</td><td>brass-ic-å</td><td>n. 芸薹属植物（如卷心菜、花椰菜等）</td></tr>
+<tr><td>brassiere</td><td>bråsṡie̊re</td><td>brass-i-ere</td><td>bråsṡ-i-e̊re</td><td>n. 胸罩</td></tr>
+<tr><td>brasserie</td><td>brasse̊rie</td><td>brass-er-ie</td><td>brass-e̊r-ie</td><td>n. 啤酒店, 小餐厅</td></tr>
 <tr><td>brat</td><td>brat</td><td>brat</td><td>brat</td><td>n. 顽童, 淘气鬼</td></tr>
 <tr><td>brats</td><td>brats</td><td>brat-s</td><td>brat-s</td><td></td></tr>
 <tr><td>brattish</td><td>brattish</td><td>bratt-ish</td><td>bratt-ish</td><td>a. 讨厌的, 被宠坏的</td></tr>
 <tr><td>bratty</td><td>brattẏ</td><td>bratt-y</td><td>bratt-ẏ</td><td>a. 讨厌的, 不听话的</td></tr>
 <tr><td>brave</td><td>brāve</td><td>brave</td><td>brāve</td><td>a. 勇敢的<br>vt. 勇敢面对</td></tr>
 <tr><td>bravo</td><td>bràvō</td><td>bravo</td><td>bràvō</td><td>interj. 好极了!<br>n. 喝彩声</td></tr>
-<tr><td>brava</td><td>bràvà</td><td>brav-a</td><td>bràv-à</td><td>int. 好啊(向女性喝彩)</td></tr>
-<tr><td>bravado</td><td>bråvàdō</td><td>brav-ado</td><td>bråv-àdō</td><td>n. 虚张声势, 逞能</td></tr>
+<tr><td>brava</td><td>bràvå</td><td>brav-a</td><td>bràv-å</td><td>int. 好啊(向女性喝彩)</td></tr>
+<tr><td>bravado</td><td>bravàdō</td><td>brav-ado</td><td>brav-àdō</td><td>n. 虚张声势, 逞能</td></tr>
 <tr><td>braver</td><td>brāve̊r</td><td>brav-er</td><td>brāv-e̊r</td><td></td></tr>
 <tr><td>bravery</td><td>brāve̊rẏ</td><td>brav-ery</td><td>brāv-e̊rẏ</td><td>n. 勇敢</td></tr>
 <tr><td>bravest</td><td>brāvėst</td><td>brav-est</td><td>brāv-ėst</td><td></td></tr>
@@ -2159,17 +2159,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>braying</td><td>brāying</td><td>bray-ing</td><td>brāy-ing</td><td>v. 发出驴叫般的声音<br>v. 粗声大笑</td></tr>
 <tr><td>braze</td><td>brāze</td><td>braze</td><td>brāze</td><td>vt. 铜焊, 用黄铜镀</td></tr>
 <tr><td>brazen</td><td>brāze̊n</td><td>braz-en</td><td>brāz-e̊n</td><td>a. 黄铜制的, 厚颜无耻的<br>vt. 厚着脸皮对待</td></tr>
-<tr><td>brazier</td><td>brāziēr</td><td>braz-ier</td><td>brāz-iēr</td><td>n. 火盆, 铜匠</td></tr>
+<tr><td>brazier</td><td>brāzie̊r</td><td>braz-ier</td><td>brāz-ie̊r</td><td>n. 火盆, 铜匠</td></tr>
 <tr><td>brazenly</td><td>brāze̊nlẏ</td><td>braz-en-ly</td><td>brāz-e̊n-lẏ</td><td>adv. 厚颜无耻地</td></tr>
-<tr><td>brazenness</td><td>brāze̊nne̊ss</td><td>braz-en-ness</td><td>brāz-e̊n-ne̊ss</td><td>n. 厚颜无耻, 猖狂</td></tr>
+<tr><td>brazenness</td><td>brāze̊nnėss</td><td>braz-en-ness</td><td>brāz-e̊n-nėss</td><td>n. 厚颜无耻, 猖狂</td></tr>
 <tr><td>Brazil</td><td>Bråzil</td><td>Brazil</td><td>Bråzil</td><td>n. 巴西</td></tr>
-<tr><td>brazilian</td><td>bråziliån</td><td>brazil-ian</td><td>bråzil-iån</td><td>n. 巴西人<br>a. 巴西的</td></tr>
-<tr><td>brea</td><td>brēa</td><td>brea</td><td>brēa</td><td>n. 布雷亚(地名)</td></tr>
+<tr><td>brazilian</td><td>braziliån</td><td>brazil-ian</td><td>brazil-iån</td><td>n. 巴西人<br>a. 巴西的</td></tr>
+<tr><td>brea</td><td>brēå</td><td>brea</td><td>brēå</td><td>n. 布雷亚(地名)</td></tr>
 <tr><td>breach</td><td>brēach</td><td>breach</td><td>brēach</td><td>n. 违反, 裂口<br>vt. 攻破, 打破</td></tr>
 <tr><td>breached</td><td>brēach𝕖ḋ</td><td>breach-ed</td><td>brēach-𝕖ḋ</td><td>v. 破坏, 违反 (breach的过去式和过去分词)</td></tr>
 <tr><td>breaching</td><td>brēaching</td><td>breach-ing</td><td>brēach-ing</td><td>n. 突破, 违反<br>v. 攻破, 破坏</td></tr>
 <tr><td>bread</td><td>brèad</td><td>bread</td><td>brèad</td><td>n. 面包, 生计</td></tr>
-<tr><td>breadbasket</td><td>brèadbaske̊t</td><td>bread-basket</td><td>brèad-baske̊t</td><td>n. 产粮区, 面包篮</td></tr>
+<tr><td>breadbasket</td><td>brèadbaskėt</td><td>bread-basket</td><td>brèad-baskėt</td><td>n. 产粮区, 面包篮</td></tr>
 <tr><td>breadboard</td><td>brèadbōard</td><td>bread-board</td><td>brèad-bōard</td><td>n. 案板, 实验电路板</td></tr>
 <tr><td>breadbox</td><td>brèadbox</td><td>bread-box</td><td>brèad-box</td><td>n. 面包箱, 面包盒</td></tr>
 <tr><td>breadcrumb</td><td>brèadcrûm𝕓</td><td>bread-crumb</td><td>brèad-crûm𝕓</td><td>n. 面包屑</td></tr>
@@ -2186,7 +2186,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>broke</td><td>brōke</td><td>broke</td><td>brōke</td><td>a. 破产的, 身无分文的</td></tr>
 <tr><td>breakable</td><td>breākåble</td><td>break-able</td><td>breāk-åble</td><td>a. 易碎的<br>n. 易碎物品</td></tr>
 <tr><td>breakage</td><td>breākȧge</td><td>break-age</td><td>breāk-ȧge</td><td>n. 破损, 破坏</td></tr>
-<tr><td>breakdance</td><td>breākdance</td><td>break-dance</td><td>breāk-dance</td><td>n. 霹雳舞</td></tr>
+<tr><td>breakdance</td><td>breākdànce</td><td>break-dance</td><td>breāk-dànce</td><td>n. 霹雳舞</td></tr>
 <tr><td>breakdown</td><td>breākdòwn</td><td>break-down</td><td>breāk-dòwn</td><td>n. 故障, 崩溃, 分类</td></tr>
 <tr><td>breaker</td><td>breāke̊r</td><td>break-er</td><td>breāk-e̊r</td><td>n. 碎波, 断路器</td></tr>
 <tr><td>broken</td><td>brōke̊n</td><td>brok-en</td><td>brōk-e̊n</td><td>a. 坏掉的, 打破的, 断掉的<br>break的过去分词</td></tr>
@@ -2198,14 +2198,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>breakout</td><td>breākòut</td><td>break-out</td><td>breāk-òut</td><td>n. 爆发, 越狱</td></tr>
 <tr><td>breakpoint</td><td>breākpoint</td><td>break-point</td><td>breāk-point</td><td>n. 断点</td></tr>
 <tr><td>breaks</td><td>breāks</td><td>break-s</td><td>breāk-s</td><td></td></tr>
-<tr><td>breakthrough</td><td>breākthroù𝕘𝕙</td><td>break-through</td><td>breāk-throù𝕘𝕙</td><td>n. 突破, 重大进展</td></tr>
+<tr><td>breakthrough</td><td>breākthroū𝕘𝕙</td><td>break-through</td><td>breāk-throū𝕘𝕙</td><td>n. 突破, 重大进展</td></tr>
 <tr><td>breakup</td><td>breākûp</td><td>break-up</td><td>breāk-ûp</td><td>n. 分裂, 崩溃</td></tr>
 <tr><td>brokerage</td><td>brōke̊rȧge</td><td>brok-er-age</td><td>brōk-e̊r-ȧge</td><td>n. 经纪业, 佣金</td></tr>
 <tr><td>brokered</td><td>brōke̊r𝕖d</td><td>brok-er-ed</td><td>brōk-e̊r-𝕖d</td><td>v. 作为中间人安排, 斡旋(broker的过去式和过去分词)</td></tr>
 <tr><td>breakwater</td><td>breākwãte̊r</td><td>break-wat-er</td><td>breāk-wãt-e̊r</td><td>n. 防浪堤</td></tr>
 <tr><td>brokering</td><td>brōke̊ring</td><td>brok-er-ing</td><td>brōk-e̊r-ing</td><td>v. 做经纪人, 作为中间人 (broker的现在分词)</td></tr>
 <tr><td>brokenly</td><td>brōke̊nlẏ</td><td>brok-en-ly</td><td>brōk-e̊n-lẏ</td><td>adv. 断断续续地, 不连贯地</td></tr>
-<tr><td>brokenness</td><td>brōke̊nne̊ss</td><td>brok-en-ness</td><td>brōk-e̊n-ne̊ss</td><td>n. 破碎, 破裂</td></tr>
+<tr><td>brokenness</td><td>brōke̊nnėss</td><td>brok-en-ness</td><td>brōk-e̊n-nėss</td><td>n. 破碎, 破裂</td></tr>
 <tr><td>breakdowns</td><td>breākdòwnṡ</td><td>break-down-s</td><td>breāk-dòwn-ṡ</td><td></td></tr>
 <tr><td>breakfasts</td><td>brèakfåsts</td><td>break-fast-s</td><td>brèak-fåst-s</td><td></td></tr>
 <tr><td>breakups</td><td>breākûps</td><td>break-up-s</td><td>breāk-ûp-s</td><td></td></tr>
@@ -2219,31 +2219,31 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bream</td><td>brēam</td><td>bream</td><td>brēam</td><td>n. 欧洲淡水鲤科鱼, 鲷科鱼<br>vt. 烧扫</td></tr>
 <tr><td>breast</td><td>brèast</td><td>breast</td><td>brèast</td><td>n. 胸部, 乳房<br>vt. 面对, 挺胸承当</td></tr>
 <tr><td>breastbone</td><td>brèastbōne</td><td>breast-bone</td><td>brèast-bōne</td><td>n. 胸骨</td></tr>
-<tr><td>breasted</td><td>brèast𝕖d</td><td>breast-ed</td><td>brèast-𝕖d</td><td>a. 有胸的(用于复合词)</td></tr>
+<tr><td>breasted</td><td>brèastėd</td><td>breast-ed</td><td>brèast-ėd</td><td>a. 有胸的(用于复合词)</td></tr>
 <tr><td>breastfeed</td><td>brèastfēed</td><td>breast-feed</td><td>brèast-fēed</td><td>vt. 母乳喂养, 哺乳</td></tr>
 <tr><td>breastplate</td><td>brèastplāte</td><td>breast-plate</td><td>brèast-plāte</td><td>n. 护胸甲</td></tr>
 <tr><td>breasts</td><td>brèasts</td><td>breast-s</td><td>brèast-s</td><td></td></tr>
-<tr><td>breaststroke</td><td>brèaststro̊ke</td><td>breast-stroke</td><td>brèast-stro̊ke</td><td>n. 蛙泳</td></tr>
+<tr><td>breaststroke</td><td>brèaststrōke</td><td>breast-stroke</td><td>brèast-strōke</td><td>n. 蛙泳</td></tr>
 <tr><td>breastwork</td><td>brèastwo̊rk</td><td>breast-work</td><td>brèast-wo̊rk</td><td>n. (临时)矮防护墙</td></tr>
 <tr><td>abreast</td><td>åbrèast</td><td>a-breast</td><td>å-brèast</td><td>adv. 并肩地, 并列地</td></tr>
 <tr><td>breath</td><td>brèath</td><td>breath</td><td>brèath</td><td>n. 呼吸, 气息, 瞬间</td></tr>
 <tr><td>breathe</td><td>brēaṫhe</td><td>breathe</td><td>brēaṫhe</td><td>v. 呼吸, 发散, 低语</td></tr>
-<tr><td>breathable</td><td>brèathåble</td><td>breath-able</td><td>brèath-åble</td><td>a. 透气的, 可呼吸的</td></tr>
+<tr><td>breathable</td><td>brēaṫhåble</td><td>breath-able</td><td>brēaṫh-åble</td><td>a. 透气的, 可呼吸的</td></tr>
 <tr><td>breathed</td><td>brēaṫh𝕖d</td><td>breath-ed</td><td>brēaṫh-𝕖d</td><td></td></tr>
 <tr><td>breather</td><td>brēaṫhe̊r</td><td>breath-er</td><td>brēaṫh-e̊r</td><td>n. 短暂休息</td></tr>
 <tr><td>breathing</td><td>brēaṫhing</td><td>breath-ing</td><td>brēaṫh-ing</td><td>n. 呼吸</td></tr>
-<tr><td>breathless</td><td>brèathle̊ss</td><td>breath-less</td><td>brèath-le̊ss</td><td>a. 气喘吁吁的<br>a. 令人屏息的</td></tr>
+<tr><td>breathless</td><td>brèathlėss</td><td>breath-less</td><td>brèath-lėss</td><td>a. 气喘吁吁的<br>a. 令人屏息的</td></tr>
 <tr><td>breathes</td><td>brēaṫh𝕖ṡ</td><td>breathe-s</td><td>brēaṫh𝕖-ṡ</td><td></td></tr>
 <tr><td>breaths</td><td>brèaths</td><td>breath-s</td><td>brèath-s</td><td></td></tr>
 <tr><td>breathy</td><td>brèathẏ</td><td>breath-y</td><td>brèath-ẏ</td><td>a. 带呼吸声的, 气息音的</td></tr>
 <tr><td>breathalyzer</td><td>brèathålȳze̊r</td><td>breath-alyz-er</td><td>brèath-ålȳz-e̊r</td><td>n. 酒精测定器, 呼气分析仪</td></tr>
 <tr><td>breathtaking</td><td>brèathtāking</td><td>breath-tak-ing</td><td>brèath-tāk-ing</td><td>a. 惊人的, 令人叹为观止的</td></tr>
-<tr><td>breathlessly</td><td>brèathle̊sslẏ</td><td>breath-less-ly</td><td>brèath-le̊ss-lẏ</td><td>adv. 气喘地, 屏息地</td></tr>
-<tr><td>breathlessness</td><td>brèathle̊ssne̊ss</td><td>breath-less-ness</td><td>brèath-le̊ss-ne̊ss</td><td>n. 气喘吁吁, 呼吸困难</td></tr>
-<tr><td>breathtakingly</td><td>brèathtākin𝕘lẏ</td><td>breath-tak-ing-ly</td><td>brèath-tāk-in𝕘-lẏ</td><td>adv. 惊人地, 惊险地</td></tr>
+<tr><td>breathlessly</td><td>brèathlėsslẏ</td><td>breath-less-ly</td><td>brèath-lėss-lẏ</td><td>adv. 气喘地, 屏息地</td></tr>
+<tr><td>breathlessness</td><td>brèathlėssnėss</td><td>breath-less-ness</td><td>brèath-lėss-nėss</td><td>n. 气喘吁吁, 呼吸困难</td></tr>
+<tr><td>breathtakingly</td><td>brèathtākinglẏ</td><td>breath-tak-ing-ly</td><td>brèath-tāk-ing-lẏ</td><td>adv. 惊人地, 惊险地</td></tr>
 <tr><td>breccia</td><td>brecciå</td><td>brecc-ia</td><td>brecc-iå</td><td>n. 角砾岩</td></tr>
-<tr><td>brechtian</td><td>breċhtiån</td><td>brecht-ian</td><td>breċht-iån</td><td>a. 布莱希特的, 布莱希特风格的</td></tr>
-<tr><td>inbred</td><td>inbr𝕖d</td><td>in-bred</td><td>in-br𝕖d</td><td>a. 天生的, 同系繁殖的</td></tr>
+<tr><td>brechtian</td><td>brec𝕙tiån</td><td>brecht-ian</td><td>brec𝕙t-iån</td><td>a. 布莱希特的, 布莱希特风格的</td></tr>
+<tr><td>inbred</td><td>inbred</td><td>in-bred</td><td>in-bred</td><td>a. 天生的, 同系繁殖的</td></tr>
 <tr><td>breech</td><td>brēech</td><td>breech</td><td>brēech</td><td>n. 后膛, 臀部</td></tr>
 <tr><td>bred</td><td>bred</td><td>bred</td><td>bred</td><td></td></tr>
 <tr><td>breed</td><td>brēed</td><td>breed</td><td>brēed</td><td>n. 品种, 种类<br>v. 饲养, 繁殖, 引起</td></tr>
@@ -2255,13 +2255,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>nonbreeding</td><td>nonbrēeding</td><td>non-breed-ing</td><td>non-brēed-ing</td><td>a. 非繁殖的</td></tr>
 <tr><td>breeze</td><td>brēeze</td><td>breeze</td><td>brēeze</td><td>n. 微风, 轻而易举的事<br>vi. 吹微风</td></tr>
 <tr><td>breezes</td><td>brēezėṡ</td><td>breeze-s</td><td>brēezė-ṡ</td><td></td></tr>
-<tr><td>breezeway</td><td>brēezewāy</td><td>breeze-way</td><td>brēeze-wāy</td><td>n. 有顶通道</td></tr>
+<tr><td>breezeway</td><td>brēez𝕖wāy</td><td>breeze-way</td><td>brēez𝕖-wāy</td><td>n. 有顶通道</td></tr>
 <tr><td>breezy</td><td>brēezẏ</td><td>breez-y</td><td>brēez-ẏ</td><td>a. 有微风的, 通风好的, 活泼的</td></tr>
 <tr><td>breezily</td><td>brēezilẏ</td><td>breez-i-ly</td><td>brēez-i-lẏ</td><td>adv. 活泼地, 轻松地</td></tr>
 <tr><td>umbrella</td><td>ûmbrellå</td><td>um-brell-a</td><td>ûm-brell-å</td><td>n. 雨伞, 保护伞</td></tr>
 <tr><td>umbrellas</td><td>ûmbrellåṡ</td><td>um-brell-a-s</td><td>ûm-brell-å-ṡ</td><td></td></tr>
 <tr><td>brevet</td><td>brevėt</td><td>brev-et</td><td>brev-ėt</td><td>n. 名誉晋升<br>v. 予以名誉晋升</td></tr>
-<tr><td>brevity</td><td>brevi̊tẏ</td><td>brev-ity</td><td>brev-i̊tẏ</td><td>n. 简短, 简洁</td></tr>
+<tr><td>brevity</td><td>brevitẏ</td><td>brev-ity</td><td>brev-itẏ</td><td>n. 简短, 简洁</td></tr>
 <tr><td>abbreviate</td><td>åbbrēviāte</td><td>ab-brev-i-ate</td><td>åb-brēv-i-āte</td><td>vt. 缩写, 使...简略, 缩短<br>vi. 使用缩写词</td></tr>
 <tr><td>abbreviated</td><td>åbbrēviātėd</td><td>ab-brev-i-at-ed</td><td>åb-brēv-i-āt-ėd</td><td>a. 缩写的, 简略的</td></tr>
 <tr><td>abbreviation</td><td>åbbrēviātio̊n</td><td>ab-brev-i-at-ion</td><td>åb-brēv-i-āt-io̊n</td><td>n. 缩写词, 缩写</td></tr>
@@ -2291,7 +2291,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bricklayer</td><td>bricklāye̊r</td><td>brick-lay-er</td><td>brick-lāy-e̊r</td><td>n. 砌砖工人</td></tr>
 <tr><td>bricklaying</td><td>bricklāying</td><td>brick-lay-ing</td><td>brick-lāy-ing</td><td>n. 砌砖, 砌砖工作</td></tr>
 <tr><td>bricolage</td><td>bricolȧge</td><td>bricol-age</td><td>bricol-ȧge</td><td>n. 拼装, 手工制作</td></tr>
-<tr><td>bricoleur</td><td>brĩco̊le̊𝕦r</td><td>bricol-eur</td><td>brĩco̊l-e̊𝕦r</td><td>n. 用手头现成工具摆弄修理的人</td></tr>
+<tr><td>bricoleur</td><td>brico̊le̊ur</td><td>bricol-eur</td><td>brico̊l-e̊ur</td><td>n. 用手头现成工具摆弄修理的人</td></tr>
 <tr><td>bride</td><td>brīde</td><td>bride</td><td>brīde</td><td>n. 新娘</td></tr>
 <tr><td>bridal</td><td>brīdål</td><td>brid-al</td><td>brīd-ål</td><td>a. 新娘的, 婚礼的<br>n. 婚礼</td></tr>
 <tr><td>bridegroom</td><td>brīd𝕖groom</td><td>bride-groom</td><td>brīd𝕖-groom</td><td>n. 新郎</td></tr>
@@ -2299,20 +2299,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>brides</td><td>brīd𝕖ṡ</td><td>bride-s</td><td>brīd𝕖-ṡ</td><td></td></tr>
 <tr><td>bridesmaid</td><td>brīd𝕖ṡmāid</td><td>bride-s-maid</td><td>brīd𝕖-ṡ-māid</td><td>n. 女傧相</td></tr>
 <tr><td>bridesmaids</td><td>brīd𝕖ṡmāidṡ</td><td>bride-s-maid-s</td><td>brīd𝕖-ṡ-māid-ṡ</td><td></td></tr>
-<tr><td>debridement</td><td>dėbrĩd𝕖me̊nt</td><td>de-bride-ment</td><td>dė-brĩd𝕖-me̊nt</td><td>n. 清创术</td></tr>
+<tr><td>debridement</td><td>debrīd𝕖me̊nt</td><td>de-bride-ment</td><td>de-brīd𝕖-me̊nt</td><td>n. 清创术</td></tr>
 <tr><td>unbridled</td><td>ûnbrīdl𝕖d</td><td>un-bridl-ed</td><td>ûn-brīdl-𝕖d</td><td>a. 不受控制的, 无拘束的</td></tr>
 <tr><td>bridge</td><td>bridge</td><td>bridge</td><td>bridge</td><td>n. 桥, 桥梁, 桥牌<br>vt. 架桥于, 跨越</td></tr>
 <tr><td>bridgedeck</td><td>bridg𝕖deck</td><td>bridge-deck</td><td>bridg𝕖-deck</td><td>n. 舰桥甲板</td></tr>
 <tr><td>bridgehead</td><td>bridg𝕖hèad</td><td>bridge-head</td><td>bridg𝕖-hèad</td><td>n. 桥头堡</td></tr>
 <tr><td>bridging</td><td>bridging</td><td>bridg-ing</td><td>bridg-ing</td><td>n. 桥接, 跨接<br>vt. 在...上架桥</td></tr>
 <tr><td>bridges</td><td>bridgėṡ</td><td>bridge-s</td><td>bridgė-ṡ</td><td></td></tr>
-<tr><td>bridgework</td><td>bridgewo̊rk</td><td>bridge-work</td><td>bridge-wo̊rk</td><td>n. 桥体(牙科)</td></tr>
+<tr><td>bridgework</td><td>bridg𝕖wo̊rk</td><td>bridge-work</td><td>bridg𝕖-wo̊rk</td><td>n. 桥体(牙科)</td></tr>
 <tr><td>abridge</td><td>åbridge</td><td>a-bridge</td><td>å-bridge</td><td>vt. 缩略, 删节, 削减, 限制</td></tr>
 <tr><td>abridged</td><td>åbridg𝕖d</td><td>a-bridg-ed</td><td>å-bridg-𝕖d</td><td>a. 删节的；削减的</td></tr>
 <tr><td>abridgement</td><td>åbridg𝕖me̊nt</td><td>a-bridge-ment</td><td>å-bridg𝕖-me̊nt</td><td>n. 节本, 节略, 剥夺</td></tr>
 <tr><td>abridgment</td><td>åbridgme̊nt</td><td>a-bridg-ment</td><td>å-bridg-me̊nt</td><td>n. 删节, 删节本, 缩短, 限制</td></tr>
 <tr><td>drawbridge</td><td>drãwbridge</td><td>draw-bridge</td><td>drãw-bridge</td><td>n. 吊桥</td></tr>
-<tr><td>unbridgeable</td><td>ûnbridge̊able</td><td>un-bridge-able</td><td>ûn-bridge̊-able</td><td>a. 不能架桥的, 不能逾越的</td></tr>
+<tr><td>unbridgeable</td><td>ûnbridg𝕖åble</td><td>un-bridge-able</td><td>ûn-bridg𝕖-åble</td><td>a. 不能架桥的, 不能逾越的</td></tr>
 <tr><td>unabridged</td><td>ûnåbridg𝕖d</td><td>un-a-bridg-ed</td><td>ûn-å-bridg-𝕖d</td><td>a. 未经删节的, 完整的</td></tr>
 <tr><td>brief</td><td>briēf</td><td>brief</td><td>briēf</td><td>a. 简短的, 简洁的<br>n. 摘要, 简报<br>vt. 向...作简报</td></tr>
 <tr><td>briefcase</td><td>briēfcāse</td><td>brief-case</td><td>briēf-cāse</td><td>n. 公文包</td></tr>
@@ -2322,13 +2322,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>briefless</td><td>briēflėss</td><td>brief-less</td><td>briēf-lėss</td><td>a. (律师)无人委托的</td></tr>
 <tr><td>briefly</td><td>briēflẏ</td><td>brief-ly</td><td>briēf-lẏ</td><td>adv. 短暂地, 简要地, 简短地, 简单地</td></tr>
 <tr><td>briefcases</td><td>briēfcāsėṡ</td><td>brief-case-s</td><td>briēf-cāsė-ṡ</td><td></td></tr>
-<tr><td>debrief</td><td>dėbriēf</td><td>de-brief</td><td>dė-briēf</td><td>vt. 听取汇报, 盘问</td></tr>
-<tr><td>debriefing</td><td>dėbriēfing</td><td>de-brief-ing</td><td>dė-briēf-ing</td><td>n. 任务报告, 汇报</td></tr>
+<tr><td>debrief</td><td>dēbriēf</td><td>de-brief</td><td>dē-briēf</td><td>vt. 听取汇报, 盘问</td></tr>
+<tr><td>debriefing</td><td>dēbriēfing</td><td>de-brief-ing</td><td>dē-briēf-ing</td><td>n. 任务报告, 汇报</td></tr>
 <tr><td>brig</td><td>brig</td><td>brig</td><td>brig</td><td>n. 双桅帆船, 军舰上的禁闭室</td></tr>
-<tr><td>brigade</td><td>bri̊gāde</td><td>brig-ade</td><td>bri̊g-āde</td><td>n. 旅, 队, 组</td></tr>
+<tr><td>brigade</td><td>brigāde</td><td>brig-ade</td><td>brig-āde</td><td>n. 旅, 队, 组</td></tr>
 <tr><td>brigand</td><td>brigånd</td><td>brig-and</td><td>brig-ånd</td><td>n. 土匪, 强盗</td></tr>
-<tr><td>brigantine</td><td>brigåntīne</td><td>brig-antine</td><td>brig-åntīne</td><td>n. 双桅帆船</td></tr>
-<tr><td>brigadier</td><td>brigådiēr</td><td>brigad-i-er</td><td>brigåd-i-ēr</td><td>n. 陆军准将, 准将</td></tr>
+<tr><td>brigantine</td><td>brigantĩne</td><td>brig-antine</td><td>brig-antĩne</td><td>n. 双桅帆船</td></tr>
+<tr><td>brigadier</td><td>brigådie̊r</td><td>brigad-i-er</td><td>brigåd-i-e̊r</td><td>n. 陆军准将, 准将</td></tr>
 <tr><td>bright</td><td>brī𝕘𝕙t</td><td>bright</td><td>brī𝕘𝕙t</td><td>a. 明亮的, 聪明的, 鲜艳的</td></tr>
 <tr><td>brighten</td><td>brī𝕘𝕙te̊n</td><td>bright-en</td><td>brī𝕘𝕙t-e̊n</td><td>vi. 变亮, 活跃<br>vt. 使生辉, 使快活</td></tr>
 <tr><td>brighter</td><td>brī𝕘𝕙te̊r</td><td>bright-er</td><td>brī𝕘𝕙t-e̊r</td><td></td></tr>
@@ -2356,59 +2356,59 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>upbringing</td><td>ûpbringing</td><td>up-bring-ing</td><td>ûp-bring-ing</td><td>n. 教养, 抚养</td></tr>
 <tr><td>brink</td><td>brink</td><td>brink</td><td>brink</td><td>n. 边缘, 陡岸</td></tr>
 <tr><td>brinkmanship</td><td>brinkmånship</td><td>brink-man-ship</td><td>brink-mån-ship</td><td>n. 边缘政策</td></tr>
-<tr><td>brio</td><td>brīō</td><td>brio</td><td>brīō</td><td>n. 活力, 生气</td></tr>
-<tr><td>brioche</td><td>briōċhe</td><td>brioche</td><td>briōċhe</td><td>n. 奶油蛋卷</td></tr>
-<tr><td>briquette</td><td>briq𝕦ette</td><td>briqu-ette</td><td>briq𝕦-ette</td><td>n. 煤砖, 煤球, 压块</td></tr>
+<tr><td>brio</td><td>brĩō</td><td>brio</td><td>brĩō</td><td>n. 活力, 生气</td></tr>
+<tr><td>brioche</td><td>brĩōċhe</td><td>brioche</td><td>brĩōċhe</td><td>n. 奶油蛋卷</td></tr>
+<tr><td>briquette</td><td>briquette</td><td>briqu-ette</td><td>briqu-ette</td><td>n. 煤砖, 煤球, 压块</td></tr>
 <tr><td>bris</td><td>bris</td><td>bris</td><td>bris</td><td>n. 割礼</td></tr>
 <tr><td>brisk</td><td>brisk</td><td>brisk</td><td>brisk</td><td>a. 轻快的, 活泼的, 寒冷而干燥的</td></tr>
 <tr><td>briskly</td><td>brisklẏ</td><td>brisk-ly</td><td>brisk-lẏ</td><td>adv. 轻快地, 活泼地</td></tr>
 <tr><td>briskness</td><td>brisknėss</td><td>brisk-ness</td><td>brisk-nėss</td><td>n. 轻快, 活泼</td></tr>
-<tr><td>brisket</td><td>briske̊t</td><td>brisket</td><td>briske̊t</td><td>n. 胸肉, 牛腩</td></tr>
+<tr><td>brisket</td><td>briskėt</td><td>brisket</td><td>briskėt</td><td>n. 胸肉, 牛腩</td></tr>
 <tr><td>bristle</td><td>bristle</td><td>brist-le</td><td>brist-le</td><td>n. 刚毛, 猪鬃<br>v. 直立, 发怒</td></tr>
-<tr><td>bristling</td><td>bristling</td><td>brist-ling</td><td>brist-ling</td><td>a. 直立的, 发怒的<br>v. 竖起, 怒发冲冠</td></tr>
+<tr><td>bristling</td><td>bris𝕥ling</td><td>brist-ling</td><td>bris𝕥-ling</td><td>a. 直立的, 发怒的<br>v. 竖起, 怒发冲冠</td></tr>
 <tr><td>bristly</td><td>bristlẏ</td><td>brist-ly</td><td>brist-lẏ</td><td>a. 有刚毛的, 易怒的</td></tr>
 <tr><td>Britain</td><td>Britåin</td><td>Brit-ain</td><td>Brit-åin</td><td>n. 不列颠, 英国</td></tr>
 <tr><td>British</td><td>British</td><td>Brit-ish</td><td>Brit-ish</td><td>a. 英国的, 英国人的<br>n. 英国人</td></tr>
 <tr><td>Briton</td><td>Brito̊n</td><td>Brit-on</td><td>Brit-o̊n</td><td>n. 英国人</td></tr>
 <tr><td>britain</td><td>britåin</td><td></td><td></td><td></td></tr>
-<tr><td>britches</td><td>britche̊ṡ</td><td>britch-es</td><td>britch-e̊ṡ</td><td>n. 裤子(口语, 尤指到膝盖的短裤)</td></tr>
+<tr><td>britches</td><td>britchėṡ</td><td>britch-es</td><td>britch-ėṡ</td><td>n. 裤子(口语, 尤指到膝盖的短裤)</td></tr>
 <tr><td>british</td><td>british</td><td></td><td></td><td>a. 英国的, 英国人的<br>n. 英国人</td></tr>
 <tr><td>brittle</td><td>brittle</td><td>britt-le</td><td>britt-le</td><td>a. 易碎的, 脆弱的</td></tr>
 <tr><td>brittleness</td><td>brittl𝕖nėss</td><td>britt-le-ness</td><td>britt-l𝕖-nėss</td><td>n. 脆性, 脆弱</td></tr>
 <tr><td>bro</td><td>brō</td><td>bro</td><td>brō</td><td>n. 兄弟, 哥们（brother的简称）</td></tr>
 <tr><td>broach</td><td>brōach</td><td>broach</td><td>brōach</td><td>n. 烧肉叉, 凿子, 钻头<br>vt. 用凿子修琢(石块), 钻孔<br>vi. 露出水面</td></tr>
 <tr><td>broad</td><td>brōad</td><td>broad</td><td>brōad</td><td>a. 宽的, 广泛的, 广大的</td></tr>
-<tr><td>broadband</td><td>bròadband</td><td>broad-band</td><td>bròad-band</td><td>n. 宽带<br>a. 宽频的</td></tr>
+<tr><td>broadband</td><td>brōadband</td><td>broad-band</td><td>brōad-band</td><td>n. 宽带<br>a. 宽频的</td></tr>
 <tr><td>broadcast</td><td>brōadcàst</td><td>broad-cast</td><td>brōad-càst</td><td>n. 广播, 广播节目<br>v. 广播, 播出</td></tr>
-<tr><td>broadcloth</td><td>bròadcloth</td><td>broad-cloth</td><td>bròad-cloth</td><td>n. 各式细平布, 绒面呢</td></tr>
+<tr><td>broadcloth</td><td>brōadcloth</td><td>broad-cloth</td><td>brōad-cloth</td><td>n. 各式细平布, 绒面呢</td></tr>
 <tr><td>broaden</td><td>brōade̊n</td><td>broad-en</td><td>brōad-e̊n</td><td>vi. 变宽, 扩大<br>vt. 放宽, 使扩大</td></tr>
 <tr><td>broader</td><td>brōade̊r</td><td>broad-er</td><td>brōad-e̊r</td><td></td></tr>
 <tr><td>broadest</td><td>brōadėst</td><td>broad-est</td><td>brōad-ėst</td><td></td></tr>
-<tr><td>broadhead</td><td>bròadhèad</td><td>broad-head</td><td>bròad-hèad</td><td>n. 宽头箭头（狩猎用）</td></tr>
-<tr><td>broadleaf</td><td>bròadlēaf</td><td>broad-leaf</td><td>bròad-lēaf</td><td>a. 阔叶的<br>n. 阔叶树</td></tr>
-<tr><td>broadly</td><td>bròadlẏ</td><td>broad-ly</td><td>bròad-lẏ</td><td>adv. 广泛地, 大致地</td></tr>
-<tr><td>broadness</td><td>bròadnėss</td><td>broad-ness</td><td>bròad-nėss</td><td>n. 宽阔, 广阔</td></tr>
-<tr><td>broadsheet</td><td>bròadshēet</td><td>broad-sheet</td><td>bròad-shēet</td><td>n. 大幅报纸, 传单</td></tr>
-<tr><td>broadside</td><td>bròadsīde</td><td>broad-side</td><td>bròad-sīde</td><td>n. 猛烈的攻击/谴责, 连珠炮似的攻讦/谴责, 舷侧<br>adv. 无目标地, 胡乱地</td></tr>
+<tr><td>broadhead</td><td>brōadhèad</td><td>broad-head</td><td>brōad-hèad</td><td>n. 宽头箭头（狩猎用）</td></tr>
+<tr><td>broadleaf</td><td>brōadlēaf</td><td>broad-leaf</td><td>brōad-lēaf</td><td>a. 阔叶的<br>n. 阔叶树</td></tr>
+<tr><td>broadly</td><td>brōadlẏ</td><td>broad-ly</td><td>brōad-lẏ</td><td>adv. 广泛地, 大致地</td></tr>
+<tr><td>broadness</td><td>brōadnėss</td><td>broad-ness</td><td>brōad-nėss</td><td>n. 宽阔, 广阔</td></tr>
+<tr><td>broadsheet</td><td>brōadshēet</td><td>broad-sheet</td><td>brōad-shēet</td><td>n. 大幅报纸, 传单</td></tr>
+<tr><td>broadside</td><td>brōadsīde</td><td>broad-side</td><td>brōad-sīde</td><td>n. 猛烈的攻击/谴责, 连珠炮似的攻讦/谴责, 舷侧<br>adv. 无目标地, 胡乱地</td></tr>
 <tr><td>broadsword</td><td>brōads𝕨ord</td><td>broad-sword</td><td>brōad-s𝕨ord</td><td>n. 大刀, 阔刀</td></tr>
 <tr><td>breadth</td><td>brèadth</td><td>bread-th</td><td>brèad-th</td><td>n. 宽度, 广度</td></tr>
-<tr><td>broadtail</td><td>bròadtāil</td><td>broad-tail</td><td>bròad-tāil</td><td>n. 粗尾羊(中亚产), 粗尾羊的羔羊毛皮</td></tr>
-<tr><td>broadway</td><td>bròadwāy</td><td>broad-way</td><td>bròad-wāy</td><td>n. 百老汇(纽约)</td></tr>
-<tr><td>broadcaster</td><td>bròadcaste̊r</td><td>broad-cast-er</td><td>bròad-cast-e̊r</td><td>n. 广播员, 播音员</td></tr>
-<tr><td>broadened</td><td>bròade̊n𝕖d</td><td>broad-en-ed</td><td>bròad-e̊n-𝕖d</td><td>v. broaden的过去式和过去分词</td></tr>
-<tr><td>broadcasting</td><td>bròadcasting</td><td>broad-cast-ing</td><td>bròad-cast-ing</td><td>n. 广播, 播音</td></tr>
-<tr><td>broadening</td><td>bròade̊ning</td><td>broad-en-ing</td><td>bròad-e̊n-ing</td><td>n. 扩大, 拓宽</td></tr>
+<tr><td>broadtail</td><td>brōadtāil</td><td>broad-tail</td><td>brōad-tāil</td><td>n. 粗尾羊(中亚产), 粗尾羊的羔羊毛皮</td></tr>
+<tr><td>broadway</td><td>brōadwāy</td><td>broad-way</td><td>brōad-wāy</td><td>n. 百老汇(纽约)</td></tr>
+<tr><td>broadcaster</td><td>brōadcaste̊r</td><td>broad-cast-er</td><td>brōad-cast-e̊r</td><td>n. 广播员, 播音员</td></tr>
+<tr><td>broadened</td><td>brōade̊n𝕖d</td><td>broad-en-ed</td><td>brōad-e̊n-𝕖d</td><td>v. broaden的过去式和过去分词</td></tr>
+<tr><td>broadcasting</td><td>brōadcasting</td><td>broad-cast-ing</td><td>brōad-cast-ing</td><td>n. 广播, 播音</td></tr>
+<tr><td>broadening</td><td>brōade̊ning</td><td>broad-en-ing</td><td>brōad-e̊n-ing</td><td>n. 扩大, 拓宽</td></tr>
 <tr><td>abroad</td><td>åbrōad</td><td>a-broad</td><td>å-brōad</td><td>adv. 在国外, 到国外, 广泛流传</td></tr>
-<tr><td>rebroadcast</td><td>rēbròadcast</td><td>re-broad-cast</td><td>rē-bròad-cast</td><td>v. 转播, 重播<br>n. 转播, 重播</td></tr>
-<tr><td>brobdingnagian</td><td>brobdingnågiån</td><td>brobdingnag-ian</td><td>brobdingnåg-iån</td><td>a. 巨大的, 庞大的</td></tr>
-<tr><td>brocade</td><td>brōcāde</td><td>brocade</td><td>brōcāde</td><td>n. 织锦, 锦缎</td></tr>
-<tr><td>brocaded</td><td>brōcādėd</td><td>brocad-ed</td><td>brōcād-ėd</td><td>a. 织锦的, 提花的</td></tr>
-<tr><td>broccoli</td><td>brocco̊lĩ</td><td>broccoli</td><td>brocco̊lĩ</td><td>n. 西兰花, 花椰菜</td></tr>
+<tr><td>rebroadcast</td><td>rėbrōadcàst</td><td>re-broad-cast</td><td>rė-brōad-càst</td><td>v. 转播, 重播<br>n. 转播, 重播</td></tr>
+<tr><td>brobdingnagian</td><td>brobdingnāgiån</td><td>brobdingnag-ian</td><td>brobdingnāg-iån</td><td>a. 巨大的, 庞大的</td></tr>
+<tr><td>brocade</td><td>bro̊cāde</td><td>brocade</td><td>bro̊cāde</td><td>n. 织锦, 锦缎</td></tr>
+<tr><td>brocaded</td><td>bro̊cādėd</td><td>brocad-ed</td><td>bro̊cād-ėd</td><td>a. 织锦的, 提花的</td></tr>
+<tr><td>broccoli</td><td>brocco̊li</td><td>broccoli</td><td>brocco̊li</td><td>n. 西兰花, 花椰菜</td></tr>
 <tr><td>broccolis</td><td>brocco̊liṡ</td><td>broccoli-s</td><td>brocco̊li-ṡ</td><td></td></tr>
-<tr><td>brochure</td><td>brōċhūre</td><td>broch-ure</td><td>brōċh-ūre</td><td>n. 小册子</td></tr>
+<tr><td>brochure</td><td>brōċhůre</td><td>broch-ure</td><td>brōċh-ůre</td><td>n. 小册子</td></tr>
 <tr><td>brochures</td><td>brōċhūr𝕖ṡ</td><td>broch-ure-s</td><td>brōċh-ūr𝕖-ṡ</td><td></td></tr>
 <tr><td>brogue</td><td>brōgue</td><td>brogue</td><td>brōgue</td><td>n. 粗革皮鞋, 土腔</td></tr>
-<tr><td>embroider</td><td>ėmbroide̊r</td><td>em-broid-er</td><td>ėm-broid-e̊r</td><td>vt. 刺绣, 给…添油加醋<br>vi. 绣花</td></tr>
+<tr><td>embroider</td><td>embroide̊r</td><td>em-broid-er</td><td>em-broid-e̊r</td><td>vt. 刺绣, 给…添油加醋<br>vi. 绣花</td></tr>
 <tr><td>embroidery</td><td>ėmbroide̊rẏ</td><td>em-broid-ery</td><td>ėm-broid-e̊rẏ</td><td>n. 刺绣品, 刺绣, 装饰</td></tr>
 <tr><td>embroidered</td><td>embroide̊r𝕖d</td><td>em-broid-er-ed</td><td>em-broid-e̊r-𝕖d</td><td>a. 绣花的, 刺绣的</td></tr>
 <tr><td>embroiderer</td><td>embroide̊re̊r</td><td>em-broid-er-er</td><td>em-broid-e̊r-e̊r</td><td>n. 刺绣工, 刺绣者</td></tr>
@@ -2420,12 +2420,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>embroiled</td><td>embroil𝕖d</td><td>em-broil-ed</td><td>em-broil-𝕖d</td><td>v. 使卷入 (embroil的过去式和过去分词)<br>a. 卷入的, 纠缠不清的</td></tr>
 <tr><td>bromide</td><td>brōmīde</td><td>brom-ide</td><td>brōm-īde</td><td>n. 溴化物<br>n. 老生常谈, 陈词滥调</td></tr>
 <tr><td>bromine</td><td>brōmĩne</td><td>brom-ine</td><td>brōm-ĩne</td><td>n. 溴</td></tr>
-<tr><td>bromeliad</td><td>brōmėliad</td><td>bromeliad</td><td>brōmėliad</td><td>n. 凤梨科植物</td></tr>
+<tr><td>bromeliad</td><td>brōmēliad</td><td>bromeliad</td><td>brōmēliad</td><td>n. 凤梨科植物</td></tr>
 <tr><td>bronc</td><td>bronc</td><td>bronc</td><td>bronc</td><td>n. 野马</td></tr>
-<tr><td>bronchi</td><td>bronc𝕙i</td><td>bronch-i</td><td>bronc𝕙-i</td><td>n. 支气管</td></tr>
-<tr><td>bronchitis</td><td>bronc𝕙īti̊s</td><td>bronch-itis</td><td>bronc𝕙-īti̊s</td><td>n. 支气管炎</td></tr>
+<tr><td>bronchi</td><td>bronc𝕙ī</td><td>bronch-i</td><td>bronc𝕙-ī</td><td>n. 支气管</td></tr>
+<tr><td>bronchitis</td><td>bro̊nc𝕙ītis</td><td>bronch-itis</td><td>bro̊nc𝕙-ītis</td><td>n. 支气管炎</td></tr>
 <tr><td>bronchus</td><td>bronc𝕙ůs</td><td>bronch-us</td><td>bronc𝕙-ůs</td><td>n. 支气管</td></tr>
-<tr><td>bronchial</td><td>bronchiål</td><td>bronch-i-al</td><td>bronch-i-ål</td><td>a. 支气管的</td></tr>
+<tr><td>bronchial</td><td>bronc𝕙iål</td><td>bronch-i-al</td><td>bronc𝕙-i-ål</td><td>a. 支气管的</td></tr>
 <tr><td>bronchoscope</td><td>bronc𝕙o̊scōpe</td><td>bronch-o-scope</td><td>bronc𝕙-o̊-scōpe</td><td>n. 支气管镜</td></tr>
 <tr><td>bronchiectasis</td><td>bronc𝕙iectåsis</td><td>bronchiectasis</td><td>bronc𝕙iectåsis</td><td>n. 支气管扩张</td></tr>
 <tr><td>bronco</td><td>broncō</td><td>bronco</td><td>broncō</td><td>n. 野马</td></tr>
@@ -2434,11 +2434,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bronzer</td><td>bronze̊r</td><td>bronz-er</td><td>bronz-e̊r</td><td>n. 古铜色化妆品</td></tr>
 <tr><td>bronzing</td><td>bronzing</td><td>bronz-ing</td><td>bronz-ing</td><td>v. 镀青铜, 烫金</td></tr>
 <tr><td>bronzy</td><td>bronzẏ</td><td>bronz-y</td><td>bronz-ẏ</td><td>a. 青铜色的, 仿青铜的</td></tr>
-<tr><td>brooch</td><td>brooch</td><td>brooch</td><td>brooch</td><td>n. 胸针, 领针</td></tr>
+<tr><td>brooch</td><td>brōoch</td><td>brooch</td><td>brōoch</td><td>n. 胸针, 领针</td></tr>
 <tr><td>brood</td><td>brood</td><td>brood</td><td>brood</td><td>n. 一窝, 一家的孩子<br>v. 沉思, 孵蛋</td></tr>
 <tr><td>brooder</td><td>broode̊r</td><td>brood-er</td><td>brood-e̊r</td><td>n. 育雏箱<br>n. 沉思的人</td></tr>
 <tr><td>brooding</td><td>brooding</td><td>brood-ing</td><td>brood-ing</td><td>a. 沉思的, 忧郁的</td></tr>
-<tr><td>broodmare</td><td>broodmåre</td><td>brood-mare</td><td>brood-måre</td><td>n. 传种母马</td></tr>
+<tr><td>broodmare</td><td>broodmāre</td><td>brood-mare</td><td>brood-māre</td><td>n. 传种母马</td></tr>
 <tr><td>broody</td><td>broodẏ</td><td>brood-y</td><td>brood-ẏ</td><td>a. 抱窝的<br>a. 沉思的</td></tr>
 <tr><td>brook</td><td>brook</td><td>brook</td><td>brook</td><td>n. 小溪<br>vt. 容忍</td></tr>
 <tr><td>donnybrook</td><td>donnẏbrook</td><td>donny-brook</td><td>donnẏ-brook</td><td>n. 骚乱, 大混战</td></tr>
@@ -2452,8 +2452,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>brothers</td><td>brôṫhe̊rṡ</td><td>broth-er-s</td><td>brôṫh-e̊r-ṡ</td><td></td></tr>
 <tr><td>brother-in-law</td><td></td><td>broth-er-in-law</td><td></td><td>n. 姐夫, 妹夫</td></tr>
 <tr><td>brothel</td><td>brothe̊l</td><td>brothel</td><td>brothe̊l</td><td>n. 妓院</td></tr>
-<tr><td>brouhaha</td><td>broùhàhà</td><td>brou-ha-ha</td><td>broù-hà-hà</td><td>n. 骚动, 喧闹</td></tr>
-<tr><td>brougham</td><td>broùg𝕙åm</td><td>brough-am</td><td>broùg𝕙-åm</td><td>n. 四轮马车, 布鲁厄姆轿车</td></tr>
+<tr><td>brouhaha</td><td>bròuhàhå</td><td>brou-ha-ha</td><td>bròu-hà-hå</td><td>n. 骚动, 喧闹</td></tr>
+<tr><td>brougham</td><td>broū𝕘𝕙åm</td><td>brough-am</td><td>broū𝕘𝕙-åm</td><td>n. 四轮马车, 布鲁厄姆轿车</td></tr>
 <tr><td>brow</td><td>bròw</td><td>brow</td><td>bròw</td><td>n. 眉毛, 额</td></tr>
 <tr><td>browbeat</td><td>bròwbēat</td><td>brow-beat</td><td>bròw-bēat</td><td>vt. 吓唬, 威逼</td></tr>
 <tr><td>eyebrow</td><td>eȳ𝕖bròw</td><td>eye-brow</td><td>eȳ𝕖-bròw</td><td>n. 眉毛</td></tr>
@@ -2464,7 +2464,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>brownest</td><td>bròwnėst</td><td>brown-est</td><td>bròwn-ėst</td><td></td></tr>
 <tr><td>brownfield</td><td>bròwnfiēld</td><td>brown-field</td><td>bròwn-fiēld</td><td>n. 棕地(曾用于工业而现待重新开发的土地)</td></tr>
 <tr><td>brownian</td><td>bròwniån</td><td>brown-ian</td><td>bròwn-iån</td><td>a. 布朗的（指布朗运动）</td></tr>
-<tr><td>brownie</td><td>bròwniē</td><td>brown-ie</td><td>bròwn-iē</td><td>n. 布朗尼蛋糕, 果仁巧克力蛋糕</td></tr>
+<tr><td>brownie</td><td>bròwnie</td><td>brown-ie</td><td>bròwn-ie</td><td>n. 布朗尼蛋糕, 果仁巧克力蛋糕</td></tr>
 <tr><td>browning</td><td>bròwning</td><td>brown-ing</td><td>bròwn-ing</td><td>n. 变褐, 烤焦</td></tr>
 <tr><td>brownish</td><td>bròwnish</td><td>brown-ish</td><td>bròwn-ish</td><td>a. 呈褐色的</td></tr>
 <tr><td>brownness</td><td>bròwnnėss</td><td>brown-ness</td><td>bròwn-nėss</td><td>n. 褐色</td></tr>
@@ -2488,7 +2488,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>brunch</td><td>brûnch</td><td>brunch</td><td>brûnch</td><td>n. 早午餐<br>v. 吃早午餐</td></tr>
 <tr><td>brunches</td><td>brûnchėṡ</td><td>brunch-es</td><td>brûnch-ėṡ</td><td></td></tr>
 <tr><td>brunt</td><td>brûnt</td><td>brunt</td><td>brûnt</td><td>n. 主要冲力, 冲击</td></tr>
-<tr><td>bruschetta</td><td>brùschettå</td><td>brusch-ett-a</td><td>brùsch-ett-å</td><td>n. 意大利烤面包片</td></tr>
+<tr><td>bruschetta</td><td>brùsc𝕙ettå</td><td>brusch-ett-a</td><td>brùsc𝕙-ett-å</td><td>n. 意大利烤面包片</td></tr>
 <tr><td>brush</td><td>brûsh</td><td>brush</td><td>brûsh</td><td>n. 刷子, 画笔, 轻触<br>v. 刷, 擦过</td></tr>
 <tr><td>brushed</td><td>brûsh𝕖ḋ</td><td>brush-ed</td><td>brûsh-𝕖ḋ</td><td>a. 梳理过的, 拉绒的</td></tr>
 <tr><td>brushes</td><td>brûshėṡ</td><td>brush-es</td><td>brûsh-ėṡ</td><td></td></tr>
@@ -2501,17 +2501,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>underbrush</td><td>ûnde̊rbrûsh</td><td>under-brush</td><td>ûnde̊r-brûsh</td><td>n. 林下灌丛</td></tr>
 <tr><td>unbrushed</td><td>ûnbrûsh𝕖ḋ</td><td>un-brush-ed</td><td>ûn-brûsh-𝕖ḋ</td><td>a. 未刷的</td></tr>
 <tr><td>bottlebrush</td><td>bottl𝕖brûsh</td><td>bott-le-brush</td><td>bott-l𝕖-brûsh</td><td>n. 洗瓶刷, 红千层(植物)</td></tr>
-<tr><td>brusque</td><td>brûsq𝕦e</td><td>brusque</td><td>brûsq𝕦e</td><td>a. 唐突的, 直率的</td></tr>
+<tr><td>brusque</td><td>brûsque</td><td>brusque</td><td>brûsque</td><td>a. 唐突的, 直率的</td></tr>
 <tr><td>brusquely</td><td>brûsqu𝕖lẏ</td><td>brusque-ly</td><td>brûsqu𝕖-lẏ</td><td>adv. 唐突地, 直率地</td></tr>
 <tr><td>brusqueness</td><td>brûsqu𝕖nėss</td><td>brusque-ness</td><td>brûsqu𝕖-nėss</td><td>n. 唐突, 无礼</td></tr>
 <tr><td>brute</td><td>brūte</td><td>brute</td><td>brūte</td><td>n. 畜生, 残忍的人<br>a. 残忍的</td></tr>
 <tr><td>brutal</td><td>brūtål</td><td>brut-al</td><td>brūt-ål</td><td>a. 残忍的, 野蛮的, 严酷的</td></tr>
 <tr><td>brutish</td><td>brūtish</td><td>brut-ish</td><td>brūt-ish</td><td>a. 野蛮的, 残忍的</td></tr>
-<tr><td>brutality</td><td>brūtali̊tẏ</td><td>brut-al-ity</td><td>brūt-al-i̊tẏ</td><td>n. 残忍, 野蛮行为</td></tr>
+<tr><td>brutality</td><td>brūtalitẏ</td><td>brut-al-ity</td><td>brūt-al-itẏ</td><td>n. 残忍, 野蛮行为</td></tr>
 <tr><td>brutalize</td><td>brūtålīze</td><td>brut-al-ize</td><td>brūt-ål-īze</td><td>vt. 残酷对待, 使变残忍</td></tr>
 <tr><td>brutally</td><td>brūtållẏ</td><td>brut-al-ly</td><td>brūt-ål-lẏ</td><td>adv. 残忍地, 蛮横地</td></tr>
 <tr><td>brutalized</td><td>brūtålīz𝕖d</td><td>brut-al-iz-ed</td><td>brūt-ål-īz-𝕖d</td><td>v. 残酷对待, 使变残忍</td></tr>
-<tr><td>brutalization</td><td>brūtåli̊zātio̊n</td><td>brut-al-iz-at-ion</td><td>brūt-ål-i̊z-āt-io̊n</td><td>n. 残酷化, 野蛮化</td></tr>
+<tr><td>brutalization</td><td>brūtålīzātio̊n</td><td>brut-al-iz-at-ion</td><td>brūt-ål-īz-āt-io̊n</td><td>n. 残酷化, 野蛮化</td></tr>
 <tr><td>bryn</td><td>brẏn</td><td>bryn</td><td>brẏn</td><td>n. 布琳</td></tr>
 <tr><td>embryo</td><td>embrẏō</td><td>em-bryo</td><td>em-brẏō</td><td>n. 胚胎, 胚芽</td></tr>
 <tr><td>embryonic</td><td>embrẏonic</td><td>em-bryon-ic</td><td>em-brẏon-ic</td><td>a. 胚胎的<br>a. 萌芽的, 初期的</td></tr>
@@ -2520,18 +2520,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>embryological</td><td>embrẏo̊logicål</td><td>em-bryo-log-ic-al</td><td>em-brẏo̊-log-ic-ål</td><td>a. 胚胎学的</td></tr>
 <tr><td>bryozoan</td><td>brȳo̊zōån</td><td>bryozoan</td><td>brȳo̊zōån</td><td>n. 苔藓虫</td></tr>
 <tr><td>bub</td><td>bûb</td><td>bub</td><td>bûb</td><td>n. 小家伙, 小弟弟</td></tr>
-<tr><td>bubblegum</td><td>bûbblegûm</td><td>bubble-gum</td><td>bûbble-gûm</td><td>n. 泡泡糖<br>a. 泡泡糖音乐风格的</td></tr>
+<tr><td>bubblegum</td><td>bûbbl𝕖gûm</td><td>bubble-gum</td><td>bûbbl𝕖-gûm</td><td>n. 泡泡糖<br>a. 泡泡糖音乐风格的</td></tr>
 <tr><td>bubble</td><td>bûbble</td><td>bubb-le</td><td>bûbb-le</td><td>n. 泡沫, 气泡<br>vi. 冒泡, 沸腾</td></tr>
 <tr><td>bubbly</td><td>bûbblẏ</td><td>bubb-ly</td><td>bûbb-lẏ</td><td>a. 多泡的, 起泡的<br>n. 香槟酒</td></tr>
 <tr><td>bubbles</td><td>bûbbl𝕖ṡ</td><td>bubb-le-s</td><td>bûbb-l𝕖-ṡ</td><td></td></tr>
 <tr><td>bubba</td><td>bûbbå</td><td>bubba</td><td>bûbbå</td><td>n. (美口语)老兄, 老弟</td></tr>
 <tr><td>bubbling</td><td>bûbbling</td><td>bubb-ling</td><td>bûbb-ling</td><td>a. 冒泡的, 沸腾的, 兴奋的</td></tr>
 <tr><td>bubonic</td><td>būbonic</td><td>bubon-ic</td><td>būbon-ic</td><td>a. 腺鼠疫的</td></tr>
-<tr><td>buccal</td><td>būccål</td><td>bucc-al</td><td>būcc-ål</td><td>a. 颊的, 口腔的</td></tr>
+<tr><td>buccal</td><td>bûccål</td><td>bucc-al</td><td>bûcc-ål</td><td>a. 颊的, 口腔的</td></tr>
 <tr><td>buccaneer</td><td>bûccånēer</td><td>buccan-eer</td><td>bûccån-ēer</td><td>n. 海盗</td></tr>
 <tr><td>buck</td><td>bûck</td><td>buck</td><td>bûck</td><td>n. 美元, 雄鹿, 花花公子<br>vi. 马匹突然跃起, 反对, 吹牛<br>vt. 马匹突然跃起摔下骑手, 反对</td></tr>
 <tr><td>buckboard</td><td>bûckbōard</td><td>buck-board</td><td>bûck-bōard</td><td>n. 平板马车</td></tr>
-<tr><td>buckyball</td><td>bûckȳbãll</td><td>bucky-ball</td><td>bûckȳ-bãll</td><td>n. 巴克球, 富勒烯</td></tr>
+<tr><td>buckyball</td><td>bûckẏbãll</td><td>bucky-ball</td><td>bûckẏ-bãll</td><td>n. 巴克球, 富勒烯</td></tr>
 <tr><td>bucket</td><td>bûckėt</td><td>buck-et</td><td>bûck-ėt</td><td>n. 桶, 水桶</td></tr>
 <tr><td>buckeye</td><td>bûckeȳe</td><td>buck-eye</td><td>bûck-eȳe</td><td>n. 七叶树, 鹿瞳</td></tr>
 <tr><td>bucketful</td><td>bûckėtfůl</td><td>bucket-ful</td><td>bûckėt-fůl</td><td>n. (一)桶, 满桶</td></tr>
@@ -2540,7 +2540,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>buckshot</td><td>bûckshot</td><td>buck-shot</td><td>bûck-shot</td><td>n. 大型铅弹, 猎鹿弹</td></tr>
 <tr><td>buckskin</td><td>bûckskin</td><td>buck-skin</td><td>bûck-skin</td><td>n. 鹿皮</td></tr>
 <tr><td>buckthorn</td><td>bûckthorn</td><td>buck-thorn</td><td>bûck-thorn</td><td>n. 鼠李, 泻鼠李</td></tr>
-<tr><td>buckwheat</td><td>bûckwhēat</td><td>buck-wheat</td><td>bûck-whēat</td><td>n. 荞麦, 荞麦片</td></tr>
+<tr><td>buckwheat</td><td>bûckw𝕙ēat</td><td>buck-wheat</td><td>bûck-w𝕙ēat</td><td>n. 荞麦, 荞麦片</td></tr>
 <tr><td>buckets</td><td>bûckėts</td><td>buck-et-s</td><td>bûck-ėt-s</td><td></td></tr>
 <tr><td>megabuck</td><td>megåbûck</td><td>mega-buck</td><td>megå-bûck</td><td>n. 一大笔钱, 百万美元</td></tr>
 <tr><td>buckaroo</td><td>bûckåroo</td><td>buckaroo</td><td>bûckåroo</td><td>n. 牛仔, 牧童</td></tr>
@@ -2560,27 +2560,27 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>buddy</td><td>bûddẏ</td><td>budd-y</td><td>bûdd-ẏ</td><td>n. 好朋友, 伙伴</td></tr>
 <tr><td>ombudsman</td><td>ombûdṡmån</td><td>om-bud-s-man</td><td>om-bûd-ṡ-mån</td><td>n. 巡视官, 申诉专员</td></tr>
 <tr><td>redbud</td><td>redbûd</td><td>red-bud</td><td>red-bûd</td><td>n. 紫荆</td></tr>
-<tr><td>buddha</td><td>būdd𝕙å</td><td>buddh-a</td><td>būdd𝕙-å</td><td>n. 佛陀, 佛</td></tr>
+<tr><td>buddha</td><td>bùdd𝕙å</td><td>buddh-a</td><td>bùdd𝕙-å</td><td>n. 佛陀, 佛</td></tr>
 <tr><td>Buddhism</td><td>Bùddhiṡm</td><td>Buddh-ism</td><td>Bùddh-iṡm</td><td>n. 佛教</td></tr>
-<tr><td>buddhist</td><td>būdd𝕙ist</td><td>buddh-ist</td><td>būdd𝕙-ist</td><td>n. 佛教徒<br>a. 佛教的</td></tr>
-<tr><td>buddhism</td><td>būdd𝕙iṡm</td><td></td><td></td><td>n. 佛教</td></tr>
+<tr><td>buddhist</td><td>bùdd𝕙ist</td><td>buddh-ist</td><td>bùdd𝕙-ist</td><td>n. 佛教徒<br>a. 佛教的</td></tr>
+<tr><td>buddhism</td><td>bùdd𝕙iṡm</td><td></td><td></td><td>n. 佛教</td></tr>
 <tr><td>buddleia</td><td>bûddlēiå</td><td>buddleia</td><td>bûddlēiå</td><td>n. 醉鱼草属植物</td></tr>
 <tr><td>budge</td><td>bûdge</td><td>budge</td><td>bûdge</td><td>v. 微微移动, 改变态度</td></tr>
 <tr><td>budget</td><td>bûdgėt</td><td>budg-et</td><td>bûdg-ėt</td><td>n. 预算<br>vt. 编预算<br>a. 廉价的</td></tr>
-<tr><td>budgetary</td><td>bûdgėtarẏ</td><td>budg-et-ary</td><td>bûdg-ėt-arẏ</td><td>a. 预算的</td></tr>
-<tr><td>budgeted</td><td>bûdgėt𝕖d</td><td>budg-et-ed</td><td>bûdg-ėt-𝕖d</td><td>vt.&amp; vi. 把…编入预算（budget的过去式与过去分词形式）</td></tr>
+<tr><td>budgetary</td><td>bûdgėtårẏ</td><td>budg-et-ary</td><td>bûdg-ėt-årẏ</td><td>a. 预算的</td></tr>
+<tr><td>budgeted</td><td>bûdgėtėd</td><td>budg-et-ed</td><td>bûdg-ėt-ėd</td><td>vt.&amp; vi. 把…编入预算（budget的过去式与过去分词形式）</td></tr>
 <tr><td>budgets</td><td>bûdgėts</td><td>budg-et-s</td><td>bûdg-ėt-s</td><td></td></tr>
 <tr><td>budgie</td><td>bûdgie</td><td>budgie</td><td>bûdgie</td><td>n. 虎皮鹦鹉</td></tr>
 <tr><td>imbue</td><td>imbūe</td><td>im-bue</td><td>im-būe</td><td>vt. 使浸染, 灌输, 使渗透</td></tr>
 <tr><td>buff</td><td>bûff</td><td>buff</td><td>bûff</td><td>n. 爱好者, 暗黄色皮革<br>vt. 擦亮</td></tr>
-<tr><td>buffed</td><td>bûff𝕖d</td><td>buff-ed</td><td>bûff-𝕖d</td><td>a. 健壮的；肌肉发达的</td></tr>
+<tr><td>buffed</td><td>bûff𝕖ḋ</td><td>buff-ed</td><td>bûff-𝕖ḋ</td><td>a. 健壮的；肌肉发达的</td></tr>
 <tr><td>buffer</td><td>bûffe̊r</td><td>buff-er</td><td>bûff-e̊r</td><td>n. 缓冲器, 缓冲区<br>vt. 缓冲</td></tr>
 <tr><td>buffered</td><td>bûffe̊r𝕖d</td><td>buff-er-ed</td><td>bûff-e̊r-𝕖d</td><td>v. 缓冲, 保护</td></tr>
 <tr><td>buffering</td><td>bûffe̊ring</td><td>buff-er-ing</td><td>bûff-e̊r-ing</td><td>n. 缓冲</td></tr>
 <tr><td>buffalo</td><td>bûffålō</td><td>buff-al-o</td><td>bûff-ål-ō</td><td>n. 水牛, 野牛</td></tr>
 <tr><td>rebuff</td><td>rėbûff</td><td>re-buff</td><td>rė-bûff</td><td>n. 断然拒绝, 冷淡<br>vt. 断然拒绝</td></tr>
-<tr><td>buffet</td><td>bûffe̊t</td><td>buff-et</td><td>bûff-e̊t</td><td>n. 自助餐, 碗橱<br>vt. 连续打, 冲击</td></tr>
-<tr><td>buffeting</td><td>bûffè𝕥ing</td><td>buff-et-ing</td><td>bûff-è𝕥-ing</td><td>n. 连续猛击<br>v. 撞击</td></tr>
+<tr><td>buffet</td><td>bûffėt</td><td>buff-et</td><td>bûff-ėt</td><td>n. 自助餐, 碗橱<br>vt. 连续打, 冲击</td></tr>
+<tr><td>buffeting</td><td>bûffėting</td><td>buff-et-ing</td><td>bûff-ėt-ing</td><td>n. 连续猛击<br>v. 撞击</td></tr>
 <tr><td>buffets</td><td>bûffėts</td><td>buff-et-s</td><td>bûff-ėt-s</td><td></td></tr>
 <tr><td>buffoon</td><td>bůffoon</td><td>buffoon</td><td>bůffoon</td><td>n. 小丑, 丑角</td></tr>
 <tr><td>buffoonery</td><td>bůffoone̊rẏ</td><td>buffoon-ery</td><td>bůffoon-e̊rẏ</td><td>n. 打诨, 滑稽</td></tr>
@@ -2604,29 +2604,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>mealybug</td><td>mēalẏbûg</td><td>meal-y-bug</td><td>mēal-ẏ-bûg</td><td>n. 粉蚧, 水蜡虫</td></tr>
 <tr><td>build</td><td>b𝕦ild</td><td>build</td><td>b𝕦ild</td><td>v. 建筑, 建立, 构造<br>n. 体格, 构造</td></tr>
 <tr><td>built</td><td>b𝕦ilt</td><td>built</td><td>b𝕦ilt</td><td></td></tr>
-<tr><td>buildable</td><td>buildåble</td><td>build-able</td><td>build-åble</td><td>a. 可建造的</td></tr>
-<tr><td>builder</td><td>builde̊r</td><td>build-er</td><td>build-e̊r</td><td>n. 建设者, 建筑商</td></tr>
+<tr><td>buildable</td><td>b𝕦ildåble</td><td>build-able</td><td>b𝕦ild-åble</td><td>a. 可建造的</td></tr>
+<tr><td>builder</td><td>b𝕦ilde̊r</td><td>build-er</td><td>b𝕦ild-e̊r</td><td>n. 建设者, 建筑商</td></tr>
 <tr><td>building</td><td>b𝕦ilding</td><td>build-ing</td><td>b𝕦ild-ing</td><td>n. 建筑物, 建筑</td></tr>
 <tr><td>builds</td><td>b𝕦ildṡ</td><td>build-s</td><td>b𝕦ild-ṡ</td><td></td></tr>
-<tr><td>buildup</td><td>buildûp</td><td>build-up</td><td>build-ûp</td><td>n. 发展, 集结, 增强</td></tr>
+<tr><td>buildup</td><td>b𝕦ildûp</td><td>build-up</td><td>b𝕦ild-ûp</td><td>n. 发展, 集结, 增强</td></tr>
 <tr><td>buildings</td><td>b𝕦ildingṡ</td><td>build-ing-s</td><td>b𝕦ild-ing-ṡ</td><td></td></tr>
-<tr><td>inbuilt</td><td>inbuilt</td><td>in-built</td><td>in-built</td><td>a. 内置的, 嵌入的</td></tr>
+<tr><td>inbuilt</td><td>inb𝕦ilt</td><td>in-built</td><td>in-b𝕦ilt</td><td>a. 内置的, 嵌入的</td></tr>
 <tr><td>overbuild</td><td>ōve̊rb𝕦ild</td><td>over-build</td><td>ōve̊r-b𝕦ild</td><td>vt. 建造过多, 过度建设</td></tr>
-<tr><td>overbuilding</td><td>ōve̊rbuilding</td><td>over-build-ing</td><td>ōve̊r-build-ing</td><td>v. 建造过多, 过度建设 (overbuild的现在分词)</td></tr>
-<tr><td>rebuild</td><td>rēbuild</td><td>re-build</td><td>rē-build</td><td>vt. 重建, 改造, 重新组装<br>vi. 重建</td></tr>
-<tr><td>rebuilt</td><td>rēbuilt</td><td>re-built</td><td>rē-built</td><td>a. 重建的, 改装的</td></tr>
-<tr><td>rebuilder</td><td>rēbuilde̊r</td><td>re-build-er</td><td>rē-build-e̊r</td><td>n. 重建者</td></tr>
-<tr><td>rebuilding</td><td>rēbuilding</td><td>re-build-ing</td><td>rē-build-ing</td><td>n. 重建</td></tr>
+<tr><td>overbuilding</td><td>ōve̊rb𝕦ilding</td><td>over-build-ing</td><td>ōve̊r-b𝕦ild-ing</td><td>v. 建造过多, 过度建设 (overbuild的现在分词)</td></tr>
+<tr><td>rebuild</td><td>rėb𝕦ild</td><td>re-build</td><td>rė-b𝕦ild</td><td>vt. 重建, 改造, 重新组装<br>vi. 重建</td></tr>
+<tr><td>rebuilt</td><td>rėb𝕦ilt</td><td>re-built</td><td>rė-b𝕦ilt</td><td>a. 重建的, 改装的</td></tr>
+<tr><td>rebuilder</td><td>rėb𝕦ilde̊r</td><td>re-build-er</td><td>rė-b𝕦ild-e̊r</td><td>n. 重建者</td></tr>
+<tr><td>rebuilding</td><td>rėb𝕦ilding</td><td>re-build-ing</td><td>rė-b𝕦ild-ing</td><td>n. 重建</td></tr>
 <tr><td>rebuilds</td><td>rėb𝕦ildṡ</td><td>re-build-s</td><td>rė-b𝕦ild-ṡ</td><td></td></tr>
 <tr><td>rebuke</td><td>rėbūke</td><td>re-buke</td><td>rė-būke</td><td>n. 指责, 谴责, 非难<br>vt. 斥责, 指责, 制止</td></tr>
 <tr><td>bulb</td><td>bûlb</td><td>bulb</td><td>bûlb</td><td>n. 灯泡, 球茎</td></tr>
 <tr><td>bulblet</td><td>bûlblėt</td><td>bulb-let</td><td>bûlb-lėt</td><td>n. 小鳞茎, 副鳞茎</td></tr>
 <tr><td>bulbous</td><td>bûlbo̊us</td><td>bulb-ous</td><td>bûlb-o̊us</td><td>a. 球茎状的</td></tr>
-<tr><td>bulbul</td><td>bùlbùl</td><td>bulbul</td><td>bùlbùl</td><td>n. 夜莺, 歌手, 诗人</td></tr>
-<tr><td>bulgarian</td><td>bûlgariån</td><td>bulg-ar-ian</td><td>bûlg-ar-iån</td><td>n. 保加利亚人, 保加利亚语<br>a. 保加利亚的</td></tr>
+<tr><td>bulbul</td><td>bûlbûl</td><td>bulbul</td><td>bûlbûl</td><td>n. 夜莺, 歌手, 诗人</td></tr>
+<tr><td>bulgarian</td><td>bûlgāriån</td><td>bulg-ar-ian</td><td>bûlg-ār-iån</td><td>n. 保加利亚人, 保加利亚语<br>a. 保加利亚的</td></tr>
 <tr><td>bulge</td><td>bûlge</td><td>bulge</td><td>bûlge</td><td>n. 凸起, 膨胀<br>v. 凸出, 使膨胀</td></tr>
 <tr><td>bulging</td><td>bûlging</td><td>bulg-ing</td><td>bûlg-ing</td><td>a. 鼓起的, 凸出的</td></tr>
-<tr><td>bulgur</td><td>bùlgůr</td><td>bulgur</td><td>bùlgůr</td><td>n. 碾碎的干小麦</td></tr>
+<tr><td>bulgur</td><td>bûlgůr</td><td>bulgur</td><td>bûlgůr</td><td>n. 碾碎的干小麦</td></tr>
 <tr><td>bulimia</td><td>būlimiå</td><td>bulimia</td><td>būlimiå</td><td>n. 暴食症, 食欲过盛</td></tr>
 <tr><td>bulimic</td><td>būlimic</td><td>bulim-ic</td><td>būlim-ic</td><td>n. 暴食症患者<br>a. 暴食的</td></tr>
 <tr><td>bulk</td><td>bûlk</td><td>bulk</td><td>bûlk</td><td>n. 体积, 大量, 大部分<br>vi. 显得重要</td></tr>
@@ -2652,13 +2652,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bulrush</td><td>bùlrûsh</td><td>bul-rush</td><td>bùl-rûsh</td><td>n. 宽叶香蒲, 纸莎草</td></tr>
 <tr><td>bulls</td><td>bùllṡ</td><td>bull-s</td><td>bùll-ṡ</td><td></td></tr>
 <tr><td>bullshit</td><td>bùllshit</td><td>bull-shit</td><td>bùll-shit</td><td>n. 胡说, 废话</td></tr>
-<tr><td>bullwhip</td><td>bùllwhip</td><td>bull-whip</td><td>bùll-whip</td><td>n. 牛皮鞭, 长鞭</td></tr>
+<tr><td>bullwhip</td><td>bùllw𝕙ip</td><td>bull-whip</td><td>bùll-w𝕙ip</td><td>n. 牛皮鞭, 长鞭</td></tr>
 <tr><td>bulldozed</td><td>bùlldōz𝕖d</td><td>bull-doz-ed</td><td>bùll-dōz-𝕖d</td><td>v. 推平, 强行通过</td></tr>
 <tr><td>bulldozer</td><td>bùlldōze̊r</td><td>bull-doz-er</td><td>bùll-dōz-e̊r</td><td>n. 推土机</td></tr>
 <tr><td>bullheaded</td><td>bùllhèadėd</td><td>bull-head-ed</td><td>bùll-hèad-ėd</td><td>a. 顽固的, 莽撞的</td></tr>
 <tr><td>bulldozing</td><td>bùlldōzing</td><td>bull-doz-ing</td><td>bùll-dōz-ing</td><td>v. 推土, 推平</td></tr>
 <tr><td>bulletin</td><td>bùllėtin</td><td>bull-et-in</td><td>bùll-ėt-in</td><td>n. 公报, 公告</td></tr>
-<tr><td>bulletproof</td><td>bùlle̊tproof</td><td>bull-et-proof</td><td>bùll-e̊t-proof</td><td>a. 防弹的</td></tr>
+<tr><td>bulletproof</td><td>bùllėtproof</td><td>bull-et-proof</td><td>bùll-ėt-proof</td><td>a. 防弹的</td></tr>
 <tr><td>bullets</td><td>bùllėts</td><td>bull-et-s</td><td>bùll-ėt-s</td><td></td></tr>
 <tr><td>bullshits</td><td>bùllshits</td><td>bull-shit-s</td><td>bùll-shit-s</td><td></td></tr>
 <tr><td>bully</td><td>bùllẏ</td><td>bully</td><td>bùllẏ</td><td>n. 欺凌者, 霸道的人<br>vt. 威吓, 欺负<br>vi. 欺负</td></tr>
@@ -2666,7 +2666,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bullies</td><td>bùlli𝕖ṡ</td><td>bull-ies</td><td>bùll-i𝕖ṡ</td><td></td></tr>
 <tr><td>bullying</td><td>bùllẏing</td><td>bully-ing</td><td>bùllẏ-ing</td><td>n. 欺凌, 恃强凌弱</td></tr>
 <tr><td>bullyrag</td><td>bùllẏrag</td><td>bully-rag</td><td>bùllẏ-rag</td><td>vt. 威吓, 欺凌</td></tr>
-<tr><td>bulwark</td><td>bùlwårk</td><td>bulwark</td><td>bùlwårk</td><td>n. 壁垒, 保障</td></tr>
+<tr><td>bulwark</td><td>bùlwãrk</td><td>bulwark</td><td>bùlwãrk</td><td>n. 壁垒, 保障</td></tr>
 <tr><td>bum</td><td>bûm</td><td>bum</td><td>bûm</td><td>n. 游荡者, 懒汉<br>vi. 游荡, 乞讨</td></tr>
 <tr><td>bummed</td><td>bûmm𝕖d</td><td>bumm-ed</td><td>bûmm-𝕖d</td><td>a. 失望的, 沮丧的</td></tr>
 <tr><td>bummer</td><td>bûmme̊r</td><td>bumm-er</td><td>bûmm-e̊r</td><td>n. 令人失望的事, 扫兴的事</td></tr>
@@ -2714,14 +2714,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bungling</td><td>bûngling</td><td>bungl-ing</td><td>bûngl-ing</td><td>a. 笨拙的, 粗劣的</td></tr>
 <tr><td>bunk</td><td>bûnk</td><td>bunk</td><td>bûnk</td><td>n. 铺位, 废话<br>vi. 睡在铺上</td></tr>
 <tr><td>bunker</td><td>bûnke̊r</td><td>bunk-er</td><td>bûnk-e̊r</td><td>n. 煤仓, 沙坑, 掩体<br>vt. 击入沙坑, 使陷入困境</td></tr>
-<tr><td>debunk</td><td>dėbûnk</td><td>de-bunk</td><td>dė-bûnk</td><td>vt. 揭穿, 拆穿</td></tr>
-<tr><td>debunker</td><td>dēbûnke̊r</td><td>de-bunk-er</td><td>dē-bûnk-e̊r</td><td>n. 揭穿者, 暴露真相者</td></tr>
-<tr><td>debunking</td><td>dėbûnking</td><td>de-bunk-ing</td><td>dė-bûnk-ing</td><td>v. 揭穿真相, 暴露( debunk的现在分词 )</td></tr>
+<tr><td>debunk</td><td>dēbûnk</td><td>de-bunk</td><td>dē-bûnk</td><td>vt. 揭穿, 拆穿</td></tr>
+<tr><td>debunker</td><td>debûnke̊r</td><td>de-bunk-er</td><td>de-bûnk-e̊r</td><td>n. 揭穿者, 暴露真相者</td></tr>
+<tr><td>debunking</td><td>dēbûnking</td><td>de-bunk-ing</td><td>dē-bûnk-ing</td><td>v. 揭穿真相, 暴露( debunk的现在分词 )</td></tr>
 <tr><td>bunnies</td><td>bûnni𝕖ṡ</td><td>bunn-ies</td><td>bûnn-i𝕖ṡ</td><td></td></tr>
 <tr><td>bunny</td><td>bûnnẏ</td><td>bunn-y</td><td>bûnn-ẏ</td><td>n. 兔子</td></tr>
 <tr><td>bunt</td><td>bûnt</td><td>bunt</td><td>bûnt</td><td>n. 触击, 顶撞, 蒲苞<br>vt. 触击, 顶撞</td></tr>
 <tr><td>bunting</td><td>bûnting</td><td>bunt-ing</td><td>bûnt-ing</td><td>n. 旗布, 彩旗<br>n. 白颊鸟</td></tr>
-<tr><td>buoy</td><td>būoy</td><td>buoy</td><td>būoy</td><td>n. 浮标, 救生圈<br>vt. 使浮起, 鼓励</td></tr>
+<tr><td>buoy</td><td>b𝕦oẏ</td><td>buoy</td><td>b𝕦oẏ</td><td>n. 浮标, 救生圈<br>vt. 使浮起, 鼓励</td></tr>
 <tr><td>buoyancy</td><td>b𝕦oẏåncẏ</td><td>buoy-ancy</td><td>b𝕦oẏ-åncẏ</td><td>n. 浮力, 轻快</td></tr>
 <tr><td>buoyant</td><td>b𝕦oẏånt</td><td>buoy-ant</td><td>b𝕦oẏ-ånt</td><td>a. 有浮力的, 心情愉快的</td></tr>
 <tr><td>buoyantly</td><td>b𝕦oẏåntlẏ</td><td>buoy-ant-ly</td><td>b𝕦oẏ-ånt-lẏ</td><td>adv. 有浮力地, 轻快地</td></tr>
@@ -2734,15 +2734,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>burmese</td><td>bůrmēṡe</td><td>bur-mese</td><td>bůr-mēṡe</td><td>n. 缅甸人, 缅甸语<br>a. 缅甸的, 缅甸人的</td></tr>
 <tr><td>bury</td><td>burẏ</td><td>bur-y</td><td>bur-ẏ</td><td>vt. 埋葬, 掩埋</td></tr>
 <tr><td>burial</td><td>buriål</td><td>bur-i-al</td><td>bur-i-ål</td><td>n. 埋葬, 葬礼</td></tr>
-<tr><td>bureaucratese</td><td>būre̊aùcratēṡe</td><td>bureau-crat-ese</td><td>būre̊aù-crat-ēṡe</td><td>n. 官腔, 官话</td></tr>
-<tr><td>buried</td><td>buriėd</td><td>bur-i-ed</td><td>bur-i-ėd</td><td>a. 埋葬的, 隐藏的</td></tr>
+<tr><td>bureaucratese</td><td>būre̊aùcrātēṡe</td><td>bureau-crat-ese</td><td>būre̊aù-crāt-ēṡe</td><td>n. 官腔, 官话</td></tr>
+<tr><td>buried</td><td>buri𝕖d</td><td>bur-i-ed</td><td>bur-i-𝕖d</td><td>a. 埋葬的, 隐藏的</td></tr>
 <tr><td>bureaucratic</td><td>būre̊aùcratic</td><td>bureau-crat-ic</td><td>būre̊aù-crat-ic</td><td>a. 官僚的, 官僚主义的</td></tr>
 <tr><td>burying</td><td>burẏing</td><td>bur-y-ing</td><td>bur-ẏ-ing</td><td></td></tr>
-<tr><td>bureaucratization</td><td>būre̊aùcråtīzātio̊n</td><td>bureau-crat-iz-at-ion</td><td>būre̊aù-cråt-īz-āt-io̊n</td><td>n. 官僚化</td></tr>
+<tr><td>bureaucratization</td><td>būre̊aùcratīzātio̊n</td><td>bureau-crat-iz-at-ion</td><td>būre̊aù-crat-īz-āt-io̊n</td><td>n. 官僚化</td></tr>
 <tr><td>bureaucratically</td><td>būre̊aùcraticållẏ</td><td>bureau-crat-ic-al-ly</td><td>būre̊aù-crat-ic-ål-lẏ</td><td>adv. 官僚主义地</td></tr>
 <tr><td>rebury</td><td>rėburẏ</td><td>re-bur-y</td><td>rė-bur-ẏ</td><td>v. 重新埋葬</td></tr>
 <tr><td>reburial</td><td>rėburiål</td><td>re-bur-i-al</td><td>rė-bur-i-ål</td><td>n. 重新埋葬</td></tr>
-<tr><td>unburied</td><td>unburiėd</td><td>un-bur-i-ed</td><td>un-bur-i-ėd</td><td>a. 未埋葬的</td></tr>
+<tr><td>unburied</td><td>ûnburi𝕖d</td><td>un-bur-i-ed</td><td>ûn-bur-i-𝕖d</td><td>a. 未埋葬的</td></tr>
 <tr><td>burb</td><td>bůrb</td><td>burb</td><td>bůrb</td><td>n. 郊区(非正式, 同suburb)</td></tr>
 <tr><td>burble</td><td>bůrble</td><td>burble</td><td>bůrble</td><td>vi. 潺潺作声, 咕噜<br>n. 空谈, 潺潺声</td></tr>
 <tr><td>burbling</td><td>bůrbling</td><td>burbl-ing</td><td>bůrbl-ing</td><td>a. 热情洋溢的<br>v. 喋喋不休 (burble的现在分词)</td></tr>
@@ -2755,24 +2755,24 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>burg</td><td>bůrg</td><td>burg</td><td>bůrg</td><td>n. 小镇(colloquial)</td></tr>
 <tr><td>burgle</td><td>bůrgle</td><td>burgle</td><td>bůrgle</td><td>v. 破门盗窃</td></tr>
 <tr><td>burger</td><td>bůrge̊r</td><td>burg-er</td><td>bůrg-e̊r</td><td>n. 汉堡包(hamburger的简称)</td></tr>
-<tr><td>burgess</td><td>bůrge̊ss</td><td>burg-ess</td><td>bůrg-e̊ss</td><td>n. 市民, 镇民</td></tr>
+<tr><td>burgess</td><td>bůrgess</td><td>burg-ess</td><td>bůrg-ess</td><td>n. 市民, 镇民</td></tr>
 <tr><td>burglar</td><td>bůrglår</td><td>bur-gl-ar</td><td>bůr-gl-år</td><td>n. 窃贼, 入室盗贼</td></tr>
 <tr><td>burgers</td><td>bůrge̊rṡ</td><td>burg-er-s</td><td>bůrg-e̊r-ṡ</td><td></td></tr>
 <tr><td>burglarize</td><td>bůrglårīze</td><td>bur-gl-ar-ize</td><td>bůr-gl-år-īze</td><td>v. 入室盗窃, 做夜贼</td></tr>
 <tr><td>burglars</td><td>bůrglårṡ</td><td>bur-gl-ar-s</td><td>bůr-gl-år-ṡ</td><td></td></tr>
 <tr><td>burglary</td><td>bůrglårẏ</td><td>bur-gl-ar-y</td><td>bůr-gl-år-ẏ</td><td>n. 入室盗窃, 夜盗</td></tr>
-<tr><td>burgeon</td><td>bůrgeo̊n</td><td>burgeon</td><td>bůrgeo̊n</td><td>v. 萌芽, 发芽<br>n. 嫩枝</td></tr>
-<tr><td>burgeoning</td><td>bůrgeo̊ning</td><td>burgeon-ing</td><td>bůrgeo̊n-ing</td><td>a. 迅速增长的, 新兴的</td></tr>
+<tr><td>burgeon</td><td>bůrg𝕖o̊n</td><td>burgeon</td><td>bůrg𝕖o̊n</td><td>v. 萌芽, 发芽<br>n. 嫩枝</td></tr>
+<tr><td>burgeoning</td><td>bůrg𝕖o̊ning</td><td>burgeon-ing</td><td>bůrg𝕖o̊n-ing</td><td>a. 迅速增长的, 新兴的</td></tr>
 <tr><td>burgher</td><td>bůrg𝕙e̊r</td><td>burgh-er</td><td>bůrg𝕙-e̊r</td><td>n. 公民, 市民</td></tr>
 <tr><td>burgundian</td><td>bůrgûndiån</td><td>burgund-ian</td><td>bůrgûnd-iån</td><td>a. 勃艮第的, 勃艮第人的</td></tr>
 <tr><td>burgundy</td><td>bůrgûndẏ</td><td>burgund-y</td><td>bůrgûnd-ẏ</td><td>n. 勃艮第葡萄酒<br>a. 暗紫红色的</td></tr>
-<tr><td>burin</td><td>bůrin</td><td>burin</td><td>bůrin</td><td>n. 雕刻刀, 刻刀</td></tr>
+<tr><td>burin</td><td>būrin</td><td>burin</td><td>būrin</td><td>n. 雕刻刀, 刻刀</td></tr>
 <tr><td>burka</td><td>bůrkå</td><td>burka</td><td>bůrkå</td><td>n. 罩袍（穆斯林女子穿的全身长袍）</td></tr>
-<tr><td>burkean</td><td>bůrkēan</td><td>burke-an</td><td>bůrkē-an</td><td>a. 伯克式的, 保守主义的</td></tr>
+<tr><td>burkean</td><td>bůrkėån</td><td>burke-an</td><td>bůrkė-ån</td><td>a. 伯克式的, 保守主义的</td></tr>
 <tr><td>burl</td><td>bůrl</td><td>burl</td><td>bůrl</td><td>n. 树瘤<br>vt. 去除（织物上的）结节</td></tr>
-<tr><td>burley</td><td>bůrlēy</td><td>burl-ey</td><td>bůrl-ēy</td><td>n. 白肋烟</td></tr>
+<tr><td>burley</td><td>bůrlėy</td><td>burl-ey</td><td>bůrl-ėy</td><td>n. 白肋烟</td></tr>
 <tr><td>burlap</td><td>bůrlap</td><td>burlap</td><td>bůrlap</td><td>n. 粗麻布</td></tr>
-<tr><td>burlesque</td><td>bůrlesq𝕦e</td><td>burlesque</td><td>bůrlesq𝕦e</td><td>n. 滑稽讽刺表演, 戏仿<br>a. 滑稽的, 讽刺的</td></tr>
+<tr><td>burlesque</td><td>bůrlesque</td><td>burlesque</td><td>bůrlesque</td><td>n. 滑稽讽刺表演, 戏仿<br>a. 滑稽的, 讽刺的</td></tr>
 <tr><td>Burma</td><td>Bůrmå</td><td>Burma</td><td>Bůrmå</td><td>n. 缅甸</td></tr>
 <tr><td>burn</td><td>bůrn</td><td>burn</td><td>bůrn</td><td>n. 烧伤, 烙印<br>v. 燃烧, 烧毁, 烧伤</td></tr>
 <tr><td>burnt</td><td>bůrnt</td><td>burnt</td><td>bůrnt</td><td>a. 烧焦的, 烧伤的</td></tr>
@@ -2787,12 +2787,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unburned</td><td>ûnbůrn𝕖d</td><td>un-burn-ed</td><td>ûn-bůrn-𝕖d</td><td>a. 未燃的</td></tr>
 <tr><td>burp</td><td>bůrp</td><td>burp</td><td>bůrp</td><td>n. 饱嗝儿, 打嗝<br>v. 打饱嗝</td></tr>
 <tr><td>burqa</td><td>bůrqå</td><td>burqa</td><td>bůrqå</td><td>n. 布卡(伊斯兰妇女蒙面长袍)</td></tr>
-<tr><td>burr</td><td>burr</td><td>burr</td><td>burr</td><td>n. 毛边, 倒刺</td></tr>
-<tr><td>burrito</td><td>burrĩtō</td><td>burr-ito</td><td>burr-ĩtō</td><td>n. 墨西哥玉米煎饼</td></tr>
+<tr><td>burr</td><td>bůrr</td><td>burr</td><td>bůrr</td><td>n. 毛边, 倒刺</td></tr>
+<tr><td>burrito</td><td>bûrrĩtō</td><td>burr-ito</td><td>bûrr-ĩtō</td><td>n. 墨西哥玉米煎饼</td></tr>
 <tr><td>burritos</td><td>burrĩtōṡ</td><td>burr-ito-s</td><td>burr-ĩtō-ṡ</td><td></td></tr>
-<tr><td>burro</td><td>burrō</td><td>burro</td><td>burrō</td><td>n. 小驴</td></tr>
-<tr><td>burrow</td><td>burrōw</td><td>burrow</td><td>burrōw</td><td>n. 洞穴, 藏身处<br>v. 挖掘, 打洞</td></tr>
-<tr><td>burrowing</td><td>burrōwing</td><td>burrow-ing</td><td>burrōw-ing</td><td>v. 挖洞, 掘地</td></tr>
+<tr><td>burro</td><td>bûrrō</td><td>burro</td><td>bûrrō</td><td>n. 小驴</td></tr>
+<tr><td>burrow</td><td>bûrrōw</td><td>burrow</td><td>bûrrōw</td><td>n. 洞穴, 藏身处<br>v. 挖掘, 打洞</td></tr>
+<tr><td>burrowing</td><td>bûrrōwing</td><td>burrow-ing</td><td>bûrrōw-ing</td><td>v. 挖洞, 掘地</td></tr>
 <tr><td>bursar</td><td>bůrsår</td><td>burs-ar</td><td>bůrs-år</td><td>n. 财务主管, 领取奖学金的学生</td></tr>
 <tr><td>bursitis</td><td>bůrsītis</td><td>burs-itis</td><td>bůrs-ītis</td><td>n. 滑囊炎, 黏液囊炎</td></tr>
 <tr><td>disburse</td><td>disbůrse</td><td>dis-burse</td><td>dis-bůrse</td><td>vt. 支付, 支出, 偿付</td></tr>
@@ -2805,7 +2805,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>burster</td><td>bůrste̊r</td><td>burst-er</td><td>bůrst-e̊r</td><td>n. 分页器, 分离器</td></tr>
 <tr><td>bursting</td><td>bůrsting</td><td>burst-ing</td><td>bůrst-ing</td><td>v. 爆裂, 充满(burst的现在分词)<br>a. 充满的, 渴望的</td></tr>
 <tr><td>bursts</td><td>bůrsts</td><td>burst-s</td><td>bůrst-s</td><td></td></tr>
-<tr><td>burundian</td><td>būrūndiån</td><td>burundi-an</td><td>būrūndi-ån</td><td>a. 布隆迪的<br>n. 布隆迪人</td></tr>
+<tr><td>burundian</td><td>būrûndiån</td><td>burundi-an</td><td>būrûndi-ån</td><td>a. 布隆迪的<br>n. 布隆迪人</td></tr>
 <tr><td>bus</td><td>bûs</td><td>bus</td><td>bûs</td><td>n. 公共汽车</td></tr>
 <tr><td>busboy</td><td>bûsboẏ</td><td>bus-boy</td><td>bûs-boẏ</td><td>n. 餐厅侍者助手</td></tr>
 <tr><td>buses</td><td>bûsėṡ</td><td>bus-es</td><td>bûs-ėṡ</td><td></td></tr>
@@ -2815,7 +2815,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>busy</td><td>bu̇ṡẏ</td><td>bus-y</td><td>bu̇ṡ-ẏ</td><td>a. 忙碌的, 繁忙的<br>vt. 使忙碌</td></tr>
 <tr><td>busier</td><td>bu̇ṡie̊r</td><td>bus-i-er</td><td>bu̇ṡ-i-e̊r</td><td></td></tr>
 <tr><td>busiest</td><td>bu̇ṡiėst</td><td>bus-i-est</td><td>bu̇ṡ-i-ėst</td><td></td></tr>
-<tr><td>busily</td><td>bu̇ṡi̊lẏ</td><td>bus-i-ly</td><td>bu̇ṡ-i̊-lẏ</td><td>adv. 忙碌地</td></tr>
+<tr><td>busily</td><td>bu̇ṡilẏ</td><td>bus-i-ly</td><td>bu̇ṡ-i-lẏ</td><td>adv. 忙碌地</td></tr>
 <tr><td>business</td><td>bu̇ṡinėss</td><td>bus-i-ness</td><td>bu̇ṡ-i-nėss</td><td>n. 生意, 商业, 业务, 职责</td></tr>
 <tr><td>busyness</td><td>bu̇ṡẏnėss</td><td>bus-y-ness</td><td>bu̇ṡ-ẏ-nėss</td><td>n. 繁忙, 忙碌</td></tr>
 <tr><td>busboys</td><td>bûsboẏṡ</td><td>bus-boy-s</td><td>bûs-boẏ-ṡ</td><td></td></tr>
@@ -2824,8 +2824,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>businessmen</td><td>bu̇ṡinėssmen</td><td>bus-i-ness-men</td><td>bu̇ṡ-i-nėss-men</td><td></td></tr>
 <tr><td>businesswoman</td><td>bu̇ṡinėsswõmån</td><td>bus-i-ness-wo-man</td><td>bu̇ṡ-i-nėss-wõ-mån</td><td>n. 女商人</td></tr>
 <tr><td>businessperson</td><td>bu̇ṡinėsspe̊rso̊n</td><td>bus-i-ness-per-son</td><td>bu̇ṡ-i-nėss-pe̊r-so̊n</td><td>n. 商人</td></tr>
-<tr><td>microbus</td><td>mīcro̊bůs</td><td>micro-bus</td><td>mīcro̊-bůs</td><td>n. 中客车, 小型公共汽车</td></tr>
-<tr><td>minibus</td><td>minĩbûs</td><td>mini-bus</td><td>minĩ-bûs</td><td>n. 小型公共汽车, 中巴</td></tr>
+<tr><td>microbus</td><td>mīcrōbûs</td><td>micro-bus</td><td>mīcrō-bûs</td><td>n. 中客车, 小型公共汽车</td></tr>
+<tr><td>minibus</td><td>minibûs</td><td>mini-bus</td><td>mini-bûs</td><td>n. 小型公共汽车, 中巴</td></tr>
 <tr><td>rebus</td><td>rēbůs</td><td>re-bus</td><td>rē-bůs</td><td>n. 谜, 画谜</td></tr>
 <tr><td>bush</td><td>bùsh</td><td>bush</td><td>bùsh</td><td>n. 灌木, 矮树丛</td></tr>
 <tr><td>bushed</td><td>bùsh𝕖ḋ</td><td>bush-ed</td><td>bùsh-𝕖ḋ</td><td>a. 疲倦的</td></tr>
@@ -2834,10 +2834,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bushfire</td><td>bùshfīre</td><td>bush-fire</td><td>bùsh-fīre</td><td>n. 林区大火</td></tr>
 <tr><td>bushing</td><td>bùshing</td><td>bush-ing</td><td>bùsh-ing</td><td>n. 轴衬, 套管</td></tr>
 <tr><td>bushman</td><td>bùshmån</td><td>bush-man</td><td>bùsh-mån</td><td>n. 布须曼人(非洲南部), 丛林居民</td></tr>
-<tr><td>bushwhack</td><td>bùshwhack</td><td>bush-whack</td><td>bùsh-whack</td><td>vi. 在丛林中开路, 伏击</td></tr>
+<tr><td>bushwhack</td><td>bùshw𝕙ack</td><td>bush-whack</td><td>bùsh-w𝕙ack</td><td>vi. 在丛林中开路, 伏击</td></tr>
 <tr><td>bushy</td><td>bùshẏ</td><td>bush-y</td><td>bùsh-ẏ</td><td>a. 灌木一样的, 灌木茂密的, 浓密的</td></tr>
 <tr><td>bushmaster</td><td>bùshmàste̊r</td><td>bush-mast-er</td><td>bùsh-màst-e̊r</td><td>n. 巨蝮(南美热带大毒蛇)</td></tr>
-<tr><td>bushwhacker</td><td>bùshwhacke̊r</td><td>bush-whack-er</td><td>bùsh-whack-e̊r</td><td>n. 丛林开拓者, 林中居民</td></tr>
+<tr><td>bushwhacker</td><td>bùshw𝕙acke̊r</td><td>bush-whack-er</td><td>bùsh-w𝕙ack-e̊r</td><td>n. 丛林开拓者, 林中居民</td></tr>
 <tr><td>ambush</td><td>ambùsh</td><td>am-bush</td><td>am-bùsh</td><td>n. 埋伏, 伏击<br>vt. 伏击</td></tr>
 <tr><td>busk</td><td>bûsk</td><td>busk</td><td>bûsk</td><td>vt. &lt;苏&gt; 准备好</td></tr>
 <tr><td>busker</td><td>bûske̊r</td><td>busk-er</td><td>bûsk-e̊r</td><td>n. 街头艺人</td></tr>
@@ -2859,7 +2859,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>butte</td><td>būtte</td><td>but-te</td><td>būt-te</td><td>n. 孤山</td></tr>
 <tr><td>abut</td><td>åbût</td><td>a-but</td><td>å-bût</td><td>v. 邻接, 毗邻</td></tr>
 <tr><td>abutment</td><td>åbûtme̊nt</td><td>a-but-ment</td><td>å-bût-me̊nt</td><td>n. 桥台, 邻接</td></tr>
-<tr><td>isobutane</td><td>īsōbūtāne</td><td>iso-butane</td><td>īsō-būtāne</td><td>n. 异丁烷</td></tr>
+<tr><td>isobutane</td><td>īso̊būtāne</td><td>iso-butane</td><td>īso̊-būtāne</td><td>n. 异丁烷</td></tr>
 <tr><td>rebut</td><td>rėbût</td><td>re-but</td><td>rė-bût</td><td>v. 反驳, 辩驳</td></tr>
 <tr><td>rebuttable</td><td>rėbûttåble</td><td>re-butt-able</td><td>rė-bûtt-åble</td><td>a. 可反驳的, 可辩驳的</td></tr>
 <tr><td>rebuttal</td><td>rėbûttål</td><td>re-butt-al</td><td>rė-bûtt-ål</td><td>n. 反驳, 驳回</td></tr>
@@ -2892,7 +2892,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>butterflied</td><td>bûtte̊rflī𝕖d</td><td>butt-er-fl-i-ed</td><td>bûtt-e̊r-fl-ī-𝕖d</td><td>v. 切开摊平</td></tr>
 <tr><td>unbutton</td><td>ûnbûtto̊n</td><td>un-button</td><td>ûn-bûtto̊n</td><td>vt. 解开...的钮扣<br>vi. 解开钮扣</td></tr>
 <tr><td>unbuttoned</td><td>ûnbûtto̊n𝕖d</td><td>un-button-ed</td><td>ûn-bûtto̊n-𝕖d</td><td>a. 未扣纽扣的, 无拘束的</td></tr>
-<tr><td>scuttlebutt</td><td>scûttlebûtt</td><td>scutt-le-butt</td><td>scûtt-le-bûtt</td><td>n. 谣言, 闲话</td></tr>
+<tr><td>scuttlebutt</td><td>scûttl𝕖bûtt</td><td>scutt-le-butt</td><td>scûtt-l𝕖-bûtt</td><td>n. 谣言, 闲话</td></tr>
 <tr><td>buttock</td><td>bûtto̊ck</td><td>buttock</td><td>bûtto̊ck</td><td>n. 臀部</td></tr>
 <tr><td>buttocks</td><td>bûtto̊cks</td><td>buttock-s</td><td>bûtto̊ck-s</td><td>n. 臀部</td></tr>
 <tr><td>buttress</td><td>bûttre̊ss</td><td>buttress</td><td>bûttre̊ss</td><td>n. 拱壁, 扶壁, 支持物<br>vt. 支持, 以扶壁支撑</td></tr>
@@ -2903,7 +2903,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>buyout</td><td>buȳòut</td><td>buy-out</td><td>buȳ-òut</td><td>n. 全部买下, 收购</td></tr>
 <tr><td>buys</td><td>buȳṡ</td><td>buy-s</td><td>buȳ-ṡ</td><td></td></tr>
 <tr><td>buyers</td><td>buȳe̊rṡ</td><td>buy-er-s</td><td>buȳ-e̊r-ṡ</td><td></td></tr>
-<tr><td>homebuyer</td><td>hōmeb𝕦ȳe̊r</td><td>home-buy-er</td><td>hōme-b𝕦ȳ-e̊r</td><td>n. 购房者</td></tr>
+<tr><td>homebuyer</td><td>hōm𝕖b𝕦ȳe̊r</td><td>home-buy-er</td><td>hōm𝕖-b𝕦ȳ-e̊r</td><td>n. 购房者</td></tr>
 <tr><td>bought</td><td>bōu𝕘𝕙t</td><td>bought</td><td>bōu𝕘𝕙t</td><td>v. 买(buy的过去式和过去分词)</td></tr>
 <tr><td>buzz</td><td>bûzz</td><td>buzz</td><td>bûzz</td><td>n. 嗡嗡声<br>vi. 发出嗡嗡声, 传闲话</td></tr>
 <tr><td>buzzed</td><td>bûzz𝕖d</td><td>buzz-ed</td><td>bûzz-𝕖d</td><td></td></tr>
@@ -2919,14 +2919,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>bypass</td><td>bȳpàss</td><td>by-pass</td><td>bȳ-pàss</td><td>n. 旁路<br>vt. 绕过, 回避</td></tr>
 <tr><td>bye</td><td>bȳe</td><td>bye</td><td>bȳe</td><td>interj. 再见, 回头见</td></tr>
 <tr><td>bye-bye</td><td>bȳe-bȳe</td><td>bye-bye</td><td>bȳe-bȳe</td><td></td></tr>
-<tr><td>byre</td><td>bȳre̊</td><td>byre</td><td>bȳre̊</td><td>n. 牛栏, 牛棚</td></tr>
+<tr><td>byre</td><td>bȳre</td><td>byre</td><td>bȳre</td><td>n. 牛栏, 牛棚</td></tr>
 <tr><td>byronic</td><td>bȳronic</td><td>byron-ic</td><td>bȳron-ic</td><td>a. 拜伦式的, 拜伦风格的</td></tr>
 <tr><td>byte</td><td>bȳte</td><td>byte</td><td>bȳte</td><td>n. 字节</td></tr>
-<tr><td>terabyte</td><td>tèråbȳte</td><td>tera-byte</td><td>tèrå-bȳte</td><td>n. 太字节（TB）</td></tr>
+<tr><td>terabyte</td><td>teråbȳte</td><td>tera-byte</td><td>terå-bȳte</td><td>n. 太字节（TB）</td></tr>
 <tr><td>presbyter</td><td>preṡbẏte̊r</td><td>pres-byter</td><td>preṡ-bẏte̊r</td><td>n. 长老, 祭司</td></tr>
-<tr><td>presbyterian</td><td>presbẏtēriån</td><td>pres-byter-ian</td><td>pres-bẏtēr-iån</td><td>n. 长老会教友<br>a. 长老宗的</td></tr>
+<tr><td>presbyterian</td><td>preṡbẏtēriån</td><td>pres-byter-ian</td><td>preṡ-bẏtēr-iån</td><td>n. 长老会教友<br>a. 长老宗的</td></tr>
 <tr><td>presbytery</td><td>preṡbẏte̊rẏ</td><td>pres-byter-y</td><td>preṡ-bẏte̊r-ẏ</td><td>n. 长老住宅, 教区</td></tr>
-<tr><td>byzantine</td><td>bẏzåntīne</td><td>byzantine</td><td>bẏzåntīne</td><td>a. 拜占庭的, 复杂难懂的</td></tr>
+<tr><td>byzantine</td><td>bẏzantĩne</td><td>byzantine</td><td>bẏzantĩne</td><td>a. 拜占庭的, 复杂难懂的</td></tr>
 </tbody>
 </table>
 </div>

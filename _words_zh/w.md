@@ -23,7 +23,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wacky</td><td>wackẏ</td><td>wack-y</td><td>wack-ẏ</td><td>a. 古怪的</td></tr>
 <tr><td>wackier</td><td>wackie̊r</td><td>wack-i-er</td><td>wack-i-e̊r</td><td></td></tr>
 <tr><td>wackiest</td><td>wackiėst</td><td>wack-i-est</td><td>wack-i-ėst</td><td></td></tr>
-<tr><td>wackiness</td><td>wackine̊ss</td><td>wack-i-ness</td><td>wack-i-ne̊ss</td><td>n. 古怪, 疯狂</td></tr>
+<tr><td>wackiness</td><td>wackinėss</td><td>wack-i-ness</td><td>wack-i-nėss</td><td>n. 古怪, 疯狂</td></tr>
 <tr><td>whackier</td><td>w𝕙ackie̊r</td><td>whack-i-er</td><td>w𝕙ack-i-e̊r</td><td></td></tr>
 <tr><td>whackiest</td><td>w𝕙ackiėst</td><td>whack-i-est</td><td>w𝕙ack-i-ėst</td><td></td></tr>
 <tr><td>whacky</td><td>w𝕙ackẏ</td><td>whack-y</td><td>w𝕙ack-ẏ</td><td></td></tr>
@@ -40,7 +40,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waffle</td><td>wàffle</td><td>waffle</td><td>wàffle</td><td>n. 华夫饼<br>v. 含糊其辞, 闪烁其词</td></tr>
 <tr><td>waffling</td><td>wàffling</td><td>waffl-ing</td><td>wàffl-ing</td><td>v. 讲或写冗长而无意义的话, 唠叨( waffle的现在分词 )</td></tr>
 <tr><td>waffles</td><td>wãffl𝕖ṡ</td><td>waffle-s</td><td>wãffl𝕖-ṡ</td><td></td></tr>
-<tr><td>waft</td><td>wàft</td><td>waft</td><td>wàft</td><td>vt. 随风传送, 使飘荡<br>vi. 飘荡<br>n. 吹拂</td></tr>
+<tr><td>waft</td><td>waft</td><td>waft</td><td>waft</td><td>vt. 随风传送, 使飘荡<br>vi. 飘荡<br>n. 吹拂</td></tr>
 <tr><td>wag</td><td>wag</td><td>wag</td><td>wag</td><td>v. 摇摆, 摇动<br>n. 爱说笑的人</td></tr>
 <tr><td>wager</td><td>wāge̊r</td><td>wag-er</td><td>wāg-e̊r</td><td>n. 赌注, 赌博, 赌物<br>vt. 下赌注, 向...保证<br>vi. 打赌</td></tr>
 <tr><td>wagging</td><td>wagging</td><td>wagg-ing</td><td>wagg-ing</td><td>v. 摇摆, 摇动 (wag的现在分词)</td></tr>
@@ -51,19 +51,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wagering</td><td>wāge̊ring</td><td>wag-er-ing</td><td>wāg-e̊r-ing</td><td>v. 打赌, 下注</td></tr>
 <tr><td>waggish</td><td>waggish</td><td>wagg-ish</td><td>wagg-ish</td><td>a. 爱开玩笑的, 诙谐的</td></tr>
 <tr><td>waggon</td><td>waggo̊n</td><td>wagg-on</td><td>wagg-o̊n</td><td>n. 货车, 四轮车</td></tr>
-<tr><td>wagnerian</td><td>wagnèriån</td><td>wagnerian</td><td>wagnèriån</td><td>a. 瓦格纳的, 瓦格纳风格的</td></tr>
+<tr><td>wagnerian</td><td>wagnēriån</td><td>wagnerian</td><td>wagnēriån</td><td>a. 瓦格纳的, 瓦格纳风格的</td></tr>
 <tr><td>chuckwagon</td><td>chûckwago̊n</td><td>chuck-wagon</td><td>chûck-wago̊n</td><td>n. 流动炊事车</td></tr>
 <tr><td>wah</td><td>wà𝕙</td><td>wah</td><td>wà𝕙</td><td></td></tr>
-<tr><td>wahabi</td><td>wåhàbĩ</td><td>wahabi</td><td>wåhàbĩ</td><td>n. 瓦哈比教派信徒</td></tr>
-<tr><td>wahhabi</td><td>wåhhàbi</td><td>wahhabi</td><td>wåhhàbi</td><td>n. 瓦哈比教派信徒</td></tr>
-<tr><td>wahoo</td><td>wåhoo</td><td>wahoo</td><td>wåhoo</td><td>n. 瓦胡鱼（一种食用鱼）<br>n. 卫矛（一种植物）</td></tr>
+<tr><td>wahabi</td><td>wahàbi</td><td>wahabi</td><td>wahàbi</td><td>n. 瓦哈比教派信徒</td></tr>
+<tr><td>wahhabi</td><td>wàhhàbi</td><td>wahhabi</td><td>wàhhàbi</td><td>n. 瓦哈比教派信徒</td></tr>
+<tr><td>wahoo</td><td>wahoo</td><td>wahoo</td><td>wahoo</td><td>n. 瓦胡鱼（一种食用鱼）<br>n. 卫矛（一种植物）</td></tr>
 <tr><td>waif</td><td>wāif</td><td>waif</td><td>wāif</td><td>n. 流浪者, 无家可归者</td></tr>
 <tr><td>waiflike</td><td>wāiflīke</td><td>waif-like</td><td>wāif-līke</td><td>a. 瘦弱的, 纤弱的</td></tr>
 <tr><td>wail</td><td>wāil</td><td>wail</td><td>wāil</td><td>n. 恸哭, 哀号<br>vi. 哀号, 恸哭, 悲叹</td></tr>
 <tr><td>wailing</td><td>wāiling</td><td>wail-ing</td><td>wāil-ing</td><td>n. 哀号, 恸哭</td></tr>
 <tr><td>bewail</td><td>bėwāil</td><td>be-wail</td><td>bė-wāil</td><td>v. 悲悼, 哀泣, 哀叹</td></tr>
-<tr><td>wainscot</td><td>wāinsco̊t</td><td>wainscot</td><td>wāinsco̊t</td><td>n. 护壁板, 墙裙<br>vt. 装上护壁板</td></tr>
-<tr><td>wainscoting</td><td>wāinsco̊ting</td><td>wainscot-ing</td><td>wāinsco̊t-ing</td><td>n. 壁板料, 壁板</td></tr>
+<tr><td>wainscot</td><td>wāinscot</td><td>wainscot</td><td>wāinscot</td><td>n. 护壁板, 墙裙<br>vt. 装上护壁板</td></tr>
+<tr><td>wainscoting</td><td>wāinscōting</td><td>wainscot-ing</td><td>wāinscōt-ing</td><td>n. 壁板料, 壁板</td></tr>
 <tr><td>waist</td><td>wāist</td><td>waist</td><td>wāist</td><td>n. 腰, 腰部</td></tr>
 <tr><td>waistband</td><td>wāistband</td><td>waist-band</td><td>wāist-band</td><td>n. 腰带, 束腰带</td></tr>
 <tr><td>waistcoat</td><td>wāistcōat</td><td>waist-coat</td><td>wāist-cōat</td><td>n. 西装背心, 马甲</td></tr>
@@ -75,7 +75,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waitress</td><td>wāitrėss</td><td>waitr-ess</td><td>wāitr-ėss</td><td>n. 女服务员, 女侍者</td></tr>
 <tr><td>waiting</td><td>wāiting</td><td>wait-ing</td><td>wāit-ing</td><td>n. 等候<br>a. 等候的</td></tr>
 <tr><td>waits</td><td>wāits</td><td>wait-s</td><td>wāit-s</td><td></td></tr>
-<tr><td>waitstaff</td><td>wāitstaff</td><td>wait-staff</td><td>wāit-staff</td><td>n. 餐馆服务人员, 全体侍应生</td></tr>
+<tr><td>waitstaff</td><td>wāitstàff</td><td>wait-staff</td><td>wāit-stàff</td><td>n. 餐馆服务人员, 全体侍应生</td></tr>
 <tr><td>waitresses</td><td>wāitrėssėṡ</td><td>waitr-ess-es</td><td>wāitr-ėss-ėṡ</td><td></td></tr>
 <tr><td>waitressing</td><td>wāitre̊ssing</td><td>waitr-ess-ing</td><td>wāitr-e̊ss-ing</td><td>v. 做女服务员 (waitress的现在分词)</td></tr>
 <tr><td>waiting-room</td><td></td><td>wait-ing-room</td><td></td><td>n. 候车室, 候诊室</td></tr>
@@ -87,20 +87,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waiver</td><td>wāive̊r</td><td>waiv-er</td><td>wāiv-e̊r</td><td>n. 弃权, 放弃, 弃权声明</td></tr>
 <tr><td>waive</td><td>wāive</td><td>waive</td><td>wāive</td><td>vt. 放弃, 不坚持（权利）</td></tr>
 <tr><td>wake</td><td>wāke</td><td>wake</td><td>wāke</td><td>v. 醒来, 唤醒, 觉醒<br>n. 守夜, 尾迹</td></tr>
-<tr><td>wakeboard</td><td>wākebōard</td><td>wake-board</td><td>wāke-bōard</td><td>n. 花式滑水板</td></tr>
+<tr><td>wakeboard</td><td>wāk𝕖bōard</td><td>wake-board</td><td>wāk𝕖-bōard</td><td>n. 花式滑水板</td></tr>
 <tr><td>waked</td><td>wāk𝕖ḋ</td><td>wak-ed</td><td>wāk-𝕖ḋ</td><td></td></tr>
 <tr><td>waken</td><td>wāke̊n</td><td>wak-en</td><td>wāk-e̊n</td><td>vt. 唤醒<br>vi. 醒来</td></tr>
 <tr><td>wakeful</td><td>wāk𝕖fůl</td><td>wake-ful</td><td>wāk𝕖-fůl</td><td>a. 失眠的, 警觉的</td></tr>
 <tr><td>waking</td><td>wāking</td><td>wak-ing</td><td>wāk-ing</td><td>a. 醒着的<br>n. 醒着</td></tr>
 <tr><td>wakes</td><td>wāk𝕖s</td><td>wake-s</td><td>wāk𝕖-s</td><td></td></tr>
 <tr><td>wake-up</td><td>wāke-ûp</td><td>wake-up</td><td>wāke-ûp</td><td></td></tr>
-<tr><td>wakefulness</td><td>wāk𝕖fùlnėss</td><td>wake-ful-ness</td><td>wāk𝕖-fùl-nėss</td><td>n. 不眠, 清醒</td></tr>
+<tr><td>wakefulness</td><td>wāk𝕖fůlnėss</td><td>wake-ful-ness</td><td>wāk𝕖-fůl-nėss</td><td>n. 不眠, 清醒</td></tr>
 <tr><td>wake-ups</td><td>wāke-ûps</td><td>wake-up-s</td><td>wāke-ûp-s</td><td></td></tr>
 <tr><td>awake</td><td>åwāke</td><td>a-wake</td><td>å-wāke</td><td>a. 醒着的<br>vt. 唤醒, 唤起<br>vi. 醒来, 觉醒</td></tr>
 <tr><td>awaken</td><td>åwāke̊n</td><td>a-waken</td><td>å-wāke̊n</td><td>vt. 唤醒, 唤起, 使意识到<br>vi. 觉醒, 意识到</td></tr>
 <tr><td>awakened</td><td>åwāke̊n𝕖d</td><td>a-waken-ed</td><td>å-wāke̊n-𝕖d</td><td>v. 唤醒, 觉醒<br>a. 被唤醒的</td></tr>
 <tr><td>awakening</td><td>åwāke̊ning</td><td>a-waken-ing</td><td>å-wāke̊n-ing</td><td>n. 觉醒, 唤醒<br>a. 觉醒中的</td></tr>
-<tr><td>reawakening</td><td>rēawāke̊ning</td><td>re-a-wak-en-ing</td><td>rē-a-wāk-e̊n-ing</td><td>v. 再次觉醒, 重振<br>n. 复苏</td></tr>
+<tr><td>reawakening</td><td>rēåwāke̊ning</td><td>re-a-wak-en-ing</td><td>rē-å-wāk-e̊n-ing</td><td>v. 再次觉醒, 重振<br>n. 复苏</td></tr>
 <tr><td>woke</td><td>wōke</td><td>woke</td><td>wōke</td><td>v. 醒来(wake的过去式)</td></tr>
 <tr><td>woken</td><td>wōke̊n</td><td>woken</td><td>wōke̊n</td><td></td></tr>
 <tr><td>waling</td><td>wāling</td><td>wal-ing</td><td>wāl-ing</td><td>n. 横撑, 横档</td></tr>
@@ -116,7 +116,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>walkout</td><td>wãlkòut</td><td>walk-out</td><td>wãlk-òut</td><td>n. 罢工, 退场抗议</td></tr>
 <tr><td>walkover</td><td>wãlkōve̊r</td><td>walk-over</td><td>wãlk-ōve̊r</td><td>n. 轻易取得的胜利</td></tr>
 <tr><td>walks</td><td>wãlks</td><td>walk-s</td><td>wãlk-s</td><td></td></tr>
-<tr><td>walkthrough</td><td>wãlkthroūgh</td><td>walk-through</td><td>wãlk-throūgh</td><td>n. 预演, 演练</td></tr>
+<tr><td>walkthrough</td><td>wãlkthroū𝕘𝕙</td><td>walk-through</td><td>wãlk-throū𝕘𝕙</td><td>n. 预演, 演练</td></tr>
 <tr><td>walkway</td><td>wãlkwāy</td><td>walk-way</td><td>wãlk-wāy</td><td>n. 走道, 人行道</td></tr>
 <tr><td>jaywalk</td><td>jāywã𝕝k</td><td>jay-walk</td><td>jāy-wã𝕝k</td><td>vi. 乱穿马路</td></tr>
 <tr><td>jaywalker</td><td>jāywã𝕝ke̊r</td><td>jay-walk-er</td><td>jāy-wã𝕝k-e̊r</td><td>n. 乱穿马路的人</td></tr>
@@ -133,37 +133,37 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wallpaper</td><td>wãllpāpe̊r</td><td>wall-pap-er</td><td>wãll-pāp-e̊r</td><td>n. 壁纸, 墙纸<br>v. 贴墙纸</td></tr>
 <tr><td>walloping</td><td>wãllo̊ping</td><td>wall-op-ing</td><td>wãll-o̊p-ing</td><td>v. 痛打, 彻底击败<br>a. 巨大的</td></tr>
 <tr><td>wallets</td><td>wãllėts</td><td>wall-et-s</td><td>wãll-ėt-s</td><td></td></tr>
-<tr><td>drywall</td><td>drȳwàll</td><td>dry-wall</td><td>drȳ-wàll</td><td>n. 干式墙, 石膏板</td></tr>
+<tr><td>drywall</td><td>drȳwãll</td><td>dry-wall</td><td>drȳ-wãll</td><td>n. 干式墙, 石膏板</td></tr>
 <tr><td>walnut</td><td>wãlnût</td><td>wal-nut</td><td>wãl-nût</td><td>n. 核桃, 胡桃</td></tr>
 <tr><td>walrus</td><td>wãlrůs</td><td>walrus</td><td>wãlrůs</td><td>n. 海象</td></tr>
 <tr><td>waltz</td><td>wãltz</td><td>waltz</td><td>wãltz</td><td>n. 华尔兹<br>vi. 跳华尔兹</td></tr>
-<tr><td>wampum</td><td>wàmpům</td><td>wampum</td><td>wàmpům</td><td>n. 贝壳念珠, 贝壳钱币(北美印第安人用作货币)</td></tr>
-<tr><td>wan</td><td>wàn</td><td>wan</td><td>wàn</td><td>a. 苍白的, 病态的, 疲倦的</td></tr>
+<tr><td>wampum</td><td>wampům</td><td>wampum</td><td>wampům</td><td>n. 贝壳念珠, 贝壳钱币(北美印第安人用作货币)</td></tr>
+<tr><td>wan</td><td>wan</td><td>wan</td><td>wan</td><td>a. 苍白的, 病态的, 疲倦的</td></tr>
 <tr><td>waning</td><td>wāning</td><td>wan-ing</td><td>wān-ing</td><td>n. 减弱；月亏</td></tr>
-<tr><td>wanly</td><td>wànlẏ</td><td>wan-ly</td><td>wàn-lẏ</td><td>adv. 苍白地, 衰弱地</td></tr>
+<tr><td>wanly</td><td>wanlẏ</td><td>wan-ly</td><td>wan-lẏ</td><td>adv. 苍白地, 衰弱地</td></tr>
 <tr><td>wand</td><td>wànd</td><td>wand</td><td>wànd</td><td>n. 魔杖, 棒, 杖</td></tr>
 <tr><td>wander</td><td>wãnder</td><td>wand-er</td><td>wãnd-er</td><td>vi. 漫游, 闲逛, 迷路, 离题</td></tr>
 <tr><td>wands</td><td>wãndṡ</td><td>wand-s</td><td>wãnd-ṡ</td><td></td></tr>
 <tr><td>wandered</td><td>wãnde̊r𝕖d</td><td>wand-er-ed</td><td>wãnd-e̊r-𝕖d</td><td></td></tr>
-<tr><td>wanderer</td><td>wànde̊re̊r</td><td>wand-er-er</td><td>wànd-e̊r-e̊r</td><td>n. 漫游者, 流浪者</td></tr>
-<tr><td>wandering</td><td>wànde̊ring</td><td>wand-er-ing</td><td>wànd-e̊r-ing</td><td>n. 漫游, 流浪<br>a. 漫游的, 流浪的</td></tr>
-<tr><td>wanderlust</td><td>wànde̊rlûst</td><td>wand-er-lust</td><td>wànd-e̊r-lûst</td><td>n. 漫游癖, 流浪癖</td></tr>
+<tr><td>wanderer</td><td>wãnde̊re̊r</td><td>wand-er-er</td><td>wãnd-e̊r-e̊r</td><td>n. 漫游者, 流浪者</td></tr>
+<tr><td>wandering</td><td>wãnde̊ring</td><td>wand-er-ing</td><td>wãnd-e̊r-ing</td><td>n. 漫游, 流浪<br>a. 漫游的, 流浪的</td></tr>
+<tr><td>wanderlust</td><td>wãnde̊rlûst</td><td>wand-er-lust</td><td>wãnd-e̊r-lûst</td><td>n. 漫游癖, 流浪癖</td></tr>
 <tr><td>wanders</td><td>wãnde̊rṡ</td><td>wand-er-s</td><td>wãnd-e̊r-ṡ</td><td></td></tr>
 <tr><td>wanderings</td><td>wãnde̊ringṡ</td><td>wand-er-ing-s</td><td>wãnd-e̊r-ing-ṡ</td><td>n. 漫游, 流浪</td></tr>
 <tr><td>wane</td><td>wāne</td><td>wane</td><td>wāne</td><td>v. 减少, 衰落<br>n. 月亏, 衰退</td></tr>
 <tr><td>wangle</td><td>wangle</td><td>wangle</td><td>wangle</td><td>v. 用计获得, 哄骗<br>n. 欺诈行为, 诡计</td></tr>
 <tr><td>wanker</td><td>wanke̊r</td><td>wank-er</td><td>wank-e̊r</td><td>n. 手淫者, 卑鄙的人</td></tr>
 <tr><td>wannabe</td><td>wànnåbē</td><td>wannabe</td><td>wànnåbē</td><td>n. 模仿者, 想成为...的人</td></tr>
-<tr><td>wanna</td><td>wànnå</td><td>wanna</td><td>wànnå</td><td>v. 想要(want to的口语)</td></tr>
+<tr><td>wanna</td><td>wãnnå</td><td>wanna</td><td>wãnnå</td><td>v. 想要(want to的口语)</td></tr>
 <tr><td>want</td><td>wãnt</td><td>want</td><td>wãnt</td><td>vt. 要, 希望, 缺少<br>vi. 需要, 缺少<br>n. 缺乏, 需要</td></tr>
 <tr><td>wanton</td><td>wãnto̊n</td><td>wanton</td><td>wãnto̊n</td><td>a. 恶意的, 放纵的<br>vi. 嬉戏, 闲荡</td></tr>
 <tr><td>wanted</td><td>wãntėd</td><td>want-ed</td><td>wãnt-ėd</td><td>a. 被通缉的, 被需要的</td></tr>
-<tr><td>wanting</td><td>wànting</td><td>want-ing</td><td>wànt-ing</td><td>a. 缺乏的, 不足的<br>prep. 没有, 缺少</td></tr>
+<tr><td>wanting</td><td>wãnting</td><td>want-ing</td><td>wãnt-ing</td><td>a. 缺乏的, 不足的<br>prep. 没有, 缺少</td></tr>
 <tr><td>wantonly</td><td>wãnto̊nlẏ</td><td>wanton-ly</td><td>wãnto̊n-lẏ</td><td>adv. 放纵地, 肆意地</td></tr>
-<tr><td>wantonness</td><td>wãnto̊nne̊ss</td><td>wanton-ness</td><td>wãnto̊n-ne̊ss</td><td>n. 放纵, 肆无忌惮</td></tr>
+<tr><td>wantonness</td><td>wãnto̊nnėss</td><td>wanton-ness</td><td>wãnto̊n-nėss</td><td>n. 放纵, 肆无忌惮</td></tr>
 <tr><td>wants</td><td>wãnts</td><td>want-s</td><td>wãnt-s</td><td></td></tr>
 <tr><td>unwanted</td><td>ûnwãntėd</td><td>un-want-ed</td><td>ûn-wãnt-ėd</td><td>a. 不必要的, 不需要的, 有害的</td></tr>
-<tr><td>wapiti</td><td>wåpĩtĩ</td><td>wapiti</td><td>wåpĩtĩ</td><td>n. 美洲赤鹿, 马鹿</td></tr>
+<tr><td>wapiti</td><td>wapĩti</td><td>wapiti</td><td>wapĩti</td><td>n. 美洲赤鹿, 马鹿</td></tr>
 <tr><td>war</td><td>wãr</td><td>war</td><td>wãr</td><td>n. 战争, 冲突, 斗争<br>vi. 作战, 战斗</td></tr>
 <tr><td>warden</td><td>wãrde̊n</td><td>war-den</td><td>wãr-de̊n</td><td>n. 看守人, 管理员</td></tr>
 <tr><td>warfare</td><td>wãrfāre</td><td>war-fare</td><td>wãr-fāre</td><td>n. 战争, 冲突, 作战</td></tr>
@@ -172,19 +172,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warring</td><td>wãrring</td><td>warr-ing</td><td>wãrr-ing</td><td>a. 交战的, 敌对的</td></tr>
 <tr><td>warlike</td><td>wãrlīke</td><td>war-like</td><td>wãr-līke</td><td>a. 好战的, 尚武的</td></tr>
 <tr><td>warlord</td><td>wãrlord</td><td>war-lord</td><td>wãr-lord</td><td>n. 军阀</td></tr>
-<tr><td>warpath</td><td>wãrpath</td><td>war-path</td><td>wãr-path</td><td>n. 征途, 敌对行动, 敌对情绪</td></tr>
+<tr><td>warpath</td><td>wãrpàth</td><td>war-path</td><td>wãr-pàth</td><td>n. 征途, 敌对行动, 敌对情绪</td></tr>
 <tr><td>warplane</td><td>wãrplāne</td><td>war-plane</td><td>wãr-plāne</td><td>n. 军用飞机</td></tr>
 <tr><td>wars</td><td>wãrṡ</td><td>war-s</td><td>wãr-ṡ</td><td></td></tr>
 <tr><td>warship</td><td>wãrship</td><td>war-ship</td><td>wãr-ship</td><td>n. 军舰, 战舰</td></tr>
 <tr><td>wartime</td><td>wãrtīme</td><td>war-time</td><td>wãr-tīme</td><td>n. 战时</td></tr>
-<tr><td>wary</td><td>warẏ</td><td>war-y</td><td>war-ẏ</td><td>a. 警惕的, 小心谨慎的</td></tr>
+<tr><td>wary</td><td>wārẏ</td><td>war-y</td><td>wār-ẏ</td><td>a. 警惕的, 小心谨慎的</td></tr>
 <tr><td>warrior</td><td>wãrrio̊r</td><td>war-r-ior</td><td>wãr-r-io̊r</td><td>n. 战士, 武士, 勇士</td></tr>
-<tr><td>warily</td><td>wari̊lẏ</td><td>war-i-ly</td><td>war-i̊-lẏ</td><td>adv. 警惕地, 小心地, 谨慎地</td></tr>
-<tr><td>wariness</td><td>warĩnėss</td><td>war-i-ness</td><td>war-ĩ-nėss</td><td>n. 谨慎, 小心</td></tr>
+<tr><td>warily</td><td>wārilẏ</td><td>war-i-ly</td><td>wār-i-lẏ</td><td>adv. 警惕地, 小心地, 谨慎地</td></tr>
+<tr><td>wariness</td><td>wārinėss</td><td>war-i-ness</td><td>wār-i-nėss</td><td>n. 谨慎, 小心</td></tr>
 <tr><td>warriors</td><td>wãrrio̊rṡ</td><td>war-r-ior-s</td><td>wãr-r-io̊r-ṡ</td><td></td></tr>
 <tr><td>biowarfare</td><td>bīōwãrfāre</td><td>bio-war-fare</td><td>bīō-wãr-fāre</td><td>n. 生物战, 细菌战</td></tr>
 <tr><td>post-war</td><td>pōst-wãr</td><td>post-war</td><td>pōst-wãr</td><td>a. 战后的</td></tr>
-<tr><td>unwary</td><td>ûnwarẏ</td><td>un-war-y</td><td>ûn-war-ẏ</td><td>a. 不谨慎的, 粗心的</td></tr>
+<tr><td>unwary</td><td>ûnwārẏ</td><td>un-war-y</td><td>ûn-wār-ẏ</td><td>a. 不谨慎的, 粗心的</td></tr>
 <tr><td>warble</td><td>wãrble</td><td>warble</td><td>wãrble</td><td>v. 用颤音唱, 鸣啭<br>n. 颤音, 鸟鸣</td></tr>
 <tr><td>warbler</td><td>wãrble̊r</td><td>warbl-er</td><td>wãrbl-e̊r</td><td>n. 莺, 鸣禽</td></tr>
 <tr><td>warbling</td><td>wãrbling</td><td>warbl-ing</td><td>wãrbl-ing</td><td>v. 鸟鸣, 用颤声唱</td></tr>
@@ -219,29 +219,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>upwards</td><td>ûpwårdṡ</td><td>up-ward-s</td><td>ûp-wård-ṡ</td><td>adv. 向上, 以上</td></tr>
 <tr><td>wayward</td><td>wāywård</td><td>way-ward</td><td>wāy-wård</td><td>a. 任性的, 倔强的, 不规则的</td></tr>
 <tr><td>waywardness</td><td>wāywårdnėss</td><td>way-ward-ness</td><td>wāy-wård-nėss</td><td>n. 任性, 不稳定</td></tr>
-<tr><td>unrewarded</td><td>unrėwãrdėd</td><td>un-re-ward-ed</td><td>un-rė-wãrd-ėd</td><td>a. 未获报答(或报偿、报酬、奖赏)的</td></tr>
-<tr><td>unrewarding</td><td>unrėwãrding</td><td>un-re-ward-ing</td><td>un-rė-wãrd-ing</td><td>a. 无报酬的, 不值得做的</td></tr>
+<tr><td>unrewarded</td><td>ûnrėwãrdėd</td><td>un-re-ward-ed</td><td>ûn-rė-wãrd-ėd</td><td>a. 未获报答(或报偿、报酬、奖赏)的</td></tr>
+<tr><td>unrewarding</td><td>ûnrėwãrding</td><td>un-re-ward-ing</td><td>ûn-rė-wãrd-ing</td><td>a. 无报酬的, 不值得做的</td></tr>
 <tr><td>untoward</td><td>ûnto̊wãrd</td><td>un-to-ward</td><td>ûn-to̊-wãrd</td><td>a. 不幸的, 麻烦的</td></tr>
 <tr><td>ware</td><td>wāre</td><td>ware</td><td>wāre</td><td>n. 器皿, 陶器</td></tr>
 <tr><td>warehouse</td><td>wār𝕖hòuse</td><td>ware-house</td><td>wār𝕖-hòuse</td><td>n. 仓库<br>vt. 存入仓库</td></tr>
-<tr><td>wares</td><td>war𝕖ṡ</td><td>ware-s</td><td>war𝕖-ṡ</td><td>n. 货物, 商品</td></tr>
-<tr><td>warehousing</td><td>wārehòuṡing</td><td>ware-hous-ing</td><td>wāre-hòuṡ-ing</td><td>n. 仓储, 入库</td></tr>
+<tr><td>wares</td><td>wār𝕖ṡ</td><td>ware-s</td><td>wār𝕖-ṡ</td><td>n. 货物, 商品</td></tr>
+<tr><td>warehousing</td><td>wār𝕖hòuṡing</td><td>ware-hous-ing</td><td>wār𝕖-hòuṡ-ing</td><td>n. 仓储, 入库</td></tr>
 <tr><td>warehouses</td><td>wārehòusėṡ</td><td>ware-house-s</td><td>wāre-hòusė-ṡ</td><td></td></tr>
 <tr><td>aware</td><td>åwāre</td><td>a-ware</td><td>å-wāre</td><td>a. 意识到的, 知道的</td></tr>
 <tr><td>awarer</td><td>åwāre̊r</td><td>a-war-er</td><td>å-wār-e̊r</td><td></td></tr>
 <tr><td>awarest</td><td>åwārėst</td><td>a-war-est</td><td>å-wār-ėst</td><td></td></tr>
 <tr><td>awareness</td><td>åwār𝕖nėss</td><td>a-ware-ness</td><td>å-wār𝕖-nėss</td><td>n. 意识, 认识</td></tr>
 <tr><td>beware</td><td>bėwāre</td><td>be-ware</td><td>bė-wāre</td><td>v. 小心, 谨防</td></tr>
-<tr><td>delftware</td><td>delftware</td><td>delft-ware</td><td>delft-ware</td><td>n. 代夫特（荷兰城市）陶器</td></tr>
-<tr><td>enamelware</td><td>ėname̊lwāre</td><td>enamel-ware</td><td>ėname̊l-wāre</td><td>n. 搪瓷器</td></tr>
-<tr><td>kitchenware</td><td>kitche̊nware</td><td>kitchen-ware</td><td>kitche̊n-ware</td><td>n. 厨房用具</td></tr>
-<tr><td>malware</td><td>malware</td><td>mal-ware</td><td>mal-ware</td><td>n. 恶意软件</td></tr>
-<tr><td>redware</td><td>redwåre</td><td>red-ware</td><td>red-wåre</td><td>n. 红陶, 紫砂</td></tr>
-<tr><td>wetware</td><td>wetwåre</td><td>wet-ware</td><td>wet-wåre</td><td>n. 湿件, 人脑</td></tr>
-<tr><td>dinnerware</td><td>dinne̊rware</td><td>dinn-er-ware</td><td>dinn-e̊r-ware</td><td>n. 整套餐具</td></tr>
-<tr><td>unaware</td><td>ûnåware</td><td>un-a-ware</td><td>ûn-å-ware</td><td>a. 未意识到的, 不知道的</td></tr>
-<tr><td>unawareness</td><td>ûnåwar𝕖nėss</td><td>un-a-ware-ness</td><td>ûn-å-war𝕖-nėss</td><td>n. 不察觉, 无意识</td></tr>
-<tr><td>unawares</td><td>ûnåwar𝕖ṡ</td><td>un-a-ware-s</td><td>ûn-å-war𝕖-ṡ</td><td>adv. 不知不觉地, 出其不意地</td></tr>
+<tr><td>delftware</td><td>delftwāre</td><td>delft-ware</td><td>delft-wāre</td><td>n. 代夫特（荷兰城市）陶器</td></tr>
+<tr><td>enamelware</td><td>ėnamėlwāre</td><td>enamel-ware</td><td>ėnamėl-wāre</td><td>n. 搪瓷器</td></tr>
+<tr><td>kitchenware</td><td>kitche̊nwāre</td><td>kitchen-ware</td><td>kitche̊n-wāre</td><td>n. 厨房用具</td></tr>
+<tr><td>malware</td><td>malwāre</td><td>mal-ware</td><td>mal-wāre</td><td>n. 恶意软件</td></tr>
+<tr><td>redware</td><td>redwāre</td><td>red-ware</td><td>red-wāre</td><td>n. 红陶, 紫砂</td></tr>
+<tr><td>wetware</td><td>wetwāre</td><td>wet-ware</td><td>wet-wāre</td><td>n. 湿件, 人脑</td></tr>
+<tr><td>dinnerware</td><td>dinne̊rwāre</td><td>dinn-er-ware</td><td>dinn-e̊r-wāre</td><td>n. 整套餐具</td></tr>
+<tr><td>unaware</td><td>ûnåwāre</td><td>un-a-ware</td><td>ûn-å-wāre</td><td>a. 未意识到的, 不知道的</td></tr>
+<tr><td>unawareness</td><td>ûnåwār𝕖nėss</td><td>un-a-ware-ness</td><td>ûn-å-wār𝕖-nėss</td><td>n. 不察觉, 无意识</td></tr>
+<tr><td>unawares</td><td>ûnåwār𝕖ṡ</td><td>un-a-ware-s</td><td>ûn-å-wār𝕖-ṡ</td><td>adv. 不知不觉地, 出其不意地</td></tr>
 <tr><td>warfarin</td><td>wãrfårin</td><td>warf-ar-in</td><td>wãrf-år-in</td><td>n. 华法林（抗凝血药）</td></tr>
 <tr><td>warlock</td><td>wãrlock</td><td>warlock</td><td>wãrlock</td><td>n. 术士, 魔术师</td></tr>
 <tr><td>warm</td><td>wãrm</td><td>warm</td><td>wãrm</td><td>a. 温暖的, 热烈的, 热情的<br>v. 使变暖, 变暖和<br>n. 暖, 保暖物</td></tr>
@@ -253,16 +253,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warms</td><td>wãrmṡ</td><td>warm-s</td><td>wãrm-ṡ</td><td></td></tr>
 <tr><td>warmth</td><td>wãrmth</td><td>warm-th</td><td>wãrm-th</td><td>n. 温暖, 热情</td></tr>
 <tr><td>warm-hearted</td><td></td><td>warm-heart-ed</td><td></td><td>a. 热心的, 好心肠的</td></tr>
-<tr><td>lukewarm</td><td>lūkewãrm</td><td>luke-warm</td><td>lūke-wãrm</td><td>a. 微温的, 不热情的</td></tr>
-<tr><td>rewarm</td><td>rew̄àrm</td><td>re-warm</td><td>re-w̄àrm</td><td>v. 重新加热, 复温</td></tr>
+<tr><td>lukewarm</td><td>lūk𝕖wãrm</td><td>luke-warm</td><td>lūk𝕖-wãrm</td><td>a. 微温的, 不热情的</td></tr>
+<tr><td>rewarm</td><td>rėwãrm</td><td>re-warm</td><td>rė-wãrm</td><td>v. 重新加热, 复温</td></tr>
 <tr><td>warn</td><td>wãrn</td><td>warn</td><td>wãrn</td><td>vt. 警告, 提醒, 告诫<br>vi. 发出警告</td></tr>
 <tr><td>warned</td><td>wãrn𝕖d</td><td>warn-ed</td><td>wãrn-𝕖d</td><td></td></tr>
 <tr><td>warning</td><td>wãrning</td><td>warn-ing</td><td>wãrn-ing</td><td>n. 警告, 预告, 警报</td></tr>
 <tr><td>warns</td><td>wãrnṡ</td><td>warn-s</td><td>wãrn-ṡ</td><td></td></tr>
 <tr><td>warningly</td><td>wãrninglẏ</td><td>warn-ing-ly</td><td>wãrn-ing-lẏ</td><td>adv. 警告地</td></tr>
 <tr><td>warnings</td><td>wãrningṡ</td><td>warn-ing-s</td><td>wãrn-ing-ṡ</td><td></td></tr>
-<tr><td>forewarn</td><td>forewãrn</td><td>fore-warn</td><td>fore-wãrn</td><td>vt. 预先警告</td></tr>
-<tr><td>forewarning</td><td>forewãrning</td><td>fore-warn-ing</td><td>fore-wãrn-ing</td><td>n. 预警, 事先警告<br>v. 预先警告 (forewarn的现在分词)</td></tr>
+<tr><td>forewarn</td><td>for𝕖wãrn</td><td>fore-warn</td><td>for𝕖-wãrn</td><td>vt. 预先警告</td></tr>
+<tr><td>forewarning</td><td>for𝕖wãrning</td><td>fore-warn-ing</td><td>for𝕖-wãrn-ing</td><td>n. 预警, 事先警告<br>v. 预先警告 (forewarn的现在分词)</td></tr>
 <tr><td>warp</td><td>wãrp</td><td>warp</td><td>wãrp</td><td>v. 弄歪, 使弯曲, 使偏差<br>n. 弯曲, 偏差, 歪曲</td></tr>
 <tr><td>warped</td><td>wãrp𝕖ḋ</td><td>warp-ed</td><td>wãrp-𝕖ḋ</td><td>a. 弯曲的, 扭曲的</td></tr>
 <tr><td>warping</td><td>wãrping</td><td>warp-ing</td><td>wãrp-ing</td><td>n. 扭曲, 变形<br>v. 使翘曲, 使变形</td></tr>
@@ -270,7 +270,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warrantable</td><td>wãrråntåble</td><td>warr-ant-able</td><td>wãrr-ånt-åble</td><td>a. 可保证的, 可认可的</td></tr>
 <tr><td>warranted</td><td>wãrråntėd</td><td>warr-ant-ed</td><td>wãrr-ånt-ėd</td><td>v. 保证, 授权<br>a. 有正当理由的</td></tr>
 <tr><td>warrantee</td><td>wãrråntēe</td><td>warr-ant-ee</td><td>wãrr-ånt-ēe</td><td>n. 被保证人, 被担保人</td></tr>
-<tr><td>warrantless</td><td>wãrråntle̊ss</td><td>warr-ant-less</td><td>wãrr-ånt-le̊ss</td><td>a. 无授权的, 无保证的</td></tr>
+<tr><td>warrantless</td><td>wãrråntlėss</td><td>warr-ant-less</td><td>wãrr-ånt-lėss</td><td>a. 无授权的, 无保证的</td></tr>
 <tr><td>warranty</td><td>wãrråntẏ</td><td>warr-ant-y</td><td>wãrr-ånt-ẏ</td><td>n. 保修, 担保, 保证</td></tr>
 <tr><td>unwarranted</td><td>ûnwãrråntėd</td><td>un-warr-ant-ed</td><td>ûn-wãrr-ånt-ėd</td><td>a. 无端的, 无理的</td></tr>
 <tr><td>warren</td><td>wãrre̊n</td><td>warren</td><td>wãrre̊n</td><td>n. 养兔场, 拥挤的地区</td></tr>
@@ -278,40 +278,40 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>warty</td><td>wãrtẏ</td><td>wart-y</td><td>wãrt-ẏ</td><td>a. 有疣的, 多疣的</td></tr>
 <tr><td>wasabi</td><td>wåsàbi</td><td>wasabi</td><td>wåsàbi</td><td>n. 芥末, 山葵</td></tr>
 <tr><td>wash</td><td>wãsh</td><td>wash</td><td>wãsh</td><td>v. 洗, 洗涤, 冲洗<br>n. 洗涤, 洗的衣服</td></tr>
-<tr><td>washable</td><td>wàshåble</td><td>wash-able</td><td>wàsh-åble</td><td>a. 可洗的, 耐洗的</td></tr>
-<tr><td>washboard</td><td>wàshbōard</td><td>wash-board</td><td>wàsh-bōard</td><td>n. 洗衣板</td></tr>
-<tr><td>washcloth</td><td>wàshcloth</td><td>wash-cloth</td><td>wàsh-cloth</td><td>n. 毛巾, 浴巾</td></tr>
-<tr><td>washed</td><td>wàsh𝕖ḋ</td><td>wash-ed</td><td>wàsh-𝕖ḋ</td><td>a. 洗过的</td></tr>
-<tr><td>washer</td><td>wàshe̊r</td><td>wash-er</td><td>wàsh-e̊r</td><td>n. 垫圈, 洗衣机</td></tr>
+<tr><td>washable</td><td>wãshåble</td><td>wash-able</td><td>wãsh-åble</td><td>a. 可洗的, 耐洗的</td></tr>
+<tr><td>washboard</td><td>wãshbōard</td><td>wash-board</td><td>wãsh-bōard</td><td>n. 洗衣板</td></tr>
+<tr><td>washcloth</td><td>wãshcloth</td><td>wash-cloth</td><td>wãsh-cloth</td><td>n. 毛巾, 浴巾</td></tr>
+<tr><td>washed</td><td>wãsh𝕖ḋ</td><td>wash-ed</td><td>wãsh-𝕖ḋ</td><td>a. 洗过的</td></tr>
+<tr><td>washer</td><td>wãshe̊r</td><td>wash-er</td><td>wãsh-e̊r</td><td>n. 垫圈, 洗衣机</td></tr>
 <tr><td>washes</td><td>wãshėṡ</td><td>wash-es</td><td>wãsh-ėṡ</td><td></td></tr>
-<tr><td>washing</td><td>wàshing</td><td>wash-ing</td><td>wàsh-ing</td><td>n. 洗涤, 待洗的衣物</td></tr>
-<tr><td>washout</td><td>wàshòut</td><td>wash-out</td><td>wàsh-òut</td><td>n. 冲刷, 彻底失败</td></tr>
+<tr><td>washing</td><td>wãshing</td><td>wash-ing</td><td>wãsh-ing</td><td>n. 洗涤, 待洗的衣物</td></tr>
+<tr><td>washout</td><td>wãshòut</td><td>wash-out</td><td>wãsh-òut</td><td>n. 冲刷, 彻底失败</td></tr>
 <tr><td>washrag</td><td>wãshrag</td><td>wash-rag</td><td>wãsh-rag</td><td>n. 毛巾, 面巾</td></tr>
-<tr><td>washroom</td><td>wàshroom</td><td>wash-room</td><td>wàsh-room</td><td>n. 盥洗室</td></tr>
+<tr><td>washroom</td><td>wãshroom</td><td>wash-room</td><td>wãsh-room</td><td>n. 盥洗室</td></tr>
 <tr><td>washstand</td><td>wãshstand</td><td>wash-stand</td><td>wãsh-stand</td><td>n. 盥洗盆, 脸盆架</td></tr>
-<tr><td>washtub</td><td>wàshtûb</td><td>wash-tub</td><td>wàsh-tûb</td><td>n. 洗衣盆</td></tr>
-<tr><td>washbasin</td><td>wàshbāsi̊n</td><td>wash-bas-in</td><td>wàsh-bās-i̊n</td><td>n. 脸盆</td></tr>
-<tr><td>Washington</td><td>Wàshingto̊n</td><td>Wash-ing-ton</td><td>Wàsh-ing-to̊n</td><td>n. 华盛顿(美国首都)</td></tr>
-<tr><td>washingtonian</td><td>wàshingtōniån</td><td>wash-ing-ton-ian</td><td>wàsh-ing-tōn-iån</td><td>n. 华盛顿人<br>a. 华盛顿的, 华盛顿人的</td></tr>
-<tr><td>awash</td><td>åwàsh</td><td>a-wash</td><td>å-wàsh</td><td>a. 被水淹没的, 充斥的</td></tr>
+<tr><td>washtub</td><td>wãshtûb</td><td>wash-tub</td><td>wãsh-tûb</td><td>n. 洗衣盆</td></tr>
+<tr><td>washbasin</td><td>wãshbāsi̊n</td><td>wash-bas-in</td><td>wãsh-bās-i̊n</td><td>n. 脸盆</td></tr>
+<tr><td>Washington</td><td>Wãshingto̊n</td><td>Wash-ing-ton</td><td>Wãsh-ing-to̊n</td><td>n. 华盛顿(美国首都)</td></tr>
+<tr><td>washingtonian</td><td>wãshingtōniån</td><td>wash-ing-ton-ian</td><td>wãsh-ing-tōn-iån</td><td>n. 华盛顿人<br>a. 华盛顿的, 华盛顿人的</td></tr>
+<tr><td>awash</td><td>åwãsh</td><td>a-wash</td><td>å-wãsh</td><td>a. 被水淹没的, 充斥的</td></tr>
 <tr><td>carwash</td><td>càrwãsh</td><td>car-wash</td><td>càr-wãsh</td><td>n. 洗车处, 洗车房</td></tr>
 <tr><td>outwash</td><td>òutwãsh</td><td>out-wash</td><td>òut-wãsh</td><td>n. 冰水沉积</td></tr>
-<tr><td>prewashed</td><td>prēwãsh𝕖ḋ</td><td>pre-wash-ed</td><td>prē-wãsh-𝕖ḋ</td><td>a. 预洗过的</td></tr>
-<tr><td>unwashed</td><td>ûnwàsh𝕖ḋ</td><td>un-wash-ed</td><td>ûn-wàsh-𝕖ḋ</td><td>a. 未洗的, 不洁的</td></tr>
+<tr><td>prewashed</td><td>prėwãsh𝕖ḋ</td><td>pre-wash-ed</td><td>prė-wãsh-𝕖ḋ</td><td>a. 预洗过的</td></tr>
+<tr><td>unwashed</td><td>ûnwãsh𝕖ḋ</td><td>un-wash-ed</td><td>ûn-wãsh-𝕖ḋ</td><td>a. 未洗的, 不洁的</td></tr>
 <tr><td>wasp</td><td>wasp</td><td>wasp</td><td>wasp</td><td>n. 黄蜂, 胡蜂</td></tr>
-<tr><td>waspish</td><td>wãspish</td><td>wasp-ish</td><td>wãsp-ish</td><td>a. 易怒的, 尖刻的</td></tr>
-<tr><td>waspy</td><td>wãspẏ</td><td>wasp-y</td><td>wãsp-ẏ</td><td>a. 白人盎格鲁-撒克逊新教徒的</td></tr>
+<tr><td>waspish</td><td>waspish</td><td>wasp-ish</td><td>wasp-ish</td><td>a. 易怒的, 尖刻的</td></tr>
+<tr><td>waspy</td><td>waspẏ</td><td>wasp-y</td><td>wasp-ẏ</td><td>a. 白人盎格鲁-撒克逊新教徒的</td></tr>
 <tr><td>waste</td><td>wāste</td><td>waste</td><td>wāste</td><td>n. 浪费, 废物, 消耗<br>vt. 浪费, 消耗</td></tr>
 <tr><td>wastage</td><td>wāstȧge</td><td>wast-age</td><td>wāst-ȧge</td><td>n. 浪费, 损耗量</td></tr>
-<tr><td>wasted</td><td>wāst𝕖d</td><td>wast-ed</td><td>wāst-𝕖d</td><td>a. 浪费的, 消瘦的</td></tr>
+<tr><td>wasted</td><td>wāstėd</td><td>wast-ed</td><td>wāst-ėd</td><td>a. 浪费的, 消瘦的</td></tr>
 <tr><td>waster</td><td>wāste̊r</td><td>wast-er</td><td>wāst-e̊r</td><td>n. 浪费者, 挥霍者<br>n. 废品, 次品</td></tr>
 <tr><td>wasteful</td><td>wāst𝕖fůl</td><td>waste-ful</td><td>wāst𝕖-fůl</td><td>a. 浪费的, 挥霍的</td></tr>
 <tr><td>wasting</td><td>wāsting</td><td>wast-ing</td><td>wāst-ing</td><td>n. 消耗, 消瘦<br>a. 消耗性的</td></tr>
-<tr><td>wasteland</td><td>wāst𝕖land</td><td>waste-land</td><td>wāst𝕖-land</td><td>n. 荒地, 未开垦的荒野</td></tr>
+<tr><td>wasteland</td><td>wāst𝕖lånd</td><td>waste-land</td><td>wāst𝕖-lånd</td><td>n. 荒地, 未开垦的荒野</td></tr>
 <tr><td>wastes</td><td>wāst𝕖s</td><td>waste-s</td><td>wāst𝕖-s</td><td></td></tr>
-<tr><td>wastebasket</td><td>wāst𝕖baske̊t</td><td>waste-bask-et</td><td>wāst𝕖-bask-e̊t</td><td>n. 废纸篓</td></tr>
+<tr><td>wastebasket</td><td>wāst𝕖bàskėt</td><td>waste-bask-et</td><td>wāst𝕖-bàsk-ėt</td><td>n. 废纸篓</td></tr>
 <tr><td>wastepaper</td><td>wāst𝕖pāpe̊r</td><td>waste-pap-er</td><td>wāst𝕖-pāp-e̊r</td><td>n. 废纸</td></tr>
-<tr><td>wastefully</td><td>wāstefůllẏ</td><td>waste-ful-ly</td><td>wāste-fůl-lẏ</td><td>adv. 挥霍地, 浪费地</td></tr>
+<tr><td>wastefully</td><td>wāst𝕖fůllẏ</td><td>waste-ful-ly</td><td>wāst𝕖-fůl-lẏ</td><td>adv. 挥霍地, 浪费地</td></tr>
 <tr><td>wastefulness</td><td>wāst𝕖fůlnėss</td><td>waste-ful-ness</td><td>wāst𝕖-fůl-nėss</td><td>n. 浪费, 挥霍, 耗费</td></tr>
 <tr><td>wastrel</td><td>wāstre̊l</td><td>wastrel</td><td>wāstre̊l</td><td>n. 浪费者, 废物</td></tr>
 <tr><td>wat</td><td>wãt</td><td>wat</td><td>wãt</td><td>n. 泰国佛寺</td></tr>
@@ -321,21 +321,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>watch</td><td>wãtch</td><td>watch</td><td>wãtch</td><td>n. 手表, 观察, 值班<br>vt. 注视, 看守<br>vi. 观看, 守候</td></tr>
 <tr><td>watchable</td><td>wãtchåble</td><td>watch-able</td><td>wãtch-åble</td><td>a. 值得看的, 值得注意的</td></tr>
 <tr><td>watchband</td><td>wãtchband</td><td>watch-band</td><td>wãtch-band</td><td>n. 表带</td></tr>
-<tr><td>watchdog</td><td>wàtchdog</td><td>watch-dog</td><td>wàtch-dog</td><td>n. 看门狗, 监察人</td></tr>
-<tr><td>watched</td><td>wàtch𝕖ḋ</td><td>watch-ed</td><td>wàtch-𝕖ḋ</td><td>v. 观看(watch的过去式)</td></tr>
-<tr><td>watcher</td><td>wàtche̊r</td><td>watch-er</td><td>wàtch-e̊r</td><td>n. 看守人, 观察者, 守望者</td></tr>
+<tr><td>watchdog</td><td>wãtchdog</td><td>watch-dog</td><td>wãtch-dog</td><td>n. 看门狗, 监察人</td></tr>
+<tr><td>watched</td><td>wãtch𝕖ḋ</td><td>watch-ed</td><td>wãtch-𝕖ḋ</td><td>v. 观看(watch的过去式)</td></tr>
+<tr><td>watcher</td><td>wãtche̊r</td><td>watch-er</td><td>wãtch-e̊r</td><td>n. 看守人, 观察者, 守望者</td></tr>
 <tr><td>watches</td><td>wãtchėṡ</td><td>watch-es</td><td>wãtch-ėṡ</td><td></td></tr>
 <tr><td>watchful</td><td>wãtchfůl</td><td>watch-ful</td><td>wãtch-fůl</td><td>a. 警惕的, 注意的</td></tr>
-<tr><td>watching</td><td>wàtching</td><td>watch-ing</td><td>wàtch-ing</td><td>n. 注视, 观察<br>v. 观看, 注视 (watch的现在分词)</td></tr>
-<tr><td>watchman</td><td>wàtchmån</td><td>watch-man</td><td>wàtch-mån</td><td>n. 看守人, 巡夜者</td></tr>
-<tr><td>watchword</td><td>wàtchwo̊rd</td><td>watch-word</td><td>wàtch-wo̊rd</td><td>n. 口号, 暗语, 标语, 口令</td></tr>
+<tr><td>watching</td><td>wãtching</td><td>watch-ing</td><td>wãtch-ing</td><td>n. 注视, 观察<br>v. 观看, 注视 (watch的现在分词)</td></tr>
+<tr><td>watchman</td><td>wãtchmån</td><td>watch-man</td><td>wãtch-mån</td><td>n. 看守人, 巡夜者</td></tr>
+<tr><td>watchword</td><td>wãtchwo̊rd</td><td>watch-word</td><td>wãtch-wo̊rd</td><td>n. 口号, 暗语, 标语, 口令</td></tr>
 <tr><td>watchmaker</td><td>wãtchmāke̊r</td><td>watch-mak-er</td><td>wãtch-māk-e̊r</td><td>n. 钟表匠</td></tr>
 <tr><td>watchtower</td><td>wãtchtòwe̊r</td><td>watch-tow-er</td><td>wãtch-tòw-e̊r</td><td>n. 瞭望塔</td></tr>
 <tr><td>watchfully</td><td>wãtchfůllẏ</td><td>watch-ful-ly</td><td>wãtch-fůl-lẏ</td><td>adv. 警惕地, 留心地</td></tr>
-<tr><td>watchfulness</td><td>wàtchfùlne̊ss</td><td>watch-ful-ness</td><td>wàtch-fùl-ne̊ss</td><td>n. 警惕, 戒备, 不眠</td></tr>
+<tr><td>watchfulness</td><td>wãtchfůlnėss</td><td>watch-ful-ness</td><td>wãtch-fůl-nėss</td><td>n. 警惕, 戒备, 不眠</td></tr>
 <tr><td>unwatchable</td><td>ûnwãtchåble</td><td>un-watch-able</td><td>ûn-wãtch-åble</td><td>a. 不堪入目的, 无法观看的</td></tr>
 <tr><td>unwatched</td><td>ûnwãtch𝕖ḋ</td><td>un-watch-ed</td><td>ûn-wãtch-𝕖ḋ</td><td>a. 无人看管的, 未被观察的</td></tr>
-<tr><td>waterbed</td><td>wãte̊rb𝕖d</td><td>water-bed</td><td>wãte̊r-b𝕖d</td><td>n. 水床</td></tr>
+<tr><td>waterbed</td><td>wãte̊rbed</td><td>water-bed</td><td>wãte̊r-bed</td><td>n. 水床</td></tr>
 <tr><td>waterbird</td><td>wãte̊rbi̊rd</td><td>water-bird</td><td>wãte̊r-bi̊rd</td><td>n. 水鸟, 水禽</td></tr>
 <tr><td>waterborne</td><td>wãte̊rborne</td><td>water-borne</td><td>wãte̊r-borne</td><td>a. 浮起的, 水传播的, 水运的</td></tr>
 <tr><td>watercolor</td><td>wãte̊rcôlo̊r</td><td>water-color</td><td>wãte̊r-côlo̊r</td><td>n. 水彩颜料, 水彩画</td></tr>
@@ -351,18 +351,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waterfront</td><td>wãte̊rfrônt</td><td>water-front</td><td>wãte̊r-frônt</td><td>n. 滨水区, 水边</td></tr>
 <tr><td>waterhole</td><td>wãte̊rhōle</td><td>water-hole</td><td>wãte̊r-hōle</td><td>n. 水坑, 水眼</td></tr>
 <tr><td>watering</td><td>wãte̊ring</td><td>water-ing</td><td>wãte̊r-ing</td><td>n. 浇水, 灌溉</td></tr>
-<tr><td>waterless</td><td>wãte̊rle̊ss</td><td>water-less</td><td>wãte̊r-le̊ss</td><td>a. 无水的, 干旱的</td></tr>
+<tr><td>waterless</td><td>wãte̊rlėss</td><td>water-less</td><td>wãte̊r-lėss</td><td>a. 无水的, 干旱的</td></tr>
 <tr><td>waterline</td><td>wãte̊rlīne</td><td>water-line</td><td>wãte̊r-līne</td><td>n. 吃水线, 水线</td></tr>
 <tr><td>waterlog</td><td>wãte̊rlog</td><td>water-log</td><td>wãte̊r-log</td><td>vt. 使(船等)浸满水, 使进水失控</td></tr>
 <tr><td>waterman</td><td>wãte̊rmån</td><td>water-man</td><td>wãte̊r-mån</td><td>n. 船夫, 划手, 水手, 卖水人</td></tr>
 <tr><td>watermark</td><td>wãte̊rmàrk</td><td>water-mark</td><td>wãte̊r-màrk</td><td>n. 水位标志, 水印<br>vt. 印水印于</td></tr>
 <tr><td>waterproof</td><td>wãte̊rproof</td><td>water-proof</td><td>wãte̊r-proof</td><td>a. 防水的<br>n. 防水材料<br>vt. 使防水</td></tr>
-<tr><td>watershed</td><td>wãte̊rsh𝕖d</td><td>water-shed</td><td>wãte̊r-sh𝕖d</td><td>n. 分水岭, 流域</td></tr>
+<tr><td>watershed</td><td>wãte̊rshed</td><td>water-shed</td><td>wãte̊r-shed</td><td>n. 分水岭, 流域</td></tr>
 <tr><td>waterside</td><td>wãte̊rsīde</td><td>water-side</td><td>wãte̊r-sīde</td><td>n. 水边, 海滨</td></tr>
 <tr><td>waterspout</td><td>wãte̊rspòut</td><td>water-spout</td><td>wãte̊r-spòut</td><td>n. 海龙卷, 水落管</td></tr>
 <tr><td>watertight</td><td>wãte̊rtī𝕘𝕙t</td><td>water-tight</td><td>wãte̊r-tī𝕘𝕙t</td><td>a. 不透水的, 严密的</td></tr>
 <tr><td>waterway</td><td>wãte̊rwāy</td><td>water-way</td><td>wãte̊r-wāy</td><td>n. 航道, 水路</td></tr>
-<tr><td>waterwheel</td><td>wãte̊rwhēel</td><td>water-wheel</td><td>wãte̊r-whēel</td><td>n. 水轮, 水车, 辘轳</td></tr>
+<tr><td>waterwheel</td><td>wãte̊rw𝕙ēel</td><td>water-wheel</td><td>wãte̊r-w𝕙ēel</td><td>n. 水轮, 水车, 辘轳</td></tr>
 <tr><td>waterworks</td><td>wãte̊rwo̊rks</td><td>water-works</td><td>wãte̊r-wo̊rks</td><td>n. 供水系统, 自来水厂, 泉, 哭泣</td></tr>
 <tr><td>watery</td><td>wãte̊rẏ</td><td>water-y</td><td>wãte̊r-ẏ</td><td>a. 含水的, 湿的<br>a. 淡而无味的</td></tr>
 <tr><td>waterfowler</td><td>wãte̊rfòwle̊r</td><td>water-fowl-er</td><td>wãte̊r-fòwl-e̊r</td><td>n. 水禽猎人</td></tr>
@@ -371,41 +371,41 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waterproofness</td><td>wãte̊rproofnėss</td><td>water-proof-ness</td><td>wãte̊r-proof-nėss</td><td>n. 防水性</td></tr>
 <tr><td>watermelon</td><td>wãte̊rmelo̊n</td><td>water-mel-on</td><td>wãte̊r-mel-o̊n</td><td>n. 西瓜</td></tr>
 <tr><td>waters</td><td>wãte̊rṡ</td><td>wat-er-s</td><td>wãt-e̊r-ṡ</td><td></td></tr>
-<tr><td>dewatered</td><td>dėwãte̊r𝕖d</td><td>de-water-ed</td><td>dė-wãte̊r-𝕖d</td><td>v. 脱水, 去水 (dewater的过去式和过去分词)<br>a. 脱水的</td></tr>
-<tr><td>dewatering</td><td>dėwãte̊ring</td><td>de-water-ing</td><td>dė-wãte̊r-ing</td><td>n. 脱水</td></tr>
+<tr><td>dewatered</td><td>dēwãte̊r𝕖d</td><td>de-water-ed</td><td>dē-wãte̊r-𝕖d</td><td>v. 脱水, 去水 (dewater的过去式和过去分词)<br>a. 脱水的</td></tr>
+<tr><td>dewatering</td><td>dēwãte̊ring</td><td>de-water-ing</td><td>dē-wãte̊r-ing</td><td>n. 脱水</td></tr>
 <tr><td>overwater</td><td>ōve̊rwãte̊r</td><td>over-water</td><td>ōve̊r-wãte̊r</td><td>a. 水上的, 越过水域的</td></tr>
 <tr><td>underwater</td><td>ûnde̊rwãte̊r</td><td>under-water</td><td>ûnde̊r-wãte̊r</td><td>a. 水下的<br>adv. 在水下</td></tr>
-<tr><td>wastewater</td><td>wāstewãte̊r</td><td>waste-water</td><td>wāste-wãte̊r</td><td>n. 污水</td></tr>
-<tr><td>watt</td><td>wàtt</td><td>watt</td><td>wàtt</td><td>n. 瓦特(功率单位)</td></tr>
+<tr><td>wastewater</td><td>wāst𝕖wãte̊r</td><td>waste-water</td><td>wāst𝕖-wãte̊r</td><td>n. 污水</td></tr>
+<tr><td>watt</td><td>wãtt</td><td>watt</td><td>wãtt</td><td>n. 瓦特(功率单位)</td></tr>
 <tr><td>wattle</td><td>wàttle</td><td>wattle</td><td>wàttle</td><td>n. 肉垂, 枝条编织物, 编篱<br>vt. 用编条编织</td></tr>
-<tr><td>wattage</td><td>wàttåge</td><td>watt-age</td><td>wàtt-åge</td><td>n. 瓦数, 瓦特数</td></tr>
-<tr><td>gigawatt</td><td>gī𝕘åwãtt</td><td>giga-watt</td><td>gī𝕘å-wãtt</td><td>n. 吉瓦, 十亿瓦</td></tr>
+<tr><td>wattage</td><td>wàttȧge</td><td>watt-age</td><td>wàtt-ȧge</td><td>n. 瓦数, 瓦特数</td></tr>
+<tr><td>gigawatt</td><td>gigåwãtt</td><td>giga-watt</td><td>gigå-wãtt</td><td>n. 吉瓦, 十亿瓦</td></tr>
 <tr><td>unwavering</td><td>ûnwāve̊ring</td><td>un-wav-er-ing</td><td>ûn-wāv-e̊r-ing</td><td>a. 不动摇的, 坚定的</td></tr>
 <tr><td>unwaveringly</td><td>ûnwāve̊ringlẏ</td><td>un-wav-er-ing-ly</td><td>ûn-wāv-e̊r-ing-lẏ</td><td>adv. 坚定不移地, 毫不动摇地</td></tr>
 <tr><td>wave</td><td>wāve</td><td>wave</td><td>wāve</td><td>n. 波浪, 波动, 挥手<br>v. 挥手, 飘动, 波动</td></tr>
 <tr><td>waved</td><td>wāv𝕖d</td><td>wav-ed</td><td>wāv-𝕖d</td><td></td></tr>
 <tr><td>waver</td><td>wāve̊r</td><td>wav-er</td><td>wāv-e̊r</td><td>vi. 摇摆, 犹豫, 动摇</td></tr>
 <tr><td>wavery</td><td>wāve̊rẏ</td><td>wav-ery</td><td>wāv-e̊rẏ</td><td>a. 波动的, 摇摆的</td></tr>
-<tr><td>waveform</td><td>wāveform</td><td>wave-form</td><td>wāve-form</td><td>n. 波形</td></tr>
+<tr><td>waveform</td><td>wāv𝕖form</td><td>wave-form</td><td>wāv𝕖-form</td><td>n. 波形</td></tr>
 <tr><td>wavefront</td><td>wāv𝕖frônt</td><td>wave-front</td><td>wāv𝕖-frônt</td><td>n. 波前, 波阵面</td></tr>
-<tr><td>waveguide</td><td>wāveguīde</td><td>wave-guide</td><td>wāve-guīde</td><td>n. 波导, 波导管</td></tr>
+<tr><td>waveguide</td><td>wāv𝕖guīde</td><td>wave-guide</td><td>wāv𝕖-guīde</td><td>n. 波导, 波导管</td></tr>
 <tr><td>waving</td><td>wāving</td><td>wav-ing</td><td>wāv-ing</td><td>a. 波浪状的</td></tr>
 <tr><td>wavelength</td><td>wāv𝕖length</td><td>wave-length</td><td>wāv𝕖-length</td><td>n. 波长</td></tr>
 <tr><td>wavelet</td><td>wāv𝕖lėt</td><td>wave-let</td><td>wāv𝕖-lėt</td><td>n. 微波, 小浪</td></tr>
 <tr><td>waves</td><td>wāv𝕖ṡ</td><td>wave-s</td><td>wāv𝕖-ṡ</td><td></td></tr>
 <tr><td>wavy</td><td>wāvẏ</td><td>wav-y</td><td>wāv-ẏ</td><td>a. 波浪形的, 起伏的</td></tr>
-<tr><td>wavepacket</td><td>wāv𝕖packe̊t</td><td>wave-pack-et</td><td>wāv𝕖-pack-e̊t</td><td>n. 波包(物理)</td></tr>
+<tr><td>wavepacket</td><td>wāv𝕖packėt</td><td>wave-pack-et</td><td>wāv𝕖-pack-ėt</td><td>n. 波包(物理)</td></tr>
 <tr><td>wavering</td><td>wāve̊ring</td><td>wav-er-ing</td><td>wāv-e̊r-ing</td><td>v. 摇摆, 犹豫 (waver的现在分词)<br>a. 摇摆的, 犹豫不决的</td></tr>
 <tr><td>wavefunction</td><td>wāv𝕖fûnctio̊n</td><td>wave-funct-ion</td><td>wāv𝕖-fûnct-io̊n</td><td>n. 波函数</td></tr>
-<tr><td>wavevector</td><td>wāvevecto̊r</td><td>wave-vect-or</td><td>wāve-vect-o̊r</td><td>n. 波矢</td></tr>
+<tr><td>wavevector</td><td>wāv𝕖vecto̊r</td><td>wave-vect-or</td><td>wāv𝕖-vect-o̊r</td><td>n. 波矢</td></tr>
 <tr><td>microwave</td><td>mīcrōwāve</td><td>micro-wave</td><td>mīcrō-wāve</td><td>n. 微波, 微波炉<br>v. 用微波炉加热</td></tr>
 <tr><td>microwavable</td><td>mīcrōwāvåble</td><td>micro-wav-able</td><td>mīcrō-wāv-åble</td><td>a. 可微波加热的</td></tr>
-<tr><td>microwaveable</td><td>mīcrōwāveåble</td><td>micro-wave-able</td><td>mīcrō-wāve-åble</td><td>a. 可微波加热的</td></tr>
+<tr><td>microwaveable</td><td>mīcrōwāv𝕖åble</td><td>micro-wave-able</td><td>mīcrō-wāv𝕖-åble</td><td>a. 可微波加热的</td></tr>
 <tr><td>microwaved</td><td>mīcrōwāv𝕖d</td><td>micro-wav-ed</td><td>mīcrō-wāv-𝕖d</td><td>v. 用微波炉加热</td></tr>
 <tr><td>wax</td><td>wax</td><td>wax</td><td>wax</td><td>n. 蜡, 蜡状物<br>vi. 变大, 增加<br>vt. 给...上蜡</td></tr>
 <tr><td>waxed</td><td>wax𝕖ḋ</td><td>wax-ed</td><td>wax-𝕖ḋ</td><td>a. 上过蜡的, 防水的</td></tr>
 <tr><td>waxen</td><td>waxe̊n</td><td>wax-en</td><td>wax-e̊n</td><td>a. 蜡制的, 苍白的</td></tr>
-<tr><td>waxes</td><td>wax𝕖ṡ</td><td>wax-es</td><td>wax-𝕖ṡ</td><td>n. 蜡(wax的复数)  vt. 给...上蜡</td></tr>
+<tr><td>waxes</td><td>waxėṡ</td><td>wax-es</td><td>wax-ėṡ</td><td>n. 蜡(wax的复数)  vt. 给...上蜡</td></tr>
 <tr><td>waxing</td><td>waxing</td><td>wax-ing</td><td>wax-ing</td><td>n. 增大<br>a. (月亮)渐圆的</td></tr>
 <tr><td>waxy</td><td>waxẏ</td><td>wax-y</td><td>wax-ẏ</td><td>a. 蜡制的, 苍白的</td></tr>
 <tr><td>way</td><td>wāy</td><td>way</td><td>wāy</td><td>n. 路, 方法, 方面, 习惯<br>adv. 远远地</td></tr>
@@ -419,15 +419,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>subway</td><td>sûbwāy</td><td>sub-way</td><td>sûb-wāy</td><td>n. 地铁</td></tr>
 <tr><td>subways</td><td>sûbwāyṡ</td><td>sub-way-s</td><td>sûb-wāy-ṡ</td><td></td></tr>
 <tr><td>three-way</td><td>thrēe-wāy</td><td>three-way</td><td>thrēe-wāy</td><td></td></tr>
-<tr><td>tollway</td><td>to̊llwāy</td><td>toll-way</td><td>to̊ll-wāy</td><td>n. &lt;美&gt;收费公路</td></tr>
+<tr><td>tollway</td><td>tōllwāy</td><td>toll-way</td><td>tōll-wāy</td><td>n. &lt;美&gt;收费公路</td></tr>
 <tr><td>three-ways</td><td>thrēe-wāyṡ</td><td>three-way-s</td><td>thrēe-wāy-ṡ</td><td></td></tr>
 <tr><td>underway</td><td>ûnde̊rwāy</td><td>under-way</td><td>ûnde̊r-wāy</td><td>a. 进行中的, 航行中的, 起步的</td></tr>
-<tr><td>carriageway</td><td>carriȧgewāy</td><td>carr-i-age-way</td><td>carr-i-ȧge-wāy</td><td>n. 车行道, 车道</td></tr>
+<tr><td>carriageway</td><td>carriȧg𝕖wāy</td><td>carr-i-age-way</td><td>carr-i-ȧg𝕖-wāy</td><td>n. 车行道, 车道</td></tr>
 <tr><td>we</td><td>wē</td><td>we</td><td>wē</td><td>pron. 我们</td></tr>
 <tr><td>weak</td><td>wēak</td><td>weak</td><td>wēak</td><td>a. 弱的, 虚弱的, 无力的</td></tr>
 <tr><td>weaken</td><td>wēake̊n</td><td>weak-en</td><td>wēak-e̊n</td><td>vt. 削弱, 减弱<br>vi. 变弱</td></tr>
 <tr><td>weaker</td><td>wēake̊r</td><td>weak-er</td><td>wēak-e̊r</td><td></td></tr>
-<tr><td>weakest</td><td>wēake̊st</td><td>weak-est</td><td>wēak-e̊st</td><td>a. 最弱的, 最差的</td></tr>
+<tr><td>weakest</td><td>wēakėst</td><td>weak-est</td><td>wēak-ėst</td><td>a. 最弱的, 最差的</td></tr>
 <tr><td>weakfish</td><td>wēakfish</td><td>weak-fish</td><td>wēak-fish</td><td>n. 海鳟(一种食用鱼)</td></tr>
 <tr><td>weakling</td><td>wēakling</td><td>weak-ling</td><td>wēak-ling</td><td>n. 虚弱的人, 懦弱的人<br>a. 虚弱的, 懦弱的</td></tr>
 <tr><td>weakly</td><td>wēaklẏ</td><td>weak-ly</td><td>wēak-lẏ</td><td>adv. 微弱地, 虚弱地</td></tr>
@@ -448,7 +448,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>weaponless</td><td>wèapo̊nlėss</td><td>weap-on-less</td><td>wèap-o̊n-lėss</td><td>a. 无武器的, 没有武装的</td></tr>
 <tr><td>weaponry</td><td>wèapo̊nrẏ</td><td>weap-on-ry</td><td>wèap-o̊n-rẏ</td><td>n. 武器, 军备</td></tr>
 <tr><td>weapons</td><td>wèapo̊nṡ</td><td>weap-on-s</td><td>wèap-o̊n-ṡ</td><td></td></tr>
-<tr><td>weaponized</td><td>wēapo̊nīz𝕖d</td><td>weap-on-iz-ed</td><td>wēap-o̊n-īz-𝕖d</td><td>v. 武器化</td></tr>
+<tr><td>weaponized</td><td>wèapo̊nīz𝕖d</td><td>weap-on-iz-ed</td><td>wèap-o̊n-īz-𝕖d</td><td>v. 武器化</td></tr>
 <tr><td>weaponization</td><td>wèapo̊nīzātio̊n</td><td>weap-on-iz-at-ion</td><td>wèap-o̊n-īz-āt-io̊n</td><td>n. 武器化, 武器利用</td></tr>
 <tr><td>bioweapon</td><td>bīōwèapo̊n</td><td>bio-weapon</td><td>bīō-wèapo̊n</td><td>n. 生物武器</td></tr>
 <tr><td>wear</td><td>weār</td><td>wear</td><td>weār</td><td>vt. 穿, 戴, 磨损<br>vi. 磨损, 耐用<br>n. 穿着, 磨损</td></tr>
@@ -457,11 +457,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wearing</td><td>weāring</td><td>wear-ing</td><td>weār-ing</td><td>a. 令人疲惫的, 磨损的</td></tr>
 <tr><td>wears</td><td>weārṡ</td><td>wear-s</td><td>weār-ṡ</td><td></td></tr>
 <tr><td>weary</td><td>wēarẏ</td><td>wear-y</td><td>wēar-ẏ</td><td>a. 疲倦的, 厌倦的<br>vt. 使疲倦, 使厌倦<br>vi. 疲倦, 厌倦</td></tr>
-<tr><td>wearability</td><td>we̊aråbili̊tẏ</td><td>wear-abil-ity</td><td>we̊ar-åbil-i̊tẏ</td><td>n. 耐磨性</td></tr>
+<tr><td>wearability</td><td>weāråbilitẏ</td><td>wear-abil-ity</td><td>weār-åbil-itẏ</td><td>n. 耐磨性</td></tr>
 <tr><td>wearying</td><td>wēarẏing</td><td>wear-y-ing</td><td>wēar-ẏ-ing</td><td>v. 使疲倦, 使厌烦</td></tr>
-<tr><td>wearily</td><td>weāri̊lẏ</td><td>wear-i-ly</td><td>weār-i̊-lẏ</td><td>adv. 疲倦地, 厌倦地, 沉闷地</td></tr>
-<tr><td>weariness</td><td>wēarine̊ss</td><td>wear-i-ness</td><td>wēar-i-ne̊ss</td><td>n. 疲倦, 厌倦</td></tr>
-<tr><td>wearisome</td><td>wēarĩso̊me</td><td>wear-i-some</td><td>wēar-ĩ-so̊me</td><td>a. 使疲倦的, 使厌倦的, 乏味的</td></tr>
+<tr><td>wearily</td><td>wēarilẏ</td><td>wear-i-ly</td><td>wēar-i-lẏ</td><td>adv. 疲倦地, 厌倦地, 沉闷地</td></tr>
+<tr><td>weariness</td><td>wēarinėss</td><td>wear-i-ness</td><td>wēar-i-nėss</td><td>n. 疲倦, 厌倦</td></tr>
+<tr><td>wearisome</td><td>wēariso̊me</td><td>wear-i-some</td><td>wēar-i-so̊me</td><td>a. 使疲倦的, 使厌倦的, 乏味的</td></tr>
 <tr><td>unworn</td><td>ûnworn</td><td>un-worn</td><td>ûn-worn</td><td>a. 未磨损的, 未穿过的</td></tr>
 <tr><td>wore</td><td>wore</td><td>wore</td><td>wore</td><td></td></tr>
 <tr><td>worn</td><td>worn</td><td>worn</td><td>worn</td><td>a. 用旧的, 磨损的</td></tr>
@@ -483,7 +483,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>woven</td><td>wōve̊n</td><td>wov-en</td><td>wōv-e̊n</td><td>a. 编织的</td></tr>
 <tr><td>web</td><td>web</td><td>web</td><td>web</td><td>n. 网, 网络, 蛛网</td></tr>
 <tr><td>webcam</td><td>webcam</td><td>web-cam</td><td>web-cam</td><td>n. 网络摄像头</td></tr>
-<tr><td>webcast</td><td>webcast</td><td>web-cast</td><td>web-cast</td><td>n. 网络直播, 网络广播</td></tr>
+<tr><td>webcast</td><td>webcàst</td><td>web-cast</td><td>web-càst</td><td>n. 网络直播, 网络广播</td></tr>
 <tr><td>webbed</td><td>webb𝕖d</td><td>webb-ed</td><td>webb-𝕖d</td><td>a. 有蹼的, 网状的</td></tr>
 <tr><td>webbing</td><td>webbing</td><td>webb-ing</td><td>webb-ing</td><td>n. 带子, 蹼状物</td></tr>
 <tr><td>weblog</td><td>weblog</td><td>web-log</td><td>web-log</td><td>n. 网络日志</td></tr>
@@ -491,25 +491,25 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>webs</td><td>webṡ</td><td>web-s</td><td>web-ṡ</td><td></td></tr>
 <tr><td>website</td><td>websīte</td><td>web-site</td><td>web-sīte</td><td>n. 网站</td></tr>
 <tr><td>webby</td><td>webbẏ</td><td>webb-y</td><td>webb-ẏ</td><td>a. 丝网状的</td></tr>
-<tr><td>webmaster</td><td>webmaste̊r</td><td>web-mast-er</td><td>web-mast-e̊r</td><td>n. 网络管理员</td></tr>
+<tr><td>webmaster</td><td>webmàste̊r</td><td>web-mast-er</td><td>web-màst-e̊r</td><td>n. 网络管理员</td></tr>
 <tr><td>websites</td><td>websīt𝕖s</td><td>web-site-s</td><td>web-sīt𝕖-s</td><td></td></tr>
 <tr><td>cobweb</td><td>cobweb</td><td>cob-web</td><td>cob-web</td><td>n. 蜘蛛网, 蛛丝</td></tr>
 <tr><td>cobwebbed</td><td>cobwebb𝕖d</td><td>cob-webb-ed</td><td>cob-webb-𝕖d</td><td>a. 布满蛛网的</td></tr>
 <tr><td>cobwebby</td><td>cobwebbẏ</td><td>cob-webb-y</td><td>cob-webb-ẏ</td><td>a. 蛛网似的, 蛛网密布的</td></tr>
-<tr><td>weberian</td><td>wèbėriån</td><td>weber-ian</td><td>wèbėr-iån</td><td>a. 韦伯式的, 韦伯学派的</td></tr>
-<tr><td>wed</td><td>w𝕖d</td><td>wed</td><td>w𝕖d</td><td>vt. 与...结婚, 使结合<br>vi. 结婚</td></tr>
-<tr><td>wedded</td><td>wedd𝕖d</td><td>wedd-ed</td><td>wedd-𝕖d</td><td>a. 已婚的, 结合的, 执著的</td></tr>
+<tr><td>weberian</td><td>webēriån</td><td>weber-ian</td><td>webēr-iån</td><td>a. 韦伯式的, 韦伯学派的</td></tr>
+<tr><td>wed</td><td>wed</td><td>wed</td><td>wed</td><td>vt. 与...结婚, 使结合<br>vi. 结婚</td></tr>
+<tr><td>wedded</td><td>weddėd</td><td>wedd-ed</td><td>wedd-ėd</td><td>a. 已婚的, 结合的, 执著的</td></tr>
 <tr><td>wedding</td><td>wedding</td><td>wedd-ing</td><td>wedd-ing</td><td>n. 婚礼, 结婚</td></tr>
 <tr><td>wedlock</td><td>wedlock</td><td>wed-lock</td><td>wed-lock</td><td>n. 婚姻生活</td></tr>
 <tr><td>weddings</td><td>weddingṡ</td><td>wedd-ing-s</td><td>wedd-ing-ṡ</td><td></td></tr>
-<tr><td>unwed</td><td>ûnw𝕖d</td><td>un-wed</td><td>ûn-w𝕖d</td><td>a. 未婚的</td></tr>
+<tr><td>unwed</td><td>ûnwed</td><td>un-wed</td><td>ûn-wed</td><td>a. 未婚的</td></tr>
 <tr><td>wedge</td><td>wedge</td><td>wedge</td><td>wedge</td><td>n. 楔子<br>vt. 楔入, 挤入</td></tr>
 <tr><td>wedge-shaped</td><td>wedge-shāp𝕖ḋ</td><td>wedge-shap-ed</td><td>wedge-shāp-𝕖ḋ</td><td>a. 楔形的</td></tr>
 <tr><td>wedgie</td><td>wedgie</td><td>wedgie</td><td>wedgie</td><td>n. 楔形后跟的女鞋</td></tr>
-<tr><td>wednesday</td><td>we𝕕neṡdāy</td><td></td><td></td><td>n. 星期三</td></tr>
+<tr><td>wednesday</td><td>we𝕕n𝕖ṡdāy</td><td></td><td></td><td>n. 星期三</td></tr>
 <tr><td>wee</td><td>wēe</td><td>wee</td><td>wēe</td><td>a. 很小的, 微小的<br>n. 一点点</td></tr>
 <tr><td>weed</td><td>wēed</td><td>weed</td><td>wēed</td><td>n. 杂草, 野草<br>v. 除草</td></tr>
-<tr><td>weedbed</td><td>wēedb𝕖d</td><td>weed-bed</td><td>wēed-b𝕖d</td><td>n. 杂草丛生的水域</td></tr>
+<tr><td>weedbed</td><td>wēedbed</td><td>weed-bed</td><td>wēed-bed</td><td>n. 杂草丛生的水域</td></tr>
 <tr><td>weeding</td><td>wēeding</td><td>weed-ing</td><td>wēed-ing</td><td>n. 除草<br>v. 除草(weed的现在分词)</td></tr>
 <tr><td>weedless</td><td>wēedlėss</td><td>weed-less</td><td>wēed-lėss</td><td>a. 无杂草的</td></tr>
 <tr><td>weeds</td><td>wēedṡ</td><td>weed-s</td><td>wēed-ṡ</td><td></td></tr>
@@ -562,12 +562,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>welterweight</td><td>welte̊rwèi𝕘𝕙t</td><td>welter-weight</td><td>welte̊r-wèi𝕘𝕙t</td><td>n. 次中量级拳击手, 次中量级摔跤运动员</td></tr>
 <tr><td>counterweight</td><td>còunte̊rwèi𝕘𝕙t</td><td>count-er-weight</td><td>còunt-e̊r-wèi𝕘𝕙t</td><td>n. 平衡物, 配重</td></tr>
 <tr><td>middleweight</td><td>middl𝕖wèi𝕘𝕙t</td><td>midd-le-weight</td><td>midd-l𝕖-wèi𝕘𝕙t</td><td>n. 中量级拳击选手</td></tr>
-<tr><td>weird</td><td>weird</td><td>weird</td><td>weird</td><td>a. 奇怪的, 诡异的, 不寻常的</td></tr>
+<tr><td>weird</td><td>wēird</td><td>weird</td><td>wēird</td><td>a. 奇怪的, 诡异的, 不寻常的</td></tr>
 <tr><td>weirder</td><td>weirde̊r</td><td>weird-er</td><td>weird-e̊r</td><td></td></tr>
 <tr><td>weirdest</td><td>weirdėst</td><td>weird-est</td><td>weird-ėst</td><td></td></tr>
-<tr><td>weirdly</td><td>weirdlẏ</td><td>weird-ly</td><td>weird-lẏ</td><td>adv. 古怪地, 诡异之地</td></tr>
-<tr><td>weirdness</td><td>weirdnėss</td><td>weird-ness</td><td>weird-nėss</td><td>n. 古怪, 离奇</td></tr>
-<tr><td>weirdo</td><td>weirdō</td><td>weird-o</td><td>weird-ō</td><td>n. 古怪的人, 奇怪的人</td></tr>
+<tr><td>weirdly</td><td>wēirdlẏ</td><td>weird-ly</td><td>wēird-lẏ</td><td>adv. 古怪地, 诡异之地</td></tr>
+<tr><td>weirdness</td><td>wēirdnėss</td><td>weird-ness</td><td>wēird-nėss</td><td>n. 古怪, 离奇</td></tr>
+<tr><td>weirdo</td><td>wēirdō</td><td>weird-o</td><td>wēird-ō</td><td>n. 古怪的人, 奇怪的人</td></tr>
 <tr><td>weirdos</td><td>weirdōṡ</td><td>weird-o-s</td><td>weird-ō-ṡ</td><td></td></tr>
 <tr><td>weld</td><td>weld</td><td>weld</td><td>weld</td><td>n. 焊接<br>vt. 焊接</td></tr>
 <tr><td>welded</td><td>weldėd</td><td>weld-ed</td><td>weld-ėd</td><td>v. 焊接, 使结合 (weld的过去式)</td></tr>
@@ -577,7 +577,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>well</td><td>well</td><td>well</td><td>well</td><td>n. 井, 源泉<br>v. 涌出<br>a. 健康的, 良好的<br>adv. 很好地, 完全<br>interj. 好啦</td></tr>
 <tr><td>wellhead</td><td>wellhèad</td><td>well-head</td><td>well-hèad</td><td>n. 水源, 泉源</td></tr>
 <tr><td>welling</td><td>welling</td><td>well-ing</td><td>well-ing</td><td>v. 涌出, 溢出</td></tr>
-<tr><td>wellness</td><td>wellne̊ss</td><td>well-ness</td><td>well-ne̊ss</td><td>n. 健康</td></tr>
+<tr><td>wellness</td><td>wellnėss</td><td>well-ness</td><td>well-nėss</td><td>n. 健康</td></tr>
 <tr><td>well-off</td><td></td><td>well-off</td><td></td><td>a. 富有的, 小康的</td></tr>
 <tr><td>wells</td><td>wellṡ</td><td>well-s</td><td>well-ṡ</td><td></td></tr>
 <tr><td>well-to-do</td><td></td><td>well-to-do</td><td></td><td>a. 富裕的, 富有的</td></tr>
@@ -594,7 +594,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wench</td><td>wench</td><td>wench</td><td>wench</td><td>n. 少女, 乡下姑娘, 妓女<br>vi. 嫖妓</td></tr>
 <tr><td>wend</td><td>wend</td><td>wend</td><td>wend</td><td>vi. 行, 走, 前往</td></tr>
 <tr><td>werewolf</td><td>wèrewõlf</td><td>were-wolf</td><td>wère-wõlf</td><td>n. 狼人, 豺狼般的人</td></tr>
-<tr><td>wesleyan</td><td>weṡlēyån</td><td>wesley-an</td><td>weṡlēy-ån</td><td>a. 卫斯理宗的<br>n. 卫斯理宗信徒</td></tr>
+<tr><td>wesleyan</td><td>weṡlėyån</td><td>wesley-an</td><td>weṡlėy-ån</td><td>a. 卫斯理宗的<br>n. 卫斯理宗信徒</td></tr>
 <tr><td>west</td><td>west</td><td>west</td><td>west</td><td>n. 西方, 西部<br>a. 西方的, 向西的<br>adv. 向西方</td></tr>
 <tr><td>western</td><td>weste̊rn</td><td>west-ern</td><td>west-e̊rn</td><td>n. 西部片, 西方人<br>a. 西方的, 西部的</td></tr>
 <tr><td>westward</td><td>westwård</td><td>west-ward</td><td>west-wård</td><td>a. 向西的<br>adv. 向西</td></tr>
@@ -608,12 +608,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>westernizer</td><td>weste̊rnīze̊r</td><td>west-ern-iz-er</td><td>west-e̊rn-īz-e̊r</td><td>n. 西方化推行者</td></tr>
 <tr><td>westphalian</td><td>westphāliån</td><td>westphal-ian</td><td>westphāl-iån</td><td>a. 威斯特伐利亚的</td></tr>
 <tr><td>wet</td><td>wet</td><td>wet</td><td>wet</td><td>n. 湿气, 潮湿, 水分, 雨天<br>a. 湿的, 潮湿的, 有雨的<br>vt. 使…湿</td></tr>
-<tr><td>wetted</td><td>wett𝕖d</td><td>wett-ed</td><td>wett-𝕖d</td><td>v. 弄湿 (wet的过去式和过去分词)</td></tr>
+<tr><td>wetted</td><td>wettėd</td><td>wett-ed</td><td>wett-ėd</td><td>v. 弄湿 (wet的过去式和过去分词)</td></tr>
 <tr><td>wetter</td><td>wette̊r</td><td>wett-er</td><td>wett-e̊r</td><td></td></tr>
 <tr><td>wettest</td><td>wettėst</td><td>wett-est</td><td>wett-ėst</td><td></td></tr>
 <tr><td>wetting</td><td>wetting</td><td>wett-ing</td><td>wett-ing</td><td>n. 弄湿, 润湿</td></tr>
 <tr><td>wetly</td><td>wetlẏ</td><td>wet-ly</td><td>wet-lẏ</td><td>adv. 潮湿地, 有湿气地</td></tr>
-<tr><td>wetness</td><td>wetne̊ss</td><td>wet-ness</td><td>wet-ne̊ss</td><td>n. 湿润, 潮湿</td></tr>
+<tr><td>wetness</td><td>wetnėss</td><td>wet-ness</td><td>wet-nėss</td><td>n. 湿润, 潮湿</td></tr>
 <tr><td>bellwether</td><td>bellweṫhe̊r</td><td>bell-wether</td><td>bell-weṫhe̊r</td><td>n. 领头羊, 领导者</td></tr>
 <tr><td>whack</td><td>w𝕙ack</td><td>whack</td><td>w𝕙ack</td><td>n. 重击<br>vt. 猛击, 重打</td></tr>
 <tr><td>whacked</td><td>w𝕙ack𝕖ḋ</td><td>whack-ed</td><td>w𝕙ack-𝕖ḋ</td><td>v. 重击 (whack的过去式)<br>a. 疲惫不堪的</td></tr>
@@ -621,13 +621,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whacko</td><td>w𝕙ackō</td><td>whack-o</td><td>w𝕙ack-ō</td><td>n. 怪人, 疯子<br>int. 好极了!</td></tr>
 <tr><td>whacks</td><td>w𝕙acks</td><td>whack-s</td><td>w𝕙ack-s</td><td></td></tr>
 <tr><td>whale</td><td>whāle</td><td>whale</td><td>whāle</td><td>n. 鲸<br>v. 捕鲸</td></tr>
-<tr><td>whalebone</td><td>whālebōne</td><td>whale-bone</td><td>whāle-bōne</td><td>n. 鲸须, 鲸须制品</td></tr>
+<tr><td>whalebone</td><td>w𝕙āl𝕖bōne</td><td>whale-bone</td><td>w𝕙āl𝕖-bōne</td><td>n. 鲸须, 鲸须制品</td></tr>
 <tr><td>whaler</td><td>w𝕙āle̊r</td><td>whal-er</td><td>w𝕙āl-e̊r</td><td>n. 捕鲸者, 捕鲸船</td></tr>
 <tr><td>whaling</td><td>w𝕙āling</td><td>whal-ing</td><td>w𝕙āl-ing</td><td>n. 捕鲸</td></tr>
 <tr><td>whales</td><td>w𝕙āl𝕖ṡ</td><td>whale-s</td><td>w𝕙āl𝕖-ṡ</td><td></td></tr>
 <tr><td>wham</td><td>w𝕙am</td><td>wham</td><td>w𝕙am</td><td>n. 重击声<br>v. 重打</td></tr>
 <tr><td>whammy</td><td>w𝕙ammẏ</td><td>whamm-y</td><td>w𝕙amm-ẏ</td><td>n. 晦气, 打击</td></tr>
-<tr><td>whap</td><td>whàp</td><td>whap</td><td>whàp</td><td>v. 重击, 打<br>n. 重击</td></tr>
+<tr><td>whap</td><td>whap</td><td>whap</td><td>whap</td><td>v. 重击, 打<br>n. 重击</td></tr>
 <tr><td>wharf</td><td>whãrf</td><td>wharf</td><td>whãrf</td><td>n. 码头<br>vt. 卸在码头上, 靠码头<br>vi. 靠码头, 入坞</td></tr>
 <tr><td>what</td><td>w𝕙ãt</td><td>what</td><td>w𝕙ãt</td><td>pron. 什么<br>a. 什么的<br>adv. 到什么程度</td></tr>
 <tr><td>whatever</td><td>w𝕙ãteve̊r</td><td>what-ever</td><td>w𝕙ãt-eve̊r</td><td>pron. 无论什么, 任何事物</td></tr>
@@ -635,7 +635,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whatsoever</td><td>w𝕙ãtsōeve̊r</td><td>what-so-ever</td><td>w𝕙ãt-sō-eve̊r</td><td>adv. 丝毫(用于加强语气)</td></tr>
 <tr><td>wheat</td><td>whēat</td><td>wheat</td><td>whēat</td><td>n. 小麦</td></tr>
 <tr><td>wheatfield</td><td>w𝕙ēatfiēld</td><td>wheat-field</td><td>w𝕙ēat-fiēld</td><td>n. 麦田</td></tr>
-<tr><td>wheatgrass</td><td>w𝕙ēatgrass</td><td>wheat-grass</td><td>w𝕙ēat-grass</td><td>n. 麦草, 冰草</td></tr>
+<tr><td>wheatgrass</td><td>w𝕙ēatgràss</td><td>wheat-grass</td><td>w𝕙ēat-gràss</td><td>n. 麦草, 冰草</td></tr>
 <tr><td>whee</td><td>whēe</td><td>whee</td><td>whēe</td><td>int. (表示兴奋)嘿, 哇</td></tr>
 <tr><td>wheedle</td><td>whēedle</td><td>wheed-le</td><td>whēed-le</td><td>vt. 以甜言蜜语诱惑<br>vi. 哄骗</td></tr>
 <tr><td>wheedling</td><td>whēedling</td><td>wheed-ling</td><td>whēed-ling</td><td>v. 骗取（某物）, 哄骗（某人干某事）( wheedle的现在分词 )</td></tr>
@@ -644,14 +644,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wheelbase</td><td>w𝕙ēelbāse</td><td>wheel-base</td><td>w𝕙ēel-bāse</td><td>n. 轴距</td></tr>
 <tr><td>wheelchair</td><td>w𝕙ēelchāir</td><td>wheel-chair</td><td>w𝕙ēel-chāir</td><td>n. 轮椅</td></tr>
 <tr><td>wheeled</td><td>w𝕙ēel𝕖d</td><td>wheel-ed</td><td>w𝕙ēel-𝕖d</td><td>a. 有轮的, 轮式的</td></tr>
-<tr><td>wheelhouse</td><td>whēelhòuse</td><td>wheel-house</td><td>whēel-hòuse</td><td>n. 操舵室, 驾驶室</td></tr>
+<tr><td>wheelhouse</td><td>w𝕙ēelhòuse</td><td>wheel-house</td><td>w𝕙ēel-hòuse</td><td>n. 操舵室, 驾驶室</td></tr>
 <tr><td>wheelie</td><td>whēelie</td><td>wheel-ie</td><td>whēel-ie</td><td>n. (自行车)前轮离地特技</td></tr>
 <tr><td>wheeling</td><td>w𝕙ēeling</td><td>wheel-ing</td><td>w𝕙ēel-ing</td><td>n. 轮转, 推车<br>v. 转动(wheel的现在分词)</td></tr>
 <tr><td>wheels</td><td>w𝕙ēelṡ</td><td>wheel-s</td><td>w𝕙ēel-ṡ</td><td></td></tr>
 <tr><td>wheelset</td><td>w𝕙ēelset</td><td>wheel-set</td><td>w𝕙ēel-set</td><td>n. 轮对, 轮组</td></tr>
 <tr><td>wheelwright</td><td>whēel𝕨rī𝕘𝕙t</td><td>wheel-wright</td><td>whēel-𝕨rī𝕘𝕙t</td><td>n. 车轮修造人, 车匠</td></tr>
 <tr><td>wheelchairs</td><td>w𝕙ēelchāirṡ</td><td>wheel-chair-s</td><td>w𝕙ēel-chāir-ṡ</td><td></td></tr>
-<tr><td>cartwheel</td><td>càrtwhēel</td><td>cart-wheel</td><td>càrt-whēel</td><td>n. 侧翻筋斗, 车轮</td></tr>
+<tr><td>cartwheel</td><td>càrtw𝕙ēel</td><td>cart-wheel</td><td>càrt-w𝕙ēel</td><td>n. 侧翻筋斗, 车轮</td></tr>
 <tr><td>wheeze</td><td>w𝕙ēeze</td><td>wheeze</td><td>w𝕙ēeze</td><td>vi. 喘息, 哮鸣<br>n. 喘息声, 哮喘</td></tr>
 <tr><td>wheezing</td><td>w𝕙ēezing</td><td>wheez-ing</td><td>w𝕙ēez-ing</td><td>a. 喘息的, 气喘的</td></tr>
 <tr><td>wheezy</td><td>whēezẏ</td><td>wheez-y</td><td>whēez-ẏ</td><td>a. 气喘的, 喘息的</td></tr>
@@ -667,12 +667,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whereby</td><td>w𝕙èrebȳ</td><td>where-by</td><td>w𝕙ère-bȳ</td><td>adv. 凭借, 由此</td></tr>
 <tr><td>wherever</td><td>w𝕙èreve̊r</td><td>wher-ever</td><td>w𝕙èr-eve̊r</td><td>adv. 无论在哪里, 无论到哪里</td></tr>
 <tr><td>wherefore</td><td>w𝕙èr𝕖fore</td><td>where-fore</td><td>w𝕙èr𝕖-fore</td><td>conj. 为此, 因此<br>adv. 为此<br>n. 理由, 原因</td></tr>
-<tr><td>wherein</td><td>w𝕙èrein</td><td>where-in</td><td>w𝕙ère-in</td><td>adv. 在其中, 在何处</td></tr>
-<tr><td>whereof</td><td>w𝕙èreof</td><td>where-of</td><td>w𝕙ère-of</td><td>adv. 关于什么, 关于那事</td></tr>
-<tr><td>whereon</td><td>w𝕙èreon</td><td>where-on</td><td>w𝕙ère-on</td><td>adv. 在什么上面, 在那上面</td></tr>
-<tr><td>wherewithal</td><td>w𝕙èrewiṫhãl</td><td>where-with-al</td><td>w𝕙ère-wiṫh-ãl</td><td>n. 必要的资金, 所需的手段</td></tr>
-<tr><td>whereupon</td><td>w𝕙èreupon</td><td>where-up-on</td><td>w𝕙ère-up-on</td><td>conj. 因此, 于是</td></tr>
-<tr><td>whereabouts</td><td>w𝕙èreabòuts</td><td>where-ab-out-s</td><td>w𝕙ère-ab-òut-s</td><td>n. 下落, 所在之处<br>adv. 在何处</td></tr>
+<tr><td>wherein</td><td>w𝕙èr𝕖in</td><td>where-in</td><td>w𝕙èr𝕖-in</td><td>adv. 在其中, 在何处</td></tr>
+<tr><td>whereof</td><td>w𝕙èr𝕖of</td><td>where-of</td><td>w𝕙èr𝕖-of</td><td>adv. 关于什么, 关于那事</td></tr>
+<tr><td>whereon</td><td>w𝕙èr𝕖on</td><td>where-on</td><td>w𝕙èr𝕖-on</td><td>adv. 在什么上面, 在那上面</td></tr>
+<tr><td>wherewithal</td><td>w𝕙èr𝕖wiṫhãl</td><td>where-with-al</td><td>w𝕙èr𝕖-wiṫh-ãl</td><td>n. 必要的资金, 所需的手段</td></tr>
+<tr><td>whereupon</td><td>w𝕙èr𝕖ůpon</td><td>where-up-on</td><td>w𝕙èr𝕖-ůp-on</td><td>conj. 因此, 于是</td></tr>
+<tr><td>whereabouts</td><td>w𝕙èr𝕖åbòuts</td><td>where-ab-out-s</td><td>w𝕙èr𝕖-åb-òut-s</td><td>n. 下落, 所在之处<br>adv. 在何处</td></tr>
 <tr><td>nowhere</td><td>nōw𝕙ère</td><td>no-where</td><td>nō-w𝕙ère</td><td>adv. 无处, 到处都无</td></tr>
 <tr><td>wherry</td><td>wherrẏ</td><td>wherry</td><td>wherrẏ</td><td>n. 小划艇, 摆渡船</td></tr>
 <tr><td>whet</td><td>w𝕙et</td><td>whet</td><td>w𝕙et</td><td>vt. 磨快, 刺激</td></tr>
@@ -701,7 +701,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whiner</td><td>w𝕙īne̊r</td><td>whin-er</td><td>w𝕙īn-e̊r</td><td>n. 爱抱怨的人</td></tr>
 <tr><td>whining</td><td>w𝕙īning</td><td>whin-ing</td><td>w𝕙īn-ing</td><td>v. 哀鸣, 抱怨</td></tr>
 <tr><td>whines</td><td>w𝕙īn𝕖ṡ</td><td>whine-s</td><td>w𝕙īn𝕖-ṡ</td><td></td></tr>
-<tr><td>whiney</td><td>whīn𝕖y</td><td>whine-y</td><td>whīn𝕖-y</td><td>a. 爱抱怨的, 嘀咕的</td></tr>
+<tr><td>whiney</td><td>whīnėy</td><td>whine-y</td><td>whīnė-y</td><td>a. 爱抱怨的, 嘀咕的</td></tr>
 <tr><td>whiny</td><td>w𝕙īnẏ</td><td>whin-y</td><td>w𝕙īn-ẏ</td><td>a. 爱抱怨的, 好发牢骚的</td></tr>
 <tr><td>whinny</td><td>whinnẏ</td><td>whinn-y</td><td>whinn-ẏ</td><td>n. 马嘶声<br>vi. 嘶鸣</td></tr>
 <tr><td>whip</td><td>whip</td><td>whip</td><td>whip</td><td>n. 鞭子<br>vt. 鞭打, 搅拌</td></tr>
@@ -731,7 +731,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whisker</td><td>whiske̊r</td><td>whisk-er</td><td>whisk-e̊r</td><td>n. 胡须, 触须, 一丝</td></tr>
 <tr><td>whiskered</td><td>w𝕙iske̊r𝕖d</td><td>whisk-er-ed</td><td>w𝕙isk-e̊r-𝕖d</td><td>a. 有须的</td></tr>
 <tr><td>bewhiskered</td><td>bėw𝕙iske̊r𝕖d</td><td>be-whisk-er-ed</td><td>bė-w𝕙isk-e̊r-𝕖d</td><td>a. 有胡须的, 陈旧的</td></tr>
-<tr><td>whiskey</td><td>w𝕙iskēy</td><td>whiskey</td><td>w𝕙iskēy</td><td>n. 威士忌</td></tr>
+<tr><td>whiskey</td><td>w𝕙iskėy</td><td>whiskey</td><td>w𝕙iskėy</td><td>n. 威士忌</td></tr>
 <tr><td>whisky</td><td>whiskẏ</td><td>whisky</td><td>whiskẏ</td><td>n. 威士忌酒</td></tr>
 <tr><td>whiskies</td><td>w𝕙iski𝕖ṡ</td><td>whisk-ies</td><td>w𝕙isk-i𝕖ṡ</td><td></td></tr>
 <tr><td>whiskeys</td><td>w𝕙iskėyṡ</td><td>whiskey-s</td><td>w𝕙iskėy-ṡ</td><td></td></tr>
@@ -747,11 +747,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whistled</td><td>w𝕙is𝕥l𝕖d</td><td>whist-l-ed</td><td>w𝕙is𝕥-l-𝕖d</td><td></td></tr>
 <tr><td>whistler</td><td>w𝕙is𝕥le̊r</td><td>whist-le-r</td><td>w𝕙is𝕥-le̊-r</td><td>n. 吹口哨的人, 啸声器</td></tr>
 <tr><td>whistles</td><td>w𝕙is𝕥l𝕖ṡ</td><td>whist-le-s</td><td>w𝕙is𝕥-l𝕖-ṡ</td><td></td></tr>
-<tr><td>whistleblower</td><td>whis𝕥leblōwe̊r</td><td>whist-le-blow-er</td><td>whis𝕥-le-blōw-e̊r</td><td>n. 告密者, 揭发者</td></tr>
+<tr><td>whistleblower</td><td>whis𝕥l𝕖blōwe̊r</td><td>whist-le-blow-er</td><td>whis𝕥-l𝕖-blōw-e̊r</td><td>n. 告密者, 揭发者</td></tr>
 <tr><td>whit</td><td>w𝕙it</td><td>whit</td><td>w𝕙it</td><td>n. 一点点, 丝毫</td></tr>
 <tr><td>white</td><td>whīte</td><td>white</td><td>whīte</td><td>a. 白色的, 纯洁的, 苍白的<br>n. 白色, 白种人</td></tr>
-<tr><td>whiteboard</td><td>whītebōard</td><td>white-board</td><td>whīte-bōard</td><td>n. 白板</td></tr>
-<tr><td>whitecap</td><td>whītecap</td><td>white-cap</td><td>whīte-cap</td><td>n. 白帽队队员, 浪端的白泡沫</td></tr>
+<tr><td>whiteboard</td><td>w𝕙īt𝕖bōard</td><td>white-board</td><td>w𝕙īt𝕖-bōard</td><td>n. 白板</td></tr>
+<tr><td>whitecap</td><td>w𝕙īt𝕖cap</td><td>white-cap</td><td>w𝕙īt𝕖-cap</td><td>n. 白帽队队员, 浪端的白泡沫</td></tr>
 <tr><td>whiten</td><td>w𝕙īte̊n</td><td>whit-en</td><td>w𝕙īt-e̊n</td><td>vt. 使白, 漂白<br>vi. 变白</td></tr>
 <tr><td>whiter</td><td>w𝕙īte̊r</td><td>whit-er</td><td>w𝕙īt-e̊r</td><td></td></tr>
 <tr><td>whitest</td><td>w𝕙ītėst</td><td>whit-est</td><td>w𝕙īt-ėst</td><td></td></tr>
@@ -763,16 +763,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whiteness</td><td>w𝕙īt𝕖nėss</td><td>white-ness</td><td>w𝕙īt𝕖-nėss</td><td>n. 白, 洁白</td></tr>
 <tr><td>whitetail</td><td>w𝕙īt𝕖tāil</td><td>white-tail</td><td>w𝕙īt𝕖-tāil</td><td>n. 白尾鹿</td></tr>
 <tr><td>whitewash</td><td>whīt𝕖wãsh</td><td>white-wash</td><td>whīt𝕖-wãsh</td><td>n. 石灰水, 粉饰<br>vt. 粉刷, 掩饰</td></tr>
-<tr><td>whitey</td><td>w𝕙ītēy</td><td>white-y</td><td>w𝕙ītē-y</td><td>n. 白人（贬义俚语）</td></tr>
+<tr><td>whitey</td><td>w𝕙ītėy</td><td>white-y</td><td>w𝕙ītė-y</td><td>n. 白人（贬义俚语）</td></tr>
 <tr><td>white-collar</td><td>whīte-collår</td><td>white-coll-ar</td><td>whīte-coll-år</td><td>a. 白领的, 脑力劳动的</td></tr>
 <tr><td>whitened</td><td>w𝕙īte̊n𝕖d</td><td>whit-en-ed</td><td>w𝕙īt-e̊n-𝕖d</td><td>v. 使变白<br>a. 发白的</td></tr>
 <tr><td>whitener</td><td>w𝕙īte̊ne̊r</td><td>whit-en-er</td><td>w𝕙īt-e̊n-e̊r</td><td>n. 增白剂；漂白剂</td></tr>
-<tr><td>whitewashed</td><td>w𝕙ītewãsh𝕖ḋ</td><td>white-wash-ed</td><td>w𝕙īte-wãsh-𝕖ḋ</td><td>a. 粉刷的<br>v. 粉饰, 掩饰(whitewash的过去式和过去分词)</td></tr>
+<tr><td>whitewashed</td><td>w𝕙īt𝕖wãsh𝕖ḋ</td><td>white-wash-ed</td><td>w𝕙īt𝕖-wãsh-𝕖ḋ</td><td>a. 粉刷的<br>v. 粉饰, 掩饰(whitewash的过去式和过去分词)</td></tr>
 <tr><td>whitening</td><td>w𝕙īte̊ning</td><td>whit-en-ing</td><td>w𝕙īt-e̊n-ing</td><td>n. 弄白, 变白, 白粉</td></tr>
-<tr><td>whitewashing</td><td>w𝕙ītewãshing</td><td>white-wash-ing</td><td>w𝕙īte-wãsh-ing</td><td>v. 粉刷, 粉饰</td></tr>
-<tr><td>whitecaps</td><td>whītecaps</td><td>white-cap-s</td><td>whīte-cap-s</td><td>n. 白浪, 白帽浪</td></tr>
+<tr><td>whitewashing</td><td>w𝕙īt𝕖wãshing</td><td>white-wash-ing</td><td>w𝕙īt𝕖-wãsh-ing</td><td>v. 粉刷, 粉饰</td></tr>
+<tr><td>whitecaps</td><td>w𝕙īt𝕖caps</td><td>white-cap-s</td><td>w𝕙īt𝕖-cap-s</td><td>n. 白浪, 白帽浪</td></tr>
 <tr><td>whither</td><td>w𝕙iṫhe̊r</td><td>whith-er</td><td>w𝕙iṫh-e̊r</td><td>adv. 到哪里, 往何处</td></tr>
-<tr><td>Whitney</td><td>Whitnēy</td><td>Whitney</td><td>Whitnēy</td><td>n. 惠特尼(姓氏)</td></tr>
+<tr><td>Whitney</td><td>Whitnėy</td><td>Whitney</td><td>Whitnėy</td><td>n. 惠特尼(姓氏)</td></tr>
 <tr><td>whittle</td><td>w𝕙ittle</td><td>whitt-le</td><td>w𝕙itt-le</td><td>vt. 削整, 削减<br>vi. 削木头</td></tr>
 <tr><td>whiz</td><td>w𝕙iz</td><td>whiz</td><td>w𝕙iz</td><td>n. 飕飕声, 专家</td></tr>
 <tr><td>whizz</td><td>whizz</td><td>whizz</td><td>whizz</td><td>n. 飕飕声<br>v. 嗖嗖地飞过</td></tr>
@@ -786,7 +786,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whodunit</td><td>𝕨hõdûnit</td><td>who-dun-it</td><td>𝕨hõ-dûn-it</td><td>n. 侦探小说, 推理作品</td></tr>
 <tr><td>whoops</td><td>w𝕙oops</td><td>who-op-s</td><td>w𝕙o-op-s</td><td>int. 哎呀(表示小错误或意外)</td></tr>
 <tr><td>whoa</td><td>w𝕙ōa</td><td>whoa</td><td>w𝕙ōa</td><td>int. 惊叹声, 停止</td></tr>
-<tr><td>wholistic</td><td>𝕨hōlistic</td><td>whol-ist-ic</td><td>𝕨hōl-ist-ic</td><td>a. 整体的, 全盘的</td></tr>
+<tr><td>wholistic</td><td>𝕨ho̊listic</td><td>whol-ist-ic</td><td>𝕨ho̊l-ist-ic</td><td>a. 整体的, 全盘的</td></tr>
 <tr><td>whole</td><td>𝕨hōle</td><td>whole</td><td>𝕨hōle</td><td>a. 完整的, 全部的, 整体的<br>n. 全部, 整体</td></tr>
 <tr><td>wholly</td><td>𝕨hōllẏ</td><td>whol-ly</td><td>𝕨hōl-lẏ</td><td>adv. 完全地, 全部, 统统</td></tr>
 <tr><td>wholeness</td><td>𝕨hōl𝕖nėss</td><td>whole-ness</td><td>𝕨hōl𝕖-nėss</td><td>n. 全体, 一切, 完全</td></tr>
@@ -794,10 +794,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wholesome</td><td>𝕨hōl𝕖so̊me</td><td>whole-some</td><td>𝕨hōl𝕖-so̊me</td><td>a. 有益健康的, 健全的</td></tr>
 <tr><td>wholehearted</td><td>𝕨hōl𝕖h𝕖àrtėd</td><td>whole-heart-ed</td><td>𝕨hōl𝕖-h𝕖àrt-ėd</td><td>a. 一心一意的, 诚恳的</td></tr>
 <tr><td>wholesaler</td><td>𝕨hōl𝕖sāle̊r</td><td>whole-sal-er</td><td>𝕨hōl𝕖-sāl-e̊r</td><td>n. 批发商</td></tr>
-<tr><td>wholesomeness</td><td>𝕨hōl𝕖so̊menėss</td><td>whole-some-ness</td><td>𝕨hōl𝕖-so̊me-nėss</td><td>n. 有益健康, 卫生</td></tr>
+<tr><td>wholesomeness</td><td>𝕨hōl𝕖sôm𝕖nėss</td><td>whole-some-ness</td><td>𝕨hōl𝕖-sôm𝕖-nėss</td><td>n. 有益健康, 卫生</td></tr>
 <tr><td>wholly-owned</td><td></td><td>whol-ly-own-ed</td><td></td><td>a. 全资的</td></tr>
 <tr><td>wholeheartedly</td><td>𝕨hōl𝕖h𝕖àrtėdlẏ</td><td>whole-heart-ed-ly</td><td>𝕨hōl𝕖-h𝕖àrt-ėd-lẏ</td><td>adv. 全心全意地, 全神贯注地</td></tr>
-<tr><td>unwholesome</td><td>ûn𝕨hōleso̊me</td><td>un-whole-some</td><td>ûn-𝕨hōle-so̊me</td><td>a. 不卫生的, 有害的</td></tr>
+<tr><td>unwholesome</td><td>ûn𝕨hōl𝕖sôme</td><td>un-whole-some</td><td>ûn-𝕨hōl𝕖-sôme</td><td>a. 不卫生的, 有害的</td></tr>
 <tr><td>whoo</td><td>w𝕙oo</td><td>whoo</td><td>w𝕙oo</td><td>int. 呼, 喔</td></tr>
 <tr><td>whoop</td><td>w𝕙oop</td><td>whoop</td><td>w𝕙oop</td><td>n. 大叫, 呐喊<br>v. 叫喊, 高呼</td></tr>
 <tr><td>whoopee</td><td>w𝕙oopēe</td><td>whoop-ee</td><td>w𝕙oop-ēe</td><td>int. 哈哈!<br>n. 喧闹, 狂欢</td></tr>
@@ -809,19 +809,19 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>whopping</td><td>w𝕙opping</td><td>whopp-ing</td><td>w𝕙opp-ing</td><td>a. 巨大的, 天大的<br>adv. 非常地</td></tr>
 <tr><td>whore</td><td>𝕨hore</td><td>whore</td><td>𝕨hore</td><td>n. 娼妓<br>vi. 卖淫</td></tr>
 <tr><td>whores</td><td>𝕨hor𝕖ṡ</td><td>whore-s</td><td>𝕨hor𝕖-ṡ</td><td></td></tr>
-<tr><td>whorl</td><td>w𝕙o̊rl</td><td>whorl</td><td>w𝕙o̊rl</td><td>n. 螺旋状物, 轮生体</td></tr>
-<tr><td>whorled</td><td>who̊rl𝕖d</td><td>whorl-ed</td><td>who̊rl-𝕖d</td><td>a. 螺旋的, 轮生的</td></tr>
+<tr><td>whorl</td><td>w𝕙orl</td><td>whorl</td><td>w𝕙orl</td><td>n. 螺旋状物, 轮生体</td></tr>
+<tr><td>whorled</td><td>w𝕙orl𝕖d</td><td>whorl-ed</td><td>w𝕙orl-𝕖d</td><td>a. 螺旋的, 轮生的</td></tr>
 <tr><td>whump</td><td>w𝕙ûmp</td><td>whump</td><td>w𝕙ûmp</td><td>n. 砰的一声<br>v. 重击</td></tr>
 <tr><td>whup</td><td>w𝕙ûp</td><td>whup</td><td>w𝕙ûp</td><td>v. 痛打, 大胜</td></tr>
 <tr><td>why</td><td>w𝕙ȳ</td><td>why</td><td>w𝕙ȳ</td><td>adv. 为什么<br>n. 原因, 理由</td></tr>
 <tr><td>wick</td><td>wick</td><td>wick</td><td>wick</td><td>n. 灯芯</td></tr>
 <tr><td>wicked</td><td>wickėd</td><td>wick-ed</td><td>wick-ėd</td><td>a. 邪恶的, 坏的, 淘气的</td></tr>
-<tr><td>wicket</td><td>wicke̊t</td><td>wick-et</td><td>wick-e̊t</td><td>n. 小门, 边门, 售票窗</td></tr>
+<tr><td>wicket</td><td>wickėt</td><td>wick-et</td><td>wick-ėt</td><td>n. 小门, 边门, 售票窗</td></tr>
 <tr><td>wicking</td><td>wicking</td><td>wick-ing</td><td>wick-ing</td><td>n. 灯芯材料</td></tr>
 <tr><td>wickeder</td><td>wickėde̊r</td><td>wick-ed-er</td><td>wick-ėd-e̊r</td><td></td></tr>
-<tr><td>wickedest</td><td>wickėdest</td><td>wick-ed-est</td><td>wick-ėd-est</td><td>a. 最邪恶的( wicked的最高级)</td></tr>
+<tr><td>wickedest</td><td>wickėdėst</td><td>wick-ed-est</td><td>wick-ėd-ėst</td><td>a. 最邪恶的( wicked的最高级)</td></tr>
 <tr><td>wickedly</td><td>wickėdlẏ</td><td>wick-ed-ly</td><td>wick-ėd-lẏ</td><td>adv. 邪恶地, 恶劣地</td></tr>
-<tr><td>wickedness</td><td>wicke̊dne̊ss</td><td>wick-ed-ness</td><td>wick-e̊d-ne̊ss</td><td>n. 邪恶, 不道德</td></tr>
+<tr><td>wickedness</td><td>wickėdnėss</td><td>wick-ed-ness</td><td>wick-ėd-nėss</td><td>n. 邪恶, 不道德</td></tr>
 <tr><td>wicker</td><td>wicke̊r</td><td>wicker</td><td>wicke̊r</td><td>n. 柳条, 编织材料<br>a. 柳条编的</td></tr>
 <tr><td>widow</td><td>widōw</td><td>wid-ow</td><td>wid-ōw</td><td>n. 寡妇<br>vt. 使丧偶</td></tr>
 <tr><td>widowed</td><td>widōw𝕖d</td><td>wid-ow-ed</td><td>wid-ōw-𝕖d</td><td>a. 丧偶的</td></tr>
@@ -859,26 +859,26 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wiggly</td><td>wigglẏ</td><td>wigg-ly</td><td>wigg-lẏ</td><td>a. 左右摇摆的, 蠕动的, 起伏的</td></tr>
 <tr><td>wigs</td><td>wigṡ</td><td>wig-s</td><td>wig-ṡ</td><td></td></tr>
 <tr><td>wigwag</td><td>wigwag</td><td>wig-wag</td><td>wig-wag</td><td>v. 摇动, 摆动</td></tr>
-<tr><td>wigwam</td><td>wigwàm</td><td>wig-wam</td><td>wig-wàm</td><td>n. 活动棚屋, 简陋小屋</td></tr>
+<tr><td>wigwam</td><td>wigwam</td><td>wig-wam</td><td>wig-wam</td><td>n. 活动棚屋, 简陋小屋</td></tr>
 <tr><td>wiggy</td><td>wiggẏ</td><td>wigg-y</td><td>wigg-ẏ</td><td>a. 疯疯癫癫的, 古怪的</td></tr>
 <tr><td>bigwig</td><td>bigwig</td><td>big-wig</td><td>big-wig</td><td>n. 要人, 大亨</td></tr>
 <tr><td>widgeon</td><td>widg𝕖o̊n</td><td>widge-on</td><td>widg𝕖-o̊n</td><td>n. 野鸭, 赤颈凫</td></tr>
 <tr><td>wigeon</td><td>wig𝕖o̊n</td><td>wige-on</td><td>wig𝕖-o̊n</td><td>n. 赤颈鸭, 野鸭</td></tr>
-<tr><td>wiki</td><td>wikĩ</td><td>wiki</td><td>wikĩ</td><td>n. 维基, 百科网站</td></tr>
+<tr><td>wiki</td><td>wiki</td><td>wiki</td><td>wiki</td><td>n. 维基, 百科网站</td></tr>
 <tr><td>wild</td><td>wīld</td><td>wild</td><td>wīld</td><td>a. 野生的, 野蛮的, 狂热的<br>n. 荒野</td></tr>
 <tr><td>WildAid</td><td></td><td>Wild-Aid</td><td></td><td>n. 野生救援(环保组织)</td></tr>
 <tr><td>wildcat</td><td>wīldcat</td><td>wild-cat</td><td>wīld-cat</td><td>n. 野猫, 鲁莽的人<br>a. 非法经营的, 盲目开垦的</td></tr>
 <tr><td>wilder</td><td>wīlde̊r</td><td>wild-er</td><td>wīld-e̊r</td><td></td></tr>
 <tr><td>wildest</td><td>wīldėst</td><td>wild-est</td><td>wīld-ėst</td><td></td></tr>
 <tr><td>wildfire</td><td>wīldfīre</td><td>wild-fire</td><td>wīld-fīre</td><td>n. 野火</td></tr>
-<tr><td>wildland</td><td>wīldland</td><td>wild-land</td><td>wīld-land</td><td>n. 荒地, 野地</td></tr>
+<tr><td>wildland</td><td>wīldlånd</td><td>wild-land</td><td>wīld-lånd</td><td>n. 荒地, 野地</td></tr>
 <tr><td>wildlife</td><td>wīldlīfe</td><td>wild-life</td><td>wīld-līfe</td><td>n. 野生动植物</td></tr>
 <tr><td>wildly</td><td>wīldlẏ</td><td>wild-ly</td><td>wīld-lẏ</td><td>adv. 疯狂地, 狂热地, 激动地</td></tr>
-<tr><td>wildness</td><td>wīldne̊ss</td><td>wild-ness</td><td>wīld-ne̊ss</td><td>n. 野生, 野性, 率直</td></tr>
+<tr><td>wildness</td><td>wīldnėss</td><td>wild-ness</td><td>wīld-nėss</td><td>n. 野生, 野性, 率直</td></tr>
 <tr><td>wildwood</td><td>wīldwood</td><td>wild-wood</td><td>wīld-wood</td><td>n. 天然林</td></tr>
 <tr><td>wildcatter</td><td>wīldcatte̊r</td><td>wild-catt-er</td><td>wīld-catt-e̊r</td><td>n. 冒险性企业的发起人</td></tr>
 <tr><td>wildflower</td><td>wīldflòwe̊r</td><td>wild-flow-er</td><td>wīld-flòw-e̊r</td><td>n. 野花</td></tr>
-<tr><td>wilderness</td><td>wilde̊rne̊ss</td><td>wild-er-ness</td><td>wild-e̊r-ne̊ss</td><td>n. 荒野, 荒地, 茫茫一片</td></tr>
+<tr><td>wilderness</td><td>wilde̊rnėss</td><td>wild-er-ness</td><td>wild-e̊r-nėss</td><td>n. 荒野, 荒地, 茫茫一片</td></tr>
 <tr><td>wildernesses</td><td>wilde̊rnėssėṡ</td><td>wild-er-ness-es</td><td>wild-e̊r-nėss-ėṡ</td><td></td></tr>
 <tr><td>bewilder</td><td>bėwilde̊r</td><td>be-wild-er</td><td>bė-wild-e̊r</td><td>vt. 使迷惑, 使不知所措</td></tr>
 <tr><td>bewildered</td><td>bėwilde̊r𝕖d</td><td>be-wild-er-ed</td><td>bė-wild-e̊r-𝕖d</td><td>a. 困惑的, 不知所措的</td></tr>
@@ -889,7 +889,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wily</td><td>wīlẏ</td><td>wil-y</td><td>wīl-ẏ</td><td>a. 狡猾的, 诡计多端的</td></tr>
 <tr><td>wiliness</td><td>wīlinėss</td><td>wil-i-ness</td><td>wīl-i-nėss</td><td>n. 狡猾, 诡计多端</td></tr>
 <tr><td>will</td><td>will</td><td>will</td><td>will</td><td>n. 意志, 决心, 遗嘱<br>vt. 决意, 立遗嘱<br>aux. 将, 愿意, 必须</td></tr>
-<tr><td>wilful</td><td>wilfùl</td><td>wil-ful</td><td>wil-fùl</td><td>a. 故意的, 任性的</td></tr>
+<tr><td>wilful</td><td>wilfůl</td><td>wil-ful</td><td>wil-fůl</td><td>a. 故意的, 任性的</td></tr>
 <tr><td>willful</td><td>willfůl</td><td>will-ful</td><td>will-fůl</td><td>a. 故意的, 任性的, 固执的</td></tr>
 <tr><td>willing</td><td>willing</td><td>will-ing</td><td>will-ing</td><td>a. 乐意的, 自愿的</td></tr>
 <tr><td>willy-nilly</td><td>willẏ-nillẏ</td><td>willy-nilly</td><td>willẏ-nillẏ</td><td>a. 不可避免的, 不管愿不愿意的</td></tr>
@@ -899,7 +899,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wilfully</td><td>wilfůllẏ</td><td>wil-ful-ly</td><td>wil-fůl-lẏ</td><td>adv. 任性固执地; 蓄意地</td></tr>
 <tr><td>willfully</td><td>willfůllẏ</td><td>will-ful-ly</td><td>will-fůl-lẏ</td><td>adv. 故意地, 任性固执地</td></tr>
 <tr><td>willingly</td><td>willinglẏ</td><td>will-ing-ly</td><td>will-ing-lẏ</td><td>adv. 自愿地, 欣然地</td></tr>
-<tr><td>willfulness</td><td>willfùlne̊ss</td><td>will-ful-ness</td><td>will-fùl-ne̊ss</td><td>n. 任性；故意</td></tr>
+<tr><td>willfulness</td><td>willfůlnėss</td><td>will-ful-ness</td><td>will-fůl-nėss</td><td>n. 任性；故意</td></tr>
 <tr><td>willingness</td><td>willingnėss</td><td>will-ing-ness</td><td>will-ing-nėss</td><td>n. 乐意, 愿意</td></tr>
 <tr><td>willowy</td><td>willōwẏ</td><td>will-ow-y</td><td>will-ōw-ẏ</td><td>a. 像柳树的, 苗条的, 柔软的, 优雅的</td></tr>
 <tr><td>unwilling</td><td>ûnwilling</td><td>un-will-ing</td><td>ûn-will-ing</td><td>a. 不愿意的, 勉强的</td></tr>
@@ -920,8 +920,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>winning</td><td>winning</td><td>winn-ing</td><td>winn-ing</td><td>n. 胜利, 获得, 成功<br>a. 得胜的, 胜利的</td></tr>
 <tr><td>winless</td><td>winlėss</td><td>win-less</td><td>win-lėss</td><td>a. 未获胜的, 一场未赢的</td></tr>
 <tr><td>wins</td><td>winṡ</td><td>win-s</td><td>win-ṡ</td><td></td></tr>
-<tr><td>winsome</td><td>winso̊me</td><td>win-some</td><td>win-so̊me</td><td>a. 引人注目的, 迷人的, 可爱的</td></tr>
-<tr><td>winningest</td><td>winninge̊st</td><td>winn-ing-est</td><td>winn-ing-e̊st</td><td>a. 赢得最多比赛的, 最有胜算的</td></tr>
+<tr><td>winsome</td><td>winsôme</td><td>win-some</td><td>win-sôme</td><td>a. 引人注目的, 迷人的, 可爱的</td></tr>
+<tr><td>winningest</td><td>winningėst</td><td>winn-ing-est</td><td>winn-ing-ėst</td><td>a. 赢得最多比赛的, 最有胜算的</td></tr>
 <tr><td>winningly</td><td>winninglẏ</td><td>winn-ing-ly</td><td>winn-ing-lẏ</td><td>adv. 娇媚地；迷人地</td></tr>
 <tr><td>winners</td><td>winne̊rṡ</td><td>winn-er-s</td><td>winn-e̊r-ṡ</td><td></td></tr>
 <tr><td>winnings</td><td>winningṡ</td><td>winn-ing-s</td><td>winn-ing-ṡ</td><td>n. 赢得的钱</td></tr>
@@ -935,10 +935,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>windblown</td><td>windblōwn</td><td>wind-blown</td><td>wind-blōwn</td><td>a. 被风吹的</td></tr>
 <tr><td>windbreak</td><td>windbreāk</td><td>wind-break</td><td>wind-breāk</td><td>n. 防风林, 防风物</td></tr>
 <tr><td>winded</td><td>windėd</td><td>wind-ed</td><td>wind-ėd</td><td>a. 喘不过气的, 气喘吁吁的</td></tr>
-<tr><td>winder</td><td>winde̊r</td><td>wind-er</td><td>wind-e̊r</td><td>n. 卷绕器, 上发条的装置</td></tr>
+<tr><td>winder</td><td>wīnde̊r</td><td>wind-er</td><td>wīnd-e̊r</td><td>n. 卷绕器, 上发条的装置</td></tr>
 <tr><td>windfall</td><td>windfãll</td><td>wind-fall</td><td>wind-fãll</td><td>n. 意外之财, 横财</td></tr>
 <tr><td>winding</td><td>winding</td><td>wind-ing</td><td>wind-ing</td><td>a. 蜿蜒的, 卷绕的<br>n. 绕, 弯曲</td></tr>
-<tr><td>windlass</td><td>windlåss</td><td>wind-lass</td><td>wind-låss</td><td>n. 绞盘, 辘轳<br>vt. 用绞盘吊起</td></tr>
+<tr><td>windlass</td><td>windlass</td><td>wind-lass</td><td>wind-lass</td><td>n. 绞盘, 辘轳<br>vt. 用绞盘吊起</td></tr>
 <tr><td>windless</td><td>windlėss</td><td>wind-less</td><td>wind-lėss</td><td>a. 无风的, 平静的</td></tr>
 <tr><td>windmill</td><td>windmill</td><td>wind-mill</td><td>wind-mill</td><td>n. 风车</td></tr>
 <tr><td>window</td><td>windōw</td><td>wind-ow</td><td>wind-ōw</td><td>n. 窗户, 窗口</td></tr>
@@ -948,7 +948,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>winds</td><td>windṡ</td><td>wind-s</td><td>wind-ṡ</td><td></td></tr>
 <tr><td>windscreen</td><td>windscrēen</td><td>wind-screen</td><td>wind-scrēen</td><td>n. 汽车的挡风玻璃</td></tr>
 <tr><td>windshield</td><td>windshiēld</td><td>wind-shield</td><td>wind-shiēld</td><td>n. 挡风玻璃</td></tr>
-<tr><td>windsock</td><td>wīndsock</td><td>wind-sock</td><td>wīnd-sock</td><td>n. 风向袋, 风向标</td></tr>
+<tr><td>windsock</td><td>windsock</td><td>wind-sock</td><td>wind-sock</td><td>n. 风向袋, 风向标</td></tr>
 <tr><td>windstorm</td><td>windstorm</td><td>wind-storm</td><td>wind-storm</td><td>n. 暴风</td></tr>
 <tr><td>windsurf</td><td>windsůrf</td><td>wind-surf</td><td>wind-sůrf</td><td>v. 帆板冲浪</td></tr>
 <tr><td>windswept</td><td>windswept</td><td>wind-swept</td><td>wind-swept</td><td>a. 被风吹扫的, 风蚀的</td></tr>
@@ -959,18 +959,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>windowed</td><td>windōw𝕖d</td><td>wind-ow-ed</td><td>wind-ōw-𝕖d</td><td>a. 有窗的</td></tr>
 <tr><td>windsurfer</td><td>windsůrfe̊r</td><td>wind-surf-er</td><td>wind-sůrf-e̊r</td><td>n. 帆板运动员</td></tr>
 <tr><td>windsurfing</td><td>windsůrfing</td><td>wind-surf-ing</td><td>wind-sůrf-ing</td><td>n. 帆板运动</td></tr>
-<tr><td>windowless</td><td>windōwle̊ss</td><td>wind-ow-less</td><td>wind-ōw-le̊ss</td><td>a. 无窗的</td></tr>
+<tr><td>windowless</td><td>windōwlėss</td><td>wind-ow-less</td><td>wind-ōw-lėss</td><td>a. 无窗的</td></tr>
 <tr><td>windowpane</td><td>windōwpāne</td><td>wind-ow-pane</td><td>wind-ōw-pāne</td><td>n. 窗玻璃</td></tr>
 <tr><td>windows</td><td>windōwṡ</td><td>wind-ow-s</td><td>wind-ōw-ṡ</td><td></td></tr>
 <tr><td>windowsill</td><td>windōwsill</td><td>wind-ow-sill</td><td>wind-ōw-sill</td><td>n. 窗台</td></tr>
 <tr><td>windshields</td><td>windshiēldṡ</td><td>wind-shield-s</td><td>wind-shiēld-ṡ</td><td></td></tr>
-<tr><td>rewind</td><td>rēwīnd</td><td>re-wind</td><td>rē-wīnd</td><td>vt. 倒带, 重绕<br>n. 倒带</td></tr>
+<tr><td>rewind</td><td>rėwīnd</td><td>re-wind</td><td>rė-wīnd</td><td>vt. 倒带, 重绕<br>n. 倒带</td></tr>
 <tr><td>unwind</td><td>ûnwīnd</td><td>un-wind</td><td>ûn-wīnd</td><td>v. 解开, 放松</td></tr>
 <tr><td>unwinding</td><td>ûnwīnding</td><td>un-wind-ing</td><td>ûn-wīnd-ing</td><td>v. 展开, 放松</td></tr>
 <tr><td>wine</td><td>wīne</td><td>wine</td><td>wīne</td><td>n. 葡萄酒, 果酒<br>v. 请...喝酒</td></tr>
 <tr><td>winery</td><td>wīne̊rẏ</td><td>win-ery</td><td>wīn-e̊rẏ</td><td>n. 葡萄酒厂, 酿酒厂</td></tr>
-<tr><td>wineglass</td><td>wīn𝕖glass</td><td>wine-glass</td><td>wīn𝕖-glass</td><td>n. 酒杯</td></tr>
-<tr><td>wino</td><td>wĩnō</td><td>win-o</td><td>wĩn-ō</td><td>n. 醉鬼, 酒鬼</td></tr>
+<tr><td>wineglass</td><td>wīn𝕖glàss</td><td>wine-glass</td><td>wīn𝕖-glàss</td><td>n. 酒杯</td></tr>
+<tr><td>wino</td><td>wīnō</td><td>win-o</td><td>wīn-ō</td><td>n. 醉鬼, 酒鬼</td></tr>
 <tr><td>wines</td><td>wīn𝕖ṡ</td><td>wine-s</td><td>wīn𝕖-ṡ</td><td></td></tr>
 <tr><td>wineshop</td><td>wīn𝕖shop</td><td>wine-shop</td><td>wīn𝕖-shop</td><td>n. 酒馆</td></tr>
 <tr><td>wineskin</td><td>wīn𝕖skin</td><td>wine-skin</td><td>wīn𝕖-skin</td><td>n. 酒囊</td></tr>
@@ -988,8 +988,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wingspan</td><td>wingspan</td><td>wing-span</td><td>wing-span</td><td>n. 翼展</td></tr>
 <tr><td>wingspread</td><td>wingsprèad</td><td>wing-spread</td><td>wing-sprèad</td><td>n. 翼展</td></tr>
 <tr><td>wingtip</td><td>wingtip</td><td>wing-tip</td><td>wing-tip</td><td>n. 翼尖, 翼梢</td></tr>
-<tr><td>forewing</td><td>forewing</td><td>fore-wing</td><td>fore-wing</td><td>n. 前翅</td></tr>
-<tr><td>lacewing</td><td>lācewing</td><td>lace-wing</td><td>lāce-wing</td><td>n. 草蛉</td></tr>
+<tr><td>forewing</td><td>for𝕖wing</td><td>fore-wing</td><td>for𝕖-wing</td><td>n. 前翅</td></tr>
+<tr><td>lacewing</td><td>lāc𝕖wing</td><td>lace-wing</td><td>lāc𝕖-wing</td><td>n. 草蛉</td></tr>
 <tr><td>underwing</td><td>ûnde̊rwing</td><td>under-wing</td><td>ûnde̊r-wing</td><td>n. 后翅, 后翅色彩瑰丽的蛾</td></tr>
 <tr><td>waxwing</td><td>waxwing</td><td>wax-wing</td><td>wax-wing</td><td>n. 朱缘蜡翅鸟</td></tr>
 <tr><td>wink</td><td>wink</td><td>wink</td><td>wink</td><td>n. 眨眼, 使眼色<br>vi. 眨眼, 使眼色</td></tr>
@@ -1022,10 +1022,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wireless</td><td>wīr𝕖lėss</td><td>wire-less</td><td>wīr𝕖-lėss</td><td>n. 无线电<br>a. 无线的, 无线电的</td></tr>
 <tr><td>wires</td><td>wīr𝕖ṡ</td><td>wire-s</td><td>wīr𝕖-ṡ</td><td></td></tr>
 <tr><td>wiretap</td><td>wīr𝕖tap</td><td>wire-tap</td><td>wīr𝕖-tap</td><td>n. 窃听<br>v. 搭线窃听</td></tr>
-<tr><td>wiry</td><td>wirẏ</td><td>wir-y</td><td>wir-ẏ</td><td>a. 结实瘦削的, 金属丝般的</td></tr>
+<tr><td>wiry</td><td>wīrẏ</td><td>wir-y</td><td>wīr-ẏ</td><td>a. 结实瘦削的, 金属丝般的</td></tr>
 <tr><td>wiretapped</td><td>wīr𝕖tapp𝕖ḋ</td><td>wire-tapp-ed</td><td>wīr𝕖-tapp-𝕖ḋ</td><td>v. 搭线窃听</td></tr>
 <tr><td>wiretapping</td><td>wīr𝕖tapping</td><td>wire-tapp-ing</td><td>wīr𝕖-tapp-ing</td><td>n. 窃听电话</td></tr>
-<tr><td>wirephoto</td><td>wīre̊phōtō</td><td>wire-phot-o</td><td>wīre̊-phōt-ō</td><td>n. 有线传真照片</td></tr>
+<tr><td>wirephoto</td><td>wīr𝕖phōtō</td><td>wire-phot-o</td><td>wīr𝕖-phōt-ō</td><td>n. 有线传真照片</td></tr>
 <tr><td>barbwire</td><td>bàrbwīre</td><td>barb-wire</td><td>bàrb-wīre</td><td>n. 带刺铁丝</td></tr>
 <tr><td>nanowire</td><td>nanōwīre</td><td>nano-wire</td><td>nanō-wīre</td><td>n. 纳米线</td></tr>
 <tr><td>rewire</td><td>rėwīre</td><td>re-wire</td><td>rė-wīre</td><td>vt. 重接电线, 再配线</td></tr>
@@ -1033,8 +1033,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unwired</td><td>ûnwīr𝕖d</td><td>un-wir-ed</td><td>ûn-wīr-𝕖d</td><td>v. 拆除线路 (unwire的过去式和过去分词)<br>a. 无线的</td></tr>
 <tr><td>newswire</td><td>new̄ṡwīre</td><td>new-s-wire</td><td>new̄-ṡ-wīre</td><td>n. 新闻专线</td></tr>
 <tr><td>wise</td><td>wīse</td><td>wise</td><td>wīse</td><td>a. 聪明的, 明智的, 英明的</td></tr>
-<tr><td>wiseacre</td><td>wīṡeācre̊</td><td>wise-acre</td><td>wīṡe-ācre̊</td><td>n. 自以为聪明者, 自以为无所不知的人</td></tr>
-<tr><td>wiseass</td><td>wīseass</td><td>wise-ass</td><td>wīse-ass</td><td>n. 自作聪明的人</td></tr>
+<tr><td>wiseacre</td><td>wīṡ𝕖ācre</td><td>wise-acre</td><td>wīṡ𝕖-ācre</td><td>n. 自以为聪明者, 自以为无所不知的人</td></tr>
+<tr><td>wiseass</td><td>wīṡ𝕖ass</td><td>wise-ass</td><td>wīṡ𝕖-ass</td><td>n. 自作聪明的人</td></tr>
 <tr><td>wizard</td><td>wizård</td><td>wiz-ard</td><td>wiz-ård</td><td>n. 巫师, 奇才</td></tr>
 <tr><td>wisecrack</td><td>wīṡ𝕖crack</td><td>wise-crack</td><td>wīṡ𝕖-crack</td><td>n. 俏皮话<br>v. 说俏皮话</td></tr>
 <tr><td>wisdom</td><td>wiṡdo̊m</td><td>wis-dom</td><td>wiṡ-do̊m</td><td>n. 智慧, 明智行为, 学识, 贤人, 至理名言</td></tr>
@@ -1058,11 +1058,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wisp</td><td>wisp</td><td>wisp</td><td>wisp</td><td>n. 一缕, 一小束</td></tr>
 <tr><td>wispy</td><td>wispẏ</td><td>wisp-y</td><td>wisp-ẏ</td><td>a. 细微的, 飘渺的</td></tr>
 <tr><td>wistful</td><td>wistfůl</td><td>wist-ful</td><td>wist-fůl</td><td>a. 渴望的, 想望的</td></tr>
-<tr><td>wisteria</td><td>wiste̊riå</td><td>wist-er-ia</td><td>wist-e̊r-iå</td><td>n. 紫藤</td></tr>
+<tr><td>wisteria</td><td>wistēriå</td><td>wist-er-ia</td><td>wist-ēr-iå</td><td>n. 紫藤</td></tr>
 <tr><td>wistfully</td><td>wistfůllẏ</td><td>wist-ful-ly</td><td>wist-fůl-lẏ</td><td>adv. 惆怅地, 渴望地</td></tr>
-<tr><td>wistfulness</td><td>wistfůlne̊ss</td><td>wist-ful-ness</td><td>wist-fůl-ne̊ss</td><td>n. 惆怅, 渴望, 思念</td></tr>
+<tr><td>wistfulness</td><td>wistfůlnėss</td><td>wist-ful-ness</td><td>wist-fůl-nėss</td><td>n. 惆怅, 渴望, 思念</td></tr>
 <tr><td>wit</td><td>wit</td><td>wit</td><td>wit</td><td>n. 智力, 才智, 机智, 风趣</td></tr>
-<tr><td>witless</td><td>witle̊ss</td><td>wit-less</td><td>wit-le̊ss</td><td>a. 愚蠢的, 无知的</td></tr>
+<tr><td>witless</td><td>witlėss</td><td>wit-less</td><td>wit-lėss</td><td>a. 愚蠢的, 无知的</td></tr>
 <tr><td>witling</td><td>witling</td><td>wit-ling</td><td>wit-ling</td><td>n. 自作聪明的人</td></tr>
 <tr><td>witness</td><td>witnėss</td><td>wit-ness</td><td>wit-nėss</td><td>n. 证人, 目击者, 证据<br>vt. 目击, 作证, 证明</td></tr>
 <tr><td>witty</td><td>wittẏ</td><td>witt-y</td><td>witt-ẏ</td><td>a. 机智的, 诙谐的</td></tr>
@@ -1071,8 +1071,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>witnessed</td><td>witnėss𝕖ḋ</td><td>wit-ness-ed</td><td>wit-nėss-𝕖ḋ</td><td></td></tr>
 <tr><td>witnesses</td><td>witnėssėṡ</td><td>wit-ness-es</td><td>wit-nėss-ėṡ</td><td></td></tr>
 <tr><td>witticism</td><td>witticiṡm</td><td>witt-ic-ism</td><td>witt-ic-iṡm</td><td>n. 妙语, 俏皮话</td></tr>
-<tr><td>witnessing</td><td>witne̊ssing</td><td>wit-ness-ing</td><td>wit-ne̊ss-ing</td><td>n. 作证, 见证<br>v. 目击, 见证 (witness的现在分词)</td></tr>
-<tr><td>wittily</td><td>witti̊lẏ</td><td>witt-i-ly</td><td>witt-i̊-lẏ</td><td>adv. 机智地, 俏皮地</td></tr>
+<tr><td>witnessing</td><td>witnėssing</td><td>wit-ness-ing</td><td>wit-nėss-ing</td><td>n. 作证, 见证<br>v. 目击, 见证 (witness的现在分词)</td></tr>
+<tr><td>wittily</td><td>wittilẏ</td><td>witt-i-ly</td><td>witt-i-lẏ</td><td>adv. 机智地, 俏皮地</td></tr>
 <tr><td>wittingly</td><td>wittinglẏ</td><td>witt-ing-ly</td><td>witt-ing-lẏ</td><td>adv. 有意地, 存心地</td></tr>
 <tr><td>nitwit</td><td>nitwit</td><td>nit-wit</td><td>nit-wit</td><td>n. 笨人, 傻子</td></tr>
 <tr><td>unwitting</td><td>ûnwitting</td><td>un-witt-ing</td><td>ûn-witt-ing</td><td>a. 不知情的, 无意的</td></tr>
@@ -1090,21 +1090,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>withal</td><td>wiṫhãl</td><td>with-al</td><td>wiṫh-ãl</td><td>adv. 此外, 而且</td></tr>
 <tr><td>withdraw</td><td>wiṫhdrãw</td><td>with-draw</td><td>wiṫh-drãw</td><td>vt. 收回, 取消, 撤回, 使退出, 撤离, 拉开<br>vi. 撤退, 离开</td></tr>
 <tr><td>wither</td><td>wiṫhe̊r</td><td>with-er</td><td>wiṫh-e̊r</td><td>v. 枯萎, 衰退</td></tr>
-<tr><td>withheld</td><td>withheld</td><td>with-held</td><td>with-held</td><td>v. 保留, 扣留 (withhold的过去式和过去分词)</td></tr>
-<tr><td>withhold</td><td>withhōld</td><td>with-hold</td><td>with-hōld</td><td>vt. 扣留, 保留, 拒给</td></tr>
+<tr><td>withheld</td><td>wiṫhheld</td><td>with-held</td><td>wiṫh-held</td><td>v. 保留, 扣留 (withhold的过去式和过去分词)</td></tr>
+<tr><td>withhold</td><td>wiṫhhōld</td><td>with-hold</td><td>wiṫh-hōld</td><td>vt. 扣留, 保留, 拒给</td></tr>
 <tr><td>within</td><td>wiṫhin</td><td>with-in</td><td>wiṫh-in</td><td>prep. 在...之内, 在...内部<br>adv. 在内部</td></tr>
 <tr><td>without</td><td>wiṫhòut</td><td>with-out</td><td>wiṫh-òut</td><td>prep. 没有, 不, 在...之外<br>adv. 在外面</td></tr>
 <tr><td>withstand</td><td>wiṫhstand</td><td>with-stand</td><td>wiṫh-stand</td><td>vt. 抵挡, 经得住, 经得起</td></tr>
-<tr><td>withdrawal</td><td>wiṫhdrãwål</td><td>with-draw-al</td><td>wiṫh-drãw-ål</td><td>n. 撤退, 提款, 取消</td></tr>
+<tr><td>withdrawal</td><td>withdrãwål</td><td>with-draw-al</td><td>with-drãw-ål</td><td>n. 撤退, 提款, 取消</td></tr>
 <tr><td>withered</td><td>wiṫhe̊r𝕖d</td><td>with-er-ed</td><td>wiṫh-e̊r-𝕖d</td><td>a. 枯萎的, 干瘪的</td></tr>
 <tr><td>withering</td><td>wiṫhe̊ring</td><td>with-er-ing</td><td>wiṫh-e̊r-ing</td><td>a. 使干枯的, 使萎缩的, 令人难堪的</td></tr>
-<tr><td>withholding</td><td>withhōlding</td><td>with-hold-ing</td><td>with-hōld-ing</td><td>n. 扣缴税款</td></tr>
+<tr><td>withholding</td><td>wiṫhhōlding</td><td>with-hold-ing</td><td>wiṫh-hōld-ing</td><td>n. 扣缴税款</td></tr>
 <tr><td>withers</td><td>wiṫhe̊rṡ</td><td>with-er-s</td><td>wiṫh-e̊r-ṡ</td><td>n. 马肩隆(马肩骨间的隆起部)</td></tr>
 <tr><td>witheringly</td><td>wiṫhe̊ringlẏ</td><td>with-er-ing-ly</td><td>wiṫh-e̊r-ing-lẏ</td><td>adv. 令人难堪地, 使人窘迫地</td></tr>
 <tr><td>wittgensteinian</td><td>wittge̊nsteīniån</td><td>witt-gen-stein-ian</td><td>witt-ge̊n-steīn-iån</td><td>a. 维特根斯坦的, 维特根斯坦哲学的</td></tr>
 <tr><td>wiz</td><td>wiz</td><td>wiz</td><td>wiz</td><td>n. 奇才, 专家, 行家</td></tr>
-<tr><td>wizen</td><td>wīze̊n</td><td>wiz-en</td><td>wīz-e̊n</td><td>a. 枯萎的, 皱缩的</td></tr>
-<tr><td>wizened</td><td>wīze̊n𝕖d</td><td>wiz-en-ed</td><td>wīz-e̊n-𝕖d</td><td>a. 干瘪的, 枯萎的, 干枯的</td></tr>
+<tr><td>wizen</td><td>wize̊n</td><td>wiz-en</td><td>wiz-e̊n</td><td>a. 枯萎的, 皱缩的</td></tr>
+<tr><td>wizened</td><td>wize̊n𝕖d</td><td>wiz-en-ed</td><td>wiz-e̊n-𝕖d</td><td>a. 干瘪的, 枯萎的, 干枯的</td></tr>
 <tr><td>woad</td><td>wōad</td><td>woad</td><td>wōad</td><td>n. 菘蓝(植物)</td></tr>
 <tr><td>wobble</td><td>wobble</td><td>wob-ble</td><td>wob-ble</td><td>n. 摇晃, 不稳定<br>v. 摇晃, 摇摆</td></tr>
 <tr><td>wobbling</td><td>wobbling</td><td>wob-bl-ing</td><td>wob-bl-ing</td><td>a. 摇摆的, 颤动的</td></tr>
@@ -1131,15 +1131,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wonderment</td><td>wônde̊rme̊nt</td><td>wond-er-ment</td><td>wônd-e̊r-me̊nt</td><td>n. 惊奇, 惊叹</td></tr>
 <tr><td>wondrous</td><td>wôndro̊us</td><td>wond-r-ous</td><td>wônd-r-o̊us</td><td>a. 奇妙的, 令人惊奇的<br>adv. 极其, 非常</td></tr>
 <tr><td>wonders</td><td>wônde̊rṡ</td><td>wond-er-s</td><td>wônd-e̊r-ṡ</td><td></td></tr>
-<tr><td>wonderfully</td><td>wônde̊rfûllẏ</td><td>wond-er-ful-ly</td><td>wônd-e̊r-fûl-lẏ</td><td>adv. 极好地, 精彩地</td></tr>
+<tr><td>wonderfully</td><td>wônde̊rfůllẏ</td><td>wond-er-ful-ly</td><td>wônd-e̊r-fůl-lẏ</td><td>adv. 极好地, 精彩地</td></tr>
 <tr><td>wonderingly</td><td>wônde̊ringlẏ</td><td>wond-er-ing-ly</td><td>wônd-e̊r-ing-lẏ</td><td>adv. 惊讶地, 好奇地</td></tr>
 <tr><td>wondrously</td><td>wôndro̊uslẏ</td><td>wond-r-ous-ly</td><td>wônd-r-o̊us-lẏ</td><td>adv. 惊奇地, 非常</td></tr>
-<tr><td>wonderfulness</td><td>wônde̊rfûlne̊ss</td><td>wond-er-ful-ness</td><td>wônd-e̊r-fûl-ne̊ss</td><td>n. 极好, 精彩</td></tr>
+<tr><td>wonderfulness</td><td>wônde̊rfůlnėss</td><td>wond-er-ful-ness</td><td>wônd-e̊r-fůl-nėss</td><td>n. 极好, 精彩</td></tr>
 <tr><td>wonk</td><td>wonk</td><td>wonk</td><td>wonk</td><td>n. 书呆子, 用功过度的学生</td></tr>
 <tr><td>wonky</td><td>wonkẏ</td><td>wonk-y</td><td>wonk-ẏ</td><td>a. 不稳的, 摇晃的, 靠不住的</td></tr>
-<tr><td>wont</td><td>wōnt</td><td>wont</td><td>wōnt</td><td>n. 习惯<br>a. 惯于...的</td></tr>
-<tr><td>wonton</td><td>wonton</td><td>wont-on</td><td>wont-on</td><td>n. 馄饨</td></tr>
-<tr><td>unwonted</td><td>ûnwo̊ntėd</td><td>un-wont-ed</td><td>ûn-wo̊nt-ėd</td><td>a. 不习惯的, 不寻常的</td></tr>
+<tr><td>wont</td><td>wont</td><td>wont</td><td>wont</td><td>n. 习惯<br>a. 惯于...的</td></tr>
+<tr><td>wonton</td><td>wonto̊n</td><td>wont-on</td><td>wont-o̊n</td><td>n. 馄饨</td></tr>
+<tr><td>unwonted</td><td>ûnwontėd</td><td>un-wont-ed</td><td>ûn-wont-ėd</td><td>a. 不习惯的, 不寻常的</td></tr>
 <tr><td>woo</td><td>woo</td><td>woo</td><td>woo</td><td>vt. 追求, 恳求</td></tr>
 <tr><td>wooing</td><td>wooing</td><td>woo-ing</td><td>woo-ing</td><td>v. （向女子）求爱, 求婚( woo的现在分词 ); （尤用于报纸）争取得到…的支持</td></tr>
 <tr><td>wood</td><td>wood</td><td>wood</td><td>wood</td><td>n. 木头, 木材, 树林</td></tr>
@@ -1147,15 +1147,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>woodbox</td><td>woodbox</td><td>wood-box</td><td>wood-box</td><td>n. 木柴箱</td></tr>
 <tr><td>woodchuck</td><td>woodchûck</td><td>wood-chuck</td><td>wood-chûck</td><td>n. 土拨鼠</td></tr>
 <tr><td>woodcock</td><td>woodcock</td><td>wood-cock</td><td>wood-cock</td><td>n. 鹬鸟</td></tr>
-<tr><td>woodcraft</td><td>woodcraft</td><td>wood-craft</td><td>wood-craft</td><td>n. 森林生活技巧, 木工技术</td></tr>
+<tr><td>woodcraft</td><td>woodcràft</td><td>wood-craft</td><td>wood-cràft</td><td>n. 森林生活技巧, 木工技术</td></tr>
 <tr><td>woodcut</td><td>woodcût</td><td>wood-cut</td><td>wood-cût</td><td>n. 木刻, 木刻印版</td></tr>
 <tr><td>wooded</td><td>woodėd</td><td>wood-ed</td><td>wood-ėd</td><td>a. 树木繁茂的</td></tr>
 <tr><td>wooden</td><td>woode̊n</td><td>wood-en</td><td>wood-e̊n</td><td>a. 木制的, 呆笨的, 木然的</td></tr>
-<tr><td>woodland</td><td>woodland</td><td>wood-land</td><td>wood-land</td><td>n. 林区, 林地</td></tr>
+<tr><td>woodland</td><td>woodlånd</td><td>wood-land</td><td>wood-lånd</td><td>n. 林区, 林地</td></tr>
 <tr><td>woodlot</td><td>woodlot</td><td>wood-lot</td><td>wood-lot</td><td>n. 林地, 柴林</td></tr>
 <tr><td>woodpile</td><td>woodpīle</td><td>wood-pile</td><td>wood-pīle</td><td>n. 木料堆</td></tr>
 <tr><td>woods</td><td>woodṡ</td><td>wood-s</td><td>wood-ṡ</td><td></td></tr>
-<tr><td>woodshed</td><td>woodsh𝕖d</td><td>wood-shed</td><td>wood-sh𝕖d</td><td>n. 柴房</td></tr>
+<tr><td>woodshed</td><td>woodshed</td><td>wood-shed</td><td>wood-shed</td><td>n. 柴房</td></tr>
 <tr><td>woodstove</td><td>woodstōve</td><td>wood-stove</td><td>wood-stōve</td><td>n. 柴火炉, 燃木炉</td></tr>
 <tr><td>woodwind</td><td>woodwind</td><td>wood-wind</td><td>wood-wind</td><td>n. 木管乐器</td></tr>
 <tr><td>woodwork</td><td>woodwo̊rk</td><td>wood-work</td><td>wood-wo̊rk</td><td>n. 木制品, 木工</td></tr>
@@ -1170,8 +1170,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>woodcutting</td><td>woodcûtting</td><td>wood-cutt-ing</td><td>wood-cûtt-ing</td><td>n. 伐木, 木刻  a. 木雕的</td></tr>
 <tr><td>woodworking</td><td>woodwo̊rking</td><td>wood-work-ing</td><td>wood-wo̊rk-ing</td><td>n. 木工</td></tr>
 <tr><td>woodenly</td><td>woode̊nlẏ</td><td>wood-en-ly</td><td>wood-e̊n-lẏ</td><td>adv. 笨拙地, 呆板地</td></tr>
-<tr><td>woodsman</td><td>woodṡman</td><td>wood-s-man</td><td>wood-ṡ-man</td><td>n. 樵夫, 伐木工</td></tr>
-<tr><td>woodsy</td><td>woodṡẏ</td><td>wood-s-y</td><td>wood-ṡ-ẏ</td><td>a. 森林的, 多树木的</td></tr>
+<tr><td>woodsman</td><td>woodṡmån</td><td>wood-s-man</td><td>wood-ṡ-mån</td><td>n. 樵夫, 伐木工</td></tr>
+<tr><td>woodsy</td><td>woodsẏ</td><td>wood-s-y</td><td>wood-s-ẏ</td><td>a. 森林的, 多树木的</td></tr>
 <tr><td>basswood</td><td>basswood</td><td>bass-wood</td><td>bass-wood</td><td>n. 椴木</td></tr>
 <tr><td>bentwood</td><td>bentwood</td><td>bent-wood</td><td>bent-wood</td><td>a. 弯木制的</td></tr>
 <tr><td>boxwood</td><td>boxwood</td><td>box-wood</td><td>box-wood</td><td>n. 黄杨木</td></tr>
@@ -1193,11 +1193,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wooly</td><td>woolẏ</td><td>wool-y</td><td>wool-ẏ</td><td>a. 毛茸茸的, 羊毛状的</td></tr>
 <tr><td>woolens</td><td>woole̊nṡ</td><td>wool-en-s</td><td>wool-e̊n-ṡ</td><td>n. 毛织品, 毛料衣服</td></tr>
 <tr><td>woozy</td><td>woozẏ</td><td>wooz-y</td><td>wooz-ẏ</td><td>a. 头昏眼花的, 眩晕的</td></tr>
-<tr><td>woozily</td><td>woozĩlẏ</td><td>wooz-i-ly</td><td>wooz-ĩ-lẏ</td><td>adv. 昏昏沉沉地, 软弱无力地</td></tr>
+<tr><td>woozily</td><td>woozilẏ</td><td>wooz-i-ly</td><td>wooz-i-lẏ</td><td>adv. 昏昏沉沉地, 软弱无力地</td></tr>
 <tr><td>wop</td><td>wop</td><td>wop</td><td>wop</td><td>n. 意大利裔（贬义俚语）</td></tr>
 <tr><td>word</td><td>wo̊rd</td><td>word</td><td>wo̊rd</td><td>n. 词, 话, 消息, 诺言<br>vt. 用言辞表达</td></tr>
 <tr><td>wording</td><td>wo̊rding</td><td>word-ing</td><td>wo̊rd-ing</td><td>n. 用词, 措词</td></tr>
-<tr><td>wordless</td><td>wo̊rdle̊ss</td><td>word-less</td><td>wo̊rd-le̊ss</td><td>a. 沉默的, 无言的</td></tr>
+<tr><td>wordless</td><td>wo̊rdlėss</td><td>word-less</td><td>wo̊rd-lėss</td><td>a. 沉默的, 无言的</td></tr>
 <tr><td>wordplay</td><td>wo̊rdplāy</td><td>word-play</td><td>wo̊rd-plāy</td><td>n. 文字游戏, 双关语</td></tr>
 <tr><td>words</td><td>wo̊rdṡ</td><td>word-s</td><td>wo̊rd-ṡ</td><td></td></tr>
 <tr><td>wordsmith</td><td>wo̊rdsmith</td><td>word-smith</td><td>wo̊rd-smith</td><td>n. 擅长文字的人, 舞文弄墨者；作家</td></tr>
@@ -1205,7 +1205,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wordlessly</td><td>wo̊rdlėsslẏ</td><td>word-less-ly</td><td>wo̊rd-lėss-lẏ</td><td>adv. 默默无言地, 沉默地</td></tr>
 <tr><td>wordsworthian</td><td>wo̊rdṡwo̊rthiån</td><td>word-s-worth-ian</td><td>wo̊rd-ṡ-wo̊rth-iån</td><td>a. 华兹华斯式的, 华兹华斯的</td></tr>
 <tr><td>byword</td><td>bȳwo̊rd</td><td>by-word</td><td>bȳ-wo̊rd</td><td>n. 谚语, 俗话, 代名词</td></tr>
-<tr><td>foreword</td><td>forewo̊rd</td><td>fore-word</td><td>fore-wo̊rd</td><td>n. 前言, 序</td></tr>
+<tr><td>foreword</td><td>for𝕖wo̊rd</td><td>fore-word</td><td>for𝕖-wo̊rd</td><td>n. 前言, 序</td></tr>
 <tr><td>keyword</td><td>kēywo̊rd</td><td>key-word</td><td>kēy-wo̊rd</td><td>n. 关键字, 关键词</td></tr>
 <tr><td>reword</td><td>rėwo̊rd</td><td>re-word</td><td>rė-wo̊rd</td><td>vt. 重述, 改说</td></tr>
 <tr><td>work</td><td>wo̊rk</td><td>work</td><td>wo̊rk</td><td>n. 工作, 劳动, 职业, 作品<br>vi. 工作, 运转<br>vt. 使工作, 经营</td></tr>
@@ -1216,10 +1216,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>workday</td><td>wo̊rkdāy</td><td>work-day</td><td>wo̊rk-dāy</td><td>n. 工作日, 工作时间</td></tr>
 <tr><td>worked</td><td>wo̊rk𝕖ḋ</td><td>work-ed</td><td>wo̊rk-𝕖ḋ</td><td>v. 工作, 劳动<br>v. 加工, 塑造</td></tr>
 <tr><td>worker</td><td>wo̊rke̊r</td><td>work-er</td><td>wo̊rk-e̊r</td><td>n. 工人, 劳动者</td></tr>
-<tr><td>workfare</td><td>wo̊rkfare</td><td>work-fare</td><td>wo̊rk-fare</td><td>n. 工作福利制</td></tr>
+<tr><td>workfare</td><td>wo̊rkfāre</td><td>work-fare</td><td>wo̊rk-fāre</td><td>n. 工作福利制</td></tr>
 <tr><td>workflow</td><td>wo̊rkflōw</td><td>work-flow</td><td>wo̊rk-flōw</td><td>n. 工作流程</td></tr>
 <tr><td>workforce</td><td>wo̊rkforce</td><td>work-force</td><td>wo̊rk-force</td><td>n. 劳动力, 职工总数</td></tr>
-<tr><td>workgroup</td><td>wo̊rkgroùp</td><td>work-group</td><td>wo̊rk-groùp</td><td>n. 工作组</td></tr>
+<tr><td>workgroup</td><td>wo̊rkgroūp</td><td>work-group</td><td>wo̊rk-groūp</td><td>n. 工作组</td></tr>
 <tr><td>workhorse</td><td>wo̊rkhorse</td><td>work-horse</td><td>wo̊rk-horse</td><td>n. 驮马, 骨干工作者</td></tr>
 <tr><td>workhouse</td><td>wo̊rkhòuse</td><td>work-house</td><td>wo̊rk-hòuse</td><td>n. 济贫院, 感化院</td></tr>
 <tr><td>working</td><td>wo̊rking</td><td>work-ing</td><td>wo̊rk-ing</td><td>n. 工作, 运转, 劳动<br>a. 工作的, 劳动的, 经营的, 抽搐的, 运转的</td></tr>
@@ -1238,11 +1238,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>workweek</td><td>wo̊rkwēek</td><td>work-week</td><td>wo̊rk-wēek</td><td>n. 一星期工作时间</td></tr>
 <tr><td>workability</td><td>wo̊rkåbilitẏ</td><td>work-abil-ity</td><td>wo̊rk-åbil-itẏ</td><td>n. 可行性, 可加工性</td></tr>
 <tr><td>workaholic</td><td>wo̊rkåholic</td><td>work-ahol-ic</td><td>wo̊rk-åhol-ic</td><td>n. 工作狂</td></tr>
-<tr><td>workaholism</td><td>wo̊rkåholiṡm</td><td>work-ahol-ism</td><td>wo̊rk-åhol-iṡm</td><td>n. 工作狂, 过度沉迷工作</td></tr>
+<tr><td>workaholism</td><td>wo̊rkåhōliṡm</td><td>work-ahol-ism</td><td>wo̊rk-åhōl-iṡm</td><td>n. 工作狂, 过度沉迷工作</td></tr>
 <tr><td>workstation</td><td>wo̊rkstātio̊n</td><td>work-stat-ion</td><td>wo̊rk-stāt-io̊n</td><td>n. 工作站</td></tr>
-<tr><td>workmanlike</td><td>wo̊rkmanlīke</td><td>work-man-like</td><td>wo̊rk-man-līke</td><td>a. 熟练的, 精巧的</td></tr>
+<tr><td>workmanlike</td><td>wo̊rkmånlīke</td><td>work-man-like</td><td>wo̊rk-mån-līke</td><td>a. 熟练的, 精巧的</td></tr>
 <tr><td>worktable</td><td>wo̊rktāble</td><td>work-tab-le</td><td>wo̊rk-tāb-le</td><td>n. 工作台</td></tr>
-<tr><td>workingman</td><td>wo̊rkingman</td><td>work-ing-man</td><td>wo̊rk-ing-man</td><td>n. 劳动者, 工人</td></tr>
+<tr><td>workingman</td><td>wo̊rkingmån</td><td>work-ing-man</td><td>wo̊rk-ing-mån</td><td>n. 劳动者, 工人</td></tr>
 <tr><td>workers</td><td>wo̊rke̊rṡ</td><td>work-er-s</td><td>wo̊rk-e̊r-ṡ</td><td></td></tr>
 <tr><td>workmanship</td><td>wo̊rkmånship</td><td>work-man-ship</td><td>wo̊rk-mån-ship</td><td>n. 手艺, 技巧</td></tr>
 <tr><td>workouts</td><td>wo̊rkòuts</td><td>work-out-s</td><td>wo̊rk-òut-s</td><td></td></tr>
@@ -1264,10 +1264,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>waxwork</td><td>waxwo̊rk</td><td>wax-work</td><td>wax-wo̊rk</td><td>n. 蜡制品, 蜡像</td></tr>
 <tr><td>basketwork</td><td>bàskėtwo̊rk</td><td>bask-et-work</td><td>bàsk-ėt-wo̊rk</td><td>n. 编织物</td></tr>
 <tr><td>busywork</td><td>bu̇ṡẏwo̊rk</td><td>bus-y-work</td><td>bu̇ṡ-ẏ-wo̊rk</td><td>n. 为免学生空闲而布置的作业</td></tr>
-<tr><td>masterwork</td><td>maste̊rwo̊rk</td><td>mast-er-work</td><td>mast-e̊r-wo̊rk</td><td>n. 杰作, 名作</td></tr>
+<tr><td>masterwork</td><td>màste̊rwo̊rk</td><td>mast-er-work</td><td>màst-e̊r-wo̊rk</td><td>n. 杰作, 名作</td></tr>
 <tr><td>camerawork</td><td>came̊råwo̊rk</td><td>cam-er-a-work</td><td>cam-e̊r-å-wo̊rk</td><td>n. 摄影技巧</td></tr>
-<tr><td>overwrought</td><td>ōve̊r𝕨rōught</td><td>over-wrought</td><td>ōve̊r-𝕨rōught</td><td>a. 过度紧张的, 神经质的</td></tr>
-<tr><td>wrought</td><td>𝕨rōught</td><td>wrought</td><td>𝕨rōught</td><td>a. 精制的, 锻造的</td></tr>
+<tr><td>overwrought</td><td>ōve̊r𝕨rōu𝕘𝕙t</td><td>over-wrought</td><td>ōve̊r-𝕨rōu𝕘𝕙t</td><td>a. 过度紧张的, 神经质的</td></tr>
+<tr><td>wrought</td><td>𝕨rōu𝕘𝕙t</td><td>wrought</td><td>𝕨rōu𝕘𝕙t</td><td>a. 精制的, 锻造的</td></tr>
 <tr><td>world</td><td>wo̊rld</td><td>world</td><td>wo̊rld</td><td>n. 世界, 地球, 世人, 领域</td></tr>
 <tr><td>world-class</td><td></td><td>world-class</td><td></td><td>a. 世界级的</td></tr>
 <tr><td>worldly</td><td>wo̊rldlẏ</td><td>world-ly</td><td>wo̊rld-lẏ</td><td>a. 世俗的, 世故的</td></tr>
@@ -1276,15 +1276,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>world-wide</td><td>wo̊rld-wīde</td><td>world-wide</td><td>wo̊rld-wīde</td><td>a. 遍及全球的, 世界范围的</td></tr>
 <tr><td>worldwide</td><td>wo̊rldwīde</td><td>world-wide</td><td>wo̊rld-wīde</td><td>a. 全世界的, 世界范围的<br>adv. 在全世界</td></tr>
 <tr><td>world-beater</td><td></td><td>world-beat-er</td><td></td><td>n. 举世无双的人</td></tr>
-<tr><td>worldliness</td><td>wo̊rldline̊ss</td><td>world-li-ness</td><td>wo̊rld-li-ne̊ss</td><td>n. 世俗, 世故</td></tr>
+<tr><td>worldliness</td><td>wo̊rldlinėss</td><td>world-li-ness</td><td>wo̊rld-li-nėss</td><td>n. 世俗, 世故</td></tr>
 <tr><td>world-famous</td><td></td><td>world-fam-ous</td><td></td><td>a. 举世闻名的</td></tr>
-<tr><td>lifeworld</td><td>līfewo̊rld</td><td>life-world</td><td>līfe-wo̊rld</td><td>n. 生活世界</td></tr>
+<tr><td>lifeworld</td><td>līf𝕖wo̊rld</td><td>life-world</td><td>līf𝕖-wo̊rld</td><td>n. 生活世界</td></tr>
 <tr><td>microworld</td><td>mīcrōwo̊rld</td><td>micro-world</td><td>mīcrō-wo̊rld</td><td>n. 微观世界</td></tr>
 <tr><td>netherworld</td><td>neṫhe̊rwo̊rld</td><td>nether-world</td><td>neṫhe̊r-wo̊rld</td><td>n. 阴间, 下层社会</td></tr>
 <tr><td>underworld</td><td>ûnde̊rwo̊rld</td><td>under-world</td><td>ûnde̊r-wo̊rld</td><td>n. 黑社会, 阴间</td></tr>
 <tr><td>unworldly</td><td>ûnwo̊rldlẏ</td><td>un-world-ly</td><td>ûn-wo̊rld-lẏ</td><td>a. 超凡的, 天真的</td></tr>
 <tr><td>worm</td><td>wo̊rm</td><td>worm</td><td>wo̊rm</td><td>n. 虫, 蚯蚓, 可怜虫<br>vi. 蠕动, 慢慢探得</td></tr>
-<tr><td>wormhole</td><td>wo̊rmhole</td><td>worm-hole</td><td>wo̊rm-hole</td><td>n. 蛀孔, 蛀洞</td></tr>
+<tr><td>wormhole</td><td>wo̊rmhōle</td><td>worm-hole</td><td>wo̊rm-hōle</td><td>n. 蛀孔, 蛀洞</td></tr>
 <tr><td>wormlike</td><td>wo̊rmlīke</td><td>worm-like</td><td>wo̊rm-līke</td><td>a. 虫状的, 蠕虫似的</td></tr>
 <tr><td>worms</td><td>wo̊rmṡ</td><td>worm-s</td><td>wo̊rm-ṡ</td><td></td></tr>
 <tr><td>wormwood</td><td>wo̊rmwood</td><td>worm-wood</td><td>wo̊rm-wood</td><td>n. 苦艾, 苦恼</td></tr>
@@ -1295,12 +1295,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>worries</td><td>wôrri𝕖ṡ</td><td>worr-ies</td><td>wôrr-i𝕖ṡ</td><td></td></tr>
 <tr><td>worrying</td><td>wôrrẏing</td><td>worry-ing</td><td>wôrrẏ-ing</td><td>a. 使人烦恼的, 忧虑重重的</td></tr>
 <tr><td>worrywart</td><td>wôrrẏwãrt</td><td>worry-wart</td><td>wôrrẏ-wãrt</td><td>n. 自寻烦恼的人</td></tr>
-<tr><td>worried</td><td>wôrrĩ𝕖d</td><td>worr-i-ed</td><td>wôrr-ĩ-𝕖d</td><td>a. 担心的, 焦虑的</td></tr>
-<tr><td>worrier</td><td>wôrriēr</td><td>worr-i-er</td><td>wôrr-i-ēr</td><td>n. 爱担忧的人</td></tr>
-<tr><td>worrisome</td><td>wôrrĩso̊me</td><td>worr-i-some</td><td>wôrr-ĩ-so̊me</td><td>a. 令人担忧的, 令人烦恼的</td></tr>
-<tr><td>worriedly</td><td>wôrriēdlẏ</td><td>worr-i-ed-ly</td><td>wôrr-i-ēd-lẏ</td><td>adv. 担心地, 焦虑地</td></tr>
-<tr><td>unworried</td><td>ûnwôrrĩ𝕖d</td><td>un-worr-i-ed</td><td>ûn-wôrr-ĩ-𝕖d</td><td>a. 不担忧的, 放心的</td></tr>
-<tr><td>wort</td><td>wo̊rt</td><td>wort</td><td>wo̊rt</td><td>n. 麦芽汁</td></tr>
+<tr><td>worried</td><td>wôrri𝕖d</td><td>worr-i-ed</td><td>wôrr-i-𝕖d</td><td>a. 担心的, 焦虑的</td></tr>
+<tr><td>worrier</td><td>wôrrie̊r</td><td>worr-i-er</td><td>wôrr-i-e̊r</td><td>n. 爱担忧的人</td></tr>
+<tr><td>worrisome</td><td>wôrrisôme</td><td>worr-i-some</td><td>wôrr-i-sôme</td><td>a. 令人担忧的, 令人烦恼的</td></tr>
+<tr><td>worriedly</td><td>wôrri𝕖dlẏ</td><td>worr-i-ed-ly</td><td>wôrr-i-𝕖d-lẏ</td><td>adv. 担心地, 焦虑地</td></tr>
+<tr><td>unworried</td><td>ûnwôrri𝕖d</td><td>un-worr-i-ed</td><td>ûn-wôrr-i-𝕖d</td><td>a. 不担忧的, 放心的</td></tr>
+<tr><td>wort</td><td>wort</td><td>wort</td><td>wort</td><td>n. 麦芽汁</td></tr>
 <tr><td>worth</td><td>wo̊rth</td><td>worth</td><td>wo̊rth</td><td>n. 价值<br>a. 值...的, 值得的</td></tr>
 <tr><td>worthless</td><td>wo̊rthlėss</td><td>worth-less</td><td>wo̊rth-lėss</td><td>a. 无价值的, 无益的</td></tr>
 <tr><td>worship</td><td>wo̊rship</td><td>wor-ship</td><td>wo̊r-ship</td><td>n. 崇拜, 礼拜, 尊敬<br>vt. 崇拜, 尊敬<br>vi. 做礼拜</td></tr>
@@ -1309,23 +1309,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>worthier</td><td>wo̊rṫhie̊r</td><td>worth-i-er</td><td>wo̊rṫh-i-e̊r</td><td></td></tr>
 <tr><td>worthiest</td><td>wo̊rṫhiėst</td><td>worth-i-est</td><td>wo̊rṫh-i-ėst</td><td></td></tr>
 <tr><td>worshiped</td><td>wo̊rship𝕖ḋ</td><td>wor-ship-ed</td><td>wo̊r-ship-𝕖ḋ</td><td></td></tr>
-<tr><td>worshiper</td><td>wo̊rshi̊pe̊r</td><td>wor-ship-er</td><td>wo̊r-shi̊p-e̊r</td><td>n. 参加礼拜者, 崇拜者</td></tr>
-<tr><td>worshipper</td><td>wo̊rshi̊ppe̊r</td><td>wor-shipp-er</td><td>wo̊r-shi̊pp-e̊r</td><td>n. 崇拜者, 礼拜者</td></tr>
-<tr><td>worshipful</td><td>wo̊rshi̊pfůl</td><td>wor-ship-ful</td><td>wo̊r-shi̊p-fůl</td><td>a. 崇拜的, 虔敬的</td></tr>
-<tr><td>worshiping</td><td>wo̊rshi̊ping</td><td>wor-ship-ing</td><td>wo̊r-shi̊p-ing</td><td>v. 崇拜, 做礼拜</td></tr>
-<tr><td>worthiness</td><td>wo̊rṫhĩnėss</td><td>worth-i-ness</td><td>wo̊rṫh-ĩ-nėss</td><td>n. 价值, 相当, 值得</td></tr>
-<tr><td>worthlessness</td><td>wo̊rthle̊ssne̊ss</td><td>worth-less-ness</td><td>wo̊rth-le̊ss-ne̊ss</td><td>n. 无价值, 没用</td></tr>
+<tr><td>worshiper</td><td>wo̊rshipe̊r</td><td>wor-ship-er</td><td>wo̊r-ship-e̊r</td><td>n. 参加礼拜者, 崇拜者</td></tr>
+<tr><td>worshipper</td><td>wo̊rshippe̊r</td><td>wor-shipp-er</td><td>wo̊r-shipp-e̊r</td><td>n. 崇拜者, 礼拜者</td></tr>
+<tr><td>worshipful</td><td>wo̊rshipfůl</td><td>wor-ship-ful</td><td>wo̊r-ship-fůl</td><td>a. 崇拜的, 虔敬的</td></tr>
+<tr><td>worshiping</td><td>wo̊rshiping</td><td>wor-ship-ing</td><td>wo̊r-ship-ing</td><td>v. 崇拜, 做礼拜</td></tr>
+<tr><td>worthiness</td><td>wo̊rṫhinėss</td><td>worth-i-ness</td><td>wo̊rṫh-i-nėss</td><td>n. 价值, 相当, 值得</td></tr>
+<tr><td>worthlessness</td><td>wo̊rthlėssnėss</td><td>worth-less-ness</td><td>wo̊rth-lėss-nėss</td><td>n. 无价值, 没用</td></tr>
 <tr><td>worships</td><td>wo̊rships</td><td>wor-ship-s</td><td>wo̊r-ship-s</td><td></td></tr>
-<tr><td>worshipfully</td><td>wo̊rshi̊pfůllẏ</td><td>wor-ship-ful-ly</td><td>wo̊r-shi̊p-fůl-lẏ</td><td>adv. 崇拜地, 虔诚地</td></tr>
-<tr><td>noteworthy</td><td>nōtewo̊rṫhẏ</td><td>note-worth-y</td><td>nōte-wo̊rṫh-ẏ</td><td>a. 值得注意的, 显著的</td></tr>
+<tr><td>worshipfully</td><td>wo̊rshipfůllẏ</td><td>wor-ship-ful-ly</td><td>wo̊r-ship-fůl-lẏ</td><td>adv. 崇拜地, 虔诚地</td></tr>
+<tr><td>noteworthy</td><td>nōt𝕖wo̊rṫhẏ</td><td>note-worth-y</td><td>nōt𝕖-wo̊rṫh-ẏ</td><td>a. 值得注意的, 显著的</td></tr>
 <tr><td>unworthy</td><td>ûnwo̊rṫhẏ</td><td>un-worth-y</td><td>ûn-wo̊rṫh-ẏ</td><td>a. 不值得的, 无价值的</td></tr>
 <tr><td>unworthiness</td><td>ûnwo̊rṫhinėss</td><td>un-worth-i-ness</td><td>ûn-wo̊rṫh-i-nėss</td><td>n. 无价值, 不配得到, 不值得尊敬</td></tr>
 <tr><td>creditworthy</td><td>creditwo̊rṫhẏ</td><td>cred-it-worth-y</td><td>cred-it-wo̊rṫh-ẏ</td><td>a. 信用可靠的</td></tr>
 <tr><td>newsworthy</td><td>new̄ṡwo̊rṫhẏ</td><td>new-s-worth-y</td><td>new̄-ṡ-wo̊rṫh-ẏ</td><td>a. 有新闻价值的</td></tr>
 <tr><td>wot</td><td>wot</td><td>wot</td><td>wot</td><td>v. 知道（古语）</td></tr>
 <tr><td>wound</td><td>woūnd</td><td>wound</td><td>woūnd</td><td>n. 伤口, 创伤, 伤害<br>vt. 使受伤, 伤害</td></tr>
-<tr><td>wounded</td><td>woùndėd</td><td>wound-ed</td><td>woùnd-ėd</td><td>a. 受伤的<br>n. 伤员</td></tr>
-<tr><td>wounding</td><td>woùnding</td><td>wound-ing</td><td>woùnd-ing</td><td>a. 伤人的, 造成伤害的<br>n. 伤害, 伤人</td></tr>
+<tr><td>wounded</td><td>woūndėd</td><td>wound-ed</td><td>woūnd-ėd</td><td>a. 受伤的<br>n. 伤员</td></tr>
+<tr><td>wounding</td><td>woūnding</td><td>wound-ing</td><td>woūnd-ing</td><td>a. 伤人的, 造成伤害的<br>n. 伤害, 伤人</td></tr>
 <tr><td>wounds</td><td>woūndṡ</td><td>wound-s</td><td>woūnd-ṡ</td><td></td></tr>
 <tr><td>wow</td><td>wòw</td><td>wow</td><td>wòw</td><td>int. 哇, 呀<br>vt. 使惊叹, 使佩服</td></tr>
 <tr><td>wrack</td><td>𝕨rack</td><td>wrack</td><td>𝕨rack</td><td>n. 破坏, 失事船只</td></tr>
@@ -1340,20 +1340,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wrapping</td><td>𝕨rapping</td><td>wrapp-ing</td><td>𝕨rapp-ing</td><td>n. 包装材料, 包装纸</td></tr>
 <tr><td>wraps</td><td>𝕨raps</td><td>wrap-s</td><td>𝕨rap-s</td><td></td></tr>
 <tr><td>wrapt</td><td>𝕨rapt</td><td>wrap-t</td><td>𝕨rap-t</td><td></td></tr>
-<tr><td>wraparound</td><td>𝕨rapåroùnd</td><td>wrap-a-round</td><td>𝕨rap-å-roùnd</td><td>a. 裹身的<br>n. 披裹式衣服</td></tr>
-<tr><td>enwrap</td><td>ėn𝕨rap</td><td>en-wrap</td><td>ėn-𝕨rap</td><td>vt. 围绕, 包围</td></tr>
+<tr><td>wraparound</td><td>𝕨rapåròund</td><td>wrap-a-round</td><td>𝕨rap-å-ròund</td><td>a. 裹身的<br>n. 披裹式衣服</td></tr>
+<tr><td>enwrap</td><td>en𝕨rap</td><td>en-wrap</td><td>en-𝕨rap</td><td>vt. 围绕, 包围</td></tr>
 <tr><td>unwrap</td><td>ûn𝕨rap</td><td>un-wrap</td><td>ûn-𝕨rap</td><td>vt. 打开</td></tr>
 <tr><td>unwrapped</td><td>ûn𝕨rapp𝕖ḋ</td><td>un-wrapp-ed</td><td>ûn-𝕨rapp-𝕖ḋ</td><td>a. 解缠的</td></tr>
 <tr><td>wrasse</td><td>𝕨rasse</td><td>wrasse</td><td>𝕨rasse</td><td>n. 隆头鱼</td></tr>
 <tr><td>wrath</td><td>𝕨rath</td><td>wrath</td><td>𝕨rath</td><td>n. 愤怒, 狂怒</td></tr>
 <tr><td>wroth</td><td>𝕨roth</td><td>wroth</td><td>𝕨roth</td><td>a. 暴怒的, 极其愤怒的</td></tr>
-<tr><td>wrathful</td><td>𝕨rathfùl</td><td>wrath-ful</td><td>𝕨rath-fùl</td><td>a. 愤怒的, 怒气冲冲的</td></tr>
+<tr><td>wrathful</td><td>𝕨rathfůl</td><td>wrath-ful</td><td>𝕨rath-fůl</td><td>a. 愤怒的, 怒气冲冲的</td></tr>
 <tr><td>bewray</td><td>bė𝕨rāy</td><td>be-wray</td><td>bė-𝕨rāy</td><td>vt. 泄露, 暴露</td></tr>
 <tr><td>wreak</td><td>𝕨rēak</td><td>wreak</td><td>𝕨rēak</td><td>vt. 发泄, 造成(破坏等)</td></tr>
 <tr><td>wreath</td><td>𝕨rēath</td><td>wreath</td><td>𝕨rēath</td><td>n. 花圈, 花环</td></tr>
 <tr><td>wreathe</td><td>𝕨rēaṫhe</td><td>wreath-e</td><td>𝕨rēaṫh-e</td><td>vt. 编成花圈, 环绕, 盘绕<br>vi. 扭曲, 盘旋, 缭绕</td></tr>
 <tr><td>wreck</td><td>𝕨reck</td><td>wreck</td><td>𝕨reck</td><td>n. 失事, 残骸, 破坏<br>vt. 使失事, 破坏</td></tr>
-<tr><td>wreckage</td><td>𝕨reckåge</td><td>wreck-age</td><td>𝕨reck-åge</td><td>n. 残骸, 失事</td></tr>
+<tr><td>wreckage</td><td>𝕨reckȧge</td><td>wreck-age</td><td>𝕨reck-ȧge</td><td>n. 残骸, 失事</td></tr>
 <tr><td>wrecked</td><td>𝕨reck𝕖ḋ</td><td>wreck-ed</td><td>𝕨reck-𝕖ḋ</td><td>a. 失事的, 毁坏的</td></tr>
 <tr><td>wrecker</td><td>𝕨recke̊r</td><td>wreck-er</td><td>𝕨reck-e̊r</td><td>n. 拆毁者, 破坏者, 拖车</td></tr>
 <tr><td>wrecking</td><td>𝕨recking</td><td>wreck-ing</td><td>𝕨reck-ing</td><td>n. 破坏, 失事</td></tr>
@@ -1365,7 +1365,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wrestle</td><td>𝕨restle</td><td>wrest-le</td><td>𝕨rest-le</td><td>vi. 摔跤, 斗争<br>n. 摔跤</td></tr>
 <tr><td>wrestling</td><td>𝕨res𝕥ling</td><td>wrest-ling</td><td>𝕨res𝕥-ling</td><td>n. 摔跤</td></tr>
 <tr><td>wrestled</td><td>𝕨res𝕥l𝕖d</td><td>wrest-l-ed</td><td>𝕨res𝕥-l-𝕖d</td><td></td></tr>
-<tr><td>wrestler</td><td>𝕨restle̊r</td><td>wrest-l-er</td><td>𝕨rest-l-e̊r</td><td>n. 摔跤选手</td></tr>
+<tr><td>wrestler</td><td>𝕨res𝕥le̊r</td><td>wrest-l-er</td><td>𝕨res𝕥-l-e̊r</td><td>n. 摔跤选手</td></tr>
 <tr><td>wrestles</td><td>𝕨res𝕥l𝕖ṡ</td><td>wrest-le-s</td><td>𝕨res𝕥-l𝕖-ṡ</td><td></td></tr>
 <tr><td>wrestlers</td><td>𝕨restle̊rṡ</td><td>wrest-l-er-s</td><td>𝕨rest-l-e̊r-ṡ</td><td></td></tr>
 <tr><td>wretch</td><td>𝕨retch</td><td>wretch</td><td>𝕨retch</td><td>n. 可怜的人, 坏人</td></tr>
@@ -1383,7 +1383,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>wrinkling</td><td>𝕨rinkling</td><td>wrink-ling</td><td>𝕨rink-ling</td><td>v. 起皱, 起褶</td></tr>
 <tr><td>wrinkly</td><td>𝕨rinklẏ</td><td>wrink-ly</td><td>𝕨rink-lẏ</td><td>a. 有皱纹的, 易生皱纹的</td></tr>
 <tr><td>wrinkled</td><td>𝕨rinkl𝕖d</td><td>wrink-l-ed</td><td>𝕨rink-l-𝕖d</td><td>a. 有皱纹的</td></tr>
-<tr><td>unwrinkled</td><td>ûn𝕨rinkled</td><td>un-wrink-l-ed</td><td>ûn-𝕨rink-l-ed</td><td>a. 无皱褶的, 平滑的</td></tr>
+<tr><td>unwrinkled</td><td>ûn𝕨rinkl𝕖d</td><td>un-wrink-l-ed</td><td>ûn-𝕨rink-l-𝕖d</td><td>a. 无皱褶的, 平滑的</td></tr>
 <tr><td>wrist</td><td>𝕨rist</td><td>wrist</td><td>𝕨rist</td><td>n. 手腕, 腕关节</td></tr>
 <tr><td>wristband</td><td>𝕨ristband</td><td>wrist-band</td><td>𝕨rist-band</td><td>n. 腕带, 表带, 袖口</td></tr>
 <tr><td>wrists</td><td>𝕨rists</td><td>wrist-s</td><td>𝕨rist-s</td><td></td></tr>
@@ -1401,20 +1401,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>writings</td><td>𝕨rītingṡ</td><td>writ-ing-s</td><td>𝕨rīt-ing-ṡ</td><td></td></tr>
 <tr><td>overwrite</td><td>ōve̊r𝕨rīte</td><td>over-write</td><td>ōve̊r-𝕨rīte</td><td>v. 覆盖, 改写</td></tr>
 <tr><td>rewrite</td><td>rė𝕨rīte</td><td>re-write</td><td>rė-𝕨rīte</td><td>vt. 重写, 改写<br>n. 改写的作品</td></tr>
-<tr><td>rewritable</td><td>re𝕨rītåble</td><td>re-writ-able</td><td>re-𝕨rīt-åble</td><td>a. 可重写的, 可复写的</td></tr>
+<tr><td>rewritable</td><td>rė𝕨rītåble</td><td>re-writ-able</td><td>rė-𝕨rīt-åble</td><td>a. 可重写的, 可复写的</td></tr>
 <tr><td>rewriting</td><td>rė𝕨rīting</td><td>re-writ-ing</td><td>rė-𝕨rīt-ing</td><td>n. 重写, 改写</td></tr>
 <tr><td>underwrite</td><td>ûnde̊r𝕨rīte</td><td>under-write</td><td>ûnde̊r-𝕨rīte</td><td>vt. 承保, 签名保证</td></tr>
 <tr><td>underwriter</td><td>ûnde̊r𝕨rīte̊r</td><td>under-writ-er</td><td>ûnde̊r-𝕨rīt-e̊r</td><td>n. 承销商, 保险人</td></tr>
 <tr><td>unwritten</td><td>ûn𝕨ritte̊n</td><td>un-writt-en</td><td>ûn-𝕨ritt-e̊n</td><td>a. 未成文的, 口头的</td></tr>
 <tr><td>underwriting</td><td>ûnde̊r𝕨rīting</td><td>under-writ-ing</td><td>ûnde̊r-𝕨rīt-ing</td><td>n. 保险业, 证券包销</td></tr>
 <tr><td>copywriter</td><td>copẏ𝕨rīte̊r</td><td>cop-y-writ-er</td><td>cop-ẏ-𝕨rīt-e̊r</td><td>n. 广告文案撰写人</td></tr>
-<tr><td>writhe</td><td>𝕨rithe</td><td>writhe</td><td>𝕨rithe</td><td>v. 扭动, 翻滚(因痛苦)</td></tr>
+<tr><td>writhe</td><td>𝕨rīṫhe</td><td>writhe</td><td>𝕨rīṫhe</td><td>v. 扭动, 翻滚(因痛苦)</td></tr>
 <tr><td>writhing</td><td>𝕨rīṫhing</td><td>writh-ing</td><td>𝕨rīṫh-ing</td><td>v. 扭动, 翻滚(因痛苦)</td></tr>
 <tr><td>wrong</td><td>𝕨rong</td><td>wrong</td><td>𝕨rong</td><td>a. 错误的, 不正确的<br>adv. 错误地</td></tr>
 <tr><td>wronged</td><td>𝕨rong𝕖d</td><td>wrong-ed</td><td>𝕨rong-𝕖d</td><td>v. 冤枉, 委屈(wrong的过去式和过去分词)<br>a. 受委屈的, 受冤枉的</td></tr>
 <tr><td>wrongful</td><td>𝕨rongfůl</td><td>wrong-ful</td><td>𝕨rong-fůl</td><td>a. 不正当的, 不法的</td></tr>
 <tr><td>wrongly</td><td>𝕨ronglẏ</td><td>wrong-ly</td><td>𝕨rong-lẏ</td><td>adv. 错误地, 不公正地</td></tr>
-<tr><td>wrongness</td><td>𝕨ron𝕘nėss</td><td>wrong-ness</td><td>𝕨ron𝕘-nėss</td><td>n. 错误, 不当, 不公正</td></tr>
+<tr><td>wrongness</td><td>𝕨rongnėss</td><td>wrong-ness</td><td>𝕨rong-nėss</td><td>n. 错误, 不当, 不公正</td></tr>
 <tr><td>wrongdoer</td><td>𝕨rongdõe̊r</td><td>wrong-do-er</td><td>𝕨rong-dõ-e̊r</td><td>n. 做坏事的人</td></tr>
 <tr><td>wrongheaded</td><td>𝕨ronghèadėd</td><td>wrong-head-ed</td><td>𝕨rong-hèad-ėd</td><td>a. 坚持错误的, 固执的</td></tr>
 <tr><td>wrongdoing</td><td>𝕨rongdõing</td><td>wrong-do-ing</td><td>𝕨rong-dõ-ing</td><td>n. 坏事, 不法行为</td></tr>

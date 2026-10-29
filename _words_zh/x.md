@@ -20,15 +20,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 </thead>
 <tbody>
 <tr><td>x-ray</td><td>x-rāy</td><td></td><td></td><td>n. X射线, X光</td></tr>
-<tr><td>zeaxanthin</td><td>zēåxanthin</td><td>zea-xanth-in</td><td>zēå-xanth-in</td><td>n. 玉米黄质</td></tr>
+<tr><td>zeaxanthin</td><td>zēaxanthin</td><td>zea-xanth-in</td><td>zēa-xanth-in</td><td>n. 玉米黄质</td></tr>
 <tr><td>xenon</td><td>xēnon</td><td>xenon</td><td>xēnon</td><td>n. 氙(化学元素Xe)</td></tr>
 <tr><td>xeric</td><td>xėric</td><td>xer-ic</td><td>xėr-ic</td><td>a. 干旱的, 环境干燥的, 耐旱的, 沙漠般的</td></tr>
-<tr><td>xerophyte</td><td>xe̊rōphȳte</td><td>xer-o-phyte</td><td>xe̊r-ō-phȳte</td><td>n. 旱生植物</td></tr>
+<tr><td>xerophyte</td><td>xēro̊phȳte</td><td>xer-o-phyte</td><td>xēr-o̊-phȳte</td><td>n. 旱生植物</td></tr>
 <tr><td>xerox</td><td>xērox</td><td>xerox</td><td>xērox</td><td>n. 复印件<br>v. 静电复印</td></tr>
 <tr><td>xeroxed</td><td>xērox𝕖ḋ</td><td>xerox-ed</td><td>xērox-𝕖ḋ</td><td>vt. 复印, 影印</td></tr>
-<tr><td>xylem</td><td>xȳlem</td><td>xyl-em</td><td>xȳl-em</td><td>n. 木质部</td></tr>
+<tr><td>xylem</td><td>xȳle̊m</td><td>xyl-em</td><td>xȳl-e̊m</td><td>n. 木质部</td></tr>
 <tr><td>xylene</td><td>xȳlēne</td><td>xyl-ene</td><td>xȳl-ēne</td><td>n. 二甲苯</td></tr>
-<tr><td>hematoxylin</td><td>hēmåtoxẏlin</td><td>hemat-o-xyl-in</td><td>hēmåt-o-xẏl-in</td><td>n. 苏木精</td></tr>
+<tr><td>hematoxylin</td><td>hemåtoxẏlin</td><td>hemat-o-xyl-in</td><td>hemåt-o-xẏl-in</td><td>n. 苏木精</td></tr>
 </tbody>
 </table>
 </div>

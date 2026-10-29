@@ -19,12 +19,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><th>单词</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>释义</th></tr>
 </thead>
 <tbody>
-<tr><td>ya</td><td>yà</td><td>ya</td><td>yà</td><td>pron. 你(口语)</td></tr>
+<tr><td>ya</td><td>yå</td><td>ya</td><td>yå</td><td>pron. 你(口语)</td></tr>
 <tr><td>yacht</td><td>yàcht</td><td>yacht</td><td>yàcht</td><td>n. 快艇, 游艇<br>vi. 驾游艇, 乘游艇</td></tr>
 <tr><td>yachting</td><td>yàchting</td><td>yacht-ing</td><td>yàcht-ing</td><td>n. 帆船运动, 游艇驾驶</td></tr>
 <tr><td>yachtsman</td><td>yàchtsmån</td><td>yacht-s-man</td><td>yàcht-s-mån</td><td>n. 游艇驾驶者, 游艇所有者</td></tr>
 <tr><td>yah</td><td>yà𝕙</td><td>yah</td><td>yà𝕙</td><td>int. 呀(表示嘲笑或轻蔑)</td></tr>
-<tr><td>yahoo</td><td>yàhoo</td><td>yahoo</td><td>yàhoo</td><td>n. 粗汉, 粗鄙的人</td></tr>
+<tr><td>yahoo</td><td>yahoo</td><td>yahoo</td><td>yahoo</td><td>n. 粗汉, 粗鄙的人</td></tr>
 <tr><td>yak</td><td>yak</td><td>yak</td><td>yak</td><td>n. 牦牛<br>vi. 喋喋不休</td></tr>
 <tr><td>yakuza</td><td>yakūzå</td><td>yakuza</td><td>yakūzå</td><td>n. 日本黑帮, 极道</td></tr>
 <tr><td>Yale</td><td>Yāle</td><td>Yale</td><td>Yāle</td><td>n. 耶鲁(美国大学)</td></tr>
@@ -45,9 +45,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yardstick</td><td>yàrdstick</td><td>yard-stick</td><td>yàrd-stick</td><td>n. 衡量标准, 准绳</td></tr>
 <tr><td>junkyard</td><td>jûnkyàrd</td><td>junk-yard</td><td>jûnk-yàrd</td><td>n. 废品场, 旧货栈</td></tr>
 <tr><td>lumberyard</td><td>lûmbe̊ryàrd</td><td>lumb-er-yard</td><td>lûmb-e̊r-yàrd</td><td>n. 木材堆放场, 木材厂</td></tr>
-<tr><td>yarmulke</td><td>yàrmûlke̊</td><td>yarmulke</td><td>yàrmûlke̊</td><td>n. 犹太男子圆顶小帽</td></tr>
+<tr><td>yarmulke</td><td>yàrmůlke̊</td><td>yarmulke</td><td>yàrmůlke̊</td><td>n. 犹太男子圆顶小帽</td></tr>
 <tr><td>yarn</td><td>yàrn</td><td>yarn</td><td>yàrn</td><td>n. 纱线, 故事<br>v. 讲故事</td></tr>
-<tr><td>yarrow</td><td>yàrrōw</td><td>yarrow</td><td>yàrrōw</td><td>n. 蓍草</td></tr>
+<tr><td>yarrow</td><td>yarrōw</td><td>yarrow</td><td>yarrōw</td><td>n. 蓍草</td></tr>
 <tr><td>yaw</td><td>yãw</td><td>yaw</td><td>yãw</td><td>v. 偏航, 偏荡<br>n. 偏航, 摇摆</td></tr>
 <tr><td>yawl</td><td>yãwl</td><td>yawl</td><td>yãwl</td><td>n. 舰载小艇, 杂用船, 小帆船</td></tr>
 <tr><td>yawn</td><td>yãwn</td><td>yawn</td><td>yãwn</td><td>v. 打哈欠<br>n. 哈欠</td></tr>
@@ -55,15 +55,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yay</td><td>yāy</td><td>yay</td><td>yāy</td><td></td></tr>
 <tr><td>ye</td><td>yē</td><td>ye</td><td>yē</td><td>pron. 你, 你们(古语)</td></tr>
 <tr><td>yea</td><td>yeā</td><td>yea</td><td>yeā</td><td>n. 赞成, 肯定<br>adv. 是的, 而且</td></tr>
-<tr><td>yeah</td><td>yeah</td><td>yeah</td><td>yeah</td><td>adv. 是的, 对</td></tr>
+<tr><td>yeah</td><td>yèa𝕙</td><td>yeah</td><td>yèa𝕙</td><td>adv. 是的, 对</td></tr>
 <tr><td>yean</td><td>yēan</td><td>yean</td><td>yēan</td><td>v. 产仔(羊)</td></tr>
 <tr><td>yeanling</td><td>yēanling</td><td>yean-ling</td><td>yēan-ling</td><td>n. 小羊, 羊羔</td></tr>
 <tr><td>year</td><td>ye̊ar</td><td>year</td><td>ye̊ar</td><td>n. 年, 年度, 年龄</td></tr>
-<tr><td>yearbook</td><td>yēarbook</td><td>year-book</td><td>yēar-book</td><td>n. 年鉴, 年刊</td></tr>
+<tr><td>yearbook</td><td>ye̊arbook</td><td>year-book</td><td>ye̊ar-book</td><td>n. 年鉴, 年刊</td></tr>
 <tr><td>yearling</td><td>ye̊arling</td><td>year-ling</td><td>ye̊ar-ling</td><td>n. 一岁崽, 幼畜</td></tr>
 <tr><td>yearly</td><td>ye̊arlẏ</td><td>year-ly</td><td>ye̊ar-lẏ</td><td>a. 每年的, 一年一度的<br>adv. 每年, 一年一次</td></tr>
 <tr><td>years</td><td>ye̊arṡ</td><td>year-s</td><td>ye̊ar-ṡ</td><td></td></tr>
-<tr><td>yesteryear</td><td>yeste̊ryēar</td><td>yest-er-year</td><td>yest-e̊r-yēar</td><td>n. 去年, 往昔</td></tr>
+<tr><td>yesteryear</td><td>yeste̊rye̊ar</td><td>yest-er-year</td><td>yest-e̊r-ye̊ar</td><td>n. 去年, 往昔</td></tr>
 <tr><td>yearn</td><td>ye̊arn</td><td>yearn</td><td>ye̊arn</td><td>vi. 渴望, 想念</td></tr>
 <tr><td>yearning</td><td>ye̊arning</td><td>yearn-ing</td><td>ye̊arn-ing</td><td>n. 渴望, 向往<br>a. 渴望的, 向往的</td></tr>
 <tr><td>yeast</td><td>yēast</td><td>yeast</td><td>yēast</td><td>n. 酵母</td></tr>
@@ -86,17 +86,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yellowy</td><td>yellōwẏ</td><td>yell-ow-y</td><td>yell-ōw-ẏ</td><td>a. 淡黄色的, 带黄色的</td></tr>
 <tr><td>yelp</td><td>yelp</td><td>yelp</td><td>yelp</td><td>n. 尖声急叫, 狺吠, 叫喊声<br>vi. 尖声急叫, 叫吠, 叫喊<br>vt. 叫喊着说</td></tr>
 <tr><td>yelping</td><td>yelping</td><td>yelp-ing</td><td>yelp-ing</td><td>n. 狗吠声<br>v. 尖叫 (yelp的现在分词)</td></tr>
-<tr><td>yemeni</td><td>yeme̊nĩ</td><td>yemen-i</td><td>yeme̊n-ĩ</td><td>n. 也门人<br>a. 也门的</td></tr>
+<tr><td>yemeni</td><td>yemeni</td><td>yemen-i</td><td>yemen-i</td><td>n. 也门人<br>a. 也门的</td></tr>
 <tr><td>yemenite</td><td>yeme̊nīte</td><td>yemen-ite</td><td>yeme̊n-īte</td><td>n. 也门人<br>a. 也门的</td></tr>
 <tr><td>yen</td><td>yen</td><td>yen</td><td>yen</td><td>n. 日元<br>n. 渴望, 嗜好</td></tr>
-<tr><td>yeoman</td><td>y𝕖ōmån</td><td>yeoman</td><td>y𝕖ōmån</td><td>n. 自由民, 乡绅, 侍从</td></tr>
+<tr><td>yeoman</td><td>yeōmån</td><td>yeoman</td><td>yeōmån</td><td>n. 自由民, 乡绅, 侍从</td></tr>
 <tr><td>yep</td><td>yep</td><td>yep</td><td>yep</td><td>adv. 是的(非正式)</td></tr>
 <tr><td>yer</td><td>ye̊r</td><td>yer</td><td>ye̊r</td><td>pron. 你的（your的口语形式）</td></tr>
 <tr><td>yerba</td><td>ye̊rbå</td><td>yerba</td><td>ye̊rbå</td><td>n. 巴拉圭茶, 草药</td></tr>
 <tr><td>yes</td><td>yes</td><td>yes</td><td>yes</td><td>adv. 是<br>n. 同意</td></tr>
-<tr><td>yeshiva</td><td>yėshĩvå</td><td>yeshiva</td><td>yėshĩvå</td><td>n. 犹太高等学院, 犹太教经学院</td></tr>
+<tr><td>yeshiva</td><td>yeshĩvå</td><td>yeshiva</td><td>yeshĩvå</td><td>n. 犹太高等学院, 犹太教经学院</td></tr>
 <tr><td>yet</td><td>yet</td><td>yet</td><td>yet</td><td>adv. 还, 仍然, 已经<br>conj. 然而</td></tr>
-<tr><td>yeti</td><td>yetĩ</td><td>yeti</td><td>yetĩ</td><td>n. 雪人(传说中的喜马拉雅山野人)</td></tr>
+<tr><td>yeti</td><td>yeti</td><td>yeti</td><td>yeti</td><td>n. 雪人(传说中的喜马拉雅山野人)</td></tr>
 <tr><td>yew</td><td>yew̄</td><td>yew</td><td>yew̄</td><td>n. 紫杉, 红豆杉</td></tr>
 <tr><td>yiddish</td><td>yiddish</td><td>yiddish</td><td>yiddish</td><td>n. 意第绪语</td></tr>
 <tr><td>yield</td><td>yiēld</td><td>yield</td><td>yiēld</td><td>n. 生产量, 投资收益<br>vt. 生产, 出产, 让出, 放弃, 使屈服<br>vi. 屈服, 投降, 弯曲, 塌陷</td></tr>
@@ -111,23 +111,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yod</td><td>yod</td><td>yod</td><td>yod</td><td>n. 希伯来文第十个字母</td></tr>
 <tr><td>yodel</td><td>yōde̊l</td><td>yodel</td><td>yōde̊l</td><td>n. 真假嗓音反复变换的唱腔<br>v. 用真假嗓音反复变换地唱</td></tr>
 <tr><td>yoga</td><td>yōgå</td><td>yoga</td><td>yōgå</td><td>n. 瑜珈</td></tr>
-<tr><td>yogi</td><td>yōgĩ</td><td>yogi</td><td>yōgĩ</td><td>n. 瑜伽修行者, 瑜伽大师</td></tr>
-<tr><td>yogic</td><td>yōgic</td><td>yog-ic</td><td>yōg-ic</td><td>a. 瑜伽的</td></tr>
+<tr><td>yogi</td><td>yōgi</td><td>yogi</td><td>yōgi</td><td>n. 瑜伽修行者, 瑜伽大师</td></tr>
+<tr><td>yogic</td><td>yogic</td><td>yog-ic</td><td>yog-ic</td><td>a. 瑜伽的</td></tr>
 <tr><td>yoghourt</td><td>yog𝕙òurt</td><td>yoghourt</td><td>yog𝕙òurt</td><td></td></tr>
-<tr><td>yoghurt</td><td>yōg𝕙ůrt</td><td>yoghurt</td><td>yōg𝕙ůrt</td><td>n. 酸乳, 酸奶</td></tr>
-<tr><td>yogurt</td><td>yōgůrt</td><td>yogurt</td><td>yōgůrt</td><td>n. 酸奶</td></tr>
+<tr><td>yoghurt</td><td>yog𝕙ůrt</td><td>yoghurt</td><td>yog𝕙ůrt</td><td>n. 酸乳, 酸奶</td></tr>
+<tr><td>yogurt</td><td>yogůrt</td><td>yogurt</td><td>yogůrt</td><td>n. 酸奶</td></tr>
 <tr><td>yoghourts</td><td>yog𝕙òurts</td><td>yoghourt-s</td><td>yog𝕙òurt-s</td><td></td></tr>
 <tr><td>yoghurts</td><td>yog𝕙ůrts</td><td>yoghurt-s</td><td>yog𝕙ůrt-s</td><td></td></tr>
 <tr><td>yogurts</td><td>yogůrts</td><td>yogurt-s</td><td>yogůrt-s</td><td></td></tr>
 <tr><td>yoke</td><td>yōke</td><td>yoke</td><td>yōke</td><td>n. 轭, 束缚<br>vt. 给...上轭, 结合</td></tr>
-<tr><td>yokel</td><td>yōkel</td><td>yokel</td><td>yōkel</td><td>n. 乡巴佬, 土包子</td></tr>
+<tr><td>yokel</td><td>yōke̊l</td><td>yokel</td><td>yōke̊l</td><td>n. 乡巴佬, 土包子</td></tr>
 <tr><td>yolk</td><td>yōlk</td><td>yolk</td><td>yōlk</td><td>n. 蛋黄, 卵黄</td></tr>
 <tr><td>yon</td><td>yon</td><td>yon</td><td>yon</td><td>a. 那边的<br>adv. 在那边</td></tr>
 <tr><td>yonder</td><td>yonde̊r</td><td>yond-er</td><td>yond-e̊r</td><td>a. 那边的<br>adv. 在那边</td></tr>
 <tr><td>beyond</td><td>bėyond</td><td>be-yond</td><td>bė-yond</td><td>prep. 超出, 在...的那一边<br>adv. 在远处, 更远处</td></tr>
 <tr><td>yore</td><td>yore</td><td>yore</td><td>yore</td><td>n. 往昔, 从前</td></tr>
 <tr><td>Yorkshire</td><td>Yorkshi̊re</td><td>York-shire</td><td>York-shi̊re</td><td>n. 约克郡(英国)</td></tr>
-<tr><td>yoruba</td><td>yo̊rūbå</td><td>yoruba</td><td>yo̊rūbå</td><td>n. 约鲁巴人, 约鲁巴语</td></tr>
+<tr><td>yoruba</td><td>yorūbå</td><td>yoruba</td><td>yorūbå</td><td>n. 约鲁巴人, 约鲁巴语</td></tr>
 <tr><td>you</td><td>yoū</td><td>you</td><td>yoū</td><td>pron. 你, 你们</td></tr>
 <tr><td>young</td><td>yôung</td><td>young</td><td>yôung</td><td>a. 年轻的, 幼小的<br>n. 青年, 幼崽</td></tr>
 <tr><td>younger</td><td>yôunge̊r</td><td>young-er</td><td>yôung-e̊r</td><td>a. 更年轻的(young的比较级)</td></tr>
@@ -145,8 +145,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yow</td><td>yòw</td><td>yow</td><td>yòw</td><td></td></tr>
 <tr><td>yowl</td><td>yòwl</td><td>yowl</td><td>yòwl</td><td>n. 惨叫, 号叫, 吼声<br>vi. 惨叫, 号叫, 怒斥</td></tr>
 <tr><td>yttrium</td><td>ẏttriům</td><td>yttr-ium</td><td>ẏttr-iům</td><td>n. 钇</td></tr>
-<tr><td>yuan</td><td>yūàn</td><td>yuan</td><td>yūàn</td><td>n. 元(中国货币)</td></tr>
-<tr><td>Yucatan</td><td>Yūcåtan</td><td>Yucat-an</td><td>Yūcåt-an</td><td>n. 尤卡坦半岛(墨西哥)</td></tr>
+<tr><td>yuan</td><td>yūån</td><td>yuan</td><td>yūån</td><td>n. 元(中国货币)</td></tr>
+<tr><td>Yucatan</td><td>Yūcatån</td><td>Yucat-an</td><td>Yūcat-ån</td><td>n. 尤卡坦半岛(墨西哥)</td></tr>
 <tr><td>yucatecan</td><td>yūcåtecån</td><td>yucatec-an</td><td>yūcåtec-ån</td><td>a. 尤卡坦的, 尤卡坦人的</td></tr>
 <tr><td>yucca</td><td>yûccå</td><td>yucca</td><td>yûccå</td><td>n. 丝兰<br>[医] 丝兰属</td></tr>
 <tr><td>yuck</td><td>yûck</td><td>yuck</td><td>yûck</td><td>int. 啐, 呸(表示反感)</td></tr>
@@ -159,7 +159,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yup</td><td>yûp</td><td>yup</td><td>yûp</td><td>int. 是的, 对(非正式)</td></tr>
 <tr><td>yuppie</td><td>yûppie</td><td>yupp-ie</td><td>yûpp-ie</td><td>n. 雅皮士</td></tr>
 <tr><td>yuppy</td><td>yûppẏ</td><td>yupp-y</td><td>yûpp-ẏ</td><td>n. 雅皮士</td></tr>
-<tr><td>yurt</td><td>yùrt</td><td>yurt</td><td>yùrt</td><td>n. 蒙古包, 毡帐</td></tr>
+<tr><td>yurt</td><td>yůrt</td><td>yurt</td><td>yůrt</td><td>n. 蒙古包, 毡帐</td></tr>
 </tbody>
 </table>
 </div>

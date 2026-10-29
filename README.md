@@ -58,7 +58,7 @@ IPSM 把通常分开教学的三个角度统一在一起：
 
 ## 更新 Words / Search 词库
 
-安装 Python `lingose==0.3.0` 后，在网站目录运行：
+安装 Python `lingose==0.4.0` 后，在网站目录运行：
 
 ```powershell
 python scripts/generate_lexicon.py
@@ -73,7 +73,7 @@ python scripts/verify_search_pages.py
 
 来源版本、数据库 SHA-256、条目总数和缺失字段统计见 `_data/lexicon.json`。再次更新时重新运行同一命令，并验证生成结果。
 
-Search 的数据和脚本 URL 附带词库版本号，防止扩容后复用旧缓存。构建后运行 `verify_search_pages.py`，核对十语言均使用完整词库，且只有中文使用中文释义，其他九种语言的 Meaning 全部来自英文释义。
+Search 的数据和脚本 URL 附带词库版本号，防止更新后复用旧缓存。构建后运行 `verify_search_pages.py`，逐字段核对两份搜索 JSON（含 IPS / IPSM）、逐格核对十语言全部 260 个字母页，并检查 Search 的版本化 URL。只有中文使用中文释义，其他九种语言的 Meaning 全部来自英文释义。
 
 ## 许可与致谢
 

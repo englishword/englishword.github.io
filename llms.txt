@@ -30,7 +30,7 @@ IPSM unifies three perspectives that are usually taught separately:
 ## Data
 - English lexicon JSON: https://lingose.com/assets/data/words.json
 - Chinese lexicon JSON: https://lingose.com/assets/data/words_zh.json
-- Words and Search cover 50,335 English entries from Lingose 0.3.0, ordered by root lemma and then source rank.
+- Words and Search cover 50,335 English entries from Lingose 0.4.0, ordered by root lemma and then source rank.
 
 ## Contact & license
 - Contact: https://lingose.com/contact/

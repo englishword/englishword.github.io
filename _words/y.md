@@ -19,12 +19,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><th>Word</th><th>IPS</th><th>ISM</th><th>IPSM</th><th>Meaning</th></tr>
 </thead>
 <tbody>
-<tr><td>ya</td><td>yà</td><td>ya</td><td>yà</td><td>pron. you (informal)</td></tr>
+<tr><td>ya</td><td>yå</td><td>ya</td><td>yå</td><td>pron. you (informal)</td></tr>
 <tr><td>yacht</td><td>yàcht</td><td>yacht</td><td>yàcht</td><td>n. an expensive vessel propelled by sail or power and used for cruising or racing<br>v. travel in a yacht</td></tr>
 <tr><td>yachting</td><td>yàchting</td><td>yacht-ing</td><td>yàcht-ing</td><td>n. water travel for pleasure</td></tr>
 <tr><td>yachtsman</td><td>yàchtsmån</td><td>yacht-s-man</td><td>yàcht-s-mån</td><td>n. a person who owns or sails a yacht</td></tr>
 <tr><td>yah</td><td>yà𝕙</td><td>yah</td><td>yà𝕙</td><td>int. an expression of contempt or derision</td></tr>
-<tr><td>yahoo</td><td>yàhoo</td><td>yahoo</td><td>yàhoo</td><td>n. a coarse or brutish person</td></tr>
+<tr><td>yahoo</td><td>yahoo</td><td>yahoo</td><td>yahoo</td><td>n. a coarse or brutish person</td></tr>
 <tr><td>yak</td><td>yak</td><td>yak</td><td>yak</td><td>n. large long-haired wild ox of Tibet often domesticated<br>v. talk profusely</td></tr>
 <tr><td>yakuza</td><td>yakūzå</td><td>yakuza</td><td>yakūzå</td><td>n. a Japanese gangster<br>n. organized crime in Japan</td></tr>
 <tr><td>Yale</td><td>Yāle</td><td>Yale</td><td>Yāle</td><td>n. a university in Connecticut, US</td></tr>
@@ -45,9 +45,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yardstick</td><td>yàrdstick</td><td>yard-stick</td><td>yàrd-stick</td><td>n. a measure or standard used for comparison</td></tr>
 <tr><td>junkyard</td><td>jûnkyàrd</td><td>junk-yard</td><td>jûnk-yàrd</td><td>n. a field where junk is collected and stored for resale</td></tr>
 <tr><td>lumberyard</td><td>lûmbe̊ryàrd</td><td>lumb-er-yard</td><td>lûmb-e̊r-yàrd</td><td>n. a workplace where lumber is stocked for sale</td></tr>
-<tr><td>yarmulke</td><td>yàrmûlke̊</td><td>yarmulke</td><td>yàrmûlke̊</td><td>n. a skullcap worn by religious Jews especially at prayer</td></tr>
+<tr><td>yarmulke</td><td>yàrmůlke̊</td><td>yarmulke</td><td>yàrmůlke̊</td><td>n. a skullcap worn by religious Jews especially at prayer</td></tr>
 <tr><td>yarn</td><td>yàrn</td><td>yarn</td><td>yàrn</td><td>n. a thread used for knitting or weaving; a long story<br>v. to tell a story</td></tr>
-<tr><td>yarrow</td><td>yàrrōw</td><td>yarrow</td><td>yàrrōw</td><td>n. a strong-scented Eurasian herb with small white flowers</td></tr>
+<tr><td>yarrow</td><td>yarrōw</td><td>yarrow</td><td>yarrōw</td><td>n. a strong-scented Eurasian herb with small white flowers</td></tr>
 <tr><td>yaw</td><td>yãw</td><td>yaw</td><td>yãw</td><td>v. deviate erratically from a set course<br>n. an erratic deflection from an intended course</td></tr>
 <tr><td>yawl</td><td>yãwl</td><td>yawl</td><td>yãwl</td><td>n. a ship&#x27;s small boat (usually rowed by 4 or 6 oars)<br>n. a sailing vessel with two masts; a small mizzen is aft of the rudderpost</td></tr>
 <tr><td>yawn</td><td>yãwn</td><td>yawn</td><td>yãwn</td><td>v. to involuntarily open the mouth wide and breathe deeply<br>n. an act of yawning</td></tr>
@@ -55,15 +55,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yay</td><td>yāy</td><td>yay</td><td>yāy</td><td></td></tr>
 <tr><td>ye</td><td>yē</td><td>ye</td><td>yē</td><td>pron. you (archaic or dialectal)</td></tr>
 <tr><td>yea</td><td>yeā</td><td>yea</td><td>yeā</td><td>n. an affirmative<br>adv. not only so, but</td></tr>
-<tr><td>yeah</td><td>yeah</td><td>yeah</td><td>yeah</td><td>adv. used to express agreement or affirmation; yes</td></tr>
+<tr><td>yeah</td><td>yèa𝕙</td><td>yeah</td><td>yèa𝕙</td><td>adv. used to express agreement or affirmation; yes</td></tr>
 <tr><td>yean</td><td>yēan</td><td>yean</td><td>yēan</td><td>v. to give birth (of a sheep or goat)</td></tr>
 <tr><td>yeanling</td><td>yēanling</td><td>yean-ling</td><td>yēan-ling</td><td>n. a young sheep or goat</td></tr>
 <tr><td>year</td><td>ye̊ar</td><td>year</td><td>ye̊ar</td><td>n. a period of 365 or 366 days; age; a particular period of time</td></tr>
-<tr><td>yearbook</td><td>yēarbook</td><td>year-book</td><td>yēar-book</td><td>n. a book published annually by a school class</td></tr>
+<tr><td>yearbook</td><td>ye̊arbook</td><td>year-book</td><td>ye̊ar-book</td><td>n. a book published annually by a school class</td></tr>
 <tr><td>yearling</td><td>ye̊arling</td><td>year-ling</td><td>ye̊ar-ling</td><td>n. an animal in its second year<br>n. a racehorse considered one year old until the second Jan. 1 following its birth</td></tr>
 <tr><td>yearly</td><td>ye̊arlẏ</td><td>year-ly</td><td>ye̊ar-lẏ</td><td>a. happening once a year<br>adv. once a year</td></tr>
 <tr><td>years</td><td>ye̊arṡ</td><td>year-s</td><td>ye̊ar-ṡ</td><td></td></tr>
-<tr><td>yesteryear</td><td>yeste̊ryēar</td><td>yest-er-year</td><td>yest-e̊r-yēar</td><td>n. the time that has elapsed; past years</td></tr>
+<tr><td>yesteryear</td><td>yeste̊rye̊ar</td><td>yest-er-year</td><td>yest-e̊r-ye̊ar</td><td>n. the time that has elapsed; past years</td></tr>
 <tr><td>yearn</td><td>ye̊arn</td><td>yearn</td><td>ye̊arn</td><td>v. have affection for; feel tenderness for</td></tr>
 <tr><td>yearning</td><td>ye̊arning</td><td>yearn-ing</td><td>ye̊arn-ing</td><td>n. prolonged unfulfilled desire or need<br>a. feeling a deep longing</td></tr>
 <tr><td>yeast</td><td>yēast</td><td>yeast</td><td>yēast</td><td>n. a single-celled fungus used in making bread and fermenting beer</td></tr>
@@ -86,17 +86,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yellowy</td><td>yellōwẏ</td><td>yell-ow-y</td><td>yell-ōw-ẏ</td><td>a. somewhat yellow in color</td></tr>
 <tr><td>yelp</td><td>yelp</td><td>yelp</td><td>yelp</td><td>v. bark in a high-pitched tone</td></tr>
 <tr><td>yelping</td><td>yelping</td><td>yelp-ing</td><td>yelp-ing</td><td>n. a sharp high-pitched cry (especially by a dog)<br>v. bark in a high-pitched tone (yelp的现在分词)</td></tr>
-<tr><td>yemeni</td><td>yeme̊nĩ</td><td>yemen-i</td><td>yeme̊n-ĩ</td><td>n. a native or inhabitant of Yemen<br>a. of or relating to Yemen</td></tr>
+<tr><td>yemeni</td><td>yemeni</td><td>yemen-i</td><td>yemen-i</td><td>n. a native or inhabitant of Yemen<br>a. of or relating to Yemen</td></tr>
 <tr><td>yemenite</td><td>yeme̊nīte</td><td>yemen-ite</td><td>yeme̊n-īte</td><td>n. a native or inhabitant of Yemen<br>a. of or relating to Yemen</td></tr>
 <tr><td>yen</td><td>yen</td><td>yen</td><td>yen</td><td>n. the basic unit of money in Japan<br>n. a strong desire or craving</td></tr>
-<tr><td>yeoman</td><td>y𝕖ōmån</td><td>yeoman</td><td>y𝕖ōmån</td><td>n. officer in the (ceremonial) bodyguard of the British monarch<br>n. in former times was free and cultivated his own land</td></tr>
+<tr><td>yeoman</td><td>yeōmån</td><td>yeoman</td><td>yeōmån</td><td>n. officer in the (ceremonial) bodyguard of the British monarch<br>n. in former times was free and cultivated his own land</td></tr>
 <tr><td>yep</td><td>yep</td><td>yep</td><td>yep</td><td>adv. yes (informal)</td></tr>
 <tr><td>yer</td><td>ye̊r</td><td>yer</td><td>ye̊r</td><td>pron. your (informal)</td></tr>
 <tr><td>yerba</td><td>ye̊rbå</td><td>yerba</td><td>ye̊rbå</td><td>n. an herb, especially yerba mate</td></tr>
 <tr><td>yes</td><td>yes</td><td>yes</td><td>yes</td><td>adv. used to express agreement or affirmation<br>n. an affirmative response</td></tr>
-<tr><td>yeshiva</td><td>yėshĩvå</td><td>yeshiva</td><td>yėshĩvå</td><td>n. an academy for the advanced study of Jewish texts (primarily the Talmud)</td></tr>
+<tr><td>yeshiva</td><td>yeshĩvå</td><td>yeshiva</td><td>yeshĩvå</td><td>n. an academy for the advanced study of Jewish texts (primarily the Talmud)</td></tr>
 <tr><td>yet</td><td>yet</td><td>yet</td><td>yet</td><td>adv. up to the present time; eventually; nevertheless<br>conj. however; but</td></tr>
-<tr><td>yeti</td><td>yetĩ</td><td>yeti</td><td>yetĩ</td><td>n. a large hairy humanoid creature said to live in the Himalayas</td></tr>
+<tr><td>yeti</td><td>yeti</td><td>yeti</td><td>yeti</td><td>n. a large hairy humanoid creature said to live in the Himalayas</td></tr>
 <tr><td>yew</td><td>yew̄</td><td>yew</td><td>yew̄</td><td>n. an evergreen tree with red berries and flat needlelike leaves</td></tr>
 <tr><td>yiddish</td><td>yiddish</td><td>yiddish</td><td>yiddish</td><td>n. a language used by Jewish people of central and eastern Europe</td></tr>
 <tr><td>yield</td><td>yiēld</td><td>yield</td><td>yiēld</td><td>n. an amount of a product<br>v. be the cause or source of<br>v. give in, as to influence or pressure<br>v. bring in</td></tr>
@@ -111,23 +111,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yod</td><td>yod</td><td>yod</td><td>yod</td><td>n. the tenth letter of the Hebrew alphabet</td></tr>
 <tr><td>yodel</td><td>yōde̊l</td><td>yodel</td><td>yōde̊l</td><td>n. a songlike cry in which the voice fluctuates rapidly between normal and falsetto</td></tr>
 <tr><td>yoga</td><td>yōgå</td><td>yoga</td><td>yōgå</td><td>n. a system of exercises for the body and mind</td></tr>
-<tr><td>yogi</td><td>yōgĩ</td><td>yogi</td><td>yōgĩ</td><td>n. one who practices yoga and has achieved a high level of spiritual insight</td></tr>
-<tr><td>yogic</td><td>yōgic</td><td>yog-ic</td><td>yōg-ic</td><td>a of or relating to yoga</td></tr>
+<tr><td>yogi</td><td>yōgi</td><td>yogi</td><td>yōgi</td><td>n. one who practices yoga and has achieved a high level of spiritual insight</td></tr>
+<tr><td>yogic</td><td>yogic</td><td>yog-ic</td><td>yog-ic</td><td>a of or relating to yoga</td></tr>
 <tr><td>yoghourt</td><td>yog𝕙òurt</td><td>yoghourt</td><td>yog𝕙òurt</td><td></td></tr>
-<tr><td>yoghurt</td><td>yōg𝕙ůrt</td><td>yoghurt</td><td>yōg𝕙ůrt</td><td>n. a custard-like food made from curdled milk</td></tr>
-<tr><td>yogurt</td><td>yōgůrt</td><td>yogurt</td><td>yōgůrt</td><td>n. a custard-like food made from curdled milk</td></tr>
+<tr><td>yoghurt</td><td>yog𝕙ůrt</td><td>yoghurt</td><td>yog𝕙ůrt</td><td>n. a custard-like food made from curdled milk</td></tr>
+<tr><td>yogurt</td><td>yogůrt</td><td>yogurt</td><td>yogůrt</td><td>n. a custard-like food made from curdled milk</td></tr>
 <tr><td>yoghourts</td><td>yog𝕙òurts</td><td>yoghourt-s</td><td>yog𝕙òurt-s</td><td></td></tr>
 <tr><td>yoghurts</td><td>yog𝕙ůrts</td><td>yoghurt-s</td><td>yog𝕙ůrt-s</td><td></td></tr>
 <tr><td>yogurts</td><td>yogůrts</td><td>yogurt-s</td><td>yogůrt-s</td><td></td></tr>
 <tr><td>yoke</td><td>yōke</td><td>yoke</td><td>yōke</td><td>n. a wooden frame for joining draft animals; an oppressive power<br>v. to join together</td></tr>
-<tr><td>yokel</td><td>yōkel</td><td>yokel</td><td>yōkel</td><td>n. a person who is not very intelligent or interested in culture</td></tr>
+<tr><td>yokel</td><td>yōke̊l</td><td>yokel</td><td>yōke̊l</td><td>n. a person who is not very intelligent or interested in culture</td></tr>
 <tr><td>yolk</td><td>yōlk</td><td>yolk</td><td>yōlk</td><td>n. the yellow internal part of a bird&#x27;s egg</td></tr>
 <tr><td>yon</td><td>yon</td><td>yon</td><td>yon</td><td>a. distant but within sight<br>adv. at an indicated distant place</td></tr>
 <tr><td>yonder</td><td>yonde̊r</td><td>yond-er</td><td>yond-e̊r</td><td>a. distant but within sight<br>adv. at or in an indicated distant place</td></tr>
 <tr><td>beyond</td><td>bėyond</td><td>be-yond</td><td>bė-yond</td><td>prep. at or to the farther side of; extending or going beyond<br>adv. farther away; on the other side</td></tr>
 <tr><td>yore</td><td>yore</td><td>yore</td><td>yore</td><td>n. time long past</td></tr>
 <tr><td>Yorkshire</td><td>Yorkshi̊re</td><td>York-shire</td><td>York-shi̊re</td><td>n. a county in northern England</td></tr>
-<tr><td>yoruba</td><td>yo̊rūbå</td><td>yoruba</td><td>yo̊rūbå</td><td>n. a language and ethnic group of West Africa</td></tr>
+<tr><td>yoruba</td><td>yorūbå</td><td>yoruba</td><td>yorūbå</td><td>n. a language and ethnic group of West Africa</td></tr>
 <tr><td>you</td><td>yoū</td><td>you</td><td>yoū</td><td>pron. used to refer to the person or people being addressed</td></tr>
 <tr><td>young</td><td>yôung</td><td>young</td><td>yôung</td><td>a. being in an early period of life; not old<br>n. offspring; young people</td></tr>
 <tr><td>younger</td><td>yôunge̊r</td><td>young-er</td><td>yôung-e̊r</td><td>a. comparative of young</td></tr>
@@ -145,8 +145,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yow</td><td>yòw</td><td>yow</td><td>yòw</td><td></td></tr>
 <tr><td>yowl</td><td>yòwl</td><td>yowl</td><td>yòwl</td><td>v. utter shrieks, as of cats</td></tr>
 <tr><td>yttrium</td><td>ẏttriům</td><td>yttr-ium</td><td>ẏttr-iům</td><td>n. a silvery metallic element common in rare-earth minerals; used in alloys</td></tr>
-<tr><td>yuan</td><td>yūàn</td><td>yuan</td><td>yūàn</td><td>n. the basic monetary unit of China</td></tr>
-<tr><td>Yucatan</td><td>Yūcåtan</td><td>Yucat-an</td><td>Yūcåt-an</td><td>n. a peninsula in southeastern Mexico</td></tr>
+<tr><td>yuan</td><td>yūån</td><td>yuan</td><td>yūån</td><td>n. the basic monetary unit of China</td></tr>
+<tr><td>Yucatan</td><td>Yūcatån</td><td>Yucat-an</td><td>Yūcat-ån</td><td>n. a peninsula in southeastern Mexico</td></tr>
 <tr><td>yucatecan</td><td>yūcåtecån</td><td>yucatec-an</td><td>yūcåtec-ån</td><td>a. of or relating to Yucatan or its people</td></tr>
 <tr><td>yucca</td><td>yûccå</td><td>yucca</td><td>yûccå</td><td>n. an evergreen plant with tall stems and white flowers, native to warm North America</td></tr>
 <tr><td>yuck</td><td>yûck</td><td>yuck</td><td>yûck</td><td>int. used to express disgust or rejection</td></tr>
@@ -159,7 +159,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>yup</td><td>yûp</td><td>yup</td><td>yûp</td><td>adv. yes (informal)</td></tr>
 <tr><td>yuppie</td><td>yûppie</td><td>yupp-ie</td><td>yûpp-ie</td><td>n. a young well-paid professional</td></tr>
 <tr><td>yuppy</td><td>yûppẏ</td><td>yupp-y</td><td>yûpp-ẏ</td><td>n. a well-paid young middle-class person who lives and works in a city</td></tr>
-<tr><td>yurt</td><td>yùrt</td><td>yurt</td><td>yùrt</td><td>n. a portable circular domed dwelling used by nomadic Mongol and Turkic peoples</td></tr>
+<tr><td>yurt</td><td>yůrt</td><td>yurt</td><td>yůrt</td><td>n. a portable circular domed dwelling used by nomadic Mongol and Turkic peoples</td></tr>
 </tbody>
 </table>
 </div>

@@ -23,9 +23,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jabber</td><td>jabbe̊r</td><td>jabb-er</td><td>jabb-e̊r</td><td>n. rapid and indistinct speech</td></tr>
 <tr><td>adjacency</td><td>ådjāce̊ncẏ</td><td>ad-jac-ency</td><td>åd-jāc-e̊ncẏ</td><td>n. the attribute of being so near as to be touching</td></tr>
 <tr><td>adjacent</td><td>ådjāce̊nt</td><td>ad-jac-ent</td><td>åd-jāc-e̊nt</td><td>a. next to or near something</td></tr>
-<tr><td>ejaculatory</td><td>ėjacūlåto̊rẏ</td><td>e-jac-ul-at-ory</td><td>ė-jac-ūl-åt-o̊rẏ</td><td>a. suddenly uttered in short sentences<br>a. sudden; hasty</td></tr>
-<tr><td>subjacent</td><td>sûbjāc𝕖nt</td><td>sub-jac-ent</td><td>sûb-jāc-𝕖nt</td><td>a. lying below something</td></tr>
-<tr><td>jacal</td><td>jåcàl</td><td>jacal</td><td>jåcàl</td><td>n. a small hut made of upright poles</td></tr>
+<tr><td>ejaculatory</td><td>ėjacūlāto̊rẏ</td><td>e-jac-ul-at-ory</td><td>ė-jac-ūl-āt-o̊rẏ</td><td>a. suddenly uttered in short sentences<br>a. sudden; hasty</td></tr>
+<tr><td>subjacent</td><td>sûbjāce̊nt</td><td>sub-jac-ent</td><td>sûb-jāc-e̊nt</td><td>a. lying below something</td></tr>
+<tr><td>jacal</td><td>jacål</td><td>jacal</td><td>jacål</td><td>n. a small hut made of upright poles</td></tr>
 <tr><td>jacaranda</td><td>jacårandå</td><td>jacaranda</td><td>jacårandå</td><td>n. a tropical American tree with showy purple flowers</td></tr>
 <tr><td>jack</td><td>jack</td><td>jack</td><td>jack</td><td>n. a device for lifting heavy objects; a socket<br>vt. to lift with a jack</td></tr>
 <tr><td>jackal</td><td>jackål</td><td>jack-al</td><td>jack-ål</td><td>n. a nocturnal canine mammal related to the dog; a person who does menial tasks</td></tr>
@@ -36,9 +36,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jackpot</td><td>jackpot</td><td>jack-pot</td><td>jack-pot</td><td>n. any outstanding award</td></tr>
 <tr><td>jackasses</td><td>jackassėṡ</td><td>jack-ass-es</td><td>jack-ass-ėṡ</td><td></td></tr>
 <tr><td>jackbooted</td><td>jackbootėd</td><td>jack-boot-ed</td><td>jack-boot-ėd</td><td>a. wearing jackboots; brutally oppressive</td></tr>
-<tr><td>jacketed</td><td>jacke̊tėd</td><td>jack-et-ed</td><td>jack-e̊t-ėd</td><td>v. provide with a thermally non-conducting cover<br>v. put a jacket on</td></tr>
+<tr><td>jacketed</td><td>jackėtėd</td><td>jack-et-ed</td><td>jack-ėt-ėd</td><td>v. provide with a thermally non-conducting cover<br>v. put a jacket on</td></tr>
 <tr><td>jackhammer</td><td>jackhamme̊r</td><td>jack-hamm-er</td><td>jack-hamm-e̊r</td><td>n. a hammer driven by compressed air</td></tr>
-<tr><td>jackrabbit</td><td>jackrabbi̊t</td><td>jack-rabb-it</td><td>jack-rabb-i̊t</td><td>n. large hare of western North America<br>v. go forward with a fast, sudden movement</td></tr>
+<tr><td>jackrabbit</td><td>jackrabbit</td><td>jack-rabb-it</td><td>jack-rabb-it</td><td>n. large hare of western North America<br>v. go forward with a fast, sudden movement</td></tr>
 <tr><td>jackets</td><td>jackėts</td><td>jack-et-s</td><td>jack-ėt-s</td><td></td></tr>
 <tr><td>jackpots</td><td>jackpots</td><td>jack-pot-s</td><td>jack-pot-s</td><td></td></tr>
 <tr><td>jack-in-the-box</td><td>jack-in-ṫhe̊-box</td><td>jack-in-the-box</td><td>jack-in-ṫhe̊-box</td><td>n. a toy with a figure that pops out of a box</td></tr>
@@ -53,17 +53,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>crackerjack</td><td>cracke̊rjack</td><td>crack-er-jack</td><td>crack-e̊r-jack</td><td>n. someone or something excellent of its kind</td></tr>
 <tr><td>jackalope</td><td>jackålōpe</td><td>jackalope</td><td>jackålōpe</td><td>n. a mythical animal described as a jackrabbit with antelope horns</td></tr>
 <tr><td>jacksonian</td><td>jacksōniån</td><td>jackson-ian</td><td>jacksōn-iån</td><td>n. a follower of Andrew Jackson or his ideas<br>a. relating to Andrew Jackson, his presidency or his concepts of popular democracy</td></tr>
-<tr><td>jacobean</td><td>jaco̊bēan</td><td>jacob-ean</td><td>jaco̊b-ēan</td><td>a. of or relating to James I of England or his times</td></tr>
+<tr><td>jacobean</td><td>jaco̊bēån</td><td>jacob-ean</td><td>jaco̊b-ēån</td><td>a. of or relating to James I of England or his times</td></tr>
 <tr><td>jacobite</td><td>jaco̊bīte</td><td>jacob-ite</td><td>jaco̊b-īte</td><td>n. a supporter of James II after he was overthrown or of the Stuarts</td></tr>
-<tr><td>jacquard</td><td>jåcq𝕦àrd</td><td>jacquard</td><td>jåcq𝕦àrd</td><td>n. a fabric with an intricate woven pattern<br>n. a loom for weaving figured fabrics</td></tr>
-<tr><td>jacuzzi</td><td>jåcūzzĩ</td><td>jacuzzi</td><td>jåcūzzĩ</td><td>n. a large bath with underwater jet massage</td></tr>
-<tr><td>jaded</td><td>jād𝕖d</td><td>jad-ed</td><td>jād-𝕖d</td><td>a. exhausted<br>a. dulled by surfeit</td></tr>
+<tr><td>jacquard</td><td>jacquàrd</td><td>jacquard</td><td>jacquàrd</td><td>n. a fabric with an intricate woven pattern<br>n. a loom for weaving figured fabrics</td></tr>
+<tr><td>jacuzzi</td><td>jåcūzzi</td><td>jacuzzi</td><td>jåcūzzi</td><td>n. a large bath with underwater jet massage</td></tr>
+<tr><td>jaded</td><td>jādėd</td><td>jad-ed</td><td>jād-ėd</td><td>a. exhausted<br>a. dulled by surfeit</td></tr>
 <tr><td>jade</td><td>jāde</td><td>jade</td><td>jāde</td><td>n. a semiprecious gemstone usually green in color<br>a. having the color of jade</td></tr>
-<tr><td>jadeite</td><td>jādeīte</td><td>jade-ite</td><td>jāde-īte</td><td>n. a hard green mineral (sodium aluminum silicate); a source of jade; found in Burma</td></tr>
+<tr><td>jadeite</td><td>jād𝕖īte</td><td>jade-ite</td><td>jād𝕖-īte</td><td>n. a hard green mineral (sodium aluminum silicate); a source of jade; found in Burma</td></tr>
 <tr><td>jag</td><td>jag</td><td>jag</td><td>jag</td><td>n. a sharp projection on an edge or surface<br>v. cut teeth into</td></tr>
-<tr><td>jagged</td><td>jagg𝕖d</td><td>jagg-ed</td><td>jagg-𝕖d</td><td>a. having a rough, uneven edge</td></tr>
+<tr><td>jagged</td><td>jaggėd</td><td>jagg-ed</td><td>jagg-ėd</td><td>a. having a rough, uneven edge</td></tr>
 <tr><td>jaggedly</td><td>jaggėdlẏ</td><td>jagg-ed-ly</td><td>jagg-ėd-lẏ</td><td>adv. with a ragged and uneven appearance</td></tr>
-<tr><td>jaguar</td><td>jagùàr</td><td>jaguar</td><td>jagùàr</td><td>n. a large spotted feline of tropical America</td></tr>
+<tr><td>jaguar</td><td>jaguàr</td><td>jaguar</td><td>jaguàr</td><td>n. a large spotted feline of tropical America</td></tr>
 <tr><td>jail</td><td>jāil</td><td>jail</td><td>jāil</td><td>n. a correctional institution for detaining persons in lawful custody</td></tr>
 <tr><td>jailbird</td><td>jāilbi̊rd</td><td>jail-bird</td><td>jāil-bi̊rd</td><td>n. a criminal who has been jailed repeatedly</td></tr>
 <tr><td>jailed</td><td>jāil𝕖d</td><td>jail-ed</td><td>jāil-𝕖d</td><td>a. being in captivity<br>v. lock up or confine, in or as in a jail</td></tr>
@@ -71,10 +71,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jailing</td><td>jāiling</td><td>jail-ing</td><td>jāil-ing</td><td>v lock up or confine, in or as in a jail</td></tr>
 <tr><td>jails</td><td>jāilṡ</td><td>jail-s</td><td>jāil-ṡ</td><td></td></tr>
 <tr><td>jakes</td><td>jākes</td><td>jakes</td><td>jākes</td><td>n a small outbuilding with a bench having holes through which a user can defecate</td></tr>
-<tr><td>jalapeno</td><td>jalåpēnō</td><td>jalapeno</td><td>jalåpēnō</td><td>n. a hot green or red pepper used in Mexican cooking</td></tr>
+<tr><td>jalapeno</td><td>jàlåpènō</td><td>jalapeno</td><td>jàlåpènō</td><td>n. a hot green or red pepper used in Mexican cooking</td></tr>
 <tr><td>jalopy</td><td>jålopẏ</td><td>jalopy</td><td>jålopẏ</td><td>n. a car that is old and unreliable</td></tr>
 <tr><td>jam</td><td>jam</td><td>jam</td><td>jam</td><td>n. a sweet food made by boiling fruit with sugar<br>n. a situation in which it is difficult to move<br>v. to push something firmly into a space</td></tr>
-<tr><td>jamboree</td><td>jambo̊rēe</td><td>jamboree</td><td>jambo̊rēe</td><td>n. a large festive gathering</td></tr>
+<tr><td>jamboree</td><td>jamborēe</td><td>jamboree</td><td>jamborēe</td><td>n. a large festive gathering</td></tr>
 <tr><td>jammed</td><td>jamm𝕖d</td><td>jamm-ed</td><td>jamm-𝕖d</td><td>a. filled to capacity; blocked</td></tr>
 <tr><td>jammer</td><td>jamme̊r</td><td>jamm-er</td><td>jamm-e̊r</td><td>n. a transmitter used to broadcast electronic jamming</td></tr>
 <tr><td>jamming</td><td>jamming</td><td>jamm-ing</td><td>jamm-ing</td><td>n. deliberate radiation of electromagnetic energy to disrupt enemy devices</td></tr>
@@ -82,21 +82,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jammy</td><td>jammẏ</td><td>jamm-y</td><td>jamm-ẏ</td><td>a. (informal, especially British) lucky</td></tr>
 <tr><td>jamaican</td><td>jåmāicån</td><td>jamaic-an</td><td>jåmāic-ån</td><td>n. a native or inhabitant of Jamaica<br>a. of or relating to Jamaica or its inhabitants</td></tr>
 <tr><td>jamb</td><td>jam𝕓</td><td>jamb</td><td>jam𝕓</td><td>n. a vertical side member of a door or window frame</td></tr>
-<tr><td>jambalaya</td><td>jåmbålaȳå</td><td>jambalaya</td><td>jåmbålaȳå</td><td>n. a spicy Creole dish of rice with ham, sausage, chicken or shellfish</td></tr>
-<tr><td>enjambment</td><td>ėnjam𝕓me̊nt</td><td>en-jamb-ment</td><td>ėn-jam𝕓-me̊nt</td><td>n. continuation of a syntactic unit from one line of verse into the next without a pause</td></tr>
+<tr><td>jambalaya</td><td>jambålāyå</td><td>jambalaya</td><td>jambålāyå</td><td>n. a spicy Creole dish of rice with ham, sausage, chicken or shellfish</td></tr>
+<tr><td>enjambment</td><td>enjam𝕓me̊nt</td><td>en-jamb-ment</td><td>en-jam𝕓-me̊nt</td><td>n. continuation of a syntactic unit from one line of verse into the next without a pause</td></tr>
 <tr><td>jamesian</td><td>jām𝕖ṡiån</td><td>james-ian</td><td>jām𝕖ṡ-iån</td><td>a. of or relating to Henry James or his writings</td></tr>
-<tr><td>Jamie</td><td>Jāmiē</td><td>Jamie</td><td>Jāmiē</td><td>n. a male given name</td></tr>
-<tr><td>jammies</td><td>jammi𝕖s</td><td>jamm-i-es</td><td>jamm-i-𝕖s</td><td>n. (usually plural) loose-fitting nightclothes worn for sleeping or lounging</td></tr>
+<tr><td>Jamie</td><td>Jāmie</td><td>Jamie</td><td>Jāmie</td><td>n. a male given name</td></tr>
+<tr><td>jammies</td><td>jammi𝕖ṡ</td><td>jamm-i-es</td><td>jamm-i-𝕖ṡ</td><td>n. (usually plural) loose-fitting nightclothes worn for sleeping or lounging</td></tr>
 <tr><td>jangled</td><td>jangl𝕖d</td><td>jangl-ed</td><td>jangl-𝕖d</td><td>v. make a sound typical of metallic objects</td></tr>
 <tr><td>jangle</td><td>jangle</td><td>jang-le</td><td>jang-le</td><td>n. a metallic sound<br>v. make a sound typical of metallic objects</td></tr>
 <tr><td>jangling</td><td>jangling</td><td>jang-ling</td><td>jang-ling</td><td>a. like the discordant ringing of nonmusical metallic objects striking together</td></tr>
 <tr><td>jangly</td><td>janglẏ</td><td>jang-ly</td><td>jang-lẏ</td><td>a. like the discordant ringing of nonmusical metallic objects striking together</td></tr>
-<tr><td>Janice</td><td>Jani̊ce</td><td>Janice</td><td>Jani̊ce</td><td>n. a female given name</td></tr>
-<tr><td>janitor</td><td>jani̊to̊r</td><td>janit-or</td><td>jani̊t-o̊r</td><td>n. someone employed to clean and maintain a building</td></tr>
+<tr><td>Janice</td><td>Janice</td><td>Janice</td><td>Janice</td><td>n. a female given name</td></tr>
+<tr><td>janitor</td><td>janito̊r</td><td>janit-or</td><td>janit-o̊r</td><td>n. someone employed to clean and maintain a building</td></tr>
 <tr><td>janitors</td><td>janito̊rṡ</td><td>janit-or-s</td><td>janit-o̊r-ṡ</td><td></td></tr>
 <tr><td>janitorial</td><td>janitoriål</td><td>janit-or-i-al</td><td>janit-or-i-ål</td><td>a. of or relating to a janitor or to the duties of a janitor</td></tr>
 <tr><td>Janson</td><td>Janso̊n</td><td>Janson</td><td>Janso̊n</td><td>n. a surname</td></tr>
-<tr><td>january</td><td>janūarẏ</td><td></td><td></td><td>n. the first month of the year</td></tr>
+<tr><td>january</td><td>janūårẏ</td><td></td><td></td><td>n. the first month of the year</td></tr>
 <tr><td>Japan</td><td>Jåpan</td><td>Jap-an</td><td>Jåp-an</td><td>n. an island country in East Asia</td></tr>
 <tr><td>Japanese</td><td>Japånēse</td><td>Jap-an-ese</td><td>Jap-ån-ēse</td><td>a. relating to Japan or its people or language<br>n. the language of Japan<br>n. a native or inhabitant of Japan</td></tr>
 <tr><td>japan</td><td>jåpan</td><td></td><td></td><td></td></tr>
@@ -110,17 +110,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ajar</td><td>åjàr</td><td>a-jar</td><td>å-jàr</td><td>a. slightly open</td></tr>
 <tr><td>jargon</td><td>jàrgo̊n</td><td>jargon</td><td>jàrgo̊n</td><td>n. specialized technical terminology characteristic of a particular subject</td></tr>
 <tr><td>jasmin</td><td>jaṡmin</td><td>jasmin</td><td>jaṡmin</td><td>n. a climbing plant with fragrant flowers</td></tr>
-<tr><td>jasmine</td><td>jaṡmi̊ne</td><td>jasmine</td><td>jaṡmi̊ne</td><td>n. any of several shrubs and vines of the genus Jasminum chiefly native to Asia</td></tr>
+<tr><td>jasmine</td><td>jaṡmine</td><td>jasmine</td><td>jaṡmine</td><td>n. any of several shrubs and vines of the genus Jasminum chiefly native to Asia</td></tr>
 <tr><td>Jason</td><td>Jāso̊n</td><td>Jason</td><td>Jāso̊n</td><td>n. a male given name</td></tr>
-<tr><td>jaundice</td><td>jãundi̊ce</td><td>jaund-ice</td><td>jãund-i̊ce</td><td>n. yellowing of skin and eyes caused by accumulation of bile pigment<br>v. affect with jaundice</td></tr>
+<tr><td>jaundice</td><td>jãundice</td><td>jaund-ice</td><td>jãund-ice</td><td>n. yellowing of skin and eyes caused by accumulation of bile pigment<br>v. affect with jaundice</td></tr>
 <tr><td>jaundiced</td><td>jãundic𝕖ḋ</td><td>jaund-ic-ed</td><td>jãund-ic-𝕖ḋ</td><td>a. affected by jaundice which causes yellowing of skin<br>a. showing or affected by prejudice or envy</td></tr>
 <tr><td>jaunt</td><td>jãunt</td><td>jaunt</td><td>jãunt</td><td>n. a journey taken for pleasure</td></tr>
 <tr><td>jaunty</td><td>jãuntẏ</td><td>jaunt-y</td><td>jãunt-ẏ</td><td>a. having a cheerful, lively, and self-confident air</td></tr>
-<tr><td>jauntily</td><td>jãunti̊lẏ</td><td>jaunt-i-ly</td><td>jãunt-i̊-lẏ</td><td>adv. in a jaunty fashionable manner</td></tr>
+<tr><td>jauntily</td><td>jãuntilẏ</td><td>jaunt-i-ly</td><td>jãunt-i-lẏ</td><td>adv. in a jaunty fashionable manner</td></tr>
 <tr><td>java</td><td>jàvå</td><td>java</td><td>jàvå</td><td>n. an island of Indonesia<br>n. a programming language<br>n. (informal) coffee</td></tr>
-<tr><td>javan</td><td>jåvàn</td><td>jav-an</td><td>jåv-àn</td><td>n. a native or inhabitant of Java</td></tr>
+<tr><td>javan</td><td>jàvån</td><td>jav-an</td><td>jàv-ån</td><td>n. a native or inhabitant of Java</td></tr>
 <tr><td>javanese</td><td>jàvånēṡe</td><td>jav-an-ese</td><td>jàv-ån-ēṡe</td><td>a. of or relating to Java or its people<br>n. a native or inhabitant of Java</td></tr>
-<tr><td>javelin</td><td>jave̊li̊n</td><td>javel-in</td><td>jave̊l-i̊n</td><td>n. an athletic competition in which a javelin is thrown as far as possible<br>n. a spear thrown as a weapon or in competitive field events</td></tr>
+<tr><td>javelin</td><td>jave̊lin</td><td>javel-in</td><td>jave̊l-in</td><td>n. an athletic competition in which a javelin is thrown as far as possible<br>n. a spear thrown as a weapon or in competitive field events</td></tr>
 <tr><td>javelina</td><td>jàvėlĩnå</td><td>javel-in-a</td><td>jàvėl-ĩn-å</td><td>n. a dark grey peccary with a faint white collar; semi-desert areas of Mexico and US</td></tr>
 <tr><td>jaw</td><td>jãw</td><td>jaw</td><td>jãw</td><td>n. the bones of the mouth that hold the teeth</td></tr>
 <tr><td>jaws</td><td>jãwṡ</td><td>jaw-s</td><td>jãw-ṡ</td><td></td></tr>
@@ -130,7 +130,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>deejay</td><td>dēejāy</td><td>dee-jay</td><td>dēe-jāy</td><td>n. a person who announces and plays recorded popular music</td></tr>
 <tr><td>jazz</td><td>jazz</td><td>jazz</td><td>jazz</td><td>n. a type of music with a strong rhythm, originally from New Orleans</td></tr>
 <tr><td>jazzed</td><td>jazz𝕖d</td><td>jazz-ed</td><td>jazz-𝕖d</td><td>a. excited or enthusiastic</td></tr>
-<tr><td>jazzman</td><td>jazzman</td><td>jazz-man</td><td>jazz-man</td><td>n. a musician who plays or composes jazz music</td></tr>
+<tr><td>jazzman</td><td>jazzmån</td><td>jazz-man</td><td>jazz-mån</td><td>n. a musician who plays or composes jazz music</td></tr>
 <tr><td>jazzy</td><td>jazzẏ</td><td>jazz-y</td><td>jazz-ẏ</td><td>a. resembling jazz; flashy and stylish</td></tr>
 <tr><td>jealous</td><td>jèalo̊us</td><td>jeal-ous</td><td>jèal-o̊us</td><td>a. feeling or showing envy or suspicion of someone</td></tr>
 <tr><td>jealousies</td><td>jèalo̊usi𝕖ṡ</td><td>jeal-ous-ies</td><td>jèal-o̊us-i𝕖ṡ</td><td></td></tr>
@@ -142,7 +142,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>abjection</td><td>abjectio̊n</td><td>ab-ject-ion</td><td>ab-ject-io̊n</td><td>n. a low or downcast state</td></tr>
 <tr><td>adjective</td><td>adjėctive</td><td>ad-ject-ive</td><td>ad-jėct-ive</td><td>n. a word that describes or modifies a noun</td></tr>
 <tr><td>abjectly</td><td>abjectlẏ</td><td>ab-ject-ly</td><td>ab-ject-lẏ</td><td>adv. in a hopeless resigned manner</td></tr>
-<tr><td>adjectival</td><td>adjectīvål</td><td>ad-ject-iv-al</td><td>ad-ject-īv-ål</td><td>a. of or relating to or functioning as an adjective</td></tr>
+<tr><td>adjectival</td><td>adjėctīvål</td><td>ad-ject-iv-al</td><td>ad-jėct-īv-ål</td><td>a. of or relating to or functioning as an adjective</td></tr>
 <tr><td>conjecture</td><td>co̊njectůre</td><td>con-ject-ure</td><td>co̊n-ject-ůre</td><td>n. an opinion or conclusion formed from incomplete evidence<br>v. to form such an opinion</td></tr>
 <tr><td>conjectural</td><td>co̊njectůrål</td><td>con-ject-ur-al</td><td>co̊n-ject-ůr-ål</td><td>a. based primarily on surmise rather than adequate evidence</td></tr>
 <tr><td>dejected</td><td>dėjectėd</td><td>de-ject-ed</td><td>dė-ject-ėd</td><td>a. affected or marked by low spirits</td></tr>
@@ -156,11 +156,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>interject</td><td>inte̊rject</td><td>inter-ject</td><td>inte̊r-ject</td><td>vt. to say something suddenly in the middle of a conversation</td></tr>
 <tr><td>introject</td><td>intro̊ject</td><td>intro-ject</td><td>intro̊-ject</td><td>v. incorporate (attitudes or ideas) into one&#x27;s personality unconsciously</td></tr>
 <tr><td>injectable</td><td>injectåble</td><td>in-ject-able</td><td>in-ject-åble</td><td>a. (used of drugs) capable of being injected</td></tr>
-<tr><td>injected</td><td>inject𝕖d</td><td>in-ject-ed</td><td>in-ject-𝕖d</td><td>v. give an injection to<br>v. to introduce a new aspect or element</td></tr>
+<tr><td>injected</td><td>injectėd</td><td>in-ject-ed</td><td>in-ject-ėd</td><td>v. give an injection to<br>v. to introduce a new aspect or element</td></tr>
 <tr><td>injecting</td><td>injecting</td><td>in-ject-ing</td><td>in-ject-ing</td><td></td></tr>
 <tr><td>injection</td><td>injectio̊n</td><td>in-ject-ion</td><td>in-ject-io̊n</td><td>n. the act of putting a liquid into the body with a syringe<br>n. a liquid put into the body with a syringe</td></tr>
 <tr><td>interjection</td><td>inte̊rjectio̊n</td><td>inter-ject-ion</td><td>inte̊r-ject-io̊n</td><td>n. the action of interjecting or interposing an action or remark that interrupts</td></tr>
-<tr><td>introjection</td><td>intrōjectio̊n</td><td>intro-ject-ion</td><td>intrō-ject-io̊n</td><td>n. (psychoanalysis) the internalization of aspects of the world within the self</td></tr>
+<tr><td>introjection</td><td>intro̊jectio̊n</td><td>intro-ject-ion</td><td>intro̊-ject-io̊n</td><td>n. (psychoanalysis) the internalization of aspects of the world within the self</td></tr>
 <tr><td>injector</td><td>injecto̊r</td><td>in-ject-or</td><td>in-ject-o̊r</td><td>n. a contrivance for injecting (e.g., water into the boiler of a steam engine)</td></tr>
 <tr><td>injects</td><td>injects</td><td>in-ject-s</td><td>in-ject-s</td><td></td></tr>
 <tr><td>object</td><td>objėct</td><td>ob-ject</td><td>ob-jėct</td><td>n. a material thing that can be seen and touched<br>n. a purpose or aim<br>vi. to express disapproval or opposition</td></tr>
@@ -169,21 +169,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>objecting</td><td>o̊bjecting</td><td>ob-ject-ing</td><td>o̊b-ject-ing</td><td></td></tr>
 <tr><td>objection</td><td>o̊bjectio̊n</td><td>ob-ject-ion</td><td>o̊b-ject-io̊n</td><td>n. a reason or argument offered in opposition<br>n. the expression of disapproval</td></tr>
 <tr><td>objective</td><td>objective</td><td>ob-ject-ive</td><td>ob-ject-ive</td><td>n. the goal intended to be attained<br>a. undistorted by emotion or personal bias; based on observable phenomena</td></tr>
-<tr><td>objector</td><td>o̊bjecto̊r</td><td>ob-ject-or</td><td>o̊b-ject-o̊r</td><td>n. a person who dissents from some established policy</td></tr>
+<tr><td>objector</td><td>objecto̊r</td><td>ob-ject-or</td><td>ob-ject-o̊r</td><td>n. a person who dissents from some established policy</td></tr>
 <tr><td>objects</td><td>objects</td><td>ob-ject-s</td><td>ob-ject-s</td><td></td></tr>
 <tr><td>objectionable</td><td>o̊bjectio̊nåble</td><td>ob-ject-ion-able</td><td>o̊b-ject-io̊n-åble</td><td>a. causing disapproval or protest</td></tr>
-<tr><td>objectivism</td><td>o̊bjectiviṡm</td><td>ob-ject-iv-ism</td><td>o̊b-ject-iv-iṡm</td><td>n. the belief that certain things exist independently of human knowledge</td></tr>
+<tr><td>objectivism</td><td>objectiviṡm</td><td>ob-ject-iv-ism</td><td>ob-ject-iv-iṡm</td><td>n. the belief that certain things exist independently of human knowledge</td></tr>
 <tr><td>objectively</td><td>objectiv𝕖lẏ</td><td>ob-ject-ive-ly</td><td>ob-ject-iv𝕖-lẏ</td><td>adv. with objectivity</td></tr>
 <tr><td>objections</td><td>o̊bjectio̊nṡ</td><td>ob-ject-ion-s</td><td>o̊b-ject-io̊n-ṡ</td><td></td></tr>
-<tr><td>objectified</td><td>o̊bjectifī𝕖d</td><td>ob-ject-i-fi-ed</td><td>o̊b-ject-i-fī-𝕖d</td><td>v. make impersonal or present as an object</td></tr>
+<tr><td>objectified</td><td>objectifī𝕖d</td><td>ob-ject-i-fi-ed</td><td>ob-ject-i-fī-𝕖d</td><td>v. make impersonal or present as an object</td></tr>
 <tr><td>objectivity</td><td>objectivitẏ</td><td>ob-ject-iv-i-ty</td><td>ob-ject-iv-i-tẏ</td><td>n. judgment based on observable facts rather than personal feelings</td></tr>
-<tr><td>objectification</td><td>o̊bjectificātio̊n</td><td>ob-ject-i-fic-at-ion</td><td>o̊b-ject-i-fic-āt-io̊n</td><td>n. the act of representing an abstraction as a physical thing</td></tr>
+<tr><td>objectification</td><td>objectificātio̊n</td><td>ob-ject-i-fic-at-ion</td><td>ob-ject-i-fic-āt-io̊n</td><td>n. the act of representing an abstraction as a physical thing</td></tr>
 <tr><td>project</td><td>pro̊ject</td><td>pro-ject</td><td>pro̊-ject</td><td>n. a planned piece of work that is designed to achieve a particular aim<br>v. to estimate or forecast something in the future</td></tr>
-<tr><td>projected</td><td>project𝕖d</td><td>pro-ject-ed</td><td>pro-ject-𝕖d</td><td>a. planned for the future<br>a. extending out above or beyond a surface</td></tr>
-<tr><td>projectile</td><td>projecti̊le</td><td>pro-ject-ile</td><td>pro-ject-i̊le</td><td>n. an object thrown or projected<br>a. impelling forward</td></tr>
-<tr><td>projecting</td><td>projecting</td><td>pro-ject-ing</td><td>pro-ject-ing</td><td>a. extending out above or beyond a surface or boundary</td></tr>
-<tr><td>projection</td><td>projectio̊n</td><td>pro-ject-ion</td><td>pro-ject-io̊n</td><td>n. an estimate or forecast based on present trends<br>n. the presentation of an image on a surface<br>n. something that juts out</td></tr>
-<tr><td>projective</td><td>projective</td><td>pro-ject-ive</td><td>pro-ject-ive</td><td>a. relating to the projection of something onto a surface</td></tr>
+<tr><td>projected</td><td>pro̊jectėd</td><td>pro-ject-ed</td><td>pro̊-ject-ėd</td><td>a. planned for the future<br>a. extending out above or beyond a surface</td></tr>
+<tr><td>projectile</td><td>pro̊jectīle</td><td>pro-ject-ile</td><td>pro̊-ject-īle</td><td>n. an object thrown or projected<br>a. impelling forward</td></tr>
+<tr><td>projecting</td><td>pro̊jecting</td><td>pro-ject-ing</td><td>pro̊-ject-ing</td><td>a. extending out above or beyond a surface or boundary</td></tr>
+<tr><td>projection</td><td>pro̊jectio̊n</td><td>pro-ject-ion</td><td>pro̊-ject-io̊n</td><td>n. an estimate or forecast based on present trends<br>n. the presentation of an image on a surface<br>n. something that juts out</td></tr>
+<tr><td>projective</td><td>pro̊jective</td><td>pro-ject-ive</td><td>pro̊-ject-ive</td><td>a. relating to the projection of something onto a surface</td></tr>
 <tr><td>projector</td><td>pro̊jecto̊r</td><td>pro-ject-or</td><td>pro̊-ject-o̊r</td><td>n. an optical instrument that projects an enlarged image onto a screen</td></tr>
 <tr><td>projects</td><td>projects</td><td>pro-ject-s</td><td>pro-ject-s</td><td></td></tr>
 <tr><td>projectionist</td><td>pro̊jectio̊nist</td><td>pro-ject-ion-ist</td><td>pro̊-ject-io̊n-ist</td><td>n. the person who operates the projector in a movie house</td></tr>
@@ -205,8 +205,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>trajectory</td><td>tråjecto̊rẏ</td><td>tra-ject-ory</td><td>trå-ject-o̊rẏ</td><td>n. the path followed by an object moving through space</td></tr>
 <tr><td>intersubjective</td><td>inte̊rsûbjective</td><td>inter-sub-ject-ive</td><td>inte̊r-sûb-ject-ive</td><td>a. involving or occurring between separate conscious minds; shared by multiple subjects</td></tr>
 <tr><td>intersubjectivity</td><td>inte̊rsûbjectivitẏ</td><td>inter-sub-ject-iv-ity</td><td>inte̊r-sûb-ject-iv-itẏ</td><td>n. the relation of shared understanding between people</td></tr>
-<tr><td>nonobjective</td><td>nono̊bjective</td><td>non-ob-ject-ive</td><td>non-o̊b-ject-ive</td><td>a. not representing or imitating external reality or the objects of nature</td></tr>
-<tr><td>unobjectionable</td><td>ûno̊bjectio̊nåble</td><td>un-ob-ject-ion-able</td><td>ûn-o̊b-ject-io̊n-åble</td><td>a. not objectionable</td></tr>
+<tr><td>nonobjective</td><td>nonobjective</td><td>non-ob-ject-ive</td><td>non-ob-ject-ive</td><td>a. not representing or imitating external reality or the objects of nature</td></tr>
+<tr><td>unobjectionable</td><td>ûnobjectio̊nåble</td><td>un-ob-ject-ion-able</td><td>ûn-ob-ject-io̊n-åble</td><td>a. not objectionable</td></tr>
 <tr><td>jeep</td><td>jēep</td><td>jeep</td><td>jēep</td><td>n. a car suitable for traveling over rough terrain</td></tr>
 <tr><td>jeer</td><td>jēer</td><td>jeer</td><td>jēer</td><td>n. showing your contempt by derision<br>v. laugh at with contempt and derision</td></tr>
 <tr><td>jeering</td><td>jēering</td><td>jeer-ing</td><td>jēer-ing</td><td>a. abusing vocally; expressing contempt or ridicule</td></tr>
@@ -215,17 +215,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>geez</td><td>gēez</td><td>geez</td><td>gēez</td><td></td></tr>
 <tr><td>jefe</td><td>jèfè</td><td>jefe</td><td>jèfè</td><td>n. a chief or boss (especially in Spanish-speaking contexts)</td></tr>
 <tr><td>jeffersonian</td><td>jeffe̊rsōniån</td><td>jeff-er-son-ian</td><td>jeff-e̊r-sōn-iån</td><td>a. of or relating to Thomas Jefferson or his political principles</td></tr>
-<tr><td>jejune</td><td>jėjūne</td><td>jejune</td><td>jėjūne</td><td>a. lacking substance; dull; immature</td></tr>
+<tr><td>jejune</td><td>jejūne</td><td>jejune</td><td>jejūne</td><td>a. lacking substance; dull; immature</td></tr>
 <tr><td>jell</td><td>jell</td><td>jell</td><td>jell</td><td>v. become gelatinous</td></tr>
 <tr><td>jellies</td><td>jelli𝕖ṡ</td><td>jell-ies</td><td>jell-i𝕖ṡ</td><td></td></tr>
 <tr><td>jelly</td><td>jellẏ</td><td>jell-y</td><td>jell-ẏ</td><td>n. a soft, semisolid food substance; a gelatinous material</td></tr>
-<tr><td>jellied</td><td>jellĩ𝕖d</td><td>jell-i-ed</td><td>jell-ĩ-𝕖d</td><td>v. make into jelly<br>a. congealed into jelly; solidified by cooling</td></tr>
+<tr><td>jellied</td><td>jelli𝕖d</td><td>jell-i-ed</td><td>jell-i-𝕖d</td><td>v. make into jelly<br>a. congealed into jelly; solidified by cooling</td></tr>
 <tr><td>jello</td><td>jellō</td><td>jello</td><td>jellō</td><td>n. a fruit-flavored dessert made from commercially prepared gelatin powder</td></tr>
 <tr><td>Jem</td><td>Jem</td><td>Jem</td><td>Jem</td><td>n. a male given name</td></tr>
 <tr><td>jeopardise</td><td>je𝕠pårdīṡe</td><td>jeopard-ise</td><td>je𝕠pård-īṡe</td><td>vt. to put at risk; to endanger</td></tr>
-<tr><td>jeopardize</td><td>je𝕠pårdīze</td><td>jeopard-ize</td><td>je𝕠pård-īze</td><td>v. put at risk</td></tr>
-<tr><td>jeopardy</td><td>je𝕠pårdẏ</td><td>jeopard-y</td><td>je𝕠pård-ẏ</td><td>n. a source of danger; a possibility of incurring loss or misfortune</td></tr>
-<tr><td>jeremiad</td><td>jère̊mīåd</td><td>jeremiad</td><td>jère̊mīåd</td><td>n. a long and mournful complaint</td></tr>
+<tr><td>jeopardize</td><td>jeopårdīze</td><td>jeopard-ize</td><td>jeopård-īze</td><td>v. put at risk</td></tr>
+<tr><td>jeopardy</td><td>jeopårdẏ</td><td>jeopard-y</td><td>jeopård-ẏ</td><td>n. a source of danger; a possibility of incurring loss or misfortune</td></tr>
+<tr><td>jeremiad</td><td>jere̊mīad</td><td>jeremiad</td><td>jere̊mīad</td><td>n. a long and mournful complaint</td></tr>
 <tr><td>jerk</td><td>je̊rk</td><td>jerk</td><td>je̊rk</td><td>n. a sudden quick movement<br>n. a foolish or annoying person<br>v. to pull with a sudden movement</td></tr>
 <tr><td>jerking</td><td>je̊rking</td><td>jerk-ing</td><td>je̊rk-ing</td><td>n. an abrupt spasmodic movement<br>v. pull, or move with a sudden movement<br>v. make an uncontrolled, short, jerky motion</td></tr>
 <tr><td>jerks</td><td>je̊rks</td><td>jerk-s</td><td>je̊rk-s</td><td></td></tr>
@@ -233,10 +233,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jerkily</td><td>je̊rkilẏ</td><td>jerk-i-ly</td><td>je̊rk-i-lẏ</td><td>adv. with jerking motions</td></tr>
 <tr><td>jerkin</td><td>je̊rkin</td><td>jerkin</td><td>je̊rkin</td><td>n. a tight sleeveless and collarless jacket worn by men in former times</td></tr>
 <tr><td>Jerry</td><td>Jerrẏ</td><td>Jerry</td><td>Jerrẏ</td><td>n. a male given name</td></tr>
-<tr><td>jersey</td><td>je̊rṡēy</td><td>jersey</td><td>je̊rṡēy</td><td>n. a close-fitting pullover shirt</td></tr>
-<tr><td>jesuit</td><td>jes̃ūit</td><td>jesu-it</td><td>jes̃ū-it</td><td>n. a member of the Jesuit order</td></tr>
+<tr><td>jersey</td><td>je̊rsėy</td><td>jersey</td><td>je̊rsėy</td><td>n. a close-fitting pullover shirt</td></tr>
+<tr><td>jesuit</td><td>jeṡūit</td><td>jesu-it</td><td>jeṡū-it</td><td>n. a member of the Jesuit order</td></tr>
 <tr><td>Jesus</td><td>Jēṡůs</td><td>Jes-us</td><td>Jēṡ-ůs</td><td>n. the central figure of Christianity</td></tr>
-<tr><td>jesuitical</td><td>jeṡùiticål</td><td>jesu-it-ic-al</td><td>jeṡù-it-ic-ål</td><td>a. deceitful; prevaricating</td></tr>
+<tr><td>jesuitical</td><td>jeṡūiticål</td><td>jesu-it-ic-al</td><td>jeṡū-it-ic-ål</td><td>a. deceitful; prevaricating</td></tr>
 <tr><td>bejesus</td><td>bėjēṡůs</td><td>be-jes-us</td><td>bė-jēṡ-ůs</td><td>int. an exclamation of surprise or emphasis</td></tr>
 <tr><td>jessamine</td><td>jessåmine</td><td>jessamine</td><td>jessåmine</td><td>n. a climbing shrub with fragrant white or yellow flowers</td></tr>
 <tr><td>Jessica</td><td>Jessicå</td><td>Jessica</td><td>Jessicå</td><td>n. a female given name</td></tr>
@@ -267,17 +267,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>Jewett</td><td>Jew̄ėtt</td><td>Jewett</td><td>Jew̄ėtt</td><td>n. a surname</td></tr>
 <tr><td>jib</td><td>jib</td><td>jib</td><td>jib</td><td>n. a triangular sail set forward of the foremast<br>v. to refuse to proceed further</td></tr>
 <tr><td>jibe</td><td>jībe</td><td>jibe</td><td>jībe</td><td>v. to agree or be consistent<br>v. to taunt or mock</td></tr>
-<tr><td>jicama</td><td>jĩcåmå</td><td>jicama</td><td>jĩcåmå</td><td>n. crisp, sweet, edible root of a tropical American vine</td></tr>
+<tr><td>jicama</td><td>jicåmå</td><td>jicama</td><td>jicåmå</td><td>n. crisp, sweet, edible root of a tropical American vine</td></tr>
 <tr><td>jiffy</td><td>jiffẏ</td><td>jiff-y</td><td>jiff-ẏ</td><td>n. a very short time</td></tr>
 <tr><td>jig</td><td>jig</td><td>jig</td><td>jig</td><td>n. a lively dance; a device for holding a piece of work<br>v. to dance a jig</td></tr>
 <tr><td>jigger</td><td>jigge̊r</td><td>jigg-er</td><td>jigg-e̊r</td><td>n. a small glass for measuring spirits<br>n. a small mast on a sailing vessel</td></tr>
 <tr><td>jigging</td><td>jigging</td><td>jigg-ing</td><td>jigg-ing</td><td>v. dance a quick dance with leaping and kicking motions</td></tr>
 <tr><td>jiggle</td><td>jiggle</td><td>jigg-le</td><td>jigg-le</td><td>v. move to and fro</td></tr>
 <tr><td>jiggling</td><td>jiggling</td><td>jigg-ling</td><td>jigg-ling</td><td>v. move to and fro</td></tr>
-<tr><td>rejigger</td><td>rējigge̊r</td><td>re-jigg-er</td><td>rē-jigg-e̊r</td><td>v. rearrange or reorganize</td></tr>
-<tr><td>jihad</td><td>jĩhàd</td><td>jihad</td><td>jĩhàd</td><td>n. a holy war waged by Muslims<br>n. a spiritual struggle within oneself</td></tr>
-<tr><td>jihadi</td><td>jĩhàdĩ</td><td>jihad-i</td><td>jĩhàd-ĩ</td><td>a. of or relating to a jihad<br>n. a person who participates in a jihad</td></tr>
-<tr><td>jihadist</td><td>jĩhàdist</td><td>jihad-ist</td><td>jĩhàd-ist</td><td>n. a Muslim who is involved in a jihad</td></tr>
+<tr><td>rejigger</td><td>rėjigge̊r</td><td>re-jigg-er</td><td>rė-jigg-e̊r</td><td>v. rearrange or reorganize</td></tr>
+<tr><td>jihad</td><td>jihàd</td><td>jihad</td><td>jihàd</td><td>n. a holy war waged by Muslims<br>n. a spiritual struggle within oneself</td></tr>
+<tr><td>jihadi</td><td>jihàdi</td><td>jihad-i</td><td>jihàd-i</td><td>a. of or relating to a jihad<br>n. a person who participates in a jihad</td></tr>
+<tr><td>jihadist</td><td>jihàdist</td><td>jihad-ist</td><td>jihàd-ist</td><td>n. a Muslim who is involved in a jihad</td></tr>
 <tr><td>jillion</td><td>jillio̊n</td><td>jill-ion</td><td>jill-io̊n</td><td>n. a very large indefinite number</td></tr>
 <tr><td>jilt</td><td>jilt</td><td>jilt</td><td>jilt</td><td>n. a woman who jilts a lover<br>v. cast aside capriciously or unfeelingly</td></tr>
 <tr><td>jilted</td><td>jiltėd</td><td>jilt-ed</td><td>jilt-ėd</td><td>a. rebuffed by a lover without warning</td></tr>
@@ -291,38 +291,38 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jingoistic</td><td>jingōistic</td><td>jingo-ist-ic</td><td>jingō-ist-ic</td><td>a. fanatically patriotic</td></tr>
 <tr><td>jink</td><td>jink</td><td>jink</td><td>jink</td><td>v. to dodge or move quickly to avoid something</td></tr>
 <tr><td>jinks</td><td>jinks</td><td>jink-s</td><td>jink-s</td><td>n. noisy and mischievous merrymaking</td></tr>
-<tr><td>hijinks</td><td>hijinks</td><td>hi-jinks</td><td>hi-jinks</td><td>n. noisy and mischievous merrymaking</td></tr>
+<tr><td>hijinks</td><td>hījinks</td><td>hi-jinks</td><td>hī-jinks</td><td>n. noisy and mischievous merrymaking</td></tr>
 <tr><td>jinx</td><td>jinx</td><td>jinx</td><td>jinx</td><td>n. a person or thing that brings bad luck<br>vt. to bring bad luck to</td></tr>
 <tr><td>jinxed</td><td>jinx𝕖ḋ</td><td>jinx-ed</td><td>jinx-𝕖ḋ</td><td></td></tr>
 <tr><td>jinxes</td><td>jinxėṡ</td><td>jinx-es</td><td>jinx-ėṡ</td><td></td></tr>
 <tr><td>jinxing</td><td>jinxing</td><td>jinx-ing</td><td>jinx-ing</td><td></td></tr>
-<tr><td>jitney</td><td>jitnēy</td><td>jitney</td><td>jitnēy</td><td>n a vehicle carrying many passengers; used for public transport</td></tr>
+<tr><td>jitney</td><td>jitnėy</td><td>jitney</td><td>jitnėy</td><td>n a vehicle carrying many passengers; used for public transport</td></tr>
 <tr><td>jitterbug</td><td>jitte̊rbûg</td><td>jitt-er-bug</td><td>jitt-e̊r-bûg</td><td>n. a jerky American dance that was popular in the 1940s<br>v. do the jitterbug</td></tr>
 <tr><td>jitters</td><td>jitte̊rṡ</td><td>jitt-er-s</td><td>jitt-e̊r-ṡ</td><td>n. extreme nervousness</td></tr>
 <tr><td>jittery</td><td>jitte̊rẏ</td><td>jitt-er-y</td><td>jitt-e̊r-ẏ</td><td>a. characterized by jerky movements</td></tr>
 <tr><td>jive</td><td>jīve</td><td>jive</td><td>jīve</td><td>n. a style of jazz dance music<br>v. dance to jive music<br>a. (slang) false or deceptive</td></tr>
 <tr><td>job</td><td>job</td><td>job</td><td>job</td><td>n. a paid position of employment; a task; a responsibility</td></tr>
-<tr><td>jobless</td><td>joble̊ss</td><td>job-less</td><td>job-le̊ss</td><td>a. not having a job</td></tr>
+<tr><td>jobless</td><td>joblėss</td><td>job-less</td><td>job-lėss</td><td>a. not having a job</td></tr>
 <tr><td>jobs</td><td>jobṡ</td><td>job-s</td><td>job-ṡ</td><td></td></tr>
-<tr><td>joblessness</td><td>joble̊ssne̊ss</td><td>job-less-ness</td><td>job-le̊ss-ne̊ss</td><td>n. the state of being without a job</td></tr>
+<tr><td>joblessness</td><td>joblėssnėss</td><td>job-less-ness</td><td>job-lėss-nėss</td><td>n. the state of being without a job</td></tr>
 <tr><td>jobber</td><td>jobbe̊r</td><td>jobb-er</td><td>jobb-e̊r</td><td>n. a wholesale dealer; a temporary worker</td></tr>
 <tr><td>jobbing</td><td>jobbing</td><td>jobb-ing</td><td>jobb-ing</td><td>a. relating to casual work</td></tr>
 <tr><td>jobbery</td><td>jobbe̊rẏ</td><td>jobb-er-y</td><td>jobb-e̊r-ẏ</td><td>n. the practice of using public office for private gain</td></tr>
-<tr><td>jocose</td><td>jo̊cōse</td><td>joc-ose</td><td>jo̊c-ōse</td><td>a. humorous; playful</td></tr>
+<tr><td>jocose</td><td>jocōse</td><td>joc-ose</td><td>joc-ōse</td><td>a. humorous; playful</td></tr>
 <tr><td>jocund</td><td>jocûnd</td><td>joc-und</td><td>joc-ûnd</td><td>a. cheerful and light-hearted</td></tr>
 <tr><td>jocular</td><td>jocūlår</td><td>joc-ul-ar</td><td>joc-ūl-år</td><td>a. characterized by jokes and good humor</td></tr>
 <tr><td>jocularity</td><td>jocūlaritẏ</td><td>joc-ul-ar-ity</td><td>joc-ūl-ar-itẏ</td><td>n. a feeling of facetious merriment</td></tr>
 <tr><td>jocularly</td><td>jocūlårlẏ</td><td>joc-ul-ar-ly</td><td>joc-ūl-år-lẏ</td><td>adv. in a joking manner</td></tr>
 <tr><td>jock</td><td>jock</td><td>jock</td><td>jock</td><td>n. a person trained to compete in sports</td></tr>
-<tr><td>jockey</td><td>jockēy</td><td>jock-ey</td><td>jock-ēy</td><td>n. a person who rides horses in races<br>v. to compete for an advantage</td></tr>
-<tr><td>jockeying</td><td>jockēying</td><td>jock-ey-ing</td><td>jock-ēy-ing</td><td>v. compete for an advantage or a position<br>v. ride a racehorse as a professional jockey</td></tr>
-<tr><td>jodhpur</td><td>jod𝕙půr</td><td>jodhpur</td><td>jod𝕙půr</td><td>n. a short riding boot that fastens with a buckle at the side</td></tr>
+<tr><td>jockey</td><td>jockėy</td><td>jock-ey</td><td>jock-ėy</td><td>n. a person who rides horses in races<br>v. to compete for an advantage</td></tr>
+<tr><td>jockeying</td><td>jockėying</td><td>jock-ey-ing</td><td>jock-ėy-ing</td><td>v. compete for an advantage or a position<br>v. ride a racehorse as a professional jockey</td></tr>
+<tr><td>jodhpur</td><td>jod𝕙pūr</td><td>jodhpur</td><td>jod𝕙pūr</td><td>n. a short riding boot that fastens with a buckle at the side</td></tr>
 <tr><td>jog</td><td>jog</td><td>jog</td><td>jog</td><td>n. a slow pace of running<br>v. run for exercise</td></tr>
 <tr><td>jogger</td><td>jogge̊r</td><td>jogg-er</td><td>jogg-e̊r</td><td>n. someone who runs a steady slow pace (usually for exercise)</td></tr>
 <tr><td>jogging</td><td>jogging</td><td>jogg-ing</td><td>jogg-ing</td><td>n. running at a slow steady pace for exercise</td></tr>
 <tr><td>joggle</td><td>joggle</td><td>jogg-le</td><td>jogg-le</td><td>n. a slight irregular shaking motion<br>v. fasten or join with a joggle</td></tr>
 <tr><td>Johannesburg</td><td>Jōhannėsbůrg</td><td>Johannes-burg</td><td>Jōhannės-bůrg</td><td>n. the largest city in South Africa</td></tr>
-<tr><td>johannine</td><td>jo̊hannīne</td><td>johann-ine</td><td>jo̊hann-īne</td><td>a. of or relating to the Apostle John or the Gospel of John</td></tr>
+<tr><td>johannine</td><td>jōhånnīne</td><td>johann-ine</td><td>jōhånn-īne</td><td>a. of or relating to the Apostle John or the Gospel of John</td></tr>
 <tr><td>johnboat</td><td>jo𝕙nbōat</td><td>john-boat</td><td>jo𝕙n-bōat</td><td>n. a small flat-bottomed boat used on inland waterways</td></tr>
 <tr><td>rejoice</td><td>rėjoice</td><td>re-joice</td><td>rė-joice</td><td>v. to feel or show great joy</td></tr>
 <tr><td>rejoicing</td><td>rėjoicing</td><td>re-joic-ing</td><td>rė-joic-ing</td><td>n. a feeling of great happiness</td></tr>
@@ -337,26 +337,26 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>joints</td><td>joints</td><td>joint-s</td><td>joint-s</td><td></td></tr>
 <tr><td>adjoin</td><td>ådjoin</td><td>ad-join</td><td>åd-join</td><td>v. to be next to or in contact with</td></tr>
 <tr><td>adjoining</td><td>ådjoining</td><td>ad-join-ing</td><td>åd-join-ing</td><td>a. next to or touching</td></tr>
-<tr><td>conjoin</td><td>conjoin</td><td>con-join</td><td>con-join</td><td>v. to join together</td></tr>
-<tr><td>conjoined</td><td>conjoin𝕖d</td><td>con-join-ed</td><td>con-join-𝕖d</td><td>a. consisting of two or more associated entities</td></tr>
+<tr><td>conjoin</td><td>co̊njoin</td><td>con-join</td><td>co̊n-join</td><td>v. to join together</td></tr>
+<tr><td>conjoined</td><td>co̊njoin𝕖d</td><td>con-join-ed</td><td>co̊n-join-𝕖d</td><td>a. consisting of two or more associated entities</td></tr>
 <tr><td>conjoining</td><td>co̊njoining</td><td>con-join-ing</td><td>co̊n-join-ing</td><td>v. make contact or come together<br>v. take in marriage</td></tr>
 <tr><td>disjoin</td><td>disjoin</td><td>dis-join</td><td>dis-join</td><td>v. make disjoint, separated, or disconnected; undo the joining of<br>v. become separated, disconnected or disjoint</td></tr>
 <tr><td>disjoint</td><td>disjoint</td><td>dis-joint</td><td>dis-joint</td><td>v. separate at the joints<br>a. having no elements in common</td></tr>
 <tr><td>disjointed</td><td>disjointėd</td><td>dis-joint-ed</td><td>dis-joint-ėd</td><td>a. lacking coherence or connection</td></tr>
 <tr><td>enjoin</td><td>enjoin</td><td>en-join</td><td>en-join</td><td>v. to issue an order or injunction</td></tr>
-<tr><td>rejoin</td><td>rējoin</td><td>re-join</td><td>rē-join</td><td>v. join again<br>v. answer or reply sharply</td></tr>
+<tr><td>rejoin</td><td>rėjoin</td><td>re-join</td><td>rė-join</td><td>v. join again<br>v. answer or reply sharply</td></tr>
 <tr><td>rejoinder</td><td>rėjoinde̊r</td><td>re-joind-er</td><td>rė-joind-e̊r</td><td>n. a quick reply to a question or remark, especially a witty one</td></tr>
 <tr><td>conjointly</td><td>co̊njointlẏ</td><td>con-joint-ly</td><td>co̊n-joint-lẏ</td><td>adv. in conjunction with; combined</td></tr>
 <tr><td>joist</td><td>joist</td><td>joist</td><td>joist</td><td>n. a beam used to support floors or roofs</td></tr>
-<tr><td>jojoba</td><td>jōjōbå</td><td>jojoba</td><td>jōjōbå</td><td>n. a shrub native to the southwestern United States and Mexico, valued for its oil</td></tr>
+<tr><td>jojoba</td><td>jo̊jōbå</td><td>jojoba</td><td>jo̊jōbå</td><td>n. a shrub native to the southwestern United States and Mexico, valued for its oil</td></tr>
 <tr><td>joke</td><td>jōke</td><td>joke</td><td>jōke</td><td>n. something said to cause amusement<br>v. tell jokes</td></tr>
 <tr><td>joked</td><td>jōk𝕖ḋ</td><td>jok-ed</td><td>jōk-𝕖ḋ</td><td></td></tr>
 <tr><td>joker</td><td>jōke̊r</td><td>jok-er</td><td>jōk-e̊r</td><td>n. a person who enjoys telling or playing jokes<br>n. a playing card that is usually printed with a picture of a jester</td></tr>
 <tr><td>joking</td><td>jōking</td><td>jok-ing</td><td>jōk-ing</td><td>v. tell a joke; speak humorously<br>a. characterized by jokes and good humor</td></tr>
 <tr><td>jokes</td><td>jōk𝕖s</td><td>joke-s</td><td>jōk𝕖-s</td><td></td></tr>
-<tr><td>jokey</td><td>jo̊kėy</td><td>joke-y</td><td>jo̊kė-y</td><td>a. fond of making jokes; humorous</td></tr>
+<tr><td>jokey</td><td>jōkėy</td><td>joke-y</td><td>jōkė-y</td><td>a. fond of making jokes; humorous</td></tr>
 <tr><td>jokingly</td><td>jōkinglẏ</td><td>jok-ing-ly</td><td>jōk-ing-lẏ</td><td>adv. in a joking manner</td></tr>
-<tr><td>jokester</td><td>jōkeste̊r</td><td>joke-ster</td><td>jōke-ste̊r</td><td>n a person who enjoys telling or playing jokes</td></tr>
+<tr><td>jokester</td><td>jōk𝕖ste̊r</td><td>joke-ster</td><td>jōk𝕖-ste̊r</td><td>n a person who enjoys telling or playing jokes</td></tr>
 <tr><td>jollity</td><td>jollitẏ</td><td>joll-ity</td><td>joll-itẏ</td><td>n. feeling jolly and jovial and full of good humor</td></tr>
 <tr><td>jolly</td><td>jollẏ</td><td>joll-y</td><td>joll-ẏ</td><td>n. a happy party<br>a. full of joy and merriment</td></tr>
 <tr><td>jolt</td><td>jōlt</td><td>jolt</td><td>jōlt</td><td>v. to push or shake suddenly and roughly<br>n. a sudden rough shake</td></tr>
@@ -376,15 +376,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>journaling</td><td>jo̊urnåling</td><td>journ-al-ing</td><td>jo̊urn-ål-ing</td><td>n. the practice of keeping a journal or diary</td></tr>
 <tr><td>journalism</td><td>jo̊urnåliṡm</td><td>journ-al-ism</td><td>jo̊urn-ål-iṡm</td><td>n. the profession of reporting news</td></tr>
 <tr><td>journalist</td><td>jo̊urnålist</td><td>journ-al-ist</td><td>jo̊urn-ål-ist</td><td>n. a person who writes for newspapers or magazines</td></tr>
-<tr><td>journeying</td><td>jo̊urnēying</td><td>journ-ey-ing</td><td>jo̊urn-ēy-ing</td><td>n. the act of traveling from one place to another</td></tr>
-<tr><td>journeyman</td><td>jo̊urnēyman</td><td>journ-ey-man</td><td>jo̊urn-ēy-man</td><td>n. a skilled worker who practices some trade or handicraft</td></tr>
+<tr><td>journeying</td><td>jo̊urnėying</td><td>journ-ey-ing</td><td>jo̊urn-ėy-ing</td><td>n. the act of traveling from one place to another</td></tr>
+<tr><td>journeyman</td><td>jo̊urnėymån</td><td>journ-ey-man</td><td>jo̊urn-ėy-mån</td><td>n. a skilled worker who practices some trade or handicraft</td></tr>
 <tr><td>journals</td><td>jo̊urnålṡ</td><td>journ-al-s</td><td>jo̊urn-ål-ṡ</td><td></td></tr>
 <tr><td>journeys</td><td>jo̊urnėyṡ</td><td>journ-ey-s</td><td>jo̊urn-ėy-ṡ</td><td></td></tr>
 <tr><td>journalistic</td><td>jo̊urnålistic</td><td>journ-al-ist-ic</td><td>jo̊urn-ål-ist-ic</td><td>a. of or relating to or having the characteristics of journalism</td></tr>
 <tr><td>journalistically</td><td>jo̊urnålisticållẏ</td><td>journ-al-ist-ic-al-ly</td><td>jo̊urn-ål-ist-ic-ål-lẏ</td><td>adv. by journalists; in a journalistic manner</td></tr>
 <tr><td>adjourn</td><td>ådjo̊urn</td><td>ad-journ</td><td>åd-jo̊urn</td><td>v. close at the end of a session<br>v. break from a meeting or gathering</td></tr>
 <tr><td>adjournment</td><td>ådjo̊urnme̊nt</td><td>ad-journ-ment</td><td>åd-jo̊urn-me̊nt</td><td>n. the termination of a meeting<br>n. the act of postponing to another time or place</td></tr>
-<tr><td>photojournalist</td><td>phōtōjo̊urnåli̊st</td><td>phot-o-journ-al-ist</td><td>phōt-ō-jo̊urn-ål-i̊st</td><td>n. a journalist who presents a story primarily through photographs</td></tr>
+<tr><td>photojournalist</td><td>phōtōjo̊urnålist</td><td>phot-o-journ-al-ist</td><td>phōt-ō-jo̊urn-ål-ist</td><td>n. a journalist who presents a story primarily through photographs</td></tr>
 <tr><td>joust</td><td>jòust</td><td>joust</td><td>jòust</td><td>n. a combat between two mounted knights tilting against each other with blunted lances<br>v. joust against somebody in a tournament</td></tr>
 <tr><td>jousting</td><td>jòusting</td><td>joust-ing</td><td>jòust-ing</td><td>v. joust against somebody in a tournament by fighting on horseback</td></tr>
 <tr><td>jovial</td><td>jōviål</td><td>jov-i-al</td><td>jōv-i-ål</td><td>a. full of high-spirited merriment</td></tr>
@@ -400,7 +400,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>joys</td><td>joẏṡ</td><td>joy-s</td><td>joẏ-ṡ</td><td></td></tr>
 <tr><td>joyfully</td><td>joẏfůllẏ</td><td>joy-ful-ly</td><td>joẏ-fůl-lẏ</td><td>adv. in a joyous and gleeful manner</td></tr>
 <tr><td>joyously</td><td>joẏo̊uslẏ</td><td>joy-ous-ly</td><td>joẏ-o̊us-lẏ</td><td>adv. in a joyous and gleeful manner</td></tr>
-<tr><td>joyfulness</td><td>joẏfùlnėss</td><td>joy-ful-ness</td><td>joẏ-fùl-nėss</td><td>n. the emotion of great happiness</td></tr>
+<tr><td>joyfulness</td><td>joẏfůlnėss</td><td>joy-ful-ness</td><td>joẏ-fůl-nėss</td><td>n. the emotion of great happiness</td></tr>
 <tr><td>enjoy</td><td>ėnjoẏ</td><td>en-joy</td><td>ėn-joẏ</td><td>vt. to take pleasure or satisfaction in something</td></tr>
 <tr><td>enjoyable</td><td>enjoẏåble</td><td>en-joy-able</td><td>en-joẏ-åble</td><td>a. giving pleasure or satisfaction</td></tr>
 <tr><td>enjoyed</td><td>ėnjoẏ𝕖d</td><td>en-joy-ed</td><td>ėn-joẏ-𝕖d</td><td></td></tr>
@@ -410,20 +410,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>enjoyably</td><td>enjoẏåblẏ</td><td>en-joy-ab-ly</td><td>en-joẏ-åb-lẏ</td><td>adv. in an enjoyable manner</td></tr>
 <tr><td>overjoyed</td><td>ōve̊rjoẏ𝕖d</td><td>over-joy-ed</td><td>ōve̊r-joẏ-𝕖d</td><td>a. extremely joyful</td></tr>
 <tr><td>joycean</td><td>joẏcėån</td><td>joyce-an</td><td>joẏcė-ån</td><td>a. of or relating to James Joyce or his writings</td></tr>
-<tr><td>jubilant</td><td>jūbi̊lånt</td><td>jubil-ant</td><td>jūbi̊l-ånt</td><td>a. full of joy and triumph</td></tr>
-<tr><td>jubilee</td><td>jūbi̊lēe</td><td>jubil-ee</td><td>jūbi̊l-ēe</td><td>n. a special anniversary or the celebration of it</td></tr>
-<tr><td>jubilation</td><td>jūbi̊lātio̊n</td><td>jubil-at-ion</td><td>jūbi̊l-āt-io̊n</td><td>n a feeling of extreme joy<br>n a joyful occasion for special festivities to mark some happy event<br>n the utterance of sounds expressing great joy</td></tr>
+<tr><td>jubilant</td><td>jūbilånt</td><td>jubil-ant</td><td>jūbil-ånt</td><td>a. full of joy and triumph</td></tr>
+<tr><td>jubilee</td><td>jūbilēe</td><td>jubil-ee</td><td>jūbil-ēe</td><td>n. a special anniversary or the celebration of it</td></tr>
+<tr><td>jubilation</td><td>jūbilātio̊n</td><td>jubil-at-ion</td><td>jūbil-āt-io̊n</td><td>n a feeling of extreme joy<br>n a joyful occasion for special festivities to mark some happy event<br>n the utterance of sounds expressing great joy</td></tr>
 <tr><td>jubilantly</td><td>jūbilåntlẏ</td><td>jubil-ant-ly</td><td>jūbil-ånt-lẏ</td><td>adv. in a joyous manner</td></tr>
 <tr><td>adjudicate</td><td>ådjūdicāte</td><td>ad-judic-ate</td><td>åd-jūdic-āte</td><td>v. to hear and settle a case</td></tr>
-<tr><td>adjudication</td><td>ådjūdi̊cātio̊n</td><td>ad-judic-at-ion</td><td>åd-jūdi̊c-āt-io̊n</td><td>n. the final judgment in a legal proceeding</td></tr>
+<tr><td>adjudication</td><td>ådjūdicātio̊n</td><td>ad-judic-at-ion</td><td>åd-jūdic-āt-io̊n</td><td>n. the final judgment in a legal proceeding</td></tr>
 <tr><td>adjudicator</td><td>ådjūdicāto̊r</td><td>ad-judic-at-or</td><td>åd-jūdic-āt-o̊r</td><td>n. a person who studies and settles conflicts and disputes</td></tr>
-<tr><td>extrajudicial</td><td>extråjùdiciål</td><td>extra-jud-ic-i-al</td><td>extrå-jùd-ic-i-ål</td><td>a. beyond the usual course of legal proceedings</td></tr>
+<tr><td>extrajudicial</td><td>extråjūdiciål</td><td>extra-jud-ic-i-al</td><td>extrå-jūd-ic-i-ål</td><td>a. beyond the usual course of legal proceedings</td></tr>
 <tr><td>prejudice</td><td>prejůdice</td><td>pre-jud-ice</td><td>pre-jůd-ice</td><td>n. a preconceived opinion that is not based on reason or actual experience<br>v. to cause to have a prejudice; to influence unfairly</td></tr>
 <tr><td>prejudicial</td><td>prejūdiciål</td><td>pre-judic-i-al</td><td>pre-jūdic-i-ål</td><td>a. tending to favor preconceived ideas</td></tr>
-<tr><td>prejudiced</td><td>prejūdi̊c𝕖ḋ</td><td>pre-jud-ic-ed</td><td>pre-jūd-i̊c-𝕖ḋ</td><td>a. being biased or having a belief formed beforehand</td></tr>
-<tr><td>unprejudiced</td><td>ûnprejùdic𝕖ḋ</td><td>un-pre-jud-ic-ed</td><td>ûn-pre-jùd-ic-𝕖ḋ</td><td>a. free from undue bias or preconceived opinions</td></tr>
+<tr><td>prejudiced</td><td>prejūdic𝕖ḋ</td><td>pre-jud-ic-ed</td><td>pre-jūd-ic-𝕖ḋ</td><td>a. being biased or having a belief formed beforehand</td></tr>
+<tr><td>unprejudiced</td><td>ûnprejūdic𝕖ḋ</td><td>un-pre-jud-ic-ed</td><td>ûn-pre-jūd-ic-𝕖ḋ</td><td>a. free from undue bias or preconceived opinions</td></tr>
 <tr><td>judaic</td><td>jūdāic</td><td>juda-ic</td><td>jūdā-ic</td><td>a. of or relating to Judaism</td></tr>
-<tr><td>judean</td><td>jūdēan</td><td>jude-an</td><td>jūdē-an</td><td>a. of or relating to Judea<br>n. a native or inhabitant of Judea</td></tr>
+<tr><td>judean</td><td>jūdēån</td><td>jude-an</td><td>jūdē-ån</td><td>a. of or relating to Judea<br>n. a native or inhabitant of Judea</td></tr>
 <tr><td>judge</td><td>jûdge</td><td>judge</td><td>jûdge</td><td>n. a public official who decides cases in a court of law<br>v. to form an opinion about something</td></tr>
 <tr><td>judged</td><td>jûdg𝕖d</td><td>judg-ed</td><td>jûdg-𝕖d</td><td>v. form a critical opinion of<br>v. determine the result of a competition</td></tr>
 <tr><td>judging</td><td>jûdging</td><td>judg-ing</td><td>jûdg-ing</td><td>n. the cognitive process of reaching a decision or drawing conclusions<br>v. form a critical opinion of</td></tr>
@@ -440,16 +440,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>misjudge</td><td>misjûdge</td><td>mis-judge</td><td>mis-jûdge</td><td>v. to judge incorrectly</td></tr>
 <tr><td>misjudgment</td><td>misjûdgme̊nt</td><td>mis-judg-ment</td><td>mis-jûdg-me̊nt</td><td>n. a wrong or unjust judgment</td></tr>
 <tr><td>nonjudgmental</td><td>nonjûdgmentål</td><td>non-judg-ment-al</td><td>non-jûdg-ment-ål</td><td>a. refraining from judgments based on personal opinions or standards</td></tr>
-<tr><td>prejudge</td><td>prējûdge</td><td>pre-judge</td><td>prē-jûdge</td><td>v. judge beforehand, especially without sufficient evidence</td></tr>
-<tr><td>prejudgment</td><td>prējûdgme̊nt</td><td>pre-judg-ment</td><td>prē-jûdg-me̊nt</td><td>n. a judgment reached before the evidence is available</td></tr>
+<tr><td>prejudge</td><td>prėjûdge</td><td>pre-judge</td><td>prė-jûdge</td><td>v. judge beforehand, especially without sufficient evidence</td></tr>
+<tr><td>prejudgment</td><td>prėjûdgme̊nt</td><td>pre-judg-ment</td><td>prė-jûdg-me̊nt</td><td>n. a judgment reached before the evidence is available</td></tr>
 <tr><td>judicious</td><td>jūdicio̊us</td><td>judic-ious</td><td>jūdic-io̊us</td><td>a. marked by the exercise of good judgment or common sense in practical matters</td></tr>
 <tr><td>judicial</td><td>jūdiciål</td><td>judic-i-al</td><td>jūdic-i-ål</td><td>a. relating to the administration of justice or the function of a judge</td></tr>
-<tr><td>judiciary</td><td>jūdiċiarẏ</td><td>judic-i-ary</td><td>jūdiċ-i-arẏ</td><td>n. persons who administer justice<br>n. the system of law courts that administer justice</td></tr>
+<tr><td>judiciary</td><td>jūdiciårẏ</td><td>judic-i-ary</td><td>jūdic-i-årẏ</td><td>n. persons who administer justice<br>n. the system of law courts that administer justice</td></tr>
 <tr><td>judicature</td><td>jūdicåtůre</td><td>judic-at-ure</td><td>jūdic-åt-ůre</td><td>n. the administration of justice; a court system</td></tr>
 <tr><td>judicially</td><td>jūdiciållẏ</td><td>judic-i-al-ly</td><td>jūdic-i-ål-lẏ</td><td>adv. in a judicial manner</td></tr>
 <tr><td>judiciously</td><td>jūdicio̊uslẏ</td><td>judic-i-ous-ly</td><td>jūdic-i-o̊us-lẏ</td><td>adv. in a judicious manner</td></tr>
-<tr><td>judiciousness</td><td>jùdicio̊usnėss</td><td>judic-i-ous-ness</td><td>jùdic-i-o̊us-nėss</td><td>n. the quality of having good judgment</td></tr>
-<tr><td>adjudicative</td><td>ådjūdicātive</td><td>ad-judic-at-ive</td><td>åd-jūdic-āt-ive</td><td>a. concerned with adjudicating</td></tr>
+<tr><td>judiciousness</td><td>jūdicio̊usnėss</td><td>judic-i-ous-ness</td><td>jūdic-i-o̊us-nėss</td><td>n. the quality of having good judgment</td></tr>
+<tr><td>adjudicative</td><td>ådjūdicåtive</td><td>ad-judic-at-ive</td><td>åd-jūdic-åt-ive</td><td>a. concerned with adjudicating</td></tr>
 <tr><td>judo</td><td>jūdō</td><td>judo</td><td>jūdō</td><td>n. a Japanese sport adapted from jujitsu, similar to wrestling</td></tr>
 <tr><td>jug</td><td>jûg</td><td>jug</td><td>jûg</td><td>n. a large container for liquids with a narrow mouth</td></tr>
 <tr><td>juggler</td><td>jûggle̊r</td><td>juggl-er</td><td>jûggl-e̊r</td><td>n. a performer who juggles objects and performs tricks of manual dexterity</td></tr>
@@ -461,12 +461,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>conjugate</td><td>conjūgāte</td><td>con-jug-ate</td><td>con-jūg-āte</td><td>v. add inflections showing person, number, gender, tense, etc.<br>a. joined together especially in a pair</td></tr>
 <tr><td>conjugated</td><td>conjūgātėd</td><td>con-jug-at-ed</td><td>con-jūg-āt-ėd</td><td>v. add inflections showing person, number, gender, tense, etc.<br>a. joined together especially in a pair or pairs</td></tr>
 <tr><td>conjugation</td><td>conjūgātio̊n</td><td>con-jug-at-ion</td><td>con-jūg-āt-io̊n</td><td>n. the inflection of verbs<br>n. the act of joining together</td></tr>
-<tr><td>subjugate</td><td>sûbjûgāte</td><td>sub-jug-ate</td><td>sûb-jûg-āte</td><td>v. make subservient; force to submit or subdue</td></tr>
-<tr><td>subjugated</td><td>sûbjûgātėd</td><td>sub-jug-at-ed</td><td>sûb-jûg-āt-ėd</td><td>a. reduced to submission</td></tr>
-<tr><td>subjugation</td><td>sûbjùgātio̊n</td><td>sub-jug-at-ion</td><td>sûb-jùg-āt-io̊n</td><td>n. forced submission to control by others</td></tr>
+<tr><td>subjugate</td><td>sûbjůgāte</td><td>sub-jug-ate</td><td>sûb-jůg-āte</td><td>v. make subservient; force to submit or subdue</td></tr>
+<tr><td>subjugated</td><td>sûbjůgātėd</td><td>sub-jug-at-ed</td><td>sûb-jůg-āt-ėd</td><td>a. reduced to submission</td></tr>
+<tr><td>subjugation</td><td>sûbjůgātio̊n</td><td>sub-jug-at-ion</td><td>sûb-jůg-āt-io̊n</td><td>n. forced submission to control by others</td></tr>
 <tr><td>juggernaut</td><td>jûgge̊rnãut</td><td>juggernaut</td><td>jûgge̊rnãut</td><td>n. a massive inexorable force</td></tr>
 <tr><td>jugular</td><td>jūgūlår</td><td>jugul-ar</td><td>jūgūl-år</td><td>n. a vital part that is vulnerable to attack<br>a. relating to or located in the region of the neck or throat</td></tr>
-<tr><td>jugulate</td><td>jūgùlāte</td><td>jugul-ate</td><td>jūgùl-āte</td><td>vt. to cut the throat; to suppress</td></tr>
+<tr><td>jugulate</td><td>jūgūlāte</td><td>jugul-ate</td><td>jūgūl-āte</td><td>vt. to cut the throat; to suppress</td></tr>
 <tr><td>juice</td><td>jūice</td><td>juice</td><td>jūice</td><td>n. the liquid obtained from fruit or vegetables<br>n. energetic vitality</td></tr>
 <tr><td>juicer</td><td>jūice̊r</td><td>juic-er</td><td>jūic-e̊r</td><td>n. a device for extracting juice from fruit<br>n. a person who drinks heavily</td></tr>
 <tr><td>juices</td><td>jūicėṡ</td><td>juice-s</td><td>jūicė-ṡ</td><td></td></tr>
@@ -478,10 +478,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jujitsu</td><td>jūjitsū</td><td>jujitsu</td><td>jūjitsū</td><td>n. a method of self-defense without weapons developed in Japan</td></tr>
 <tr><td>juju</td><td>jūjū</td><td>juju</td><td>jūjū</td><td>n. the power associated with a juju<br>n. a charm superstitiously believed to embody magical powers</td></tr>
 <tr><td>juke</td><td>jūke</td><td>juke</td><td>jūke</td><td>n. (football) a deceptive move made by a football player</td></tr>
-<tr><td>julienne</td><td>jūlienne</td><td>julienne</td><td>jūlienne</td><td>n. a vegetable cut into thin strips<br>vt. cut into long thin strips</td></tr>
-<tr><td>julep</td><td>jūle̊p</td><td>julep</td><td>jūle̊p</td><td>n. bourbon and sugar and mint over crushed ice</td></tr>
+<tr><td>julienne</td><td>jūlie̊nne</td><td>julienne</td><td>jūlie̊nne</td><td>n. a vegetable cut into thin strips<br>vt. cut into long thin strips</td></tr>
+<tr><td>julep</td><td>jūlep</td><td>julep</td><td>jūlep</td><td>n. bourbon and sugar and mint over crushed ice</td></tr>
 <tr><td>Jules</td><td>Jūl𝕖ṡ</td><td>Jules</td><td>Jūl𝕖ṡ</td><td>n. a male given name</td></tr>
-<tr><td>Julie</td><td>Jūliē</td><td>Julie</td><td>Jūliē</td><td>n. a female given name</td></tr>
+<tr><td>Julie</td><td>Jūlie</td><td>Julie</td><td>Jūlie</td><td>n. a female given name</td></tr>
 <tr><td>july</td><td>jūlȳ</td><td></td><td></td><td>n. the seventh month of the year</td></tr>
 <tr><td>jumbled</td><td>jûmbl𝕖d</td><td>jumbl-ed</td><td>jûmbl-𝕖d</td><td>a. in utter disorder</td></tr>
 <tr><td>jumble</td><td>jûmble</td><td>jumb-le</td><td>jûmb-le</td><td>v. to mix in a confused mass<br>n. a confused mixture</td></tr>
@@ -498,11 +498,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>adjunct</td><td>adjûnct</td><td>ad-junct</td><td>ad-jûnct</td><td>n. something added but not essential; a helper<br>a. auxiliary</td></tr>
 <tr><td>adjunctive</td><td>ådjûnctive</td><td>ad-junct-ive</td><td>åd-jûnct-ive</td><td>a. joining; forming an adjunct</td></tr>
 <tr><td>conjunction</td><td>co̊njûnctio̊n</td><td>con-junct-ion</td><td>co̊n-jûnct-io̊n</td><td>n. the act of joining together<br>n. a word that connects words or sentences</td></tr>
-<tr><td>conjunctiva</td><td>conjûnctīvå</td><td>con-junct-iva</td><td>con-jûnct-īvå</td><td>n. a transparent mucous membrane that covers the eyeball</td></tr>
+<tr><td>conjunctiva</td><td>co̊njûnctivå</td><td>con-junct-iva</td><td>co̊n-jûnct-ivå</td><td>n. a transparent mucous membrane that covers the eyeball</td></tr>
 <tr><td>conjunctive</td><td>co̊njûnctive</td><td>con-junct-ive</td><td>co̊n-jûnct-ive</td><td>a. serving or tending to connect</td></tr>
 <tr><td>conjunctivitis</td><td>co̊njûnctivītis</td><td>con-junctiv-itis</td><td>co̊n-jûnctiv-ītis</td><td>n. inflammation of the conjunctiva of the eye</td></tr>
 <tr><td>conjuncture</td><td>co̊njûnctůre</td><td>con-junct-ure</td><td>co̊n-jûnct-ůre</td><td>n. a critical combination of events or circumstances</td></tr>
-<tr><td>conjunctival</td><td>co̊njůnctivål</td><td>con-junct-iv-al</td><td>co̊n-jůnct-iv-ål</td><td>a. of or relating to the conjunctiva</td></tr>
+<tr><td>conjunctival</td><td>co̊njûnctīvål</td><td>con-junct-iv-al</td><td>co̊n-jûnct-īv-ål</td><td>a. of or relating to the conjunctiva</td></tr>
 <tr><td>conjunctural</td><td>co̊njûnctůrål</td><td>con-junct-ur-al</td><td>co̊n-jûnct-ůr-ål</td><td>a. relating to or dependent on circumstances</td></tr>
 <tr><td>disjunct</td><td>disjûnct</td><td>dis-junct</td><td>dis-jûnct</td><td>a. marked by separation of or from usually contiguous elements</td></tr>
 <tr><td>disjunction</td><td>disjûnctio̊n</td><td>dis-junct-ion</td><td>dis-jûnct-io̊n</td><td>n. state of being disconnected</td></tr>
@@ -516,30 +516,30 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>jungle</td><td>jûngle</td><td>jung-le</td><td>jûng-le</td><td>n. a dense tropical forest</td></tr>
 <tr><td>jungly</td><td>jûnglẏ</td><td>jungl-y</td><td>jûngl-ẏ</td><td>a. overgrown with tropical vegetation</td></tr>
 <tr><td>jungles</td><td>jûngl𝕖ṡ</td><td>jung-le-s</td><td>jûng-l𝕖-ṡ</td><td></td></tr>
-<tr><td>juniper</td><td>jūni̊pe̊r</td><td>junip-er</td><td>jūni̊p-e̊r</td><td>n. coniferous shrub or small tree with berrylike cones</td></tr>
+<tr><td>juniper</td><td>jūnipe̊r</td><td>junip-er</td><td>jūnip-e̊r</td><td>n. coniferous shrub or small tree with berrylike cones</td></tr>
 <tr><td>junk</td><td>jûnk</td><td>junk</td><td>jûnk</td><td>n. old or discarded articles that are considered useless<br>v. to discard as worthless</td></tr>
 <tr><td>junked</td><td>jûnk𝕖ḋ</td><td>junk-ed</td><td>jûnk-𝕖ḋ</td><td>v. dispose of something useless or old</td></tr>
 <tr><td>junker</td><td>jûnke̊r</td><td>junk-er</td><td>jûnk-e̊r</td><td>n. member of the Prussian aristocracy noted especially for militarism<br>n. an old car in a dilapidated condition</td></tr>
 <tr><td>junket</td><td>jûnkėt</td><td>junk-et</td><td>jûnk-ėt</td><td>n. a trip taken by an official at public expense</td></tr>
-<tr><td>junkie</td><td>jûnkiē</td><td>junk-ie</td><td>jûnk-iē</td><td>n. a narcotics addict; someone who is ardently devoted to something</td></tr>
+<tr><td>junkie</td><td>jûnkie</td><td>junk-ie</td><td>jûnk-ie</td><td>n. a narcotics addict; someone who is ardently devoted to something</td></tr>
 <tr><td>junkman</td><td>jûnkmån</td><td>junk-man</td><td>jûnk-mån</td><td>n. a person who buys and sells scrap materials</td></tr>
 <tr><td>junks</td><td>jûnks</td><td>junk-s</td><td>jûnk-s</td><td></td></tr>
 <tr><td>junky</td><td>jûnkẏ</td><td>junk-y</td><td>jûnk-ẏ</td><td>n. a narcotics addict<br>n. someone ardently devoted to something</td></tr>
-<tr><td>junta</td><td>jùntå</td><td>junt-a</td><td>jùnt-å</td><td>n a group of military officers who rule a country after seizing power</td></tr>
+<tr><td>junta</td><td>jûntå</td><td>junt-a</td><td>jûnt-å</td><td>n a group of military officers who rule a country after seizing power</td></tr>
 <tr><td>junto</td><td>jûntō</td><td>junt-o</td><td>jûnt-ō</td><td>n. a clique (often secret) that seeks power usually through intrigue</td></tr>
 <tr><td>Jupiter</td><td>Jūpite̊r</td><td>Jup-it-er</td><td>Jūp-it-e̊r</td><td>n. the fifth planet from the sun; the Roman king of gods</td></tr>
-<tr><td>jupiter</td><td>jūpi̊te̊r</td><td></td><td></td><td>n. the fifth planet from the sun; the Roman king of gods</td></tr>
-<tr><td>jural</td><td>jůrål</td><td>jur-al</td><td>jůr-ål</td><td>a. of or relating to law or to legal rights and obligations</td></tr>
+<tr><td>jupiter</td><td>jūpite̊r</td><td></td><td></td><td>n. the fifth planet from the sun; the Roman king of gods</td></tr>
+<tr><td>jural</td><td>jūrål</td><td>jur-al</td><td>jūr-ål</td><td>a. of or relating to law or to legal rights and obligations</td></tr>
 <tr><td>juries</td><td>jūri𝕖ṡ</td><td>jur-ies</td><td>jūr-i𝕖ṡ</td><td></td></tr>
-<tr><td>jurist</td><td>jūri̊st</td><td>jur-ist</td><td>jūr-i̊st</td><td>n. a legal scholar versed in civil law or the law of nations</td></tr>
+<tr><td>jurist</td><td>jūrist</td><td>jur-ist</td><td>jūr-ist</td><td>n. a legal scholar versed in civil law or the law of nations</td></tr>
 <tr><td>juror</td><td>jūro̊r</td><td>jur-or</td><td>jūr-o̊r</td><td>n. a member of a jury</td></tr>
 <tr><td>jury</td><td>jūrẏ</td><td>jur-y</td><td>jūr-ẏ</td><td>n. a body of people sworn to give a verdict in a court of law<br>n. a group of people judging a competition</td></tr>
-<tr><td>juried</td><td>jūrĩ𝕖d</td><td>jur-i-ed</td><td>jūr-ĩ-𝕖d</td><td>a. evaluated or judged by a panel</td></tr>
+<tr><td>juried</td><td>jūri𝕖d</td><td>jur-i-ed</td><td>jūr-i-𝕖d</td><td>a. evaluated or judged by a panel</td></tr>
 <tr><td>jurassic</td><td>jūrassic</td><td>jur-ass-ic</td><td>jūr-ass-ic</td><td>a. relating to the Jurassic geological period</td></tr>
-<tr><td>juridical</td><td>jůridicål</td><td>jur-id-ic-al</td><td>jůr-id-ic-ål</td><td>a. of or relating to the law or jurisprudence</td></tr>
+<tr><td>juridical</td><td>jūridicål</td><td>jur-id-ic-al</td><td>jūr-id-ic-ål</td><td>a. of or relating to the law or jurisprudence</td></tr>
 <tr><td>abjure</td><td>åbjūre</td><td>ab-jure</td><td>åb-jūre</td><td>v. formally reject or disavow a formerly held belief, usually under pressure</td></tr>
-<tr><td>adjure</td><td>ådjùre</td><td>ad-jure</td><td>åd-jùre</td><td>vt. to urge or command solemnly, often under oath</td></tr>
-<tr><td>adjuration</td><td>adjùrātio̊n</td><td>ad-jur-at-ion</td><td>ad-jùr-āt-io̊n</td><td>n. a solemn command or earnest appeal</td></tr>
+<tr><td>adjure</td><td>ådjūre</td><td>ad-jure</td><td>åd-jūre</td><td>vt. to urge or command solemnly, often under oath</td></tr>
+<tr><td>adjuration</td><td>ådjūrātio̊n</td><td>ad-jur-at-ion</td><td>åd-jūr-āt-io̊n</td><td>n. a solemn command or earnest appeal</td></tr>
 <tr><td>conjure</td><td>cônjůre</td><td>con-jure</td><td>côn-jůre</td><td>v. make something appear by magic<br>v. call upon a spirit</td></tr>
 <tr><td>conjurer</td><td>cônjůre̊r</td><td>con-jur-er</td><td>côn-jůr-e̊r</td><td>n. a person who performs magic tricks</td></tr>
 <tr><td>conjuring</td><td>cônjůring</td><td>con-jur-ing</td><td>côn-jůr-ing</td><td>n. calling up a spirit or devil</td></tr>
@@ -551,30 +551,30 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>injurious</td><td>injūrio̊us</td><td>in-jur-ious</td><td>in-jūr-io̊us</td><td>a. harmful to living things</td></tr>
 <tr><td>injures</td><td>injůr𝕖ṡ</td><td>in-jure-s</td><td>in-jůr𝕖-ṡ</td><td></td></tr>
 <tr><td>injury</td><td>injůrẏ</td><td>in-jur-y</td><td>in-jůr-ẏ</td><td>n. physical harm or damage to someone&#x27;s body</td></tr>
-<tr><td>objurgate</td><td>objurgāte</td><td>ob-jurg-ate</td><td>ob-jurg-āte</td><td>vt. to scold or rebuke severely</td></tr>
-<tr><td>perjure</td><td>pe̊rjůre</td><td>per-jure</td><td>pe̊r-jůre</td><td>v. tell an untruth when giving evidence in a court of law</td></tr>
-<tr><td>perjured</td><td>pe̊rjůr𝕖d</td><td>per-jur-ed</td><td>pe̊r-jůr-𝕖d</td><td>v. knowingly tell an untruth in a legal court and render oneself guilty of perjury</td></tr>
-<tr><td>perjurer</td><td>pe̊rjůre̊r</td><td>per-jur-er</td><td>pe̊r-jůr-e̊r</td><td>n. a person who deliberately gives false testimony</td></tr>
+<tr><td>objurgate</td><td>objůrgāte</td><td>ob-jurg-ate</td><td>ob-jůrg-āte</td><td>vt. to scold or rebuke severely</td></tr>
+<tr><td>perjure</td><td>pe̊rjūre</td><td>per-jure</td><td>pe̊r-jūre</td><td>v. tell an untruth when giving evidence in a court of law</td></tr>
+<tr><td>perjured</td><td>pe̊rjūr𝕖d</td><td>per-jur-ed</td><td>pe̊r-jūr-𝕖d</td><td>v. knowingly tell an untruth in a legal court and render oneself guilty of perjury</td></tr>
+<tr><td>perjurer</td><td>pe̊rjūre̊r</td><td>per-jur-er</td><td>pe̊r-jūr-e̊r</td><td>n. a person who deliberately gives false testimony</td></tr>
 <tr><td>perjury</td><td>pe̊rjůrẏ</td><td>per-jur-y</td><td>pe̊r-jůr-ẏ</td><td>n. criminal offense of making false statements under oath</td></tr>
 <tr><td>perjurious</td><td>pe̊rjūrio̊us</td><td>per-jur-i-ous</td><td>pe̊r-jūr-i-o̊us</td><td>a. willfully giving false testimony under oath</td></tr>
 <tr><td>uninjured</td><td>ûninjůr𝕖d</td><td>un-in-jur-ed</td><td>ûn-in-jůr-𝕖d</td><td>a. not injured physically or mentally</td></tr>
-<tr><td>jurisprudence</td><td>jūri̊sprūde̊nce</td><td>juris-prud-ence</td><td>jūri̊s-prūd-e̊nce</td><td>n. the theory or philosophy of law</td></tr>
-<tr><td>jurisdiction</td><td>jūri̊sdictio̊n</td><td>juris-dict-ion</td><td>jūri̊s-dict-io̊n</td><td>n. in law; the territory within which power can be exercised</td></tr>
-<tr><td>jurisdictional</td><td>jūri̊sdictio̊nål</td><td>juris-dict-ion-al</td><td>jūri̊s-dict-io̊n-ål</td><td>a. restricted to the geographic area under a particular jurisdiction</td></tr>
-<tr><td>jurisprudential</td><td>jūri̊sprūdentiål</td><td>juris-prud-ent-ial</td><td>jūri̊s-prūd-ent-iål</td><td>a. relating to the science or philosophy of law or a system of laws</td></tr>
-<tr><td>jus</td><td>jūs</td><td>jus</td><td>jūs</td><td>n. law; right (Latin)<br>n. the juice that comes from meat while it is cooking</td></tr>
+<tr><td>jurisprudence</td><td>jūrisprūde̊nce</td><td>juris-prud-ence</td><td>jūris-prūd-e̊nce</td><td>n. the theory or philosophy of law</td></tr>
+<tr><td>jurisdiction</td><td>jūrisdictio̊n</td><td>juris-dict-ion</td><td>jūris-dict-io̊n</td><td>n. in law; the territory within which power can be exercised</td></tr>
+<tr><td>jurisdictional</td><td>jūrisdictio̊nål</td><td>juris-dict-ion-al</td><td>jūris-dict-io̊n-ål</td><td>a. restricted to the geographic area under a particular jurisdiction</td></tr>
+<tr><td>jurisprudential</td><td>jūrisprūdentiål</td><td>juris-prud-ent-ial</td><td>jūris-prūd-ent-iål</td><td>a. relating to the science or philosophy of law or a system of laws</td></tr>
+<tr><td>jus</td><td>jûs</td><td>jus</td><td>jûs</td><td>n. law; right (Latin)<br>n. the juice that comes from meat while it is cooking</td></tr>
 <tr><td>just</td><td>jûst</td><td>just</td><td>jûst</td><td>adv. exactly; very recently; only; barely<br>a. legally or ethically right; fair</td></tr>
 <tr><td>justice</td><td>jûstice</td><td>just-ice</td><td>jûst-ice</td><td>n. just behaviour or treatment<br>n. the administration of the law or authority in maintaining this</td></tr>
 <tr><td>justify</td><td>jûstifȳ</td><td>just-ify</td><td>jûst-ifȳ</td><td>v. show to be reasonable or provide adequate ground for<br>v. show to be right by providing justification or proof</td></tr>
 <tr><td>justly</td><td>jûstlẏ</td><td>just-ly</td><td>jûst-lẏ</td><td>adv. in accordance with moral or social standards</td></tr>
 <tr><td>justness</td><td>jûstnėss</td><td>just-ness</td><td>jûst-nėss</td><td>n. conformity with some esthetic standard of correctness or propriety</td></tr>
-<tr><td>justifying</td><td>jûsti̊fȳing</td><td>just-ify-ing</td><td>jûst-i̊fȳ-ing</td><td>v. show to be reasonable or provide adequate ground for<br>v. adjust the spaces between words</td></tr>
+<tr><td>justifying</td><td>jûstifȳing</td><td>just-ify-ing</td><td>jûst-ifȳ-ing</td><td>v. show to be reasonable or provide adequate ground for<br>v. adjust the spaces between words</td></tr>
 <tr><td>just-in-time</td><td></td><td>just-in-time</td><td></td><td>n. a production strategy to improve efficiency</td></tr>
-<tr><td>justifiable</td><td>jûsti̊fīåble</td><td>just-if-i-able</td><td>jûst-i̊f-ī-åble</td><td>a. capable of being justified</td></tr>
-<tr><td>justified</td><td>jûsti̊fī𝕖d</td><td>just-i-fi-ed</td><td>jûst-i̊-fī-𝕖d</td><td>a. having a good reason; aligned evenly</td></tr>
-<tr><td>justification</td><td>jûsti̊fi̊cātio̊n</td><td>just-i-fic-at-ion</td><td>jûst-i̊-fi̊c-āt-io̊n</td><td>n. a good reason for doing something<br>n. the act of defending or explaining one&#x27;s actions</td></tr>
-<tr><td>justifiably</td><td>jûsti̊fīåblẏ</td><td>just-if-i-ab-ly</td><td>jûst-i̊f-ī-åb-lẏ</td><td>adv. with good reason</td></tr>
-<tr><td>justificatory</td><td>jûstificāto̊rẏ</td><td>just-if-ic-at-ory</td><td>jûst-if-ic-āt-o̊rẏ</td><td>a. attempting to justify or defend in speech or writing</td></tr>
+<tr><td>justifiable</td><td>jûstifīåble</td><td>just-if-i-able</td><td>jûst-if-ī-åble</td><td>a. capable of being justified</td></tr>
+<tr><td>justified</td><td>jûstifī𝕖d</td><td>just-i-fi-ed</td><td>jûst-i-fī-𝕖d</td><td>a. having a good reason; aligned evenly</td></tr>
+<tr><td>justification</td><td>jûstificātio̊n</td><td>just-i-fic-at-ion</td><td>jûst-i-fic-āt-io̊n</td><td>n. a good reason for doing something<br>n. the act of defending or explaining one&#x27;s actions</td></tr>
+<tr><td>justifiably</td><td>jûstifīåblẏ</td><td>just-if-i-ab-ly</td><td>jûst-if-ī-åb-lẏ</td><td>adv. with good reason</td></tr>
+<tr><td>justificatory</td><td>jûstificåto̊rẏ</td><td>just-if-ic-at-ory</td><td>jûst-if-ic-åt-o̊rẏ</td><td>a. attempting to justify or defend in speech or writing</td></tr>
 <tr><td>adjust</td><td>ådjûst</td><td>ad-just</td><td>åd-jûst</td><td>v. alter slightly to achieve accuracy<br>v. become used to new conditions</td></tr>
 <tr><td>adjustable</td><td>ådjûståble</td><td>ad-just-able</td><td>åd-jûst-åble</td><td>a. capable of being changed so as to match or fit</td></tr>
 <tr><td>adjusted</td><td>ådjûstėd</td><td>ad-just-ed</td><td>åd-jûst-ėd</td><td>a. altered or adapted to suit conditions</td></tr>
@@ -589,22 +589,22 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unjust</td><td>ûnjûst</td><td>un-just</td><td>ûn-jûst</td><td>a. not fair or deserved</td></tr>
 <tr><td>unjustly</td><td>ûnjûstlẏ</td><td>un-just-ly</td><td>ûn-jûst-lẏ</td><td>adv. in an unjust manner</td></tr>
 <tr><td>unjustifiable</td><td>ûnjûstifīåble</td><td>un-just-if-i-able</td><td>ûn-jûst-if-ī-åble</td><td>a. incapable of being justified or explained</td></tr>
-<tr><td>unjustified</td><td>ûnjûsti̊fī𝕖d</td><td>un-just-i-fi-ed</td><td>ûn-jûst-i̊-fī-𝕖d</td><td>a. lacking justification or authorization</td></tr>
+<tr><td>unjustified</td><td>ûnjûstifī𝕖d</td><td>un-just-i-fi-ed</td><td>ûn-jûst-i-fī-𝕖d</td><td>a. lacking justification or authorization</td></tr>
 <tr><td>unjustifiably</td><td>ûnjûstifīåblẏ</td><td>un-just-if-i-ab-ly</td><td>ûn-jûst-if-ī-åb-lẏ</td><td>adv. without any excuse</td></tr>
 <tr><td>maladjusted</td><td>malådjûstėd</td><td>mal-ad-just-ed</td><td>mal-åd-jûst-ėd</td><td>a. poorly adjusted to demands and stresses of daily living</td></tr>
 <tr><td>maladjustment</td><td>malådjûstme̊nt</td><td>mal-ad-just-ment</td><td>mal-åd-jûst-me̊nt</td><td>n. inability to adapt to one&#x27;s environment, causing emotional instability</td></tr>
-<tr><td>readjust</td><td>rėådjûst</td><td>re-ad-just</td><td>rė-åd-jûst</td><td>v. to adjust again</td></tr>
-<tr><td>readjustment</td><td>rėådjûstme̊nt</td><td>re-ad-just-ment</td><td>rė-åd-jûst-me̊nt</td><td>n. the act of adjusting again to changed circumstances</td></tr>
+<tr><td>readjust</td><td>rēådjûst</td><td>re-ad-just</td><td>rē-åd-jûst</td><td>v. to adjust again</td></tr>
+<tr><td>readjustment</td><td>rēådjûstme̊nt</td><td>re-ad-just-ment</td><td>rē-åd-jûst-me̊nt</td><td>n. the act of adjusting again to changed circumstances</td></tr>
 <tr><td>unadjusted</td><td>ûnådjûstėd</td><td>un-ad-just-ed</td><td>ûn-åd-jûst-ėd</td><td>a. not altered to fit certain requirements</td></tr>
 <tr><td>jut</td><td>jût</td><td>jut</td><td>jût</td><td>v. to extend out above or beyond a surface<br>n. something that juts out</td></tr>
 <tr><td>jutting</td><td>jûtting</td><td>jutt-ing</td><td>jûtt-ing</td><td>a. extending out above or beyond a surface or boundary</td></tr>
-<tr><td>adjutant</td><td>adjůtånt</td><td>ad-jut-ant</td><td>ad-jůt-ånt</td><td>n. an officer who acts as military assistant to a more senior officer</td></tr>
+<tr><td>adjutant</td><td>adjūtånt</td><td>ad-jut-ant</td><td>ad-jūt-ånt</td><td>n. an officer who acts as military assistant to a more senior officer</td></tr>
 <tr><td>jute</td><td>jūte</td><td>jute</td><td>jūte</td><td>n. a plant fiber used in making rope or sacks<br>n. a member of a Germanic people who settled in England</td></tr>
-<tr><td>adjuvant</td><td>adjùvånt</td><td>ad-juv-ant</td><td>ad-jùv-ånt</td><td>n. an additive that enhances the effectiveness of medical treatment<br>a. enhancing the action of a medical treatment</td></tr>
-<tr><td>juvenile</td><td>jūve̊ni̊le</td><td>juven-ile</td><td>jūve̊n-i̊le</td><td>n. a young person<br>a. relating to young people</td></tr>
+<tr><td>adjuvant</td><td>ådjūvånt</td><td>ad-juv-ant</td><td>åd-jūv-ånt</td><td>n. an additive that enhances the effectiveness of medical treatment<br>a. enhancing the action of a medical treatment</td></tr>
+<tr><td>juvenile</td><td>jūve̊nīle</td><td>juven-ile</td><td>jūve̊n-īle</td><td>n. a young person<br>a. relating to young people</td></tr>
 <tr><td>rejuvenate</td><td>rėjūve̊nāte</td><td>re-juven-ate</td><td>rė-jūve̊n-āte</td><td>v. to make younger or more youthful</td></tr>
 <tr><td>rejuvenated</td><td>rėjūve̊nātėd</td><td>re-juven-at-ed</td><td>rė-jūve̊n-āt-ėd</td><td>a. restored to youthful vigor</td></tr>
-<tr><td>rejuvenating</td><td>rējūve̊nāting</td><td>re-juven-at-ing</td><td>rē-jūve̊n-āt-ing</td><td>v. make younger or more youthful</td></tr>
+<tr><td>rejuvenating</td><td>rėjūve̊nāting</td><td>re-juven-at-ing</td><td>rė-jūve̊n-āt-ing</td><td>v. make younger or more youthful</td></tr>
 <tr><td>rejuvenation</td><td>rėjūve̊nātio̊n</td><td>re-juven-at-ion</td><td>rė-jūve̊n-āt-io̊n</td><td>n. the act of restoring to a more youthful condition</td></tr>
 </tbody>
 </table>

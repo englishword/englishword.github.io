@@ -1,4 +1,4 @@
-"""Read the installed Lingose 0.3 runtime without changing the package or its data."""
+"""Read the installed Lingose runtime without changing the package or its data."""
 import hashlib
 import importlib.metadata
 import importlib.resources

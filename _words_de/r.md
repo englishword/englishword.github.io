@@ -25,13 +25,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rabbits</td><td>rabbits</td><td>rabb-it-s</td><td>rabb-it-s</td><td></td></tr>
 <tr><td>rabbet</td><td>rabbėt</td><td>rabbet</td><td>rabbėt</td><td>n. a rectangular groove made to hold two pieces together<br>v. join with a rabbet joint</td></tr>
 <tr><td>rabbi</td><td>rabbī</td><td>rabbi</td><td>rabbī</td><td>n. a Jewish religious leader</td></tr>
-<tr><td>rabbinate</td><td>rabbinȧte</td><td>rabbin-ate</td><td>rabbin-ȧte</td><td>n. the office or function of a rabbi</td></tr>
+<tr><td>rabbinate</td><td>rabbināte</td><td>rabbin-ate</td><td>rabbin-āte</td><td>n. the office or function of a rabbi</td></tr>
 <tr><td>rabbis</td><td>rabbīṡ</td><td>rabbi-s</td><td>rabbī-ṡ</td><td></td></tr>
-<tr><td>rabbinical</td><td>råbbinicål</td><td>rabbin-ic-al</td><td>råbbin-ic-ål</td><td>a. of or relating to rabbis or their teachings</td></tr>
+<tr><td>rabbinical</td><td>rabbinicål</td><td>rabbin-ic-al</td><td>rabbin-ic-ål</td><td>a. of or relating to rabbis or their teachings</td></tr>
 <tr><td>rabbinic</td><td>rabbinic</td><td>rabbin-ic</td><td>rabbin-ic</td><td>a. of or relating to rabbis or their teachings</td></tr>
-<tr><td>rabid</td><td>rabid</td><td>rabid</td><td>rabid</td><td>a. of or infected by rabies<br>a. extreme or fanatical in opinion</td></tr>
-<tr><td>rabidly</td><td>rabidlẏ</td><td>rabid-ly</td><td>rabid-lẏ</td><td>adv. in a rabid manner; with extreme violence</td></tr>
-<tr><td>rabies</td><td>rābĩ𝕖ṡ</td><td>rabies</td><td>rābĩ𝕖ṡ</td><td>n. an acute viral disease of the nervous system</td></tr>
+<tr><td>rabid</td><td>rābid</td><td>rabid</td><td>rābid</td><td>a. of or infected by rabies<br>a. extreme or fanatical in opinion</td></tr>
+<tr><td>rabidly</td><td>rābidlẏ</td><td>rabid-ly</td><td>rābid-lẏ</td><td>adv. in a rabid manner; with extreme violence</td></tr>
+<tr><td>rabies</td><td>rābi𝕖ṡ</td><td>rabies</td><td>rābi𝕖ṡ</td><td>n. an acute viral disease of the nervous system</td></tr>
 <tr><td>race</td><td>rāce</td><td>race</td><td>rāce</td><td>n. a competition in speed<br>n. a group of people sharing the same distinct physical characteristics<br>v. to compete in a race</td></tr>
 <tr><td>racial</td><td>rāciål</td><td>raci-al</td><td>rāci-ål</td><td>a. relating to race or races</td></tr>
 <tr><td>racecar</td><td>rāc𝕖càr</td><td>race-car</td><td>rāc𝕖-càr</td><td>n. a fast car used in racing</td></tr>
@@ -41,25 +41,25 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>racism</td><td>rāciṡm</td><td>rac-ism</td><td>rāc-iṡm</td><td>n. prejudice or discrimination against someone of a different race</td></tr>
 <tr><td>racist</td><td>rācist</td><td>rac-ist</td><td>rāc-ist</td><td>n. a person who believes one race is superior to others<br>a. showing racial discrimination</td></tr>
 <tr><td>races</td><td>rācėṡ</td><td>race-s</td><td>rācė-ṡ</td><td></td></tr>
-<tr><td>raceway</td><td>rācewāy</td><td>race-way</td><td>rāce-wāy</td><td>n. a canal for a current of water</td></tr>
+<tr><td>raceway</td><td>rāc𝕖wāy</td><td>race-way</td><td>rāc𝕖-wāy</td><td>n. a canal for a current of water</td></tr>
 <tr><td>racy</td><td>rācẏ</td><td>rac-y</td><td>rāc-ẏ</td><td>a. lively and spirited</td></tr>
 <tr><td>racialism</td><td>rāciåliṡm</td><td>raci-al-ism</td><td>rāci-ål-iṡm</td><td>n discriminatory or abusive behavior towards members of another race</td></tr>
 <tr><td>racialist</td><td>rāciålist</td><td>raci-al-ist</td><td>rāci-ål-ist</td><td>n. a person with a prejudiced belief that one race is superior to others<br>a. of or relating to racialism</td></tr>
 <tr><td>racially</td><td>rāciållẏ</td><td>raci-al-ly</td><td>rāci-ål-lẏ</td><td>adv. with respect to race</td></tr>
-<tr><td>raciness</td><td>rācine̊ss</td><td>rac-i-ness</td><td>rāc-i-ne̊ss</td><td>n. the quality of being lively</td></tr>
+<tr><td>raciness</td><td>rācinėss</td><td>rac-i-ness</td><td>rāc-i-nėss</td><td>n. the quality of being lively</td></tr>
 <tr><td>racists</td><td>rācists</td><td>rac-ist-s</td><td>rāc-ist-s</td><td></td></tr>
 <tr><td>racoons</td><td>racoonṡ</td><td>rac-oon-s</td><td>rac-oon-ṡ</td><td></td></tr>
 <tr><td>racialized</td><td>rāciålīz𝕖d</td><td>raci-al-iz-ed</td><td>rāci-ål-īz-𝕖d</td><td>a. categorized or treated according to race</td></tr>
 <tr><td>racialization</td><td>rāciålīzātio̊n</td><td>raci-al-iz-at-ion</td><td>rāci-ål-īz-āt-io̊n</td><td>n. the process of ascribing racial identities to a group or individual</td></tr>
 <tr><td>biracial</td><td>bīrāciål</td><td>bi-raci-al</td><td>bī-rāci-ål</td><td>a. consisting of or combining two races</td></tr>
 <tr><td>interracial</td><td>inte̊rrāciål</td><td>inter-raci-al</td><td>inte̊r-rāci-ål</td><td>a. between or involving different races</td></tr>
-<tr><td>intraracial</td><td>intrarāciål</td><td>intra-raci-al</td><td>intra-rāci-ål</td><td>a. occurring within or involving members of the same race</td></tr>
-<tr><td>interracially</td><td>inte̊rrāciȧllẏ</td><td>inter-raci-al-ly</td><td>inte̊r-rāci-ȧl-lẏ</td><td>adv. between or involving different races</td></tr>
-<tr><td>multiracial</td><td>mûltīrāciål</td><td>multi-raci-al</td><td>mûltī-rāci-ål</td><td>a. made up of or involving various races</td></tr>
+<tr><td>intraracial</td><td>intrårāciål</td><td>intra-raci-al</td><td>intrå-rāci-ål</td><td>a. occurring within or involving members of the same race</td></tr>
+<tr><td>interracially</td><td>inte̊rrāciållẏ</td><td>inter-raci-al-ly</td><td>inte̊r-rāci-ål-lẏ</td><td>adv. between or involving different races</td></tr>
+<tr><td>multiracial</td><td>mûltirāciål</td><td>multi-raci-al</td><td>mûlti-rāci-ål</td><td>a. made up of or involving various races</td></tr>
 <tr><td>nonracist</td><td>nonrācist</td><td>non-rac-ist</td><td>non-rāc-ist</td><td>a. not racist</td></tr>
 <tr><td>raccoon</td><td>raccoon</td><td>raccoon</td><td>raccoon</td><td>n. an omnivorous nocturnal mammal native to North America</td></tr>
 <tr><td>raccoons</td><td>raccoonṡ</td><td>raccoon-s</td><td>raccoon-ṡ</td><td></td></tr>
-<tr><td>deracinate</td><td>dēracināte</td><td>de-racin-ate</td><td>dē-racin-āte</td><td>vt. to pull up by the roots; to destroy completely</td></tr>
+<tr><td>deracinate</td><td>de̊racināte</td><td>de-racin-ate</td><td>de̊-racin-āte</td><td>vt. to pull up by the roots; to destroy completely</td></tr>
 <tr><td>rack</td><td>rack</td><td>rack</td><td>rack</td><td>n. a framework for holding things<br>vt. cause great pain or suffering</td></tr>
 <tr><td>racket</td><td>rackėt</td><td>rack-et</td><td>rack-ėt</td><td>n. a sports implement used to strike a ball<br>n. a loud and disturbing noise<br>n. an illegal enterprise carried on for profit</td></tr>
 <tr><td>racks</td><td>racks</td><td>rack-s</td><td>rack-s</td><td></td></tr>
@@ -68,10 +68,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rackets</td><td>rackėts</td><td>rack-et-s</td><td>rack-ėt-s</td><td></td></tr>
 <tr><td>racquets</td><td>racq𝕦ėts</td><td>racqu-et-s</td><td>racq𝕦-ėt-s</td><td></td></tr>
 <tr><td>racketeering</td><td>rackėtēering</td><td>rack-et-eer-ing</td><td>rack-ėt-ēer-ing</td><td>n. engaging in a racket</td></tr>
-<tr><td>raclette</td><td>ràclette</td><td>raclette</td><td>ràclette</td><td>n. a Swiss dish consisting of melted cheese served with boiled potatoes</td></tr>
+<tr><td>raclette</td><td>raclette</td><td>raclette</td><td>raclette</td><td>n. a Swiss dish consisting of melted cheese served with boiled potatoes</td></tr>
 <tr><td>raconteur</td><td>raconte̊ur</td><td>racont-eur</td><td>racont-e̊ur</td><td>n. a person skilled in telling anecdotes</td></tr>
-<tr><td>racoon</td><td>råcoon</td><td>racoon</td><td>råcoon</td><td>n. an omnivorous nocturnal mammal native to North America and Central America</td></tr>
-<tr><td>racquet</td><td>racq𝕦ėt</td><td>racquet</td><td>racq𝕦ėt</td><td>n. a sports implement used to strike a ball in various games</td></tr>
+<tr><td>racoon</td><td>racoon</td><td>racoon</td><td>racoon</td><td>n. an omnivorous nocturnal mammal native to North America and Central America</td></tr>
+<tr><td>racquet</td><td>racquėt</td><td>racquet</td><td>racquėt</td><td>n. a sports implement used to strike a ball in various games</td></tr>
 <tr><td>cataract</td><td>catåract</td><td>cata-ract</td><td>catå-ract</td><td>n. a large waterfall<br>n. an eye condition causing clouding of the lens</td></tr>
 <tr><td>rad</td><td>rad</td><td>rad</td><td>rad</td><td>n. a unit of absorbed ionizing radiation equal to 100 ergs per gram of irradiated material<br>a. excellent; cool (slang)</td></tr>
 <tr><td>radish</td><td>radish</td><td>rad-ish</td><td>rad-ish</td><td>n. a small edible root with a sharp flavor, usually eaten raw</td></tr>
@@ -80,13 +80,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>radicalize</td><td>radicålīze</td><td>rad-ic-al-ize</td><td>rad-ic-ål-īze</td><td>v. to make more radical in social or political outlook</td></tr>
 <tr><td>radically</td><td>radicållẏ</td><td>rad-ic-al-ly</td><td>rad-ic-ål-lẏ</td><td>adv. in a thorough or fundamental way</td></tr>
 <tr><td>radicalized</td><td>radicålīz𝕖d</td><td>rad-ic-al-iz-ed</td><td>rad-ic-ål-īz-𝕖d</td><td>v. make more radical in social or political outlook</td></tr>
-<tr><td>radicalization</td><td>radicålizātio̊n</td><td>rad-ic-al-iz-at-ion</td><td>rad-ic-ål-iz-āt-io̊n</td><td>n. the process of making someone become more radical in political or religious beliefs</td></tr>
+<tr><td>radicalization</td><td>radicålīzātio̊n</td><td>rad-ic-al-iz-at-ion</td><td>rad-ic-ål-īz-āt-io̊n</td><td>n. the process of making someone become more radical in political or religious beliefs</td></tr>
 <tr><td>abrade</td><td>åbrāde</td><td>ab-rade</td><td>åb-rāde</td><td>v. wear away</td></tr>
-<tr><td>abraded</td><td>åbrād𝕖d</td><td>ab-rad-ed</td><td>åb-rād-𝕖d</td><td>v. wear away by rubbing</td></tr>
+<tr><td>abraded</td><td>åbrādėd</td><td>ab-rad-ed</td><td>åb-rād-ėd</td><td>v. wear away by rubbing</td></tr>
 <tr><td>comrade</td><td>comrāde</td><td>com-rade</td><td>com-rāde</td><td>n. a close companion or fellow member of an organization</td></tr>
 <tr><td>comradely</td><td>comrād𝕖lẏ</td><td>com-rade-ly</td><td>com-rād𝕖-lẏ</td><td>a. heartily friendly and congenial</td></tr>
 <tr><td>comradeship</td><td>comrād𝕖ship</td><td>com-rade-ship</td><td>com-rād𝕖-ship</td><td>n. the quality of affording easy familiarity and sociability</td></tr>
-<tr><td>irradicable</td><td>irradicåble</td><td>ir-rad-ic-able</td><td>ir-rad-ic-åble</td><td>a. unable to be rooted out</td></tr>
+<tr><td>irradicable</td><td>irrådicåble</td><td>ir-rad-ic-able</td><td>ir-råd-ic-åble</td><td>a. unable to be rooted out</td></tr>
 <tr><td>radar</td><td>rādàr</td><td>rad-ar</td><td>rād-àr</td><td>n. a system for detecting the presence of objects using radio waves</td></tr>
 <tr><td>radial</td><td>rādiål</td><td>radi-al</td><td>rādi-ål</td><td>a. relating to or moving along or having the direction of a radius</td></tr>
 <tr><td>radian</td><td>rādiån</td><td>radi-an</td><td>rādi-ån</td><td>n. the plane angle subtended at the center by an arc equal to the radius</td></tr>
@@ -99,29 +99,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>radiated</td><td>rādiātėd</td><td>radi-at-ed</td><td>rādi-āt-ėd</td><td>v. send out rays or waves</td></tr>
 <tr><td>radiating</td><td>rādiāting</td><td>radi-at-ing</td><td>rādi-āt-ing</td><td>a. diverging from a common point</td></tr>
 <tr><td>radiation</td><td>rādiātio̊n</td><td>radi-at-ion</td><td>rādi-āt-io̊n</td><td>n. energy emitted in the form of waves or particles</td></tr>
-<tr><td>radiative</td><td>rādiātive</td><td>radi-at-ive</td><td>rādi-āt-ive</td><td>a. relating to or producing radiation</td></tr>
+<tr><td>radiative</td><td>rādiåtive</td><td>radi-at-ive</td><td>rādi-åt-ive</td><td>a. relating to or producing radiation</td></tr>
 <tr><td>radially</td><td>rādiållẏ</td><td>radi-al-ly</td><td>rādi-ål-lẏ</td><td>adv. in a radial manner</td></tr>
 <tr><td>radiantly</td><td>rādiåntlẏ</td><td>radi-ant-ly</td><td>rādi-ånt-lẏ</td><td>adv. in a radiant manner</td></tr>
 <tr><td>radiator</td><td>rādiāto̊r</td><td>radi-at-or</td><td>rādi-āt-o̊r</td><td>n. a device for heating rooms<br>n. a mechanism for cooling an engine</td></tr>
 <tr><td>radios</td><td>rādiōṡ</td><td>radi-o-s</td><td>rādi-ō-ṡ</td><td></td></tr>
 <tr><td>radiometer</td><td>rādiomėte̊r</td><td>radi-o-met-er</td><td>rādi-o-mėt-e̊r</td><td>n. an instrument for detecting and measuring radiant energy</td></tr>
 <tr><td>radioactive</td><td>rādiōactive</td><td>radi-o-act-ive</td><td>rādi-ō-act-ive</td><td>a. exhibiting or caused by radioactivity</td></tr>
-<tr><td>radiographic</td><td>rādiōgraphic</td><td>radi-o-graph-ic</td><td>rādi-ō-graph-ic</td><td>a. relating to or produced by radiography</td></tr>
+<tr><td>radiographic</td><td>rādio̊graphic</td><td>radi-o-graph-ic</td><td>rādi-o̊-graph-ic</td><td>a. relating to or produced by radiography</td></tr>
 <tr><td>radiometric</td><td>rādiōmetric</td><td>radi-o-metr-ic</td><td>rādi-ō-metr-ic</td><td>a. of or relating to the measurement of radiant energy</td></tr>
 <tr><td>radiations</td><td>rādiātio̊nṡ</td><td>radi-at-ion-s</td><td>rādi-āt-io̊n-ṡ</td><td></td></tr>
 <tr><td>radioisotope</td><td>rādiōīso̊tōpe</td><td>radi-o-iso-tope</td><td>rādi-ō-īso̊-tōpe</td><td>n. a radioactive isotope of an element; produced either naturally or artificially</td></tr>
 <tr><td>radiotherapy</td><td>rādiōtheråpẏ</td><td>radi-o-therap-y</td><td>rādi-ō-theråp-ẏ</td><td>n. the treatment of disease, especially cancer, by exposure to radiation</td></tr>
 <tr><td>radioactivity</td><td>rādiōactivitẏ</td><td>radi-o-act-iv-ity</td><td>rādi-ō-act-iv-itẏ</td><td>n. the spontaneous emission of radiation from atomic nuclei</td></tr>
 <tr><td>radioactively</td><td>rādiōactiv𝕖lẏ</td><td>radi-o-act-ive-ly</td><td>rādi-ō-act-iv𝕖-lẏ</td><td>adv. in a radioactive manner</td></tr>
-<tr><td>radiographically</td><td>rādiōgràphicållẏ</td><td>radi-o-graph-ic-al-ly</td><td>rādi-ō-gràph-ic-ål-lẏ</td><td>adv. by means of radiography</td></tr>
+<tr><td>radiographically</td><td>rādio̊graphicållẏ</td><td>radi-o-graph-ic-al-ly</td><td>rādi-o̊-graph-ic-ål-lẏ</td><td>adv. by means of radiography</td></tr>
 <tr><td>irradiate</td><td>irrādiāte</td><td>ir-radi-ate</td><td>ir-rādi-āte</td><td>v. cast rays of light upon<br>v. expose to radiation</td></tr>
 <tr><td>irradiated</td><td>irrādiātėd</td><td>ir-radi-at-ed</td><td>ir-rādi-āt-ėd</td><td>v. expose to radiation<br>v. cast rays of light upon</td></tr>
 <tr><td>irradiation</td><td>irrādiātio̊n</td><td>ir-radi-at-ion</td><td>ir-rādi-āt-io̊n</td><td>n. exposure to radiation; the apparent enlargement of a bright object</td></tr>
-<tr><td>reradiate</td><td>rērādiāte</td><td>re-radi-ate</td><td>rē-rādi-āte</td><td>vt. to radiate again</td></tr>
-<tr><td>eradicate</td><td>ēradi̊cāte</td><td>e-radic-ate</td><td>ē-radi̊c-āte</td><td>vt. to destroy completely; to wipe out</td></tr>
-<tr><td>eradication</td><td>ēradi̊cātio̊n</td><td>e-radic-at-ion</td><td>ē-radi̊c-āt-io̊n</td><td>n. the complete destruction of every trace of something</td></tr>
-<tr><td>ineradicable</td><td>ine̊radi̊cåble</td><td>in-e-radic-able</td><td>in-e̊-radi̊c-åble</td><td>a. not able to be destroyed or rooted out</td></tr>
-<tr><td>radicchio</td><td>radĩcchiō</td><td>radicchio</td><td>radĩcchiō</td><td>n. prized variety of chicory having globose heads of red leaves</td></tr>
+<tr><td>reradiate</td><td>rėrādiāte</td><td>re-radi-ate</td><td>rė-rādi-āte</td><td>vt. to radiate again</td></tr>
+<tr><td>eradicate</td><td>ėradicāte</td><td>e-radic-ate</td><td>ė-radic-āte</td><td>vt. to destroy completely; to wipe out</td></tr>
+<tr><td>eradication</td><td>ėradicātio̊n</td><td>e-radic-at-ion</td><td>ė-radic-āt-io̊n</td><td>n. the complete destruction of every trace of something</td></tr>
+<tr><td>ineradicable</td><td>inėradicåble</td><td>in-e-radic-able</td><td>in-ė-radic-åble</td><td>a. not able to be destroyed or rooted out</td></tr>
+<tr><td>radicchio</td><td>radicc𝕙iō</td><td>radicchio</td><td>radicc𝕙iō</td><td>n. prized variety of chicory having globose heads of red leaves</td></tr>
 <tr><td>radix</td><td>rādix</td><td>radix</td><td>rādix</td><td>n. a root or basic value</td></tr>
 <tr><td>radon</td><td>rādon</td><td>radon</td><td>rādon</td><td>n. a radioactive gas</td></tr>
 <tr><td>raff</td><td>raff</td><td>raff</td><td>raff</td><td>n. a large quantity of things</td></tr>
@@ -134,9 +134,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rag</td><td>rag</td><td>rag</td><td>rag</td><td>n. a piece of old cloth<br>n. a newspaper of low quality</td></tr>
 <tr><td>rage</td><td>rāge</td><td>rage</td><td>rāge</td><td>n. a strong feeling of violent anger<br>vi. to feel or express violent anger</td></tr>
 <tr><td>ragbag</td><td>ragbag</td><td>rag-bag</td><td>rag-bag</td><td>n. a bag in which rags are kept</td></tr>
-<tr><td>ragged</td><td>ragg𝕖d</td><td>ragg-ed</td><td>ragg-𝕖d</td><td>a. being or dressed in clothes that are worn or torn<br>a. having an irregular outline</td></tr>
+<tr><td>ragged</td><td>raggėd</td><td>ragg-ed</td><td>ragg-ėd</td><td>a. being or dressed in clothes that are worn or torn<br>a. having an irregular outline</td></tr>
 <tr><td>raging</td><td>rāging</td><td>rag-ing</td><td>rāg-ing</td><td>a. very severe and violent</td></tr>
-<tr><td>ragout</td><td>ragoù𝕥</td><td>rag-out</td><td>rag-où𝕥</td><td>n. well-seasoned stew of meat and vegetables</td></tr>
+<tr><td>ragout</td><td>ragoū𝕥</td><td>rag-out</td><td>rag-oū𝕥</td><td>n. well-seasoned stew of meat and vegetables</td></tr>
 <tr><td>rages</td><td>rāgėṡ</td><td>rage-s</td><td>rāgė-ṡ</td><td></td></tr>
 <tr><td>rags</td><td>ragṡ</td><td>rag-s</td><td>rag-ṡ</td><td></td></tr>
 <tr><td>ragtag</td><td>ragtag</td><td>rag-tag</td><td>rag-tag</td><td>n. disparaging terms for the common people</td></tr>
@@ -161,10 +161,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>railroad</td><td>rāilrōad</td><td>rail-road</td><td>rāil-rōad</td><td>n. a track or set of tracks for trains<br>vt. to transport by railroad</td></tr>
 <tr><td>railway</td><td>rāilwāy</td><td>rail-way</td><td>rāil-wāy</td><td>n. the commercial organization responsible for operating a system of train transportation</td></tr>
 <tr><td>railyard</td><td>rāilyàrd</td><td>rail-yard</td><td>rāil-yàrd</td><td>n. a complex of railway tracks for storing and maintaining trains</td></tr>
-<tr><td>derail</td><td>dērāil</td><td>de-rail</td><td>dē-rāil</td><td>v. to cause a train to run off the tracks<br>v. to obstruct or disrupt a process</td></tr>
-<tr><td>derailed</td><td>dērāil𝕖d</td><td>de-rail-ed</td><td>dē-rāil-𝕖d</td><td>v. cause to run off the tracks</td></tr>
-<tr><td>derailment</td><td>dērāilme̊nt</td><td>de-rail-ment</td><td>dē-rāil-me̊nt</td><td>n. an accident in which a train runs off its track</td></tr>
-<tr><td>monorail</td><td>mono̊rāil</td><td>mono-rail</td><td>mono̊-rāil</td><td>n. a railway having a single track</td></tr>
+<tr><td>derail</td><td>dėrāil</td><td>de-rail</td><td>dė-rāil</td><td>v. to cause a train to run off the tracks<br>v. to obstruct or disrupt a process</td></tr>
+<tr><td>derailed</td><td>dėrāil𝕖d</td><td>de-rail-ed</td><td>dė-rāil-𝕖d</td><td>v. cause to run off the tracks</td></tr>
+<tr><td>derailment</td><td>dėrāilme̊nt</td><td>de-rail-ment</td><td>dė-rāil-me̊nt</td><td>n. an accident in which a train runs off its track</td></tr>
+<tr><td>monorail</td><td>monōrāil</td><td>mono-rail</td><td>monō-rāil</td><td>n. a railway having a single track</td></tr>
 <tr><td>raillery</td><td>rāille̊rẏ</td><td>raill-er-y</td><td>rāill-e̊r-ẏ</td><td>n. good-humored teasing</td></tr>
 <tr><td>raiment</td><td>rāime̊nt</td><td>raim-ent</td><td>rāim-e̊nt</td><td>n. fine or decorative clothing</td></tr>
 <tr><td>rain</td><td>rāin</td><td>rain</td><td>rāin</td><td>n. water falling in drops from clouds<br>v. fall as rain from the clouds</td></tr>
@@ -180,7 +180,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rainproof</td><td>rāinproof</td><td>rain-proof</td><td>rāin-proof</td><td>a. not allowing rain to pass through</td></tr>
 <tr><td>rains</td><td>rāinṡ</td><td>rain-s</td><td>rāin-ṡ</td><td></td></tr>
 <tr><td>rainy</td><td>rāinẏ</td><td>rain-y</td><td>rāin-ẏ</td><td>a. (of weather) wet by periods of rain</td></tr>
-<tr><td>rainforest</td><td>raīnfore̊st</td><td>rain-for-est</td><td>raīn-for-e̊st</td><td>n. a forest with heavy annual rainfall</td></tr>
+<tr><td>rainforest</td><td>rāinforėst</td><td>rain-for-est</td><td>rāin-for-ėst</td><td>n. a forest with heavy annual rainfall</td></tr>
 <tr><td>rainmaker</td><td>rāinmāke̊r</td><td>rain-mak-er</td><td>rāin-māk-e̊r</td><td>n. American Indian medicine man who attempt to make it rain</td></tr>
 <tr><td>rainwater</td><td>rāinwãte̊r</td><td>rain-wat-er</td><td>rāin-wãt-e̊r</td><td>n. water that falls as rain</td></tr>
 <tr><td>rainbows</td><td>rāinbōwṡ</td><td>rain-bow-s</td><td>rāin-bōw-ṡ</td><td></td></tr>
@@ -193,24 +193,24 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>raises</td><td>rāiṡėṡ</td><td>raise-s</td><td>rāiṡė-ṡ</td><td></td></tr>
 <tr><td>raisins</td><td>rāiṡi̊nṡ</td><td>rais-in-s</td><td>rāiṡ-i̊n-ṡ</td><td></td></tr>
 <tr><td>upraised</td><td>ûprāiṡ𝕖d</td><td>up-rais-ed</td><td>ûp-rāiṡ-𝕖d</td><td>a. held up in the air</td></tr>
-<tr><td>raita</td><td>raītå</td><td>raita</td><td>raītå</td><td>n. an Indian side dish of yogurt and chopped cucumbers and spices</td></tr>
+<tr><td>raita</td><td>rāitå</td><td>raita</td><td>rāitå</td><td>n. an Indian side dish of yogurt and chopped cucumbers and spices</td></tr>
 <tr><td>raja</td><td>ràjå</td><td>raja</td><td>ràjå</td><td>n. a prince or king in India</td></tr>
-<tr><td>rajah</td><td>ràjå𝕙</td><td>rajah</td><td>ràjå𝕙</td><td>n. a prince or king in India</td></tr>
+<tr><td>rajah</td><td>ràjà𝕙</td><td>rajah</td><td>ràjà𝕙</td><td>n. a prince or king in India</td></tr>
 <tr><td>rake</td><td>rāke</td><td>rake</td><td>rāke</td><td>n. a long-handled tool with a row of teeth at its head<br>v. move through with or as if with a rake</td></tr>
 <tr><td>raked</td><td>rāk𝕖ḋ</td><td>rak-ed</td><td>rāk-𝕖ḋ</td><td>v move through with or as if with a rake<br>v level or smooth with a rake<br>v sweep the length of<br>v examine hastily<br>v gather with a rake<br>v scrape gently</td></tr>
 <tr><td>raking</td><td>rāking</td><td>rak-ing</td><td>rāk-ing</td><td>v. move through with or as if with a rake<br>v. sweep the length of</td></tr>
 <tr><td>rakish</td><td>rākish</td><td>rak-ish</td><td>rāk-ish</td><td>a. marked by up-to-dateness in dress and manners<br>a. marked by a carefree unconventionality or disreputableness</td></tr>
 <tr><td>rakishly</td><td>rākishlẏ</td><td>rak-ish-ly</td><td>rāk-ish-lẏ</td><td>adv. in a rakish or dashing manner</td></tr>
 <tr><td>muckrake</td><td>mûckrāke</td><td>muck-rake</td><td>mûck-rāke</td><td>v. to search out and expose corruption</td></tr>
-<tr><td>raki</td><td>ràki</td><td>raki</td><td>ràki</td><td>n. a Turkish alcoholic drink flavored with anise</td></tr>
+<tr><td>raki</td><td>raki</td><td>raki</td><td>raki</td><td>n. a Turkish alcoholic drink flavored with anise</td></tr>
 <tr><td>raku</td><td>ràkū</td><td>raku</td><td>ràkū</td><td>n. a type of Japanese pottery traditionally used in tea ceremonies</td></tr>
 <tr><td>rallies</td><td>ralli𝕖ṡ</td><td>rall-ies</td><td>rall-i𝕖ṡ</td><td></td></tr>
 <tr><td>rally</td><td>rallẏ</td><td>rall-y</td><td>rall-ẏ</td><td>n. a large public meeting<br>v. come together for a common purpose</td></tr>
 <tr><td>rallying</td><td>rallẏing</td><td>rall-y-ing</td><td>rall-ẏ-ing</td><td>a. rousing or recalling to unity and renewed effort</td></tr>
 <tr><td>ram</td><td>ram</td><td>ram</td><td>ram</td><td>n. a male sheep; a heavy striking tool<br>v. strike or drive with heavy impact</td></tr>
 <tr><td>rammed</td><td>ramm𝕖d</td><td>ramm-ed</td><td>ramm-𝕖d</td><td>v. strike or drive against with a heavy impact</td></tr>
-<tr><td>ramify</td><td>rami̊fȳ</td><td>ram-ify</td><td>ram-i̊fȳ</td><td>v. grow and send out branches or branch-like structures</td></tr>
-<tr><td>ramification</td><td>rami̊fi̊cātio̊n</td><td>ram-i-fic-at-ion</td><td>ram-i̊-fi̊c-āt-io̊n</td><td>n. an arrangement of branching parts<br>n. a consequence of an action or event</td></tr>
+<tr><td>ramify</td><td>ramifȳ</td><td>ram-ify</td><td>ram-ifȳ</td><td>v. grow and send out branches or branch-like structures</td></tr>
+<tr><td>ramification</td><td>ramificātio̊n</td><td>ram-i-fic-at-ion</td><td>ram-i-fic-āt-io̊n</td><td>n. an arrangement of branching parts<br>n. a consequence of an action or event</td></tr>
 <tr><td>ramble</td><td>ramble</td><td>ramble</td><td>ramble</td><td>n. an aimless amble on a winding course</td></tr>
 <tr><td>rambler</td><td>ramble̊r</td><td>rambl-er</td><td>rambl-e̊r</td><td>n. a person who takes long walks in the country</td></tr>
 <tr><td>rambling</td><td>rambling</td><td>rambl-ing</td><td>rambl-ing</td><td>a. sprawling in various directions; tending to wander from the point</td></tr>
@@ -227,24 +227,24 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rancour</td><td>ranco̊ur</td><td>ranc-our</td><td>ranc-o̊ur</td><td>n. bitter hostility</td></tr>
 <tr><td>rancorous</td><td>ranco̊ro̊us</td><td>ranc-or-ous</td><td>ranc-o̊r-o̊us</td><td>a. showing deep-seated resentment</td></tr>
 <tr><td>ranch</td><td>rànch</td><td>ranch</td><td>rànch</td><td>n. a large farm for raising animals</td></tr>
-<tr><td>rancher</td><td>ranche̊r</td><td>ranch-er</td><td>ranch-e̊r</td><td>n. a person who owns or operates a ranch</td></tr>
-<tr><td>ranchero</td><td>rànchèrō</td><td>ranch-ero</td><td>rànch-èrō</td><td>n. a herdsman or peasant employed on a ranch<br>n. the owner and occupant of a ranch</td></tr>
+<tr><td>rancher</td><td>rànche̊r</td><td>ranch-er</td><td>rànch-e̊r</td><td>n. a person who owns or operates a ranch</td></tr>
+<tr><td>ranchero</td><td>ràncherō</td><td>ranch-ero</td><td>rànch-erō</td><td>n. a herdsman or peasant employed on a ranch<br>n. the owner and occupant of a ranch</td></tr>
 <tr><td>ranches</td><td>ranchėṡ</td><td>ranch-es</td><td>ranch-ėṡ</td><td></td></tr>
 <tr><td>ranchette</td><td>ranchette</td><td>ranch-ette</td><td>ranch-ette</td><td>n. a small ranch</td></tr>
-<tr><td>ranching</td><td>ranching</td><td>ranch-ing</td><td>ranch-ing</td><td>n. the activity of running a ranch</td></tr>
+<tr><td>ranching</td><td>rànching</td><td>ranch-ing</td><td>rànch-ing</td><td>n. the activity of running a ranch</td></tr>
 <tr><td>ranchland</td><td>ranchlånd</td><td>ranch-land</td><td>ranch-lånd</td><td>n. land suitable for or used for ranching</td></tr>
-<tr><td>rancho</td><td>ranchō</td><td>ranch-o</td><td>ranch-ō</td><td>n. a rude hut or shelter for herdsmen or farm laborers<br>n. a large grazing farm</td></tr>
-<tr><td>ranchera</td><td>rànchèrå</td><td>ranch-er-a</td><td>rànch-èr-å</td><td>n. a type of traditional Mexican folk song</td></tr>
-<tr><td>rancheria</td><td>ranche̊riå</td><td>ranch-er-ia</td><td>ranch-e̊r-iå</td><td>n. a small settlement or village in Spanish-speaking regions</td></tr>
+<tr><td>rancho</td><td>rànchō</td><td>ranch-o</td><td>rànch-ō</td><td>n. a rude hut or shelter for herdsmen or farm laborers<br>n. a large grazing farm</td></tr>
+<tr><td>ranchera</td><td>rànche̊rå</td><td>ranch-er-a</td><td>rànch-e̊r-å</td><td>n. a type of traditional Mexican folk song</td></tr>
+<tr><td>rancheria</td><td>ranchēriå</td><td>ranch-er-ia</td><td>ranch-ēr-iå</td><td>n. a small settlement or village in Spanish-speaking regions</td></tr>
 <tr><td>random</td><td>rando̊m</td><td>rand-om</td><td>rand-o̊m</td><td>a. made or happening without a definite plan or pattern</td></tr>
 <tr><td>randy</td><td>randẏ</td><td>rand-y</td><td>rand-ẏ</td><td>a. feeling great sexual desire</td></tr>
 <tr><td>randomize</td><td>rando̊mīze</td><td>rand-om-ize</td><td>rand-o̊m-īze</td><td>v. to arrange in random order</td></tr>
 <tr><td>randomly</td><td>rando̊mlẏ</td><td>rand-om-ly</td><td>rand-o̊m-lẏ</td><td>adv. in a way that is not planned or deliberate</td></tr>
-<tr><td>randomness</td><td>rando̊mne̊ss</td><td>rand-om-ness</td><td>rand-o̊m-ne̊ss</td><td>n. the quality of lacking any predictable order or plan</td></tr>
+<tr><td>randomness</td><td>rando̊mnėss</td><td>rand-om-ness</td><td>rand-o̊m-nėss</td><td>n. the quality of lacking any predictable order or plan</td></tr>
 <tr><td>randomised</td><td>rando̊mīṡ𝕖d</td><td>rand-om-is-ed</td><td>rand-o̊m-īṡ-𝕖d</td><td>v. arrange in random order</td></tr>
 <tr><td>randomized</td><td>rando̊mīz𝕖d</td><td>rand-om-iz-ed</td><td>rand-o̊m-īz-𝕖d</td><td>a. set up or distributed in a deliberately random way</td></tr>
 <tr><td>randomization</td><td>rando̊mīzātio̊n</td><td>rand-om-iz-at-ion</td><td>rand-o̊m-īz-āt-io̊n</td><td>n. a deliberately haphazard arrangement of observations</td></tr>
-<tr><td>randan</td><td>randan</td><td>randan</td><td>randan</td><td>n. a boat rowed by three people</td></tr>
+<tr><td>randan</td><td>randån</td><td>randan</td><td>randån</td><td>n. a boat rowed by three people</td></tr>
 <tr><td>range</td><td>rānge</td><td>range</td><td>rānge</td><td>n. the limits within which something can be effective<br>n. a variety of different things<br>n. a large area of open land<br>vi. to vary between limits</td></tr>
 <tr><td>ranger</td><td>rānge̊r</td><td>rang-er</td><td>rāng-e̊r</td><td>n. an official who is responsible for managing and protecting an area of forest</td></tr>
 <tr><td>ranging</td><td>rānging</td><td>rang-ing</td><td>rāng-ing</td><td>a. wandering freely</td></tr>
@@ -259,17 +259,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>arrangement</td><td>årrāng𝕖me̊nt</td><td>ar-range-ment</td><td>år-rāng𝕖-me̊nt</td><td>n. the action of putting things in order<br>n. a plan or preparation</td></tr>
 <tr><td>arranges</td><td>årrāngėṡ</td><td>ar-range-s</td><td>år-rāngė-ṡ</td><td></td></tr>
 <tr><td>arrangements</td><td>årrāng𝕖me̊nts</td><td>ar-range-ment-s</td><td>år-rāng𝕖-me̊nt-s</td><td></td></tr>
-<tr><td>derange</td><td>dērānge</td><td>de-range</td><td>dē-rānge</td><td>v. to throw into great confusion or disorder; to make insane</td></tr>
-<tr><td>deranged</td><td>dērāng𝕖d</td><td>de-rang-ed</td><td>dē-rāng-𝕖d</td><td>a. driven insane<br>v. derange mentally, throw out of mental balance; make insane</td></tr>
+<tr><td>derange</td><td>dėrānge</td><td>de-range</td><td>dė-rānge</td><td>v. to throw into great confusion or disorder; to make insane</td></tr>
+<tr><td>deranged</td><td>dėrāng𝕖d</td><td>de-rang-ed</td><td>dė-rāng-𝕖d</td><td>a. driven insane<br>v. derange mentally, throw out of mental balance; make insane</td></tr>
 <tr><td>derangement</td><td>dėrāng𝕖me̊nt</td><td>de-range-ment</td><td>dė-rāng𝕖-me̊nt</td><td>n. a state of mental disturbance and disorientation</td></tr>
 <tr><td>midrange</td><td>midrānge</td><td>mid-range</td><td>mid-rānge</td><td>n. the middle part of a range of values</td></tr>
 <tr><td>disarrange</td><td>disårrānge</td><td>dis-ar-range</td><td>dis-år-rānge</td><td>v. destroy the arrangement or order of</td></tr>
 <tr><td>prearrange</td><td>prēårrānge</td><td>pre-ar-range</td><td>prē-år-rānge</td><td>vt. to arrange in advance</td></tr>
-<tr><td>prearranged</td><td>prėårrāng𝕖d</td><td>pre-ar-rang-ed</td><td>prė-år-rāng-𝕖d</td><td>v. arrange beforehand</td></tr>
-<tr><td>prearrangement</td><td>prėårrāngeme̊nt</td><td>pre-ar-range-ment</td><td>prė-år-rānge-me̊nt</td><td>n. something arranged in advance</td></tr>
-<tr><td>rearrange</td><td>rėårrānge</td><td>re-ar-range</td><td>rė-år-rānge</td><td>vt. to arrange in a different way</td></tr>
-<tr><td>rearranging</td><td>rėårrānging</td><td>re-ar-rang-ing</td><td>rė-år-rāng-ing</td><td>v put into a new order or arrangement</td></tr>
-<tr><td>rearrangement</td><td>rėårrāngeme̊nt</td><td>re-ar-range-ment</td><td>rė-år-rānge-me̊nt</td><td>n. changing an arrangement</td></tr>
+<tr><td>prearranged</td><td>prēårrāng𝕖d</td><td>pre-ar-rang-ed</td><td>prē-år-rāng-𝕖d</td><td>v. arrange beforehand</td></tr>
+<tr><td>prearrangement</td><td>prēårrāng𝕖me̊nt</td><td>pre-ar-range-ment</td><td>prē-år-rāng𝕖-me̊nt</td><td>n. something arranged in advance</td></tr>
+<tr><td>rearrange</td><td>rēårrānge</td><td>re-ar-range</td><td>rē-år-rānge</td><td>vt. to arrange in a different way</td></tr>
+<tr><td>rearranging</td><td>rēårrānging</td><td>re-ar-rang-ing</td><td>rē-år-rāng-ing</td><td>v put into a new order or arrangement</td></tr>
+<tr><td>rearrangement</td><td>rēårrāng𝕖me̊nt</td><td>re-ar-range-ment</td><td>rē-år-rāng𝕖-me̊nt</td><td>n. changing an arrangement</td></tr>
 <tr><td>rank</td><td>rank</td><td>rank</td><td>rank</td><td>n. a row or line of people (especially soldiers or police) standing abreast of one another<br>n. relative status<br>v. take or have a position relative to others</td></tr>
 <tr><td>ranked</td><td>rank𝕖ḋ</td><td>rank-ed</td><td>rank-𝕖ḋ</td><td>a. arranged in a sequence of grades or ranks</td></tr>
 <tr><td>ranking</td><td>ranking</td><td>rank-ing</td><td>rank-ing</td><td>n. a position in a scale of achievement or status<br>a. having a specified rank</td></tr>
@@ -292,15 +292,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rapist</td><td>rāpist</td><td>rap-ist</td><td>rāp-ist</td><td>n. someone who forces another to have sexual intercourse</td></tr>
 <tr><td>rapping</td><td>rapping</td><td>rapp-ing</td><td>rapp-ing</td><td>v. strike sharply<br>v. perform rap music</td></tr>
 <tr><td>raps</td><td>raps</td><td>rap-s</td><td>rap-s</td><td></td></tr>
-<tr><td>rapacious</td><td>råpacio̊us</td><td>rap-ac-ious</td><td>råp-ac-io̊us</td><td>a. excessively greedy and grasping</td></tr>
-<tr><td>rapacity</td><td>råpacitẏ</td><td>rap-ac-ity</td><td>råp-ac-itẏ</td><td>n. extreme gluttony; insatiable desire for wealth</td></tr>
+<tr><td>rapacious</td><td>rapācio̊us</td><td>rap-ac-ious</td><td>rap-āc-io̊us</td><td>a. excessively greedy and grasping</td></tr>
+<tr><td>rapacity</td><td>rapacitẏ</td><td>rap-ac-ity</td><td>rap-ac-itẏ</td><td>n. extreme gluttony; insatiable desire for wealth</td></tr>
 <tr><td>rapidity</td><td>rapiditẏ</td><td>rap-id-ity</td><td>rap-id-itẏ</td><td>n. speed; a rate that is rapid</td></tr>
 <tr><td>rapidly</td><td>rapidlẏ</td><td>rap-id-ly</td><td>rap-id-lẏ</td><td>adv. with rapid movements</td></tr>
-<tr><td>rapids</td><td>rapi̊dṡ</td><td>rap-id-s</td><td>rap-i̊d-ṡ</td><td>n. a fast-flowing part of a river</td></tr>
+<tr><td>rapids</td><td>rapidṡ</td><td>rap-id-s</td><td>rap-id-ṡ</td><td>n. a fast-flowing part of a river</td></tr>
 <tr><td>rape</td><td>rāpe</td><td>rape</td><td>rāpe</td><td>n. the crime of forcing someone to have sex against their will<br>vt. to force someone to have sex against their will</td></tr>
 <tr><td>raphe</td><td>rāphė</td><td>raphe</td><td>rāphė</td><td>n. a ridge that forms a seam between two parts</td></tr>
-<tr><td>rapier</td><td>rāpiēr</td><td>rapi-er</td><td>rāpi-ēr</td><td>n. a straight sword with a narrow blade and two edges</td></tr>
-<tr><td>rapprochement</td><td>rapprōċh𝕖men𝕥</td><td>rapproche-ment</td><td>rapprōċh𝕖-men𝕥</td><td>n. the reestablishing of cordial relations</td></tr>
+<tr><td>rapier</td><td>rāpie̊r</td><td>rapi-er</td><td>rāpi-e̊r</td><td>n. a straight sword with a narrow blade and two edges</td></tr>
+<tr><td>rapprochement</td><td>rapproċh𝕖men𝕥</td><td>rapproche-ment</td><td>rapproċh𝕖-men𝕥</td><td>n. the reestablishing of cordial relations</td></tr>
 <tr><td>rappel</td><td>rappel</td><td>rappel</td><td>rappel</td><td>n. (mountaineering) descent of a vertical cliff using a doubled rope fixed above</td></tr>
 <tr><td>rapt</td><td>rapt</td><td>rapt</td><td>rapt</td><td>a. feeling great rapture or delight</td></tr>
 <tr><td>raptly</td><td>raptlẏ</td><td>rapt-ly</td><td>rapt-lẏ</td><td>adv. in a rapt manner; with deep attention or interest</td></tr>
@@ -311,27 +311,27 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rapturously</td><td>raptůro̊uslẏ</td><td>raptur-ous-ly</td><td>raptůr-o̊us-lẏ</td><td>adv. in an ecstatic manner</td></tr>
 <tr><td>enraptured</td><td>enraptůr𝕖d</td><td>en-raptur-ed</td><td>en-raptůr-𝕖d</td><td>v. hold spellbound<br>a. feeling great rapture or delight</td></tr>
 <tr><td>enrapture</td><td>enraptůre</td><td>en-rapt-ure</td><td>en-rapt-ůre</td><td>v. hold spellbound</td></tr>
-<tr><td>velociraptor</td><td>ve̊locirapto̊r</td><td>veloci-rapt-or</td><td>ve̊loci-rapt-o̊r</td><td>n. a small active carnivorous dinosaur, possibly more closely related to birds</td></tr>
+<tr><td>velociraptor</td><td>ve̊loci̊rapto̊r</td><td>veloci-rapt-or</td><td>ve̊loci̊-rapt-o̊r</td><td>n. a small active carnivorous dinosaur, possibly more closely related to birds</td></tr>
 <tr><td>rare</td><td>rāre</td><td>rare</td><td>rāre</td><td>a. not occurring very often<br>a. (of meat) cooked lightly</td></tr>
-<tr><td>rarer</td><td>rare̊r</td><td>rar-er</td><td>rar-e̊r</td><td>a. more rare</td></tr>
+<tr><td>rarer</td><td>rāre̊r</td><td>rar-er</td><td>rār-e̊r</td><td>a. more rare</td></tr>
 <tr><td>rarest</td><td>rārėst</td><td>rar-est</td><td>rār-ėst</td><td></td></tr>
-<tr><td>rarefy</td><td>rare̊fȳ</td><td>rare-fy</td><td>rare̊-fȳ</td><td>v. lessen the density or solidity of<br>v. make more subtle or refined</td></tr>
-<tr><td>raring</td><td>råring</td><td>rar-ing</td><td>rår-ing</td><td>a. full of eagerness</td></tr>
-<tr><td>rarity</td><td>rari̊tẏ</td><td>rar-ity</td><td>rar-i̊tẏ</td><td>n. the quality of being rare</td></tr>
+<tr><td>rarefy</td><td>rārėfȳ</td><td>rare-fy</td><td>rārė-fȳ</td><td>v. lessen the density or solidity of<br>v. make more subtle or refined</td></tr>
+<tr><td>raring</td><td>rāring</td><td>rar-ing</td><td>rār-ing</td><td>a. full of eagerness</td></tr>
+<tr><td>rarity</td><td>rāri̊tẏ</td><td>rar-ity</td><td>rār-i̊tẏ</td><td>n. the quality of being rare</td></tr>
 <tr><td>rarely</td><td>rār𝕖lẏ</td><td>rare-ly</td><td>rār𝕖-lẏ</td><td>adv. not often; seldom</td></tr>
-<tr><td>rarefied</td><td>rare̊fī𝕖d</td><td>rare-fi-ed</td><td>rare̊-fī-𝕖d</td><td>a. having low density<br>a. of high moral or intellectual value; elevated in nature or style</td></tr>
-<tr><td>rarefaction</td><td>rårėfactio̊n</td><td>rare-fact-ion</td><td>rårė-fact-io̊n</td><td>n. a decrease in the density of something</td></tr>
-<tr><td>rarified</td><td>rårifī𝕖d</td><td>rar-i-fi-ed</td><td>rår-i-fī-𝕖d</td><td>a. having low density<br>a. of high moral or intellectual value; elevated in nature or style</td></tr>
-<tr><td>rasa</td><td>råså</td><td>rasa</td><td>råså</td><td>n. (Latin) a clean slate; blank tablet (as in tabula rasa)</td></tr>
-<tr><td>erase</td><td>ērāse</td><td>e-rase</td><td>ē-rāse</td><td>v. to remove something completely<br>v. to rub out written or recorded information</td></tr>
-<tr><td>erasable</td><td>ērāsåble</td><td>e-ras-able</td><td>ē-rās-åble</td><td>a. capable of being effaced</td></tr>
-<tr><td>erased</td><td>ērās𝕖ḋ</td><td>e-ras-ed</td><td>ē-rās-𝕖ḋ</td><td>vt. remove from memory or existence<br>vt. wipe out digitally or magnetically recorded information</td></tr>
-<tr><td>eraser</td><td>ērāse̊r</td><td>e-ras-er</td><td>ē-rās-e̊r</td><td>n. an implement used to erase something</td></tr>
-<tr><td>erasing</td><td>ērāsing</td><td>e-ras-ing</td><td>ē-rās-ing</td><td>v. remove from memory or existence</td></tr>
+<tr><td>rarefied</td><td>rārėfī𝕖d</td><td>rare-fi-ed</td><td>rārė-fī-𝕖d</td><td>a. having low density<br>a. of high moral or intellectual value; elevated in nature or style</td></tr>
+<tr><td>rarefaction</td><td>rārėfactio̊n</td><td>rare-fact-ion</td><td>rārė-fact-io̊n</td><td>n. a decrease in the density of something</td></tr>
+<tr><td>rarified</td><td>rārifī𝕖d</td><td>rar-i-fi-ed</td><td>rār-i-fī-𝕖d</td><td>a. having low density<br>a. of high moral or intellectual value; elevated in nature or style</td></tr>
+<tr><td>rasa</td><td>ràså</td><td>rasa</td><td>ràså</td><td>n. (Latin) a clean slate; blank tablet (as in tabula rasa)</td></tr>
+<tr><td>erase</td><td>ėrāṡe</td><td>e-rase</td><td>ė-rāṡe</td><td>v. to remove something completely<br>v. to rub out written or recorded information</td></tr>
+<tr><td>erasable</td><td>ėrāṡåble</td><td>e-ras-able</td><td>ė-rāṡ-åble</td><td>a. capable of being effaced</td></tr>
+<tr><td>erased</td><td>ėrāṡ𝕖d</td><td>e-ras-ed</td><td>ė-rāṡ-𝕖d</td><td>vt. remove from memory or existence<br>vt. wipe out digitally or magnetically recorded information</td></tr>
+<tr><td>eraser</td><td>ėrāṡe̊r</td><td>e-ras-er</td><td>ė-rāṡ-e̊r</td><td>n. an implement used to erase something</td></tr>
+<tr><td>erasing</td><td>ėrāṡing</td><td>e-ras-ing</td><td>ė-rāṡ-ing</td><td>v. remove from memory or existence</td></tr>
 <tr><td>erases</td><td>ėrāṡėṡ</td><td>e-rase-s</td><td>ė-rāṡė-ṡ</td><td></td></tr>
 <tr><td>erasure</td><td>ėrāsůre</td><td>e-ras-ure</td><td>ė-rās-ůre</td><td>n. a correction made by erasing<br>n. a surface area where something has been erased</td></tr>
 <tr><td>rascal</td><td>ràscål</td><td>rasc-al</td><td>ràsc-ål</td><td>n a deceitful and unreliable scoundrel<br>n one who is playfully mischievous</td></tr>
-<tr><td>rascally</td><td>rascållẏ</td><td>rasc-al-ly</td><td>rasc-ål-lẏ</td><td>a. lacking principles or scruples</td></tr>
+<tr><td>rascally</td><td>ràscållẏ</td><td>rasc-al-ly</td><td>ràsc-ål-lẏ</td><td>a. lacking principles or scruples</td></tr>
 <tr><td>rash</td><td>rash</td><td>rash</td><td>rash</td><td>a. acting too quickly without careful thought<br>n. a red spot on the skin</td></tr>
 <tr><td>rasher</td><td>rashe̊r</td><td>rash-er</td><td>rash-e̊r</td><td>n. a thin slice of bacon<br>a. more rash or reckless</td></tr>
 <tr><td>rashes</td><td>rashėṡ</td><td>rash-es</td><td>rash-ėṡ</td><td></td></tr>
@@ -341,13 +341,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rasping</td><td>rasping</td><td>rasp-ing</td><td>rasp-ing</td><td>n. uttering in an irritated tone<br>v. scrape with a rasp<br>a. unpleasantly harsh or grating in sound</td></tr>
 <tr><td>raspy</td><td>raspẏ</td><td>rasp-y</td><td>rasp-ẏ</td><td>a. unpleasantly harsh or grating in sound</td></tr>
 <tr><td>raster</td><td>raste̊r</td><td>rast-er</td><td>rast-e̊r</td><td>n. the rectangular formation of parallel scanning lines on a TV or computer screen</td></tr>
-<tr><td>rastafarian</td><td>raståfåriån</td><td>rastafarian</td><td>raståfåriån</td><td>n. a follower of Rastafarianism, a religious and political movement originating in Jamaica<br>a. of or relating to Rastafarianism</td></tr>
+<tr><td>rastafarian</td><td>raståfāriån</td><td>rastafarian</td><td>raståfāriån</td><td>n. a follower of Rastafarianism, a religious and political movement originating in Jamaica<br>a. of or relating to Rastafarianism</td></tr>
 <tr><td>rat</td><td>rat</td><td>rat</td><td>rat</td><td>n. a rodent that resembles a large mouse<br>n. a person who deserts or betrays someone</td></tr>
 <tr><td>rate</td><td>rāte</td><td>rate</td><td>rāte</td><td>n. a measure, quantity, or frequency relative to another<br>n. a fixed price paid for something</td></tr>
-<tr><td>rateable</td><td>rāte̊able</td><td>rate-able</td><td>rāte̊-able</td><td>a. subject to taxation</td></tr>
-<tr><td>rated</td><td>rāt𝕖d</td><td>rat-ed</td><td>rāt-𝕖d</td><td>v. to assign a rank or rating to; to estimate the value of</td></tr>
+<tr><td>rateable</td><td>rāt𝕖åble</td><td>rate-able</td><td>rāt𝕖-åble</td><td>a. subject to taxation</td></tr>
+<tr><td>rated</td><td>rātėd</td><td>rat-ed</td><td>rāt-ėd</td><td>v. to assign a rank or rating to; to estimate the value of</td></tr>
 <tr><td>rater</td><td>rāte̊r</td><td>rat-er</td><td>rāt-e̊r</td><td>n. one who rates or evaluates</td></tr>
-<tr><td>ratify</td><td>rati̊fȳ</td><td>rat-ify</td><td>rat-i̊fȳ</td><td>v. to approve and confirm formally</td></tr>
+<tr><td>ratify</td><td>ratifȳ</td><td>rat-ify</td><td>rat-ifȳ</td><td>v. to approve and confirm formally</td></tr>
 <tr><td>rating</td><td>rāting</td><td>rat-ing</td><td>rāt-ing</td><td>n. a classification or ranking based on quality or performance</td></tr>
 <tr><td>ration</td><td>ratio̊n</td><td>rat-ion</td><td>rat-io̊n</td><td>n. a fixed allowance of food or other commodity<br>vt. to restrict the consumption of</td></tr>
 <tr><td>ratio</td><td>rātiō</td><td>rati-o</td><td>rāti-ō</td><td>n. the relative magnitudes of two quantities (usually expressed as a quotient)</td></tr>
@@ -368,13 +368,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rationally</td><td>ratio̊nållẏ</td><td>rat-ion-al-ly</td><td>rat-io̊n-ål-lẏ</td><td>adv. in a rational manner; logically</td></tr>
 <tr><td>rationalized</td><td>ratio̊nålīz𝕖d</td><td>rat-ion-al-iz-ed</td><td>rat-io̊n-ål-īz-𝕖d</td><td>v. make rational or justify by reasoning</td></tr>
 <tr><td>ratiocination</td><td>ratiocinātio̊n</td><td>rati-o-cin-at-ion</td><td>rati-o-cin-āt-io̊n</td><td>n. logical and methodical reasoning</td></tr>
-<tr><td>ratification</td><td>rati̊fi̊cātio̊n</td><td>rat-i-fic-at-ion</td><td>rat-i̊-fi̊c-āt-io̊n</td><td>n. the formal confirmation of an agreement</td></tr>
+<tr><td>ratification</td><td>ratificātio̊n</td><td>rat-i-fic-at-ion</td><td>rat-i-fic-āt-io̊n</td><td>n. the formal confirmation of an agreement</td></tr>
 <tr><td>rationalistic</td><td>ratio̊nålistic</td><td>rat-ion-al-ist-ic</td><td>rat-io̊n-ål-ist-ic</td><td>a. of or relating to the philosophical doctrine of rationalism</td></tr>
-<tr><td>rationalization</td><td>ratio̊nålizātio̊n</td><td>rat-ion-al-iz-at-ion</td><td>rat-io̊n-ål-iz-āt-io̊n</td><td>n. the cognitive process of making something seem consistent with reason</td></tr>
+<tr><td>rationalization</td><td>ratio̊nålīzātio̊n</td><td>rat-ion-al-iz-at-ion</td><td>rat-io̊n-ål-īz-āt-io̊n</td><td>n. the cognitive process of making something seem consistent with reason</td></tr>
 <tr><td>berate</td><td>bērāte</td><td>be-rate</td><td>bē-rāte</td><td>v censure severely or angrily</td></tr>
 <tr><td>interrater</td><td>inte̊rrāte̊r</td><td>inter-rat-er</td><td>inte̊r-rāt-e̊r</td><td>a. between or among raters or evaluators</td></tr>
 <tr><td>irrational</td><td>irratio̊nål</td><td>ir-rat-ion-al</td><td>ir-rat-io̊n-ål</td><td>a. not consistent with or using reason</td></tr>
-<tr><td>irrationality</td><td>irratio̊nali̊tẏ</td><td>ir-rat-ion-al-ity</td><td>ir-rat-io̊n-al-i̊tẏ</td><td>n. the state of being irrational</td></tr>
+<tr><td>irrationality</td><td>irratio̊nalitẏ</td><td>ir-rat-ion-al-ity</td><td>ir-rat-io̊n-al-itẏ</td><td>n. the state of being irrational</td></tr>
 <tr><td>irrationally</td><td>irratio̊nållẏ</td><td>ir-rat-ion-al-ly</td><td>ir-rat-io̊n-ål-lẏ</td><td>adv. in an irrational manner</td></tr>
 <tr><td>muskrat</td><td>mûskrat</td><td>musk-rat</td><td>mûsk-rat</td><td>n. beaver-like aquatic rodent of North America with dark glossy brown fur</td></tr>
 <tr><td>overrate</td><td>ōve̊rrāte</td><td>over-rate</td><td>ōve̊r-rāte</td><td>v. to make too high an estimate of</td></tr>
@@ -383,16 +383,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>underrate</td><td>ûnde̊rrāte</td><td>under-rate</td><td>ûnde̊r-rāte</td><td>v. to make too low an estimate of</td></tr>
 <tr><td>underrated</td><td>ûnde̊rrātėd</td><td>under-rat-ed</td><td>ûnde̊r-rāt-ėd</td><td>v make too low an estimate of</td></tr>
 <tr><td>unrated</td><td>ûnrātėd</td><td>un-rat-ed</td><td>ûn-rāt-ėd</td><td>a. not having a rating or classification</td></tr>
-<tr><td>rata</td><td>ratå</td><td>rata</td><td>ratå</td><td>n. a New Zealand forest tree with hard dark red wood</td></tr>
-<tr><td>ratatouille</td><td>ratåtoūi𝕝𝕝e</td><td>ratatouille</td><td>ratåtoūi𝕝𝕝e</td><td>n. a vegetable stew made with tomatoes, eggplant, zucchini, peppers and onion</td></tr>
-<tr><td>ratchet</td><td>ratche̊t</td><td>ratchet</td><td>ratche̊t</td><td>n. a toothed wheel with a pawl allowing movement in only one direction<br>v. move by degrees in one direction</td></tr>
-<tr><td>ratcheting</td><td>ratche̊ting</td><td>ratchet-ing</td><td>ratche̊t-ing</td><td>v move by degrees in one direction only</td></tr>
+<tr><td>rata</td><td>ràtå</td><td>rata</td><td>ràtå</td><td>n. a New Zealand forest tree with hard dark red wood</td></tr>
+<tr><td>ratatouille</td><td>ratåtoūille</td><td>ratatouille</td><td>ratåtoūille</td><td>n. a vegetable stew made with tomatoes, eggplant, zucchini, peppers and onion</td></tr>
+<tr><td>ratchet</td><td>ratchėt</td><td>ratchet</td><td>ratchėt</td><td>n. a toothed wheel with a pawl allowing movement in only one direction<br>v. move by degrees in one direction</td></tr>
+<tr><td>ratcheting</td><td>ratchėting</td><td>ratchet-ing</td><td>ratchėt-ing</td><td>v move by degrees in one direction only</td></tr>
 <tr><td>rather</td><td>ràṫhe̊r</td><td>ra-ther</td><td>rà-ṫhe̊r</td><td>adv. to a certain extent; somewhat; preferably</td></tr>
 <tr><td>rattled</td><td>rattl𝕖d</td><td>rattl-ed</td><td>rattl-𝕖d</td><td>v. make short successive sounds<br>a. thrown into a state of agitated confusion</td></tr>
 <tr><td>rattler</td><td>rattle̊r</td><td>rattl-er</td><td>rattl-e̊r</td><td>n. a rattlesnake</td></tr>
 <tr><td>rattle</td><td>rattle</td><td>ratt-le</td><td>ratt-le</td><td>n. a rapid succession of short sharp sounds<br>v. to make a rapid succession of short sharp sounds</td></tr>
 <tr><td>rattling</td><td>rattling</td><td>ratt-ling</td><td>ratt-ling</td><td>a. extraordinarily good; excellent<br>adv. very; extremely</td></tr>
-<tr><td>rattan</td><td>rattan</td><td>rattan</td><td>rattan</td><td>n. a climbing palm with long stems used for canes and wickerwork<br>n. stems of climbing palms used for furniture and canes</td></tr>
+<tr><td>rattan</td><td>rattån</td><td>rattan</td><td>rattån</td><td>n. a climbing palm with long stems used for canes and wickerwork<br>n. stems of climbing palms used for furniture and canes</td></tr>
 <tr><td>raucous</td><td>rãuco̊us</td><td>rauc-ous</td><td>rãuc-o̊us</td><td>a. unpleasantly loud and harsh</td></tr>
 <tr><td>raucously</td><td>rãuco̊uslẏ</td><td>rauc-ous-ly</td><td>rãuc-o̊us-lẏ</td><td>adv. with a raucous sound</td></tr>
 <tr><td>raunchy</td><td>rãunchẏ</td><td>raunchy</td><td>rãunchẏ</td><td>a. earthy and sexually explicit</td></tr>
@@ -402,7 +402,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ravishment</td><td>ravishme̊nt</td><td>rav-ish-ment</td><td>rav-ish-me̊nt</td><td>n. the act of carrying away by force</td></tr>
 <tr><td>ravage</td><td>ravȧge</td><td>ravage</td><td>ravȧge</td><td>v. to cause severe damage<br>n. destructive damage</td></tr>
 <tr><td>ravaged</td><td>ravȧg𝕖d</td><td>ravag-ed</td><td>ravȧg-𝕖d</td><td>a. destroyed or damaged severely</td></tr>
-<tr><td>ravages</td><td>ravȧg𝕖ṡ</td><td>ravag-es</td><td>ravȧg-𝕖ṡ</td><td>n (usually plural) a destructive action<br>v make a pillaging or destructive raid on (a place), as in wartimes<br>v cause extensive destruction or ruin utterly</td></tr>
+<tr><td>ravages</td><td>ravȧgėṡ</td><td>ravag-es</td><td>ravȧg-ėṡ</td><td>n (usually plural) a destructive action<br>v make a pillaging or destructive raid on (a place), as in wartimes<br>v cause extensive destruction or ruin utterly</td></tr>
 <tr><td>ravaging</td><td>ravȧging</td><td>ravag-ing</td><td>ravȧg-ing</td><td>v. cause extensive destruction<br>a. ruinously destructive</td></tr>
 <tr><td>rave</td><td>rāve</td><td>rave</td><td>rāve</td><td>v. to talk wildly or enthusiastically<br>n. an extravagantly enthusiastic review</td></tr>
 <tr><td>ravel</td><td>rave̊l</td><td>ravel</td><td>rave̊l</td><td>v. disentangle or tangle<br>v. become frayed or separated into threads</td></tr>
@@ -411,10 +411,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unraveled</td><td>ûnrave̊l𝕖d</td><td>un-ravel-ed</td><td>ûn-rave̊l-𝕖d</td><td>a. undone or untangled</td></tr>
 <tr><td>unraveling</td><td>ûnrave̊ling</td><td>un-ravel-ing</td><td>ûn-rave̊l-ing</td><td>a. coming undone or being disentangled</td></tr>
 <tr><td>raven</td><td>rāve̊n</td><td>raven</td><td>rāve̊n</td><td>n. large black bird with a straight bill and long wedge-shaped tail<br>v. obtain or seize by violence<br>v. prey on or hunt for<br>v. feed greedily</td></tr>
-<tr><td>ravening</td><td>rav𝕖ning</td><td>raven-ing</td><td>rav𝕖n-ing</td><td>v. seek or seize as prey or food<br>a. excessively greedy and grasping</td></tr>
+<tr><td>ravening</td><td>rave̊ning</td><td>raven-ing</td><td>rave̊n-ing</td><td>v. seek or seize as prey or food<br>a. excessively greedy and grasping</td></tr>
 <tr><td>ravenous</td><td>rave̊no̊us</td><td>raven-ous</td><td>rave̊n-o̊us</td><td>a. extremely hungry</td></tr>
 <tr><td>ravenously</td><td>rave̊no̊uslẏ</td><td>raven-ous-ly</td><td>rave̊n-o̊us-lẏ</td><td>adv. in the manner of someone who is very hungry</td></tr>
-<tr><td>ravioli</td><td>raviōlĩ</td><td>ravioli</td><td>raviōlĩ</td><td>n. small cases of dough with savory fillings</td></tr>
+<tr><td>ravioli</td><td>raviōli</td><td>ravioli</td><td>raviōli</td><td>n. small cases of dough with savory fillings</td></tr>
 <tr><td>ravine</td><td>råvĩne</td><td>ravine</td><td>råvĩne</td><td>n. a deep narrow valley with steep sides</td></tr>
 <tr><td>ravish</td><td>ravish</td><td>ravish</td><td>ravish</td><td>v. force (someone) to have sex against their will<br>v. hold spellbound</td></tr>
 <tr><td>ravishing</td><td>ravishing</td><td>ravish-ing</td><td>ravish-ing</td><td>a. stunningly beautiful</td></tr>
@@ -425,7 +425,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rawness</td><td>rãwnėss</td><td>raw-ness</td><td>rãw-nėss</td><td>n. the state of being crude or unprocessed<br>n. a chilly dampness</td></tr>
 <tr><td>rawboned</td><td>rãwbōn𝕖d</td><td>raw-bon-ed</td><td>rãw-bōn-𝕖d</td><td>a. having a lean and bony physique</td></tr>
 <tr><td>ray</td><td>rāy</td><td>ray</td><td>rāy</td><td>n. a narrow beam of light<br>n. a type of sea fish with a flat body</td></tr>
-<tr><td>rayon</td><td>rāyo̊n</td><td>ray-on</td><td>rāy-o̊n</td><td>n. a synthetic silklike fabric</td></tr>
+<tr><td>rayon</td><td>rāyon</td><td>ray-on</td><td>rāy-on</td><td>n. a synthetic silklike fabric</td></tr>
 <tr><td>array</td><td>årrāy</td><td>ar-ray</td><td>år-rāy</td><td>n. an impressive display or range of a particular type of thing<br>vt. to arrange things in an orderly way</td></tr>
 <tr><td>arrayed</td><td>årrāy𝕖d</td><td>ar-ray-ed</td><td>år-rāy-𝕖d</td><td>a. in ceremonial attire and paraphernalia<br>v. arrange in a particular order</td></tr>
 <tr><td>X-ray</td><td>X-rāy</td><td>X-ray</td><td>X-rāy</td><td>n. a type of electromagnetic radiation</td></tr>
@@ -439,8 +439,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>razz</td><td>razz</td><td>razz</td><td>razz</td><td>n. a cry or noise made to express displeasure or contempt<br>v. harass with persistent criticism</td></tr>
 <tr><td>razzle</td><td>razzle</td><td>razz-le</td><td>razz-le</td><td>n. a wild spree or celebration</td></tr>
 <tr><td>razzmatazz</td><td>razzmåtazz</td><td>razz-matazz</td><td>razz-måtazz</td><td>n. any exciting and complex play intended to confuse the opponent</td></tr>
-<tr><td>rbi</td><td>rbĩ</td><td>rbi</td><td>rbĩ</td><td>n. a run batted in (baseball statistic)</td></tr>
-<tr><td>re</td><td>rè</td><td>re</td><td>rè</td><td>prep. regarding; about</td></tr>
+<tr><td>rbi</td><td>rbi</td><td>rbi</td><td>rbi</td><td>n. a run batted in (baseball statistic)</td></tr>
+<tr><td>re</td><td>rē</td><td>re</td><td>rē</td><td>prep. regarding; about</td></tr>
 <tr><td>reify</td><td>rēifȳ</td><td>re-ify</td><td>rē-ifȳ</td><td>v. consider an abstract concept to be real</td></tr>
 <tr><td>reified</td><td>rēifī𝕖d</td><td>re-i-fi-ed</td><td>rē-i-fī-𝕖d</td><td>v. consider an abstract concept to be real</td></tr>
 <tr><td>reification</td><td>rēificātio̊n</td><td>re-i-fic-at-ion</td><td>rē-i-fic-āt-io̊n</td><td>n. regarding something abstract as a material thing</td></tr>
@@ -465,7 +465,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>readerly</td><td>rēade̊rlẏ</td><td>read-er-ly</td><td>rēad-e̊r-lẏ</td><td>a. of or relating to a reader or readership</td></tr>
 <tr><td>readily</td><td>rèadilẏ</td><td>read-i-ly</td><td>rèad-i-lẏ</td><td>adv. without much difficulty; willingly</td></tr>
 <tr><td>readymade</td><td>rèadẏmāde</td><td>read-y-made</td><td>rèad-ẏ-māde</td><td>a. made for purchase and use without delay<br>n. a manufactured article that is presented as a work of art</td></tr>
-<tr><td>readiness</td><td>rèadine̊ss</td><td>read-i-ness</td><td>rèad-i-ne̊ss</td><td>n. the state of being prepared<br>n. prompt willingness</td></tr>
+<tr><td>readiness</td><td>rèadinėss</td><td>read-i-ness</td><td>rèad-i-nėss</td><td>n. the state of being prepared<br>n. prompt willingness</td></tr>
 <tr><td>readership</td><td>rēade̊rship</td><td>read-er-ship</td><td>rēad-e̊r-ship</td><td>n. the readers of a particular publication</td></tr>
 <tr><td>readings</td><td>rēadingṡ</td><td>read-ing-s</td><td>rēad-ing-ṡ</td><td></td></tr>
 <tr><td>already</td><td>ãlrèadẏ</td><td>al-read-y</td><td>ãl-rèad-ẏ</td><td>adv. prior to a specified or implied time; by this time</td></tr>
@@ -473,12 +473,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>misreading</td><td>misrēading</td><td>mis-read-ing</td><td>mis-rēad-ing</td><td>n. misinterpretation caused by inaccurate reading</td></tr>
 <tr><td>proofread</td><td>proofrēad</td><td>proof-read</td><td>proof-rēad</td><td>v. to read and correct errors in text</td></tr>
 <tr><td>proofreader</td><td>proofrēade̊r</td><td>proof-read-er</td><td>proof-rēad-e̊r</td><td>n. someone who reads proof in order to find errors and mark corrections</td></tr>
-<tr><td>reread</td><td>rērēad</td><td>re-read</td><td>rē-rēad</td><td>v. read anew; read again</td></tr>
+<tr><td>reread</td><td>rėrēad</td><td>re-read</td><td>rė-rēad</td><td>v. read anew; read again</td></tr>
 <tr><td>unread</td><td>ûnrèad</td><td>un-read</td><td>ûn-rèad</td><td>a. not informed through reading</td></tr>
 <tr><td>unreadable</td><td>ûnrēadåble</td><td>un-read-able</td><td>ûn-rēad-åble</td><td>a. not easily deciphered</td></tr>
 <tr><td>unready</td><td>ûnrèadẏ</td><td>un-read-y</td><td>ûn-rèad-ẏ</td><td>a. not prepared or in a state of readiness; slow to understand or respond</td></tr>
 <tr><td>newsreader</td><td>new̄ṡrēade̊r</td><td>new-s-read-er</td><td>new̄-ṡ-rēad-e̊r</td><td>n. someone who reads out broadcast news bulletins<br>n. a software application for reading online news</td></tr>
-<tr><td>reaganesque</td><td>reāgånesq𝕦e</td><td>reagan-esque</td><td>reāgån-esq𝕦e</td><td>a. resembling or characteristic of Ronald Reagan or his policies</td></tr>
+<tr><td>reaganesque</td><td>reāgånesque</td><td>reagan-esque</td><td>reāgån-esque</td><td>a. resembling or characteristic of Ronald Reagan or his policies</td></tr>
 <tr><td>reaganite</td><td>reāgånīte</td><td>reagan-ite</td><td>reāgån-īte</td><td>n. a supporter of Ronald Reagan or his policies<br>a. of or relating to Reaganism</td></tr>
 <tr><td>real</td><td>rēal</td><td>real</td><td>rēal</td><td>a. actually existing; genuine; true<br>adv. very; truly</td></tr>
 <tr><td>realise</td><td>rēalīṡe</td><td>real-ise</td><td>rēal-īṡe</td><td>vt. to become aware of</td></tr>
@@ -486,8 +486,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>realist</td><td>rēalist</td><td>real-ist</td><td>rēal-ist</td><td>n. a person who accepts the world as it is and deals with it accordingly</td></tr>
 <tr><td>realize</td><td>rēalīze</td><td>real-ize</td><td>rēal-īze</td><td>vt. to become fully aware of something as a fact<br>vt. to make something real or actual</td></tr>
 <tr><td>really</td><td>rēållẏ</td><td>real-ly</td><td>rēål-lẏ</td><td>adv. in fact; truly; genuinely; very</td></tr>
-<tr><td>realness</td><td>rēalne̊ss</td><td>real-ness</td><td>rēal-ne̊ss</td><td>n. the state of being actual or real</td></tr>
-<tr><td>realpolitik</td><td>rēalpolitik</td><td>real-politik</td><td>rēal-politik</td><td>n. politics based on practical rather than moral or ideological considerations</td></tr>
+<tr><td>realness</td><td>rēalnėss</td><td>real-ness</td><td>rēal-nėss</td><td>n. the state of being actual or real</td></tr>
+<tr><td>realpolitik</td><td>rēalpo̊litik</td><td>real-politik</td><td>rēal-po̊litik</td><td>n. politics based on practical rather than moral or ideological considerations</td></tr>
 <tr><td>realtor</td><td>rēalto̊r</td><td>real-tor</td><td>rēal-to̊r</td><td>n. a real estate agent who is a member of the National Association of Realtors</td></tr>
 <tr><td>realty</td><td>rēaltẏ</td><td>real-ty</td><td>rēal-tẏ</td><td>n. property consisting of houses and land</td></tr>
 <tr><td>realizable</td><td>rēalīzåble</td><td>real-iz-able</td><td>rēal-īz-åble</td><td>a. capable of being realized</td></tr>
@@ -500,7 +500,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>realities</td><td>rėaliti𝕖ṡ</td><td>re-al-it-ies</td><td>rė-al-it-i𝕖ṡ</td><td></td></tr>
 <tr><td>realistically</td><td>rēalisticållẏ</td><td>real-ist-ic-al-ly</td><td>rēal-ist-ic-ål-lẏ</td><td>adv. in a realistic manner</td></tr>
 <tr><td>unreal</td><td>ûnrēal</td><td>un-re-al</td><td>ûn-rē-al</td><td>a. lacking in reality or substance; not actually such</td></tr>
-<tr><td>unreality</td><td>ûnrēali̊tẏ</td><td>un-re-al-ity</td><td>ûn-rē-al-i̊tẏ</td><td>n. the state of being insubstantial or imaginary; not existing objectively</td></tr>
+<tr><td>unreality</td><td>ûnrėalitẏ</td><td>un-re-al-ity</td><td>ûn-rė-al-itẏ</td><td>n. the state of being insubstantial or imaginary; not existing objectively</td></tr>
 <tr><td>unrealizable</td><td>ûnrēalīzåble</td><td>un-re-al-iz-able</td><td>ûn-rē-al-īz-åble</td><td>a. impossible to achieve</td></tr>
 <tr><td>unrealized</td><td>ûnrēalīz𝕖d</td><td>un-re-al-iz-ed</td><td>ûn-rē-al-īz-𝕖d</td><td>a. not realized or achieved</td></tr>
 <tr><td>unrealistic</td><td>ûnrēalistic</td><td>un-re-al-ist-ic</td><td>ûn-rē-al-ist-ic</td><td>a. not realistic</td></tr>
@@ -513,11 +513,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>reaper</td><td>rēape̊r</td><td>reap-er</td><td>rēap-e̊r</td><td>n. farm machine that gathers a food crop from the fields<br>n. Death personified as an old man or a skeleton with a scythe</td></tr>
 <tr><td>rear</td><td>rēar</td><td>rear</td><td>rēar</td><td>n. the back part of something<br>vt. raise or bring up</td></tr>
 <tr><td>rearing</td><td>rēaring</td><td>rear-ing</td><td>rēar-ing</td><td>n. the process of raising a child or animal</td></tr>
-<tr><td>rearmost</td><td>rėårmōst</td><td>rear-most</td><td>rėår-mōst</td><td>a. located farthest to the rear</td></tr>
+<tr><td>rearmost</td><td>rēarmōst</td><td>rear-most</td><td>rēar-mōst</td><td>a. located farthest to the rear</td></tr>
 <tr><td>rearview</td><td>rēarview̄</td><td>rear-view</td><td>rēar-view̄</td><td>n. a mirror on a vehicle for seeing behind</td></tr>
-<tr><td>rearward</td><td>rėårwård</td><td>rear-ward</td><td>rėår-wård</td><td>a. directed or moving toward the rear<br>adv. in the direction of the rear</td></tr>
+<tr><td>rearward</td><td>rēarwård</td><td>rear-ward</td><td>rēar-wård</td><td>a. directed or moving toward the rear<br>adv. in the direction of the rear</td></tr>
 <tr><td>arrear</td><td>årrēar</td><td>ar-rear</td><td>år-rēar</td><td>n. an unpaid or overdue debt</td></tr>
-<tr><td>arrears</td><td>årrėarṡ</td><td>ar-rear-s</td><td>år-rėar-ṡ</td><td>n. money that is owed and should have been paid earlier</td></tr>
+<tr><td>arrears</td><td>årrēarṡ</td><td>ar-rear-s</td><td>år-rēar-ṡ</td><td>n. money that is owed and should have been paid earlier</td></tr>
 <tr><td>reason</td><td>rēaṡo̊n</td><td>reas-on</td><td>rēaṡ-o̊n</td><td>n. a cause or explanation for an action or event<br>n. the power of the mind to think and form judgments logically</td></tr>
 <tr><td>reasonable</td><td>rēaso̊nåble</td><td>reas-on-able</td><td>rēas-o̊n-åble</td><td>a. showing reason or sound judgment<br>a. marked by sound judgment</td></tr>
 <tr><td>reasoned</td><td>rēaṡo̊n𝕖d</td><td>reas-on-ed</td><td>rēaṡ-o̊n-𝕖d</td><td>a. logically valid</td></tr>
@@ -525,28 +525,28 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>reasoning</td><td>rēaṡo̊ning</td><td>reas-on-ing</td><td>rēaṡ-o̊n-ing</td><td>n. thinking that is coherent and logical</td></tr>
 <tr><td>reasons</td><td>rēaṡo̊nṡ</td><td>reas-on-s</td><td>rēaṡ-o̊n-ṡ</td><td></td></tr>
 <tr><td>reasonably</td><td>rēaṡo̊nåblẏ</td><td>reas-on-ab-ly</td><td>rēaṡ-o̊n-åb-lẏ</td><td>adv. to a moderately sufficient extent or degree</td></tr>
-<tr><td>reasonableness</td><td>rēaṡo̊nåblenėss</td><td>reas-on-able-ness</td><td>rēaṡ-o̊n-åble-nėss</td><td>n. goodness of reason and judgment<br>n. the property of being moderate in price or expenditures</td></tr>
+<tr><td>reasonableness</td><td>rēaṡo̊nåbl𝕖nėss</td><td>reas-on-able-ness</td><td>rēaṡ-o̊n-åbl𝕖-nėss</td><td>n. goodness of reason and judgment<br>n. the property of being moderate in price or expenditures</td></tr>
 <tr><td>unreasonable</td><td>ûnrēaṡo̊nåble</td><td>un-reason-able</td><td>ûn-rēaṡo̊n-åble</td><td>a. not guided by or based on good sense</td></tr>
 <tr><td>unreason</td><td>ûnrēaṡo̊n</td><td>un-reas-on</td><td>ûn-rēaṡ-o̊n</td><td>n. the state of being irrational; lacking powers of understanding</td></tr>
 <tr><td>unreasoning</td><td>ûnrēaṡo̊ning</td><td>un-reas-on-ing</td><td>ûn-rēaṡ-o̊n-ing</td><td>a. not based on reason or evidence</td></tr>
 <tr><td>unreasonably</td><td>ûnrēaṡo̊nåblẏ</td><td>un-reason-ab-ly</td><td>ûn-rēaṡo̊n-åb-lẏ</td><td>adv. not in a reasonable or intelligent manner<br>adv. to a degree that exceeds the bounds or reason or moderation</td></tr>
-<tr><td>unreasonableness</td><td>ûnrēaṡo̊nåblenėss</td><td>un-reason-able-ness</td><td>ûn-rēaṡo̊n-åble-nėss</td><td>n. the state of being unreasonable</td></tr>
+<tr><td>unreasonableness</td><td>ûnrēaṡo̊nåbl𝕖nėss</td><td>un-reason-able-ness</td><td>ûn-rēaṡo̊n-åbl𝕖-nėss</td><td>n. the state of being unreasonable</td></tr>
 <tr><td>reaumur</td><td>rèȧůmūr</td><td>reaumur</td><td>rèȧůmūr</td><td>n. a temperature scale</td></tr>
 <tr><td>reave</td><td>rēave</td><td>reave</td><td>rēave</td><td>vt. to seize and carry off</td></tr>
-<tr><td>bereave</td><td>be̊rēave</td><td>be-reave</td><td>be̊-rēave</td><td>vt. to deprive of a loved one through death</td></tr>
-<tr><td>bereft</td><td>be̊reft</td><td>be-reft</td><td>be̊-reft</td><td>a. deprived of something; lacking</td></tr>
-<tr><td>bereaved</td><td>be̊rēav𝕖d</td><td>be-reav-ed</td><td>be̊-rēav-𝕖d</td><td>a. sorrowful through loss or deprivation<br>n. a person who has suffered the death of a loved one</td></tr>
+<tr><td>bereave</td><td>berēave</td><td>be-reave</td><td>be-rēave</td><td>vt. to deprive of a loved one through death</td></tr>
+<tr><td>bereft</td><td>bėreft</td><td>be-reft</td><td>bė-reft</td><td>a. deprived of something; lacking</td></tr>
+<tr><td>bereaved</td><td>bėrēav𝕖d</td><td>be-reav-ed</td><td>bė-rēav-𝕖d</td><td>a. sorrowful through loss or deprivation<br>n. a person who has suffered the death of a loved one</td></tr>
 <tr><td>bereavement</td><td>bėrēav𝕖me̊nt</td><td>be-reave-ment</td><td>bė-rēav𝕖-me̊nt</td><td>n. the state of sorrow over the death of a loved one</td></tr>
-<tr><td>rebbe</td><td>rēbbe̊</td><td>rebbe</td><td>rēbbe̊</td><td>n. a Jewish religious teacher or leader</td></tr>
+<tr><td>rebbe</td><td>rebbe̊</td><td>rebbe</td><td>rebbe̊</td><td>n. a Jewish religious teacher or leader</td></tr>
 <tr><td>rec</td><td>rec</td><td>rec</td><td>rec</td><td>n. a recreation area or facility</td></tr>
-<tr><td>recency</td><td>rēc𝕖ncẏ</td><td>rec-ency</td><td>rēc-𝕖ncẏ</td><td>n. a time immediately before the present<br>n. the property of having happened or appeared not long ago</td></tr>
+<tr><td>recency</td><td>rēce̊ncẏ</td><td>rec-ency</td><td>rēc-e̊ncẏ</td><td>n. a time immediately before the present<br>n. the property of having happened or appeared not long ago</td></tr>
 <tr><td>reck</td><td>reck</td><td>reck</td><td>reck</td><td>v. to take heed or care</td></tr>
 <tr><td>reckless</td><td>recklėss</td><td>reck-less</td><td>reck-lėss</td><td>a. marked by defiant disregard for danger or consequences</td></tr>
 <tr><td>reckon</td><td>recko̊n</td><td>reck-on</td><td>reck-o̊n</td><td>v. take account of<br>v. judge to be probable</td></tr>
 <tr><td>reckoned</td><td>recko̊n𝕖d</td><td>reck-on-ed</td><td>reck-o̊n-𝕖d</td><td></td></tr>
 <tr><td>reckoning</td><td>recko̊ning</td><td>reck-on-ing</td><td>reck-o̊n-ing</td><td>n. the act of calculating or estimating<br>n. a settling of accounts</td></tr>
-<tr><td>recklessly</td><td>reckle̊sslẏ</td><td>reck-less-ly</td><td>reck-le̊ss-lẏ</td><td>adv. in a reckless manner</td></tr>
-<tr><td>recklessness</td><td>reckle̊ssne̊ss</td><td>reck-less-ness</td><td>reck-le̊ss-ne̊ss</td><td>n. the trait of giving little thought to danger</td></tr>
+<tr><td>recklessly</td><td>recklėsslẏ</td><td>reck-less-ly</td><td>reck-lėss-lẏ</td><td>adv. in a reckless manner</td></tr>
+<tr><td>recklessness</td><td>recklėssnėss</td><td>reck-less-ness</td><td>reck-lėss-nėss</td><td>n. the trait of giving little thought to danger</td></tr>
 <tr><td>reckons</td><td>recko̊nṡ</td><td>reck-on-s</td><td>reck-o̊n-ṡ</td><td></td></tr>
 <tr><td>rectus</td><td>rectůs</td><td>rectus</td><td>rectůs</td><td>n. any of various straight muscles</td></tr>
 <tr><td>rectal</td><td>rectål</td><td>rect-al</td><td>rect-ål</td><td>a. of or involving the rectum</td></tr>
@@ -557,66 +557,66 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rectory</td><td>recto̊rẏ</td><td>rect-ory</td><td>rect-o̊rẏ</td><td>n. an official residence provided by a church for its parson or vicar or rector</td></tr>
 <tr><td>rectum</td><td>rectům</td><td>rect-um</td><td>rect-ům</td><td>n. the terminal section of the alimentary canal</td></tr>
 <tr><td>rectangular</td><td>rectangūlår</td><td>rect-ang-ul-ar</td><td>rect-ang-ūl-år</td><td>a. having four right angles; shaped like a rectangle</td></tr>
-<tr><td>rectifier</td><td>recti̊fīe̊r</td><td>rect-i-fi-er</td><td>rect-i̊-fī-e̊r</td><td>n. electrical device that transforms alternating into direct current</td></tr>
-<tr><td>rectification</td><td>recti̊fi̊cātio̊n</td><td>rect-i-fic-at-ion</td><td>rect-i̊-fi̊c-āt-io̊n</td><td>n. (chemistry) the process of refinement or purification of a substance by distillation<br>n. the conversion of alternating current to direct current<br>n. finding a straight line equal in length to a given curve</td></tr>
-<tr><td>anorectal</td><td>anōrectål</td><td>ano-rect-al</td><td>anō-rect-ål</td><td>a. pertaining to the anus and rectum considered together</td></tr>
+<tr><td>rectifier</td><td>rectifīe̊r</td><td>rect-i-fi-er</td><td>rect-i-fī-e̊r</td><td>n. electrical device that transforms alternating into direct current</td></tr>
+<tr><td>rectification</td><td>rectificātio̊n</td><td>rect-i-fic-at-ion</td><td>rect-i-fic-āt-io̊n</td><td>n. (chemistry) the process of refinement or purification of a substance by distillation<br>n. the conversion of alternating current to direct current<br>n. finding a straight line equal in length to a given curve</td></tr>
+<tr><td>anorectal</td><td>ānōrectål</td><td>ano-rect-al</td><td>ānō-rect-ål</td><td>a. pertaining to the anus and rectum considered together</td></tr>
 <tr><td>correct</td><td>co̊rrect</td><td>cor-rect</td><td>co̊r-rect</td><td>a. free from error; in accordance with fact or truth<br>v. put right; amend</td></tr>
-<tr><td>colorectal</td><td>cōlōrectål</td><td>colo-rect-al</td><td>cōlō-rect-ål</td><td>a. relating to or affecting the colon and the rectum</td></tr>
+<tr><td>colorectal</td><td>côlo̊rectål</td><td>colo-rect-al</td><td>côlo̊-rect-ål</td><td>a. relating to or affecting the colon and the rectum</td></tr>
 <tr><td>correctable</td><td>co̊rrectåble</td><td>cor-rect-able</td><td>co̊r-rect-åble</td><td>a. capable of being corrected or set right</td></tr>
-<tr><td>corrected</td><td>co̊rrect𝕖d</td><td>cor-rect-ed</td><td>co̊r-rect-𝕖d</td><td>a. having been made right or accurate</td></tr>
+<tr><td>corrected</td><td>co̊rrectėd</td><td>cor-rect-ed</td><td>co̊r-rect-ėd</td><td>a. having been made right or accurate</td></tr>
 <tr><td>correcting</td><td>co̊rrecting</td><td>cor-rect-ing</td><td>co̊r-rect-ing</td><td>v. make right or correct</td></tr>
 <tr><td>correction</td><td>co̊rrectio̊n</td><td>cor-rect-ion</td><td>co̊r-rect-io̊n</td><td>n. the act of correcting a mistake</td></tr>
 <tr><td>corrective</td><td>co̊rrective</td><td>cor-rect-ive</td><td>co̊r-rect-ive</td><td>a. intended to correct<br>n. something that corrects</td></tr>
 <tr><td>correctly</td><td>co̊rrectlẏ</td><td>cor-rect-ly</td><td>co̊r-rect-lẏ</td><td>adv. in a correct manner</td></tr>
-<tr><td>correctness</td><td>co̊rrectne̊ss</td><td>cor-rect-ness</td><td>co̊r-rect-ne̊ss</td><td>n. conformity to fact or truth</td></tr>
+<tr><td>correctness</td><td>co̊rrectnėss</td><td>cor-rect-ness</td><td>co̊r-rect-nėss</td><td>n. conformity to fact or truth</td></tr>
 <tr><td>corrector</td><td>co̊rrecto̊r</td><td>cor-rect-or</td><td>co̊r-rect-o̊r</td><td>n. one who or that which corrects</td></tr>
 <tr><td>corrects</td><td>co̊rrects</td><td>cor-rect-s</td><td>co̊r-rect-s</td><td></td></tr>
 <tr><td>correctional</td><td>co̊rrectio̊nål</td><td>cor-rect-ion-al</td><td>co̊r-rect-io̊n-ål</td><td>a. concerned with or providing correction</td></tr>
 <tr><td>corrections</td><td>co̊rrectio̊nṡ</td><td>cor-rect-ion-s</td><td>co̊r-rect-io̊n-ṡ</td><td></td></tr>
 <tr><td>direct</td><td>direct</td><td>di-rect</td><td>di-rect</td><td>a. extending or moving from one place to another without changing direction<br>v. control the operations of; manage or guide</td></tr>
-<tr><td>directed</td><td>di̊rect𝕖d</td><td>di-rect-ed</td><td>di̊-rect-𝕖d</td><td>a. having a specified direction</td></tr>
+<tr><td>directed</td><td>dīrectėd</td><td>di-rect-ed</td><td>dī-rect-ėd</td><td>a. having a specified direction</td></tr>
 <tr><td>directer</td><td>dīrecte̊r</td><td>di-rect-er</td><td>dī-rect-e̊r</td><td></td></tr>
 <tr><td>directest</td><td>dīrectėst</td><td>di-rect-est</td><td>dī-rect-ėst</td><td></td></tr>
-<tr><td>directing</td><td>di̊recting</td><td>di-rect-ing</td><td>di̊-rect-ing</td><td>a. showing the way by conducting or leading<br>v. give directions for</td></tr>
+<tr><td>directing</td><td>dīrecting</td><td>di-rect-ing</td><td>dī-rect-ing</td><td>a. showing the way by conducting or leading<br>v. give directions for</td></tr>
 <tr><td>direction</td><td>directio̊n</td><td>di-rect-ion</td><td>di-rect-io̊n</td><td>n. the course along which someone moves or points<br>n. instructions on how to do something</td></tr>
-<tr><td>directive</td><td>di̊rective</td><td>di-rect-ive</td><td>di̊-rect-ive</td><td>n. a pronouncement encouraging or banning some activity</td></tr>
+<tr><td>directive</td><td>dīrective</td><td>di-rect-ive</td><td>dī-rect-ive</td><td>n. a pronouncement encouraging or banning some activity</td></tr>
 <tr><td>directly</td><td>directlẏ</td><td>di-rect-ly</td><td>di-rect-lẏ</td><td>adv. in a direct manner<br>adv. without delay; immediately</td></tr>
-<tr><td>directness</td><td>di̊rectne̊ss</td><td>di-rect-ness</td><td>di̊-rect-ne̊ss</td><td>n. trueness of course toward a goal</td></tr>
+<tr><td>directness</td><td>dīrectnėss</td><td>di-rect-ness</td><td>dī-rect-nėss</td><td>n. trueness of course toward a goal</td></tr>
 <tr><td>director</td><td>directo̊r</td><td>di-rect-or</td><td>di-rect-o̊r</td><td>n. a person who is responsible for managing or controlling an organization<br>n. a person who supervises the making of a film or show</td></tr>
 <tr><td>directory</td><td>directo̊ry</td><td>di-rect-ory</td><td>di-rect-o̊ry</td><td>n. an alphabetical list of names and addresses</td></tr>
 <tr><td>directs</td><td>dīrects</td><td>di-rect-s</td><td>dī-rect-s</td><td></td></tr>
-<tr><td>directional</td><td>di̊rectio̊nål</td><td>di-rect-ion-al</td><td>di̊-rect-io̊n-ål</td><td>a. relating to or indicating directions in space<br>a. relating to direction toward a (nonspatial) goal</td></tr>
-<tr><td>directorate</td><td>di̊recto̊råte</td><td>di-rect-or-ate</td><td>di̊-rect-o̊r-åte</td><td>n. a group chosen to govern a corporation or institution</td></tr>
-<tr><td>directorial</td><td>di̊rectoriål</td><td>di-rect-or-ial</td><td>di̊-rect-or-iål</td><td>a. relating to a director or direction</td></tr>
-<tr><td>directionless</td><td>di̊rectio̊nle̊ss</td><td>di-rect-ion-less</td><td>di̊-rect-io̊n-le̊ss</td><td>a. aimlessly drifting</td></tr>
+<tr><td>directional</td><td>dīrectio̊nål</td><td>di-rect-ion-al</td><td>dī-rect-io̊n-ål</td><td>a. relating to or indicating directions in space<br>a. relating to direction toward a (nonspatial) goal</td></tr>
+<tr><td>directorate</td><td>dīrecto̊rāte</td><td>di-rect-or-ate</td><td>dī-rect-o̊r-āte</td><td>n. a group chosen to govern a corporation or institution</td></tr>
+<tr><td>directorial</td><td>dīrėctoriål</td><td>di-rect-or-ial</td><td>dī-rėct-or-iål</td><td>a. relating to a director or direction</td></tr>
+<tr><td>directionless</td><td>dīrectio̊nlėss</td><td>di-rect-ion-less</td><td>dī-rect-io̊n-lėss</td><td>a. aimlessly drifting</td></tr>
 <tr><td>directions</td><td>dīrectio̊nṡ</td><td>di-rect-ion-s</td><td>dī-rect-io̊n-ṡ</td><td></td></tr>
 <tr><td>directors</td><td>dīrecto̊rṡ</td><td>di-rect-or-s</td><td>dī-rect-o̊r-ṡ</td><td></td></tr>
-<tr><td>directorship</td><td>di̊recto̊rship</td><td>di-rect-or-ship</td><td>di̊-rect-o̊r-ship</td><td>n. the position of a director of a business concern</td></tr>
-<tr><td>directionality</td><td>directio̊nali̊tẏ</td><td>di-rect-ion-al-ity</td><td>di-rect-io̊n-al-i̊tẏ</td><td>n. the property of being directional or maintaining a direction</td></tr>
+<tr><td>directorship</td><td>dīrecto̊rship</td><td>di-rect-or-ship</td><td>dī-rect-o̊r-ship</td><td>n. the position of a director of a business concern</td></tr>
+<tr><td>directionality</td><td>dīrectio̊nalitẏ</td><td>di-rect-ion-al-ity</td><td>dī-rect-io̊n-al-itẏ</td><td>n. the property of being directional or maintaining a direction</td></tr>
 <tr><td>erect</td><td>ėrect</td><td>e-rect</td><td>ė-rect</td><td>a. standing straight up<br>v. to build or construct something</td></tr>
-<tr><td>erection</td><td>ērectio̊n</td><td>e-rect-ion</td><td>ē-rect-io̊n</td><td>n. a building or structure that has been erected</td></tr>
-<tr><td>erector</td><td>ērecto̊r</td><td>e-rect-or</td><td>ē-rect-o̊r</td><td>n. a muscle that raises a body part<br>n. a device or person that erects something</td></tr>
-<tr><td>erectus</td><td>ērectůs</td><td>e-rect-us</td><td>ē-rect-ůs</td><td>a. upright; standing</td></tr>
+<tr><td>erection</td><td>ėrectio̊n</td><td>e-rect-ion</td><td>ė-rect-io̊n</td><td>n. a building or structure that has been erected</td></tr>
+<tr><td>erector</td><td>ėrecto̊r</td><td>e-rect-or</td><td>ė-rect-o̊r</td><td>n. a muscle that raises a body part<br>n. a device or person that erects something</td></tr>
+<tr><td>erectus</td><td>ėrectůs</td><td>e-rect-us</td><td>ė-rect-ůs</td><td>a. upright; standing</td></tr>
 <tr><td>erections</td><td>ėrectio̊nṡ</td><td>e-rect-ion-s</td><td>ė-rect-io̊n-ṡ</td><td></td></tr>
-<tr><td>bidirectional</td><td>bīdirectio̊nål</td><td>bi-di-rect-ion-al</td><td>bī-di-rect-io̊n-ål</td><td>a. functioning or allowing movement in two opposite directions</td></tr>
+<tr><td>bidirectional</td><td>bīdīrectio̊nål</td><td>bi-di-rect-ion-al</td><td>bī-dī-rect-io̊n-ål</td><td>a. functioning or allowing movement in two opposite directions</td></tr>
 <tr><td>incorrect</td><td>inco̊rrect</td><td>in-cor-rect</td><td>in-co̊r-rect</td><td>a. not correct; not in conformity with fact or truth</td></tr>
 <tr><td>incorrectly</td><td>inco̊rrectlẏ</td><td>in-cor-rect-ly</td><td>in-co̊r-rect-lẏ</td><td>adv. in an inaccurate manner</td></tr>
-<tr><td>incorrectness</td><td>inco̊rrectne̊ss</td><td>in-cor-rect-ness</td><td>in-co̊r-rect-ne̊ss</td><td>n. lack of conformity to social expectations<br>n. the quality of not conforming to fact or truth</td></tr>
+<tr><td>incorrectness</td><td>inco̊rrectnėss</td><td>in-cor-rect-ness</td><td>in-co̊r-rect-nėss</td><td>n. lack of conformity to social expectations<br>n. the quality of not conforming to fact or truth</td></tr>
 <tr><td>indirect</td><td>indirect</td><td>in-di-rect</td><td>in-di-rect</td><td>a. not direct; avoiding clear reference</td></tr>
-<tr><td>indirection</td><td>indirectio̊n</td><td>in-di-rect-ion</td><td>in-di-rect-io̊n</td><td>n. indirect procedure or action<br>n. deceitful action that is not straightforward</td></tr>
-<tr><td>indirectly</td><td>indi̊rectlẏ</td><td>in-di-rect-ly</td><td>in-di̊-rect-lẏ</td><td>adv. not directly; in a roundabout way</td></tr>
-<tr><td>insurrectionary</td><td>insurrectio̊nårẏ</td><td>in-sur-rect-ion-ary</td><td>in-sur-rect-io̊n-årẏ</td><td>a. of or relating to or given to insurrection</td></tr>
-<tr><td>misdirect</td><td>misdirect</td><td>mis-di-rect</td><td>mis-di-rect</td><td>v. put a wrong address on</td></tr>
-<tr><td>misdirected</td><td>misdirectėd</td><td>mis-di-rect-ed</td><td>mis-di-rect-ėd</td><td>vt. lead someone in the wrong direction<br>vt. put a wrong address on</td></tr>
-<tr><td>misdirection</td><td>misdirectio̊n</td><td>mis-di-rect-ion</td><td>mis-di-rect-io̊n</td><td>n. an incorrect direction or instruction</td></tr>
-<tr><td>multidirectional</td><td>mûltidirectio̊nål</td><td>multi-di-rect-ion-al</td><td>mûlti-di-rect-io̊n-ål</td><td>a. involving or moving in many directions</td></tr>
-<tr><td>omnidirectional</td><td>omnidirectio̊nål</td><td>omni-di-rect-ion-al</td><td>omni-di-rect-io̊n-ål</td><td>a. not directional</td></tr>
-<tr><td>redirect</td><td>rēdi̊rect</td><td>re-di-rect</td><td>rē-di̊-rect</td><td>v. to change the direction or destination of</td></tr>
-<tr><td>redirected</td><td>rēdi̊rectėd</td><td>re-di-rect-ed</td><td>rē-di̊-rect-ėd</td><td>v. channel into a new direction</td></tr>
-<tr><td>redirection</td><td>rēdi̊rectio̊n</td><td>re-di-rect-ion</td><td>rē-di̊-rect-io̊n</td><td>n. the act of redirecting or the state of being redirected</td></tr>
+<tr><td>indirection</td><td>indīrectio̊n</td><td>in-di-rect-ion</td><td>in-dī-rect-io̊n</td><td>n. indirect procedure or action<br>n. deceitful action that is not straightforward</td></tr>
+<tr><td>indirectly</td><td>indīrectlẏ</td><td>in-di-rect-ly</td><td>in-dī-rect-lẏ</td><td>adv. not directly; in a roundabout way</td></tr>
+<tr><td>insurrectionary</td><td>insůrrectio̊nårẏ</td><td>in-sur-rect-ion-ary</td><td>in-sůr-rect-io̊n-årẏ</td><td>a. of or relating to or given to insurrection</td></tr>
+<tr><td>misdirect</td><td>misdīrect</td><td>mis-di-rect</td><td>mis-dī-rect</td><td>v. put a wrong address on</td></tr>
+<tr><td>misdirected</td><td>misdīrectėd</td><td>mis-di-rect-ed</td><td>mis-dī-rect-ėd</td><td>vt. lead someone in the wrong direction<br>vt. put a wrong address on</td></tr>
+<tr><td>misdirection</td><td>misdīrectio̊n</td><td>mis-di-rect-ion</td><td>mis-dī-rect-io̊n</td><td>n. an incorrect direction or instruction</td></tr>
+<tr><td>multidirectional</td><td>mûltidīrectio̊nål</td><td>multi-di-rect-ion-al</td><td>mûlti-dī-rect-io̊n-ål</td><td>a. involving or moving in many directions</td></tr>
+<tr><td>omnidirectional</td><td>omnidīrectio̊nål</td><td>omni-di-rect-ion-al</td><td>omni-dī-rect-io̊n-ål</td><td>a. not directional</td></tr>
+<tr><td>redirect</td><td>rēdīrect</td><td>re-di-rect</td><td>rē-dī-rect</td><td>v. to change the direction or destination of</td></tr>
+<tr><td>redirected</td><td>rēdīrectėd</td><td>re-di-rect-ed</td><td>rē-dī-rect-ėd</td><td>v. channel into a new direction</td></tr>
+<tr><td>redirection</td><td>rēdīrectio̊n</td><td>re-di-rect-ion</td><td>rē-dī-rect-io̊n</td><td>n. the act of redirecting or the state of being redirected</td></tr>
 <tr><td>uncorrected</td><td>ûnco̊rrectėd</td><td>un-cor-rect-ed</td><td>ûn-co̊r-rect-ėd</td><td>a. not corrected or adjusted<br>a. not subjected to discipline</td></tr>
-<tr><td>undirected</td><td>ûndirectėd</td><td>un-di-rect-ed</td><td>ûn-di-rect-ėd</td><td>a. aimlessly drifting<br>a. not administered or directed</td></tr>
-<tr><td>unidirectional</td><td>ūnidirectio̊nål</td><td>uni-di-rect-ion-al</td><td>ūni-di-rect-io̊n-ål</td><td>a. operating or moving in one direction only</td></tr>
+<tr><td>undirected</td><td>ûndīrectėd</td><td>un-di-rect-ed</td><td>ûn-dī-rect-ėd</td><td>a. aimlessly drifting<br>a. not administered or directed</td></tr>
+<tr><td>unidirectional</td><td>ūnidīrectio̊nål</td><td>uni-di-rect-ion-al</td><td>ūni-dī-rect-io̊n-ål</td><td>a. operating or moving in one direction only</td></tr>
 <tr><td>recto</td><td>rectō</td><td>recto</td><td>rectō</td><td>n. right-hand page</td></tr>
 <tr><td>red</td><td>red</td><td>red</td><td>red</td><td>a. of a color at the end of the spectrum, resembling blood or fire<br>n. red color or pigment</td></tr>
 <tr><td>redbrick</td><td>redbrick</td><td>red-brick</td><td>red-brick</td><td>a. relating to newer British universities</td></tr>
@@ -626,16 +626,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>red-hot</td><td></td><td>red-hot</td><td></td><td>a. heated until glowing red</td></tr>
 <tr><td>reddish</td><td>reddish</td><td>redd-ish</td><td>redd-ish</td><td>a. of a color resembling red</td></tr>
 <tr><td>redly</td><td>redlẏ</td><td>red-ly</td><td>red-lẏ</td><td>adv. displaying a red color</td></tr>
-<tr><td>redness</td><td>redne̊ss</td><td>red-ness</td><td>red-ne̊ss</td><td>n. the quality or state of being red</td></tr>
+<tr><td>redness</td><td>rednėss</td><td>red-ness</td><td>red-nėss</td><td>n. the quality or state of being red</td></tr>
 <tr><td>redox</td><td>rėdox</td><td>red-ox</td><td>rėd-ox</td><td>n. a reversible reaction where one is oxidation and the reverse is reduction</td></tr>
 <tr><td>redwing</td><td>redwing</td><td>red-wing</td><td>red-wing</td><td>n. a European thrush with red flanks</td></tr>
-<tr><td>reddened</td><td>redd𝕖n𝕖d</td><td>redd-en-ed</td><td>redd-𝕖n-𝕖d</td><td>v. turn red, as if in embarrassment or shame<br>a. having a red or flushed color</td></tr>
-<tr><td>reddening</td><td>redd𝕖ning</td><td>redd-en-ing</td><td>redd-𝕖n-ing</td><td>v. turn red</td></tr>
-<tr><td>infrared</td><td>infrår𝕖d</td><td>infra-red</td><td>infrå-r𝕖d</td><td>a. relating to electromagnetic radiation with wavelengths longer than visible light<br>n. the infrared region of the spectrum</td></tr>
+<tr><td>reddened</td><td>redde̊n𝕖d</td><td>redd-en-ed</td><td>redd-e̊n-𝕖d</td><td>v. turn red, as if in embarrassment or shame<br>a. having a red or flushed color</td></tr>
+<tr><td>reddening</td><td>redde̊ning</td><td>redd-en-ing</td><td>redd-e̊n-ing</td><td>v. turn red</td></tr>
+<tr><td>infrared</td><td>infråred</td><td>infra-red</td><td>infrå-red</td><td>a. relating to electromagnetic radiation with wavelengths longer than visible light<br>n. the infrared region of the spectrum</td></tr>
 <tr><td>redd</td><td>redd</td><td>redd</td><td>redd</td><td>v. put in order or tidy</td></tr>
 <tr><td>irredeemably</td><td>irrėdēemåblẏ</td><td>ir-redeem-ab-ly</td><td>ir-rėdēem-åb-lẏ</td><td>adv. in a manner that cannot be remedied or corrected</td></tr>
-<tr><td>irredentism</td><td>irre̊dentiṡm</td><td>ir-redent-ism</td><td>ir-re̊dent-iṡm</td><td>n. the doctrine that territory should be controlled by its ethnic or historical country</td></tr>
-<tr><td>irredentist</td><td>irrėdentist</td><td>ir-redent-ist</td><td>ir-rėdent-ist</td><td>n. an advocate of irredentism</td></tr>
+<tr><td>irredentism</td><td>irrėdentiṡm</td><td>ir-redent-ism</td><td>ir-rėdent-iṡm</td><td>n. the doctrine that territory should be controlled by its ethnic or historical country</td></tr>
+<tr><td>irredentist</td><td>irrēdentist</td><td>ir-redent-ist</td><td>ir-rēdent-ist</td><td>n. an advocate of irredentism</td></tr>
 <tr><td>redolence</td><td>redo̊le̊nce</td><td>redol-ence</td><td>redo̊l-e̊nce</td><td>n. a pleasingly sweet olfactory property</td></tr>
 <tr><td>redolent</td><td>redo̊le̊nt</td><td>redol-ent</td><td>redo̊l-e̊nt</td><td>a. (used with of or with) noticeably odorous<br>a. serving to bring to mind</td></tr>
 <tr><td>reductio</td><td></td><td>reductio</td><td></td><td>n. a method of disproving by absurdity</td></tr>
@@ -651,17 +651,17 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unreel</td><td>ûnrēel</td><td>un-reel</td><td>ûn-rēel</td><td>v unwind from or as if from a reel</td></tr>
 <tr><td>newsreel</td><td>new̄ṡrēel</td><td>new-s-reel</td><td>new̄-ṡ-rēel</td><td>n. a short film and commentary about current events</td></tr>
 <tr><td>ref</td><td>ref</td><td>ref</td><td>ref</td><td>n. the chief official in sports, expected to ensure fair play</td></tr>
-<tr><td>reflet</td><td>re̊fle𝕥</td><td>reflet</td><td>re̊fle𝕥</td><td>n. a lustrous finish on pottery</td></tr>
-<tr><td>irrefutable</td><td>irre̊fūtåble</td><td>ir-refut-able</td><td>ir-re̊fūt-åble</td><td>a. impossible to deny or disprove</td></tr>
-<tr><td>irrefutably</td><td>irrefūtåblẏ</td><td>ir-refut-ab-ly</td><td>ir-refūt-åb-lẏ</td><td>adv. in an irrefutable manner</td></tr>
+<tr><td>reflet</td><td>re̊flè𝕥</td><td>reflet</td><td>re̊flè𝕥</td><td>n. a lustrous finish on pottery</td></tr>
+<tr><td>irrefutable</td><td>irrėfūtåble</td><td>ir-refut-able</td><td>ir-rėfūt-åble</td><td>a. impossible to deny or disprove</td></tr>
+<tr><td>irrefutably</td><td>irrėfūtåblẏ</td><td>ir-refut-ab-ly</td><td>ir-rėfūt-åb-lẏ</td><td>adv. in an irrefutable manner</td></tr>
 <tr><td>regal</td><td>rēgål</td><td>reg-al</td><td>rēg-ål</td><td>a. belonging to or befitting a supreme ruler</td></tr>
 <tr><td>regency</td><td>rēge̊ncẏ</td><td>reg-ency</td><td>rēg-e̊ncẏ</td><td>n. the period during which a regent governs<br>n. the office of a regent</td></tr>
 <tr><td>regent</td><td>rēge̊nt</td><td>reg-ent</td><td>rēg-e̊nt</td><td>n. someone who rules during the absence of a monarch</td></tr>
 <tr><td>regime</td><td>regĩme</td><td>reg-ime</td><td>reg-ĩme</td><td>n. a government or system of rule<br>n. a systematic plan for therapy or diet</td></tr>
-<tr><td>regimen</td><td>regi̊me̊n</td><td>reg-imen</td><td>reg-i̊me̊n</td><td>n. a systematic plan for therapy (often including diet)</td></tr>
+<tr><td>regimen</td><td>regime̊n</td><td>reg-imen</td><td>reg-ime̊n</td><td>n. a systematic plan for therapy (often including diet)</td></tr>
 <tr><td>region</td><td>rēgio̊n</td><td>reg-ion</td><td>rēg-io̊n</td><td>n. an area of a country or the world; a district</td></tr>
 <tr><td>regional</td><td>rēgio̊nål</td><td>reg-ion-al</td><td>rēg-io̊n-ål</td><td>a. relating to a particular region or area</td></tr>
-<tr><td>registrant</td><td>regi̊strånt</td><td>reg-istr-ant</td><td>reg-i̊str-ånt</td><td>n. a person who is formally entered in a register</td></tr>
+<tr><td>registrant</td><td>registrånt</td><td>reg-istr-ant</td><td>reg-istr-ånt</td><td>n. a person who is formally entered in a register</td></tr>
 <tr><td>registrar</td><td>registràr</td><td>reg-istr-ar</td><td>reg-istr-àr</td><td>n. someone responsible for keeping records</td></tr>
 <tr><td>regular</td><td>regūlår</td><td>reg-ul-ar</td><td>reg-ūl-år</td><td>a. arranged in a constant or predictable pattern<br>a. happening or done frequently</td></tr>
 <tr><td>regulate</td><td>regūlāte</td><td>reg-ul-ate</td><td>reg-ūl-āte</td><td>vt. to control or supervise by means of rules and regulations</td></tr>
@@ -670,9 +670,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>regally</td><td>rēgållẏ</td><td>reg-al-ly</td><td>rēg-ål-lẏ</td><td>adv. in a regal manner</td></tr>
 <tr><td>regions</td><td>rēgio̊nṡ</td><td>reg-ion-s</td><td>rēg-io̊n-ṡ</td><td></td></tr>
 <tr><td>registry</td><td>registrẏ</td><td>reg-istr-y</td><td>reg-istr-ẏ</td><td>n. an official written record of names or events or transactions</td></tr>
-<tr><td>regimental</td><td>regi̊mentål</td><td>reg-im-ent-al</td><td>reg-i̊m-ent-ål</td><td>a. belonging to or concerning a regiment</td></tr>
-<tr><td>regulated</td><td>regūlāt𝕖d</td><td>reg-ul-at-ed</td><td>reg-ūl-āt-𝕖d</td><td>a. controlled or governed according to rules</td></tr>
-<tr><td>regimented</td><td>regi̊mentėd</td><td>reg-im-ent-ed</td><td>reg-i̊m-ent-ėd</td><td>a. strictly controlled</td></tr>
+<tr><td>regimental</td><td>regimentål</td><td>reg-im-ent-al</td><td>reg-im-ent-ål</td><td>a. belonging to or concerning a regiment</td></tr>
+<tr><td>regulated</td><td>regūlātėd</td><td>reg-ul-at-ed</td><td>reg-ūl-āt-ėd</td><td>a. controlled or governed according to rules</td></tr>
+<tr><td>regimented</td><td>regime̊ntėd</td><td>reg-im-ent-ed</td><td>reg-im-e̊nt-ėd</td><td>a. strictly controlled</td></tr>
 <tr><td>registered</td><td>registe̊r𝕖d</td><td>reg-ist-er-ed</td><td>reg-ist-e̊r-𝕖d</td><td>a. officially recorded or listed</td></tr>
 <tr><td>regionalism</td><td>rēgio̊nåliṡm</td><td>reg-ion-al-ism</td><td>rēg-io̊n-ål-iṡm</td><td>n. loyalty to the interests of a particular region</td></tr>
 <tr><td>regionalist</td><td>rēgio̊nålist</td><td>reg-ion-al-ist</td><td>rēg-io̊n-ål-ist</td><td>n. an advocate of regionalism</td></tr>
@@ -682,26 +682,26 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>regularize</td><td>regūlårīze</td><td>reg-ul-ar-ize</td><td>reg-ūl-år-īze</td><td>v. make regular or more regular</td></tr>
 <tr><td>regulating</td><td>regūlāting</td><td>reg-ul-at-ing</td><td>reg-ūl-āt-ing</td><td>n. the act of controlling or directing according to rules<br>v. fix or adjust the time, amount, degree, or rate of</td></tr>
 <tr><td>regulation</td><td>regūlātio̊n</td><td>reg-ul-at-ion</td><td>reg-ūl-āt-io̊n</td><td>n. a rule or directive made and maintained by an authority<br>n. the act of controlling or directing</td></tr>
-<tr><td>regulative</td><td>regūlātive</td><td>reg-ul-at-ive</td><td>reg-ūl-āt-ive</td><td>a. restricting according to rules or principles</td></tr>
+<tr><td>regulative</td><td>regūlåtive</td><td>reg-ul-at-ive</td><td>reg-ūl-åt-ive</td><td>a. restricting according to rules or principles</td></tr>
 <tr><td>registering</td><td>registe̊ring</td><td>reg-ist-er-ing</td><td>reg-ist-e̊r-ing</td><td></td></tr>
 <tr><td>regionally</td><td>rēgio̊nållẏ</td><td>reg-ion-al-ly</td><td>rēg-io̊n-ål-lẏ</td><td>adv. in a regional manner</td></tr>
 <tr><td>regularly</td><td>regūlårlẏ</td><td>reg-ul-ar-ly</td><td>reg-ūl-år-lẏ</td><td>adv. in a regular manner<br>adv. in a regular way without variation</td></tr>
 <tr><td>regulator</td><td>regūlāto̊r</td><td>reg-ul-at-or</td><td>reg-ūl-āt-o̊r</td><td>n. a device for controlling the rate or power of a mechanism<br>n. an official who supervises a particular activity</td></tr>
-<tr><td>regulatory</td><td>regūlåtorẏ</td><td>reg-ul-at-ory</td><td>reg-ūl-åt-orẏ</td><td>a. relating to the control or regulation of an activity</td></tr>
+<tr><td>regulatory</td><td>regūlāto̊rẏ</td><td>reg-ul-at-ory</td><td>reg-ūl-āt-o̊rẏ</td><td>a. relating to the control or regulation of an activity</td></tr>
 <tr><td>registers</td><td>registe̊rṡ</td><td>reg-ist-er-s</td><td>reg-ist-e̊r-ṡ</td><td></td></tr>
 <tr><td>regionalized</td><td>rēgio̊nålīz𝕖d</td><td>reg-ion-al-iz-ed</td><td>rēg-io̊n-ål-īz-𝕖d</td><td>a. divided or organized into regions</td></tr>
 <tr><td>regularized</td><td>regūlårīz𝕖d</td><td>reg-ul-ar-iz-ed</td><td>reg-ūl-år-īz-𝕖d</td><td>v. bring into conformity with rules or principles (regularize的过去式和过去分词)</td></tr>
-<tr><td>regimentation</td><td>regi̊mentātio̊n</td><td>reg-im-ent-at-ion</td><td>reg-i̊m-ent-āt-io̊n</td><td>n. the imposition of strict order or discipline</td></tr>
+<tr><td>regimentation</td><td>regime̊ntātio̊n</td><td>reg-im-ent-at-ion</td><td>reg-im-e̊nt-āt-io̊n</td><td>n. the imposition of strict order or discipline</td></tr>
 <tr><td>registrations</td><td>registrātio̊nṡ</td><td>reg-istr-at-ion-s</td><td>reg-istr-āt-io̊n-ṡ</td><td></td></tr>
-<tr><td>regionalization</td><td>rēgi̊o̊nålīzātio̊n</td><td>reg-ion-al-iz-at-ion</td><td>rēg-i̊o̊n-ål-īz-āt-io̊n</td><td>n. the division of an area into regions for administrative purposes</td></tr>
+<tr><td>regionalization</td><td>rēgio̊nålīzātio̊n</td><td>reg-ion-al-iz-at-ion</td><td>rēg-io̊n-ål-īz-āt-io̊n</td><td>n. the division of an area into regions for administrative purposes</td></tr>
 <tr><td>regularization</td><td>regūlårīzātio̊n</td><td>reg-ul-ar-iz-at-ion</td><td>reg-ūl-år-īz-āt-io̊n</td><td>n. the condition of having been made regular (or more regular)</td></tr>
-<tr><td>bioregion</td><td>bīorēgio̊n</td><td>bio-reg-ion</td><td>bīo-rēg-io̊n</td><td>n. an area constituting a natural ecological community</td></tr>
-<tr><td>bioregional</td><td>bīorēgio̊nål</td><td>bio-reg-ion-al</td><td>bīo-rēg-io̊n-ål</td><td>a. of or relating to a bioregion</td></tr>
+<tr><td>bioregion</td><td>bīōrēgio̊n</td><td>bio-reg-ion</td><td>bīō-rēg-io̊n</td><td>n. an area constituting a natural ecological community</td></tr>
+<tr><td>bioregional</td><td>bīōrēgio̊nål</td><td>bio-reg-ion-al</td><td>bīō-rēg-io̊n-ål</td><td>a. of or relating to a bioregion</td></tr>
 <tr><td>deregulate</td><td>dēregūlāte</td><td>de-reg-ul-ate</td><td>dē-reg-ūl-āte</td><td>v. lift the regulations on</td></tr>
 <tr><td>deregulated</td><td>dēregūlātėd</td><td>de-reg-ul-at-ed</td><td>dē-reg-ūl-āt-ėd</td><td>v. lift the regulations on</td></tr>
 <tr><td>deregulation</td><td>dēregūlātio̊n</td><td>de-reg-ul-at-ion</td><td>dē-reg-ūl-āt-io̊n</td><td>n. the act of freeing from regulation (especially from governmental regulations)</td></tr>
-<tr><td>dysregulation</td><td>dẏṡregūlātio̊n</td><td>dys-reg-ul-at-ion</td><td>dẏṡ-reg-ūl-āt-io̊n</td><td>n. impairment of a physiological regulatory mechanism</td></tr>
-<tr><td>deregulatory</td><td>dēregūlåtorẏ</td><td>de-reg-ul-at-ory</td><td>dē-reg-ūl-åt-orẏ</td><td>a. relating to the removal of government controls from an industry or activity</td></tr>
+<tr><td>dysregulation</td><td>dẏsrėgūlātio̊n</td><td>dys-reg-ul-at-ion</td><td>dẏs-rėg-ūl-āt-io̊n</td><td>n. impairment of a physiological regulatory mechanism</td></tr>
+<tr><td>deregulatory</td><td>dēregūlāto̊rẏ</td><td>de-reg-ul-at-ory</td><td>dē-reg-ūl-āt-o̊rẏ</td><td>a. relating to the removal of government controls from an industry or activity</td></tr>
 <tr><td>ecoregion</td><td>ēcōrēgio̊n</td><td>eco-reg-ion</td><td>ēcō-rēg-io̊n</td><td>n. a region defined by its ecology and environmental conditions</td></tr>
 <tr><td>ecoregional</td><td>ēcōrēgio̊nål</td><td>eco-reg-ion-al</td><td>ēcō-rēg-io̊n-ål</td><td>a. of or relating to an ecoregion</td></tr>
 <tr><td>interregional</td><td>inte̊rrēgio̊nål</td><td>inter-reg-ion-al</td><td>inte̊r-rēg-io̊n-ål</td><td>a. relating to or occurring between different regions</td></tr>
@@ -714,22 +714,22 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unregistered</td><td>ûnregiste̊r𝕖d</td><td>un-reg-ist-er-ed</td><td>ûn-reg-ist-e̊r-𝕖d</td><td>a. not registered or recorded</td></tr>
 <tr><td>regalia</td><td>rėgāliå</td><td>regal-ia</td><td>rėgāl-iå</td><td>n. paraphernalia indicative of royalty</td></tr>
 <tr><td>Regan</td><td>Rēgån</td><td>Regan</td><td>Rēgån</td><td>n. a surname</td></tr>
-<tr><td>reggae</td><td>reggāe</td><td>reggae</td><td>reggāe</td><td>n. West Indian popular music with repetitive bass riffs and off-beat guitar chords</td></tr>
+<tr><td>reggae</td><td>reggaē</td><td>reggae</td><td>reggaē</td><td>n. West Indian popular music with repetitive bass riffs and off-beat guitar chords</td></tr>
 <tr><td>regnant</td><td>regnånt</td><td>regn-ant</td><td>regn-ånt</td><td>a. exercising power or authority</td></tr>
 <tr><td>interregnum</td><td>inte̊rregnům</td><td>inter-regn-um</td><td>inte̊r-regn-ům</td><td>n. the time between two reigns, governments, etc.</td></tr>
 <tr><td>reign</td><td>rèign</td><td>reign</td><td>rèign</td><td>n. the period during which a monarch rules<br>v. hold royal office</td></tr>
 <tr><td>reigning</td><td>rèi𝕘ning</td><td>reign-ing</td><td>rèi𝕘n-ing</td><td>a. currently holding power or authority</td></tr>
 <tr><td>reiki</td><td>rèikĩ</td><td>reiki</td><td>rèikĩ</td><td>n. a healing technique based on the principle of channeling energy through touch</td></tr>
 <tr><td>rein</td><td>rèin</td><td>rein</td><td>rèin</td><td>n. one of a pair of long straps used to control a horse<br>v. stop or slow up one&#x27;s horse by pulling the reins</td></tr>
-<tr><td>reishi</td><td>rèishĩ</td><td>reishi</td><td>rèishĩ</td><td>n. a type of mushroom used in traditional Asian medicine</td></tr>
-<tr><td>relacion</td><td>relàciōn</td><td>relac-ion</td><td>relàc-iōn</td><td>n. (Spanish) a relation or account</td></tr>
-<tr><td>irrelevance</td><td>irrele̊vånce</td><td>ir-relev-ance</td><td>ir-rele̊v-ånce</td><td>n. the lack of a relation of something to the matter at hand</td></tr>
-<tr><td>irrelevant</td><td>irrele̊vånt</td><td>ir-relev-ant</td><td>ir-rele̊v-ånt</td><td>a. not connected with or relevant to something</td></tr>
-<tr><td>irrelevantly</td><td>irrele̊våntlẏ</td><td>ir-relev-ant-ly</td><td>ir-rele̊v-ånt-lẏ</td><td>adv. in an irrelevant manner</td></tr>
-<tr><td>irrelevancy</td><td>irrele̊våncẏ</td><td>ir-relev-anc-y</td><td>ir-rele̊v-ånc-ẏ</td><td>n. the lack of a relation of something to the matter at hand</td></tr>
+<tr><td>reishi</td><td>rèishi</td><td>reishi</td><td>rèishi</td><td>n. a type of mushroom used in traditional Asian medicine</td></tr>
+<tr><td>relacion</td><td>rėlàcio̊n</td><td>relac-ion</td><td>rėlàc-io̊n</td><td>n. (Spanish) a relation or account</td></tr>
+<tr><td>irrelevance</td><td>irrelėvånce</td><td>ir-relev-ance</td><td>ir-relėv-ånce</td><td>n. the lack of a relation of something to the matter at hand</td></tr>
+<tr><td>irrelevant</td><td>irrelėvånt</td><td>ir-relev-ant</td><td>ir-relėv-ånt</td><td>a. not connected with or relevant to something</td></tr>
+<tr><td>irrelevantly</td><td>irrelėvåntlẏ</td><td>ir-relev-ant-ly</td><td>ir-relėv-ånt-lẏ</td><td>adv. in an irrelevant manner</td></tr>
+<tr><td>irrelevancy</td><td>irrelėvåncẏ</td><td>ir-relev-anc-y</td><td>ir-relėv-ånc-ẏ</td><td>n. the lack of a relation of something to the matter at hand</td></tr>
 <tr><td>relic</td><td>relic</td><td>relic</td><td>relic</td><td>n. an antiquity that has survived from the distant past</td></tr>
-<tr><td>derelict</td><td>dère̊lict</td><td>de-relict</td><td>dè-re̊lict</td><td>n. a person without a home or job<br>a. failing in what duty requires</td></tr>
-<tr><td>dereliction</td><td>dère̊lictio̊n</td><td>de-relict-ion</td><td>dè-re̊lict-io̊n</td><td>n. willful negligence</td></tr>
+<tr><td>derelict</td><td>derėlict</td><td>de-relict</td><td>de-rėlict</td><td>n. a person without a home or job<br>a. failing in what duty requires</td></tr>
+<tr><td>dereliction</td><td>derėlictio̊n</td><td>de-relict-ion</td><td>de-rėlict-io̊n</td><td>n. willful negligence</td></tr>
 <tr><td>relievo</td><td>rėliēvō</td><td>relievo</td><td>rėliēvō</td><td>n. sculpture in which forms stand out</td></tr>
 <tr><td>irreligion</td><td>irrėligio̊n</td><td>ir-relig-ion</td><td>ir-rėlig-io̊n</td><td>n. the quality of not being devout</td></tr>
 <tr><td>relish</td><td>relish</td><td>relish</td><td>relish</td><td>n. the taste experience when a savoury condiment is taken into the mouth<br>v. enjoy with pleasure</td></tr>
@@ -738,24 +738,24 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>renminbi</td><td>renminbĩ</td><td>renminbi</td><td>renminbĩ</td><td>n. the basic unit of money in China</td></tr>
 <tr><td>renal</td><td>rēnål</td><td>ren-al</td><td>rēn-ål</td><td>a. of or relating to the kidneys</td></tr>
 <tr><td>adrenal</td><td>ådrēnål</td><td>ad-renal</td><td>åd-rēnål</td><td>a. of or pertaining to the adrenal glands or their secretions<br>a. near the kidneys</td></tr>
-<tr><td>adrenaline</td><td>ådrenåli̊ne</td><td>ad-renal-ine</td><td>åd-renål-i̊ne</td><td>n. a hormone produced by the body in times of stress or excitement</td></tr>
+<tr><td>adrenaline</td><td>ådrenåline</td><td>ad-renal-ine</td><td>åd-renål-ine</td><td>n. a hormone produced by the body in times of stress or excitement</td></tr>
 <tr><td>rend</td><td>rend</td><td>rend</td><td>rend</td><td>v. tear or be torn violently</td></tr>
 <tr><td>render</td><td>rende̊r</td><td>rend-er</td><td>rend-e̊r</td><td>vt. to provide or give something; to cause to be or become<br>vt. to translate or perform</td></tr>
 <tr><td>rending</td><td>rending</td><td>rend-ing</td><td>rend-ing</td><td>v. tear or pull apart violently<br>a. extremely distressing or harsh-sounding</td></tr>
 <tr><td>rendering</td><td>rende̊ring</td><td>rend-er-ing</td><td>rend-e̊r-ing</td><td>n. a performance or interpretation<br>n. a translation into another language</td></tr>
 <tr><td>rendition</td><td>renditio̊n</td><td>rend-it-ion</td><td>rend-it-io̊n</td><td>n. a performance or interpretation of a piece of music or drama</td></tr>
 <tr><td>surrender</td><td>sůrrende̊r</td><td>sur-rend-er</td><td>sůr-rend-e̊r</td><td>v. to cease resistance and submit to authority<br>v. to give up or hand over something</td></tr>
-<tr><td>surrendered</td><td>surrende̊r𝕖d</td><td>sur-rend-er-ed</td><td>sur-rend-e̊r-𝕖d</td><td>v. give up to the power or possession of another</td></tr>
+<tr><td>surrendered</td><td>sůrrende̊r𝕖d</td><td>sur-rend-er-ed</td><td>sůr-rend-e̊r-𝕖d</td><td>v. give up to the power or possession of another</td></tr>
 <tr><td>surrendering</td><td>sůrrende̊ring</td><td>sur-rend-er-ing</td><td>sůr-rend-e̊r-ing</td><td></td></tr>
 <tr><td>surrenders</td><td>surrende̊rṡ</td><td>sur-rend-er-s</td><td>sur-rend-e̊r-ṡ</td><td></td></tr>
-<tr><td>rendezvous</td><td>rendė𝕫voūs</td><td>rendezv-ous</td><td>rendė𝕫v-oūs</td><td>n. a meeting planned at a certain time and place<br>v. meet at a rendezvous</td></tr>
+<tr><td>rendezvous</td><td>rendė𝕫voū𝕤</td><td>rendezv-ous</td><td>rendė𝕫v-oū𝕤</td><td>n. a meeting planned at a certain time and place<br>v. meet at a rendezvous</td></tr>
 <tr><td>rennin</td><td>rennin</td><td>rennin</td><td>rennin</td><td>n. an enzyme that curdles milk</td></tr>
-<tr><td>rennet</td><td>renne̊t</td><td>rennet</td><td>renne̊t</td><td>n. a substance that curdles milk in making cheese and junket</td></tr>
+<tr><td>rennet</td><td>rennėt</td><td>rennet</td><td>rennėt</td><td>n. a substance that curdles milk in making cheese and junket</td></tr>
 <tr><td>rent</td><td>rent</td><td>rent</td><td>rent</td><td>n. a payment made for the use of property<br>v. to pay for the use of something</td></tr>
-<tr><td>rentier</td><td>rentièr</td><td>rentier</td><td>rentièr</td><td>n. someone whose income is from property rents or bond interest and other investments</td></tr>
+<tr><td>rentier</td><td>rentie̊r</td><td>rentier</td><td>rentie̊r</td><td>n. someone whose income is from property rents or bond interest and other investments</td></tr>
 <tr><td>rentable</td><td>rentåble</td><td>rent-able</td><td>rent-åble</td><td>a. capable of being rented</td></tr>
 <tr><td>rental</td><td>rentål</td><td>rent-al</td><td>rent-ål</td><td>n. the action of renting something<br>a. available to rent or lease</td></tr>
-<tr><td>rented</td><td>rent𝕖d</td><td>rent-ed</td><td>rent-𝕖d</td><td>a. occupied or used in return for payment</td></tr>
+<tr><td>rented</td><td>rentėd</td><td>rent-ed</td><td>rent-ėd</td><td>a. occupied or used in return for payment</td></tr>
 <tr><td>renter</td><td>rente̊r</td><td>rent-er</td><td>rent-e̊r</td><td>n. someone who rents property</td></tr>
 <tr><td>renting</td><td>renting</td><td>rent-ing</td><td>rent-ing</td><td></td></tr>
 <tr><td>rents</td><td>rents</td><td>rent-s</td><td>rent-s</td><td></td></tr>
@@ -772,10 +772,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>disrepute</td><td>disrėpūte</td><td>dis-repute</td><td>dis-rėpūte</td><td>n. the state of being held in low esteem</td></tr>
 <tr><td>res</td><td></td><td>res</td><td></td><td>n. (Latin) a thing, object, matter, or affair</td></tr>
 <tr><td>reservior</td><td>reṡe̊rvio̊r</td><td></td><td></td><td></td></tr>
-<tr><td>resin</td><td>reṡi̊n</td><td>resin</td><td>reṡi̊n</td><td>n. a solid or semisolid substance obtained from certain plants or by chemical processes</td></tr>
+<tr><td>resin</td><td>reṡin</td><td>resin</td><td>reṡin</td><td>n. a solid or semisolid substance obtained from certain plants or by chemical processes</td></tr>
 <tr><td>resinous</td><td>reṡino̊us</td><td>resin-ous</td><td>reṡin-o̊us</td><td>a. having the characteristics of pitch or tar</td></tr>
 <tr><td>rest</td><td>rest</td><td>rest</td><td>rest</td><td>n. a period of inactivity or relaxation<br>v. to cease work or movement in order to relax</td></tr>
-<tr><td>rested</td><td>rest𝕖d</td><td>rest-ed</td><td>rest-𝕖d</td><td>a. not tired; refreshed as by sleeping or relaxing</td></tr>
+<tr><td>rested</td><td>restėd</td><td>rest-ed</td><td>rest-ėd</td><td>a. not tired; refreshed as by sleeping or relaxing</td></tr>
 <tr><td>restful</td><td>restfůl</td><td>rest-ful</td><td>rest-fůl</td><td>a. affording physical or mental rest</td></tr>
 <tr><td>resting</td><td>resting</td><td>rest-ing</td><td>rest-ing</td><td>a. in a state of rest</td></tr>
 <tr><td>restive</td><td>restive</td><td>rest-ive</td><td>rest-ive</td><td>a. impatient especially under restriction or delay</td></tr>
@@ -783,32 +783,32 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>restroom</td><td>restroom</td><td>rest-room</td><td>rest-room</td><td>n. a toilet available to the public</td></tr>
 <tr><td>rests</td><td>rests</td><td>rest-s</td><td>rest-s</td><td></td></tr>
 <tr><td>restaurant</td><td>reståurånt</td><td>rest-aur-ant</td><td>rest-åur-ånt</td><td>n. a building where people go to eat</td></tr>
-<tr><td>restlessly</td><td>restle̊sslẏ</td><td>rest-less-ly</td><td>rest-le̊ss-lẏ</td><td>adv. in a restless manner</td></tr>
+<tr><td>restlessly</td><td>restlėsslẏ</td><td>rest-less-ly</td><td>rest-lėss-lẏ</td><td>adv. in a restless manner</td></tr>
 <tr><td>restiveness</td><td>restiv𝕖nėss</td><td>rest-ive-ness</td><td>rest-iv𝕖-nėss</td><td>n the anxious feeling you have when you have the jitters<br>n characterized by nervousness and quickness to take fright</td></tr>
-<tr><td>restlessness</td><td>restle̊ssne̊ss</td><td>rest-less-ness</td><td>rest-le̊ss-ne̊ss</td><td>n. the quality of being ceaselessly moving or active<br>n. a lack of patience; irritation with anything that causes delay<br>n. inability to rest or relax or be still</td></tr>
+<tr><td>restlessness</td><td>restlėssnėss</td><td>rest-less-ness</td><td>rest-lėss-nėss</td><td>n. the quality of being ceaselessly moving or active<br>n. a lack of patience; irritation with anything that causes delay<br>n. inability to rest or relax or be still</td></tr>
 <tr><td>restrooms</td><td>restroomṡ</td><td>rest-room-s</td><td>rest-room-ṡ</td><td></td></tr>
 <tr><td>restaurateur</td><td>reståuråte̊ur</td><td>rest-aur-at-eur</td><td>rest-åur-åt-e̊ur</td><td>n. the proprietor of a restaurant</td></tr>
 <tr><td>restaurants</td><td>reståurånts</td><td>rest-aur-ant-s</td><td>rest-åur-ånt-s</td><td></td></tr>
 <tr><td>armrest</td><td>àrmrest</td><td>arm-rest</td><td>àrm-rest</td><td>n. a support for the arm</td></tr>
 <tr><td>arrest</td><td>årrest</td><td>ar-rest</td><td>år-rest</td><td>v. seize someone by legal authority<br>n. the act of arresting someone</td></tr>
-<tr><td>arrested</td><td>årrest𝕖d</td><td>ar-rest-ed</td><td>år-rest-𝕖d</td><td>v. take into custody<br>v. cause to stop</td></tr>
+<tr><td>arrested</td><td>årrestėd</td><td>ar-rest-ed</td><td>år-rest-ėd</td><td>v. take into custody<br>v. cause to stop</td></tr>
 <tr><td>arrestee</td><td>årrestēe</td><td>ar-rest-ee</td><td>år-rest-ēe</td><td>n. a person who has been arrested</td></tr>
 <tr><td>arresting</td><td>årresting</td><td>ar-rest-ing</td><td>år-rest-ing</td><td>a. commanding attention; striking</td></tr>
 <tr><td>arrests</td><td>årrests</td><td>ar-rest-s</td><td>år-rest-s</td><td></td></tr>
 <tr><td>arrestingly</td><td>årrestinglẏ</td><td>ar-rest-ing-ly</td><td>år-rest-ing-lẏ</td><td>adv. in a striking or eye-catching manner</td></tr>
 <tr><td>unrest</td><td>ûnrest</td><td>un-rest</td><td>ûn-rest</td><td>n. a state of dissatisfaction, disturbance, and agitation</td></tr>
-<tr><td>resveratrol</td><td>resve̊råtrol</td><td>resv-er-atrol</td><td>resv-e̊r-åtrol</td><td>n. a compound found in grapes and red wine with antioxidant properties</td></tr>
+<tr><td>resveratrol</td><td>reṡveråtrol</td><td>resv-er-atrol</td><td>reṡv-er-åtrol</td><td>n. a compound found in grapes and red wine with antioxidant properties</td></tr>
 <tr><td>ret</td><td>ret</td><td>ret</td><td>ret</td><td>v. place flax, hemp, or jute in liquid to loosen the fibers from the woody tissue</td></tr>
 <tr><td>reticle</td><td>reticle</td><td>ret-ic-le</td><td>ret-ic-le</td><td>n. a network of fine lines in the focal plane of the eyepiece of an optical instrument</td></tr>
 <tr><td>reticule</td><td>reticūle</td><td>ret-ic-ule</td><td>ret-ic-ūle</td><td>n. a woman&#x27;s drawstring handbag, used in the 18th and 19th centuries</td></tr>
-<tr><td>reticular</td><td>rėticūlår</td><td>ret-ic-ul-ar</td><td>rėt-ic-ūl-år</td><td>a. resembling or forming a network</td></tr>
-<tr><td>reticulum</td><td>rėticùlům</td><td>ret-ic-ul-um</td><td>rėt-ic-ùl-ům</td><td>n. any fine network in the body<br>n. the second compartment of a ruminant&#x27;s stomach</td></tr>
-<tr><td>reticulated</td><td>rėticūlȧt𝕖d</td><td>ret-ic-ul-at-ed</td><td>rėt-ic-ūl-ȧt-𝕖d</td><td>a. resembling a network</td></tr>
+<tr><td>reticular</td><td>reticūlår</td><td>ret-ic-ul-ar</td><td>ret-ic-ūl-år</td><td>a. resembling or forming a network</td></tr>
+<tr><td>reticulum</td><td>reticūlům</td><td>ret-ic-ul-um</td><td>ret-ic-ūl-ům</td><td>n. any fine network in the body<br>n. the second compartment of a ruminant&#x27;s stomach</td></tr>
+<tr><td>reticulated</td><td>reticūlātėd</td><td>ret-ic-ul-at-ed</td><td>ret-ic-ūl-āt-ėd</td><td>a. resembling a network</td></tr>
 <tr><td>retch</td><td>retch</td><td>retch</td><td>retch</td><td>v. to make an unsuccessful effort to vomit<br>n. an involuntary spasm of ineffectual vomiting</td></tr>
 <tr><td>retching</td><td>retching</td><td>retch-ing</td><td>retch-ing</td><td>v. make an unsuccessful effort to vomit</td></tr>
 <tr><td>retinitis</td><td>retinītis</td><td>retin-itis</td><td>retin-ītis</td><td>n. inflammation of the retina</td></tr>
-<tr><td>subretinal</td><td>sûbreti̊nål</td><td>sub-retin-al</td><td>sûb-reti̊n-ål</td><td>a. situated beneath the retina of the eye</td></tr>
-<tr><td>retina</td><td>reti̊nå</td><td>retina</td><td>reti̊nå</td><td>n. the light-sensitive layer at the back of the eye</td></tr>
+<tr><td>subretinal</td><td>sûbretinål</td><td>sub-retin-al</td><td>sûb-retin-ål</td><td>a. situated beneath the retina of the eye</td></tr>
+<tr><td>retina</td><td>retinå</td><td>retina</td><td>retinå</td><td>n. the light-sensitive layer at the back of the eye</td></tr>
 <tr><td>retro</td><td>retrō</td><td>retro</td><td>retrō</td><td>a. imitative of a style from the recent past<br>n. a style reminiscent of the past</td></tr>
 <tr><td>rev</td><td>rev</td><td>rev</td><td>rev</td><td>n. rate of revolution of a motor<br>v. increase the number of rotations per minute</td></tr>
 <tr><td>irreverence</td><td>irreve̊re̊nce</td><td>ir-rever-ence</td><td>ir-reve̊r-e̊nce</td><td>n. an irreverent mental attitude<br>n. a disrespectful act</td></tr>
@@ -823,31 +823,31 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rhenish</td><td>r𝕙ēnish</td><td>rhen-ish</td><td>r𝕙ēn-ish</td><td>a. of or relating to the Rhine River or the region around it</td></tr>
 <tr><td>rhesus</td><td>r𝕙ēsůs</td><td>rhesus</td><td>r𝕙ēsůs</td><td>n. a small brown monkey of southern Asia used in medical research</td></tr>
 <tr><td>rhetoric</td><td>r𝕙eto̊ric</td><td>rhetor-ic</td><td>r𝕙eto̊r-ic</td><td>n. the art of effective or persuasive speaking or writing<br>n. language designed to persuade or impress</td></tr>
-<tr><td>rhetorical</td><td>r𝕙ėtoricål</td><td>rhetor-ic-al</td><td>r𝕙ėtor-ic-ål</td><td>a. of or relating to rhetoric</td></tr>
+<tr><td>rhetorical</td><td>r𝕙etoricål</td><td>rhetor-ic-al</td><td>r𝕙etor-ic-ål</td><td>a. of or relating to rhetoric</td></tr>
 <tr><td>rhetorician</td><td>r𝕙etoriciån</td><td>rhetor-ic-ian</td><td>r𝕙etor-ic-iån</td><td>n. a person who delivers a speech or oration</td></tr>
-<tr><td>rhetorically</td><td>r𝕙e̊toricållẏ</td><td>rhetor-ic-al-ly</td><td>r𝕙e̊tor-ic-ål-lẏ</td><td>adv. in a rhetorical manner</td></tr>
+<tr><td>rhetorically</td><td>r𝕙etoricållẏ</td><td>rhetor-ic-al-ly</td><td>r𝕙etor-ic-ål-lẏ</td><td>adv. in a rhetorical manner</td></tr>
 <tr><td>rheumy</td><td>r𝕙eūmẏ</td><td>rheum-y</td><td>r𝕙eūm-ẏ</td><td>a. moist, damp, wet</td></tr>
 <tr><td>rheumatic</td><td>r𝕙eūmatic</td><td>rheumat-ic</td><td>r𝕙eūmat-ic</td><td>a. of or relating to rheumatism<br>n. a person suffering from rheumatism</td></tr>
 <tr><td>rheumatism</td><td>r𝕙eūmåtiṡm</td><td>rheumat-ism</td><td>r𝕙eūmåt-iṡm</td><td>n. any painful disorder of the joints or muscles or connective tissues</td></tr>
 <tr><td>rheumatoid</td><td>r𝕙eūmåtoid</td><td>rheumat-oid</td><td>r𝕙eūmåt-oid</td><td>a. relating to rheumatoid disease</td></tr>
-<tr><td>rheumatologist</td><td>r𝕙eūmåtolo̊gi̊st</td><td>rheumat-o-log-ist</td><td>r𝕙eūmåt-o-lo̊g-i̊st</td><td>n. a physician specializing in rheumatic diseases</td></tr>
+<tr><td>rheumatologist</td><td>r𝕙eūmåtolo̊gist</td><td>rheumat-o-log-ist</td><td>r𝕙eūmåt-o-lo̊g-ist</td><td>n. a physician specializing in rheumatic diseases</td></tr>
 <tr><td>rheumatology</td><td>r𝕙eūmåtolo̊gẏ</td><td>rheumat-o-log-y</td><td>r𝕙eūmåt-o-lo̊g-ẏ</td><td>n. the branch of medicine dealing with pathologies of muscles, tendons and joints</td></tr>
 <tr><td>rhinitis</td><td>r𝕙īnītis</td><td>rhin-itis</td><td>r𝕙īn-ītis</td><td>n. an inflammation of the mucous membrane lining the nose</td></tr>
 <tr><td>rhinoceros</td><td>r𝕙īnoce̊ro̊s</td><td>rhin-o-ceros</td><td>r𝕙īn-o-ce̊ro̊s</td><td>n. a large herbivorous mammal of Africa and Asia with thick skin and horns</td></tr>
-<tr><td>rhinovirus</td><td>r𝕙īnōvīrůs</td><td>rhin-o-virus</td><td>r𝕙īn-ō-vīrůs</td><td>n. any of a group of picornaviruses responsible for many upper respiratory infections</td></tr>
-<tr><td>entorhinal</td><td>ento̊r𝕙īnål</td><td>ento-rhin-al</td><td>ento̊-r𝕙īn-ål</td><td>a. of or relating to the entorhinal cortex (an area of the brain)</td></tr>
+<tr><td>rhinovirus</td><td>r𝕙īno̊vīrůs</td><td>rhin-o-virus</td><td>r𝕙īn-o̊-vīrůs</td><td>n. any of a group of picornaviruses responsible for many upper respiratory infections</td></tr>
+<tr><td>entorhinal</td><td>entōr𝕙īnål</td><td>ento-rhin-al</td><td>entō-r𝕙īn-ål</td><td>a. of or relating to the entorhinal cortex (an area of the brain)</td></tr>
 <tr><td>rhino</td><td>r𝕙īnō</td><td>rhino</td><td>r𝕙īnō</td><td>n. massive herbivorous ungulate with thick skin and one or two horns</td></tr>
 <tr><td>rhizome</td><td>r𝕙īzōme</td><td>rhiz-ome</td><td>r𝕙īz-ōme</td><td>n. a horizontal stem with shoots above and roots below for reproduction</td></tr>
-<tr><td>rhizomatous</td><td>r𝕙īzomåto̊us</td><td>rhizom-at-ous</td><td>r𝕙īzom-åt-o̊us</td><td>a. producing or possessing or resembling rhizomes</td></tr>
+<tr><td>rhizomatous</td><td>r𝕙īzo̊mato̊us</td><td>rhizom-at-ous</td><td>r𝕙īzo̊m-at-o̊us</td><td>a. producing or possessing or resembling rhizomes</td></tr>
 <tr><td>rho</td><td>r𝕙ō</td><td>rho</td><td>r𝕙ō</td><td>n. the 17th letter of the Greek alphabet</td></tr>
-<tr><td>rhodesian</td><td>r𝕙ōdēs̃i̊ån</td><td>rhodes-ian</td><td>r𝕙ōdēs̃-i̊ån</td><td>a. of or relating to the former country of Rhodesia (now Zimbabwe)</td></tr>
+<tr><td>rhodesian</td><td>r𝕙ōdēṡiån</td><td>rhodes-ian</td><td>r𝕙ōdēṡ-iån</td><td>a. of or relating to the former country of Rhodesia (now Zimbabwe)</td></tr>
 <tr><td>rhodium</td><td>r𝕙ōdiům</td><td>rhod-ium</td><td>r𝕙ōd-iům</td><td>n. a white hard metallic element of the platinum group</td></tr>
 <tr><td>rhododendron</td><td>r𝕙ōdo̊dendro̊n</td><td>rhod-o-dendron</td><td>r𝕙ōd-o̊-dendro̊n</td><td>n. a shrub with large clusters of bell-shaped flowers</td></tr>
-<tr><td>rhodopsin</td><td>r𝕙ōdopsi̊n</td><td>rhod-ops-in</td><td>r𝕙ōd-ops-i̊n</td><td>n. a red photopigment in retinal rods; dissociates into retinene when exposed to light</td></tr>
+<tr><td>rhodopsin</td><td>r𝕙ōdopsin</td><td>rhod-ops-in</td><td>r𝕙ōd-ops-in</td><td>n. a red photopigment in retinal rods; dissociates into retinene when exposed to light</td></tr>
 <tr><td>rhomboid</td><td>r𝕙omboid</td><td>rhomb-oid</td><td>r𝕙omb-oid</td><td>n. a parallelogram with adjacent sides of unequal lengths<br>a. shaped like a rhombus or rhomboid</td></tr>
 <tr><td>rhombus</td><td>r𝕙ombůs</td><td>rhomb-us</td><td>r𝕙omb-ůs</td><td>n. a shape with four equal sides</td></tr>
 <tr><td>rhubarb</td><td>r𝕙ūbàrb</td><td>rhubarb</td><td>r𝕙ūbàrb</td><td>n. a plant with long acidic leafstalks; stems edible when cooked; leaves poisonous</td></tr>
-<tr><td>rhumba</td><td>r𝕙ůmbå</td><td>rhumba</td><td>r𝕙ůmbå</td><td>n. a ballroom dance of Cuban origin<br>v. dance the rhumba</td></tr>
+<tr><td>rhumba</td><td>r𝕙ūmbå</td><td>rhumba</td><td>r𝕙ūmbå</td><td>n. a ballroom dance of Cuban origin<br>v. dance the rhumba</td></tr>
 <tr><td>rhymed</td><td>r𝕙ȳm𝕖d</td><td>rhym-ed</td><td>r𝕙ȳm-𝕖d</td><td>a. having corresponding sounds especially terminal sounds</td></tr>
 <tr><td>rhyming</td><td>r𝕙ȳming</td><td>rhym-ing</td><td>r𝕙ȳm-ing</td><td>n. the use of words that sound alike<br>a. having corresponding terminal sounds</td></tr>
 <tr><td>rhyme</td><td>r𝕙ȳme</td><td>rhy-me</td><td>r𝕙ȳ-me</td><td>n. correspondence in the sounds of two or more lines<br>v. compose rhymes</td></tr>
@@ -858,8 +858,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rhythms</td><td>r𝕙ẏṫhmṡ</td><td>rhy-thm-s</td><td>r𝕙ẏ-ṫhm-ṡ</td><td></td></tr>
 <tr><td>rhythmical</td><td>r𝕙ẏṫhmicål</td><td>rhy-thm-ic-al</td><td>r𝕙ẏ-ṫhm-ic-ål</td><td>a. recurring with measured regularity</td></tr>
 <tr><td>rhythmically</td><td>r𝕙ẏṫhmicållẏ</td><td>rhy-thm-ic-al-ly</td><td>r𝕙ẏ-ṫhm-ic-ål-lẏ</td><td>adv. in a rhythmic manner</td></tr>
-<tr><td>arrhythmia</td><td>årr𝕙ẏṫhmiå</td><td>ar-rhythm-ia</td><td>år-r𝕙ẏṫhm-iå</td><td>n. an abnormal rate of muscle contractions in the heart</td></tr>
-<tr><td>arrhythmic</td><td>årr𝕙ẏṫhmic</td><td>ar-rhythm-ic</td><td>år-r𝕙ẏṫhm-ic</td><td>a. lacking a steady rhythm<br>a. without regard for rhythm</td></tr>
+<tr><td>arrhythmia</td><td>årr𝕙ẏthmiå</td><td>ar-rhythm-ia</td><td>år-r𝕙ẏthm-iå</td><td>n. an abnormal rate of muscle contractions in the heart</td></tr>
+<tr><td>arrhythmic</td><td>årr𝕙ẏthmic</td><td>ar-rhythm-ic</td><td>år-r𝕙ẏthm-ic</td><td>a. lacking a steady rhythm<br>a. without regard for rhythm</td></tr>
 <tr><td>biorhythm</td><td>bīōr𝕙ẏṫhm</td><td>bio-rhythm</td><td>bīō-r𝕙ẏṫhm</td><td>n. an innate periodic biological rhythm that affects behavior or activity</td></tr>
 <tr><td>eurhythmic</td><td>eūr𝕙ẏṫhmic</td><td>eu-rhythm-ic</td><td>eū-r𝕙ẏṫhm-ic</td><td>a. relating to rhythmic movement and dance</td></tr>
 <tr><td>eurhythmics</td><td>eūr𝕙ẏṫhmics</td><td>eu-rhythm-ic-s</td><td>eū-r𝕙ẏṫhm-ic-s</td><td>n. the interpretation in harmonious bodily movements of the rhythm of musical compositions</td></tr>
@@ -868,23 +868,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ribbing</td><td>ribbing</td><td>ribb-ing</td><td>ribb-ing</td><td>n. a framework of ribs</td></tr>
 <tr><td>ribs</td><td>ribṡ</td><td>rib-s</td><td>rib-ṡ</td><td></td></tr>
 <tr><td>ribosome</td><td>rībo̊sōme</td><td>rib-o-some</td><td>rīb-o̊-sōme</td><td>n. an organelle in the cytoplasm that synthesizes proteins</td></tr>
-<tr><td>ribald</td><td>rībàld</td><td>ribald</td><td>rībàld</td><td>n. a ribald person; someone who uses vulgar and offensive language</td></tr>
-<tr><td>ribaldry</td><td>rībàldrẏ</td><td>ribald-ry</td><td>rībàld-rẏ</td><td>n. coarse and indecent language</td></tr>
-<tr><td>ribavirin</td><td>ribavirin</td><td>ribav-ir-in</td><td>ribav-ir-in</td><td>n. an antiviral drug used to treat viral infections</td></tr>
+<tr><td>ribald</td><td>ribãld</td><td>ribald</td><td>ribãld</td><td>n. a ribald person; someone who uses vulgar and offensive language</td></tr>
+<tr><td>ribaldry</td><td>ribåldrẏ</td><td>ribald-ry</td><td>ribåld-rẏ</td><td>n. coarse and indecent language</td></tr>
+<tr><td>ribavirin</td><td>rībåvīrin</td><td>ribav-ir-in</td><td>rībåv-īr-in</td><td>n. an antiviral drug used to treat viral infections</td></tr>
 <tr><td>ribbon</td><td>ribbo̊n</td><td>ribb-on</td><td>ribb-o̊n</td><td>n. a long, narrow strip of fabric used for tying things or for decoration<br>n. something resembling a ribbon in form</td></tr>
 <tr><td>ribboned</td><td>ribbo̊n𝕖d</td><td>ribb-on-ed</td><td>ribb-o̊n-𝕖d</td><td>a. decorated or tied with ribbons</td></tr>
 <tr><td>ribbons</td><td>ribbo̊nṡ</td><td>ribb-on-s</td><td>ribb-o̊n-ṡ</td><td></td></tr>
-<tr><td>beribboned</td><td>bēribbo̊n𝕖d</td><td>be-ribb-on-ed</td><td>bē-ribb-o̊n-𝕖d</td><td>a. decorated with ribbons</td></tr>
+<tr><td>beribboned</td><td>bėribbo̊n𝕖d</td><td>be-ribb-on-ed</td><td>bė-ribb-o̊n-𝕖d</td><td>a. decorated with ribbons</td></tr>
 <tr><td>ribose</td><td>rībōse</td><td>ribose</td><td>rībōse</td><td>n. a pentose sugar important as a component of ribonucleic acid</td></tr>
 <tr><td>rice</td><td>rīce</td><td>rice</td><td>rīce</td><td>n. grains used as food either unpolished or more often polished<br>n. annual or perennial rhizomatous marsh grasses; seed used for food</td></tr>
 <tr><td>ricer</td><td>rīce̊r</td><td>ric-er</td><td>rīc-e̊r</td><td>n. a kitchen utensil used for ricing soft foods by extruding them through small holes</td></tr>
 <tr><td>rices</td><td>rīcėṡ</td><td>rice-s</td><td>rīcė-ṡ</td><td></td></tr>
 <tr><td>rich</td><td>rich</td><td>rich</td><td>rich</td><td>a. having a lot of money or property<br>a. containing a large amount of a desirable substance<br>a. full and pleasing in quality</td></tr>
 <tr><td>richer</td><td>riche̊r</td><td>rich-er</td><td>rich-e̊r</td><td></td></tr>
-<tr><td>riches</td><td>rich𝕖ṡ</td><td>rich-es</td><td>rich-𝕖ṡ</td><td>n. wealth and possessions</td></tr>
+<tr><td>riches</td><td>richėṡ</td><td>rich-es</td><td>rich-ėṡ</td><td>n. wealth and possessions</td></tr>
 <tr><td>richest</td><td>richėst</td><td>rich-est</td><td>rich-ėst</td><td></td></tr>
 <tr><td>richly</td><td>richlẏ</td><td>rich-ly</td><td>rich-lẏ</td><td>adv. in a rich manner</td></tr>
-<tr><td>richness</td><td>richne̊ss</td><td>rich-ness</td><td>rich-ne̊ss</td><td>n. the quality of being rich; abundance</td></tr>
+<tr><td>richness</td><td>richnėss</td><td>rich-ness</td><td>rich-nėss</td><td>n. the quality of being rich; abundance</td></tr>
 <tr><td>enrich</td><td>ėnrich</td><td>en-rich</td><td>ėn-rich</td><td>v. to improve the quality of something<br>v. to make someone wealthier</td></tr>
 <tr><td>enriched</td><td>enrich𝕖ḋ</td><td>en-rich-ed</td><td>en-rich-𝕖ḋ</td><td>a. improved in quality or value</td></tr>
 <tr><td>enriching</td><td>enriching</td><td>en-rich-ing</td><td>en-rich-ing</td><td>v. to make better or improve in quality; to make wealthier</td></tr>
@@ -893,7 +893,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ricin</td><td>rīcin</td><td>ricin</td><td>rīcin</td><td>n. a toxic protein extracted from castor beans</td></tr>
 <tr><td>rickshaw</td><td>rickshãw</td><td>rick-shaw</td><td>rick-shãw</td><td>n. a small two-wheeled cart pulled by one person</td></tr>
 <tr><td>rickets</td><td>rickėts</td><td>rick-et-s</td><td>rick-ėt-s</td><td>n. a childhood disease caused by vitamin D deficiency, leading to soft and deformed bones</td></tr>
-<tr><td>rickety</td><td>ricke̊tẏ</td><td>ricket-y</td><td>ricke̊t-ẏ</td><td>a. likely to collapse or shake<br>a. suffering from rickets</td></tr>
+<tr><td>rickety</td><td>rickėtẏ</td><td>ricket-y</td><td>rickėt-ẏ</td><td>a. likely to collapse or shake<br>a. suffering from rickets</td></tr>
 <tr><td>ricochet</td><td>rico̊ċhè𝕥</td><td>rico-chet</td><td>rico̊-ċhè𝕥</td><td>n. a glancing rebound</td></tr>
 <tr><td>ricocheting</td><td>rico̊ċhè𝕥ing</td><td>rico-chet-ing</td><td>rico̊-ċhè𝕥-ing</td><td>v. spring back; spring away from an impact</td></tr>
 <tr><td>ricotta</td><td>ricottå</td><td>ricotta</td><td>ricottå</td><td>n. soft Italian cheese like cottage cheese</td></tr>
@@ -905,23 +905,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ridded</td><td>riddėd</td><td>ridd-ed</td><td>ridd-ėd</td><td></td></tr>
 <tr><td>rider</td><td>rīde̊r</td><td>rid-er</td><td>rīd-e̊r</td><td>n. a person who rides a horse, bicycle, or motorcycle<br>n. an additional clause added to a legal document</td></tr>
 <tr><td>riding</td><td>rīding</td><td>rid-ing</td><td>rīd-ing</td><td>n. the sport or activity of riding horses</td></tr>
-<tr><td>ridley</td><td>ridlēy</td><td>rid-ley</td><td>rid-lēy</td><td>n. a small marine turtle</td></tr>
+<tr><td>ridley</td><td>ridlėy</td><td>rid-ley</td><td>rid-lėy</td><td>n. a small marine turtle</td></tr>
 <tr><td>rides</td><td>rīd𝕖ṡ</td><td>ride-s</td><td>rīd𝕖-ṡ</td><td></td></tr>
 <tr><td>rids</td><td>ridṡ</td><td>rid-s</td><td>rid-ṡ</td><td></td></tr>
 <tr><td>riderless</td><td>rīde̊rlėss</td><td>rid-er-less</td><td>rīd-e̊r-lėss</td><td>a. having no rider</td></tr>
 <tr><td>ridership</td><td>rīde̊rship</td><td>rid-er-ship</td><td>rīd-e̊r-ship</td><td>n. the number of passengers who ride a public transport system</td></tr>
 <tr><td>riddings</td><td>riddingṡ</td><td>ridd-ing-s</td><td>ridd-ing-ṡ</td><td></td></tr>
 <tr><td>ridicule</td><td>ridicūle</td><td>rid-ic-ule</td><td>rid-ic-ūle</td><td>n. language or behavior intended to mock or humiliate<br>v. subject to laughter or ridicule</td></tr>
-<tr><td>ridiculed</td><td>ridi̊cūl𝕖d</td><td>rid-ic-ul-ed</td><td>rid-i̊c-ūl-𝕖d</td><td>v. subject to laughter or ridicule</td></tr>
+<tr><td>ridiculed</td><td>ridicūl𝕖d</td><td>rid-ic-ul-ed</td><td>rid-ic-ūl-𝕖d</td><td>v. subject to laughter or ridicule</td></tr>
 <tr><td>ridiculous</td><td>ridicūlo̊us</td><td>rid-ic-ul-ous</td><td>rid-ic-ūl-o̊us</td><td>a. deserving to be laughed at; absurd</td></tr>
-<tr><td>ridiculously</td><td>ri̊dicūlo̊uslẏ</td><td>rid-ic-ul-ous-ly</td><td>ri̊d-ic-ūl-o̊us-lẏ</td><td>adv. so as to arouse laughter; absurdly</td></tr>
-<tr><td>ridiculousness</td><td>ridicūlo̊usne̊ss</td><td>rid-ic-ul-ous-ness</td><td>rid-ic-ūl-o̊us-ne̊ss</td><td>n. the quality of being absurd or contrary to reason</td></tr>
+<tr><td>ridiculously</td><td>ridicūlo̊uslẏ</td><td>rid-ic-ul-ous-ly</td><td>rid-ic-ūl-o̊us-lẏ</td><td>adv. so as to arouse laughter; absurdly</td></tr>
+<tr><td>ridiculousness</td><td>ridicūlo̊usnėss</td><td>rid-ic-ul-ous-ness</td><td>rid-ic-ūl-o̊us-nėss</td><td>n. the quality of being absurd or contrary to reason</td></tr>
 <tr><td>corridor</td><td>corridor</td><td>cor-rid-or</td><td>cor-rid-or</td><td>n. a long passage in a building from which doors lead into rooms</td></tr>
-<tr><td>deride</td><td>dērīde</td><td>de-ride</td><td>dē-rīde</td><td>vt. to express contempt for; ridicule</td></tr>
-<tr><td>derided</td><td>dērīdėd</td><td>de-rid-ed</td><td>dē-rīd-ėd</td><td>v treat or speak of with contempt</td></tr>
-<tr><td>derision</td><td>de̊risio̊n</td><td>de-ris-ion</td><td>de̊-ris-io̊n</td><td>n. contemptuous laughter</td></tr>
-<tr><td>derisive</td><td>de̊risive</td><td>de-ris-ive</td><td>de̊-ris-ive</td><td>a. abusing vocally; expressing contempt or ridicule</td></tr>
-<tr><td>derisively</td><td>de̊risiv𝕖lẏ</td><td>de-ris-ive-ly</td><td>de̊-ris-iv𝕖-lẏ</td><td>adv. in a disrespectful and mocking manner</td></tr>
+<tr><td>deride</td><td>dėrīde</td><td>de-ride</td><td>dė-rīde</td><td>vt. to express contempt for; ridicule</td></tr>
+<tr><td>derided</td><td>dėrīdėd</td><td>de-rid-ed</td><td>dė-rīd-ėd</td><td>v treat or speak of with contempt</td></tr>
+<tr><td>derision</td><td>dėrisio̊n</td><td>de-ris-ion</td><td>dė-ris-io̊n</td><td>n. contemptuous laughter</td></tr>
+<tr><td>derisive</td><td>dėrīsive</td><td>de-ris-ive</td><td>dė-rīs-ive</td><td>a. abusing vocally; expressing contempt or ridicule</td></tr>
+<tr><td>derisively</td><td>dėrīsiv𝕖lẏ</td><td>de-ris-ive-ly</td><td>dė-rīs-iv𝕖-lẏ</td><td>adv. in a disrespectful and mocking manner</td></tr>
 <tr><td>joyride</td><td>joẏrīde</td><td>joy-ride</td><td>joẏ-rīde</td><td>n. a ride in a car taken solely for pleasure<br>v. ride in a car with no particular goal and just for the pleasure of it</td></tr>
 <tr><td>joyriding</td><td>joẏrīding</td><td>joy-riding</td><td>joẏ-rīding</td><td>v. ride in a car with no particular goal and just for the pleasure of it</td></tr>
 <tr><td>override</td><td>ōve̊rrīde</td><td>over-ride</td><td>ōve̊r-rīde</td><td>vt. to use authority to reject or cancel; to prevail over</td></tr>
@@ -934,7 +934,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ridgeline</td><td>ridg𝕖līne</td><td>ridge-line</td><td>ridg𝕖-līne</td><td>n. a long narrow mountain crest</td></tr>
 <tr><td>ridgepole</td><td>ridg𝕖pōle</td><td>ridge-pole</td><td>ridg𝕖-pōle</td><td>n. a beam laid along the edge where two sloping sides of a roof meet at the top</td></tr>
 <tr><td>ridgetop</td><td>ridg𝕖top</td><td>ridge-top</td><td>ridg𝕖-top</td><td>n. the top or crest of a ridge</td></tr>
-<tr><td>rifampin</td><td>rīfampin</td><td>rifampin</td><td>rīfampin</td><td>n. an antibacterial drug used to treat tuberculosis</td></tr>
+<tr><td>rifampin</td><td>rifampin</td><td>rifampin</td><td>rifampin</td><td>n. an antibacterial drug used to treat tuberculosis</td></tr>
 <tr><td>rife</td><td>rīfe</td><td>rife</td><td>rīfe</td><td>a. widespread or common<br>a. full of something unpleasant</td></tr>
 <tr><td>riff</td><td>riff</td><td>riff</td><td>riff</td><td>n. a short repeated phrase in jazz or rock music</td></tr>
 <tr><td>riffle</td><td>riffle</td><td>riff-le</td><td>riff-le</td><td>n. a shallow part of a stream where water flows swiftly<br>v. shuffle playing cards by riffling</td></tr>
@@ -955,21 +955,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rigor</td><td>rigo̊r</td><td>rig-or</td><td>rig-o̊r</td><td>n. the quality of being strict and severe<br>n. something hard to endure</td></tr>
 <tr><td>rigour</td><td>rigo̊ur</td><td>rig-our</td><td>rig-o̊ur</td><td>n. the quality of being strict</td></tr>
 <tr><td>rigs</td><td>rigṡ</td><td>rig-s</td><td>rig-ṡ</td><td></td></tr>
-<tr><td>rigidity</td><td>rigidi̊tẏ</td><td>rig-id-ity</td><td>rig-id-i̊tẏ</td><td>n. the quality of being stiff and not bending</td></tr>
+<tr><td>rigidity</td><td>rigiditẏ</td><td>rig-id-ity</td><td>rig-id-itẏ</td><td>n. the quality of being stiff and not bending</td></tr>
 <tr><td>rigidly</td><td>rigidlẏ</td><td>rig-id-ly</td><td>rig-id-lẏ</td><td>adv. in a rigid manner</td></tr>
 <tr><td>rigorous</td><td>rigo̊ro̊us</td><td>rig-or-ous</td><td>rig-o̊r-o̊us</td><td>a. strictly applied or enforced; severe<br>a. thorough and careful</td></tr>
 <tr><td>rigorously</td><td>rigo̊ro̊uslẏ</td><td>rig-or-ous-ly</td><td>rig-o̊r-o̊us-lẏ</td><td>adv. in a rigorous manner</td></tr>
 <tr><td>corrigendum</td><td>corrigendům</td><td>cor-rig-end-um</td><td>cor-rig-end-ům</td><td>n. a correction to be made in a printed text</td></tr>
 <tr><td>downrigger</td><td>dòwnrigge̊r</td><td>down-rigg-er</td><td>dòwn-rigg-e̊r</td><td>n. a device used in fishing to lower bait to a specific depth</td></tr>
 <tr><td>dirigible</td><td>dirigi̊ble</td><td>di-rig-ible</td><td>di-rig-i̊ble</td><td>n. a steerable self-propelled aircraft<br>a. capable of being steered or directed</td></tr>
-<tr><td>irrigate</td><td>irri̊gāte</td><td>ir-rig-ate</td><td>ir-ri̊g-āte</td><td>v. supply with a constant flow or sprinkling of some liquid</td></tr>
-<tr><td>irrigated</td><td>irri̊gātėd</td><td>ir-rig-at-ed</td><td>ir-ri̊g-āt-ėd</td><td>v. to supply with water, as with channels or ditches</td></tr>
+<tr><td>irrigate</td><td>irrigāte</td><td>ir-rig-ate</td><td>ir-rig-āte</td><td>v. supply with a constant flow or sprinkling of some liquid</td></tr>
+<tr><td>irrigated</td><td>irrigātėd</td><td>ir-rig-at-ed</td><td>ir-rig-āt-ėd</td><td>v. to supply with water, as with channels or ditches</td></tr>
 <tr><td>irrigation</td><td>irrigātio̊n</td><td>ir-rig-at-ion</td><td>ir-rig-āt-io̊n</td><td>n. supplying dry land with water by means of ditches or pipes</td></tr>
-<tr><td>irrigator</td><td>irri̊gāto̊r</td><td>ir-rig-at-or</td><td>ir-ri̊g-āt-o̊r</td><td>n. a device used for irrigation or washing out a body cavity</td></tr>
+<tr><td>irrigator</td><td>irrigāto̊r</td><td>ir-rig-at-or</td><td>ir-rig-āt-o̊r</td><td>n. a device used for irrigation or washing out a body cavity</td></tr>
 <tr><td>incorrigibility</td><td>incorrigi̊bilitẏ</td><td>in-cor-rig-ib-ility</td><td>in-cor-rig-i̊b-ilitẏ</td><td>n. the state of being beyond correction</td></tr>
 <tr><td>incorrigibly</td><td>incorrigi̊blẏ</td><td>in-cor-rig-ib-ly</td><td>in-cor-rig-i̊b-lẏ</td><td>adv. in an incorrigible manner</td></tr>
 <tr><td>overirrigation</td><td>ōve̊rirrigātio̊n</td><td>over-ir-rig-at-ion</td><td>ōve̊r-ir-rig-āt-io̊n</td><td>n. excessive irrigation of land</td></tr>
-<tr><td>rigatoni</td><td>rigåtōnĩ</td><td>rigatoni</td><td>rigåtōnĩ</td><td>n. a type of pasta in the form of short ribbed tubes</td></tr>
+<tr><td>rigatoni</td><td>rigåtōni</td><td>rigatoni</td><td>rigåtōni</td><td>n. a type of pasta in the form of short ribbed tubes</td></tr>
 <tr><td>right</td><td>rī𝕘𝕙t</td><td>right</td><td>rī𝕘𝕙t</td><td>a. correct; morally good; appropriate; on the right side<br>adv. correctly; completely; toward the right<br>n. a moral or legal entitlement; the right side<br>vt. to correct or restore</td></tr>
 <tr><td>righteous</td><td>rī𝕘𝕙t𝕖o̊us</td><td>right-eous</td><td>rī𝕘𝕙t-𝕖o̊us</td><td>a. morally right or justifiable</td></tr>
 <tr><td>rightfield</td><td>rī𝕘𝕙tfiēld</td><td>right-field</td><td>rī𝕘𝕙t-fiēld</td><td>n. the piece of ground in the outfield on the catcher&#x27;s right</td></tr>
@@ -1005,8 +1005,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rimrock</td><td>rimrock</td><td>rim-rock</td><td>rim-rock</td><td>n. a cliff formed by the outcrop of a hard layer of rock</td></tr>
 <tr><td>rima</td><td>rĩmå</td><td>rima</td><td>rĩmå</td><td>n. a narrow elongated opening or fissure between two symmetrical parts</td></tr>
 <tr><td>rime</td><td>rīme</td><td>rime</td><td>rīme</td><td>n. frost formed on cold surfaces</td></tr>
-<tr><td>acrimonious</td><td>acri̊mōnio̊us</td><td>ac-rimon-ious</td><td>ac-ri̊mōn-io̊us</td><td>a. marked by strong resentment or cynicism</td></tr>
-<tr><td>acrimony</td><td>acrimōnẏ</td><td>ac-rimon-y</td><td>ac-rimōn-ẏ</td><td>n. a rough and bitter manner</td></tr>
+<tr><td>acrimonious</td><td>acrimōnio̊us</td><td>ac-rimon-ious</td><td>ac-rimōn-io̊us</td><td>a. marked by strong resentment or cynicism</td></tr>
+<tr><td>acrimony</td><td>acrimo̊nẏ</td><td>ac-rimon-y</td><td>ac-rimo̊n-ẏ</td><td>n. a rough and bitter manner</td></tr>
 <tr><td>rind</td><td>rīnd</td><td>rind</td><td>rīnd</td><td>n. the natural outer covering of food</td></tr>
 <tr><td>rinderpest</td><td>rinde̊rpest</td><td>rinder-pest</td><td>rinde̊r-pest</td><td>n. an acute infectious viral disease of cattle (usually fatal)</td></tr>
 <tr><td>ring</td><td>ring</td><td>ring</td><td>ring</td><td>n. a small circular band, typically made of metal, worn on the finger<br>n. a circular band or sound<br>v. make a clear resonant or vibrating sound</td></tr>
@@ -1019,7 +1019,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ringside</td><td>ringsīde</td><td>ring-side</td><td>ring-sīde</td><td>n. first row of seating with an unobstructed view</td></tr>
 <tr><td>ringworm</td><td>ringwo̊rm</td><td>ring-worm</td><td>ring-wo̊rm</td><td>n. a fungal infection of the skin appearing as itching circular patches</td></tr>
 <tr><td>ringleader</td><td>ringlēade̊r</td><td>ring-lead-er</td><td>ring-lēad-e̊r</td><td>n. a person who leads (especially in illicit activities)</td></tr>
-<tr><td>ringmaster</td><td>ringmaste̊r</td><td>ring-mast-er</td><td>ring-mast-e̊r</td><td>n. the person in charge of performances in a circus ring</td></tr>
+<tr><td>ringmaster</td><td>ringmàste̊r</td><td>ring-mast-er</td><td>ring-màst-e̊r</td><td>n. the person in charge of performances in a circus ring</td></tr>
 <tr><td>earring</td><td>ēarring</td><td>ear-ring</td><td>ēar-ring</td><td>n. a piece of jewelry worn on the ear</td></tr>
 <tr><td>earrings</td><td>ēarringṡ</td><td>ear-ring-s</td><td>ēar-ring-ṡ</td><td></td></tr>
 <tr><td>rang</td><td>rang</td><td>rang</td><td>rang</td><td></td></tr>
@@ -1047,7 +1047,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rips</td><td>rips</td><td>rip-s</td><td>rip-s</td><td></td></tr>
 <tr><td>riptide</td><td>riptīde</td><td>rip-tide</td><td>rip-tīde</td><td>n. a strong surface current flowing outwards from a shore</td></tr>
 <tr><td>ripened</td><td>rīpe̊n𝕖d</td><td>rip-en-ed</td><td>rīp-e̊n-𝕖d</td><td>v. cause to ripen or develop fully<br>v. grow ripe<br>a. having reached a desired or final condition</td></tr>
-<tr><td>riparian</td><td>ripåriån</td><td>rip-ar-ian</td><td>rip-år-iån</td><td>a. of or relating to or located on the banks of a river or stream</td></tr>
+<tr><td>riparian</td><td>ripāriån</td><td>rip-ar-ian</td><td>rip-ār-iån</td><td>a. of or relating to or located on the banks of a river or stream</td></tr>
 <tr><td>ripening</td><td>rīpe̊ning</td><td>rip-en-ing</td><td>rīp-e̊n-ing</td><td>n. the process of becoming ripe</td></tr>
 <tr><td>rip-offs</td><td>rip-offs</td><td>rip-off-s</td><td>rip-off-s</td><td></td></tr>
 <tr><td>overripe</td><td>ōve̊rrīpe</td><td>over-ripe</td><td>ōve̊r-rīpe</td><td>a. too ripe and beginning to turn soft</td></tr>
@@ -1056,7 +1056,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ripple</td><td>ripple</td><td>ripp-le</td><td>ripp-le</td><td>n. a small wave on the surface of a liquid<br>v. stir up (water) so as to form ripples</td></tr>
 <tr><td>rippling</td><td>rippling</td><td>ripp-ling</td><td>ripp-ling</td><td>n a small wave on the surface of a liquid<br>v stir up (water) so as to form ripples<br>v flow in an irregular current with a bubbling noise</td></tr>
 <tr><td>risible</td><td>riṡible</td><td>ris-ible</td><td>riṡ-ible</td><td>a. arousing or provoking laughter</td></tr>
-<tr><td>derisory</td><td>dērīso̊rẏ</td><td>de-ris-ory</td><td>dē-rīs-o̊rẏ</td><td>a. incongruous; inviting ridicule</td></tr>
+<tr><td>derisory</td><td>dėrīṡo̊rẏ</td><td>de-ris-ory</td><td>dė-rīṡ-o̊rẏ</td><td>a. incongruous; inviting ridicule</td></tr>
 <tr><td>rise</td><td>rīse</td><td>rise</td><td>rīse</td><td>v. to move from a lower to a higher position; to increase<br>n. an upward movement; an increase</td></tr>
 <tr><td>risen</td><td>riṡe̊n</td><td>ris-en</td><td>riṡ-e̊n</td><td>a. (of celestial bodies) above the horizon</td></tr>
 <tr><td>riser</td><td>rīṡe̊r</td><td>ris-er</td><td>rīṡ-e̊r</td><td>n. a person who rises early<br>n. the vertical part of a stair step</td></tr>
@@ -1067,15 +1067,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>risk</td><td>risk</td><td>risk</td><td>risk</td><td>n. a situation involving exposure to danger or harm<br>vt. to expose someone or something to danger</td></tr>
 <tr><td>risked</td><td>risk𝕖ḋ</td><td>risk-ed</td><td>risk-𝕖ḋ</td><td></td></tr>
 <tr><td>risking</td><td>risking</td><td>risk-ing</td><td>risk-ing</td><td></td></tr>
-<tr><td>riskless</td><td>riskle̊ss</td><td>risk-less</td><td>risk-le̊ss</td><td>a. thought to be devoid of risk</td></tr>
+<tr><td>riskless</td><td>risklėss</td><td>risk-less</td><td>risk-lėss</td><td>a. thought to be devoid of risk</td></tr>
 <tr><td>risks</td><td>risks</td><td>risk-s</td><td>risk-s</td><td></td></tr>
 <tr><td>risky</td><td>riskẏ</td><td>risk-y</td><td>risk-ẏ</td><td>a. involving danger or risk</td></tr>
 <tr><td>riskier</td><td>riskie̊r</td><td>risk-i-er</td><td>risk-i-e̊r</td><td></td></tr>
 <tr><td>riskiest</td><td>riskiėst</td><td>risk-i-est</td><td>risk-i-ėst</td><td></td></tr>
-<tr><td>riskiness</td><td>riskine̊ss</td><td>risk-i-ness</td><td>risk-i-ne̊ss</td><td>n. a state of danger involving risk</td></tr>
-<tr><td>risotto</td><td>rĩsottō</td><td>risotto</td><td>rĩsottō</td><td>n. rice cooked with broth and sprinkled with grated cheese</td></tr>
-<tr><td>risque</td><td>risq𝕦è</td><td>risque</td><td>risq𝕦è</td><td>a. suggestive of sexual impropriety</td></tr>
-<tr><td>risqué</td><td>rĩsqué</td><td>risqué</td><td>rĩsqué</td><td>a. slightly indecent</td></tr>
+<tr><td>riskiness</td><td>riskinėss</td><td>risk-i-ness</td><td>risk-i-nėss</td><td>n. a state of danger involving risk</td></tr>
+<tr><td>risotto</td><td>risottō</td><td>risotto</td><td>risottō</td><td>n. rice cooked with broth and sprinkled with grated cheese</td></tr>
+<tr><td>risque</td><td>risquè</td><td>risque</td><td>risquè</td><td>a. suggestive of sexual impropriety</td></tr>
+<tr><td>risqué</td><td>risqué</td><td>risqué</td><td>risqué</td><td>a. slightly indecent</td></tr>
 <tr><td>ritual</td><td>ritūål</td><td>rit-u-al</td><td>rit-ū-ål</td><td>n. a ceremony or series of actions performed in a prescribed order<br>a. relating to or done as a ritual</td></tr>
 <tr><td>ritualize</td><td>ritūålīze</td><td>rit-u-al-ize</td><td>rit-ū-ål-īze</td><td>v. make or evolve into a ritual</td></tr>
 <tr><td>ritually</td><td>ritūållẏ</td><td>rit-u-al-ly</td><td>rit-ū-ål-lẏ</td><td>adv. in a ceremonial manner</td></tr>
@@ -1084,12 +1084,12 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>ritualistic</td><td>ritūålistic</td><td>rit-u-al-ist-ic</td><td>rit-ū-ål-ist-ic</td><td>a. of or characterized by or adhering to ritualism</td></tr>
 <tr><td>ritualistically</td><td>ritūålisticållẏ</td><td>rit-u-al-ist-ic-al-ly</td><td>rit-ū-ål-ist-ic-ål-lẏ</td><td>adv. in a ritualistic manner</td></tr>
 <tr><td>ritualization</td><td>ritūålīzātio̊n</td><td>rit-u-al-iz-at-ion</td><td>rit-ū-ål-īz-āt-io̊n</td><td>n. the process of making something into a ritual</td></tr>
-<tr><td>irritable</td><td>irri̊tåble</td><td>ir-rit-able</td><td>ir-ri̊t-åble</td><td>a. easily annoyed or made angry</td></tr>
-<tr><td>irritant</td><td>irri̊tånt</td><td>ir-rit-ant</td><td>ir-ri̊t-ånt</td><td>n. something that causes irritation<br>a. causing irritation</td></tr>
+<tr><td>irritable</td><td>irritåble</td><td>ir-rit-able</td><td>ir-rit-åble</td><td>a. easily annoyed or made angry</td></tr>
+<tr><td>irritant</td><td>irritånt</td><td>ir-rit-ant</td><td>ir-rit-ånt</td><td>n. something that causes irritation<br>a. causing irritation</td></tr>
 <tr><td>irritate</td><td>irritāte</td><td>ir-rit-ate</td><td>ir-rit-āte</td><td>v. excite to an abnormal condition, or chafe or inflame</td></tr>
-<tr><td>irritated</td><td>irri̊tāt𝕖d</td><td>ir-rit-at-ed</td><td>ir-ri̊t-āt-𝕖d</td><td>a. aroused to impatience or anger</td></tr>
-<tr><td>irritability</td><td>irritåbili̊tẏ</td><td>ir-rit-abil-ity</td><td>ir-rit-åbil-i̊tẏ</td><td>n. an irritable petulant feeling</td></tr>
-<tr><td>irritating</td><td>irri̊tāting</td><td>ir-rit-at-ing</td><td>ir-ri̊t-āt-ing</td><td>a. causing annoyance or physical discomfort</td></tr>
+<tr><td>irritated</td><td>irritātėd</td><td>ir-rit-at-ed</td><td>ir-rit-āt-ėd</td><td>a. aroused to impatience or anger</td></tr>
+<tr><td>irritability</td><td>irritåbilitẏ</td><td>ir-rit-abil-ity</td><td>ir-rit-åbil-itẏ</td><td>n. an irritable petulant feeling</td></tr>
+<tr><td>irritating</td><td>irritāting</td><td>ir-rit-at-ing</td><td>ir-rit-āt-ing</td><td>a. causing annoyance or physical discomfort</td></tr>
 <tr><td>irritation</td><td>irritātio̊n</td><td>ir-rit-at-ion</td><td>ir-rit-āt-io̊n</td><td>n. the state of feeling annoyed; a thing that annoys</td></tr>
 <tr><td>irritably</td><td>irritåblẏ</td><td>ir-rit-ab-ly</td><td>ir-rit-åb-lẏ</td><td>adv. in an irritable manner</td></tr>
 <tr><td>irritatingly</td><td>irritātinglẏ</td><td>ir-rit-at-ing-ly</td><td>ir-rit-āt-ing-lẏ</td><td>adv. in an irritating manner</td></tr>
@@ -1100,10 +1100,10 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rival</td><td>rīvål</td><td>riv-al</td><td>rīv-ål</td><td>n. a person competing with another<br>v. compete with</td></tr>
 <tr><td>riven</td><td>rive̊n</td><td>riv-en</td><td>riv-e̊n</td><td>a. torn apart or split</td></tr>
 <tr><td>river</td><td>rive̊r</td><td>riv-er</td><td>riv-e̊r</td><td>n. a large natural stream of water (larger than a creek)</td></tr>
-<tr><td>riverine</td><td>rive̊rīne</td><td>river-ine</td><td>rive̊r-īne</td><td>a. of or relating to or located on the banks of a river</td></tr>
+<tr><td>riverine</td><td>rive̊rĩne</td><td>river-ine</td><td>rive̊r-ĩne</td><td>a. of or relating to or located on the banks of a river</td></tr>
 <tr><td>rivalrous</td><td>rīvålro̊us</td><td>rivalr-ous</td><td>rīvålr-o̊us</td><td>a. eager to surpass others</td></tr>
 <tr><td>riverbank</td><td>rive̊rbank</td><td>riv-er-bank</td><td>riv-e̊r-bank</td><td>n. the bank of a river</td></tr>
-<tr><td>riverbed</td><td>rive̊rb𝕖d</td><td>riv-er-bed</td><td>riv-e̊r-b𝕖d</td><td>n. a channel occupied by a river</td></tr>
+<tr><td>riverbed</td><td>rive̊rbed</td><td>riv-er-bed</td><td>riv-e̊r-bed</td><td>n. a channel occupied by a river</td></tr>
 <tr><td>riverboat</td><td>rive̊rbōat</td><td>riv-er-boat</td><td>riv-e̊r-bōat</td><td>n. a boat used on rivers</td></tr>
 <tr><td>rivulet</td><td>rivūlėt</td><td>riv-ul-et</td><td>riv-ūl-ėt</td><td>n. a small stream</td></tr>
 <tr><td>riverfront</td><td>rive̊rfrônt</td><td>riv-er-front</td><td>riv-e̊r-frônt</td><td>n. the land or district along a river</td></tr>
@@ -1119,23 +1119,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>arrives</td><td>årrīv𝕖ṡ</td><td>ar-rive-s</td><td>år-rīv𝕖-ṡ</td><td></td></tr>
 <tr><td>arrivals</td><td>årrīvålṡ</td><td>ar-riv-al-s</td><td>år-rīv-ål-ṡ</td><td></td></tr>
 <tr><td>derive</td><td>dėrīve</td><td>de-rive</td><td>dė-rīve</td><td>v. obtain<br>v. come from<br>v. come from; be connected by a relationship of blood</td></tr>
-<tr><td>derived</td><td>de̊rīv𝕖d</td><td>de-riv-ed</td><td>de̊-rīv-𝕖d</td><td>a. formed or developed from something else; not original</td></tr>
+<tr><td>derived</td><td>dėrīv𝕖d</td><td>de-riv-ed</td><td>dė-rīv-𝕖d</td><td>a. formed or developed from something else; not original</td></tr>
 <tr><td>derivation</td><td>derivātio̊n</td><td>de-riv-at-ion</td><td>de-riv-āt-io̊n</td><td>n. the source of derivation; the process of forming new words from existing ones</td></tr>
-<tr><td>derivative</td><td>de̊rivåtive</td><td>de-riv-at-ive</td><td>de̊-riv-åt-ive</td><td>n. something derived from another thing<br>a. imitative of the work of others</td></tr>
-<tr><td>unrivalled</td><td>ûnrivåll𝕖d</td><td>un-rivall-ed</td><td>ûn-rivåll-𝕖d</td><td>a. eminent beyond or above comparison</td></tr>
+<tr><td>derivative</td><td>dėrivåtive</td><td>de-riv-at-ive</td><td>dė-riv-åt-ive</td><td>n. something derived from another thing<br>a. imitative of the work of others</td></tr>
+<tr><td>unrivalled</td><td>ûnrīvåll𝕖d</td><td>un-rivall-ed</td><td>ûn-rīvåll-𝕖d</td><td>a. eminent beyond or above comparison</td></tr>
 <tr><td>upriver</td><td>ûprive̊r</td><td>up-riv-er</td><td>ûp-riv-e̊r</td><td>adv. toward the source or against the current</td></tr>
 <tr><td>unrivaled</td><td>ûnrīvål𝕖d</td><td>un-riv-al-ed</td><td>ûn-rīv-ål-𝕖d</td><td>a. eminent beyond or above comparison</td></tr>
-<tr><td>rivet</td><td>rive̊t</td><td>rivet</td><td>rive̊t</td><td>n. a metal pin used to fasten plates together<br>vt. to fix firmly in one&#x27;s attention</td></tr>
-<tr><td>riveted</td><td>rive̊tėd</td><td>rivet-ed</td><td>rive̊t-ėd</td><td>a. held firmly in place<br>v. fasten with a rivet</td></tr>
-<tr><td>riveter</td><td>rivėte̊r</td><td>rivet-er</td><td>rivėt-e̊r</td><td>n. a worker who inserts and hammers rivets</td></tr>
-<tr><td>riveting</td><td>rive̊ting</td><td>rivet-ing</td><td>rive̊t-ing</td><td>a. capable of arousing and holding the attention</td></tr>
+<tr><td>rivet</td><td>rivėt</td><td>rivet</td><td>rivėt</td><td>n. a metal pin used to fasten plates together<br>vt. to fix firmly in one&#x27;s attention</td></tr>
+<tr><td>riveted</td><td>rivėtėd</td><td>rivet-ed</td><td>rivėt-ėd</td><td>a. held firmly in place<br>v. fasten with a rivet</td></tr>
+<tr><td>riveter</td><td>rivete̊r</td><td>rivet-er</td><td>rivet-e̊r</td><td>n. a worker who inserts and hammers rivets</td></tr>
+<tr><td>riveting</td><td>rivėting</td><td>rivet-ing</td><td>rivėt-ing</td><td>a. capable of arousing and holding the attention</td></tr>
 <tr><td>rna</td><td></td><td>rna</td><td></td><td>n. ribonucleic acid, a nucleic acid present in all living cells</td></tr>
 <tr><td>roach</td><td>rōach</td><td>roach</td><td>rōach</td><td>n. a cockroach; the butt of a marijuana cigarette</td></tr>
 <tr><td>road</td><td>rōad</td><td>road</td><td>rōad</td><td>n. a wide way leading from one place to another<br>n. a way or means of achieving something</td></tr>
 <tr><td>roadbed</td><td>rōadbed</td><td>road-bed</td><td>rōad-bed</td><td>n. a bed supporting a road</td></tr>
 <tr><td>roadblock</td><td>rōadblock</td><td>road-block</td><td>rōad-block</td><td>n. a barrier set up to stop traffic</td></tr>
 <tr><td>roadhouse</td><td>rōadhòuse</td><td>road-house</td><td>rōad-hòuse</td><td>n. an inn usually outside city limits providing meals and liquor and dancing</td></tr>
-<tr><td>roadie</td><td>rōadiē</td><td>road-ie</td><td>rōad-iē</td><td>n. a person who sets up and maintains equipment for a touring band</td></tr>
+<tr><td>roadie</td><td>rōadie</td><td>road-ie</td><td>rōad-ie</td><td>n. a person who sets up and maintains equipment for a touring band</td></tr>
 <tr><td>roadkill</td><td>rōadkill</td><td>road-kill</td><td>rōad-kill</td><td>n. an animal killed on a road by a vehicle</td></tr>
 <tr><td>roadless</td><td>rōadlėss</td><td>road-less</td><td>rōad-lėss</td><td>a. lacking pathways</td></tr>
 <tr><td>roadmap</td><td>rōadmap</td><td>road-map</td><td>rōad-map</td><td>n. a detailed plan or guide to achieve a particular goal<br>n. a map showing roads for travel</td></tr>
@@ -1157,7 +1157,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>uproarious</td><td>ûprōario̊us</td><td>up-roar-ious</td><td>ûp-rōar-io̊us</td><td>a. uncontrollably noisy<br>a. marked by or causing boisterous merriment or convulsive laughter</td></tr>
 <tr><td>uproariously</td><td>ûprōario̊uslẏ</td><td>up-roar-ious-ly</td><td>ûp-rōar-io̊us-lẏ</td><td>adv. in a hilarious manner</td></tr>
 <tr><td>roast</td><td>rōast</td><td>roast</td><td>rōast</td><td>n. a piece of meat roasted or for roasting<br>v. cook with dry heat, usually in an oven</td></tr>
-<tr><td>roasted</td><td>rōast𝕖d</td><td>roast-ed</td><td>rōast-𝕖d</td><td>a. (meat) cooked by dry heat in an oven</td></tr>
+<tr><td>roasted</td><td>rōastėd</td><td>roast-ed</td><td>rōast-ėd</td><td>a. (meat) cooked by dry heat in an oven</td></tr>
 <tr><td>roaster</td><td>rōaste̊r</td><td>roast-er</td><td>rōast-e̊r</td><td>n. a cook who roasts food<br>n. flesh of a large young chicken suitable for roasting</td></tr>
 <tr><td>roasting</td><td>rōasting</td><td>roast-ing</td><td>rōast-ing</td><td>n. cooking meat by dry heat in an oven<br>a. very hot</td></tr>
 <tr><td>roasts</td><td>rōasts</td><td>roast-s</td><td>rōast-s</td><td></td></tr>
@@ -1169,7 +1169,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>robed</td><td>rōb𝕖d</td><td>rob-ed</td><td>rōb-𝕖d</td><td>v. clothe formally, especially in ecclesiastical robes<br>a. dressed in fine attire</td></tr>
 <tr><td>robbin</td><td>robbin</td><td>robb-in</td><td>robb-in</td><td>n. a rope band used on a ship</td></tr>
 <tr><td>robbing</td><td>robbing</td><td>robb-ing</td><td>robb-ing</td><td>v. take something away by force or without the consent of the owner</td></tr>
-<tr><td>robin</td><td>robi̊n</td><td>rob-in</td><td>rob-i̊n</td><td>n. a small bird with a reddish breast</td></tr>
+<tr><td>robin</td><td>robin</td><td>rob-in</td><td>rob-in</td><td>n. a small bird with a reddish breast</td></tr>
 <tr><td>robes</td><td>rōb𝕖ṡ</td><td>robe-s</td><td>rōb𝕖-ṡ</td><td></td></tr>
 <tr><td>robs</td><td>robṡ</td><td>rob-s</td><td>rob-ṡ</td><td></td></tr>
 <tr><td>robotic</td><td>rōbotic</td><td>ro-bot-ic</td><td>rō-bot-ic</td><td>a. of or relating to mechanical robots</td></tr>
@@ -1190,9 +1190,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>corroborative</td><td>co̊rrobo̊råtive</td><td>cor-robor-at-ive</td><td>co̊r-robo̊r-åt-ive</td><td>a. serving to support or corroborate</td></tr>
 <tr><td>uncorroborated</td><td>ûnco̊rrobo̊rātėd</td><td>un-cor-robor-at-ed</td><td>ûn-co̊r-robo̊r-āt-ėd</td><td>a. unsupported by other evidence</td></tr>
 <tr><td>robust</td><td>rōbûst</td><td>robust</td><td>rōbûst</td><td>a. strong and healthy; able to withstand difficult conditions</td></tr>
-<tr><td>robusta</td><td>robùstå</td><td>robust-a</td><td>robùst-å</td><td>n. a species of coffee plant known for its strong flavor and high caffeine content</td></tr>
+<tr><td>robusta</td><td>ro̊bûstå</td><td>robust-a</td><td>ro̊bûst-å</td><td>n. a species of coffee plant known for its strong flavor and high caffeine content</td></tr>
 <tr><td>robustly</td><td>rōbûstlẏ</td><td>robust-ly</td><td>rōbûst-lẏ</td><td>adv. in a robust and sturdy manner</td></tr>
-<tr><td>robustness</td><td>rōbûstne̊ss</td><td>robust-ness</td><td>rōbûst-ne̊ss</td><td>n. the property of being strong and healthy in constitution</td></tr>
+<tr><td>robustness</td><td>rōbûstnėss</td><td>robust-ness</td><td>rōbûst-nėss</td><td>n. the property of being strong and healthy in constitution</td></tr>
 <tr><td>roc</td><td>roc</td><td>roc</td><td>roc</td><td>n. mythical bird of prey having enormous size and strength</td></tr>
 <tr><td>rock</td><td>rock</td><td>rock</td><td>rock</td><td>n. the solid mineral material forming part of the earth<br>v. to move gently from side to side</td></tr>
 <tr><td>rocked</td><td>rock𝕖ḋ</td><td>rock-ed</td><td>rock-𝕖ḋ</td><td></td></tr>
@@ -1205,9 +1205,9 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rocks</td><td>rocks</td><td>rock-s</td><td>rock-s</td><td></td></tr>
 <tr><td>rockslide</td><td>rockslīde</td><td>rock-slide</td><td>rock-slīde</td><td>n. a landslide of rocks</td></tr>
 <tr><td>rocky</td><td>rockẏ</td><td>rock-y</td><td>rock-ẏ</td><td>a. full of rocks<br>a. difficult and full of problems</td></tr>
-<tr><td>rocketeer</td><td>rockėtėe̊r</td><td>rock-et-eer</td><td>rock-ėt-ėe̊r</td><td>n. a person who works with or designs rockets</td></tr>
+<tr><td>rocketeer</td><td>rockėtēer</td><td>rock-et-eer</td><td>rock-ėt-ēer</td><td>n. a person who works with or designs rockets</td></tr>
 <tr><td>rock-bottom</td><td>rock-botto̊m</td><td>rock-bott-om</td><td>rock-bott-o̊m</td><td>a. at the very lowest level</td></tr>
-<tr><td>rocketry</td><td>rocke̊trẏ</td><td>rock-et-ry</td><td>rock-e̊t-rẏ</td><td>n. the branch of engineering science that studies rocket design and operation</td></tr>
+<tr><td>rocketry</td><td>rockėtrẏ</td><td>rock-et-ry</td><td>rock-ėt-rẏ</td><td>n. the branch of engineering science that studies rocket design and operation</td></tr>
 <tr><td>rockets</td><td>rocke̊ts</td><td>rock-et-s</td><td>rock-e̊t-s</td><td></td></tr>
 <tr><td>rocketship</td><td>rockėtship</td><td>rock-et-ship</td><td>rock-ėt-ship</td><td>n. a spacecraft propelled by a rocket engine</td></tr>
 <tr><td>rockabilly</td><td>rockåbillẏ</td><td>rock-a-bill-y</td><td>rock-å-bill-ẏ</td><td>n. a fusion of black music and country music popular in the 1950s</td></tr>
@@ -1217,34 +1217,34 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rods</td><td>rodṡ</td><td>rod-s</td><td>rod-ṡ</td><td></td></tr>
 <tr><td>corrode</td><td>co̊rrōde</td><td>cor-rode</td><td>co̊r-rōde</td><td>v. to cause to deteriorate due to the action of water, air, or acid</td></tr>
 <tr><td>corroded</td><td>co̊rrōdėd</td><td>cor-rod-ed</td><td>co̊r-rōd-ėd</td><td>a. eaten away as by acid or oxidation</td></tr>
-<tr><td>erode</td><td>ērōde</td><td>e-rode</td><td>ē-rōde</td><td>v. to wear away gradually</td></tr>
-<tr><td>eroded</td><td>ērōd𝕖d</td><td>e-rod-ed</td><td>ē-rōd-𝕖d</td><td>a. worn away as by water or ice or wind</td></tr>
-<tr><td>eroding</td><td>ērōding</td><td>e-rod-ing</td><td>ē-rōd-ing</td><td>v. wear away gradually by erosion</td></tr>
+<tr><td>erode</td><td>ėrōde</td><td>e-rode</td><td>ė-rōde</td><td>v. to wear away gradually</td></tr>
+<tr><td>eroded</td><td>ėrōdėd</td><td>e-rod-ed</td><td>ė-rōd-ėd</td><td>a. worn away as by water or ice or wind</td></tr>
+<tr><td>eroding</td><td>ėrōding</td><td>e-rod-ing</td><td>ė-rōd-ing</td><td>v. wear away gradually by erosion</td></tr>
 <tr><td>ramrod</td><td>ramrod</td><td>ram-rod</td><td>ram-rod</td><td>n. a rod used to clean the barrel of a firearm<br>n. a harshly demanding overseer</td></tr>
-<tr><td>rodeo</td><td>rōdēō</td><td>rodeo</td><td>rōdēō</td><td>n. an exhibition of cowboy skills</td></tr>
+<tr><td>rodeo</td><td>rōdėō</td><td>rodeo</td><td>rōdėō</td><td>n. an exhibition of cowboy skills</td></tr>
 <tr><td>rodeos</td><td>rōdėōṡ</td><td>rodeo-s</td><td>rōdėō-ṡ</td><td></td></tr>
 <tr><td>Roderick</td><td>Rode̊rick</td><td>Roderick</td><td>Rode̊rick</td><td>n. a male given name</td></tr>
 <tr><td>roe</td><td>rōe</td><td>roe</td><td>rōe</td><td>n. fish eggs or egg-filled ovary</td></tr>
-<tr><td>roentgen</td><td>ro𝕖ntgen</td><td>roent-gen</td><td>ro𝕖nt-gen</td><td>n. a unit of radiation exposure</td></tr>
+<tr><td>roentgen</td><td>rōentge̊n</td><td>roent-gen</td><td>rōent-ge̊n</td><td>n. a unit of radiation exposure</td></tr>
 <tr><td>abrogate</td><td>abro̊gāte</td><td>ab-rog-ate</td><td>ab-ro̊g-āte</td><td>v. revoke formally</td></tr>
 <tr><td>arrogance</td><td>arro̊gånce</td><td>ar-rog-ance</td><td>ar-ro̊g-ånce</td><td>n. overbearing pride evidenced by a superior manner toward inferiors</td></tr>
 <tr><td>arrogant</td><td>arro̊gånt</td><td>ar-rog-ant</td><td>ar-ro̊g-ånt</td><td>a. having or showing an exaggerated sense of one&#x27;s importance</td></tr>
-<tr><td>arrogate</td><td>arrōgāte</td><td>ar-rog-ate</td><td>ar-rōg-āte</td><td>v. make undue claims to having</td></tr>
+<tr><td>arrogate</td><td>arro̊gāte</td><td>ar-rog-ate</td><td>ar-ro̊g-āte</td><td>v. make undue claims to having</td></tr>
 <tr><td>abrogation</td><td>abro̊gātio̊n</td><td>ab-rog-at-ion</td><td>ab-ro̊g-āt-io̊n</td><td>n. the act of abrogating; an official or legal cancellation</td></tr>
 <tr><td>arrogantly</td><td>arro̊gåntlẏ</td><td>ar-rog-ant-ly</td><td>ar-ro̊g-ånt-lẏ</td><td>adv. in an arrogant manner</td></tr>
-<tr><td>derogate</td><td>derōgāte</td><td>de-rog-ate</td><td>de-rōg-āte</td><td>v. cause to seem less serious; play down</td></tr>
-<tr><td>derogation</td><td>dèro̊gātio̊n</td><td>de-rog-at-ion</td><td>dè-ro̊g-āt-io̊n</td><td>n. the partial taking away of the effectiveness of a law; a partial repeal</td></tr>
-<tr><td>derogatory</td><td>de̊rogåtorẏ</td><td>de-rog-at-ory</td><td>de̊-rog-åt-orẏ</td><td>a. expressive of low opinion</td></tr>
+<tr><td>derogate</td><td>dero̊gāte</td><td>de-rog-ate</td><td>de-ro̊g-āte</td><td>v. cause to seem less serious; play down</td></tr>
+<tr><td>derogation</td><td>dero̊gātio̊n</td><td>de-rog-at-ion</td><td>de-ro̊g-āt-io̊n</td><td>n. the partial taking away of the effectiveness of a law; a partial repeal</td></tr>
+<tr><td>derogatory</td><td>dėrogåto̊rẏ</td><td>de-rog-at-ory</td><td>dė-rog-åt-o̊rẏ</td><td>a. expressive of low opinion</td></tr>
 <tr><td>interrogate</td><td>interro̊gāte</td><td>inter-rog-ate</td><td>inter-ro̊g-āte</td><td>v. to ask questions in a thorough or aggressive manner</td></tr>
 <tr><td>interrogation</td><td>interro̊gātio̊n</td><td>inter-rog-at-ion</td><td>inter-ro̊g-āt-io̊n</td><td>n. the process of questioning someone systematically</td></tr>
-<tr><td>interrogative</td><td>inte̊rrogåtive</td><td>inter-rog-at-ive</td><td>inte̊r-rog-åt-ive</td><td>a. relating to the use of or having the nature of an interrogation</td></tr>
+<tr><td>interrogative</td><td>interro̊gåtive</td><td>inter-rog-at-ive</td><td>inter-ro̊g-åt-ive</td><td>a. relating to the use of or having the nature of an interrogation</td></tr>
 <tr><td>interrogator</td><td>interro̊gāto̊r</td><td>inter-rog-at-or</td><td>inter-ro̊g-āt-o̊r</td><td>n a questioner who is excessively harsh</td></tr>
-<tr><td>interrogatory</td><td>interrogåtorẏ</td><td>inter-rog-at-ory</td><td>inter-rog-åt-orẏ</td><td>n. formal systematic questioning<br>a. relating to or having the nature of an interrogation</td></tr>
-<tr><td>prorogue</td><td>pro̊rōgue</td><td>pro-rogue</td><td>pro̊-rōgue</td><td>vt. to discontinue a parliamentary session</td></tr>
-<tr><td>prerogative</td><td>prērogåtive</td><td>pre-rog-at-ive</td><td>prē-rog-åt-ive</td><td>n. a right reserved exclusively by a particular person or group</td></tr>
+<tr><td>interrogatory</td><td>inte̊rrogåto̊rẏ</td><td>inter-rog-at-ory</td><td>inte̊r-rog-åt-o̊rẏ</td><td>n. formal systematic questioning<br>a. relating to or having the nature of an interrogation</td></tr>
+<tr><td>prorogue</td><td>prōrōgue</td><td>pro-rogue</td><td>prō-rōgue</td><td>vt. to discontinue a parliamentary session</td></tr>
+<tr><td>prerogative</td><td>prėrogåtive</td><td>pre-rog-at-ive</td><td>prė-rog-åt-ive</td><td>n. a right reserved exclusively by a particular person or group</td></tr>
 <tr><td>prorogation</td><td>prōro̊gātio̊n</td><td>pro-rog-at-ion</td><td>prō-ro̊g-āt-io̊n</td><td>n. the discontinuing of a session</td></tr>
 <tr><td>roger</td><td>roge̊r</td><td>roger</td><td>roge̊r</td><td>int. message received and understood</td></tr>
-<tr><td>rogue</td><td>rōg𝕦e</td><td>rogue</td><td>rōg𝕦e</td><td>n. a deceitful and unreliable scoundrel</td></tr>
+<tr><td>rogue</td><td>rōgue</td><td>rogue</td><td>rōgue</td><td>n. a deceitful and unreliable scoundrel</td></tr>
 <tr><td>roguish</td><td>rōguish</td><td>rogu-ish</td><td>rōgu-ish</td><td>a. playful in an appealingly bold way<br>a. lacking principles or scruples</td></tr>
 <tr><td>roil</td><td>roil</td><td>roil</td><td>roil</td><td>v. make turbid by stirring up the sediments of</td></tr>
 <tr><td>roiling</td><td>roiling</td><td>roil-ing</td><td>roil-ing</td><td>v. make turbid by stirring up the sediments<br>v. be agitated</td></tr>
@@ -1264,15 +1264,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rollers</td><td>rōlle̊rṡ</td><td>roll-er-s</td><td>rōll-e̊r-ṡ</td><td></td></tr>
 <tr><td>rolling-stock</td><td></td><td>roll-ing-stock</td><td></td><td>n. all the vehicles used on a railway</td></tr>
 <tr><td>rollerblader</td><td>rōlle̊rblāde̊r</td><td>roll-er-blad-er</td><td>rōll-e̊r-blād-e̊r</td><td>n. a skater who uses Rollerblades</td></tr>
-<tr><td>enrol</td><td>ėnrōl</td><td>en-rol</td><td>ėn-rōl</td><td>vt. to register or enter as a member</td></tr>
+<tr><td>enrol</td><td>enrōl</td><td>en-rol</td><td>en-rōl</td><td>vt. to register or enter as a member</td></tr>
 <tr><td>enroll</td><td>ėnrōll</td><td>en-roll</td><td>ėn-rōll</td><td>v. to officially register as a member of an institution or course</td></tr>
 <tr><td>enrolled</td><td>enrōll𝕖d</td><td>en-roll-ed</td><td>en-rōll-𝕖d</td><td>v. register formally as a participant or member</td></tr>
 <tr><td>enrollee</td><td>enrōllēe</td><td>en-roll-ee</td><td>en-rōll-ēe</td><td>n. a person who enrolls in a class or course of study</td></tr>
 <tr><td>enrollment</td><td>enrōllme̊nt</td><td>en-roll-ment</td><td>en-rōll-me̊nt</td><td>n. the act of officially joining a school or organization</td></tr>
-<tr><td>enrolment</td><td>ėnrōlme̊nt</td><td>en-rol-ment</td><td>ėn-rōl-me̊nt</td><td>n. the act of registering for a course or membership</td></tr>
+<tr><td>enrolment</td><td>enrōlme̊nt</td><td>en-rol-ment</td><td>en-rōl-me̊nt</td><td>n. the act of registering for a course or membership</td></tr>
 <tr><td>unroll</td><td>ûnrōll</td><td>un-roll</td><td>ûn-rōll</td><td>v. to unfold or spread out from a furled state</td></tr>
 <tr><td>unrolled</td><td>ûnrōll𝕖d</td><td>un-roll-ed</td><td>ûn-rōll-𝕖d</td><td>v. unfold or spread out from a furled state</td></tr>
-<tr><td>jellyroll</td><td>jellyrōll</td><td>jell-y-roll</td><td>jell-y-rōll</td><td>n. thin sponge cake spread with jelly and rolled into a cylinder</td></tr>
+<tr><td>jellyroll</td><td>jellẏrōll</td><td>jell-y-roll</td><td>jell-ẏ-rōll</td><td>n. thin sponge cake spread with jelly and rolled into a cylinder</td></tr>
 <tr><td>rollicking</td><td>rollicking</td><td>rollick-ing</td><td>rollick-ing</td><td>a. given to merry frolicking; boisterous and cheerful</td></tr>
 <tr><td>rolodex</td><td>rōlo̊dex</td><td>rolo-dex</td><td>rōlo̊-dex</td><td>n. a desktop card index used for storing contact information</td></tr>
 <tr><td>Rome</td><td>Rōme</td><td>Rome</td><td>Rōme</td><td>n. the capital of Italy</td></tr>
@@ -1280,23 +1280,23 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>romanian</td><td>rōmāniån</td><td>roman-ian</td><td>rōmān-iån</td><td>n. a native or inhabitant of Romania<br>a. of or relating to Romania</td></tr>
 <tr><td>Roman</td><td>Rōmån</td><td>Ro-man</td><td>Rō-mån</td><td>a. relating to ancient Rome or its people<br>n. a citizen of ancient Rome</td></tr>
 <tr><td>romancer</td><td>rōmance̊r</td><td>rom-anc-er</td><td>rōm-anc-e̊r</td><td>n. a writer of romances</td></tr>
-<tr><td>romanesque</td><td>rōmånesq𝕦e</td><td>rom-an-esque</td><td>rōm-ån-esq𝕦e</td><td>a. of a style of architecture prevailing in Europe from the 11th to 13th centuries</td></tr>
+<tr><td>romanesque</td><td>rōmånesque</td><td>rom-an-esque</td><td>rōm-ån-esque</td><td>a. of a style of architecture prevailing in Europe from the 11th to 13th centuries</td></tr>
 <tr><td>romanize</td><td>rōmånīze</td><td>rom-an-ize</td><td>rōm-ån-īze</td><td>vt. to write in Roman characters</td></tr>
 <tr><td>romantic</td><td>rōmantic</td><td>rom-ant-ic</td><td>rōm-ant-ic</td><td>n. a soulful or amorous idealist<br>a. belonging to or characteristic of Romanticism or the Romantic Movement in the arts</td></tr>
 <tr><td>romances</td><td>rōmåncėṡ</td><td>rom-ance-s</td><td>rōm-åncė-ṡ</td><td></td></tr>
-<tr><td>romanticism</td><td>rōmanti̊cism</td><td>rom-ant-ic-ism</td><td>rōm-ant-i̊c-ism</td><td>n. a movement in literature and art during the late 18th and early 19th centuries</td></tr>
+<tr><td>romanticism</td><td>rōmanticiṡm</td><td>rom-ant-ic-ism</td><td>rōm-ant-ic-iṡm</td><td>n. a movement in literature and art during the late 18th and early 19th centuries</td></tr>
 <tr><td>romanticist</td><td>rōmanticist</td><td>rom-ant-ic-ist</td><td>rōm-ant-ic-ist</td><td>n. an artist of the Romantic Movement or someone influenced by Romanticism</td></tr>
-<tr><td>romanticize</td><td>rōmanti̊cīze</td><td>rom-ant-ic-ize</td><td>rōm-ant-i̊c-īze</td><td>v. to make something seem romantic</td></tr>
-<tr><td>romanticized</td><td>rōmanti̊cīz𝕖d</td><td>rom-ant-ic-iz-ed</td><td>rōm-ant-i̊c-īz-𝕖d</td><td>v. interpret romantically<br>v. make romantic in style</td></tr>
+<tr><td>romanticize</td><td>rōmanticīze</td><td>rom-ant-ic-ize</td><td>rōm-ant-ic-īze</td><td>v. to make something seem romantic</td></tr>
+<tr><td>romanticized</td><td>rōmanticīz𝕖d</td><td>rom-ant-ic-iz-ed</td><td>rōm-ant-ic-īz-𝕖d</td><td>v. interpret romantically<br>v. make romantic in style</td></tr>
 <tr><td>romantically</td><td>rōmanticållẏ</td><td>rom-ant-ic-al-ly</td><td>rōm-ant-ic-ål-lẏ</td><td>adv. in a romantic manner</td></tr>
-<tr><td>romanticization</td><td>rōmånticīzātio̊n</td><td>rom-ant-ic-iz-at-ion</td><td>rōm-ånt-ic-īz-āt-io̊n</td><td>n. the act of romanticizing something</td></tr>
-<tr><td>unromantic</td><td>ûnro̊mantic</td><td>un-rom-ant-ic</td><td>ûn-ro̊m-ant-ic</td><td>a. neither expressive of nor exciting sexual love or romance</td></tr>
+<tr><td>romanticization</td><td>rōmanticīzātio̊n</td><td>rom-ant-ic-iz-at-ion</td><td>rōm-ant-ic-īz-āt-io̊n</td><td>n. the act of romanticizing something</td></tr>
+<tr><td>unromantic</td><td>ûnrōmantic</td><td>un-rom-ant-ic</td><td>ûn-rōm-ant-ic</td><td>a. neither expressive of nor exciting sexual love or romance</td></tr>
 <tr><td>rumanian</td><td>rūmāniån</td><td>ruman-ian</td><td>rūmān-iån</td><td>a. of or relating to or characteristic of Romania</td></tr>
 <tr><td>romaine</td><td>rōmāine</td><td>romaine</td><td>rōmāine</td><td>n. lettuce with long dark-green leaves in a loosely packed elongated head</td></tr>
 <tr><td>roman</td><td>rōmån</td><td></td><td></td><td>a. relating to ancient Rome or its people<br>n. a citizen of ancient Rome</td></tr>
 <tr><td>romp</td><td>romp</td><td>romp</td><td>romp</td><td>n. noisy play<br>v. to run easily and fairly fast</td></tr>
 <tr><td>romper</td><td>rompe̊r</td><td>romp-er</td><td>romp-e̊r</td><td>n. a person who romps or frolics<br>n. a one-piece garment for children; lower part shaped like bloomers</td></tr>
-<tr><td>romulan</td><td>romūlàn</td><td>romul-an</td><td>romūl-àn</td><td>n. a fictional alien species in Star Trek</td></tr>
+<tr><td>romulan</td><td>romūlan</td><td>romul-an</td><td>romūl-an</td><td>n. a fictional alien species in Star Trek</td></tr>
 <tr><td>rondo</td><td>rondō</td><td>rondo</td><td>rondō</td><td>n. a musical form that is often the last movement of a sonata</td></tr>
 <tr><td>roo</td><td>roo</td><td>roo</td><td>roo</td><td>n. a kangaroo (Australian informal)</td></tr>
 <tr><td>rood</td><td>rood</td><td>rood</td><td>rood</td><td>n. representation of the cross on which Jesus died</td></tr>
@@ -1309,21 +1309,21 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rooftop</td><td>rooftop</td><td>roof-top</td><td>roof-top</td><td>n. the top of a (usually flat) roof</td></tr>
 <tr><td>rook</td><td>rook</td><td>rook</td><td>rook</td><td>n. common gregarious Old World bird about the size and color of the American crow</td></tr>
 <tr><td>rookery</td><td>rooke̊rẏ</td><td>rook-ery</td><td>rook-e̊rẏ</td><td>n. a breeding ground for gregarious birds (such as rooks)</td></tr>
-<tr><td>rookie</td><td>rookiē</td><td>rook-ie</td><td>rook-iē</td><td>n. a new and inexperienced member of a group or profession</td></tr>
+<tr><td>rookie</td><td>rookie</td><td>rook-ie</td><td>rook-ie</td><td>n. a new and inexperienced member of a group or profession</td></tr>
 <tr><td>room</td><td>room</td><td>room</td><td>room</td><td>n. a space within a building; space for movement; opportunity</td></tr>
-<tr><td>roomful</td><td>roomfùl</td><td>room-ful</td><td>room-fùl</td><td>n. the quantity a room will hold</td></tr>
+<tr><td>roomful</td><td>roomfůl</td><td>room-ful</td><td>room-fůl</td><td>n. the quantity a room will hold</td></tr>
 <tr><td>roomie</td><td>roomie</td><td>room-ie</td><td>room-ie</td><td>n. an associate who shares a room with you</td></tr>
 <tr><td>rooming</td><td>rooming</td><td>room-ing</td><td>room-ing</td><td>v. live and take one&#x27;s meals at or in</td></tr>
 <tr><td>roommate</td><td>roommāte</td><td>room-mate</td><td>room-māte</td><td>n. a person with whom one shares a room</td></tr>
 <tr><td>rooms</td><td>roomṡ</td><td>room-s</td><td>room-ṡ</td><td></td></tr>
 <tr><td>roomy</td><td>roomẏ</td><td>room-y</td><td>room-ẏ</td><td>a. having ample space</td></tr>
-<tr><td>roominess</td><td>roomine̊ss</td><td>room-i-ness</td><td>room-i-ne̊ss</td><td>n. spatial largeness and extensiveness (especially inside a building)</td></tr>
+<tr><td>roominess</td><td>roominėss</td><td>room-i-ness</td><td>room-i-nėss</td><td>n. spatial largeness and extensiveness (especially inside a building)</td></tr>
 <tr><td>roommates</td><td>roommāt𝕖s</td><td>room-mate-s</td><td>room-māt𝕖-s</td><td></td></tr>
 <tr><td>ante-room</td><td>antē-room</td><td>ante-room</td><td>antē-room</td><td>n. a waiting room; an outer room leading to a main room</td></tr>
 <tr><td>anteroom</td><td>antēroom</td><td>ante-room</td><td>antē-room</td><td>n. a large entrance or reception room or area</td></tr>
 <tr><td>barroom</td><td>bàrroom</td><td>bar-room</td><td>bàr-room</td><td>n. a room or establishment where alcoholic drinks are served over a counter</td></tr>
 <tr><td>dayroom</td><td>dāyroom</td><td>day-room</td><td>dāy-room</td><td>n. a room used for leisure activities in a residential institution</td></tr>
-<tr><td>legroom</td><td>le̊groom</td><td>leg-room</td><td>le̊g-room</td><td>n. space in which to stretch one&#x27;s legs while seated</td></tr>
+<tr><td>legroom</td><td>legroom</td><td>leg-room</td><td>leg-room</td><td>n. space in which to stretch one&#x27;s legs while seated</td></tr>
 <tr><td>mudroom</td><td>mûdroom</td><td>mud-room</td><td>mûd-room</td><td>n. an entry room where wet or muddy clothes and footwear are removed</td></tr>
 <tr><td>elbowroom</td><td>elbōwroom</td><td>el-bow-room</td><td>el-bōw-room</td><td>n. room to extend the elbows on each side; ample room for motion or action</td></tr>
 <tr><td>newsroom</td><td>new̄ṡroom</td><td>new-s-room</td><td>new̄-ṡ-room</td><td>n. the office where journalists work to prepare news</td></tr>
@@ -1334,16 +1334,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>roosters</td><td>rooste̊rṡ</td><td>roost-er-s</td><td>roost-e̊r-ṡ</td><td></td></tr>
 <tr><td>root</td><td>root</td><td>root</td><td>root</td><td>n. the part of a plant that attaches it to the ground<br>n. the basic cause or origin of something<br>v. cause a plant to grow roots</td></tr>
 <tr><td>rootball</td><td>rootbãll</td><td>root-ball</td><td>root-bãll</td><td>n. the mass of roots and soil that surrounds a plant when it is dug up</td></tr>
-<tr><td>rooted</td><td>root𝕖d</td><td>root-ed</td><td>root-𝕖d</td><td>a. firmly established</td></tr>
+<tr><td>rooted</td><td>rootėd</td><td>root-ed</td><td>root-ėd</td><td>a. firmly established</td></tr>
 <tr><td>rooter</td><td>roote̊r</td><td>root-er</td><td>root-e̊r</td><td>n. an enthusiastic devotee of sports</td></tr>
 <tr><td>rooting</td><td>rooting</td><td>root-ing</td><td>root-ing</td><td>n. the process of putting forth roots and beginning to grow</td></tr>
-<tr><td>rootless</td><td>rootle̊ss</td><td>root-less</td><td>root-le̊ss</td><td>a. wandering aimlessly without ties to a place or community</td></tr>
+<tr><td>rootless</td><td>rootlėss</td><td>root-less</td><td>root-lėss</td><td>a. wandering aimlessly without ties to a place or community</td></tr>
 <tr><td>rootlet</td><td>rootlėt</td><td>root-let</td><td>root-lėt</td><td>n. small root or division of a root</td></tr>
 <tr><td>roots</td><td>roots</td><td>root-s</td><td>root-s</td><td></td></tr>
 <tr><td>rootstock</td><td>rootstock</td><td>root-stock</td><td>root-stock</td><td>n. a root used for plant propagation; the part of a grafted plant that supplies the roots</td></tr>
 <tr><td>rootworm</td><td>rootwo̊rm</td><td>root-worm</td><td>root-wo̊rm</td><td>n. a worm or larva that feeds on the roots of plants</td></tr>
 <tr><td>rooty</td><td>rootẏ</td><td>root-y</td><td>root-ẏ</td><td>a. full of roots</td></tr>
-<tr><td>rootedness</td><td>rootėdne̊ss</td><td>root-ed-ness</td><td>root-ėd-ne̊ss</td><td>n. the state of having deep roots; firmly established</td></tr>
+<tr><td>rootedness</td><td>rootėdnėss</td><td>root-ed-ness</td><td>root-ėd-nėss</td><td>n. the state of having deep roots; firmly established</td></tr>
 <tr><td>rootlessness</td><td>rootlėssnėss</td><td>root-less-ness</td><td>root-lėss-nėss</td><td>n. the state of having no roots or ties to a place</td></tr>
 <tr><td>rootsy</td><td>rootsẏ</td><td>root-s-y</td><td>root-s-ẏ</td><td>a. having an earthy, traditional quality</td></tr>
 <tr><td>uproot</td><td>ûproot</td><td>up-root</td><td>ûp-root</td><td>v. to pull up by the roots<br>v. to destroy completely</td></tr>
@@ -1356,29 +1356,29 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>roper</td><td>rōpe̊r</td><td>rop-er</td><td>rōp-e̊r</td><td>n. a cowboy who uses a lasso to rope cattle</td></tr>
 <tr><td>roping</td><td>rōping</td><td>rop-ing</td><td>rōp-ing</td><td>n. capturing cattle or horses with a lasso</td></tr>
 <tr><td>ropes</td><td>rōp𝕖s</td><td>rope-s</td><td>rōp𝕖-s</td><td></td></tr>
-<tr><td>ropeway</td><td>rōpewāy</td><td>rope-way</td><td>rōpe-wāy</td><td>n. a transportation system using cables</td></tr>
+<tr><td>ropeway</td><td>rōp𝕖wāy</td><td>rope-way</td><td>rōp𝕖-wāy</td><td>n. a transportation system using cables</td></tr>
 <tr><td>ropy</td><td>rōpẏ</td><td>rop-y</td><td>rōp-ẏ</td><td>a. of or resembling rope in being long and strong<br>a. forming viscous or glutinous threads</td></tr>
-<tr><td>ropey</td><td>ro̊pėy</td><td>rope-y</td><td>ro̊pė-y</td><td>a. (British informal) very poor in quality</td></tr>
+<tr><td>ropey</td><td>rōpėy</td><td>rope-y</td><td>rōpė-y</td><td>a. (British informal) very poor in quality</td></tr>
 <tr><td>rose</td><td>rōṡe</td><td>rose</td><td>rōṡe</td><td>n. a fragrant flowering shrub of the genus Rosa<br>n. a light pink color</td></tr>
 <tr><td>rosacea</td><td>rōṡācėå</td><td>ros-acea</td><td>rōṡ-ācėå</td><td>n. a skin disease of adults in which blood vessels of the face enlarge</td></tr>
 <tr><td>rosary</td><td>rōṡårẏ</td><td>ros-ary</td><td>rōṡ-årẏ</td><td>n. a string of beads used in praying (especially by Roman Catholics)</td></tr>
-<tr><td>roseate</td><td>rōṡēate</td><td>rose-ate</td><td>rōṡē-ate</td><td>a. having a dusty purplish pink color</td></tr>
+<tr><td>roseate</td><td>rōṡėåte</td><td>rose-ate</td><td>rōṡė-åte</td><td>a. having a dusty purplish pink color</td></tr>
 <tr><td>rosebud</td><td>rōṡ𝕖bûd</td><td>rose-bud</td><td>rōṡ𝕖-bûd</td><td>n. the bud of a rose</td></tr>
 <tr><td>rosebush</td><td>rōṡ𝕖bùsh</td><td>rose-bush</td><td>rōṡ𝕖-bùsh</td><td>n. any of many shrubs of the genus Rosa that bear roses</td></tr>
-<tr><td>rosette</td><td>ro̊sette</td><td>ros-ette</td><td>ro̊s-ette</td><td>n. an ornament resembling a rose; leaves growing in circles from a common center</td></tr>
-<tr><td>rosemary</td><td>rōṡ𝕖marẏ</td><td>rose-mary</td><td>rōṡ𝕖-marẏ</td><td>n. a fragrant herb used in cooking</td></tr>
+<tr><td>rosette</td><td>rōṡette</td><td>ros-ette</td><td>rōṡ-ette</td><td>n. an ornament resembling a rose; leaves growing in circles from a common center</td></tr>
+<tr><td>rosemary</td><td>rōṡ𝕖mårẏ</td><td>rose-mary</td><td>rōṡ𝕖-mårẏ</td><td>n. a fragrant herb used in cooking</td></tr>
 <tr><td>roses</td><td>rōṡėṡ</td><td>rose-s</td><td>rōṡė-ṡ</td><td></td></tr>
-<tr><td>rosewood</td><td>rōṡewood</td><td>rose-wood</td><td>rōṡe-wood</td><td>n. a valuable dark reddish wood used for making furniture</td></tr>
+<tr><td>rosewood</td><td>rōṡ𝕖wood</td><td>rose-wood</td><td>rōṡ𝕖-wood</td><td>n. a valuable dark reddish wood used for making furniture</td></tr>
 <tr><td>rosy</td><td>rōṡẏ</td><td>ros-y</td><td>rōṡ-ẏ</td><td>a. having the pinkish flush of health<br>a. reflecting optimism</td></tr>
 <tr><td>corrosion</td><td>co̊rrōsio̊n</td><td>cor-ros-ion</td><td>co̊r-rōs-io̊n</td><td>n. the process of gradual destruction by chemical action</td></tr>
 <tr><td>corrosive</td><td>co̊rrōsive</td><td>cor-ros-ive</td><td>co̊r-rōs-ive</td><td>n. a substance that causes corrosion<br>a. eating away gradually; sarcastic</td></tr>
 <tr><td>erose</td><td>ėrōse</td><td>e-rose</td><td>ė-rōse</td><td></td></tr>
 <tr><td>erosion</td><td>ėrōsio̊n</td><td>e-ros-ion</td><td>ė-rōs-io̊n</td><td>n. the gradual wearing away of land by water or wind<br>n. a gradual decline of something</td></tr>
-<tr><td>erosive</td><td>ērōsive</td><td>e-ros-ive</td><td>ē-rōs-ive</td><td>a. wearing away by friction</td></tr>
-<tr><td>erosional</td><td>ērōsio̊nål</td><td>e-ros-ion-al</td><td>ē-rōs-io̊n-ål</td><td>a. relating to or caused by erosion</td></tr>
-<tr><td>Rosalyn</td><td>Roṡålẏn</td><td>Rosalyn</td><td>Roṡålẏn</td><td>n. a female given name</td></tr>
-<tr><td>rosicrucian</td><td>rōṡicrùciån</td><td>rosi-cruc-ian</td><td>rōṡi-crùc-iån</td><td>n. a member of a secret society devoted to metaphysical and mystical study</td></tr>
-<tr><td>rosin</td><td>roṡi̊n</td><td>rosin</td><td>roṡi̊n</td><td>v. rub rosin onto</td></tr>
+<tr><td>erosive</td><td>ėrōsive</td><td>e-ros-ive</td><td>ė-rōs-ive</td><td>a. wearing away by friction</td></tr>
+<tr><td>erosional</td><td>ėrōsio̊nål</td><td>e-ros-ion-al</td><td>ė-rōs-io̊n-ål</td><td>a. relating to or caused by erosion</td></tr>
+<tr><td>Rosalyn</td><td>Rōṡålẏn</td><td>Rosalyn</td><td>Rōṡålẏn</td><td>n. a female given name</td></tr>
+<tr><td>rosicrucian</td><td>rōṡicrūciån</td><td>rosi-cruc-ian</td><td>rōṡi-crūc-iån</td><td>n. a member of a secret society devoted to metaphysical and mystical study</td></tr>
+<tr><td>rosin</td><td>roṡin</td><td>rosin</td><td>roṡin</td><td>v. rub rosin onto</td></tr>
 <tr><td>roster</td><td>roste̊r</td><td>rost-er</td><td>rost-e̊r</td><td>n. a list of people&#x27;s names</td></tr>
 <tr><td>rostrum</td><td>rostrům</td><td>rostr-um</td><td>rostr-ům</td><td>n. a platform raised above the surrounding level to give prominence to the person on it</td></tr>
 <tr><td>rot</td><td>rot</td><td>rot</td><td>rot</td><td>n. the process of decaying<br>v. decay or cause to decay</td></tr>
@@ -1395,7 +1395,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rotated</td><td>rōtātėd</td><td>rot-at-ed</td><td>rōt-āt-ėd</td><td>v. turn in a circle around an axis</td></tr>
 <tr><td>rottener</td><td>rotte̊ne̊r</td><td>rott-en-er</td><td>rott-e̊n-e̊r</td><td></td></tr>
 <tr><td>rottenest</td><td>rotte̊nėst</td><td>rott-en-est</td><td>rott-e̊n-ėst</td><td></td></tr>
-<tr><td>rotisserie</td><td>rōtisse̊riē</td><td>rot-iss-erie</td><td>rōt-iss-e̊riē</td><td>n. an oven equipped with a rotating spit on which meat cooks as it turns</td></tr>
+<tr><td>rotisserie</td><td>rōtisse̊rie</td><td>rot-iss-erie</td><td>rōt-iss-e̊rie</td><td>n. an oven equipped with a rotating spit on which meat cooks as it turns</td></tr>
 <tr><td>rototiller</td><td>rōto̊tille̊r</td><td>roto-till-er</td><td>rōto̊-till-e̊r</td><td>n. a motorized cultivator with rotating blades for breaking up soil</td></tr>
 <tr><td>rotifer</td><td>rōtife̊r</td><td>rot-i-fer</td><td>rōt-i-fe̊r</td><td>n. a minute aquatic organism with a ciliated wheel-like organ for feeding and locomotion</td></tr>
 <tr><td>rotating</td><td>rōtāting</td><td>rot-at-ing</td><td>rōt-āt-ing</td><td>a. turning on or around an axis</td></tr>
@@ -1410,7 +1410,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rotund</td><td>rōtûnd</td><td>rotund</td><td>rōtûnd</td><td>a. spherical in shape</td></tr>
 <tr><td>rotunda</td><td>rōtûndå</td><td>rotund-a</td><td>rōtûnd-å</td><td>n. a large circular room or building</td></tr>
 <tr><td>rouge</td><td>roūge</td><td>rouge</td><td>roūge</td><td>n. makeup consisting of a pink or red powder applied to the cheeks<br>v. redden by applying rouge to</td></tr>
-<tr><td>rouged</td><td>roùg𝕖d</td><td>roug-ed</td><td>roùg-𝕖d</td><td>a. marked by the use of red makeup</td></tr>
+<tr><td>rouged</td><td>roūg𝕖d</td><td>roug-ed</td><td>roūg-𝕖d</td><td>a. marked by the use of red makeup</td></tr>
 <tr><td>rough</td><td>rôugh</td><td>rough</td><td>rôugh</td><td>a. having or caused by an irregular surface<br>a. (of persons or behavior) lacking refinement or finesse<br>n. the part of a golf course bordering the fairway where the grass is not cut short<br>v. prepare in preliminary or sketchy form</td></tr>
 <tr><td>roughage</td><td>rôughȧge</td><td>rough-age</td><td>rôugh-ȧge</td><td>n. coarse, indigestible plant food that stimulates intestinal peristalsis</td></tr>
 <tr><td>roughen</td><td>rôughe̊n</td><td>rough-en</td><td>rôugh-e̊n</td><td>v. make rough or rougher</td></tr>
@@ -1419,16 +1419,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>roughhouse</td><td>rôughhòuse</td><td>rough-house</td><td>rôugh-hòuse</td><td>n. violent or rowdy behavior<br>v. engage in rough or disorderly play</td></tr>
 <tr><td>roughly</td><td>rôughlẏ</td><td>rough-ly</td><td>rôugh-lẏ</td><td>adv. (of quantities) imprecise but fairly close to correct<br>adv. with rough motion as over a rough surface</td></tr>
 <tr><td>roughneck</td><td>rôughneck</td><td>rough-neck</td><td>rôugh-neck</td><td>n. a cruel and brutal fellow</td></tr>
-<tr><td>roughness</td><td>rôughne̊ss</td><td>rough-ness</td><td>rôugh-ne̊ss</td><td>n. a texture of a surface or edge that is not smooth but is irregular and uneven<br>n. harsh or severe speech or behavior</td></tr>
+<tr><td>roughness</td><td>rôughnėss</td><td>rough-ness</td><td>rôugh-nėss</td><td>n. a texture of a surface or edge that is not smooth but is irregular and uneven<br>n. harsh or severe speech or behavior</td></tr>
 <tr><td>roughshod</td><td>rôughshod</td><td>rough-shod</td><td>rôugh-shod</td><td>a. (of a horse) having horseshoes with projecting nails to prevent slipping</td></tr>
 <tr><td>roughened</td><td>rôughe̊n𝕖d</td><td>rough-en-ed</td><td>rôugh-e̊n-𝕖d</td><td>a. used of skin roughened as a result of cold or exposure</td></tr>
 <tr><td>rouille</td><td>roūille</td><td>rouille</td><td>roūille</td><td>n. a spicy garlic and chili pepper sauce from Provence</td></tr>
-<tr><td>roulade</td><td>roùlàde</td><td>roul-ade</td><td>roùl-àde</td><td>n. a dish consisting of a slice of meat rolled around a filling<br>n. an elaborate run of several notes sung to one syllable</td></tr>
-<tr><td>roulette</td><td>roùlette</td><td>roul-ette</td><td>roùl-ette</td><td>n. a line generated by a point on one figure rolling around another<br>n. a wheel with teeth for making perforations<br>n. a gambling game betting on where a ball lands in a revolving wheel</td></tr>
+<tr><td>roulade</td><td>roūlāde</td><td>roul-ade</td><td>roūl-āde</td><td>n. a dish consisting of a slice of meat rolled around a filling<br>n. an elaborate run of several notes sung to one syllable</td></tr>
+<tr><td>roulette</td><td>roūlette</td><td>roul-ette</td><td>roūl-ette</td><td>n. a line generated by a point on one figure rolling around another<br>n. a wheel with teeth for making perforations<br>n. a gambling game betting on where a ball lands in a revolving wheel</td></tr>
 <tr><td>round</td><td>ròund</td><td>round</td><td>ròund</td><td>n. a charge of ammunition for a single shot<br>n. a regular journey for some purpose<br>prep. so as to form a circle<br>a. having a circular shape</td></tr>
 <tr><td>roundabout</td><td>ròundåbòut</td><td>round-about</td><td>ròund-åbòut</td><td>n. a road junction at which traffic flows circularly around a central island<br>a. not direct; deviating from a straight course</td></tr>
-<tr><td>rounded</td><td>ròund𝕖d</td><td>round-ed</td><td>ròund-𝕖d</td><td>a. curving and somewhat round in shape rather than jagged</td></tr>
-<tr><td>roundel</td><td>ròundel</td><td>round-el</td><td>ròund-el</td><td>n. English form of rondeau having three triplets with a refrain after the first and third<br>n. round piece of armor plate that protects the armpit</td></tr>
+<tr><td>rounded</td><td>ròundėd</td><td>round-ed</td><td>ròund-ėd</td><td>a. curving and somewhat round in shape rather than jagged</td></tr>
+<tr><td>roundel</td><td>ròunde̊l</td><td>round-el</td><td>ròund-e̊l</td><td>n. English form of rondeau having three triplets with a refrain after the first and third<br>n. round piece of armor plate that protects the armpit</td></tr>
 <tr><td>rounder</td><td>ròunde̊r</td><td>round-er</td><td>ròund-e̊r</td><td>n. a tool for rounding corners or edges</td></tr>
 <tr><td>roundest</td><td>ròundėst</td><td>round-est</td><td>ròund-ėst</td><td></td></tr>
 <tr><td>roundhouse</td><td>ròundhòuse</td><td>round-house</td><td>ròund-hòuse</td><td>n. workplace consisting of a circular building for repairing locomotives<br>n. a hook delivered with an exaggerated swing</td></tr>
@@ -1443,8 +1443,8 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rounders</td><td>ròunde̊rṡ</td><td>round-er-s</td><td>ròund-e̊r-ṡ</td><td>n. an English ball game similar to baseball</td></tr>
 <tr><td>around</td><td>åròund</td><td>a-round</td><td>å-ròund</td><td>prep. on all sides of; about; approximately<br>adv. in a circle; nearby; in the vicinity</td></tr>
 <tr><td>surround</td><td>sůrròund</td><td>sur-round</td><td>sůr-ròund</td><td>v. extend on all sides of simultaneously; encircle</td></tr>
-<tr><td>surrounded</td><td>surròund𝕖d</td><td>sur-round-ed</td><td>sur-ròund-𝕖d</td><td>a. confined on all sides</td></tr>
-<tr><td>surrounding</td><td>surròunding</td><td>sur-round-ing</td><td>sur-ròund-ing</td><td>a. that is around something<br>n. the area around a place</td></tr>
+<tr><td>surrounded</td><td>sůrròundėd</td><td>sur-round-ed</td><td>sůr-ròund-ėd</td><td>a. confined on all sides</td></tr>
+<tr><td>surrounding</td><td>sůrròunding</td><td>sur-round-ing</td><td>sůr-ròund-ing</td><td>a. that is around something<br>n. the area around a place</td></tr>
 <tr><td>surrounds</td><td>surròundṡ</td><td>sur-round-s</td><td>sur-ròund-ṡ</td><td></td></tr>
 <tr><td>surroundings</td><td>sůrròundingṡ</td><td>sur-round-ing-s</td><td>sůr-ròund-ing-ṡ</td><td>n. the conditions or environment in which someone or something exists</td></tr>
 <tr><td>rouse</td><td>ròuṡe</td><td>rouse</td><td>ròuṡe</td><td>v. to wake someone up<br>v. to stir up or excite</td></tr>
@@ -1458,18 +1458,18 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>roustabout</td><td>ròuståbòut</td><td>roust-about</td><td>ròust-åbòut</td><td>n. a member of a ship&#x27;s crew who performs manual labor</td></tr>
 <tr><td>rout</td><td>ròut</td><td>rout</td><td>ròut</td><td>n. an overwhelming defeat<br>v. to cause to flee</td></tr>
 <tr><td>route</td><td>roūte</td><td>route</td><td>roūte</td><td>n. a way or course taken to get from one place to another<br>v. send along a specified course</td></tr>
-<tr><td>routed</td><td>roùtėd</td><td>rout-ed</td><td>roùt-ėd</td><td>v. defeat disastrously</td></tr>
-<tr><td>router</td><td>roùte̊r</td><td>rout-er</td><td>roùt-e̊r</td><td>n. a device that forwards data between networks; a woodworking tool</td></tr>
+<tr><td>routed</td><td>ròutėd</td><td>rout-ed</td><td>ròut-ėd</td><td>v. defeat disastrously</td></tr>
+<tr><td>router</td><td>roūte̊r</td><td>rout-er</td><td>roūt-e̊r</td><td>n. a device that forwards data between networks; a woodworking tool</td></tr>
 <tr><td>routine</td><td>roūtĩne</td><td>rout-ine</td><td>roūt-ĩne</td><td>n. an unvarying or habitual method or procedure<br>a. occurring at fixed times or regular intervals</td></tr>
 <tr><td>routing</td><td>ròuting</td><td>rout-ing</td><td>ròut-ing</td><td>n. the act of sending someone or something to a particular destination<br>v. send via a specific route</td></tr>
 <tr><td>routes</td><td>roūt𝕖s</td><td>route-s</td><td>roūt𝕖-s</td><td></td></tr>
 <tr><td>routinely</td><td>roūtĩn𝕖lẏ</td><td>rout-ine-ly</td><td>roūt-ĩn𝕖-lẏ</td><td>adv. according to routine or established practice</td></tr>
 <tr><td>routines</td><td>roūtĩn𝕖ṡ</td><td>rout-ine-s</td><td>roūt-ĩn𝕖-ṡ</td><td></td></tr>
-<tr><td>routinized</td><td>roùtinīz𝕖d</td><td>rout-in-iz-ed</td><td>roùt-in-īz-𝕖d</td><td>a. made routine or habitual</td></tr>
-<tr><td>routinization</td><td>roùtĩnīzātio̊n</td><td>rout-in-iz-at-ion</td><td>roùt-ĩn-īz-āt-io̊n</td><td>n. the act of making something routine or standard</td></tr>
-<tr><td>nonroutine</td><td>nonroùtĩne</td><td>non-rout-ine</td><td>non-roùt-ĩne</td><td>a. not routine or customary</td></tr>
-<tr><td>rerouting</td><td>rēroùting</td><td>re-rout-ing</td><td>rē-roùt-ing</td><td>n. the process of routing again or differently</td></tr>
-<tr><td>subroutine</td><td>sûbroùtĩne</td><td>sub-rout-ine</td><td>sûb-roùt-ĩne</td><td>n. a set sequence of steps, part of a larger computer program</td></tr>
+<tr><td>routinized</td><td>roūtinīz𝕖d</td><td>rout-in-iz-ed</td><td>roūt-in-īz-𝕖d</td><td>a. made routine or habitual</td></tr>
+<tr><td>routinization</td><td>roūtinīzātio̊n</td><td>rout-in-iz-at-ion</td><td>roūt-in-īz-āt-io̊n</td><td>n. the act of making something routine or standard</td></tr>
+<tr><td>nonroutine</td><td>nonroūtĩne</td><td>non-rout-ine</td><td>non-roūt-ĩne</td><td>a. not routine or customary</td></tr>
+<tr><td>rerouting</td><td>rėroūting</td><td>re-rout-ing</td><td>rė-roūt-ing</td><td>n. the process of routing again or differently</td></tr>
+<tr><td>subroutine</td><td>sûbroūtĩne</td><td>sub-rout-ine</td><td>sûb-roūt-ĩne</td><td>n. a set sequence of steps, part of a larger computer program</td></tr>
 <tr><td>roux</td><td>roū𝕩</td><td>roux</td><td>roū𝕩</td><td>n. a mixture of fat and flour heated and used as a basis for sauces</td></tr>
 <tr><td>rove</td><td>rōve</td><td>rove</td><td>rōve</td><td>v. move about aimlessly or without any destination<br>v. pass a rope through</td></tr>
 <tr><td>rover</td><td>rōve̊r</td><td>rov-er</td><td>rōv-e̊r</td><td>n. a person who wanders from place to place</td></tr>
@@ -1482,22 +1482,22 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rowhouse</td><td>rōwhòuse</td><td>row-house</td><td>rōw-hòuse</td><td>n. a house that is one of a row of similar houses joined on both sides</td></tr>
 <tr><td>rowing</td><td>rōwing</td><td>row-ing</td><td>rōw-ing</td><td>n. the act of rowing as a sport</td></tr>
 <tr><td>rows</td><td>rōwṡ</td><td>row-s</td><td>rōw-ṡ</td><td></td></tr>
-<tr><td>rowdie</td><td>rōwdīe</td><td>rowd-ie</td><td>rōwd-īe</td><td>n. a hooligan or rough person</td></tr>
+<tr><td>rowdie</td><td>ròwdie</td><td>rowd-ie</td><td>ròwd-ie</td><td>n. a hooligan or rough person</td></tr>
 <tr><td>rowdy</td><td>ròwdẏ</td><td>rowd-y</td><td>ròwd-ẏ</td><td>a. noisy and disorderly<br>n. a noisy rough person</td></tr>
-<tr><td>rowdiness</td><td>ròwdine̊ss</td><td>rowd-i-ness</td><td>ròwd-i-ne̊ss</td><td>n. rowdy behavior</td></tr>
+<tr><td>rowdiness</td><td>ròwdinėss</td><td>rowd-i-ness</td><td>ròwd-i-nėss</td><td>n. rowdy behavior</td></tr>
 <tr><td>royal</td><td>roẏål</td><td>roy-al</td><td>roẏ-ål</td><td>a. relating to a king or queen<br>a. of excellent quality; magnificent</td></tr>
 <tr><td>royalist</td><td>roẏålist</td><td>roy-al-ist</td><td>roẏ-ål-ist</td><td>n. an advocate of the principles of monarchy</td></tr>
 <tr><td>royally</td><td>roẏållẏ</td><td>roy-al-ly</td><td>roẏ-ål-lẏ</td><td>adv. in a royal manner</td></tr>
 <tr><td>royalty</td><td>roẏåltẏ</td><td>roy-al-ty</td><td>roẏ-ål-tẏ</td><td>n. members of a royal family<br>n. a payment made for the right to use property</td></tr>
-<tr><td>haemorrhagic</td><td>h𝕒èmo̊rr𝕙ȧgic</td><td>haem-o-rrhag-ic</td><td>h𝕒èm-o̊-rr𝕙ȧg-ic</td><td>a. of or relating to a hemorrhage</td></tr>
+<tr><td>haemorrhagic</td><td>h𝕒emo̊rr𝕙agic</td><td>haem-o-rrhag-ic</td><td>h𝕒em-o̊-rr𝕙ag-ic</td><td>a. of or relating to a hemorrhage</td></tr>
 <tr><td>diarrhea</td><td>dīårr𝕙ēå</td><td>di-a-rrhea</td><td>dī-å-rr𝕙ēå</td><td>n. frequent and watery bowel movements</td></tr>
 <tr><td>diarrheal</td><td>dīårr𝕙ēål</td><td>di-a-rrhe-al</td><td>dī-å-rr𝕙ē-ål</td><td>a. of or relating to diarrhea</td></tr>
 <tr><td>diarrheas</td><td>dīårr𝕙ēåṡ</td><td>di-a-rrhea-s</td><td>dī-å-rr𝕙ēå-ṡ</td><td></td></tr>
-<tr><td>gonorrhea</td><td>gono̊rr𝕙ēa</td><td>gon-o-rrhea</td><td>gon-o̊-rr𝕙ēa</td><td>n. a venereal disease caused by the bacterium Neisseria gonorrhoeae</td></tr>
+<tr><td>gonorrhea</td><td>gono̊rr𝕙ēå</td><td>gon-o-rrhea</td><td>gon-o̊-rr𝕙ēå</td><td>n. a venereal disease caused by the bacterium Neisseria gonorrhoeae</td></tr>
 <tr><td>otorrhea</td><td>ōto̊rr𝕙ēå</td><td>ot-o-rrhea</td><td>ōt-o̊-rr𝕙ēå</td><td>n. discharge from the external ear</td></tr>
 <tr><td>rhinorrhea</td><td>r𝕙īno̊rr𝕙ēå</td><td>rhin-o-rrhea</td><td>r𝕙īn-o̊-rr𝕙ēå</td><td>n. persistent watery mucus discharge from the nose</td></tr>
 <tr><td>RSVP</td><td></td><td>RSVP</td><td></td><td>abbr. please reply (French)</td></tr>
-<tr><td>ruination</td><td>rùinātio̊n</td><td>ru-in-at-ion</td><td>rù-in-āt-io̊n</td><td>n. an irrecoverable state of devastation and destruction</td></tr>
+<tr><td>ruination</td><td>rūinātio̊n</td><td>ru-in-at-ion</td><td>rū-in-āt-io̊n</td><td>n. an irrecoverable state of devastation and destruction</td></tr>
 <tr><td>rub</td><td>rûb</td><td>rub</td><td>rûb</td><td>n. the act of rubbing or wiping<br>v. move over something with pressure<br>v. cause friction</td></tr>
 <tr><td>rubdown</td><td>rûbdòwn</td><td>rub-down</td><td>rûb-dòwn</td><td>n. the act of rubbing down, usually for relaxation or medicinal purposes</td></tr>
 <tr><td>rubbed</td><td>rûbb𝕖d</td><td>rubb-ed</td><td>rûbb-𝕖d</td><td></td></tr>
@@ -1522,20 +1522,20 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rubrum</td><td>rūbrům</td><td>rubr-um</td><td>rūbr-ům</td><td>n. a Latin word meaning red, used in biological nomenclature</td></tr>
 <tr><td>ruched</td><td>rūċh𝕖ḋ</td><td>ruch-ed</td><td>rūċh-𝕖ḋ</td><td>a. having a gathered ruffle or pleat</td></tr>
 <tr><td>ruck</td><td>rûck</td><td>ruck</td><td>rûck</td><td>n. a crowd especially of ordinary or undistinguished persons or things</td></tr>
-<tr><td>ruckus</td><td>rûckûs</td><td>ruckus</td><td>rûckûs</td><td>n. the act of making a noisy disturbance</td></tr>
+<tr><td>ruckus</td><td>rûckůs</td><td>ruckus</td><td>rûckůs</td><td>n. the act of making a noisy disturbance</td></tr>
 <tr><td>rude</td><td>rūde</td><td>rude</td><td>rūde</td><td>a. offensively impolite or bad-mannered<br>a. roughly or crudely made</td></tr>
 <tr><td>ruder</td><td>rūde̊r</td><td>rud-er</td><td>rūd-e̊r</td><td></td></tr>
 <tr><td>rudest</td><td>rūdėst</td><td>rud-est</td><td>rūd-ėst</td><td></td></tr>
 <tr><td>rudely</td><td>rūd𝕖lẏ</td><td>rude-ly</td><td>rūd𝕖-lẏ</td><td>adv. in an impolite manner</td></tr>
 <tr><td>rudiment</td><td>rūdime̊nt</td><td>rudi-ment</td><td>rūdi-me̊nt</td><td>n. the elementary stages of any subject<br>n. the remains of a body part that was functional at an earlier stage of life</td></tr>
 <tr><td>rudeness</td><td>rūd𝕖nėss</td><td>rude-ness</td><td>rūd𝕖-nėss</td><td>n a manner that is rude and insulting<br>n a wild or unrefined state</td></tr>
-<tr><td>rudimentary</td><td>rūdi̊mentårẏ</td><td>rudi-ment-ary</td><td>rūdi̊-ment-årẏ</td><td>a. being in the earliest stages of development; basic</td></tr>
+<tr><td>rudimentary</td><td>rūdimentårẏ</td><td>rudi-ment-ary</td><td>rūdi-ment-årẏ</td><td>a. being in the earliest stages of development; basic</td></tr>
 <tr><td>rudiments</td><td>rūdime̊nts</td><td>rudi-ment-s</td><td>rūdi-me̊nt-s</td><td>n. the first principles of a subject</td></tr>
-<tr><td>erudite</td><td>èrūdīte</td><td>e-rud-ite</td><td>è-rūd-īte</td><td>a. having or showing profound knowledge</td></tr>
-<tr><td>erudition</td><td>èrūditio̊n</td><td>e-rud-it-ion</td><td>è-rūd-it-io̊n</td><td>n. profound scholarly knowledge</td></tr>
+<tr><td>erudite</td><td>erūdīte</td><td>e-rud-ite</td><td>e-rūd-īte</td><td>a. having or showing profound knowledge</td></tr>
+<tr><td>erudition</td><td>erūditio̊n</td><td>e-rud-it-ion</td><td>e-rūd-it-io̊n</td><td>n. profound scholarly knowledge</td></tr>
 <tr><td>rudder</td><td>rûdde̊r</td><td>rudd-er</td><td>rûdd-e̊r</td><td>n. a hinged airfoil at the tail of an aircraft for horizontal course changes<br>n. a hinged vertical plate at the stern for steering a vessel</td></tr>
 <tr><td>ruddy</td><td>rûddẏ</td><td>rudd-y</td><td>rûdd-ẏ</td><td>a. inclined to a healthy reddish color</td></tr>
-<tr><td>rudderless</td><td>rûdde̊rle̊ss</td><td>rudd-er-less</td><td>rûdd-e̊r-le̊ss</td><td>a. aimlessly drifting</td></tr>
+<tr><td>rudderless</td><td>rûdde̊rlėss</td><td>rudd-er-less</td><td>rûdd-e̊r-lėss</td><td>a. aimlessly drifting</td></tr>
 <tr><td>rue</td><td>rūe</td><td>rue</td><td>rūe</td><td>n. a type of plant with bitter-tasting leaves<br>vt. to feel regret or remorse for</td></tr>
 <tr><td>rueful</td><td>rū𝕖fůl</td><td>rue-ful</td><td>rū𝕖-fůl</td><td>a. feeling or expressing pain or sorrow for sins or offenses</td></tr>
 <tr><td>ruefully</td><td>rū𝕖fůllẏ</td><td>rue-ful-ly</td><td>rū𝕖-fůl-lẏ</td><td>adv. in a rueful manner</td></tr>
@@ -1548,15 +1548,15 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>unruffled</td><td>ûnrûffl𝕖d</td><td>un-ruffl-ed</td><td>ûn-rûffl-𝕖d</td><td>a. free from emotional agitation or nervous tension<br>a. (of a body of water) free from disturbance by heavy waves</td></tr>
 <tr><td>rug</td><td>rûg</td><td>rug</td><td>rûg</td><td>n. floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)</td></tr>
 <tr><td>rugby</td><td>rûgbẏ</td><td>rug-by</td><td>rûg-bẏ</td><td>n. a form of football played with an oval ball</td></tr>
-<tr><td>rugged</td><td>rûgg𝕖d</td><td>rugg-ed</td><td>rûgg-𝕖d</td><td>a. having a rough uneven surface<br>a. strong and sturdy; able to endure difficult conditions</td></tr>
+<tr><td>rugged</td><td>rûggėd</td><td>rugg-ed</td><td>rûgg-ėd</td><td>a. having a rough uneven surface<br>a. strong and sturdy; able to endure difficult conditions</td></tr>
 <tr><td>rugger</td><td>rûgge̊r</td><td>rugg-er</td><td>rûgg-e̊r</td><td>n. rugby football (informal)</td></tr>
 <tr><td>rugs</td><td>rûgṡ</td><td>rug-s</td><td>rûg-ṡ</td><td></td></tr>
 <tr><td>ruggedize</td><td>rûggėdīze</td><td>rugg-ed-ize</td><td>rûgg-ėd-īze</td><td>vt. to make sturdy or durable</td></tr>
-<tr><td>ruggedly</td><td>rûgge̊dlẏ</td><td>rugg-ed-ly</td><td>rûgg-e̊d-lẏ</td><td>adv. in a rugged manner</td></tr>
+<tr><td>ruggedly</td><td>rûggėdlẏ</td><td>rugg-ed-ly</td><td>rûgg-ėd-lẏ</td><td>adv. in a rugged manner</td></tr>
 <tr><td>ruggedness</td><td>rûggėdnėss</td><td>rugg-ed-ness</td><td>rûgg-ėd-nėss</td><td>n. the quality of being uneven and rugged</td></tr>
 <tr><td>corrugate</td><td>corrůgāte</td><td>cor-rug-ate</td><td>cor-růg-āte</td><td>v. to fold or wrinkle into alternating ridges and grooves</td></tr>
-<tr><td>corrugated</td><td>corrůgāt𝕖d</td><td>cor-rug-at-ed</td><td>cor-růg-āt-𝕖d</td><td>a. shaped into parallel folds or ridges</td></tr>
-<tr><td>corrugation</td><td>corrùgātio̊n</td><td>cor-rug-at-ion</td><td>cor-rùg-āt-io̊n</td><td>n. a ridge on a corrugated surface</td></tr>
+<tr><td>corrugated</td><td>corrůgātėd</td><td>cor-rug-at-ed</td><td>cor-růg-āt-ėd</td><td>a. shaped into parallel folds or ridges</td></tr>
+<tr><td>corrugation</td><td>corrūgātio̊n</td><td>cor-rug-at-ion</td><td>cor-rūg-āt-io̊n</td><td>n. a ridge on a corrugated surface</td></tr>
 <tr><td>ruined</td><td>rūin𝕖d</td><td>ruin-ed</td><td>rūin-𝕖d</td><td>a. destroyed; brought to ruin</td></tr>
 <tr><td>ruin</td><td>rūin</td><td>ru-in</td><td>rū-in</td><td>n. the state of being destroyed<br>vt. cause great damage to</td></tr>
 <tr><td>ruinous</td><td>rūino̊us</td><td>ruin-ous</td><td>rūin-o̊us</td><td>a. extremely harmful; bringing physical or financial ruin</td></tr>
@@ -1586,14 +1586,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rumors</td><td>rūmo̊rṡ</td><td>rum-or-s</td><td>rūm-o̊r-ṡ</td><td></td></tr>
 <tr><td>rumba</td><td>rûmbå</td><td>rumba</td><td>rûmbå</td><td>n. a ballroom dance based on the Cuban folk dance<br>n. syncopated music for dancing the rumba</td></tr>
 <tr><td>rumen</td><td>rūme̊n</td><td>rumen</td><td>rūme̊n</td><td>n. the first stomach of a ruminant, where food is collected and returned as cud</td></tr>
-<tr><td>ruminant</td><td>rūmi̊nånt</td><td>rumin-ant</td><td>rūmi̊n-ånt</td><td>n. a cud-chewing hoofed mammal<br>a. relating to or characteristic of ruminants</td></tr>
+<tr><td>ruminant</td><td>rūminånt</td><td>rumin-ant</td><td>rūmin-ånt</td><td>n. a cud-chewing hoofed mammal<br>a. relating to or characteristic of ruminants</td></tr>
 <tr><td>ruminate</td><td>rūmināte</td><td>rumin-ate</td><td>rūmin-āte</td><td>v. to chew the cud<br>v. to think deeply about something</td></tr>
 <tr><td>rumination</td><td>rūminātio̊n</td><td>rumin-at-ion</td><td>rūmin-āt-io̊n</td><td>n. deep or careful thought<br>n. the act of chewing the cud</td></tr>
 <tr><td>ruminative</td><td>rūminåtive</td><td>rumin-at-ive</td><td>rūmin-åt-ive</td><td>a. deeply or seriously thoughtful</td></tr>
 <tr><td>rump</td><td>rûmp</td><td>rump</td><td>rûmp</td><td>n. fleshy hindquarters; behind the loin and above the round</td></tr>
 <tr><td>rumpled</td><td>rûmpl𝕖d</td><td>rumpl-ed</td><td>rûmpl-𝕖d</td><td>a. in disarray; extremely disorderly</td></tr>
 <tr><td>rumple</td><td>rûmple</td><td>rump-le</td><td>rûmp-le</td><td>v. to become wrinkled or crumpled</td></tr>
-<tr><td>rumpus</td><td>rûmpûs</td><td>rumpus</td><td>rûmpûs</td><td>n. a disturbance; a noisy argument</td></tr>
+<tr><td>rumpus</td><td>rûmpůs</td><td>rumpus</td><td>rûmpůs</td><td>n. a disturbance; a noisy argument</td></tr>
 <tr><td>run</td><td>rûn</td><td>run</td><td>rûn</td><td>v. to move swiftly on foot; to operate; to manage; to flow<br>n. an act of running; a continuous period</td></tr>
 <tr><td>rundown</td><td>rûndòwn</td><td>run-down</td><td>rûn-dòwn</td><td>n. a concluding summary</td></tr>
 <tr><td>runner</td><td>rûnne̊r</td><td>runn-er</td><td>rûnn-e̊r</td><td>n. a person who runs, especially in races</td></tr>
@@ -1612,16 +1612,16 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>runaway</td><td>rûnåwāy</td><td>run-a-way</td><td>rûn-å-wāy</td><td>n. a person who has run away<br>a. completely out of control</td></tr>
 <tr><td>forerunner</td><td>for𝕖rûnne̊r</td><td>fore-runn-er</td><td>for𝕖-rûnn-e̊r</td><td>n. a person or thing that precedes or announces another</td></tr>
 <tr><td>overrun</td><td>ōve̊rrûn</td><td>over-run</td><td>ōve̊r-rûn</td><td>v. to spread over in large numbers; to exceed a limit<br>n. the amount by which something exceeds its limit</td></tr>
-<tr><td>rerun</td><td>rērûn</td><td>re-run</td><td>rē-rûn</td><td>n. a program that is broadcast again<br>v. to broadcast again or run again</td></tr>
+<tr><td>rerun</td><td>rėrûn</td><td>re-run</td><td>rė-rûn</td><td>n. a program that is broadcast again<br>v. to broadcast again or run again</td></tr>
 <tr><td>ran</td><td>ran</td><td>ran</td><td>ran</td><td></td></tr>
 <tr><td>rune</td><td>rūne</td><td>rune</td><td>rūne</td><td>n. a character from an ancient Germanic alphabet used in Scandinavia until the Middle Ages</td></tr>
-<tr><td>runnel</td><td>rûnnel</td><td>runn-el</td><td>rûnn-el</td><td>n. a small stream</td></tr>
+<tr><td>runnel</td><td>rûnne̊l</td><td>runn-el</td><td>rûnn-e̊l</td><td>n. a small stream</td></tr>
 <tr><td>runt</td><td>rûnt</td><td>runt</td><td>rûnt</td><td>n. disparaging terms for small people</td></tr>
 <tr><td>rupture</td><td>rûptůre</td><td>rupt-ure</td><td>rûpt-ůre</td><td>n. a break or tear<br>v. to break or burst</td></tr>
 <tr><td>ruptured</td><td>rûptůr𝕖d</td><td>rupt-ur-ed</td><td>rûpt-ůr-𝕖d</td><td>a. broken or burst</td></tr>
 <tr><td>abrupt</td><td>åbrûpt</td><td>ab-rupt</td><td>åb-rûpt</td><td>a. markedly sudden and unexpected<br>a. extremely steep</td></tr>
 <tr><td>abruptly</td><td>åbrûptlẏ</td><td>ab-rupt-ly</td><td>åb-rûpt-lẏ</td><td>adv. quickly and without warning</td></tr>
-<tr><td>abruptness</td><td>åbrûptne̊ss</td><td>ab-rupt-ness</td><td>åb-rûpt-ne̊ss</td><td>n. the quality of happening suddenly and without warning<br>n. an abrupt discourteous manner</td></tr>
+<tr><td>abruptness</td><td>åbrûptnėss</td><td>ab-rupt-ness</td><td>åb-rûpt-nėss</td><td>n. the quality of happening suddenly and without warning<br>n. an abrupt discourteous manner</td></tr>
 <tr><td>corrupt</td><td>co̊rrûpt</td><td>cor-rupt</td><td>co̊r-rûpt</td><td>a. dishonest or immoral; containing errors<br>v. to cause to become dishonest or immoral</td></tr>
 <tr><td>corrupted</td><td>co̊rrûptėd</td><td>cor-rupt-ed</td><td>co̊r-rûpt-ėd</td><td>a. ruined in character or quality</td></tr>
 <tr><td>corruptible</td><td>co̊rrûptible</td><td>cor-rupt-ible</td><td>co̊r-rûpt-ible</td><td>a. capable of being corrupted</td></tr>
@@ -1636,13 +1636,13 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>disruptive</td><td>disrûptive</td><td>dis-rupt-ive</td><td>dis-rûpt-ive</td><td>a. characterized by unrest or disorder or insubordination</td></tr>
 <tr><td>disruptor</td><td>disrûpto̊r</td><td>dis-rupt-or</td><td>dis-rûpt-o̊r</td><td></td></tr>
 <tr><td>disruptiveness</td><td>disrûptiv𝕖nėss</td><td>dis-rupt-ive-ness</td><td>dis-rûpt-iv𝕖-nėss</td><td>n. the quality of being disruptive or causing disruption</td></tr>
-<tr><td>erupt</td><td>ērûpt</td><td>e-rupt</td><td>ē-rûpt</td><td>v. to burst forth suddenly and violently<br>v. to force out or release suddenly</td></tr>
-<tr><td>erupting</td><td>ērûpting</td><td>e-rupt-ing</td><td>ē-rûpt-ing</td><td>v. start abruptly<br>v. become active and spew forth lava and rocks</td></tr>
-<tr><td>eruption</td><td>ērûptio̊n</td><td>e-rupt-ion</td><td>ē-rûpt-io̊n</td><td>n. (of volcanos) pouring out fumes or lava<br>n. symptom consisting of a breaking out and becoming visible</td></tr>
-<tr><td>eruptive</td><td>ērûptive</td><td>e-rupt-ive</td><td>ē-rûpt-ive</td><td>a. producing or characterized by eruptions<br>a. actively spewing out lava</td></tr>
+<tr><td>erupt</td><td>ėrûpt</td><td>e-rupt</td><td>ė-rûpt</td><td>v. to burst forth suddenly and violently<br>v. to force out or release suddenly</td></tr>
+<tr><td>erupting</td><td>ėrûpting</td><td>e-rupt-ing</td><td>ė-rûpt-ing</td><td>v. start abruptly<br>v. become active and spew forth lava and rocks</td></tr>
+<tr><td>eruption</td><td>ėrûptio̊n</td><td>e-rupt-ion</td><td>ė-rûpt-io̊n</td><td>n. (of volcanos) pouring out fumes or lava<br>n. symptom consisting of a breaking out and becoming visible</td></tr>
+<tr><td>eruptive</td><td>ėrûptive</td><td>e-rupt-ive</td><td>ė-rûpt-ive</td><td>a. producing or characterized by eruptions<br>a. actively spewing out lava</td></tr>
 <tr><td>irruption</td><td>irrûptio̊n</td><td>ir-rupt-ion</td><td>ir-rûpt-io̊n</td><td>n. a sudden violent entrance; a bursting in<br>n. a sudden sharp increase in the relative numbers of a population</td></tr>
 <tr><td>incorruptible</td><td>inco̊rrûptible</td><td>in-cor-rupt-ible</td><td>in-co̊r-rûpt-ible</td><td>a. incapable of being morally corrupted</td></tr>
-<tr><td>incorruptibility</td><td>inco̊rrûpti̊bili̊tẏ</td><td>in-cor-rupt-ibil-ity</td><td>in-co̊r-rûpt-i̊bil-i̊tẏ</td><td>n. the incapability of being corrupted</td></tr>
+<tr><td>incorruptibility</td><td>inco̊rrûpti̊bilitẏ</td><td>in-cor-rupt-ibil-ity</td><td>in-co̊r-rûpt-i̊bil-itẏ</td><td>n. the incapability of being corrupted</td></tr>
 <tr><td>interrupt</td><td>inte̊rrûpt</td><td>in-ter-rupt</td><td>in-te̊r-rûpt</td><td>v. to stop someone from continuing what they are saying or doing</td></tr>
 <tr><td>interrupted</td><td>inte̊rrûptėd</td><td>in-ter-rupt-ed</td><td>in-te̊r-rûpt-ėd</td><td>a. discontinued temporarily</td></tr>
 <tr><td>interrupter</td><td>inte̊rrûpte̊r</td><td>in-ter-rupt-er</td><td>in-te̊r-rûpt-e̊r</td><td>n. a device for automatically interrupting an electric current</td></tr>
@@ -1655,7 +1655,7 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>uninterrupted</td><td>ûninte̊rrûptėd</td><td>un-in-ter-rupt-ed</td><td>ûn-in-te̊r-rûpt-ėd</td><td>a. having undisturbed continuity</td></tr>
 <tr><td>uninterruptedly</td><td>ûninte̊rrûptėdlẏ</td><td>un-in-ter-rupt-ed-ly</td><td>ûn-in-te̊r-rûpt-ėd-lẏ</td><td>adv. without interruption</td></tr>
 <tr><td>rural</td><td>rūrål</td><td>rur-al</td><td>rūr-ål</td><td>a. relating to the countryside rather than the town</td></tr>
-<tr><td>ruse</td><td>rūṡe</td><td>ruse</td><td>rūṡe</td><td>n. a deceptive maneuver especially to avoid capture</td></tr>
+<tr><td>ruse</td><td>rūse</td><td>ruse</td><td>rūse</td><td>n. a deceptive maneuver especially to avoid capture</td></tr>
 <tr><td>rush</td><td>rûsh</td><td>rush</td><td>rûsh</td><td>v. move with urgent haste<br>n. a sudden rapid movement<br>a. done in a hurry</td></tr>
 <tr><td>rushed</td><td>rûsh𝕖ḋ</td><td>rush-ed</td><td>rûsh-𝕖ḋ</td><td>v. move with haste<br>a. done under pressure</td></tr>
 <tr><td>rusher</td><td>rûshe̊r</td><td>rush-er</td><td>rûsh-e̊r</td><td>n. a person who rushes; someone in a hurry</td></tr>
@@ -1663,14 +1663,14 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rushing</td><td>rûshing</td><td>rush-ing</td><td>rûsh-ing</td><td>a. moving with great speed</td></tr>
 <tr><td>onrush</td><td>onrûsh</td><td>on-rush</td><td>on-rûsh</td><td>n. a forceful forward rush or flow</td></tr>
 <tr><td>onrushing</td><td>onrûshing</td><td>on-rush-ing</td><td>on-rûsh-ing</td><td>a. moving with great speed and force</td></tr>
-<tr><td>Russia</td><td>Rûṡsi̊å</td><td>Russia</td><td>Rûṡsi̊å</td><td>n. a country in eastern Europe and Asia</td></tr>
+<tr><td>Russia</td><td>Rûssiå</td><td>Russia</td><td>Rûssiå</td><td>n. a country in eastern Europe and Asia</td></tr>
 <tr><td>Russian</td><td>Rûssiån</td><td>Russ-ian</td><td>Rûss-iån</td><td>a. relating to Russia or its people or language<br>n. the language of Russia<br>n. a native or inhabitant of Russia</td></tr>
 <tr><td>Russians</td><td>Rûssiånṡ</td><td>Russ-ian-s</td><td>Rûss-iån-ṡ</td><td></td></tr>
-<tr><td>byelorussian</td><td>byelōrûssiån</td><td>byelo-russ-ian</td><td>byelō-rûss-iån</td><td>a. of or relating to Belarus or its people<br>n. a native or inhabitant of Belarus</td></tr>
-<tr><td>russet</td><td>rûssėt</td><td>russet</td><td>rûssėt</td><td>n. a reddish brown homespun fabric<br>a. of brown with a reddish tinge</td></tr>
-<tr><td>russian</td><td>rûṡsi̊ån</td><td></td><td></td><td>a. relating to Russia or its people or language<br>n. the language of Russia<br>n. a native or inhabitant of Russia</td></tr>
+<tr><td>byelorussian</td><td>bȳėlōrûssiån</td><td>byelo-russ-ian</td><td>bȳėlō-rûss-iån</td><td>a. of or relating to Belarus or its people<br>n. a native or inhabitant of Belarus</td></tr>
+<tr><td>russet</td><td>rûsset</td><td>russet</td><td>rûsset</td><td>n. a reddish brown homespun fabric<br>a. of brown with a reddish tinge</td></tr>
+<tr><td>russian</td><td>rûssiån</td><td></td><td></td><td>a. relating to Russia or its people or language<br>n. the language of Russia<br>n. a native or inhabitant of Russia</td></tr>
 <tr><td>rust</td><td>rûst</td><td>rust</td><td>rûst</td><td>n. a reddish-brown coating on iron caused by oxidation<br>v. become coated with rust</td></tr>
-<tr><td>rusted</td><td>rûst𝕖d</td><td>rust-ed</td><td>rûst-𝕖d</td><td>a. covered with rust; corroded</td></tr>
+<tr><td>rusted</td><td>rûstėd</td><td>rust-ed</td><td>rûst-ėd</td><td>a. covered with rust; corroded</td></tr>
 <tr><td>rustler</td><td>rûs𝕥le̊r</td><td>rustl-er</td><td>rûs𝕥l-e̊r</td><td>n. someone who steals livestock (especially cattle)</td></tr>
 <tr><td>rustic</td><td>rûstic</td><td>rust-ic</td><td>rûst-ic</td><td>n. an unsophisticated country person<br>a. of or relating to the countryside</td></tr>
 <tr><td>rusting</td><td>rûsting</td><td>rust-ing</td><td>rûst-ing</td><td>n. formation of reddish-brown ferric oxides on iron through oxidation in water</td></tr>
@@ -1685,11 +1685,11 @@ hreflang_langs: [en, zh, es, fr, de, vi, ru, ja, ko, ar]
 <tr><td>rut</td><td>rût</td><td>rut</td><td>rût</td><td>n. a deep track made by wheels; a fixed boring routine</td></tr>
 <tr><td>rutted</td><td>rûttėd</td><td>rutt-ed</td><td>rûtt-ėd</td><td>a. full of ruts</td></tr>
 <tr><td>rutting</td><td>rûtting</td><td>rutt-ing</td><td>rûtt-ing</td><td>v. be in a state of sexual excitement; of male mammals</td></tr>
-<tr><td>rutabaga</td><td>rūtåbāgå</td><td>rutabaga</td><td>rūtåbāgå</td><td>n. the large yellow root of a rutabaga plant used as food</td></tr>
+<tr><td>rutabaga</td><td>rūtåbàgå</td><td>rutabaga</td><td>rūtåbàgå</td><td>n. the large yellow root of a rutabaga plant used as food</td></tr>
 <tr><td>ruth</td><td>rūth</td><td>ruth</td><td>rūth</td><td></td></tr>
 <tr><td>ruthless</td><td>rūthlėss</td><td>ruth-less</td><td>rūth-lėss</td><td>a. having no pity or compassion</td></tr>
-<tr><td>ruthlessly</td><td>rūthle̊sslẏ</td><td>ruth-less-ly</td><td>rūth-le̊ss-lẏ</td><td>adv. in a ruthless manner</td></tr>
-<tr><td>ruthlessness</td><td>rūthle̊ssne̊ss</td><td>ruth-less-ness</td><td>rūth-le̊ss-ne̊ss</td><td>n. mercilessness characterized by a lack of pity</td></tr>
+<tr><td>ruthlessly</td><td>rūthlėsslẏ</td><td>ruth-less-ly</td><td>rūth-lėss-lẏ</td><td>adv. in a ruthless manner</td></tr>
+<tr><td>ruthlessness</td><td>rūthlėssnėss</td><td>ruth-less-ness</td><td>rūth-lėss-nėss</td><td>n. mercilessness characterized by a lack of pity</td></tr>
 <tr><td>rye</td><td>rȳe</td><td>rye</td><td>rȳe</td><td>n. a hardy cereal grass; whiskey made from rye grain</td></tr>
 <tr><td>ryegrass</td><td>rȳ𝕖grass</td><td>rye-grass</td><td>rȳ𝕖-grass</td><td>n any of several annual or perennial Eurasian grasses</td></tr>
 </tbody>
